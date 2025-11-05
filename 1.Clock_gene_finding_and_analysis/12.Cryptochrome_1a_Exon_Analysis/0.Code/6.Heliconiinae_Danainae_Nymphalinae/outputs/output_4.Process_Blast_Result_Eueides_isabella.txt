@@ -1,0 +1,634 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Eueides_isabella
+Processing Exon_2
+0 query coordinate
+Period_gene_genomic_sequence_individual_exon
+48
+[[2, 1]]
+reached here
+Before splice: 386,532
+after splice: 386,532
+sequence:
+ACCAAAGTAGTGGGGTACAACCGTATGCGTTATCTCCTGGAGGCCCTGAACGATCTCGATGTTCAGTTCAGGAAGTACGGTGGGCGATTGCACATGATAAAGGGGAAACCTGATGTTGTCTTCAAACGTCTTTGGGAAGAATTTG
+sequence:
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEEF
+left = ag, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEEF
+[[2, 1]]
+start_coordinate : 13599141,stop_coordinate : 13599284
+386 532 Y N
+Eueides_isabella,,13599139,13599285,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Eueides_isabella
+Processing Exon_3
+Eueides_isabella_coordinates_Danaus_plexippus.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 2216,2403
+after splice: 2216,2403
+sequence:
+ATCCGTAAAATCTGCTTCGAACAGGACTGCGAGCCAATCTGGCGGCCCCGCGATGACGGTGTACGCACATTGTGTCGCGAGATCGGTGTCTCGTGTCGGGAGCACGTGTCGCACACGCTGTGGGACCCCGACACTGTCATTAGAGCCAATGGGGGTATACCGCCGTTGACGTATCAGATGTTTTTG
+sequence:
+IRKICFEQDCEPIWRPRDDGVRTLCREIGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+IRKICFEQDCEPIWRPRDDGVRTLCREIGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 13600971,stop_coordinate : 13601156
+2216 2403 Y N
+Eueides_isabella,,13600969,13601156,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Eueides_isabella
+Processing Exon_4
+Eueides_isabella_coordinates_Danaus_plexippus.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 2890,3006
+after splice: 2890,3006
+sequence:
+cACACCGTGGCCATCATCGGCGACCCGCCTCGCCCGGTCGATGATGTTGACTTGAAAGGAATCAATTTTGGATCACTACCCGACAGTTTTTACAACGAATTTACTATATATGACAAg
+sequence:
+HTVAIIGDPPRPVDDVDLKGINFGSLPDSFYNEFTIYDK
+left = ag, right =gt, stop_counter = 0
+HTVAIIGDPPRPVDDVDLKGINFGSLPDSFYNEFTIYDK
+[[0, 0]]
+start_coordinate : 13601643,stop_coordinate : 13601759
+2890 3006 Y N
+Eueides_isabella,,13601643,13601759,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Eueides_isabella
+Processing Exon_5
+Eueides_isabella_coordinates_Danaus_plexippus.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 3342,3475
+after splice: 3342,3475
+sequence:
+gcCCCTAAACCAGAAGATCTAGGAGTTTTCCTAGAAAACGAAGACATTCGTATGATACGCTGGGTGGGAGGGGAGACGACCGCCTTAAACCAGATGCAAAGTCGCTTGGCGGTGGAGTATGAAACGTTTTGCAG
+sequence:
+APKPEDLGVFLENEDIRMIRWVGGETTALNQMQSRLAVEYETFC
+left = ag, right =GT, stop_counter = 0
+APKPEDLGVFLENEDIRMIRWVGGETTALNQMQSRLAVEYETFC
+[[0, 2]]
+start_coordinate : 13602095,stop_coordinate : 13602226
+3342 3475 Y N
+Eueides_isabella,,13602095,13602228,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Eueides_isabella
+Processing Exon_6
+Eueides_isabella_coordinates_Danaus_plexippus.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 4729,4824
+after splice: 4729,4824
+sequence:
+GGATCATATTTACCTACTCACGGGAACCCCGATTTATTGGGACGTCCCATATCTTTGAGTCCAGCTCTGCGATTCGGATGTCTTTCTGTGAGGCG
+sequence:
+GSYLPTHGNPDLLGRPISLSPALRFGCLSVR
+left = ag, right =GT, stop_counter = 0
+GSYLPTHGNPDLLGRPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 13603483,stop_coordinate : 13603575
+4729 4824 Y N
+Eueides_isabella,,13603482,13603577,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Eueides_isabella
+Processing Exon_7
+Eueides_isabella_coordinates_Danaus_plexippus.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 6066,6139
+after splice: 6066,6139
+sequence:
+ttttattggtGCGTCCAAGATTTGTTCCACCAAGTGAACCAGGGACAGCTCGCCTCTACTCAGTTTATTACGG
+sequence:
+FYWCVQDLFHQVNQGQLASTQFIT
+left = ag, right =GT, stop_counter = 0
+FYWCVQDLFHQVNQGQLASTQFIT
+[[1, 1]]
+start_coordinate : 13604820,stop_coordinate : 13604891
+6066 6139 Y N
+Eueides_isabella,,13604819,13604892,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Eueides_isabella
+Processing Exon_8
+Eueides_isabella_coordinates_Danaus_plexippus.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 6471,6597
+after splice: 6471,6597
+sequence:
+CAACTGATATGGCGCGAGTATTTCTACACGATGAGCGTGACCAACCCTAACTACGGCCAAATGGGCAACAATCCCATATGTCTGAACATCCCTTGGAAGGAACCTGAAGGGGACGAACTGCAGAG
+sequence:
+QLIWREYFYTMSVTNPNYGQMGNNPICLNIPWKEPEGDELQ
+left = ag, right =GT, stop_counter = 0
+QLIWREYFYTMSVTNPNYGQMGNNPICLNIPWKEPEGDELQ
+[[2, 2]]
+start_coordinate : 13605226,stop_coordinate : 13605348
+6471 6597 Y N
+Eueides_isabella,,13605224,13605350,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Eueides_isabella
+Processing Exon_9
+Eueides_isabella_coordinates_Danaus_plexippus.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 7769,7951
+after splice: 7769,7951
+sequence:
+TGGCGTGAGGGGCGCACCGGGTTCCCTTTCATAGACGCCGCGATGCGTCAGCTCCGCACCGAGGGCTGGCTGCATCACGCCGTGCGGAACACTGTGGCGTCGTTCCTGACGCGCGGCACTCTGTGGTTGTCCTGGGAACACGGGCTCAACCACTTTCTGAAGTACTTGTTGGACGCTGATTG
+sequence:
+WREGRTGFPFIDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WREGRTGFPFIDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 13606523,stop_coordinate : 13606702
+7769 7951 Y N
+Eueides_isabella,,13606522,13606704,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Eueides_isabella
+Processing Exon_10
+Eueides_isabella_coordinates_Danaus_plexippus.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 9264,9431
+after splice: 9264,9431
+sequence:
+TCAGTGTGCGCCGGCAACTGGATGTGGGTGTCGTCGTCGGCGTTCGAGGCGCTGCTGGACTCGGGCGAGTGCGCGTGCCCCGTGCGCCTCGGCCGCCGCCTCGAGCCCAGCGGGCACTACGTGCGCCGCTACGTGCCCGAGCTGGCCAACATGCCAGTGGAGTACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELANMPVEY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELANMPVEY
+[[1, 2]]
+start_coordinate : 13608018,stop_coordinate : 13608182
+9264 9431 Y N
+Eueides_isabella,,13608017,13608184,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Eueides_isabella
+Processing Exon_11
+Eueides_isabella_coordinates_Danaus_plexippus.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 11544,11664
+after splice: 11544,11664
+sequence:
+TACGAGCCGTGGACGGCGCCGCTGCAAGTGCAGCAGCGCGTGGGCTGCGTGGTGGGGCGCGACTACCCGTCGCCCGTGGTCGACcaccgcgccgccgccgcgcgcaaCCGCAACGCCATG
+sequence:
+YEPWTAPLQVQQRVGCVVGRDYPSPVVDHRAAAARNRNAM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACGAGCCGTGGACGGCGCCGCTGCAAGTGCAGCAGCGCGTGGGCTGCGTGGTGGGGCGCGACTACCCGTCGCCCGTGGTCGACcaccgcgccgccgccgcgcgcaaCCGCAACGCCATGCAG
+sequence:
+YEPWTAPLQVQQRVGCVVGRDYPSPVVDHRAAAARNRNAMQ
+left = AG, right =GT, stop_counter = 0
+YEPWTAPLQVQQRVGCVVGRDYPSPVVDHRAAAARNRNAMQ
+[[1, 0]]
+start_coordinate : 13610298,stop_coordinate : 13610420
+11544 11667 Y N
+Eueides_isabella,,13610297,13610420,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Eueides_isabella
+Processing Exon_2
+0 query coordinate
+Eueides_isabella_coordinates_Danaus_plexippus.csv
+46
+[[2, 1]]
+reached here
+Before splice: 386,526
+after splice: 386,526
+sequence:
+ACCAAAGTAGTGGGGTACAACCGTATGCGTTATCTCCTGGAGGCCCTGAACGATCTCGATGTTCAGTTCAGGAAGTACGGTGGGCGATTGCACATGATAAAGGGGAAACCTGATGTTGTCTTCAAACGTCTTTGGGAAG
+sequence:
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWE
+left = ag, right =AA, stop_counter = 0
+sequence:
+ACCAAAGTAGTGGGGTACAACCGTATGCGTTATCTCCTGGAGGCCCTGAACGATCTCGATGTTCAGTTCAGGAAGTACGGTGGGCGATTGCACATGATAAAGGGGAAACCTGATGTTGTCTTCAAACGTCTTTGGGAAGAAT
+sequence:
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEE
+left = ag, right =TT, stop_counter = 0
+sequence:
+ACCAAAGTAGTGGGGTACAACCGTATGCGTTATCTCCTGGAGGCCCTGAACGATCTCGATGTTCAGTTCAGGAAGTACGGTGGGCGATTGCACATGATAAAGGGGAAACCTGATGTTGTCTTCAAACGTCTTTGGGAAGAATTTG
+sequence:
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEEF
+left = ag, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEEF
+[[2, 1]]
+start_coordinate : 13599141,stop_coordinate : 13599284
+386 532 Y N
+Eueides_isabella,,13599139,13599285,0,N,Nymphalis_io_XM_050489987.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Eueides_isabella
+Processing Exon_3
+Eueides_isabella_coordinates_Nymphalis_io.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 2216,2403
+after splice: 2216,2403
+sequence:
+ATCCGTAAAATCTGCTTCGAACAGGACTGCGAGCCAATCTGGCGGCCCCGCGATGACGGTGTACGCACATTGTGTCGCGAGATCGGTGTCTCGTGTCGGGAGCACGTGTCGCACACGCTGTGGGACCCCGACACTGTCATTAGAGCCAATGGGGGTATACCGCCGTTGACGTATCAGATGTTTTTG
+sequence:
+IRKICFEQDCEPIWRPRDDGVRTLCREIGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+IRKICFEQDCEPIWRPRDDGVRTLCREIGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 13600971,stop_coordinate : 13601156
+2216 2403 Y N
+Eueides_isabella,,13600969,13601156,0,N,Nymphalis_io_XM_050489987.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Eueides_isabella
+Processing Exon_4
+Eueides_isabella_coordinates_Nymphalis_io.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 2890,3006
+after splice: 2890,3006
+sequence:
+cACACCGTGGCCATCATCGGCGACCCGCCTCGCCCGGTCGATGATGTTGACTTGAAAGGAATCAATTTTGGATCACTACCCGACAGTTTTTACAACGAATTTACTATATATGACAAg
+sequence:
+HTVAIIGDPPRPVDDVDLKGINFGSLPDSFYNEFTIYDK
+left = ag, right =gt, stop_counter = 0
+HTVAIIGDPPRPVDDVDLKGINFGSLPDSFYNEFTIYDK
+[[0, 0]]
+start_coordinate : 13601643,stop_coordinate : 13601759
+2890 3006 Y N
+Eueides_isabella,,13601643,13601759,0,N,Nymphalis_io_XM_050489987.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Eueides_isabella
+Processing Exon_5
+Eueides_isabella_coordinates_Nymphalis_io.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 3342,3475
+after splice: 3342,3475
+sequence:
+gcCCCTAAACCAGAAGATCTAGGAGTTTTCCTAGAAAACGAAGACATTCGTATGATACGCTGGGTGGGAGGGGAGACGACCGCCTTAAACCAGATGCAAAGTCGCTTGGCGGTGGAGTATGAAACGTTTTGCAG
+sequence:
+APKPEDLGVFLENEDIRMIRWVGGETTALNQMQSRLAVEYETFC
+left = ag, right =GT, stop_counter = 0
+APKPEDLGVFLENEDIRMIRWVGGETTALNQMQSRLAVEYETFC
+[[0, 2]]
+start_coordinate : 13602095,stop_coordinate : 13602226
+3342 3475 Y N
+Eueides_isabella,,13602095,13602228,0,N,Nymphalis_io_XM_050489987.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Eueides_isabella
+Processing Exon_6
+Eueides_isabella_coordinates_Nymphalis_io.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 4729,4824
+after splice: 4729,4824
+sequence:
+GGATCATATTTACCTACTCACGGGAACCCCGATTTATTGGGACGTCCCATATCTTTGAGTCCAGCTCTGCGATTCGGATGTCTTTCTGTGAGGCG
+sequence:
+GSYLPTHGNPDLLGRPISLSPALRFGCLSVR
+left = ag, right =GT, stop_counter = 0
+GSYLPTHGNPDLLGRPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 13603483,stop_coordinate : 13603575
+4729 4824 Y N
+Eueides_isabella,,13603482,13603577,0,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Eueides_isabella
+Processing Exon_7
+Eueides_isabella_coordinates_Nymphalis_io.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 6066,6139
+after splice: 6066,6139
+sequence:
+ttttattggtGCGTCCAAGATTTGTTCCACCAAGTGAACCAGGGACAGCTCGCCTCTACTCAGTTTATTACGG
+sequence:
+FYWCVQDLFHQVNQGQLASTQFIT
+left = ag, right =GT, stop_counter = 0
+FYWCVQDLFHQVNQGQLASTQFIT
+[[1, 1]]
+start_coordinate : 13604820,stop_coordinate : 13604891
+6066 6139 Y N
+Eueides_isabella,,13604819,13604892,0,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Eueides_isabella
+Processing Exon_8
+Eueides_isabella_coordinates_Nymphalis_io.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 6471,6597
+after splice: 6471,6597
+sequence:
+CAACTGATATGGCGCGAGTATTTCTACACGATGAGCGTGACCAACCCTAACTACGGCCAAATGGGCAACAATCCCATATGTCTGAACATCCCTTGGAAGGAACCTGAAGGGGACGAACTGCAGAG
+sequence:
+QLIWREYFYTMSVTNPNYGQMGNNPICLNIPWKEPEGDELQ
+left = ag, right =GT, stop_counter = 0
+QLIWREYFYTMSVTNPNYGQMGNNPICLNIPWKEPEGDELQ
+[[2, 2]]
+start_coordinate : 13605226,stop_coordinate : 13605348
+6471 6597 Y N
+Eueides_isabella,,13605224,13605350,0,N,Nymphalis_io_XM_050489987.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Eueides_isabella
+Processing Exon_9
+Eueides_isabella_coordinates_Nymphalis_io.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 7769,7951
+after splice: 7769,7951
+sequence:
+TGGCGTGAGGGGCGCACCGGGTTCCCTTTCATAGACGCCGCGATGCGTCAGCTCCGCACCGAGGGCTGGCTGCATCACGCCGTGCGGAACACTGTGGCGTCGTTCCTGACGCGCGGCACTCTGTGGTTGTCCTGGGAACACGGGCTCAACCACTTTCTGAAGTACTTGTTGGACGCTGATTG
+sequence:
+WREGRTGFPFIDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WREGRTGFPFIDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 13606523,stop_coordinate : 13606702
+7769 7951 Y N
+Eueides_isabella,,13606522,13606704,0,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Eueides_isabella
+Processing Exon_10
+Eueides_isabella_coordinates_Nymphalis_io.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 9264,9431
+after splice: 9264,9431
+sequence:
+TCAGTGTGCGCCGGCAACTGGATGTGGGTGTCGTCGTCGGCGTTCGAGGCGCTGCTGGACTCGGGCGAGTGCGCGTGCCCCGTGCGCCTCGGCCGCCGCCTCGAGCCCAGCGGGCACTACGTGCGCCGCTACGTGCCCGAGCTGGCCAACATGCCAGTGGAGTACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELANMPVEY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELANMPVEY
+[[1, 2]]
+start_coordinate : 13608018,stop_coordinate : 13608182
+9264 9431 Y N
+Eueides_isabella,,13608017,13608184,0,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Eueides_isabella
+Processing Exon_11
+Eueides_isabella_coordinates_Nymphalis_io.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 11544,11664
+after splice: 11544,11664
+sequence:
+TACGAGCCGTGGACGGCGCCGCTGCAAGTGCAGCAGCGCGTGGGCTGCGTGGTGGGGCGCGACTACCCGTCGCCCGTGGTCGACcaccgcgccgccgccgcgcgcaaCCGCAACGCCATG
+sequence:
+YEPWTAPLQVQQRVGCVVGRDYPSPVVDHRAAAARNRNAM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACGAGCCGTGGACGGCGCCGCTGCAAGTGCAGCAGCGCGTGGGCTGCGTGGTGGGGCGCGACTACCCGTCGCCCGTGGTCGACcaccgcgccgccgccgcgcgcaaCCGCAACGCCATGCAG
+sequence:
+YEPWTAPLQVQQRVGCVVGRDYPSPVVDHRAAAARNRNAMQ
+left = AG, right =GT, stop_counter = 0
+YEPWTAPLQVQQRVGCVVGRDYPSPVVDHRAAAARNRNAMQ
+[[1, 0]]
+start_coordinate : 13610298,stop_coordinate : 13610420
+11544 11667 Y N
+Eueides_isabella,,13610297,13610420,0,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Eueides_isabella
+Processing Exon_2
+0 query coordinate
+Eueides_isabella_coordinates_Nymphalis_io.csv
+47
+[[2, 1]]
+reached here
+Before splice: 386,529
+after splice: 386,529
+sequence:
+ACCAAAGTAGTGGGGTACAACCGTATGCGTTATCTCCTGGAGGCCCTGAACGATCTCGATGTTCAGTTCAGGAAGTACGGTGGGCGATTGCACATGATAAAGGGGAAACCTGATGTTGTCTTCAAACGTCTTTGGGAAGAAT
+sequence:
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEE
+left = ag, right =TT, stop_counter = 0
+sequence:
+ACCAAAGTAGTGGGGTACAACCGTATGCGTTATCTCCTGGAGGCCCTGAACGATCTCGATGTTCAGTTCAGGAAGTACGGTGGGCGATTGCACATGATAAAGGGGAAACCTGATGTTGTCTTCAAACGTCTTTGGGAAGAATTTG
+sequence:
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEEF
+left = ag, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEEF
+[[2, 1]]
+start_coordinate : 13599141,stop_coordinate : 13599284
+386 532 Y N
+Eueides_isabella,,13599139,13599285,0,N,Vanessa_tameamea_XM_026643186.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Eueides_isabella
+Processing Exon_3
+Eueides_isabella_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 2216,2403
+after splice: 2216,2403
+sequence:
+ATCCGTAAAATCTGCTTCGAACAGGACTGCGAGCCAATCTGGCGGCCCCGCGATGACGGTGTACGCACATTGTGTCGCGAGATCGGTGTCTCGTGTCGGGAGCACGTGTCGCACACGCTGTGGGACCCCGACACTGTCATTAGAGCCAATGGGGGTATACCGCCGTTGACGTATCAGATGTTTTTG
+sequence:
+IRKICFEQDCEPIWRPRDDGVRTLCREIGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+IRKICFEQDCEPIWRPRDDGVRTLCREIGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 13600971,stop_coordinate : 13601156
+2216 2403 Y N
+Eueides_isabella,,13600969,13601156,0,N,Vanessa_tameamea_XM_026643186.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Eueides_isabella
+Processing Exon_4
+Eueides_isabella_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 2890,3006
+after splice: 2890,3006
+sequence:
+cACACCGTGGCCATCATCGGCGACCCGCCTCGCCCGGTCGATGATGTTGACTTGAAAGGAATCAATTTTGGATCACTACCCGACAGTTTTTACAACGAATTTACTATATATGACAAg
+sequence:
+HTVAIIGDPPRPVDDVDLKGINFGSLPDSFYNEFTIYDK
+left = ag, right =gt, stop_counter = 0
+HTVAIIGDPPRPVDDVDLKGINFGSLPDSFYNEFTIYDK
+[[0, 0]]
+start_coordinate : 13601643,stop_coordinate : 13601759
+2890 3006 Y N
+Eueides_isabella,,13601643,13601759,0,N,Vanessa_tameamea_XM_026643186.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Eueides_isabella
+Processing Exon_5
+Eueides_isabella_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 3342,3475
+after splice: 3342,3475
+sequence:
+gcCCCTAAACCAGAAGATCTAGGAGTTTTCCTAGAAAACGAAGACATTCGTATGATACGCTGGGTGGGAGGGGAGACGACCGCCTTAAACCAGATGCAAAGTCGCTTGGCGGTGGAGTATGAAACGTTTTGCAG
+sequence:
+APKPEDLGVFLENEDIRMIRWVGGETTALNQMQSRLAVEYETFC
+left = ag, right =GT, stop_counter = 0
+APKPEDLGVFLENEDIRMIRWVGGETTALNQMQSRLAVEYETFC
+[[0, 2]]
+start_coordinate : 13602095,stop_coordinate : 13602226
+3342 3475 Y N
+Eueides_isabella,,13602095,13602228,0,N,Vanessa_tameamea_XM_026643186.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Eueides_isabella
+Processing Exon_6
+Eueides_isabella_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 4729,4824
+after splice: 4729,4824
+sequence:
+GGATCATATTTACCTACTCACGGGAACCCCGATTTATTGGGACGTCCCATATCTTTGAGTCCAGCTCTGCGATTCGGATGTCTTTCTGTGAGGCG
+sequence:
+GSYLPTHGNPDLLGRPISLSPALRFGCLSVR
+left = ag, right =GT, stop_counter = 0
+GSYLPTHGNPDLLGRPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 13603483,stop_coordinate : 13603575
+4729 4824 Y N
+Eueides_isabella,,13603482,13603577,0,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Eueides_isabella
+Processing Exon_7
+Eueides_isabella_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 6066,6139
+after splice: 6066,6139
+sequence:
+ttttattggtGCGTCCAAGATTTGTTCCACCAAGTGAACCAGGGACAGCTCGCCTCTACTCAGTTTATTACGG
+sequence:
+FYWCVQDLFHQVNQGQLASTQFIT
+left = ag, right =GT, stop_counter = 0
+FYWCVQDLFHQVNQGQLASTQFIT
+[[1, 1]]
+start_coordinate : 13604820,stop_coordinate : 13604891
+6066 6139 Y N
+Eueides_isabella,,13604819,13604892,0,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Eueides_isabella
+Processing Exon_8
+Eueides_isabella_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 6471,6597
+after splice: 6471,6597
+sequence:
+CAACTGATATGGCGCGAGTATTTCTACACGATGAGCGTGACCAACCCTAACTACGGCCAAATGGGCAACAATCCCATATGTCTGAACATCCCTTGGAAGGAACCTGAAGGGGACGAACTGCAGAG
+sequence:
+QLIWREYFYTMSVTNPNYGQMGNNPICLNIPWKEPEGDELQ
+left = ag, right =GT, stop_counter = 0
+QLIWREYFYTMSVTNPNYGQMGNNPICLNIPWKEPEGDELQ
+[[2, 2]]
+start_coordinate : 13605226,stop_coordinate : 13605348
+6471 6597 Y N
+Eueides_isabella,,13605224,13605350,0,N,Vanessa_tameamea_XM_026643186.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Eueides_isabella
+Processing Exon_9
+Eueides_isabella_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 7769,7951
+after splice: 7769,7951
+sequence:
+TGGCGTGAGGGGCGCACCGGGTTCCCTTTCATAGACGCCGCGATGCGTCAGCTCCGCACCGAGGGCTGGCTGCATCACGCCGTGCGGAACACTGTGGCGTCGTTCCTGACGCGCGGCACTCTGTGGTTGTCCTGGGAACACGGGCTCAACCACTTTCTGAAGTACTTGTTGGACGCTGATTG
+sequence:
+WREGRTGFPFIDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WREGRTGFPFIDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 13606523,stop_coordinate : 13606702
+7769 7951 Y N
+Eueides_isabella,,13606522,13606704,0,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Eueides_isabella
+Processing Exon_10
+Eueides_isabella_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 9264,9431
+after splice: 9264,9431
+sequence:
+TCAGTGTGCGCCGGCAACTGGATGTGGGTGTCGTCGTCGGCGTTCGAGGCGCTGCTGGACTCGGGCGAGTGCGCGTGCCCCGTGCGCCTCGGCCGCCGCCTCGAGCCCAGCGGGCACTACGTGCGCCGCTACGTGCCCGAGCTGGCCAACATGCCAGTGGAGTACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELANMPVEY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELANMPVEY
+[[1, 2]]
+start_coordinate : 13608018,stop_coordinate : 13608182
+9264 9431 Y N
+Eueides_isabella,,13608017,13608184,0,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Eueides_isabella
+Processing Exon_11
+Eueides_isabella_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 11544,11664
+after splice: 11544,11664
+sequence:
+TACGAGCCGTGGACGGCGCCGCTGCAAGTGCAGCAGCGCGTGGGCTGCGTGGTGGGGCGCGACTACCCGTCGCCCGTGGTCGACcaccgcgccgccgccgcgcgcaaCCGCAACGCCATG
+sequence:
+YEPWTAPLQVQQRVGCVVGRDYPSPVVDHRAAAARNRNAM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACGAGCCGTGGACGGCGCCGCTGCAAGTGCAGCAGCGCGTGGGCTGCGTGGTGGGGCGCGACTACCCGTCGCCCGTGGTCGACcaccgcgccgccgccgcgcgcaaCCGCAACGCCATGCAG
+sequence:
+YEPWTAPLQVQQRVGCVVGRDYPSPVVDHRAAAARNRNAMQ
+left = AG, right =GT, stop_counter = 0
+YEPWTAPLQVQQRVGCVVGRDYPSPVVDHRAAAARNRNAMQ
+[[1, 0]]
+start_coordinate : 13610298,stop_coordinate : 13610420
+11544 11667 Y N
+Eueides_isabella,,13610297,13610420,0,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+

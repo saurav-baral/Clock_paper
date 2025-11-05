@@ -1,0 +1,456 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = OY730185.1, start = 15707336, end = 15707601
+Polyommatus_iphigenia,OY730185.1,15707674,15707925,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Polyommatus_iphigenia,OY730185.1,15707336,15707601,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_1,1,86,86
+
+Polyommatus_iphigenia,OY730185.1,15715278,15715449,0,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set2_frame0, 0.2
+5 top scores:
+[['set16_frame1', 1.877], ['set2_frame0', 0.2], ['set33_frame1', 1.879], ['set88_frame0', 1.881], ['set11_frame2', 1.891]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Polyommatus_iphigenia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_2_frame0.fa.txt
+20 103
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDKNLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIQVTSRVSHTLYKLD
+20 103
+set2_frame0
+FLLQCLEDLDNSLKKLNSRLFVVRGQPADALPKLFREWGTTFLTFEEDPEPYGRVRDQNITTKCQEVGISVVSRVSHTLYKLD
+Original query = FLLQCLEDLDKNLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIQVTSRVSHTLYKLD
+New query = FLLQCLEDLDNSLKKLNSRLFVVRGQPADALPKLFREWGTTFLTFEEDPEPYGRVRDQNITTKCQEVGISVVSRVSHTLYKLD
+Scaffold = OY730185.1, start = 15707336, end = 15707601
+Polyommatus_iphigenia,OY730185.1,15708239,15708423,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Polyommatus_iphigenia,OY730185.1,15707336,15707601,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_1,1,86,86
+
+Polyommatus_iphigenia,OY730185.1,15715834,15716059,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set16_frame1, 0.379
+5 top scores:
+[['set16_frame1', 0.379], ['set109_frame2', 1.75], ['set3_frame1', 1.79], ['set24_frame1', 1.834], ['set33_frame0', 1.833]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Polyommatus_iphigenia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_16_frame1.fa.txt
+4 65
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3
+IIEKNGGKAPLTYHQFQALIASMPPPPSAEPTISLETLNRAVTPISDNHDERFGVPTLEEL
+4 65
+set16_frame1
+IIERNGGKAPLTYHQFQALIASMPPPPRAESTITKQTMNGAMTPILQDHDDRFGVPSLEEL
+Original query = IIEKNGGKAPLTYHQFQALIASMPPPPSAEPTISLETLNRAVTPISDNHDERFGVPTLEEL
+New query = IIERNGGKAPLTYHQFQALIASMPPPPRAESTITKQTMNGAMTPILQDHDDRFGVPSLEEL
+Scaffold = OY730185.1, start = 15707336, end = 15707601
+Polyommatus_iphigenia,OY730185.1,15715278,15715449,0,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Polyommatus_iphigenia,OY730185.1,15707674,15707925,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Polyommatus_iphigenia,OY730185.1,15718069,15718209,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set157_frame1, 0.184
+5 top scores:
+[['set157_frame1', 0.184], ['set207_frame0', 1.714], ['set181_frame2', 1.751], ['set11_frame2', 1.797], ['set230_frame2', 1.815]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Polyommatus_iphigenia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_157_frame1.fa.txt
+4 60
+Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4
+FDTEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPESLLSSQTGLSPYL
+4 60
+set157_frame1
+FDTENLKPPVWLGGENEALARLERHLERKAWVATFGRPKMTPQSLLASSTGLSPYL
+Original query = FDTEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPESLLSSQTGLSPYL
+New query = FDTENLKPPVWLGGENEALARLERHLERKAWVATFGRPKMTPQSLLASSTGLSPYL
+Scaffold = OY730185.1, start = 15707336, end = 15707601
+Polyommatus_iphigenia,OY730185.1,15715834,15716059,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Polyommatus_iphigenia,OY730185.1,15708239,15708423,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Polyommatus_iphigenia,OY730185.1,15718794,15718945,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7,1,49,50
+
+Getting Gene
+min = set160_frame0, 0.115
+5 top scores:
+[['set160_frame0', 0.115], ['set206_frame0', 1.768], ['set218_frame2', 1.824], ['set142_frame0', 1.847], ['set152_frame0', 1.841]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Polyommatus_iphigenia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_160_frame0.fa.txt
+4 79
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAN
+4 79
+set160_frame0
+FGCLSTRLFYFQLTELYKRVKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+Original query = FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAN
+New query = FGCLSTRLFYFQLTELYKRVKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+Scaffold = OY730185.1, start = 15707336, end = 15707601
+Polyommatus_iphigenia,OY730185.1,15718069,15718209,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Polyommatus_iphigenia,OY730185.1,15715278,15715449,0,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Polyommatus_iphigenia,OY730185.1,15719309,15719511,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set58_frame1, 0.071
+5 top scores:
+[['set58_frame1', 0.071], ['set28_frame1', 1.797], ['set73_frame1', 1.819], ['set40_frame0', 1.787], ['set18_frame2', 1.823]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Polyommatus_iphigenia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_58_frame1.fa.txt
+3 50
+Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6
+GQTGFPWIDAIMIQLRNDGWIHHLARHAVACFLTRGDLWISWEEGMK
+3 50
+set58_frame1
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GQTGFPWIDAIMIQLRNDGWIHHLARHAVACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = OY730185.1, start = 15707336, end = 15707601
+Polyommatus_iphigenia,OY730185.1,15718794,15718945,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7,1,49,50
+
+5
+8
+Polyommatus_iphigenia,OY730185.1,15715834,15716059,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Polyommatus_iphigenia,OY730185.1,15719309,15719511,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set68_frame2, 0.057
+5 top scores:
+[['set68_frame2', 0.057], ['set47_frame1', 1.795], ['set37_frame2', 1.807], ['set18_frame0', 1.829], ['set20_frame0', 1.832]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Polyommatus_iphigenia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_68_frame2.fa.txt
+0 50
+Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+0 50
+set68_frame2
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFARKTDPNGDYI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFARKTDPNGDYI
+Scaffold = OY730185.1, start = 15707336, end = 15707601
+Polyommatus_iphigenia,OY730185.1,15719309,15719511,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Polyommatus_iphigenia,OY730185.1,15718069,15718209,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Polyommatus_iphigenia,OY730185.1,15719309,15719511,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set30_frame2, 0.419
+5 top scores:
+[['set1_frame0', 1.856], ['set23_frame0', 1.877], ['set7_frame1', 1.891], ['set30_frame2', 0.419]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Polyommatus_iphigenia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_30_frame2.fa.txt
+10 76
+set30_frame2
+KYVPALKNMPAKYIHEPWMAPLPVQESAQCIIGRDYPLPMVDHCKASAINIERIKQVYAQLAKYKP
+Original query = KYIPVLKNMPTRYIHEPWVCPEEIQKSIRCIIGKDYPMPIVDHTKASEINLERIKQVYAQLAKFKPQ
+New query = KYVPALKNMPAKYIHEPWMAPLPVQESAQCIIGRDYPLPMVDHCKASAINIERIKQVYAQLAKYKP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = OY730185.1, start = 15707336, end = 15707601
+Polyommatus_iphigenia,OY730185.1,15707674,15707925,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Polyommatus_iphigenia,OY730185.1,15707336,15707601,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_1,1,86,86
+
+Polyommatus_iphigenia,OY730185.1,15715278,15715449,0,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set2_frame0, 0.0
+5 top scores:
+[['set11_frame2', 1.859], ['set2_frame0', 0.0], ['set16_frame1', 1.883], ['set88_frame0', 1.892], ['set105_frame0', 1.894]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Polyommatus_iphigenia/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_2_frame0.fa.txt
+20 103
+Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDNSLKKLNSRLFVVRGQPADALPKLFREWGTTFLTFEEDPEPYGRVRDQNITTKCQEVGISVVSRVSHTLYKLD
+20 103
+set2_frame0
+FLLQCLEDLDNSLKKLNSRLFVVRGQPADALPKLFREWGTTFLTFEEDPEPYGRVRDQNITTKCQEVGISVVSRVSHTLYKLD
+Original query = FLLQCLEDLDNSLKKLNSRLFVVRGQPADALPKLFREWGTTFLTFEEDPEPYGRVRDQNITTKCQEVGISVVSRVSHTLYKLD
+New query = FLLQCLEDLDNSLKKLNSRLFVVRGQPADALPKLFREWGTTFLTFEEDPEPYGRVRDQNITTKCQEVGISVVSRVSHTLYKLD
+Scaffold = OY730185.1, start = 15707336, end = 15707601
+Polyommatus_iphigenia,OY730185.1,15708239,15708423,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Polyommatus_iphigenia,OY730185.1,15707336,15707601,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_1,1,86,86
+
+Polyommatus_iphigenia,OY730185.1,15715834,15716059,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set16_frame1, 0.063
+5 top scores:
+[['set16_frame1', 0.063], ['set3_frame1', 1.793], ['set9_frame1', 1.795], ['set24_frame1', 1.803], ['set33_frame0', 1.815]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Polyommatus_iphigenia/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_16_frame1.fa.txt
+4 65
+Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3
+IIERNGGKAPLTYHQFQALIASMPPPPAAESTITKQTLNGAMTPILQDHDDRFGVPTLEEL
+4 65
+set16_frame1
+IIERNGGKAPLTYHQFQALIASMPPPPRAESTITKQTMNGAMTPILQDHDDRFGVPSLEEL
+Original query = IIERNGGKAPLTYHQFQALIASMPPPPAAESTITKQTLNGAMTPILQDHDDRFGVPTLEEL
+New query = IIERNGGKAPLTYHQFQALIASMPPPPRAESTITKQTMNGAMTPILQDHDDRFGVPSLEEL
+Scaffold = OY730185.1, start = 15707336, end = 15707601
+Polyommatus_iphigenia,OY730185.1,15715278,15715449,0,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Polyommatus_iphigenia,OY730185.1,15707674,15707925,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Polyommatus_iphigenia,OY730185.1,15718069,15718209,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set157_frame1, 0.026
+5 top scores:
+[['set157_frame1', 0.026], ['set207_frame0', 1.703], ['set181_frame2', 1.778], ['set87_frame1', 1.813], ['set28_frame2', 1.825]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Polyommatus_iphigenia/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_157_frame1.fa.txt
+4 60
+Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4
+FDTENLKPPIWIGGENEALARLERHLERKAWVATFGRPKMTPQSLLASSTGLSPYL
+4 60
+set157_frame1
+FDTENLKPPVWLGGENEALARLERHLERKAWVATFGRPKMTPQSLLASSTGLSPYL
+Original query = FDTENLKPPIWIGGENEALARLERHLERKAWVATFGRPKMTPQSLLASSTGLSPYL
+New query = FDTENLKPPVWLGGENEALARLERHLERKAWVATFGRPKMTPQSLLASSTGLSPYL
+Scaffold = OY730185.1, start = 15707336, end = 15707601
+Polyommatus_iphigenia,OY730185.1,15715834,15716059,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Polyommatus_iphigenia,OY730185.1,15708239,15708423,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Polyommatus_iphigenia,OY730185.1,15718794,15718945,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7,1,49,50
+
+Getting Gene
+min = set160_frame0, 0.0
+5 top scores:
+[['set160_frame0', 0.0], ['set206_frame0', 1.743], ['set218_frame2', 1.824], ['set142_frame0', 1.815], ['set152_frame0', 1.823]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Polyommatus_iphigenia/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_160_frame0.fa.txt
+4 79
+Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYFQLTELYKRVKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+4 79
+set160_frame0
+FGCLSTRLFYFQLTELYKRVKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+Original query = FGCLSTRLFYFQLTELYKRVKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+New query = FGCLSTRLFYFQLTELYKRVKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+Scaffold = OY730185.1, start = 15707336, end = 15707601
+Polyommatus_iphigenia,OY730185.1,15718069,15718209,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Polyommatus_iphigenia,OY730185.1,15715278,15715449,0,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Polyommatus_iphigenia,OY730185.1,15719309,15719511,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set58_frame1, 0.033
+5 top scores:
+[['set58_frame1', 0.033], ['set28_frame1', 1.797], ['set18_frame2', 1.811], ['set40_frame0', 1.801], ['set47_frame0', 1.826]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Polyommatus_iphigenia/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_58_frame1.fa.txt
+3 50
+Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6
+GQTGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMK
+3 50
+set58_frame1
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GQTGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = OY730185.1, start = 15707336, end = 15707601
+Polyommatus_iphigenia,OY730185.1,15718794,15718945,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7,1,49,50
+
+5
+8
+Polyommatus_iphigenia,OY730185.1,15715834,15716059,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Polyommatus_iphigenia,OY730185.1,15719309,15719511,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set68_frame2, 0.057
+5 top scores:
+[['set68_frame2', 0.057], ['set47_frame1', 1.795], ['set37_frame2', 1.807], ['set18_frame0', 1.829], ['set20_frame0', 1.832]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Polyommatus_iphigenia/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_68_frame2.fa.txt
+0 50
+Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+0 50
+set68_frame2
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFARKTDPNGDYI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFARKTDPNGDYI
+Scaffold = OY730185.1, start = 15707336, end = 15707601
+Polyommatus_iphigenia,OY730185.1,15719309,15719511,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Polyommatus_iphigenia,OY730185.1,15718069,15718209,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Polyommatus_iphigenia,OY730185.1,15719309,15719511,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set30_frame2, 0.158
+5 top scores:
+[['set1_frame0', 1.83], ['set23_frame0', 1.817], ['set7_frame1', 1.911], ['set30_frame2', 0.158]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Polyommatus_iphigenia/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_30_frame2.fa.txt
+10 76
+set30_frame2
+KYVPALKNMPAKYIHEPWMAPLPVQESAQCIIGRDYPLPMVDHCKASAINIERIKQVYAQLAKYKP
+Original query = KYIPALKNMPAKYIHEPWVAPQPVQEAAQCIIGRDYPLPMVDHAKASKINIERIKQVYEQLAKYKPQ
+New query = KYVPALKNMPAKYIHEPWMAPLPVQESAQCIIGRDYPLPMVDHCKASAINIERIKQVYAQLAKYKP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = OY730185.1, start = 15707336, end = 15707601
+Polyommatus_iphigenia,OY730185.1,15707674,15707925,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Polyommatus_iphigenia,OY730185.1,15707336,15707601,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_1,1,86,86
+
+Polyommatus_iphigenia,OY730185.1,15715278,15715449,0,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set2_frame0, 0.137
+5 top scores:
+[['set11_frame2', 1.874], ['set2_frame0', 0.137], ['set16_frame1', 1.877], ['set88_frame0', 1.88], ['set105_frame0', 1.882]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Polyommatus_iphigenia/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_2_frame0.fa.txt
+20 103
+Maniola_jurtina_XM_045904525.1_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDSSLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGISVTSRVSHTLYKLD
+20 103
+set2_frame0
+FLLQCLEDLDNSLKKLNSRLFVVRGQPADALPKLFREWGTTFLTFEEDPEPYGRVRDQNITTKCQEVGISVVSRVSHTLYKLD
+Original query = FLLQCLEDLDSSLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGISVTSRVSHTLYKLD
+New query = FLLQCLEDLDNSLKKLNSRLFVVRGQPADALPKLFREWGTTFLTFEEDPEPYGRVRDQNITTKCQEVGISVVSRVSHTLYKLD
+Scaffold = OY730185.1, start = 15707336, end = 15707601
+Polyommatus_iphigenia,OY730185.1,15708239,15708423,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Polyommatus_iphigenia,OY730185.1,15707336,15707601,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_1,1,86,86
+
+Polyommatus_iphigenia,OY730185.1,15715834,15716059,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set16_frame1, 0.222
+5 top scores:
+[['set16_frame1', 0.222], ['set24_frame1', 1.733], ['set109_frame2', 1.798], ['set122_frame2', 1.835], ['set33_frame0', 1.801]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Polyommatus_iphigenia/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_16_frame1.fa.txt
+4 65
+Maniola_jurtina_XM_045904525.1_Frame_1_rightoh_1_query_Exon_3
+IIERNGGKAPLTYHQFQALIASMPPPPPAEASITVQTLNGAVTPIADDHDDRFGVPSLEEL
+4 65
+set16_frame1
+IIERNGGKAPLTYHQFQALIASMPPPPRAESTITKQTMNGAMTPILQDHDDRFGVPSLEEL
+Original query = IIERNGGKAPLTYHQFQALIASMPPPPPAEASITVQTLNGAVTPIADDHDDRFGVPSLEEL
+New query = IIERNGGKAPLTYHQFQALIASMPPPPRAESTITKQTMNGAMTPILQDHDDRFGVPSLEEL
+Scaffold = OY730185.1, start = 15707336, end = 15707601
+Polyommatus_iphigenia,OY730185.1,15715278,15715449,0,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Polyommatus_iphigenia,OY730185.1,15707674,15707925,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Polyommatus_iphigenia,OY730185.1,15718069,15718209,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set157_frame1, 0.21
+5 top scores:
+[['set157_frame1', 0.21], ['set207_frame0', 1.717], ['set181_frame2', 1.773], ['set230_frame2', 1.792], ['set28_frame2', 1.826]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Polyommatus_iphigenia/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_157_frame1.fa.txt
+4 60
+Maniola_jurtina_XM_045904525.1_Frame_2_rightoh_2_query_Exon_4
+FETEGLKPPIWVGGENEGLLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+4 60
+set157_frame1
+FDTENLKPPVWLGGENEALARLERHLERKAWVATFGRPKMTPQSLLASSTGLSPYL
+Original query = FETEGLKPPIWVGGENEGLLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+New query = FDTENLKPPVWLGGENEALARLERHLERKAWVATFGRPKMTPQSLLASSTGLSPYL
+Scaffold = OY730185.1, start = 15707336, end = 15707601
+Polyommatus_iphigenia,OY730185.1,15715834,15716059,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Polyommatus_iphigenia,OY730185.1,15708239,15708423,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Polyommatus_iphigenia,OY730185.1,15718794,15718945,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7,1,49,50
+
+Getting Gene
+min = set160_frame0, 0.088
+5 top scores:
+[['set160_frame0', 0.088], ['set206_frame0', 1.752], ['set218_frame2', 1.783], ['set142_frame0', 1.843], ['set152_frame0', 1.819]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Polyommatus_iphigenia/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_160_frame0.fa.txt
+4 79
+Maniola_jurtina_XM_045904525.1_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLTELYKRVKQVRPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQDALAKWAS
+4 79
+set160_frame0
+FGCLSTRLFYFQLTELYKRVKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+Original query = FGCLSTRLFYYQLTELYKRVKQVRPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQDALAKWAS
+New query = FGCLSTRLFYFQLTELYKRVKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+Scaffold = OY730185.1, start = 15707336, end = 15707601
+Polyommatus_iphigenia,OY730185.1,15718069,15718209,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Polyommatus_iphigenia,OY730185.1,15715278,15715449,0,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Polyommatus_iphigenia,OY730185.1,15719309,15719511,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set58_frame1, 0.024
+5 top scores:
+[['set58_frame1', 0.024], ['set28_frame1', 1.795], ['set73_frame1', 1.795], ['set40_frame0', 1.79], ['set18_frame2', 1.805]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Polyommatus_iphigenia/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_58_frame1.fa.txt
+3 50
+Maniola_jurtina_XM_045904525.1_Frame_0_rightoh_0_query_Exon_6
+GKTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+3 50
+set58_frame1
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GKTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = OY730185.1, start = 15707336, end = 15707601
+Polyommatus_iphigenia,OY730185.1,15718794,15718945,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7,1,49,50
+
+5
+8
+Polyommatus_iphigenia,OY730185.1,15715834,15716059,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Polyommatus_iphigenia,OY730185.1,15719309,15719511,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set68_frame2, 0.057
+5 top scores:
+[['set68_frame2', 0.057], ['set47_frame1', 1.795], ['set37_frame2', 1.807], ['set18_frame0', 1.829], ['set20_frame0', 1.832]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Polyommatus_iphigenia/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_68_frame2.fa.txt
+0 50
+Maniola_jurtina_XM_045904525.1_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+0 50
+set68_frame2
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFARKTDPNGDYI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFARKTDPNGDYI
+Scaffold = OY730185.1, start = 15707336, end = 15707601
+Polyommatus_iphigenia,OY730185.1,15719309,15719511,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Polyommatus_iphigenia,OY730185.1,15718069,15718209,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Polyommatus_iphigenia,OY730185.1,15719309,15719511,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set30_frame2, 0.391
+5 top scores:
+[['set1_frame0', 1.851], ['set23_frame0', 1.858], ['set7_frame1', 1.91], ['set30_frame2', 0.391]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Polyommatus_iphigenia/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_30_frame2.fa.txt
+10 76
+set30_frame2
+KYVPALKNMPAKYIHEPWMAPLPVQESAQCIIGRDYPLPMVDHCKASAINIERIKQVYAQLAKYKP
+Original query = KYIPALKNMPTRYIHEPWQAPAAVQEAARCLVGRDYPMPIVDHHKASQTNIERIKQVYAQLAKFKPP
+New query = KYVPALKNMPAKYIHEPWMAPLPVQESAQCIIGRDYPLPMVDHCKASAINIERIKQVYAQLAKYKP

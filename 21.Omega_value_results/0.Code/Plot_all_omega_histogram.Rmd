@@ -1,0 +1,68 @@
+---
+title: "Plot all genes omega histogram"
+output: html_document
+date: "2024-12-17"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document.
+
+```{r}
+library(tidyverse)
+library(cowplot)
+```
+
+```{r}
+all_omega = read.table("G:/My Drive/Circadian Rhythm Genes Project/21.Omega_value_results/4.All_gene_omega/omega_all.csv", header = T, sep = ",")
+
+z_omega_values = read.table("G:/My Drive/Circadian Rhythm Genes Project/35.Busco_all_genes/9.Z-linked/omega_values.csv", header = T, sep = ",")
+
+Period <- subset(all_omega, Gene == "period")$Omega
+Tim <- subset(all_omega, Gene == "timeless")$Omega
+clock <- subset(all_omega, Gene == "clock")$Omega
+cry1 <- subset(all_omega, Gene == "cry1a")$Omega
+cry2 <- subset(all_omega, Gene == "cry2")$Omega
+cwo <- subset(all_omega, Gene == "cwo")$Omega
+cycle <- subset(all_omega, Gene == "cycle")$Omega
+timeout <- subset(all_omega, Gene == "timeout")$Omega
+percentile_95 <- quantile(all_omega$Omega, 0.95)
+
+pdf("G:/My Drive/Circadian Rhythm Genes Project/21.Omega_value_results/4.All_gene_omega/omega_plot.pdf", height = 5, width = 7)
+ggplot(data = all_omega,aes (x = Omega))+
+  geom_density(aes(y = ..count..),fill = "skyblue", color = "black")+
+  geom_density(data = z_omega_values,aes (x = Omega,y = ..count..),fill = "violet", color = "black",alpha = 0.5 )+
+  geom_vline(xintercept = Period, color = "red", linetype = "dashed", size = 0.5)+
+  geom_text(x = Period, y = 25000, label = "Period",angle = -90, vjust = -0.5, color = "blue",size = 4)+
+  geom_vline(xintercept = Tim, color = "red", linetype = "dashed", size = 0.5)+
+  geom_text(x = Tim, y = 25000, label = "Timeless",angle = -90, vjust = -0.5, color = "blue",size = 4)+
+  geom_vline(xintercept = percentile_95, color = "red", linetype = "solid", size = 0.5)+
+  geom_text(x = percentile_95, y = 25000, label = "95th Percentile",angle = -90, vjust = 1.5, color = "black",size = 3)+
+  geom_vline(xintercept = clock, color = "red", linetype = "dashed", size = 0.5)+
+  geom_text(x = clock, y = 30000, label = "Clock/BMAL",angle = -90, vjust = -0.5, color = "black",size = 2)+
+  geom_vline(xintercept = cry1, color = "red", linetype = "dashed", size = 0.5)+
+  geom_text(x = cry1, y = 27000, label = "Cry-1",angle = -90, vjust = 1.5, color = "black",size = 2)+
+  geom_vline(xintercept = cry2, color = "red", linetype = "dashed", size = 0.5)+
+  geom_text(x = cry2, y = 25000, label = "Cry-2",angle = -90, vjust = -0.5, color = "black",size = 2)+
+  geom_vline(xintercept = cwo, color = "red", linetype = "dashed", size = 0.5)+
+  geom_text(x = cwo, y = 25000, label = "CWO",angle = -90, vjust = 1.5, color = "black",size = 2)+
+  geom_vline(xintercept = cycle, color = "red", linetype = "dashed", size = 0.5)+
+  geom_text(x = cycle, y = 25000, label = "Cycle",angle = -90, vjust = 1.5, color = "black",size = 2)+
+  geom_vline(xintercept = timeout, color = "red", linetype = "dashed", size = 0.5)+
+  geom_text(x = timeout, y = 30000, label = "Timeout",angle = -90, vjust = 1.5, color = "black",size = 2)+
+  coord_cartesian(xlim = c(0.0, 0.45)) +
+  theme_cowplot(12)+
+  theme(axis.ticks.y = element_blank(), axis.text.y = element_blank())
+dev.off()
+  
+
+```
+
+```{r}
+percentile <- ecdf(all_omega$Omega)(Tim) * 100
+percentile_95 <- quantile(all_omega$Omega, 0.95)
+```

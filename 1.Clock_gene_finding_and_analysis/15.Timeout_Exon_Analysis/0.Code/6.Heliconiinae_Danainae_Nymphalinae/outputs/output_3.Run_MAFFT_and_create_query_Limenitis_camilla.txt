@@ -1,0 +1,1359 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11743088,11743271,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Limenitis_camilla,LR990232.1,11741362,11741615,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Limenitis_camilla,LR990232.1,11744400,11744656,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set47_frame2, 0.256
+5 top scores:
+[['set47_frame2', 0.256], ['set88_frame2', 1.8], ['set39_frame0', 1.832], ['set60_frame0', 1.861], ['set40_frame1', 1.869]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_47_frame2.fa.txt
+5 66
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPVERNDRHNYLQILSHLQSYKEDAFTKVENWQVFAKKLGKVLEI
+5 66
+set47_frame2
+LIVNLTNPALLLYREEVPVERSAHHNYLQILSHLQYYKEEAFTKVETWQVFAKKLTKILEI
+Original query = LIVNLTNPALLLYREEVPVERNDRHNYLQILSHLQSYKEDAFTKVENWQVFAKKLGKVLEI
+New query = LIVNLTNPALLLYREEVPVERSAHHNYLQILSHLQYYKEEAFTKVETWQVFAKKLTKILEI
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11743360,11743494,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Limenitis_camilla,LR990232.1,11741362,11741615,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Limenitis_camilla,LR990232.1,11744731,11744928,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set39_frame0, 0.022
+5 top scores:
+[['set94_frame1', 1.738], ['set88_frame2', 1.754], ['set14_frame0', 1.787], ['set78_frame1', 1.843], ['set39_frame0', 0.022]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_39_frame0.fa.txt
+16 61
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+16 61
+set39_frame0
+DWSERDEDTGLIIERILILIRNILHVPADLDKERRPENDASVHDQ
+Original query = DWSERDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+New query = DWSERDEDTGLIIERILILIRNILHVPADLDKERRPENDASVHDQ
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11744400,11744656,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Limenitis_camilla,LR990232.1,11743088,11743271,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Limenitis_camilla,LR990232.1,11745379,11745561,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set42_frame1, 0.213
+5 top scores:
+[['set45_frame0', 1.813], ['set42_frame1', 0.213]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_42_frame1.fa.txt
+30 115
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPSSLADAALQRSVDEKVRDDQELLMIRMTENKDRMNKIRHYSST
+30 115
+set42_frame1
+VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADSALQRSVDEKLKDDQELLMMRLSESKERLNKVKQYSST
+Original query = VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPSSLADAALQRSVDEKVRDDQELLMIRMTENKDRMNKIRHYSST
+New query = VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADSALQRSVDEKLKDDQELLMMRLSESKERLNKVKQYSST
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11744731,11744928,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Limenitis_camilla,LR990232.1,11743360,11743494,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Limenitis_camilla,LR990232.1,11746169,11746456,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set35_frame1, 0.149
+5 top scores:
+[['set38_frame2', 1.837], ['set19_frame1', 1.814], ['set35_frame1', 0.149], ['set67_frame2', 1.841], ['set72_frame1', 1.843]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_35_frame1.fa.txt
+3 68
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVQNMKSISDNELICLKPLNKISNLDFNGSKKQKLVKPKNRRPTESGTMERRSAFAI
+3 68
+set35_frame1
+HSRFGGTYVVQNMKSLSDNELICLKPLNKISNLDFSGSKKSKLVKPKNRRPVESGILERRSAFAI
+Original query = HSRFGGTYVVQNMKSISDNELICLKPLNKISNLDFNGSKKQKLVKPKNRRPTESGTMERRSAFAI
+New query = HSRFGGTYVVQNMKSLSDNELICLKPLNKISNLDFSGSKKSKLVKPKNRRPVESGILERRSAFAI
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11745379,11745561,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+9
+Limenitis_camilla,LR990232.1,11744400,11744656,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Limenitis_camilla,LR990232.1,11748545,11748695,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Getting Gene
+min = set27_frame2, 0.187
+5 top scores:
+[['set27_frame2', 0.187], ['set12_frame2', 1.818], ['set37_frame0', 1.785], ['set53_frame0', 1.826], ['set78_frame0', 1.83]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_27_frame2.fa.txt
+8 68
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNVLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRAHDFQVGFV
+8 68
+set27_frame2
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQLNDESYYLWAMKFFMEFNRGHNFQVGLV
+Original query = LFLKEFCIEFLNSSYNVLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRAHDFQVGFV
+New query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQLNDESYYLWAMKFFMEFNRGHNFQVGLV
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11746169,11746456,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Limenitis_camilla,LR990232.1,11744731,11744928,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Limenitis_camilla,LR990232.1,11748545,11748695,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Getting Gene
+min = set35_frame2, 0.262
+5 top scores:
+[['set35_frame2', 0.262]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_35_frame2.fa.txt
+9 104
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQMEKYYDMISVEKKKFTNWVRRLHLALRAYKELLHTLLAMDASKDHTVRESAKVLKSNIFYVLEYREFILSMYLNYDENKMP
+9 104
+set35_frame2
+ETMSVPMFHYVQQQMEKYYDMIKLEKKKFSTWVRRLHLALRAYKELLNTLLDMDKSTDTSVKESAKVLKSNIFYVLEYREFILTSFLNYDENKMP
+Original query = ETMSVPMFHYVQQQMEKYYDMISVEKKKFTNWVRRLHLALRAYKELLHTLLAMDASKDHTVRESAKVLKSNIFYVLEYREFILSMYLNYDENKMP
+New query = ETMSVPMFHYVQQQMEKYYDMIKLEKKKFSTWVRRLHLALRAYKELLNTLLDMDKSTDTSVKESAKVLKSNIFYVLEYREFILTSFLNYDENKMP
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11746870,11746988,0,Y,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8,1,29,39
+
+6
+10
+Limenitis_camilla,LR990232.1,11745379,11745561,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Limenitis_camilla,LR990232.1,11751696,11751776,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set45_frame1, 0.103
+5 top scores:
+[['set45_frame1', 0.103], ['set61_frame2', 1.721], ['set135_frame2', 1.742], ['set32_frame0', 1.748], ['set20_frame2', 1.757]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_45_frame1.fa.txt
+3 42
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLVETVHLFLKMLEHYCKRTGLVVQKKVRKKTKAK
+3 42
+set45_frame1
+SYLIDLLETVHLFLKMLEHYCKKTGLVVQKKVRKKTKSK
+Original query = SYLVDLVETVHLFLKMLEHYCKRTGLVVQKKVRKKTKAK
+New query = SYLIDLLETVHLFLKMLEHYCKKTGLVVQKKVRKKTKSK
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11748545,11748695,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+7
+11
+Limenitis_camilla,LR990232.1,11746169,11746456,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Limenitis_camilla,LR990232.1,11753029,11753138,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Getting Gene
+min = set67_frame2, 0.501
+5 top scores:
+[['set67_frame2', 0.501], ['set88_frame2', 1.752], ['set172_frame1', 1.812], ['set133_frame2', 1.829], ['set147_frame2', 1.839]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_67_frame2.fa.txt
+3 52
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9
+QKPK-IKPKVIELSPWEEIRPQLAAVLSSGVEHYLPPFDAASETPIDQQ
+3 52
+set67_frame2
+QKPRPSKLKAIEISQWEEVRPQLAAVLSAGVEEYLPPFDAASDVPIDQQ
+Original query = QKPKIKPKVIELSPWEEIRPQLAAVLSSGVEHYLPPFDAASETPIDQQ
+New query = QKPRPSKLKAIEISQWEEVRPQLAAVLSAGVEEYLPPFDAASDVPIDQQ
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11751696,11751776,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+7
+12
+13
+14
+Limenitis_camilla,LR990232.1,11746169,11746456,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Limenitis_camilla,LR990232.1,11756481,11756679,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set143_frame2, 0.183
+5 top scores:
+[['set143_frame2', 0.183], ['set102_frame1', 1.56], ['set200_frame2', 1.581], ['set243_frame2', 1.626], ['set196_frame2', 1.639]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_143_frame2.fa.txt
+7 33
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQRLMRDHKYEDVIGTFRAA
+7 33
+set143_frame2
+EDCMKKIQKLMREHKYEDAVGTFRAA
+Original query = EDCMKKIQRLMRDHKYEDVIGTFRAA
+New query = EDCMKKIQKLMREHKYEDAVGTFRAA
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11753029,11753138,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+9
+13
+14
+Limenitis_camilla,LR990232.1,11748545,11748695,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Limenitis_camilla,LR990232.1,11756481,11756679,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set117_frame0, 0.394
+5 top scores:
+[['set117_frame0', 0.394], ['set128_frame0', 1.65], ['set53_frame0', 1.627], ['set61_frame2', 1.703], ['set72_frame1', 1.759]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_117_frame0.fa.txt
+9 44
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEDGIFGVSGMPEDEELDMLETIYNTDLGLDY
+9 44
+set117_frame0
+EVWPEEGIFGVPGIPADEELDMLETVYNTDLGVEI
+Original query = EVWPEDGIFGVSGMPEDEELDMLETIYNTDLGLDYE
+New query = EVWPEEGIFGVPGIPADEELDMLETVYNTDLGVEI
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,0,0,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_12,0,0,14
+
+10
+14
+Limenitis_camilla,LR990232.1,11751696,11751776,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Limenitis_camilla,LR990232.1,11756481,11756679,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set51_frame0, 1.306
+5 top scores:
+[['set51_frame0', 1.306], ['set50_frame2', 1.369], ['set43_frame2', 1.493], ['set94_frame2', 1.52], ['set86_frame1', 1.571]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_51_frame0.fa.txt
+8 22
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_12
+AQHEDAQEYSEDED
+8 22
+set51_frame0
+VDEEETQENSEYDE
+Original query = AQHEDAQEYSEDED
+New query = VDEEETQENSEYDE
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11753772,11753838,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,5,20,21
+
+11
+15
+Limenitis_camilla,LR990232.1,11753029,11753138,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Limenitis_camilla,LR990232.1,11760569,11760717,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,4,49,49
+
+Getting Gene
+min = set12_frame1, 0.36
+5 top scores:
+[['set12_frame1', 0.36], ['set19_frame2', 1.36], ['set151_frame1', 1.6], ['set119_frame2', 1.635], ['set120_frame1', 1.658]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_12_frame1.fa.txt
+9 30
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13
+EDEEQGSAIVETDFDFQDFVL
+9 30
+set12_frame1
+EEEERSSAVVETDFDFQDFVR
+Original query = EDEEQGSAIVETDFDFQDFVL
+New query = EEEERSSAVVETDFDFQDFVR
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11756481,11756679,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Limenitis_camilla,LR990232.1,11753029,11753138,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Limenitis_camilla,LR990232.1,11762146,11762240,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Getting Gene
+min = set90_frame0, 0.379
+5 top scores:
+[['set67_frame2', 1.789], ['set90_frame0', 0.379], ['set130_frame0', 1.797], ['set149_frame1', 1.833], ['set164_frame1', 1.835]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_90_frame0.fa.txt
+32 98
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14
+FCHPKIVSACVCLLERYDKNRSHTNHCIVKMLHRIAFDCNRPAMMFQATLFLTFQKILHNPMPHLK
+32 98
+set90_frame0
+FCHPRIVSACICLLETYEKNLPYTNHCIVKMLHRIAWDSHRPAMMFQATLFLTFQKILNNPVPQFK
+Original query = FCHPKIVSACVCLLERYDKNRSHTNHCIVKMLHRIAFDCNRPAMMFQATLFLTFQKILHNPMPHLK
+New query = FCHPRIVSACICLLETYEKNLPYTNHCIVKMLHRIAWDSHRPAMMFQATLFLTFQKILNNPVPQFK
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11760569,11760717,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,4,49,49
+
+13
+12
+11
+17
+Limenitis_camilla,LR990232.1,11753029,11753138,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Limenitis_camilla,LR990232.1,11765461,11765664,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,66,68
+
+Getting Gene
+min = set156_frame1, 0.318
+5 top scores:
+[['set156_frame1', 0.318], ['set229_frame1', 1.748], ['set199_frame2', 1.765], ['set164_frame1', 1.773], ['set33_frame2', 1.781]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_156_frame1.fa.txt
+3 52
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFAIFILRKFADIASKSGKVFIELLFWKNSKDAVEIEHGYNLYNDP
+3 52
+set156_frame1
+ELEKFAIFVLRKFAEMASKSSKVFIELLFFKNAKDSIEIEHGYDLYYDP
+Original query = ELEKFAIFILRKFADIASKSGKVFIELLFWKNSKDAVEIEHGYNLYNDP
+New query = ELEKFAIFVLRKFAEMASKSSKVFIELLFFKNAKDSIEIEHGYDLYYDP
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11762146,11762240,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+14
+18
+Limenitis_camilla,LR990232.1,11756481,11756679,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Limenitis_camilla,LR990232.1,11768703,11768837,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,36,44
+
+Getting Gene
+min = set125_frame2, 0.568
+5 top scores:
+[['set125_frame2', 0.568], ['set9_frame2', 1.649], ['set277_frame2', 1.675], ['set46_frame2', 1.701], ['set212_frame2', 1.708]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_125_frame2.fa.txt
+5 36
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16
+DKLGKASWSEEQEDELRNLYMENQTNPQTDQ
+5 36
+set125_frame2
+DKPGNGNWTEAQEEELRKLYMENQANPENDQ
+Original query = DKLGKASWSEEQEDELRNLYMENQTNPQTDQ
+New query = DKPGNGNWTEAQEEELRKLYMENQANPENDQ
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11765461,11765664,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,66,68
+
+15
+19
+20
+Limenitis_camilla,LR990232.1,11760569,11760717,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,4,49,49
+
+Limenitis_camilla,LR990232.1,11769947,11770143,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+Getting Gene
+min = set99_frame1, 0.525
+5 top scores:
+[['set99_frame1', 0.525], ['set150_frame2', 1.738], ['set166_frame2', 1.806], ['set104_frame2', 1.841], ['set216_frame2', 1.853]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_99_frame1.fa.txt
+17 83
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFNAPTKKSNKARTEKVTKDFTEEEDKLLTELWTQNAE
+17 83
+set99_frame1
+VIDWILDNLIVQTRTRRSVIKKLKELGLIFNAPTKKSNKERRD-IPLEFTEEEDNILTELWKQYGE
+Original query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFNAPTKKSNKARTEKVTKDFTEEEDKLLTELWTQNAESQ
+New query = VIDWILDNLIVQTRTRRSVIKKLKELGLIFNAPTKKSNKERRD-IPLEFTEEEDNILTELWKQYGE
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11768703,11768837,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,36,44
+
+16
+20
+Limenitis_camilla,LR990232.1,11762146,11762240,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Limenitis_camilla,LR990232.1,11769947,11770143,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+Getting Gene
+min = set173_frame1, 1.059
+5 top scores:
+[['set173_frame1', 1.059], ['set71_frame2', 1.608], ['set107_frame2', 1.717], ['set158_frame1', 1.776], ['set179_frame1', 1.784]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_173_frame1.fa.txt
+6 44
+set173_frame1
+PLSLIVPRMPKKRSKRSFKVRLMQLGLMQTKKRNSKEK
+Original query = PMSVIMERMPRNRSKRTFVERLLRLGLIDDKKQCRKKSIKNISG
+New query = PLSLIVPRMPKKRSKRSFKVRLMQLGLMQTKKRNSKEK
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11769309,11769500,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19,19,61,61
+
+17
+21
+22
+Limenitis_camilla,LR990232.1,11765461,11765664,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,66,68
+
+Limenitis_camilla,LR990232.1,11773947,11774143,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_22,0,0,0
+
+Getting Gene
+min = set94_frame1, 0.934
+5 top scores:
+[['set94_frame1', 0.934], ['set103_frame2', 1.571], ['set48_frame1', 1.811], ['set103_frame0', 1.8], ['set74_frame1', 1.824]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_94_frame1.fa.txt
+12 73
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19
+NSSDSESSKSEDEDAPPKRPTIKIKSKKNLTKSKQSNKKSAESLELSANEIAELLVQAVEN
+12 73
+set94_frame1
+SSSDSENSESDNEDNVRPTPKNNIKPKKAPARKEQSKRKPAKSKELSASEIAKLLVQAVDN
+Original query = NSSDSESSKSEDEDAPPKRPTIKIKSKKNLTKSKQSNKKSAESLELSANEIAELLVQAVEN
+New query = SSSDSENSESDNEDNVRPTPKNNIKPKKAPARKEQSKRKPAKSKELSASEIAKLLVQAVDN
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11769947,11770143,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+18
+21
+22
+Limenitis_camilla,LR990232.1,11768703,11768837,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,36,44
+
+Limenitis_camilla,LR990232.1,11773947,11774143,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_22,0,0,0
+
+Getting Gene
+min = set40_frame1, 0.467
+5 top scores:
+[['set43_frame0', 1.79], ['set40_frame1', 0.467], ['set1_frame2', 1.828], ['set6_frame2', 1.837], ['set7_frame2', 1.84]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_40_frame1.fa.txt
+14 78
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20
+TEALNWLSENLEEVALDQEAEGFDPTSEGTPLVPISRESVQAIQDDLFRRVLKSLGIVPPVDEQ
+14 78
+set40_frame1
+TDALNWLAESLEEVALDQEAEGFDPTAEGIPLVPISSKSVEAMENNMFIKVLKSTGIVPPGDEQ
+Original query = HTEALNWLSENLEEVALDQEAEGFDPTSEGTPLVPISRESVQAIQDDLFRRVLKSLGIVPPVDEQ
+New query = TDALNWLAESLEEVALDQEAEGFDPTAEGIPLVPISSKSVEAMENNMFIKVLKSTGIVPPGDEQ
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11770242,11770686,0,Y,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,74,154
+
+19
+18
+21
+22
+Limenitis_camilla,LR990232.1,11768703,11768837,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,36,44
+
+Limenitis_camilla,LR990232.1,11773947,11774143,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_22,0,0,0
+
+Getting Gene
+min = set43_frame0, 1.241
+5 top scores:
+[['set43_frame0', 1.241]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_43_frame0.fa.txt
+0 300
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21
+ETYWRIPSSLHYETIRKRREIITKAVNKELIIDNRAAPETKKDNNDNGNNGNHNINDESDASDDDLFDNLRK--------------------IAKKSSETD---------------------NNPKSKNRKRTRSFESDDE----------------------------------------------------------------------NKKKQRKDNIKDKDDENENENKDS-----------------------------------DDDLLSFVKNTL-HTELPDTEDILNALPEH
+0 300
+set43_frame0
+ETYWRIPSNLHHETLRKRREIIIKAVNNELIVDN-----VESNNLDNNENLTDNLNAES-SDDENLFDNLRKMTNDVPNKSGLNNINNDNKGIAKVDSSIDNGLFDSLRNMDDNTVSHKNGSNQNRSDKRKRKRNIDSDDDIRNIEKENNSKDESTNDGDIFDKLRLTINNDVNKKSKKRKHKSSNDQTNIENNNLRDESSNDSELFNTKKANKRKRKRNISSDDDTDNKSKTDSSDDNLPSINSKKNKKRTRNIDSDENNGEMEIINEADEDILSFAKKTLQHIDLPDTEDIMSDLQKH
+Original query = ETYWRIPSSLHYETIRKRREIITKAVNKELIIDNRAAPETKKDNNDNGNNGNHNINDESDASDDDLFDNLRKIAKKSSETDNNPKSKNRKRTRSFESDDENKKKQRKDNIKDKDDENENENKDSDDDLLSFVKNTLHTELPDTEDILNALPEHS
+New query = ETYWRIPSNLHHETLRKRREIIIKAVNNELIVDN-----VESNNLDNNENLTDNLNAES-SDDENLFDNLRKMTNDVPNKSGLNNINNDNKGIAKVDSSIDNGLFDSLRNMDDNTVSHKNGSNQNRSDKRKRKRNIDSDDDIRNIEKENNSKDESTNDGDIFDKLRLTINNDVNKKSKKRKHKSSNDQTNIENNNLRDESSNDSELFNTKKANKRKRKRNISSDDDTDNKSKTDSSDDNLPSINSKKNKKRTRNIDSDENNGEMEIINEADEDILSFAKKTLQHIDLPDTEDIMSDLQKH
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11743088,11743271,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Limenitis_camilla,LR990232.1,11741362,11741615,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Limenitis_camilla,LR990232.1,11744400,11744656,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set47_frame2, 0.201
+5 top scores:
+[['set47_frame2', 0.201], ['set88_frame2', 1.813], ['set39_frame0', 1.829], ['set60_frame0', 1.835], ['set78_frame1', 1.851]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_47_frame2.fa.txt
+5 66
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_0_query_Exon_2
+LLVNLTNPALLLYREEVPVDRTARHNYLQILTHLQSYKEEAFTKVETWQVFARKLAKILEI
+5 66
+set47_frame2
+LIVNLTNPALLLYREEVPVERSAHHNYLQILSHLQYYKEEAFTKVETWQVFAKKLTKILEI
+Original query = LLVNLTNPALLLYREEVPVDRTARHNYLQILTHLQSYKEEAFTKVETWQVFARKLAKILEI
+New query = LIVNLTNPALLLYREEVPVERSAHHNYLQILSHLQYYKEEAFTKVETWQVFAKKLTKILEI
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11743360,11743494,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Limenitis_camilla,LR990232.1,11741362,11741615,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Limenitis_camilla,LR990232.1,11744731,11744928,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set39_frame0, 0.011
+5 top scores:
+[['set94_frame1', 1.728], ['set88_frame2', 1.754], ['set14_frame0', 1.794], ['set78_frame1', 1.843], ['set39_frame0', 0.011]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_39_frame0.fa.txt
+16 61
+Nymphalis_io_XM_050487249.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+16 61
+set39_frame0
+DWSERDEDTGLIIERILILIRNILHVPADLDKERRPENDASVHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+New query = DWSERDEDTGLIIERILILIRNILHVPADLDKERRPENDASVHDQ
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11744400,11744656,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Limenitis_camilla,LR990232.1,11743088,11743271,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Limenitis_camilla,LR990232.1,11745379,11745561,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set42_frame1, 0.164
+5 top scores:
+[['set45_frame0', 1.838], ['set42_frame1', 0.164]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_42_frame1.fa.txt
+30 115
+Nymphalis_io_XM_050487249.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLRDEQELLTMRMTETKERMNKVKMYSST
+30 115
+set42_frame1
+VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADSALQRSVDEKLKDDQELLMMRLSESKERLNKVKQYSST
+Original query = VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLRDEQELLTMRMTETKERMNKVKMYSST
+New query = VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADSALQRSVDEKLKDDQELLMMRLSESKERLNKVKQYSST
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11744731,11744928,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Limenitis_camilla,LR990232.1,11743360,11743494,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Limenitis_camilla,LR990232.1,11746169,11746456,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set35_frame1, 0.262
+5 top scores:
+[['set38_frame2', 1.831], ['set19_frame1', 1.826], ['set35_frame1', 0.262], ['set50_frame1', 1.847], ['set72_frame1', 1.809]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_35_frame1.fa.txt
+3 68
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVRNMKSISENELISFKPLNKISGFDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+3 68
+set35_frame1
+HSRFGGTYVVQNMKSLSDNELICLKPLNKISNLDFSGSKKSKLVKPKNRRPVESGILERRSAFAI
+Original query = HSRFGGTYVVRNMKSISENELISFKPLNKISGFDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+New query = HSRFGGTYVVQNMKSLSDNELICLKPLNKISNLDFSGSKKSKLVKPKNRRPVESGILERRSAFAI
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11745379,11745561,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+9
+Limenitis_camilla,LR990232.1,11744400,11744656,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Limenitis_camilla,LR990232.1,11748545,11748695,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Getting Gene
+min = set27_frame2, 0.071
+5 top scores:
+[['set27_frame2', 0.071], ['set12_frame2', 1.826], ['set37_frame0', 1.736], ['set49_frame2', 1.834], ['set78_frame0', 1.834]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_27_frame2.fa.txt
+8 68
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHDFQVGLV
+8 68
+set27_frame2
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQLNDESYYLWAMKFFMEFNRGHNFQVGLV
+Original query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHDFQVGLV
+New query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQLNDESYYLWAMKFFMEFNRGHNFQVGLV
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11746169,11746456,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Limenitis_camilla,LR990232.1,11744731,11744928,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Limenitis_camilla,LR990232.1,11748545,11748695,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Getting Gene
+min = set35_frame2, 0.553
+5 top scores:
+[['set35_frame2', 0.553]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_35_frame2.fa.txt
+9 104
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPTFHYVQQQMEKYTDMIKVEKKKFPVWVRRLHLALRAYAELLRSLRALQRA-PGAAREAARVLQSNVFYVPEYRELVLAMFLNYDENKMP
+9 104
+set35_frame2
+ETMSVPMFHYVQQQMEKYYDMIKLEKKKFSTWVRRLHLALRAYKELLNTLLDMDKSTDTSVKESAKVLKSNIFYVLEYREFILTSFLNYDENKMP
+Original query = ETMSVPTFHYVQQQMEKYTDMIKVEKKKFPVWVRRLHLALRAYAELLRSLRALQRAPGAAREAARVLQSNVFYVPEYRELVLAMFLNYDENKMP
+New query = ETMSVPMFHYVQQQMEKYYDMIKLEKKKFSTWVRRLHLALRAYKELLNTLLDMDKSTDTSVKESAKVLKSNIFYVLEYREFILTSFLNYDENKMP
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11746870,11746988,0,Y,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8,1,29,39
+
+6
+10
+Limenitis_camilla,LR990232.1,11745379,11745561,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Limenitis_camilla,LR990232.1,11751696,11751776,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set45_frame1, 0.335
+5 top scores:
+[['set45_frame1', 0.335], ['set61_frame2', 1.707], ['set87_frame2', 1.712], ['set135_frame2', 1.73], ['set122_frame2', 1.769]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_45_frame1.fa.txt
+3 42
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLVETEHLFLKMLEHFCKNTGLVVQKKVRKKGKPK
+3 42
+set45_frame1
+SYLIDLLETVHLFLKMLEHYCKKTGLVVQKKVRKKTKSK
+Original query = SYLVDLVETEHLFLKMLEHFCKNTGLVVQKKVRKKGKPK
+New query = SYLIDLLETVHLFLKMLEHYCKKTGLVVQKKVRKKTKSK
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11748545,11748695,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+7
+11
+Limenitis_camilla,LR990232.1,11746169,11746456,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Limenitis_camilla,LR990232.1,11753029,11753138,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Getting Gene
+min = set67_frame2, 0.562
+5 top scores:
+[['set67_frame2', 0.562], ['set88_frame2', 1.73], ['set133_frame2', 1.819], ['set73_frame2', 1.845], ['set143_frame2', 1.849]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_67_frame2.fa.txt
+3 52
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_2_query_Exon_9
+QKPRPPKPKEVETPQWEEVRPQVAAVLAARVAELPPPFDAAADTPIDQQ
+3 52
+set67_frame2
+QKPRPSKLKAIEISQWEEVRPQLAAVLSAGVEEYLPPFDAASDVPIDQQ
+Original query = QKPRPPKPKEVETPQWEEVRPQVAAVLAARVAELPPPFDAAADTPIDQQ
+New query = QKPRPSKLKAIEISQWEEVRPQLAAVLSAGVEEYLPPFDAASDVPIDQQ
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11751696,11751776,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+7
+12
+13
+14
+Limenitis_camilla,LR990232.1,11746169,11746456,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Limenitis_camilla,LR990232.1,11756481,11756679,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set143_frame2, 0.206
+5 top scores:
+[['set143_frame2', 0.206], ['set153_frame1', 1.609], ['set200_frame2', 1.639], ['set79_frame1', 1.681], ['set192_frame1', 1.685]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_143_frame2.fa.txt
+7 33
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRDHKYEGAVGTLRAA
+7 33
+set143_frame2
+EDCMKKIQKLMREHKYEDAVGTFRAA
+Original query = EDCMKKIQKLMRDHKYEGAVGTLRAA
+New query = EDCMKKIQKLMREHKYEDAVGTFRAA
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11753029,11753138,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+9
+13
+14
+Limenitis_camilla,LR990232.1,11748545,11748695,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Limenitis_camilla,LR990232.1,11756481,11756679,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set117_frame0, 0.337
+5 top scores:
+[['set117_frame0', 0.337], ['set128_frame0', 1.657], ['set53_frame0', 1.692], ['set61_frame2', 1.703], ['set1_frame2', 1.736]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_117_frame0.fa.txt
+9 43
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGDTGITEDEELDMLETIYNTDLGVE
+9 43
+set117_frame0
+EVWPEEGIFGVPGIPADEELDMLETVYNTDLGVE
+Original query = EVWPEEGIFGDTGITEDEELDMLETIYNTDLGVEA
+New query = EVWPEEGIFGVPGIPADEELDMLETVYNTDLGVE
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,0,0,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_12,0,0,14
+
+10
+14
+Limenitis_camilla,LR990232.1,11751696,11751776,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Limenitis_camilla,LR990232.1,11756481,11756679,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set51_frame0, 0.763
+5 top scores:
+[['set51_frame0', 0.763], ['set50_frame2', 1.33], ['set113_frame1', 1.531], ['set71_frame2', 1.55], ['set39_frame2', 1.611]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_51_frame0.fa.txt
+6 23
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_1_query_Exon_12
+TTINEEEVEENSAYEDD
+6 23
+set51_frame0
+ATVDEEETQENSEYDEE
+Original query = TTINEEEVEENSAYEDD
+New query = ATVDEEETQENSEYDEE
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11753772,11753838,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,5,20,21
+
+11
+15
+Limenitis_camilla,LR990232.1,11753029,11753138,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Limenitis_camilla,LR990232.1,11760569,11760717,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,4,49,49
+
+Getting Gene
+min = set12_frame1, 0.382
+5 top scores:
+[['set12_frame1', 0.382], ['set19_frame2', 1.432], ['set95_frame1', 1.599], ['set108_frame2', 1.601], ['set147_frame1', 1.659]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_12_frame1.fa.txt
+6 30
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_2_query_Exon_13
+EEGEEEERTTSVVETDFDFQDFVL
+6 30
+set12_frame1
+DEEEEEERSSAVVETDFDFQDFVR
+Original query = EEGEEEERTTSVVETDFDFQDFVL
+New query = DEEEEEERSSAVVETDFDFQDFVR
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11756481,11756679,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Limenitis_camilla,LR990232.1,11753029,11753138,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Limenitis_camilla,LR990232.1,11762146,11762240,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Getting Gene
+min = set90_frame0, 0.955
+5 top scores:
+[['set67_frame2', 1.737], ['set90_frame0', 0.955], ['set120_frame2', 1.811], ['set139_frame2', 1.811], ['set19_frame2', 1.853]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_90_frame0.fa.txt
+32 98
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_0_query_Exon_14
+FCQPHVVRACAALWARCDVT-ARAARCALKLLHRIACDCNRPAMMFQASLFLTFQKILNKRSPQLK
+32 98
+set90_frame0
+FCHPRIVSACICLLETYEKNLPYTNHCIVKMLHRIAWDSHRPAMMFQATLFLTFQKILNNPVPQFK
+Original query = FCQPHVVRACAALWARCDVTARAARCALKLLHRIACDCNRPAMMFQASLFLTFQKILNKRSPQLK
+New query = FCHPRIVSACICLLETYEKNLPYTNHCIVKMLHRIAWDSHRPAMMFQATLFLTFQKILNNPVPQFK
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11760569,11760717,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,4,49,49
+
+13
+12
+11
+17
+Limenitis_camilla,LR990232.1,11753029,11753138,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Limenitis_camilla,LR990232.1,11765461,11765664,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,66,68
+
+Getting Gene
+min = set156_frame1, 0.397
+5 top scores:
+[['set156_frame1', 0.397], ['set33_frame2', 1.734], ['set199_frame2', 1.749], ['set151_frame2', 1.773], ['set64_frame1', 1.791]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_156_frame1.fa.txt
+3 51
+Nymphalis_io_XM_050487249.1_Frame_0_rightoh_2_query_Exon_15
+EMEKFAIFILRKFTEIASKNGKVFIELLFWKNSKESVEIEHGYDLYRD
+3 51
+set156_frame1
+ELEKFAIFVLRKFAEMASKSSKVFIELLFFKNAKDSIEIEHGYDLYYD
+Original query = EMEKFAIFILRKFTEIASKNGKVFIELLFWKNSKESVEIEHGYDLYRDQ
+New query = ELEKFAIFVLRKFAEMASKSSKVFIELLFFKNAKDSIEIEHGYDLYYD
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11762146,11762240,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+14
+18
+Limenitis_camilla,LR990232.1,11756481,11756679,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Limenitis_camilla,LR990232.1,11768703,11768837,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,36,44
+
+Getting Gene
+min = set125_frame2, 0.393
+5 top scores:
+[['set125_frame2', 0.393], ['set187_frame0', 1.671], ['set156_frame2', 1.689], ['set189_frame1', 1.697], ['set91_frame2', 1.72]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_125_frame2.fa.txt
+5 36
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_1_query_Exon_16
+DKPGRGLWTEEQEEELRSLYMENMARPENDQ
+5 36
+set125_frame2
+DKPGNGNWTEAQEEELRKLYMENQANPENDQ
+Original query = DKPGRGLWTEEQEEELRSLYMENMARPENDQ
+New query = DKPGNGNWTEAQEEELRKLYMENQANPENDQ
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11765461,11765664,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,66,68
+
+15
+19
+20
+Limenitis_camilla,LR990232.1,11760569,11760717,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,4,49,49
+
+Limenitis_camilla,LR990232.1,11769947,11770143,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+Getting Gene
+min = set99_frame1, 0.523
+5 top scores:
+[['set99_frame1', 0.523], ['set221_frame0', 1.69], ['set150_frame2', 1.793], ['set166_frame2', 1.805], ['set54_frame2', 1.822]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_99_frame1.fa.txt
+17 83
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRSVIKKLKDLGLIFKAPTKKSNRERQEKVSKEFNEEEDNLLAELWKQYKD
+17 83
+set99_frame1
+VIDWILDNLIVQTRTRRSVIKKLKELGLIFNAPTKKSNKERRD-IPLEFTEEEDNILTELWKQYGE
+Original query = VIDWILDNLIDQTRTRRSVIKKLKDLGLIFKAPTKKSNRERQEKVSKEFNEEEDNLLAELWKQYKDSP
+New query = VIDWILDNLIVQTRTRRSVIKKLKELGLIFNAPTKKSNKERRD-IPLEFTEEEDNILTELWKQYGE
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11768703,11768837,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,36,44
+
+16
+20
+Limenitis_camilla,LR990232.1,11762146,11762240,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Limenitis_camilla,LR990232.1,11769947,11770143,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+Getting Gene
+min = set173_frame1, 1.04
+5 top scores:
+[['set173_frame1', 1.04], ['set71_frame2', 1.6], ['set179_frame1', 1.808], ['set37_frame2', 1.838], ['set15_frame2', 1.843]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_173_frame1.fa.txt
+6 59
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_1_query_Exon_18
+PMGLIIARMPRKRSKRSFVDRLLELGLVQDKSQCRKRRQRNAKSAGDDGDKSN
+6 59
+set173_frame1
+PLSLIVPRMPKKRSKRSFKVRLMQLGLMQTK-------KRNSKEKTVEDDKSN
+Original query = PMGLIIARMPRKRSKRSFVDRLLELGLVQDKSQCRKRRQRNAKSAGDDGDKSN
+New query = PLSLIVPRMPKKRSKRSFKVRLMQLGLMQTK-------KRNSKEKTVEDDKSN
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11769309,11769500,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19,19,61,61
+
+17
+21
+22
+Limenitis_camilla,LR990232.1,11765461,11765664,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,66,68
+
+Limenitis_camilla,LR990232.1,11773947,11774143,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_22,0,0,0
+
+Getting Gene
+min = set94_frame1, 0.93
+5 top scores:
+[['set94_frame1', 0.93], ['set103_frame2', 1.68], ['set1_frame2', 1.81], ['set103_frame0', 1.814], ['set215_frame1', 1.842]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_94_frame1.fa.txt
+12 74
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_1_query_Exon_19
+SSSESEHSSSDGDDNVRPQTAAVNVKHKKPLKKRAENKKKSARV-ELSASEIAKLLIEAVDS
+12 74
+set94_frame1
+SSSDSENSESDNEDNVRP-TPKNNIKPKKAPARKEQSKRKPAKSKELSASEIAKLLVQAVDN
+Original query = SSSESEHSSSDGDDNVRPQTAAVNVKHKKPLKKRAENKKKSARVELSASEIAKLLIEAVDS
+New query = SSSDSENSESDNEDNVRP-TPKNNIKPKKAPARKEQSKRKPAKSKELSASEIAKLLVQAVDN
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11769947,11770143,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+18
+21
+22
+Limenitis_camilla,LR990232.1,11768703,11768837,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,36,44
+
+Limenitis_camilla,LR990232.1,11773947,11774143,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_22,0,0,0
+
+Getting Gene
+min = set40_frame1, 0.328
+5 top scores:
+[['set171_frame2', 1.788], ['set40_frame1', 0.328], ['set7_frame2', 1.832], ['set54_frame1', 1.871], ['set104_frame1', 1.848]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_40_frame1.fa.txt
+13 78
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_0_query_Exon_20
+LTEALKWLAENLEEVALDQEAEGFDPTSEGTPLVPISSESVEAMDNPLFMKVLKSVGIAPPSDEQ
+13 78
+set40_frame1
+LTDALNWLAESLEEVALDQEAEGFDPTAEGIPLVPISSKSVEAMENNMFIKVLKSTGIVPPGDEQ
+Original query = LTEALKWLAENLEEVALDQEAEGFDPTSEGTPLVPISSESVEAMDNPLFMKVLKSVGIAPPSDEQ
+New query = LTDALNWLAESLEEVALDQEAEGFDPTAEGIPLVPISSKSVEAMENNMFIKVLKSTGIVPPGDEQ
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11770242,11770686,0,Y,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,74,154
+
+19
+18
+21
+22
+Limenitis_camilla,LR990232.1,11768703,11768837,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,36,44
+
+Limenitis_camilla,LR990232.1,11773947,11774143,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_22,0,0,0
+
+Getting Gene
+min = set43_frame0, 1.264
+5 top scores:
+[['set43_frame0', 1.264]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_43_frame0.fa.txt
+0 183
+Nymphalis_io_XM_050487249.1_Frame_0_rightoh_1_query_Exon_21
+ETYWRIPSSIHYDTIRKRREIVIKAVNKELIVDSTNNNAEGIQEK--NNPKDESSDDDDLFDNLRKMRDVSPYKS--------------------------------------NTPSRSVSNNRKRNRSLSSDE-------ENNRKMQKIDEDDDEEDILSFAKKTLQRADPPADPPADHSDS
+0 183
+set43_frame0
+ETYWRIPSNLHHETLRKRREIIIKAVNNELIVDNVESNNLDNNENLTDNLNAESSDDENLFDNLRKMTNDVPNKSGLNNINNDNKGIAKVDSSIDNGLFDSLRNMDDNTVSHKNGSNQNRSDKRKRKRNIDSDDDIRNIEKENNSK----DESTNDGDIFDKLRLTINNDVNKKSKKRKHKSS
+Original query = ETYWRIPSSIHYDTIRKRREIVIKAVNKELIVDSTNNNAEGIQEKNNPKDESSDDDDLFDNLRKMRDVSPYKSNTPSRSVSNNRKRNRSLSSDEENNRKMQKIDEDDDEEDILSFAKKTLQRADPPADPPADHSDS
+New query = ETYWRIPSNLHHETLRKRREIIIKAVNNELIVDNVESNNLDNNENLTDNLNAESSDDENLFDNLRKMTNDVPNKSGLNNINNDNKGIAKVDSSIDNGLFDSLRNMDDNTVSHKNGSNQNRSDKRKRKRNIDSDDDIRNIEKENNSK----DESTNDGDIFDKLRLTINNDVNKKSKKRKHKSS
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11743088,11743271,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Limenitis_camilla,LR990232.1,11741362,11741615,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Limenitis_camilla,LR990232.1,11744400,11744656,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set47_frame2, 0.182
+5 top scores:
+[['set47_frame2', 0.182], ['set88_frame2', 1.824], ['set39_frame0', 1.836], ['set60_frame0', 1.835], ['set40_frame1', 1.885]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_47_frame2.fa.txt
+5 66
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_0_query_Exon_2
+LLVNLTNPALLLYREEVPVERTARHNYLQILTHLQSYKEEAFIKVETWQVFAKKLAKILEI
+5 66
+set47_frame2
+LIVNLTNPALLLYREEVPVERSAHHNYLQILSHLQYYKEEAFTKVETWQVFAKKLTKILEI
+Original query = LLVNLTNPALLLYREEVPVERTARHNYLQILTHLQSYKEEAFIKVETWQVFAKKLAKILEI
+New query = LIVNLTNPALLLYREEVPVERSAHHNYLQILSHLQYYKEEAFTKVETWQVFAKKLTKILEI
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11743360,11743494,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Limenitis_camilla,LR990232.1,11741362,11741615,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Limenitis_camilla,LR990232.1,11744731,11744928,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set39_frame0, 0.011
+5 top scores:
+[['set94_frame1', 1.728], ['set88_frame2', 1.754], ['set14_frame0', 1.794], ['set78_frame1', 1.843], ['set39_frame0', 0.011]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_39_frame0.fa.txt
+16 61
+Vanessa_tameamea_XM_026628490.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+16 61
+set39_frame0
+DWSERDEDTGLIIERILILIRNILHVPADLDKERRPENDASVHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+New query = DWSERDEDTGLIIERILILIRNILHVPADLDKERRPENDASVHDQ
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11744400,11744656,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Limenitis_camilla,LR990232.1,11743088,11743271,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Limenitis_camilla,LR990232.1,11745379,11745561,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set42_frame1, 0.152
+5 top scores:
+[['set45_frame0', 1.845], ['set42_frame1', 0.152]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_42_frame1.fa.txt
+30 115
+Vanessa_tameamea_XM_026628490.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIVLYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLTMRMAETKERMNKVKMYSST
+30 115
+set42_frame1
+VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADSALQRSVDEKLKDDQELLMMRLSESKERLNKVKQYSST
+Original query = VLWALNQAGILDIVLYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLTMRMAETKERMNKVKMYSST
+New query = VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADSALQRSVDEKLKDDQELLMMRLSESKERLNKVKQYSST
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11744731,11744928,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Limenitis_camilla,LR990232.1,11743360,11743494,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Limenitis_camilla,LR990232.1,11746169,11746456,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set35_frame1, 0.148
+5 top scores:
+[['set67_frame2', 1.833], ['set19_frame1', 1.855], ['set35_frame1', 0.148], ['set50_frame1', 1.845], ['set72_frame1', 1.824]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_35_frame1.fa.txt
+3 68
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVIQNMKSISENELISLKPLNKISNLDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+3 68
+set35_frame1
+HSRFGGTYVVQNMKSLSDNELICLKPLNKISNLDFSGSKKSKLVKPKNRRPVESGILERRSAFAI
+Original query = HSRFGGTYVIQNMKSISENELISLKPLNKISNLDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+New query = HSRFGGTYVVQNMKSLSDNELICLKPLNKISNLDFSGSKKSKLVKPKNRRPVESGILERRSAFAI
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11745379,11745561,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+9
+Limenitis_camilla,LR990232.1,11744400,11744656,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Limenitis_camilla,LR990232.1,11748545,11748695,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Getting Gene
+min = set27_frame2, 0.098
+5 top scores:
+[['set27_frame2', 0.098], ['set12_frame2', 1.831], ['set37_frame0', 1.718], ['set49_frame2', 1.834], ['set78_frame0', 1.834]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_27_frame2.fa.txt
+8 68
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNPMMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHDFQIGLV
+8 68
+set27_frame2
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQLNDESYYLWAMKFFMEFNRGHNFQVGLV
+Original query = LFLKEFCIEFLNSSYNPMMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHDFQIGLV
+New query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQLNDESYYLWAMKFFMEFNRGHNFQVGLV
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11746169,11746456,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Limenitis_camilla,LR990232.1,11744731,11744928,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Limenitis_camilla,LR990232.1,11748545,11748695,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Getting Gene
+min = set35_frame2, 0.724
+5 top scores:
+[['set35_frame2', 0.724]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_35_frame2.fa.txt
+9 104
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_2_query_Exon_7
+ETLSVPTFHFVQQQMEKYSDMIKVERKRFPVWVRRLHVALRAFRELLQS-LRVARGAAAAVRDAARALQAALLYAPEYREFVLALLLAYDENKMP
+9 104
+set35_frame2
+ETMSVPMFHYVQQQMEKYYDMIKLEKKKFSTWVRRLHLALRAYKELLNTLLDMDKSTDTSVKESAKVLKSNIFYVLEYREFILTSFLNYDENKMP
+Original query = ETLSVPTFHFVQQQMEKYSDMIKVERKRFPVWVRRLHVALRAFRELLQSLRVARGAAAAVRDAARALQAALLYAPEYREFVLALLLAYDENKMP
+New query = ETMSVPMFHYVQQQMEKYYDMIKLEKKKFSTWVRRLHLALRAYKELLNTLLDMDKSTDTSVKESAKVLKSNIFYVLEYREFILTSFLNYDENKMP
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11746870,11746988,0,Y,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8,1,29,39
+
+6
+10
+Limenitis_camilla,LR990232.1,11745379,11745561,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Limenitis_camilla,LR990232.1,11751696,11751776,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set45_frame1, 0.374
+5 top scores:
+[['set45_frame1', 0.374], ['set87_frame2', 1.701], ['set135_frame2', 1.711], ['set122_frame2', 1.764], ['set155_frame2', 1.788]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_45_frame1.fa.txt
+3 42
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_1_query_Exon_8
+SYLADLVETEHLFLKLLEEFCKNTGLVVQKKVRKKGKSK
+3 42
+set45_frame1
+SYLIDLLETVHLFLKMLEHYCKKTGLVVQKKVRKKTKSK
+Original query = SYLADLVETEHLFLKLLEEFCKNTGLVVQKKVRKKGKSK
+New query = SYLIDLLETVHLFLKMLEHYCKKTGLVVQKKVRKKTKSK
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11748545,11748695,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+7
+11
+Limenitis_camilla,LR990232.1,11746169,11746456,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Limenitis_camilla,LR990232.1,11753029,11753138,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Getting Gene
+min = set67_frame2, 0.45
+5 top scores:
+[['set67_frame2', 0.45], ['set88_frame2', 1.687], ['set143_frame2', 1.785], ['set133_frame2', 1.817], ['set115_frame0', 1.823]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_67_frame2.fa.txt
+3 52
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_2_query_Exon_9
+QKPRAPKPKRVETAQWEEVRPQVAAVLRAGVEEYPPPFDAASDTPIDQQ
+3 52
+set67_frame2
+QKPRPSKLKAIEISQWEEVRPQLAAVLSAGVEEYLPPFDAASDVPIDQQ
+Original query = QKPRAPKPKRVETAQWEEVRPQVAAVLRAGVEEYPPPFDAASDTPIDQQ
+New query = QKPRPSKLKAIEISQWEEVRPQLAAVLSAGVEEYLPPFDAASDVPIDQQ
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11751696,11751776,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+7
+12
+13
+14
+Limenitis_camilla,LR990232.1,11746169,11746456,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Limenitis_camilla,LR990232.1,11756481,11756679,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set143_frame2, 0.289
+5 top scores:
+[['set143_frame2', 0.289], ['set153_frame1', 1.609], ['set196_frame2', 1.642], ['set83_frame1', 1.671], ['set88_frame2', 1.678]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_143_frame2.fa.txt
+7 33
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRDHKYEGAVGMLRAA
+7 33
+set143_frame2
+EDCMKKIQKLMREHKYEDAVGTFRAA
+Original query = EDCMKKIQKLMRDHKYEGAVGMLRAA
+New query = EDCMKKIQKLMREHKYEDAVGTFRAA
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11753029,11753138,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+9
+13
+14
+Limenitis_camilla,LR990232.1,11748545,11748695,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Limenitis_camilla,LR990232.1,11756481,11756679,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set117_frame0, 0.275
+5 top scores:
+[['set117_frame0', 0.275], ['set128_frame0', 1.63], ['set53_frame0', 1.692], ['set61_frame2', 1.703], ['set71_frame2', 1.729]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_117_frame0.fa.txt
+9 43
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGVDGVTEDEELDMLETIYNTDLGVE
+9 43
+set117_frame0
+EVWPEEGIFGVPGIPADEELDMLETVYNTDLGVE
+Original query = EVWPEEGIFGVDGVTEDEELDMLETIYNTDLGVEE
+New query = EVWPEEGIFGVPGIPADEELDMLETVYNTDLGVE
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,0,0,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_12,0,0,14
+
+10
+14
+Limenitis_camilla,LR990232.1,11751696,11751776,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Limenitis_camilla,LR990232.1,11756481,11756679,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set51_frame0, 0.722
+5 top scores:
+[['set51_frame0', 0.722], ['set50_frame2', 1.396], ['set89_frame2', 1.519], ['set39_frame2', 1.61], ['set62_frame2', 1.634]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_51_frame0.fa.txt
+6 23
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_1_query_Exon_12
+AYINEEEAQENSQYEDD
+6 23
+set51_frame0
+ATVDEEETQENSEYDEE
+Original query = AYINEEEAQENSQYEDD
+New query = ATVDEEETQENSEYDEE
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11753772,11753838,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,5,20,21
+
+11
+15
+Limenitis_camilla,LR990232.1,11753029,11753138,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Limenitis_camilla,LR990232.1,11760569,11760717,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,4,49,49
+
+Getting Gene
+min = set12_frame1, 0.311
+5 top scores:
+[['set12_frame1', 0.311], ['set19_frame2', 1.443], ['set135_frame2', 1.599], ['set108_frame2', 1.626], ['set132_frame2', 1.642]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_12_frame1.fa.txt
+8 30
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_2_query_Exon_13
+EEEEDRTTSVVETDFDFQDFVL
+8 30
+set12_frame1
+EEEEERSSAVVETDFDFQDFVR
+Original query = EEEEDRTTSVVETDFDFQDFVL
+New query = EEEEERSSAVVETDFDFQDFVR
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11756481,11756679,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Limenitis_camilla,LR990232.1,11753029,11753138,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Limenitis_camilla,LR990232.1,11762146,11762240,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Getting Gene
+min = set90_frame0, 0.832
+5 top scores:
+[['set156_frame1', 1.8], ['set90_frame0', 0.832], ['set67_frame2', 1.809], ['set139_frame2', 1.854], ['set170_frame0', 1.833]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_90_frame0.fa.txt
+32 98
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_0_query_Exon_14
+FCHPRVVSACAGVL-AREAGGARAAHCALKLLHRVAWDCARPAMLFQASLFLVFQRILDRPAPHRE
+32 98
+set90_frame0
+FCHPRIVSACICLLETYEKNLPYTNHCIVKMLHRIAWDSHRPAMMFQATLFLTFQKILNNPVPQFK
+Original query = FCHPRVVSACAGVLAREAGGARAAHCALKLLHRVAWDCARPAMLFQASLFLVFQRILDRPAPHRE
+New query = FCHPRIVSACICLLETYEKNLPYTNHCIVKMLHRIAWDSHRPAMMFQATLFLTFQKILNNPVPQFK
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11760569,11760717,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,4,49,49
+
+13
+12
+11
+17
+Limenitis_camilla,LR990232.1,11753029,11753138,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Limenitis_camilla,LR990232.1,11765461,11765664,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,66,68
+
+Getting Gene
+min = set156_frame1, 0.29
+5 top scores:
+[['set156_frame1', 0.29], ['set199_frame2', 1.711], ['set138_frame0', 1.753], ['set113_frame1', 1.766], ['set164_frame1', 1.773]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_156_frame1.fa.txt
+3 51
+Vanessa_tameamea_XM_026628490.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFAIFILRKFTEIASKSNKVFIELLFWKNSKDSVEIEHGYDLYHD
+3 51
+set156_frame1
+ELEKFAIFVLRKFAEMASKSSKVFIELLFFKNAKDSIEIEHGYDLYYD
+Original query = ELEKFAIFILRKFTEIASKSNKVFIELLFWKNSKDSVEIEHGYDLYHDQ
+New query = ELEKFAIFVLRKFAEMASKSSKVFIELLFFKNAKDSIEIEHGYDLYYD
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11762146,11762240,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+14
+18
+Limenitis_camilla,LR990232.1,11756481,11756679,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Limenitis_camilla,LR990232.1,11768703,11768837,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,36,44
+
+Getting Gene
+min = set125_frame2, 0.464
+5 top scores:
+[['set125_frame2', 0.464], ['set115_frame0', 1.657], ['set187_frame0', 1.663], ['set232_frame1', 1.681], ['set99_frame1', 1.715]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_125_frame2.fa.txt
+5 36
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_1_query_Exon_16
+DKPGRAAWTEEQEEELRSLYMENVARPESDQ
+5 36
+set125_frame2
+DKPGNGNWTEAQEEELRKLYMENQANPENDQ
+Original query = DKPGRAAWTEEQEEELRSLYMENVARPESDQ
+New query = DKPGNGNWTEAQEEELRKLYMENQANPENDQ
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11765461,11765664,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,66,68
+
+15
+19
+20
+Limenitis_camilla,LR990232.1,11760569,11760717,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,4,49,49
+
+Limenitis_camilla,LR990232.1,11769947,11770143,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+Getting Gene
+min = set99_frame1, 0.506
+5 top scores:
+[['set99_frame1', 0.506], ['set221_frame0', 1.69], ['set150_frame2', 1.786], ['set166_frame2', 1.801], ['set216_frame2', 1.827]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_99_frame1.fa.txt
+17 83
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFKAPTKKSNRERQEKVSKEFNEEEDNLLAELWKQYQD
+17 83
+set99_frame1
+VIDWILDNLIVQTRTRRSVIKKLKELGLIFNAPTKKSNKERRD-IPLEFTEEEDNILTELWKQYGE
+Original query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFKAPTKKSNRERQEKVSKEFNEEEDNLLAELWKQYQDSP
+New query = VIDWILDNLIVQTRTRRSVIKKLKELGLIFNAPTKKSNKERRD-IPLEFTEEEDNILTELWKQYGE
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11768703,11768837,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,36,44
+
+16
+20
+Limenitis_camilla,LR990232.1,11762146,11762240,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Limenitis_camilla,LR990232.1,11769947,11770143,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+Getting Gene
+min = set173_frame1, 1.139
+5 top scores:
+[['set173_frame1', 1.139], ['set71_frame2', 1.609], ['set179_frame1', 1.79], ['set15_frame2', 1.798], ['set37_frame2', 1.81]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_173_frame1.fa.txt
+6 59
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_1_query_Exon_18
+PMGLITARMPRKRSKRSFVERMLELGIIQDKNQCRKRRQRKTKSSGDDGDKLN
+6 59
+set173_frame1
+PLSLIVPRMPKKRSKRSFKVRLMQLGLMQ-----TKKRNSKEKTVEDD--KSN
+Original query = PMGLITARMPRKRSKRSFVERMLELGIIQDKNQCRKRRQRKTKSSGDDGDKLN
+New query = PLSLIVPRMPKKRSKRSFKVRLMQLGLMQ-----TKKRNSKEKTVEDD--KSN
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11769309,11769500,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19,19,61,61
+
+17
+21
+22
+Limenitis_camilla,LR990232.1,11765461,11765664,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,66,68
+
+Limenitis_camilla,LR990232.1,11773947,11774143,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_22,0,0,0
+
+Getting Gene
+min = set94_frame1, 0.925
+5 top scores:
+[['set94_frame1', 0.925], ['set103_frame2', 1.661], ['set215_frame1', 1.837], ['set103_frame0', 1.833], ['set114_frame0', 1.85]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_94_frame1.fa.txt
+12 74
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_1_query_Exon_19
+SSSESEHSSSDDENEARPPLRTINVKRKKPSKKKESSKTKKAERLELSASEIAKLLIQAVAS
+12 74
+set94_frame1
+SSSDSENSESDNEDNVRPTPKN-NIKPKKAPARKEQSKRKPAKSKELSASEIAKLLVQAVDN
+Original query = SSSESEHSSSDDENEARPPLRTINVKRKKPSKKKESSKTKKAERLELSASEIAKLLIQAVAS
+New query = SSSDSENSESDNEDNVRPTPKN-NIKPKKAPARKEQSKRKPAKSKELSASEIAKLLVQAVDN
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11769947,11770143,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+18
+21
+22
+Limenitis_camilla,LR990232.1,11768703,11768837,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,36,44
+
+Limenitis_camilla,LR990232.1,11773947,11774143,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_22,0,0,0
+
+Getting Gene
+min = set40_frame1, 0.364
+5 top scores:
+[['set171_frame2', 1.795], ['set40_frame1', 0.364], ['set7_frame2', 1.823], ['set128_frame2', 1.862], ['set104_frame1', 1.848]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_40_frame1.fa.txt
+13 78
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_0_query_Exon_20
+LSEALKWLAENLEEVALDQEAEGFDPESEGTPLVPISSESVEAMDNPLFVKVLKSIGIAPPSDEQ
+13 78
+set40_frame1
+LTDALNWLAESLEEVALDQEAEGFDPTAEGIPLVPISSKSVEAMENNMFIKVLKSTGIVPPGDEQ
+Original query = LSEALKWLAENLEEVALDQEAEGFDPESEGTPLVPISSESVEAMDNPLFVKVLKSIGIAPPSDEQ
+New query = LTDALNWLAESLEEVALDQEAEGFDPTAEGIPLVPISSKSVEAMENNMFIKVLKSTGIVPPGDEQ
+Scaffold = LR990232.1, start = 11741362, end = 11741615
+Limenitis_camilla,LR990232.1,11770242,11770686,0,Y,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,74,154
+
+19
+18
+21
+22
+Limenitis_camilla,LR990232.1,11768703,11768837,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,36,44
+
+Limenitis_camilla,LR990232.1,11773947,11774143,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_22,0,0,0
+
+Getting Gene
+min = set43_frame0, 1.198
+5 top scores:
+[['set43_frame0', 1.198]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Limenitis_camilla/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_43_frame0.fa.txt
+0 289
+Vanessa_tameamea_XM_026628490.1_Frame_0_rightoh_0_query_Exon_21
+ETYWRIPSSIHYETIRKRREIVMKAVNNELLVDSTN---------------------------------------------------------------------DTNSTENNAGTTQ-----------------------ENNPKDESSDDEDLFDTLR--------KMRDVSPQKSSHPTSNILNN--------------------RKRNRSLSSDDE---------------------NNRKMQKIDED----------DSEEDILSFAKKTLQRDDLPDTEELPA
+0 289
+set43_frame0
+ETYWRIPSNLHHETLRKRREIIIKAVNNELIVDNVESNNLDNNENLTDNLNAESSDDENLFDNLRKMTNDVPNKSGLNNINNDNKGIAKVDSSIDNGLFDSLRNMDDNTVSHKNGSNQNRSDKRKRKRNIDSDDDIRNIEKENNSKDESTNDGDIFDKLRLTINNDVNKKSKKRKHKSSNDQTNIENNNLRDESSNDSELFNTKKANKRKRKRNISSDDDTDNKSKTDSSDDNLPSINSKKNKKRTRNIDSDENNGEMEIINEADEDILSFAKKTLQHIDLPDTEDIMS
+Original query = ETYWRIPSSIHYETIRKRREIVMKAVNNELLVDSTNDTNSTENNAGTTQENNPKDESSDDEDLFDTLRKMRDVSPQKSSHPTSNILNNRKRNRSLSSDDENNRKMQKIDEDDSEEDILSFAKKTLQRDDLPDTEELPARDSGSGN
+New query = ETYWRIPSNLHHETLRKRREIIIKAVNNELIVDNVESNNLDNNENLTDNLNAESSDDENLFDNLRKMTNDVPNKSGLNNINNDNKGIAKVDSSIDNGLFDSLRNMDDNTVSHKNGSNQNRSDKRKRKRNIDSDDDIRNIEKENNSKDESTNDGDIFDKLRLTINNDVNKKSKKRKHKSSNDQTNIENNNLRDESSNDSELFNTKKANKRKRKRNISSDDDTDNKSKTDSSDDNLPSINSKKNKKRTRNIDSDENNGEMEIINEADEDILSFAKKTLQHIDLPDTEDIMS

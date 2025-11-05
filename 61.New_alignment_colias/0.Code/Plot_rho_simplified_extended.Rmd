@@ -1,0 +1,117 @@
+---
+title: "Plot Rho_final"
+output: html_document
+date: "2025-03-20"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document.
+
+```{r}
+
+setwd("C:/Users/sauba/Desktop/20.RERConverge_trimmed/3.New_colias/61.New_alignment_colias/1.Rerconverge_result")
+library(tidyverse)
+library(ggExtra)
+library(ggrepel)
+library(cowplot)
+
+
+
+data <- read.csv("correlation_annotated_busco_category.csv")
+#head(data)
+
+```
+
+```{r}
+
+
+
+# data$category <- with(data, ifelse(q_value < 0.1 & Rho > 0, "Significant_Positive",
+                            # ifelse(q_value < 0.1 & Rho < 0, "Significant_Negative", "Black")))
+
+preferred_names_list <- c("Cycle","Period","CHMP1B","Clock","Timeless","SLC6A19","Obstructor-E","Destrin","Tyrosine Hydroxylase","Cytochrome P450","FOXRED1","Myosin","Insect cuticle protein","MMP15","ATM")
+
+p3 <- data %>% 
+  ggplot(aes(x=Rho,y=-log10(q_value),color=p.adj)) + 
+  geom_point(aes(color = category)) +
+  scale_color_manual(values = c("Significant_Positive" = "red", "Significant_Negative" = "blue", "Black" = "black"), name = "Category")+
+  
+  geom_text_repel(
+    data = subset(data, ((q_value < 0.1)& (data$prefname %in% preferred_names_list))),# Only label points with p < 0.05
+    aes(label = Pref_name),  # Label with gene names
+    vjust = 1,
+    hjust = -1, # Position text slightly above points
+    size = 2,  # Adjust text size
+    force = 3,
+    alpha = 0.8,
+    color = "black"  # Set label color
+  ) +
+  labs(title = "Scatter Plot with Gene Labels", x = "Rho", y = "-log10(q-value)") +
+  theme_half_open() +
+  background_grid()+
+  
+  theme(legend.position="none")
+  
+  
+  
+
+p3
+  
+
+#setwd("G:/My Drive/Circadian Rhythm Genes Project/20.RERconverge/3.Original_diapause")
+pdf("C:/Users/sauba/Desktop/20.RERConverge_trimmed/3.New_colias/61.New_alignment_colias/1.Rerconverge_result/rho_plot_BUSCO.pdf", width = 6, height = 4)
+ggMarginal(p3, type = "histogram")
+dev.off()
+
+```
+
+```{r}
+data = subset(data, ((p.adj < 0.05 & Rho > 0) | (Pref_name == "CHMP1B") | (Pref_name == "PDCD6IP")))
+```
+
+```{r}
+
+write.csv(data,"C:/Users/sauba/Desktop/20.RERConverge_trimmed/3.New_colias/61.New_alignment_colias/1.Rerconverge_result/correlation_annotated_busco_category.csv")
+
+```
+
+```{r}
+preferred_names_list <- c("Cycle","Period","CHMP1B","Clock","Timeless","SLC6A19","Obstructor-E","Destrin","Tyrosine Hydroxylase","Cytochrome P450","FOXRED1","Myosin","Insect cuticle protein","MMP15","ATM")
+
+p3 <- data %>% 
+  ggplot(aes(x=Rho,y=-log10(q_value),color=p.adj)) + 
+  geom_point(aes(color = category)) +
+  scale_color_manual(values = c("Significant_Positive" = "red", "Significant_Negative" = "blue", "Black" = "black"), name = "Category")+
+  
+  geom_text_repel(
+    data = subset(data, ((q_value < 0.1)& (Pref_name %in% preferred_names_list))),# Only label points with p < 0.05
+    aes(label = Pref_name),  # Label with gene names
+    vjust = 1,
+    hjust = -1, # Position text slightly above points
+    size = 2,  # Adjust text size
+    force = 3,
+    alpha = 0.8,
+    color = "black"  # Set label color
+  ) +
+  labs(title = "Scatter Plot with Gene Labels", x = "Rho", y = "-log10(q-value)") +
+  theme_half_open() +
+  background_grid()+
+  
+  theme(legend.position="none")
+  
+  
+  
+
+p3
+  
+
+#setwd("G:/My Drive/Circadian Rhythm Genes Project/20.RERconverge/3.Original_diapause")
+pdf("C:/Users/sauba/Desktop/20.RERConverge_trimmed/3.New_colias/61.New_alignment_colias/1.Rerconverge_result/rho_plot_BUSCO.pdf", width = 6, height = 4)
+ggMarginal(p3, type = "histogram")
+dev.off()
+```

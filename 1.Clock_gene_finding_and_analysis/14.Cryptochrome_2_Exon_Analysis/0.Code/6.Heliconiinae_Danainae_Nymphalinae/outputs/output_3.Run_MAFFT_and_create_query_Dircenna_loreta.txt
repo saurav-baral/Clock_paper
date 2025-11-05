@@ -1,0 +1,456 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = OY743093.1, start = 11870950, end = 11871230
+Dircenna_loreta,OY743093.1,11870631,11870882,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Dircenna_loreta,OY743093.1,11870950,11871230,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,1,99,99
+
+Dircenna_loreta,OY743093.1,11869907,11870078,1,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set11_frame1, 0.104
+5 top scores:
+[['set1_frame0', 1.879], ['set9_frame0', 1.897], ['set11_frame1', 0.104], ['set16_frame1', 1.874]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dircenna_loreta/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_11_frame1.fa.txt
+4 87
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDKNLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIQVTSRVSHTLYKLD
+4 87
+set11_frame1
+FLLQCLDDLDQNLKKLNSRLYVIRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIKVISRVSHTLYKLD
+Original query = FLLQCLEDLDKNLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIQVTSRVSHTLYKLD
+New query = FLLQCLDDLDQNLKKLNSRLYVIRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIKVISRVSHTLYKLD
+Scaffold = OY743093.1, start = 11870950, end = 11871230
+Dircenna_loreta,OY743093.1,11870338,11870522,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Dircenna_loreta,OY743093.1,11870950,11871230,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,1,99,99
+
+Dircenna_loreta,OY743093.1,11869605,11869830,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set16_frame1, 0.235
+5 top scores:
+[['set16_frame1', 0.235], ['set22_frame2', 1.771], ['set9_frame0', 1.823], ['set19_frame0', 1.769], ['set25_frame2', 1.837]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dircenna_loreta/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_16_frame1.fa.txt
+10 71
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3
+IIEKNGGKAPLTYHQFQALIASMPPPPSAEPTISLETLNRAVTPISDNHDERFGVPTLEEL
+10 71
+set16_frame1
+IIEKNGGKAPLTYHQFQALIASMPPPPSAEDTITLETLKGTITPLSDDHDDRFGVPTLEEL
+Original query = IIEKNGGKAPLTYHQFQALIASMPPPPSAEPTISLETLNRAVTPISDNHDERFGVPTLEEL
+New query = IIEKNGGKAPLTYHQFQALIASMPPPPSAEDTITLETLKGTITPLSDDHDDRFGVPTLEEL
+Scaffold = OY743093.1, start = 11870950, end = 11871230
+Dircenna_loreta,OY743093.1,11869907,11870078,1,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Dircenna_loreta,OY743093.1,11870631,11870882,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Dircenna_loreta,OY743093.1,11868405,11868545,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set18_frame2, 0.081
+5 top scores:
+[['set18_frame2', 0.081], ['set6_frame0', 1.819], ['set17_frame2', 1.833], ['set47_frame2', 1.836], ['set15_frame2', 1.852]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dircenna_loreta/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_18_frame2.fa.txt
+8 64
+Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4
+FDTEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPESLLSSQTGLSPYL
+8 64
+set18_frame2
+FETEGLKPPIWIGGETEALLRLERHLERKAWVASFGRPKMTPQSLLSSQTGLSPYL
+Original query = FDTEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPESLLSSQTGLSPYL
+New query = FETEGLKPPIWIGGETEALLRLERHLERKAWVASFGRPKMTPQSLLSSQTGLSPYL
+Scaffold = OY743093.1, start = 11870950, end = 11871230
+Dircenna_loreta,OY743093.1,11869605,11869830,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Dircenna_loreta,OY743093.1,11870338,11870522,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Dircenna_loreta,OY743093.1,11867789,11867940,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set11_frame0, 0.027
+5 top scores:
+[['set8_frame2', 1.867], ['set11_frame0', 0.027], ['set37_frame0', 1.869], ['set1_frame1', 1.824], ['set5_frame1', 1.901]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dircenna_loreta/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_11_frame0.fa.txt
+8 83
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAN
+8 83
+set11_frame0
+FGCLSTRLFYYQLSELYKRVKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAS
+Original query = FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAN
+New query = FGCLSTRLFYYQLSELYKRVKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAS
+Scaffold = OY743093.1, start = 11870950, end = 11871230
+Dircenna_loreta,OY743093.1,11868405,11868545,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Dircenna_loreta,OY743093.1,11869907,11870078,1,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Dircenna_loreta,OY743093.1,11867333,11867535,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set32_frame0, 0.081
+5 top scores:
+[['set17_frame2', 1.813], ['set11_frame0', 1.817], ['set17_frame0', 1.815], ['set25_frame0', 1.788], ['set32_frame0', 0.081]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dircenna_loreta/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_32_frame0.fa.txt
+11 58
+Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6
+GQTGFPWIDAIMIQLRNDGWIHHLARHAVACFLTRGDLWISWEEGMK
+11 58
+set32_frame0
+GQTGFPWIDAIMTQLREDGWVHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GQTGFPWIDAIMIQLRNDGWIHHLARHAVACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDAIMTQLREDGWVHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = OY743093.1, start = 11870950, end = 11871230
+Dircenna_loreta,OY743093.1,11867789,11867940,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Dircenna_loreta,OY743093.1,11869605,11869830,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Dircenna_loreta,OY743093.1,11867333,11867535,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set42_frame0, 0.0
+5 top scores:
+[['set32_frame1', 1.777], ['set15_frame0', 1.83], ['set3_frame2', 1.837], ['set28_frame0', 1.849], ['set42_frame0', 0.0]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dircenna_loreta/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_42_frame0.fa.txt
+5 55
+Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+5 55
+set42_frame0
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = OY743093.1, start = 11870950, end = 11871230
+Dircenna_loreta,OY743093.1,11867333,11867535,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Dircenna_loreta,OY743093.1,11868405,11868545,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Dircenna_loreta,OY743093.1,11867333,11867535,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set12_frame0, 0.171
+5 top scores:
+[['set3_frame0', 1.884], ['set12_frame0', 0.171], ['set1_frame2', 1.891], ['set15_frame2', 1.877], ['set23_frame2', 1.854]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dircenna_loreta/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_12_frame0.fa.txt
+12 78
+set12_frame0
+KYIPALKNMPTRYIHEPWMCPEEIQNSARCIIGRDYPMPMVDHSKASQVNIERIKQVYAQLAKFKP
+Original query = KYIPVLKNMPTRYIHEPWVCPEEIQKSIRCIIGKDYPMPIVDHTKASEINLERIKQVYAQLAKFKPQ
+New query = KYIPALKNMPTRYIHEPWMCPEEIQNSARCIIGRDYPMPMVDHSKASQVNIERIKQVYAQLAKFKP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = OY743093.1, start = 11870950, end = 11871230
+Dircenna_loreta,OY743093.1,11870631,11870882,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Dircenna_loreta,OY743093.1,11870950,11871230,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,1,99,99
+
+Dircenna_loreta,OY743093.1,11869907,11870078,1,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set11_frame1, 0.133
+5 top scores:
+[['set1_frame0', 1.878], ['set9_frame0', 1.891], ['set11_frame1', 0.133], ['set16_frame1', 1.871]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dircenna_loreta/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_11_frame1.fa.txt
+4 87
+Nymphalis_io_XM_050504024.1_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWETTALTFEEDPEPYGRVRDHNITTKCREVGIKVTSRVSHTLYKLD
+4 87
+set11_frame1
+FLLQCLDDLDQNLKKLNSRLYVIRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIKVISRVSHTLYKLD
+Original query = FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWETTALTFEEDPEPYGRVRDHNITTKCREVGIKVTSRVSHTLYKLD
+New query = FLLQCLDDLDQNLKKLNSRLYVIRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIKVISRVSHTLYKLD
+Scaffold = OY743093.1, start = 11870950, end = 11871230
+Dircenna_loreta,OY743093.1,11870338,11870522,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Dircenna_loreta,OY743093.1,11870950,11871230,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,1,99,99
+
+Dircenna_loreta,OY743093.1,11869605,11869830,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set16_frame1, 0.376
+5 top scores:
+[['set16_frame1', 0.376], ['set24_frame1', 1.783], ['set22_frame2', 1.798], ['set25_frame2', 1.848], ['set11_frame1', 1.859]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dircenna_loreta/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_16_frame1.fa.txt
+10 71
+Nymphalis_io_XM_050504024.1_Frame_1_rightoh_1_query_Exon_3
+IIERNGGKAPLTYHQFQALIASMPPPPPAEPAITADMLNGAITPLGADHEDRFGVPTLEEL
+10 71
+set16_frame1
+IIEKNGGKAPLTYHQFQALIASMPPPPSAEDTITLETLKGTITPLSDDHDDRFGVPTLEEL
+Original query = IIERNGGKAPLTYHQFQALIASMPPPPPAEPAITADMLNGAITPLGADHEDRFGVPTLEEL
+New query = IIEKNGGKAPLTYHQFQALIASMPPPPSAEDTITLETLKGTITPLSDDHDDRFGVPTLEEL
+Scaffold = OY743093.1, start = 11870950, end = 11871230
+Dircenna_loreta,OY743093.1,11869907,11870078,1,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Dircenna_loreta,OY743093.1,11870631,11870882,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Dircenna_loreta,OY743093.1,11868405,11868545,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set18_frame2, 0.128
+5 top scores:
+[['set18_frame2', 0.128], ['set47_frame2', 1.825], ['set17_frame2', 1.838], ['set16_frame0', 1.825], ['set28_frame2', 1.852]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dircenna_loreta/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_18_frame2.fa.txt
+8 64
+Nymphalis_io_XM_050504024.1_Frame_2_rightoh_2_query_Exon_4
+FDTDGLKPPLWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+8 64
+set18_frame2
+FETEGLKPPIWIGGETEALLRLERHLERKAWVASFGRPKMTPQSLLSSQTGLSPYL
+Original query = FDTDGLKPPLWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+New query = FETEGLKPPIWIGGETEALLRLERHLERKAWVASFGRPKMTPQSLLSSQTGLSPYL
+Scaffold = OY743093.1, start = 11870950, end = 11871230
+Dircenna_loreta,OY743093.1,11869605,11869830,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Dircenna_loreta,OY743093.1,11870338,11870522,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Dircenna_loreta,OY743093.1,11867789,11867940,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set11_frame0, 0.218
+5 top scores:
+[['set1_frame0', 1.876], ['set11_frame0', 0.218], ['set37_frame2', 1.876], ['set1_frame1', 1.831], ['set5_frame1', 1.9]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dircenna_loreta/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_11_frame0.fa.txt
+8 83
+Nymphalis_io_XM_050504024.1_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLTELYTRVKRVLPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWQKNQDALLKWAN
+8 83
+set11_frame0
+FGCLSTRLFYYQLSELYKRVKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAS
+Original query = FGCLSTRLFYYQLTELYTRVKRVLPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWQKNQDALLKWAN
+New query = FGCLSTRLFYYQLSELYKRVKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAS
+Scaffold = OY743093.1, start = 11870950, end = 11871230
+Dircenna_loreta,OY743093.1,11868405,11868545,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Dircenna_loreta,OY743093.1,11869907,11870078,1,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Dircenna_loreta,OY743093.1,11867333,11867535,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set32_frame0, 0.167
+5 top scores:
+[['set11_frame2', 1.804], ['set43_frame0', 1.822], ['set17_frame0', 1.784], ['set25_frame0', 1.782], ['set32_frame0', 0.167]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dircenna_loreta/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_32_frame0.fa.txt
+11 58
+Nymphalis_io_XM_050504024.1_Frame_0_rightoh_0_query_Exon_6
+GKTGYPWIDAIMIQLREEGWIHHLSRHAAACFLTRGDLWISWEEGMK
+11 58
+set32_frame0
+GQTGFPWIDAIMTQLREDGWVHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GKTGYPWIDAIMIQLREEGWIHHLSRHAAACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDAIMTQLREDGWVHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = OY743093.1, start = 11870950, end = 11871230
+Dircenna_loreta,OY743093.1,11867789,11867940,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Dircenna_loreta,OY743093.1,11869605,11869830,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Dircenna_loreta,OY743093.1,11867333,11867535,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set42_frame0, 0.031
+5 top scores:
+[['set32_frame1', 1.795], ['set15_frame0', 1.83], ['set3_frame2', 1.837], ['set28_frame0', 1.849], ['set42_frame0', 0.031]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dircenna_loreta/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_42_frame0.fa.txt
+5 55
+Nymphalis_io_XM_050504024.1_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKIDPNGDFI
+5 55
+set42_frame0
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKIDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = OY743093.1, start = 11870950, end = 11871230
+Dircenna_loreta,OY743093.1,11867333,11867535,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Dircenna_loreta,OY743093.1,11868405,11868545,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Dircenna_loreta,OY743093.1,11867333,11867535,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set12_frame0, 0.315
+5 top scores:
+[['set3_frame0', 1.895], ['set12_frame0', 0.315], ['set1_frame2', 1.868], ['set15_frame2', 1.885], ['set23_frame2', 1.86]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dircenna_loreta/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_12_frame0.fa.txt
+12 78
+set12_frame0
+KYIPALKNMPTRYIHEPWMCPEEIQNSARCIIGRDYPMPMVDHSKASQVNIERIKQVYAQLAKFKP
+Original query = KYIPALRNLPTRFIHEPWMAPETVQQDANCIIGRDYPQPIVDHAKASQVNIERIKQVYAQLAKYKPP
+New query = KYIPALKNMPTRYIHEPWMCPEEIQNSARCIIGRDYPMPMVDHSKASQVNIERIKQVYAQLAKFKP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = OY743093.1, start = 11870950, end = 11871230
+Dircenna_loreta,OY743093.1,11870631,11870882,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Dircenna_loreta,OY743093.1,11870950,11871230,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,1,99,99
+
+Dircenna_loreta,OY743093.1,11869907,11870078,1,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set11_frame1, 0.104
+5 top scores:
+[['set1_frame0', 1.879], ['set9_frame0', 1.902], ['set11_frame1', 0.104], ['set16_frame1', 1.871]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dircenna_loreta/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_11_frame1.fa.txt
+4 87
+Vanessa_tameamea_XM_026629288.1_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRVSHTLYKLD
+4 87
+set11_frame1
+FLLQCLDDLDQNLKKLNSRLYVIRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIKVISRVSHTLYKLD
+Original query = FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRVSHTLYKLD
+New query = FLLQCLDDLDQNLKKLNSRLYVIRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIKVISRVSHTLYKLD
+Scaffold = OY743093.1, start = 11870950, end = 11871230
+Dircenna_loreta,OY743093.1,11870338,11870522,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Dircenna_loreta,OY743093.1,11870950,11871230,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,1,99,99
+
+Dircenna_loreta,OY743093.1,11869605,11869830,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set16_frame1, 0.346
+5 top scores:
+[['set16_frame1', 0.346], ['set22_frame2', 1.79], ['set25_frame2', 1.828], ['set19_frame0', 1.849], ['set11_frame1', 1.844]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dircenna_loreta/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_16_frame1.fa.txt
+10 71
+Vanessa_tameamea_XM_026629288.1_Frame_1_rightoh_1_query_Exon_3
+IIERNEGKAPLTYHQFQALIASMPPPPPAEPAITAEMLNGAVTPLADDHEDRFGVPTLEEL
+10 71
+set16_frame1
+IIEKNGGKAPLTYHQFQALIASMPPPPSAEDTITLETLKGTITPLSDDHDDRFGVPTLEEL
+Original query = IIERNEGKAPLTYHQFQALIASMPPPPPAEPAITAEMLNGAVTPLADDHEDRFGVPTLEEL
+New query = IIEKNGGKAPLTYHQFQALIASMPPPPSAEDTITLETLKGTITPLSDDHDDRFGVPTLEEL
+Scaffold = OY743093.1, start = 11870950, end = 11871230
+Dircenna_loreta,OY743093.1,11869907,11870078,1,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Dircenna_loreta,OY743093.1,11870631,11870882,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Dircenna_loreta,OY743093.1,11868405,11868545,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set18_frame2, 0.052
+5 top scores:
+[['set18_frame2', 0.052], ['set47_frame2', 1.823], ['set17_frame2', 1.838], ['set16_frame0', 1.84], ['set28_frame2', 1.852]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dircenna_loreta/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_18_frame2.fa.txt
+8 64
+Vanessa_tameamea_XM_026629288.1_Frame_2_rightoh_2_query_Exon_4
+FETEGLKPPIWIGGEKEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+8 64
+set18_frame2
+FETEGLKPPIWIGGETEALLRLERHLERKAWVASFGRPKMTPQSLLSSQTGLSPYL
+Original query = FETEGLKPPIWIGGEKEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+New query = FETEGLKPPIWIGGETEALLRLERHLERKAWVASFGRPKMTPQSLLSSQTGLSPYL
+Scaffold = OY743093.1, start = 11870950, end = 11871230
+Dircenna_loreta,OY743093.1,11869605,11869830,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Dircenna_loreta,OY743093.1,11870338,11870522,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Dircenna_loreta,OY743093.1,11867789,11867940,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set11_frame0, 0.18
+5 top scores:
+[['set1_frame0', 1.875], ['set11_frame0', 0.18], ['set37_frame2', 1.876], ['set1_frame1', 1.831], ['set5_frame1', 1.9]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dircenna_loreta/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_11_frame0.fa.txt
+8 83
+Vanessa_tameamea_XM_026629288.1_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLTELYTRVKRVLPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQEALVKWAN
+8 83
+set11_frame0
+FGCLSTRLFYYQLSELYKRVKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAS
+Original query = FGCLSTRLFYYQLTELYTRVKRVLPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQEALVKWAN
+New query = FGCLSTRLFYYQLSELYKRVKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAS
+Scaffold = OY743093.1, start = 11870950, end = 11871230
+Dircenna_loreta,OY743093.1,11868405,11868545,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Dircenna_loreta,OY743093.1,11869907,11870078,1,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Dircenna_loreta,OY743093.1,11867333,11867535,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set32_frame0, 0.096
+5 top scores:
+[['set1_frame2', 1.807], ['set11_frame2', 1.828], ['set17_frame0', 1.815], ['set25_frame0', 1.8], ['set32_frame0', 0.096]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dircenna_loreta/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_32_frame0.fa.txt
+11 58
+Vanessa_tameamea_XM_026629288.1_Frame_0_rightoh_0_query_Exon_6
+GQTGFPWIDAIMIQLREEGWIHHLARHAAACFLTRGDLWISWEEGMK
+11 58
+set32_frame0
+GQTGFPWIDAIMTQLREDGWVHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GQTGFPWIDAIMIQLREEGWIHHLARHAAACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDAIMTQLREDGWVHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = OY743093.1, start = 11870950, end = 11871230
+Dircenna_loreta,OY743093.1,11867789,11867940,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Dircenna_loreta,OY743093.1,11869605,11869830,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Dircenna_loreta,OY743093.1,11867333,11867535,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set42_frame0, 0.0
+5 top scores:
+[['set32_frame1', 1.777], ['set15_frame0', 1.83], ['set3_frame2', 1.837], ['set28_frame0', 1.849], ['set42_frame0', 0.0]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dircenna_loreta/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_42_frame0.fa.txt
+5 55
+Vanessa_tameamea_XM_026629288.1_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+5 55
+set42_frame0
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = OY743093.1, start = 11870950, end = 11871230
+Dircenna_loreta,OY743093.1,11867333,11867535,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Dircenna_loreta,OY743093.1,11868405,11868545,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Dircenna_loreta,OY743093.1,11867333,11867535,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set12_frame0, 0.261
+5 top scores:
+[['set3_frame0', 1.888], ['set12_frame0', 0.261], ['set1_frame2', 1.86], ['set15_frame2', 1.885], ['set23_frame2', 1.86]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dircenna_loreta/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_12_frame0.fa.txt
+12 78
+set12_frame0
+KYIPALKNMPTRYIHEPWMCPEEIQNSARCIIGRDYPMPMVDHSKASQVNIERIKQVYAQLAKFKP
+Original query = KYIPALKNLPTRYIHEPWMAPEAVQQAANCIIGRDYPQPIVDHAKASQVNIERIKQVYAQLAKYKPP
+New query = KYIPALKNMPTRYIHEPWMCPEEIQNSARCIIGRDYPMPMVDHSKASQVNIERIKQVYAQLAKFKP

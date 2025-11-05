@@ -1,0 +1,456 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = CM041741.1, start = 9112306, end = 9112556
+Hestina_assimilis,CM041741.1,9112809,9113060,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Hestina_assimilis,CM041741.1,9112306,9112556,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,33,99,99
+
+Hestina_assimilis,CM041741.1,9115323,9115494,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set10_frame0, 0.087
+5 top scores:
+[['set2_frame0', 1.898], ['set10_frame0', 0.087], ['set64_frame1', 1.861], ['set27_frame2', 1.896]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hestina_assimilis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_10_frame0.fa.txt
+3 86
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDKNLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIQVTSRVSHTLYKLD
+3 86
+set10_frame0
+FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWGTTSLTFEEDPEPYGRVRDHNIMTKCREVGITVTSKVSHTLYKLD
+Original query = FLLQCLEDLDKNLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIQVTSRVSHTLYKLD
+New query = FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWGTTSLTFEEDPEPYGRVRDHNIMTKCREVGITVTSKVSHTLYKLD
+Scaffold = CM041741.1, start = 9112306, end = 9112556
+Hestina_assimilis,CM041741.1,9113567,9113751,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Hestina_assimilis,CM041741.1,9112306,9112556,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,33,99,99
+
+Hestina_assimilis,CM041741.1,9115727,9115952,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set27_frame2, 0.335
+5 top scores:
+[['set27_frame2', 0.335], ['set72_frame2', 1.777], ['set35_frame2', 1.853], ['set13_frame0', 1.778], ['set58_frame0', 1.793]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hestina_assimilis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_27_frame2.fa.txt
+12 73
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3
+IIEKNGGKAPLTYHQFQALIASMPPPPSAEPTISLETLNRAVTPISDNHDERFGVPTLEEL
+12 73
+set27_frame2
+IIERNGGKAPLTYHQFQALIASLPPPPPAEETITAQSLNGATTPISHDHDERFGVPTLEEL
+Original query = IIEKNGGKAPLTYHQFQALIASMPPPPSAEPTISLETLNRAVTPISDNHDERFGVPTLEEL
+New query = IIERNGGKAPLTYHQFQALIASLPPPPPAEETITAQSLNGATTPISHDHDERFGVPTLEEL
+Scaffold = CM041741.1, start = 9112306, end = 9112556
+Hestina_assimilis,CM041741.1,9115323,9115494,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Hestina_assimilis,CM041741.1,9112809,9113060,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Hestina_assimilis,CM041741.1,9116777,9116917,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set54_frame2, 0.167
+5 top scores:
+[['set54_frame2', 0.167], ['set66_frame1', 1.807], ['set49_frame1', 1.822], ['set63_frame0', 1.788], ['set77_frame2', 1.827]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hestina_assimilis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_54_frame2.fa.txt
+22 78
+Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4
+FDTEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPESLLSSQTGLSPYL
+22 78
+set54_frame2
+FETEGLKDPIWIGGESEALLRLERHLERKAWVATFGRPKMTPQSLLASQTGLSPYL
+Original query = FDTEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPESLLSSQTGLSPYL
+New query = FETEGLKDPIWIGGESEALLRLERHLERKAWVATFGRPKMTPQSLLASQTGLSPYL
+Scaffold = CM041741.1, start = 9112306, end = 9112556
+Hestina_assimilis,CM041741.1,9115727,9115952,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Hestina_assimilis,CM041741.1,9113567,9113751,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Hestina_assimilis,CM041741.1,9117412,9117563,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set46_frame1, 0.164
+5 top scores:
+[['set61_frame2', 1.809], ['set53_frame0', 1.844], ['set62_frame0', 1.816], ['set67_frame2', 1.854], ['set46_frame1', 0.164]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hestina_assimilis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_46_frame1.fa.txt
+8 83
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAN
+8 83
+set46_frame1
+FGCLSTRLFYFQLTELYKRVKGVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNNDALSKWAN
+Original query = FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAN
+New query = FGCLSTRLFYFQLTELYKRVKGVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNNDALSKWAN
+Scaffold = CM041741.1, start = 9112306, end = 9112556
+Hestina_assimilis,CM041741.1,9116777,9116917,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Hestina_assimilis,CM041741.1,9115323,9115494,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Hestina_assimilis,CM041741.1,9118167,9118369,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,65,67
+
+Getting Gene
+min = set24_frame2, 0.071
+5 top scores:
+[['set24_frame2', 0.071], ['set36_frame2', 1.78], ['set50_frame2', 1.826], ['set19_frame0', 1.847], ['set21_frame0', 1.841]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hestina_assimilis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_24_frame2.fa.txt
+10 57
+Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6
+GQTGFPWIDAIMIQLRNDGWIHHLARHAVACFLTRGDLWISWEEGMK
+10 57
+set24_frame2
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GQTGFPWIDAIMIQLRNDGWIHHLARHAVACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = CM041741.1, start = 9112306, end = 9112556
+Hestina_assimilis,CM041741.1,9117412,9117563,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Hestina_assimilis,CM041741.1,9115727,9115952,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Hestina_assimilis,CM041741.1,9118167,9118369,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,65,67
+
+Getting Gene
+min = set29_frame2, 0.0
+5 top scores:
+[['set29_frame2', 0.0], ['set39_frame2', 1.838], ['set32_frame0', 1.832], ['set33_frame0', 1.838], ['set35_frame0', 1.79]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hestina_assimilis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_29_frame2.fa.txt
+0 50
+Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+0 50
+set29_frame2
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = CM041741.1, start = 9112306, end = 9112556
+Hestina_assimilis,CM041741.1,9118167,9118369,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,65,67
+
+6
+8
+Hestina_assimilis,CM041741.1,9116777,9116917,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Hestina_assimilis,CM041741.1,9118167,9118369,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,65,67
+
+Getting Gene
+min = set27_frame2, 0.371
+5 top scores:
+[['set1_frame0', 1.835], ['set14_frame1', 1.858], ['set17_frame2', 1.888], ['set23_frame2', 1.854], ['set27_frame2', 0.371]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hestina_assimilis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_27_frame2.fa.txt
+21 87
+set27_frame2
+KYIPALKNLPTRYIHEPWVAPEAVQQAAHCIIGKDYPMPMVDHSKASEANIERIKQVYAQLAKYKM
+Original query = KYIPVLKNMPTRYIHEPWVCPEEIQKSIRCIIGKDYPMPIVDHTKASEINLERIKQVYAQLAKFKPQ
+New query = KYIPALKNLPTRYIHEPWVAPEAVQQAAHCIIGKDYPMPMVDHSKASEANIERIKQVYAQLAKYKM
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = CM041741.1, start = 9112306, end = 9112556
+Hestina_assimilis,CM041741.1,9112809,9113060,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Hestina_assimilis,CM041741.1,9112306,9112556,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,33,99,99
+
+Hestina_assimilis,CM041741.1,9115323,9115494,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set10_frame0, 0.102
+5 top scores:
+[['set2_frame0', 1.897], ['set10_frame0', 0.102], ['set64_frame1', 1.855], ['set27_frame2', 1.898]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hestina_assimilis/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_10_frame0.fa.txt
+3 86
+Nymphalis_io_XM_050504024.1_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWETTALTFEEDPEPYGRVRDHNITTKCREVGIKVTSRVSHTLYKLD
+3 86
+set10_frame0
+FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWGTTSLTFEEDPEPYGRVRDHNIMTKCREVGITVTSKVSHTLYKLD
+Original query = FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWETTALTFEEDPEPYGRVRDHNITTKCREVGIKVTSRVSHTLYKLD
+New query = FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWGTTSLTFEEDPEPYGRVRDHNIMTKCREVGITVTSKVSHTLYKLD
+Scaffold = CM041741.1, start = 9112306, end = 9112556
+Hestina_assimilis,CM041741.1,9113567,9113751,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Hestina_assimilis,CM041741.1,9112306,9112556,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,33,99,99
+
+Hestina_assimilis,CM041741.1,9115727,9115952,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set27_frame2, 0.321
+5 top scores:
+[['set27_frame2', 0.321], ['set64_frame1', 1.81], ['set56_frame2', 1.848], ['set13_frame0', 1.792], ['set58_frame0', 1.825]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hestina_assimilis/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_27_frame2.fa.txt
+12 73
+Nymphalis_io_XM_050504024.1_Frame_1_rightoh_1_query_Exon_3
+IIERNGGKAPLTYHQFQALIASMPPPPPAEPAITADMLNGAITPLGADHEDRFGVPTLEEL
+12 73
+set27_frame2
+IIERNGGKAPLTYHQFQALIASLPPPPPAEETITAQSLNGATTPISHDHDERFGVPTLEEL
+Original query = IIERNGGKAPLTYHQFQALIASMPPPPPAEPAITADMLNGAITPLGADHEDRFGVPTLEEL
+New query = IIERNGGKAPLTYHQFQALIASLPPPPPAEETITAQSLNGATTPISHDHDERFGVPTLEEL
+Scaffold = CM041741.1, start = 9112306, end = 9112556
+Hestina_assimilis,CM041741.1,9115323,9115494,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Hestina_assimilis,CM041741.1,9112809,9113060,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Hestina_assimilis,CM041741.1,9116777,9116917,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set54_frame2, 0.179
+5 top scores:
+[['set54_frame2', 0.179], ['set73_frame1', 1.767], ['set46_frame2', 1.799], ['set63_frame0', 1.781], ['set66_frame1', 1.825]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hestina_assimilis/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_54_frame2.fa.txt
+22 78
+Nymphalis_io_XM_050504024.1_Frame_2_rightoh_2_query_Exon_4
+FDTDGLKPPLWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+22 78
+set54_frame2
+FETEGLKDPIWIGGESEALLRLERHLERKAWVATFGRPKMTPQSLLASQTGLSPYL
+Original query = FDTDGLKPPLWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+New query = FETEGLKDPIWIGGESEALLRLERHLERKAWVATFGRPKMTPQSLLASQTGLSPYL
+Scaffold = CM041741.1, start = 9112306, end = 9112556
+Hestina_assimilis,CM041741.1,9115727,9115952,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Hestina_assimilis,CM041741.1,9113567,9113751,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Hestina_assimilis,CM041741.1,9117412,9117563,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set46_frame1, 0.185
+5 top scores:
+[['set61_frame2', 1.797], ['set67_frame2', 1.838], ['set62_frame0', 1.82], ['set1_frame1', 1.862], ['set46_frame1', 0.185]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hestina_assimilis/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_46_frame1.fa.txt
+8 83
+Nymphalis_io_XM_050504024.1_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLTELYTRVKRVLPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWQKNQDALLKWAN
+8 83
+set46_frame1
+FGCLSTRLFYFQLTELYKRVKGVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNNDALSKWAN
+Original query = FGCLSTRLFYYQLTELYTRVKRVLPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWQKNQDALLKWAN
+New query = FGCLSTRLFYFQLTELYKRVKGVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNNDALSKWAN
+Scaffold = CM041741.1, start = 9112306, end = 9112556
+Hestina_assimilis,CM041741.1,9116777,9116917,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Hestina_assimilis,CM041741.1,9115323,9115494,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Hestina_assimilis,CM041741.1,9118167,9118369,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,65,67
+
+Getting Gene
+min = set24_frame2, 0.1
+5 top scores:
+[['set24_frame2', 0.1], ['set44_frame1', 1.805], ['set1_frame2', 1.808], ['set36_frame2', 1.811], ['set28_frame1', 1.837]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hestina_assimilis/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_24_frame2.fa.txt
+10 57
+Nymphalis_io_XM_050504024.1_Frame_0_rightoh_0_query_Exon_6
+GKTGYPWIDAIMIQLREEGWIHHLSRHAAACFLTRGDLWISWEEGMK
+10 57
+set24_frame2
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GKTGYPWIDAIMIQLREEGWIHHLSRHAAACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = CM041741.1, start = 9112306, end = 9112556
+Hestina_assimilis,CM041741.1,9117412,9117563,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Hestina_assimilis,CM041741.1,9115727,9115952,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Hestina_assimilis,CM041741.1,9118167,9118369,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,65,67
+
+Getting Gene
+min = set29_frame2, 0.031
+5 top scores:
+[['set29_frame2', 0.031], ['set1_frame1', 1.81], ['set9_frame2', 1.826], ['set39_frame2', 1.837], ['set35_frame0', 1.79]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hestina_assimilis/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_29_frame2.fa.txt
+0 50
+Nymphalis_io_XM_050504024.1_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKIDPNGDFI
+0 50
+set29_frame2
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKIDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = CM041741.1, start = 9112306, end = 9112556
+Hestina_assimilis,CM041741.1,9118167,9118369,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,65,67
+
+6
+8
+Hestina_assimilis,CM041741.1,9116777,9116917,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Hestina_assimilis,CM041741.1,9118167,9118369,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,65,67
+
+Getting Gene
+min = set27_frame2, 0.317
+5 top scores:
+[['set1_frame0', 1.847], ['set14_frame1', 1.885], ['set17_frame2', 1.895], ['set23_frame2', 1.853], ['set27_frame2', 0.317]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hestina_assimilis/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_27_frame2.fa.txt
+21 87
+set27_frame2
+KYIPALKNLPTRYIHEPWVAPEAVQQAAHCIIGKDYPMPMVDHSKASEANIERIKQVYAQLAKYKM
+Original query = KYIPALRNLPTRFIHEPWMAPETVQQDANCIIGRDYPQPIVDHAKASQVNIERIKQVYAQLAKYKPP
+New query = KYIPALKNLPTRYIHEPWVAPEAVQQAAHCIIGKDYPMPMVDHSKASEANIERIKQVYAQLAKYKM
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = CM041741.1, start = 9112306, end = 9112556
+Hestina_assimilis,CM041741.1,9112809,9113060,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Hestina_assimilis,CM041741.1,9112306,9112556,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,33,99,99
+
+Hestina_assimilis,CM041741.1,9115323,9115494,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set10_frame0, 0.026
+5 top scores:
+[['set2_frame0', 1.898], ['set10_frame0', 0.026], ['set64_frame1', 1.866], ['set27_frame2', 1.896]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hestina_assimilis/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_10_frame0.fa.txt
+3 86
+Vanessa_tameamea_XM_026629288.1_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRVSHTLYKLD
+3 86
+set10_frame0
+FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWGTTSLTFEEDPEPYGRVRDHNIMTKCREVGITVTSKVSHTLYKLD
+Original query = FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRVSHTLYKLD
+New query = FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWGTTSLTFEEDPEPYGRVRDHNIMTKCREVGITVTSKVSHTLYKLD
+Scaffold = CM041741.1, start = 9112306, end = 9112556
+Hestina_assimilis,CM041741.1,9113567,9113751,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Hestina_assimilis,CM041741.1,9112306,9112556,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,33,99,99
+
+Hestina_assimilis,CM041741.1,9115727,9115952,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set27_frame2, 0.334
+5 top scores:
+[['set27_frame2', 0.334], ['set64_frame1', 1.825], ['set35_frame2', 1.858], ['set13_frame0', 1.792], ['set58_frame0', 1.811]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hestina_assimilis/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_27_frame2.fa.txt
+12 73
+Vanessa_tameamea_XM_026629288.1_Frame_1_rightoh_1_query_Exon_3
+IIERNEGKAPLTYHQFQALIASMPPPPPAEPAITAEMLNGAVTPLADDHEDRFGVPTLEEL
+12 73
+set27_frame2
+IIERNGGKAPLTYHQFQALIASLPPPPPAEETITAQSLNGATTPISHDHDERFGVPTLEEL
+Original query = IIERNEGKAPLTYHQFQALIASMPPPPPAEPAITAEMLNGAVTPLADDHEDRFGVPTLEEL
+New query = IIERNGGKAPLTYHQFQALIASLPPPPPAEETITAQSLNGATTPISHDHDERFGVPTLEEL
+Scaffold = CM041741.1, start = 9112306, end = 9112556
+Hestina_assimilis,CM041741.1,9115323,9115494,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Hestina_assimilis,CM041741.1,9112809,9113060,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Hestina_assimilis,CM041741.1,9116777,9116917,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set54_frame2, 0.103
+5 top scores:
+[['set54_frame2', 0.103], ['set73_frame1', 1.761], ['set46_frame2', 1.822], ['set63_frame0', 1.785], ['set77_frame2', 1.826]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hestina_assimilis/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_54_frame2.fa.txt
+22 78
+Vanessa_tameamea_XM_026629288.1_Frame_2_rightoh_2_query_Exon_4
+FETEGLKPPIWIGGEKEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+22 78
+set54_frame2
+FETEGLKDPIWIGGESEALLRLERHLERKAWVATFGRPKMTPQSLLASQTGLSPYL
+Original query = FETEGLKPPIWIGGEKEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+New query = FETEGLKDPIWIGGESEALLRLERHLERKAWVATFGRPKMTPQSLLASQTGLSPYL
+Scaffold = CM041741.1, start = 9112306, end = 9112556
+Hestina_assimilis,CM041741.1,9115727,9115952,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Hestina_assimilis,CM041741.1,9113567,9113751,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Hestina_assimilis,CM041741.1,9117412,9117563,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set46_frame1, 0.18
+5 top scores:
+[['set61_frame2', 1.797], ['set67_frame2', 1.838], ['set62_frame0', 1.799], ['set1_frame1', 1.862], ['set46_frame1', 0.18]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hestina_assimilis/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_46_frame1.fa.txt
+8 83
+Vanessa_tameamea_XM_026629288.1_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLTELYTRVKRVLPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQEALVKWAN
+8 83
+set46_frame1
+FGCLSTRLFYFQLTELYKRVKGVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNNDALSKWAN
+Original query = FGCLSTRLFYYQLTELYTRVKRVLPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQEALVKWAN
+New query = FGCLSTRLFYFQLTELYKRVKGVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNNDALSKWAN
+Scaffold = CM041741.1, start = 9112306, end = 9112556
+Hestina_assimilis,CM041741.1,9116777,9116917,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Hestina_assimilis,CM041741.1,9115323,9115494,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Hestina_assimilis,CM041741.1,9118167,9118369,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,65,67
+
+Getting Gene
+min = set24_frame2, 0.029
+5 top scores:
+[['set24_frame2', 0.029], ['set44_frame1', 1.788], ['set36_frame2', 1.811], ['set19_frame0', 1.826], ['set37_frame2', 1.838]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hestina_assimilis/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_24_frame2.fa.txt
+10 57
+Vanessa_tameamea_XM_026629288.1_Frame_0_rightoh_0_query_Exon_6
+GQTGFPWIDAIMIQLREEGWIHHLARHAAACFLTRGDLWISWEEGMK
+10 57
+set24_frame2
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GQTGFPWIDAIMIQLREEGWIHHLARHAAACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = CM041741.1, start = 9112306, end = 9112556
+Hestina_assimilis,CM041741.1,9117412,9117563,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Hestina_assimilis,CM041741.1,9115727,9115952,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Hestina_assimilis,CM041741.1,9118167,9118369,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,65,67
+
+Getting Gene
+min = set29_frame2, 0.0
+5 top scores:
+[['set29_frame2', 0.0], ['set39_frame2', 1.838], ['set32_frame0', 1.832], ['set33_frame0', 1.838], ['set35_frame0', 1.79]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hestina_assimilis/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_29_frame2.fa.txt
+0 50
+Vanessa_tameamea_XM_026629288.1_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+0 50
+set29_frame2
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = CM041741.1, start = 9112306, end = 9112556
+Hestina_assimilis,CM041741.1,9118167,9118369,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,65,67
+
+6
+8
+Hestina_assimilis,CM041741.1,9116777,9116917,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Hestina_assimilis,CM041741.1,9118167,9118369,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,65,67
+
+Getting Gene
+min = set27_frame2, 0.217
+5 top scores:
+[['set1_frame0', 1.81], ['set14_frame1', 1.885], ['set17_frame2', 1.896], ['set23_frame2', 1.853], ['set27_frame2', 0.217]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hestina_assimilis/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_27_frame2.fa.txt
+21 87
+set27_frame2
+KYIPALKNLPTRYIHEPWVAPEAVQQAAHCIIGKDYPMPMVDHSKASEANIERIKQVYAQLAKYKM
+Original query = KYIPALKNLPTRYIHEPWMAPEAVQQAANCIIGRDYPQPIVDHAKASQVNIERIKQVYAQLAKYKPP
+New query = KYIPALKNLPTRYIHEPWVAPEAVQQAAHCIIGKDYPMPMVDHSKASEANIERIKQVYAQLAKYKM

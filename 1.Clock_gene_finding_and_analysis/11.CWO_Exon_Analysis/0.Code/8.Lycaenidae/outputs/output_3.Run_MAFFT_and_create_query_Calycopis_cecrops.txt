@@ -1,0 +1,456 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = LUGF01017913.1, start = 72633, end = 72685
+Calycopis_cecrops,LUGF01017913.1,43797,43914,1,N,Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+1
+4
+Calycopis_cecrops,LUGF01017913.1,72633,72685,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Calycopis_cecrops,LUGF01017913.1,40618,40779,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+Getting Gene
+min = set555_frame2, 0.448
+5 top scores:
+[['set555_frame2', 0.448], ['set15_frame1', 1.7], ['set520_frame2', 1.704], ['set260_frame2', 1.715], ['set565_frame2', 1.727]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calycopis_cecrops/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_555_frame2.fa.txt
+95 134
+Maniola_jurtina_XM_045908966.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRTGEPLSFAPPSEDEAEYPAGAYLKKGKVSR
+95 134
+set555_frame2
+YNSNDGFGRAGDQFHFAAASEDEAEYPAGALLKKGKVSR
+Original query = YNSNDGFGRTGEPLSFAPPSEDEAEYPAGAYLKKGKVSR
+New query = YNSNDGFGRAGDQFHFAAASEDEAEYPAGALLKKGKVSR
+Scaffold = LUGF01017913.1, start = 72633, end = 72685
+Calycopis_cecrops,LUGF01017913.1,43139,43322,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Calycopis_cecrops,LUGF01017913.1,72633,72685,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Calycopis_cecrops,LUGF01017913.1,39237,39428,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+Getting Gene
+min = set565_frame2, 0.028
+5 top scores:
+[['set565_frame2', 0.028], ['set567_frame2', 1.764], ['set78_frame2', 1.782], ['set372_frame2', 1.798], ['set628_frame2', 1.804]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calycopis_cecrops/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_565_frame2.fa.txt
+3 64
+Maniola_jurtina_XM_045908966.1_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPAEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+3 64
+set565_frame2
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPAEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = LUGF01017913.1, start = 72633, end = 72685
+Calycopis_cecrops,LUGF01017913.1,40618,40779,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+2
+6
+Calycopis_cecrops,LUGF01017913.1,43797,43914,1,N,Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+Calycopis_cecrops,LUGF01017913.1,38202,38365,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,4,56,56
+
+Getting Gene
+min = set71_frame2, 0.326
+5 top scores:
+[['set71_frame2', 0.326], ['set74_frame2', 1.758], ['set24_frame2', 1.799], ['set93_frame1', 1.814], ['set19_frame2', 1.834]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calycopis_cecrops/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_71_frame2.fa.txt
+20 73
+Maniola_jurtina_XM_045908966.1_Frame_2_rightoh_1_query_Exon_4
+AERQAGEEFRAGYQEAVAEAVRFLVEVQGFGPGDGLCVQLASHMQRHCDAVTK
+20 73
+set71_frame2
+GERQTEEPFRVGYQEAVGEAVRFLVEVQGFGPGDGICVQMASHLQRHCEIVTK
+Original query = AERQAGEEFRAGYQEAVAEAVRFLVEVQGFGPGDGLCVQLASHMQRHCDAVTK
+New query = GERQTEEPFRVGYQEAVGEAVRFLVEVQGFGPGDGICVQMASHLQRHCEIVTK
+Scaffold = LUGF01017913.1, start = 72633, end = 72685
+Calycopis_cecrops,LUGF01017913.1,39237,39428,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+3
+7
+Calycopis_cecrops,LUGF01017913.1,43139,43322,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Calycopis_cecrops,LUGF01017913.1,37355,37483,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7,2,43,43
+
+Getting Gene
+min = set84_frame2, 1.178
+5 top scores:
+[['set84_frame2', 1.178], ['set105_frame2', 1.691], ['set51_frame0', 1.771], ['set2_frame2', 1.83], ['set68_frame0', 1.77]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calycopis_cecrops/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_84_frame2.fa.txt
+0 67
+Maniola_jurtina_XM_045908966.1_Frame_2_rightoh_1_query_Exon_5
+DAMTRSDKSRSSNPGSSSETTSSSSSSHGFAVK-VIQRPELPPAFPVESYEQERPAAGPQYPMECER
+0 67
+set84_frame2
+LAATAAPREKSRLHQGSSSETGSSSSSHGYAVKGVIQRPQ-PPMFAPEPYEMDQPQDG-SYNMDCDR
+Original query = DAMTRSDKSRSSNPGSSSETTSSSSSSHGFAVKVIQRPELPPAFPVESYEQERPAAGPQYPMECER
+New query = LAATAAPREKSRLHQGSSSETGSSSSSHGYAVKGVIQRPQ-PPMFAPEPYEMDQPQDG-SYNMDCDR
+Scaffold = LUGF01017913.1, start = 72633, end = 72685
+Calycopis_cecrops,LUGF01017913.1,38202,38365,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,4,56,56
+
+4
+8
+Calycopis_cecrops,LUGF01017913.1,40618,40779,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+Calycopis_cecrops,LUGF01017913.1,36344,36437,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set33_frame1, 0.866
+5 top scores:
+[['set33_frame1', 0.866], ['set26_frame2', 1.759], ['set1_frame1', 1.783], ['set43_frame1', 1.787], ['set47_frame0', 1.794]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calycopis_cecrops/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_33_frame1.fa.txt
+54 112
+Maniola_jurtina_XM_045908966.1_Frame_2_rightoh_0_query_Exon_6
+QNLAAPEAESQEPLPLDGRIKREALRKVRKIEHSDDYLHSYKFKNSIERRFSRSQDTE
+54 112
+set33_frame1
+QMLVTEELPCEEPLPLDRH--KASLRKVRKAE---DYLHSYKFKNCIERRFSRSQDSE
+Original query = QNLAAPEAESQEPLPLDGRIKREALRKVRKIEHSDDYLHSYKFKNSIERRFSRSQDTE
+New query = QMLVTEELPCEEPLPLDRH--KASLRKVRKAE---DYLHSYKFKNCIERRFSRSQDSE
+Scaffold = LUGF01017913.1, start = 72633, end = 72685
+Calycopis_cecrops,LUGF01017913.1,37355,37483,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7,2,43,43
+
+5
+8
+Calycopis_cecrops,LUGF01017913.1,39237,39428,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+Calycopis_cecrops,LUGF01017913.1,36344,36437,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set41_frame1, 1.421
+5 top scores:
+[['set41_frame1', 1.421], ['set1_frame2', 1.687], ['set36_frame2', 1.694], ['set22_frame2', 1.784], ['set25_frame1', 1.845]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calycopis_cecrops/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_41_frame1.fa.txt
+10 61
+Maniola_jurtina_XM_045908966.1_Frame_0_rightoh_0_query_Exon_7
+AADCPPHNGVNGATHGKPYAHKRRRAVKPAP-SAPTSASTSTE---DTSPQ
+10 61
+set41_frame1
+AAE---------STRTARAFTKRRRANKPPPASASASTSGSTEDARDTSPQ
+Original query = AADCPPHNGVNGATHGKPYAHKRRRAVKPAPSAPTSASTSTEDTSPQ
+New query = AAE---------STRTARAFTKRRRANKPPPASASASTSGSTEDARDTSPQ
+Scaffold = LUGF01017913.1, start = 72633, end = 72685
+Calycopis_cecrops,LUGF01017913.1,36344,36437,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+6
+8
+Calycopis_cecrops,LUGF01017913.1,38202,38365,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,4,56,56
+
+Calycopis_cecrops,LUGF01017913.1,36344,36437,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set35_frame2, 0.693
+5 top scores:
+[['set35_frame2', 0.693], ['set3_frame2', 1.652], ['set6_frame0', 1.744], ['set17_frame0', 1.641], ['set22_frame0', 1.71]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calycopis_cecrops/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_35_frame2.fa.txt
+34 49
+set35_frame2
+DTSSDSPHHHQYEKP
+Original query = DTSSESPHNHHYDKPPPPTQYVPVFALNSL
+New query = DTSSDSPHHHQYEKP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = LUGF01017913.1, start = 72633, end = 72685
+Calycopis_cecrops,LUGF01017913.1,43797,43914,1,N,Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+1
+4
+Calycopis_cecrops,LUGF01017913.1,72633,72685,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Calycopis_cecrops,LUGF01017913.1,40618,40779,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+Getting Gene
+min = set555_frame2, 0.571
+5 top scores:
+[['set555_frame2', 0.571], ['set491_frame2', 1.683], ['set569_frame2', 1.705], ['set601_frame1', 1.726], ['set565_frame2', 1.733]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calycopis_cecrops/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_555_frame2.fa.txt
+95 134
+Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRPG-EVHYAPPSEDEAEYPQGAYLKKGKVSR
+95 134
+set555_frame2
+YNSNDGFGRAGDQFHFAAASEDEAEYPAGALLKKGKVSR
+Original query = YNSNDGFGRPGEVHYAPPSEDEAEYPQGAYLKKGKVSR
+New query = YNSNDGFGRAGDQFHFAAASEDEAEYPAGALLKKGKVSR
+Scaffold = LUGF01017913.1, start = 72633, end = 72685
+Calycopis_cecrops,LUGF01017913.1,43139,43322,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Calycopis_cecrops,LUGF01017913.1,72633,72685,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Calycopis_cecrops,LUGF01017913.1,39237,39428,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+Getting Gene
+min = set565_frame2, 0.016
+5 top scores:
+[['set565_frame2', 0.016], ['set679_frame1', 1.773], ['set567_frame2', 1.782], ['set18_frame1', 1.797], ['set614_frame1', 1.801]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calycopis_cecrops/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_565_frame2.fa.txt
+3 64
+Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHIKFLQDRVN
+3 64
+set565_frame2
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHIKFLQDRVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = LUGF01017913.1, start = 72633, end = 72685
+Calycopis_cecrops,LUGF01017913.1,40618,40779,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+2
+6
+Calycopis_cecrops,LUGF01017913.1,43797,43914,1,N,Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+Calycopis_cecrops,LUGF01017913.1,38202,38365,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,4,56,56
+
+Getting Gene
+min = set71_frame2, 0.253
+5 top scores:
+[['set71_frame2', 0.253], ['set74_frame2', 1.73], ['set24_frame2', 1.8], ['set88_frame1', 1.811], ['set47_frame2', 1.83]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calycopis_cecrops/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_71_frame2.fa.txt
+20 73
+Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4
+AEGQAPEPYRVGYQEAVGEAVRFLVEVQGFGPADGLCVQMAAHLQRHCEIVTK
+20 73
+set71_frame2
+GERQTEEPFRVGYQEAVGEAVRFLVEVQGFGPGDGICVQMASHLQRHCEIVTK
+Original query = AEGQAPEPYRVGYQEAVGEAVRFLVEVQGFGPADGLCVQMAAHLQRHCEIVTK
+New query = GERQTEEPFRVGYQEAVGEAVRFLVEVQGFGPGDGICVQMASHLQRHCEIVTK
+Scaffold = LUGF01017913.1, start = 72633, end = 72685
+Calycopis_cecrops,LUGF01017913.1,39237,39428,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+3
+7
+Calycopis_cecrops,LUGF01017913.1,43139,43322,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Calycopis_cecrops,LUGF01017913.1,37355,37483,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7,2,43,43
+
+Getting Gene
+min = set84_frame2, 0.936
+5 top scores:
+[['set84_frame2', 0.936], ['set105_frame2', 1.791], ['set76_frame2', 1.834], ['set64_frame0', 1.843], ['set68_frame0', 1.757]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calycopis_cecrops/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_84_frame2.fa.txt
+2 67
+Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5
+NGSVPREKIRSHIGGSSSETASSSSSSHGYVMKGVIQRPEPPPFS-EPYEPEHPAD-MYQMECDR
+2 67
+set84_frame2
+ATAAPREKSRLH-QGSSSET-GSSSSSHGYAVKGVIQRPQPPMFAPEPYEMDQPQDGSYNMDCDR
+Original query = NGSVPREKIRSHIGGSSSETASSSSSSHGYVMKGVIQRPEPPPFSEPYEPEHPADMYQMECDR
+New query = ATAAPREKSRLH-QGSSSET-GSSSSSHGYAVKGVIQRPQPPMFAPEPYEMDQPQDGSYNMDCDR
+Scaffold = LUGF01017913.1, start = 72633, end = 72685
+Calycopis_cecrops,LUGF01017913.1,38202,38365,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,4,56,56
+
+4
+8
+Calycopis_cecrops,LUGF01017913.1,40618,40779,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+Calycopis_cecrops,LUGF01017913.1,36344,36437,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set33_frame1, 0.689
+5 top scores:
+[['set33_frame1', 0.689], ['set43_frame1', 1.787], ['set26_frame0', 1.796], ['set26_frame2', 1.814], ['set66_frame2', 1.814]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calycopis_cecrops/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_33_frame1.fa.txt
+49 109
+Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6
+PVP----LLPVDLPADEPLPLDRHKRDLRKVRKPDHDDYLHSYKFKNSIERRFSRSQDSE
+49 109
+set33_frame1
+PVSVQQMLVTEELPCEEPLPLDRHKASLRKVRKA--EDYLHSYKFKNCIERRFSRSQDSE
+Original query = PVPLLPVDLPADEPLPLDRHKRDLRKVRKPDHDDYLHSYKFKNSIERRFSRSQDSE
+New query = PVSVQQMLVTEELPCEEPLPLDRHKASLRKVRKA--EDYLHSYKFKNCIERRFSRSQDSE
+Scaffold = LUGF01017913.1, start = 72633, end = 72685
+Calycopis_cecrops,LUGF01017913.1,37355,37483,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7,2,43,43
+
+5
+8
+Calycopis_cecrops,LUGF01017913.1,39237,39428,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+Calycopis_cecrops,LUGF01017913.1,36344,36437,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set41_frame1, 0.405
+5 top scores:
+[['set41_frame1', 0.405], ['set1_frame2', 1.704], ['set36_frame2', 1.726], ['set16_frame0', 1.743], ['set18_frame2', 1.773]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calycopis_cecrops/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_41_frame1.fa.txt
+9 52
+Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7
+AAENGTRGPRAFTKRRRANKPVPASTSASTSGSTEDARDTSPQ
+9 52
+set41_frame1
+QAAESTRTARAFTKRRRANKPPPASASASTSGSTEDARDTSPQ
+Original query = AAENGTRGPRAFTKRRRANKPVPASTSASTSGSTEDARDTSPQ
+New query = QAAESTRTARAFTKRRRANKPPPASASASTSGSTEDARDTSPQ
+Scaffold = LUGF01017913.1, start = 72633, end = 72685
+Calycopis_cecrops,LUGF01017913.1,36344,36437,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+6
+8
+Calycopis_cecrops,LUGF01017913.1,38202,38365,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,4,56,56
+
+Calycopis_cecrops,LUGF01017913.1,36344,36437,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set35_frame2, 0.291
+5 top scores:
+[['set35_frame2', 0.291], ['set3_frame2', 1.704], ['set6_frame0', 1.731], ['set17_frame0', 1.737], ['set1_frame1', 1.75]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calycopis_cecrops/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_35_frame2.fa.txt
+34 64
+set35_frame2
+DTSSDSPHHHQYEKPLIPAQQFVPVFALNA
+Original query = DTSSESPHHHQYEKPLPTAQQLVPVFALNAI
+New query = DTSSDSPHHHQYEKPLIPAQQFVPVFALNA
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = LUGF01017913.1, start = 72633, end = 72685
+Calycopis_cecrops,LUGF01017913.1,43797,43914,1,N,Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+1
+4
+Calycopis_cecrops,LUGF01017913.1,72633,72685,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Calycopis_cecrops,LUGF01017913.1,40618,40779,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+Getting Gene
+min = set555_frame2, 1.164
+5 top scores:
+[['set555_frame2', 1.164], ['set622_frame1', 1.687], ['set565_frame2', 1.7], ['set161_frame2', 1.75], ['set325_frame2', 1.753]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calycopis_cecrops/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_555_frame2.fa.txt
+97 138
+Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2
+SNEEFAR--EPLSFAPPSEDEAEYPPG--YKKGKVSRASHT
+97 138
+set555_frame2
+SNDGFGRAGDQFHFAAASEDEAEYPAGALLKKGKVSRVSRS
+Original query = YSNEEFAREPLSFAPPSEDEAEYPPGYKKGKVSRASHTEYAR
+New query = SNDGFGRAGDQFHFAAASEDEAEYPAGALLKKGKVSRVSRS
+Scaffold = LUGF01017913.1, start = 72633, end = 72685
+Calycopis_cecrops,LUGF01017913.1,43139,43322,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Calycopis_cecrops,LUGF01017913.1,72633,72685,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Calycopis_cecrops,LUGF01017913.1,39237,39428,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+Getting Gene
+min = set565_frame2, 0.063
+5 top scores:
+[['set565_frame2', 0.063], ['set567_frame2', 1.761], ['set649_frame1', 1.783], ['set78_frame2', 1.784], ['set614_frame1', 1.804]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calycopis_cecrops/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_565_frame2.fa.txt
+3 64
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+3 64
+set565_frame2
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = LUGF01017913.1, start = 72633, end = 72685
+Calycopis_cecrops,LUGF01017913.1,40618,40779,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+2
+6
+Calycopis_cecrops,LUGF01017913.1,43797,43914,1,N,Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+Calycopis_cecrops,LUGF01017913.1,38202,38365,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,4,56,56
+
+Getting Gene
+min = set71_frame2, 1.198
+5 top scores:
+[['set71_frame2', 1.198], ['set96_frame2', 1.742], ['set10_frame0', 1.764], ['set115_frame2', 1.766], ['set1_frame1', 1.808]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calycopis_cecrops/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_71_frame2.fa.txt
+21 73
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4
+ERGSE--FLAGYQRAGAEAVRF-VELQ--GSRDGLADQLAAHLHSHADMMAK
+21 73
+set71_frame2
+ERQTEEPFRVGYQEAVGEAVRFLVEVQGFGPGDGICVQMASHLQRHCEIVTK
+Original query = LERGSEFLAGYQRAGAEAVRFVELQGSRDGLADQLAAHLHSHADMMAK
+New query = ERQTEEPFRVGYQEAVGEAVRFLVEVQGFGPGDGICVQMASHLQRHCEIVTK
+Scaffold = LUGF01017913.1, start = 72633, end = 72685
+Calycopis_cecrops,LUGF01017913.1,39237,39428,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+3
+7
+Calycopis_cecrops,LUGF01017913.1,43139,43322,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Calycopis_cecrops,LUGF01017913.1,37355,37483,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7,2,43,43
+
+Getting Gene
+min = set84_frame2, 1.1
+5 top scores:
+[['set84_frame2', 1.1], ['set59_frame2', 1.722], ['set122_frame1', 1.735], ['set119_frame2', 1.76], ['set3_frame2', 1.835]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calycopis_cecrops/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_84_frame2.fa.txt
+5 65
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5
+AVHEKRVYPNSSSETTSSSSSSQGFAVK-VIQRPEPPPAFPEPYEPDRQE---HFADCER
+5 65
+set84_frame2
+APREKSRLHQGSSSETGSSSSSHGYAVKGVIQRPQPPMFAPEPYEMDQPQDGSYNMDCDR
+Original query = AVHEKRVYPNSSSETTSSSSSSQGFAVKVIQRPEPPPAFPEPYEPDRQEHFADCER
+New query = APREKSRLHQGSSSETGSSSSSHGYAVKGVIQRPQPPMFAPEPYEMDQPQDGSYNMDCDR
+Scaffold = LUGF01017913.1, start = 72633, end = 72685
+Calycopis_cecrops,LUGF01017913.1,38202,38365,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,4,56,56
+
+4
+8
+Calycopis_cecrops,LUGF01017913.1,40618,40779,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+Calycopis_cecrops,LUGF01017913.1,36344,36437,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set33_frame1, 0.92
+5 top scores:
+[['set33_frame1', 0.92], ['set43_frame1', 1.787], ['set77_frame2', 1.798], ['set14_frame1', 1.823], ['set18_frame1', 1.833]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calycopis_cecrops/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_33_frame1.fa.txt
+51 112
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6
+SVHQPAVMEPLE-GEPLPLDGRVKKEVTLRKIRKPEHEDYLHSYKFKNSIERRFSRSQDSE
+51 112
+set33_frame1
+SVQQMLVTEELPCEEPLPLD---RHKASLRKVRKA--EDYLHSYKFKNCIERRFSRSQDSE
+Original query = SVHQPAVMEPLEGEPLPLDGRVKKEVTLRKIRKPEHEDYLHSYKFKNSIERRFSRSQDSE
+New query = SVQQMLVTEELPCEEPLPLD---RHKASLRKVRKA--EDYLHSYKFKNCIERRFSRSQDSE
+Scaffold = LUGF01017913.1, start = 72633, end = 72685
+Calycopis_cecrops,LUGF01017913.1,37355,37483,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7,2,43,43
+
+5
+8
+Calycopis_cecrops,LUGF01017913.1,39237,39428,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+Calycopis_cecrops,LUGF01017913.1,36344,36437,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set41_frame1, 0.971
+5 top scores:
+[['set41_frame1', 0.971], ['set61_frame1', 1.694], ['set36_frame2', 1.696], ['set22_frame2', 1.734], ['set26_frame0', 1.793]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calycopis_cecrops/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_41_frame1.fa.txt
+8 53
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7
+GDAWSAGPTAKAYNHKRRRPTKPAPPSTSTSASGSTEEARDTSPQ
+8 53
+set41_frame1
+LQAAESTRTARAFT-KRRRANKPPPASASASTSGSTEDARDTSPQ
+Original query = GDAWSAGPTAKAYNHKRRRPTKPAPPSTSTSASGSTEEARDTSPQ
+New query = LQAAESTRTARAFT-KRRRANKPPPASASASTSGSTEDARDTSPQ
+Scaffold = LUGF01017913.1, start = 72633, end = 72685
+Calycopis_cecrops,LUGF01017913.1,36344,36437,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+6
+8
+Calycopis_cecrops,LUGF01017913.1,38202,38365,1,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,4,56,56
+
+Calycopis_cecrops,LUGF01017913.1,36344,36437,1,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set35_frame2, 0.637
+5 top scores:
+[['set35_frame2', 0.637], ['set3_frame2', 1.657], ['set29_frame1', 1.71], ['set17_frame0', 1.664], ['set22_frame0', 1.74]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calycopis_cecrops/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_35_frame2.fa.txt
+34 53
+set35_frame2
+DTSSDSPHHHQYEKPLIPA
+Original query = DTCSDSPHHHSFDKPPPPAQYVPVFALNAL
+New query = DTSSDSPHHHQYEKPLIPA

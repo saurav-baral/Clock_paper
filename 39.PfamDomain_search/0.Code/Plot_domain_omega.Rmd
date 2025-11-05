@@ -1,0 +1,44 @@
+---
+title: "Omega by PFAM"
+output: html_document
+date: "2024-12-16"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document.
+
+```{r}
+library(tidyverse)
+library(cowplot)
+```
+
+```{r}
+setwd("G:/My Drive/Circadian Rhythm Genes Project/39.PfamDomain_search/2.Domain_info_pfam_scan")
+
+omega_domain = read.table("domain_omega.csv", header = T, sep = ",")
+```
+
+```{r}
+pdf("omega_by_domain.pdf", height = 8, width = 10)
+ggplot(omega_domain, aes(x =  Domain_Name, y = Omega_value, col = Domain_Name))+
+  geom_boxplot()+
+  geom_jitter(width = 0.1,size = 2)+
+  labs(x = "Domain Names", y = "Median Omega (dN/dS)")+
+  theme_cowplot(12)+
+  theme(axis.text.x = element_text(angle = 70, vjust = 1, hjust = 1), legend.position = "none")
+dev.off()
+```
+
+```{r height = 8, width = 10}
+ggplot(omega_domain, aes(x =  Domain_Name, y = Omega_value, col = Domain_Name))+
+  geom_boxplot()+
+  geom_jitter(width = 0.1,size = 2)+
+  labs(x = "Domain Names", y = "Median Omega (dN/dS)")+
+  theme_cowplot(12)+
+  theme(axis.text.x = element_text(angle = 70, vjust = 1, hjust = 1), legend.position = "none")
+```

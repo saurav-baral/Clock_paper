@@ -1,0 +1,608 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,767344,767473,0,N,Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2,1,46,46
+
+1
+4
+Papilio_protenor,JAGSMZ010000003.1,750524,750573,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_2_query_Exon_1,1,16,16
+
+Papilio_protenor,JAGSMZ010000003.1,768626,768793,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,1,55,55
+
+Getting Gene
+min = set401_frame0, 1.044
+5 top scores:
+[['set401_frame0', 1.044], ['set287_frame1', 1.636], ['set25_frame1', 1.707], ['set68_frame1', 1.711], ['set94_frame2', 1.713]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_401_frame0.fa.txt
+31 82
+Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2
+YSNEEFAR---------EPLSFAPPSEDEAEYPPGYKKGKVSRASHTEYAR
+31 82
+set401_frame0
+NSNDGFGRAGAGGAGAGEQLAFAAPSEDEADF-ATYKKGKVLRASRNDYAR
+Original query = YSNEEFAREPLSFAPPSEDEAEYPPGYKKGKVSRASHTEYAR
+New query = NSNDGFGRAGAGGAGAGEQLAFAAPSEDEADF-ATYKKGKVLRASRNDYAR
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,768308,768491,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Papilio_protenor,JAGSMZ010000003.1,750524,750573,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_2_query_Exon_1,1,16,16
+
+Papilio_protenor,JAGSMZ010000003.1,769344,769517,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+Getting Gene
+min = set417_frame0, 0.063
+5 top scores:
+[['set417_frame0', 0.063], ['set321_frame1', 1.754], ['set349_frame1', 1.791], ['set94_frame2', 1.809], ['set31_frame2', 1.823]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_417_frame0.fa.txt
+20 81
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+20 81
+set417_frame0
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,768626,768793,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,1,55,55
+
+2
+6
+Papilio_protenor,JAGSMZ010000003.1,767344,767473,0,N,Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2,1,46,46
+
+Papilio_protenor,JAGSMZ010000003.1,769737,769960,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_0_query_Exon_6,1,71,71
+
+Getting Gene
+min = set37_frame0, 1.275
+5 top scores:
+[['set26_frame1', 1.741], ['set37_frame0', 1.275], ['set31_frame2', 1.766], ['set59_frame0', 1.767], ['set1_frame1', 1.761]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_37_frame0.fa.txt
+10 63
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4
+LERG---SEFLAGYQRAGAEAVRFV-ELQG-SRDGLADQLAAHLHSHADMMAK
+10 63
+set37_frame0
+VQTGAGEGHYRAGYQEAVGEALRYLSEAHGYPADGLCAQLATHLQRHCDHVTK
+Original query = LERGSEFLAGYQRAGAEAVRFVELQGSRDGLADQLAAHLHSHADMMAK
+New query = VQTGAGEGHYRAGYQEAVGEALRYLSEAHGYPADGLCAQLATHLQRHCDHVTK
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,769344,769517,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+3
+7
+Papilio_protenor,JAGSMZ010000003.1,768308,768491,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Papilio_protenor,JAGSMZ010000003.1,770278,770412,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set12_frame0, 1.382
+5 top scores:
+[['set23_frame0', 1.634], ['set41_frame2', 1.696], ['set21_frame2', 1.784], ['set12_frame0', 1.382], ['set19_frame0', 1.696]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_12_frame0.fa.txt
+0 84
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5
+A---VHEKR--------VYPN----------------------SSSETTSSSSSSQGFAVKVIQRPEPPPAFPEPYEPDRQEHF
+0 84
+set12_frame0
+NFFDMHNTKEILSKEVLIYSKCLNYFSLTLPGDGSRDKGRSLGSSSETASSSSSSQGYS-KAQAAPRAPPYAPDVYDATTDGPY
+Original query = AVHEKRVYPNSSSETTSSSSSSQGFAVKVIQRPEPPPAFPEPYEPDRQEHFADCER
+New query = NFFDMHNTKEILSKEVLIYSKCLNYFSLTLPGDGSRDKGRSLGSSSETASSSSSSQGYS-KAQAAPRAPPYAPDVYDATTDGPY
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,769737,769960,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_0_query_Exon_6,1,71,71
+
+4
+8
+Papilio_protenor,JAGSMZ010000003.1,768626,768793,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,1,55,55
+
+Papilio_protenor,JAGSMZ010000003.1,771169,771280,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set17_frame0, 0.971
+5 top scores:
+[['set2_frame1', 1.766], ['set17_frame0', 0.971], ['set21_frame0', 1.795], ['set1_frame2', 1.805], ['set22_frame1', 1.846]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_17_frame0.fa.txt
+0 89
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6
+S-VHQPAVMEPLEGEPLPLD----------------------------GRVKKEVTLRKIRKPEHEDYLHSYKFKNSIERRFSRSQDSE
+0 89
+set17_frame0
+QLVSHNLVIFPVVG---PVENGSAMAAVNGQAGGAGGAAGAIGAGGAGGAAGKREALRKPRKPEHDDFIHSYKFKNSIERRFSRSQDTE
+Original query = SVHQPAVMEPLEGEPLPLDGRVKKEVTLRKIRKPEHEDYLHSYKFKNSIERRFSRSQDSE
+New query = QLVSHNLVIFPVVG---PVENGSAMAAVNGQAGGAGGAAGAIGAGGAGGAAGKREALRKPRKPEHDDFIHSYKFKNSIERRFSRSQDTE
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,770278,770412,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+5
+8
+Papilio_protenor,JAGSMZ010000003.1,769344,769517,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+Papilio_protenor,JAGSMZ010000003.1,771169,771280,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set21_frame1, 0.887
+5 top scores:
+[['set21_frame1', 0.887], ['set15_frame2', 1.636], ['set12_frame2', 1.715], ['set6_frame1', 1.806], ['set11_frame0', 1.811]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_21_frame1.fa.txt
+0 46
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7
+G-DAWSAGPTAKAYNHKRRRPTKPAPPSTSTSASGSTEEARDTSPQ
+0 46
+set21_frame1
+AVESQTRVVNGKAYSHKRRRAARPA-PAASTSASASTEEARDTSPQ
+Original query = GDAWSAGPTAKAYNHKRRRPTKPAPPSTSTSASGSTEEARDTSPQ
+New query = AVESQTRVVNGKAYSHKRRRAARPA-PAASTSASASTEEARDTSPQ
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,771169,771280,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+6
+8
+Papilio_protenor,JAGSMZ010000003.1,769737,769960,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_0_query_Exon_6,1,71,71
+
+Papilio_protenor,JAGSMZ010000003.1,771169,771280,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set20_frame1, 0.786
+5 top scores:
+[['set20_frame1', 0.786], ['set5_frame2', 1.622], ['set8_frame2', 1.729], ['set3_frame2', 1.774], ['set6_frame2', 1.79]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_20_frame1.fa.txt
+17 31
+set20_frame1
+DTSSESPHRHVYEQ
+Original query = DTCSDSPHHHSFDKPPPPAQYVPVFALNAL
+New query = DTSSESPHRHVYEQ
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,767344,767473,0,N,Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2,1,46,46
+
+1
+4
+Papilio_protenor,JAGSMZ010000003.1,750524,750573,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_2_query_Exon_1,1,16,16
+
+Papilio_protenor,JAGSMZ010000003.1,768626,768793,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,1,55,55
+
+Getting Gene
+min = set401_frame0, 0.242
+5 top scores:
+[['set401_frame0', 0.242], ['set404_frame1', 1.721], ['set336_frame2', 1.728], ['set343_frame2', 1.762], ['set346_frame1', 1.774]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Papilio_polytes/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_401_frame0.fa.txt
+30 76
+Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRAGAGGAGGAGAGEQLAFAAPSEDEADFATYKKGKVLR
+30 76
+set401_frame0
+YNSNDGFGRA---GAGGAGAGEQLAFAAPSEDEADFATYKKGKVLR
+Original query = YNSNDGFGRAGAGGAGGAGAGEQLAFAAPSEDEADFATYKKGKVLR
+New query = YNSNDGFGRA---GAGGAGAGEQLAFAAPSEDEADFATYKKGKVLR
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,768308,768491,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Papilio_protenor,JAGSMZ010000003.1,750524,750573,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_2_query_Exon_1,1,16,16
+
+Papilio_protenor,JAGSMZ010000003.1,769344,769517,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+Getting Gene
+min = set417_frame0, 0.0
+5 top scores:
+[['set417_frame0', 0.0], ['set321_frame1', 1.752], ['set349_frame1', 1.783], ['set94_frame2', 1.809], ['set31_frame2', 1.823]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Papilio_polytes/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_417_frame0.fa.txt
+20 81
+Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+20 81
+set417_frame0
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,768626,768793,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,1,55,55
+
+2
+6
+Papilio_protenor,JAGSMZ010000003.1,767344,767473,0,N,Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2,1,46,46
+
+Papilio_protenor,JAGSMZ010000003.1,769737,769960,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_0_query_Exon_6,1,71,71
+
+Getting Gene
+min = set37_frame0, 0.056
+5 top scores:
+[['set20_frame2', 1.789], ['set37_frame0', 0.056], ['set51_frame0', 1.739], ['set59_frame0', 1.792], ['set35_frame1', 1.818]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Papilio_polytes/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_37_frame0.fa.txt
+8 63
+Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4
+SEVQPGAGEGHYRAGYQEAVGEALRYLSEAHGYPADGLCAQLATHLQRHCDHVTK
+8 63
+set37_frame0
+SEVQTGAGEGHYRAGYQEAVGEALRYLSEAHGYPADGLCAQLATHLQRHCDHVTK
+Original query = SEVQPGAGEGHYRAGYQEAVGEALRYLSEAHGYPADGLCAQLATHLQRHCDHVTK
+New query = SEVQTGAGEGHYRAGYQEAVGEALRYLSEAHGYPADGLCAQLATHLQRHCDHVTK
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,769344,769517,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+3
+7
+Papilio_protenor,JAGSMZ010000003.1,768308,768491,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Papilio_protenor,JAGSMZ010000003.1,770278,770412,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set12_frame0, 0.038
+5 top scores:
+[['set23_frame0', 1.687], ['set21_frame2', 1.791], ['set4_frame0', 1.776], ['set12_frame0', 0.038], ['set19_frame0', 1.752]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Papilio_polytes/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_12_frame0.fa.txt
+32 89
+Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5
+DGSRDKGRSLGSSSETASSSSSSLGYSKAQAAPRAPPYAPDVYDATTDGPYNMDCDR
+32 89
+set12_frame0
+DGSRDKGRSLGSSSETASSSSSSQGYSKAQAAPRAPPYAPDVYDATTDGPYNMDCDR
+Original query = DGSRDKGRSLGSSSETASSSSSSLGYSKAQAAPRAPPYAPDVYDATTDGPYNMDCDR
+New query = DGSRDKGRSLGSSSETASSSSSSQGYSKAQAAPRAPPYAPDVYDATTDGPYNMDCDR
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,769737,769960,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_0_query_Exon_6,1,71,71
+
+4
+8
+Papilio_protenor,JAGSMZ010000003.1,768626,768793,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,1,55,55
+
+Papilio_protenor,JAGSMZ010000003.1,771169,771280,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set17_frame0, 0.23
+5 top scores:
+[['set35_frame2', 1.758], ['set17_frame0', 0.23], ['set23_frame2', 1.787], ['set9_frame1', 1.842], ['set2_frame1', 1.731]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Papilio_polytes/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_17_frame0.fa.txt
+12 86
+Papilio_polytes_XM_013278899.1_Frame_2_rightoh_0_query_Exon_6
+VGPVENGSAMSAVNGHAGGAPGAGGASGAGGAG---GKREALRKPRKPEHDDFIHSYKFKNSIERRFSRSQDTE
+12 86
+set17_frame0
+VGPVENGSAMAAVNGQAGGAGGAAGAIGAGGAGGAAGKREALRKPRKPEHDDFIHSYKFKNSIERRFSRSQDTE
+Original query = VGPVENGSAMSAVNGHAGGAPGAGGASGAGGAGGKREALRKPRKPEHDDFIHSYKFKNSIERRFSRSQDTE
+New query = VGPVENGSAMAAVNGQAGGAGGAAGAIGAGGAGGAAGKREALRKPRKPEHDDFIHSYKFKNSIERRFSRSQDTE
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,770278,770412,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+5
+8
+Papilio_protenor,JAGSMZ010000003.1,769344,769517,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+Papilio_protenor,JAGSMZ010000003.1,771169,771280,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set21_frame1, 0.0
+5 top scores:
+[['set21_frame1', 0.0], ['set15_frame2', 1.536], ['set8_frame2', 1.682], ['set10_frame0', 1.631], ['set12_frame2', 1.732]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Papilio_polytes/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_21_frame1.fa.txt
+0 45
+Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7
+AVESQTRVVNGKAYSHKRRRAARPAPAASTSASASTEEARDTSPQ
+0 45
+set21_frame1
+AVESQTRVVNGKAYSHKRRRAARPAPAASTSASASTEEARDTSPQ
+Original query = AVESQTRVVNGKAYSHKRRRAARPAPAASTSASASTEEARDTSPQ
+New query = AVESQTRVVNGKAYSHKRRRAARPAPAASTSASASTEEARDTSPQ
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,771169,771280,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+6
+8
+Papilio_protenor,JAGSMZ010000003.1,769737,769960,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_0_query_Exon_6,1,71,71
+
+Papilio_protenor,JAGSMZ010000003.1,771169,771280,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set20_frame1, 0.049
+5 top scores:
+[['set20_frame1', 0.049], ['set3_frame2', 1.666], ['set5_frame2', 1.671], ['set9_frame0', 1.761], ['set6_frame2', 1.779]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Papilio_polytes/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_20_frame1.fa.txt
+17 53
+set20_frame1
+DTSSESPHRHVYEQFAQYEYEKPPPAHYVPVFALNT
+Original query = DTSSESPHRHVYEQFGQYEYEKPPPAHYVPVFALNTL
+New query = DTSSESPHRHVYEQFAQYEYEKPPPAHYVPVFALNT
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,767344,767473,0,N,Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2,1,46,46
+
+1
+4
+Papilio_protenor,JAGSMZ010000003.1,750524,750573,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_2_query_Exon_1,1,16,16
+
+Papilio_protenor,JAGSMZ010000003.1,768626,768793,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,1,55,55
+
+Getting Gene
+min = set401_frame0, 0.9
+5 top scores:
+[['set401_frame0', 0.9], ['set355_frame0', 1.692], ['set417_frame0', 1.695], ['set414_frame2', 1.729], ['set419_frame2', 1.758]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_401_frame0.fa.txt
+30 75
+Zerene_cesonia_XM_038354443.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRAG------GEQINFAVRSEDEGEYPGAYMKKGKVSR
+30 75
+set401_frame0
+YNSNDGFGRAGAGGAGAGEQLAFAAPSEDEADF--ATYKKGKVLR
+Original query = YNSNDGFGRAGGEQINFAVRSEDEGEYPGAYMKKGKVSR
+New query = YNSNDGFGRAGAGGAGAGEQLAFAAPSEDEADF--ATYKKGKVLR
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,768308,768491,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Papilio_protenor,JAGSMZ010000003.1,750524,750573,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_2_query_Exon_1,1,16,16
+
+Papilio_protenor,JAGSMZ010000003.1,769344,769517,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+Getting Gene
+min = set417_frame0, 0.02
+5 top scores:
+[['set417_frame0', 0.02], ['set321_frame1', 1.751], ['set349_frame1', 1.782], ['set94_frame2', 1.809], ['set31_frame2', 1.823]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_417_frame0.fa.txt
+20 81
+Zerene_cesonia_XM_038354443.1_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQERVN
+20 81
+set417_frame0
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQERVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,768626,768793,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,1,55,55
+
+2
+6
+Papilio_protenor,JAGSMZ010000003.1,767344,767473,0,N,Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2,1,46,46
+
+Papilio_protenor,JAGSMZ010000003.1,769737,769960,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_0_query_Exon_6,1,71,71
+
+Getting Gene
+min = set37_frame0, 0.833
+5 top scores:
+[['set12_frame2', 1.797], ['set37_frame0', 0.833], ['set51_frame0', 1.717], ['set35_frame1', 1.829], ['set1_frame1', 1.832]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_37_frame0.fa.txt
+0 64
+Zerene_cesonia_XM_038354443.1_Frame_2_rightoh_1_query_Exon_4
+AERQAVE-----------DFKAGYGDALGEAVRFLVEVQGFGPADGLCVQLAAHLQRHCDVVTK
+0 64
+set37_frame0
+FPLHIVTASEVQTGAGEGHYRAGYQEAVGEALRYLSEAHGY-PADGLCAQLATHLQRHCDHVTK
+Original query = AERQAVEDFKAGYGDALGEAVRFLVEVQGFGPADGLCVQLAAHLQRHCDVVTK
+New query = FPLHIVTASEVQTGAGEGHYRAGYQEAVGEALRYLSEAHGY-PADGLCAQLATHLQRHCDHVTK
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,769344,769517,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+3
+7
+Papilio_protenor,JAGSMZ010000003.1,768308,768491,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Papilio_protenor,JAGSMZ010000003.1,770278,770412,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set12_frame0, 1.35
+5 top scores:
+[['set7_frame2', 1.815], ['set12_frame0', 1.35], ['set19_frame0', 1.808], ['set23_frame0', 1.715], ['set8_frame1', 1.777]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_12_frame0.fa.txt
+28 95
+Zerene_cesonia_XM_038354443.1_Frame_2_rightoh_1_query_Exon_5
+TLP----RDKARSHPGSSSETTSSSSSSHSYAVKGVIQQPEPPPAFPREPFEPERTVEPSYPMECDR
+28 95
+set12_frame0
+TLPGDGSRDKGRS-LGSSSETASSSSSSQGYS-----KAQAAPRAPPYAPDVYDATTDGPYNMDCDR
+Original query = ETLPRDKARSHPGSSSETTSSSSSSHSYAVKGVIQQPEPPPAFPREPFEPERTVEPSYPMECDR
+New query = TLPGDGSRDKGRS-LGSSSETASSSSSSQGYS-----KAQAAPRAPPYAPDVYDATTDGPYNMDCDR
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,769737,769960,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_0_query_Exon_6,1,71,71
+
+4
+8
+Papilio_protenor,JAGSMZ010000003.1,768626,768793,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,1,55,55
+
+Papilio_protenor,JAGSMZ010000003.1,771169,771280,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set17_frame0, 1.105
+5 top scores:
+[['set35_frame2', 1.775], ['set17_frame0', 1.105], ['set21_frame0', 1.804], ['set13_frame1', 1.832], ['set24_frame0', 1.81]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_17_frame0.fa.txt
+0 91
+Zerene_cesonia_XM_038354443.1_Frame_2_rightoh_0_query_Exon_6
+LVAPAPLVSTEAAEPEPLPLD----------------------------GRLKREPTLRKIRKPEHGEDYLHSYKFKNSIERRFSRSQDSE
+0 91
+set17_frame0
+QLVSHNLV----IFPVVGPVENGSAMAAVNGQAGGAGGAAGAIGAGGAGGAAGKREALRKPRKPEH-DDFIHSYKFKNSIERRFSRSQDTE
+Original query = LVAPAPLVSTEAAEPEPLPLDGRLKREPTLRKIRKPEHGEDYLHSYKFKNSIERRFSRSQDSE
+New query = QLVSHNLV----IFPVVGPVENGSAMAAVNGQAGGAGGAAGAIGAGGAGGAAGKREALRKPRKPEH-DDFIHSYKFKNSIERRFSRSQDTE
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,770278,770412,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+5
+8
+Papilio_protenor,JAGSMZ010000003.1,769344,769517,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+Papilio_protenor,JAGSMZ010000003.1,771169,771280,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set21_frame1, 0.93
+5 top scores:
+[['set21_frame1', 0.93], ['set15_frame2', 1.605], ['set12_frame2', 1.759], ['set13_frame2', 1.787], ['set13_frame0', 1.815]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_21_frame1.fa.txt
+0 55
+Zerene_cesonia_XM_038354443.1_Frame_0_rightoh_0_query_Exon_7
+SKCLTKHSHKHAGQAGAHAHTKAYSHKRRRAAKPAPSTSTSASGSTEDARDTSPQ
+0 55
+set21_frame1
+A----VESQTRV------VNGKAYSHKRRRAARPAPAASTSASASTEEARDTSPQ
+Original query = SKCLTKHSHKHAGQAGAHAHTKAYSHKRRRAAKPAPSTSTSASGSTEDARDTSPQ
+New query = A----VESQTRV------VNGKAYSHKRRRAARPAPAASTSASASTEEARDTSPQ
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,771169,771280,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+6
+8
+Papilio_protenor,JAGSMZ010000003.1,769737,769960,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_0_query_Exon_6,1,71,71
+
+Papilio_protenor,JAGSMZ010000003.1,771169,771280,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set20_frame1, 0.721
+5 top scores:
+[['set20_frame1', 0.721], ['set5_frame2', 1.569], ['set7_frame2', 1.752], ['set9_frame0', 1.758], ['set10_frame0', 1.763]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_20_frame1.fa.txt
+17 31
+set20_frame1
+DTSSESPHRHVYEQ
+Original query = DTSSESPHHHQYDKPPPPTQFVPVFALNAL
+New query = DTSSESPHRHVYEQ
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,767344,767473,0,N,Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2,1,46,46
+
+1
+4
+Papilio_protenor,JAGSMZ010000003.1,750524,750573,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_2_query_Exon_1,1,16,16
+
+Papilio_protenor,JAGSMZ010000003.1,768626,768793,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,1,55,55
+
+Getting Gene
+min = set401_frame0, 0.401
+5 top scores:
+[['set401_frame0', 0.401], ['set342_frame1', 1.687], ['set221_frame1', 1.751], ['set414_frame2', 1.766], ['set419_frame2', 1.782]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_401_frame0.fa.txt
+30 75
+Papilio_machaon_XM_014501859.2_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRVASGGGNAVAGEQLAFAAPSEDEADFANYKKGKVLR
+30 75
+set401_frame0
+YNSNDGFGRAGAGG--AGAGEQLAFAAPSEDEADFATYKKGKVLR
+Original query = YNSNDGFGRVASGGGNAVAGEQLAFAAPSEDEADFANYKKGKVLR
+New query = YNSNDGFGRAGAGG--AGAGEQLAFAAPSEDEADFATYKKGKVLR
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,768308,768491,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Papilio_protenor,JAGSMZ010000003.1,750524,750573,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_2_query_Exon_1,1,16,16
+
+Papilio_protenor,JAGSMZ010000003.1,769344,769517,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+Getting Gene
+min = set417_frame0, 0.024
+5 top scores:
+[['set417_frame0', 0.024], ['set321_frame1', 1.752], ['set349_frame1', 1.79], ['set94_frame2', 1.809], ['set31_frame2', 1.823]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_417_frame0.fa.txt
+20 81
+Papilio_machaon_XM_014501859.2_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVN
+20 81
+set417_frame0
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,768626,768793,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,1,55,55
+
+2
+6
+Papilio_protenor,JAGSMZ010000003.1,767344,767473,0,N,Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2,1,46,46
+
+Papilio_protenor,JAGSMZ010000003.1,769737,769960,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_0_query_Exon_6,1,71,71
+
+Getting Gene
+min = set37_frame0, 0.052
+5 top scores:
+[['set28_frame1', 1.774], ['set37_frame0', 0.052], ['set51_frame0', 1.739], ['set59_frame0', 1.777], ['set12_frame2', 1.804]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_37_frame0.fa.txt
+8 63
+Papilio_machaon_XM_014501859.2_Frame_2_rightoh_1_query_Exon_4
+SEVQAGSGEGHYRAGYQEAVGEALRYLSEAHGYPADGLCAQLATHLQRHCDHITK
+8 63
+set37_frame0
+SEVQTGAGEGHYRAGYQEAVGEALRYLSEAHGYPADGLCAQLATHLQRHCDHVTK
+Original query = SEVQAGSGEGHYRAGYQEAVGEALRYLSEAHGYPADGLCAQLATHLQRHCDHITK
+New query = SEVQTGAGEGHYRAGYQEAVGEALRYLSEAHGYPADGLCAQLATHLQRHCDHVTK
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,769344,769517,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+3
+7
+Papilio_protenor,JAGSMZ010000003.1,768308,768491,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Papilio_protenor,JAGSMZ010000003.1,770278,770412,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set12_frame0, 0.353
+5 top scores:
+[['set23_frame0', 1.598], ['set21_frame2', 1.773], ['set4_frame0', 1.784], ['set12_frame0', 0.353], ['set19_frame0', 1.756]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_12_frame0.fa.txt
+32 89
+Papilio_machaon_XM_014501859.2_Frame_2_rightoh_1_query_Exon_5
+DNSRDKGRSLGSASETASSSSSSLGYGKAQPPPRPPPYAPDLYDANNDGPYNMDCDR
+32 89
+set12_frame0
+DGSRDKGRSLGSSSETASSSSSSQGYSKAQAAPRAPPYAPDVYDATTDGPYNMDCDR
+Original query = DNSRDKGRSLGSASETASSSSSSLGYGKAQPPPRPPPYAPDLYDANNDGPYNMDCDR
+New query = DGSRDKGRSLGSSSETASSSSSSQGYSKAQAAPRAPPYAPDVYDATTDGPYNMDCDR
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,769737,769960,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_0_query_Exon_6,1,71,71
+
+4
+8
+Papilio_protenor,JAGSMZ010000003.1,768626,768793,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,1,55,55
+
+Papilio_protenor,JAGSMZ010000003.1,771169,771280,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set17_frame0, 0.751
+5 top scores:
+[['set35_frame2', 1.813], ['set17_frame0', 0.751], ['set13_frame1', 1.837], ['set1_frame2', 1.841], ['set2_frame1', 1.801]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_17_frame0.fa.txt
+13 86
+Papilio_machaon_XM_014501859.2_Frame_2_rightoh_0_query_Exon_6
+GAVENGRATSPVCGEE----------GEGAGEGTGDKRETLRKMRKPDHDDYIHSYKFKNSIERRFSRSQDSE
+13 86
+set17_frame0
+GPVENGSAMAAVNGQAGGAGGAAGAIGAGGAGGAAGKREALRKPRKPEHDDFIHSYKFKNSIERRFSRSQDTE
+Original query = RGAVENGRATSPVCGEEGEGAGEGTGDKRETLRKMRKPDHDDYIHSYKFKNSIERRFSRSQDSE
+New query = GPVENGSAMAAVNGQAGGAGGAAGAIGAGGAGGAAGKREALRKPRKPEHDDFIHSYKFKNSIERRFSRSQDTE
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,770278,770412,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+5
+8
+Papilio_protenor,JAGSMZ010000003.1,769344,769517,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+Papilio_protenor,JAGSMZ010000003.1,771169,771280,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set21_frame1, 0.617
+5 top scores:
+[['set21_frame1', 0.617], ['set15_frame2', 1.572], ['set8_frame2', 1.749], ['set24_frame1', 1.766], ['set28_frame1', 1.788]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_21_frame1.fa.txt
+0 53
+Papilio_machaon_XM_014501859.2_Frame_0_rightoh_0_query_Exon_7
+AAESQARAANGKPYSHKRRRPARPAPAASTSASISTSTSASASTEEARDTSPQ
+0 53
+set21_frame1
+AVESQTRVVNGKAYSHKRRRAARPAPAA--------STSASASTEEARDTSPQ
+Original query = AAESQARAANGKPYSHKRRRPARPAPAASTSASISTSTSASASTEEARDTSPQ
+New query = AVESQTRVVNGKAYSHKRRRAARPAPAA--------STSASASTEEARDTSPQ
+Scaffold = JAGSMZ010000003.1, start = 750524, end = 750573
+Papilio_protenor,JAGSMZ010000003.1,771169,771280,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+6
+8
+Papilio_protenor,JAGSMZ010000003.1,769737,769960,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_0_query_Exon_6,1,71,71
+
+Papilio_protenor,JAGSMZ010000003.1,771169,771280,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set20_frame1, 0.437
+5 top scores:
+[['set20_frame1', 0.437], ['set1_frame2', 1.686], ['set5_frame2', 1.757], ['set9_frame0', 1.713], ['set15_frame1', 1.78]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Papilio_protenor/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_20_frame1.fa.txt
+17 31
+set20_frame1
+DTSSESPHRHVYEQ
+Original query = DTSSESPHRHQYEQYEKPPQAQFVPVFALNSL
+New query = DTSSESPHRHVYEQ

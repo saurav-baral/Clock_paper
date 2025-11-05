@@ -1,0 +1,616 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,138071,138191,1,N,Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2,1,46,46
+
+1
+4
+Baronia_brevicornis,JASFAT010004391.1,170147,170199,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_2_query_Exon_1,1,16,16
+
+Baronia_brevicornis,JASFAT010004391.1,134307,134474,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,7,55,55
+
+Getting Gene
+min = set674_frame2, 0.699
+5 top scores:
+[['set674_frame2', 0.699], ['set386_frame1', 1.68], ['set612_frame2', 1.687], ['set375_frame2', 1.726], ['set617_frame2', 1.743]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_674_frame2.fa.txt
+8 55
+Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2
+YSNEEFAR---EPLSFAPPSEDEAEYPPG--YKKGKVSRASHTEYAR
+8 55
+set674_frame2
+NSNDGFGRGAGEQLNFAPHSEDEAEFPPGAYLKKGKVSRASHTEYAR
+Original query = YSNEEFAREPLSFAPPSEDEAEYPPGYKKGKVSRASHTEYAR
+New query = NSNDGFGRGAGEQLNFAPHSEDEAEFPPGAYLKKGKVSRASHTEYAR
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,136428,136611,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Baronia_brevicornis,JASFAT010004391.1,170147,170199,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_2_query_Exon_1,1,16,16
+
+Baronia_brevicornis,JASFAT010004391.1,133671,133862,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,4,57,57
+
+Getting Gene
+min = set629_frame0, 0.111
+5 top scores:
+[['set629_frame0', 0.111], ['set674_frame2', 1.706], ['set63_frame1', 1.793], ['set296_frame1', 1.793], ['set728_frame2', 1.794]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_629_frame0.fa.txt
+7 68
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+7 68
+set629_frame0
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQEKVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQEKVN
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,134307,134474,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,7,55,55
+
+2
+6
+7
+Baronia_brevicornis,JASFAT010004391.1,138071,138191,1,N,Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2,1,46,46
+
+Baronia_brevicornis,JASFAT010004391.1,131106,131240,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set63_frame2, 1.165
+5 top scores:
+[['set63_frame2', 1.165], ['set86_frame2', 1.745], ['set107_frame2', 1.804], ['set119_frame2', 1.819], ['set115_frame1', 1.827]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_63_frame2.fa.txt
+50 96
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4
+SEFLAGYQRAGAEAVRFV-ELQG-SRDGLADQLAAHLHSHADMMAK
+50 96
+set63_frame2
+EHFRAGYQEAVGEAVRFLSEVQGYGSDGVCAQLATHLQRHCELITK
+Original query = LERGSEFLAGYQRAGAEAVRFVELQGSRDGLADQLAAHLHSHADMMAK
+New query = EHFRAGYQEAVGEAVRFLSEVQGYGSDGVCAQLATHLQRHCELITK
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,133671,133862,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,4,57,57
+
+3
+7
+Baronia_brevicornis,JASFAT010004391.1,136428,136611,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Baronia_brevicornis,JASFAT010004391.1,131106,131240,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set43_frame0, 1.395
+5 top scores:
+[['set43_frame0', 1.395], ['set87_frame2', 1.649], ['set63_frame2', 1.724], ['set17_frame0', 1.802], ['set74_frame2', 1.807]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_43_frame0.fa.txt
+60 121
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5
+HEKRVYPNSSSETTSSSSSSQGFAVKVIQRPEPPPAFPEPY-------EPDRQEHFADCER
+60 121
+set43_frame0
+RDKARSHGSSSETASSSSSSHSYNVKQPGVIQPPPGLP-PYVAETYDTAPTETTYPMECDR
+Original query = AVHEKRVYPNSSSETTSSSSSSQGFAVKVIQRPEPPPAFPEPYEPDRQEHFADCER
+New query = RDKARSHGSSSETASSSSSSHSYNVKQPGVIQPPPGLP-PYVAETYDTAPTETTYPMECDR
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,131692,131909,1,Y,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_0_query_Exon_6,35,71,71
+
+4
+8
+Baronia_brevicornis,JASFAT010004391.1,134307,134474,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,7,55,55
+
+Baronia_brevicornis,JASFAT010004391.1,129514,129616,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set45_frame2, 0.572
+5 top scores:
+[['set45_frame2', 0.572], ['set8_frame2', 1.74], ['set85_frame2', 1.745], ['set15_frame2', 1.824], ['set81_frame0', 1.844]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_45_frame2.fa.txt
+36 101
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6
+SVHQPAVMEPLEGE-----PLPLDGRVKKEVTLRKIRKPEHEDYLHSYKFKNSIERRFSRSQDSE
+36 101
+set45_frame2
+CVSVPATQMQMEGESQNDQPLPLDARHKREMTLRKVRKPDHDDYIHSYKFKNSIERRFSRSQDTE
+Original query = SVHQPAVMEPLEGEPLPLDGRVKKEVTLRKIRKPEHEDYLHSYKFKNSIERRFSRSQDSE
+New query = CVSVPATQMQMEGESQNDQPLPLDARHKREMTLRKVRKPDHDDYIHSYKFKNSIERRFSRSQDTE
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,131106,131240,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+5
+8
+Baronia_brevicornis,JASFAT010004391.1,133671,133862,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,4,57,57
+
+Baronia_brevicornis,JASFAT010004391.1,129514,129616,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set54_frame0, 0.921
+5 top scores:
+[['set54_frame0', 0.921], ['set80_frame0', 1.642], ['set1_frame2', 1.645], ['set78_frame2', 1.685], ['set48_frame2', 1.752]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_54_frame0.fa.txt
+35 80
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7
+GDAWSAGPTAKAYNHKRRRPTKPAPPSTSTSASGSTEEARDTSPQ
+35 80
+set54_frame0
+ADTQVRTTHGKPYSHKRRRAARPA-PAASTSASASTEEARDTSPQ
+Original query = GDAWSAGPTAKAYNHKRRRPTKPAPPSTSTSASGSTEEARDTSPQ
+New query = ADTQVRTTHGKPYSHKRRRAARPA-PAASTSASASTEEARDTSPQ
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,129514,129616,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+6
+5
+8
+Baronia_brevicornis,JASFAT010004391.1,133671,133862,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,4,57,57
+
+Baronia_brevicornis,JASFAT010004391.1,129514,129616,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set67_frame1, 0.695
+5 top scores:
+[['set67_frame1', 0.695], ['set1_frame2', 1.562], ['set61_frame1', 1.609], ['set19_frame1', 1.654], ['set17_frame2', 1.669]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_67_frame1.fa.txt
+4 20
+set67_frame1
+DTSSESPPTHHHQYDR
+Original query = DTCSDSPHHHSFDKPPPPAQYVPVFALNAL
+New query = DTSSESPPTHHHQYDR
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,138071,138191,1,N,Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2,1,46,46
+
+1
+4
+Baronia_brevicornis,JASFAT010004391.1,170147,170199,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_2_query_Exon_1,1,16,16
+
+Baronia_brevicornis,JASFAT010004391.1,134307,134474,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,7,55,55
+
+Getting Gene
+min = set674_frame2, 0.992
+5 top scores:
+[['set674_frame2', 0.992], ['set550_frame2', 1.713], ['set563_frame2', 1.737], ['set482_frame2', 1.777], ['set50_frame0', 1.758]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Papilio_polytes/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_674_frame2.fa.txt
+7 56
+Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRAGAGGAGGAGAGEQLAFAAPSEDEADF---ATYKKGKVLR
+7 56
+set674_frame2
+YNSNDGFGR---------GAGEQLNFAPHSEDEAEFPPGAYLKKGKVSR
+Original query = YNSNDGFGRAGAGGAGGAGAGEQLAFAAPSEDEADFATYKKGKVLR
+New query = YNSNDGFGR---------GAGEQLNFAPHSEDEAEFPPGAYLKKGKVSR
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,136428,136611,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Baronia_brevicornis,JASFAT010004391.1,170147,170199,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_2_query_Exon_1,1,16,16
+
+Baronia_brevicornis,JASFAT010004391.1,133671,133862,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,4,57,57
+
+Getting Gene
+min = set629_frame0, 0.048
+5 top scores:
+[['set629_frame0', 0.048], ['set674_frame2', 1.727], ['set430_frame1', 1.781], ['set443_frame1', 1.8], ['set278_frame2', 1.802]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Papilio_polytes/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_629_frame0.fa.txt
+7 68
+Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+7 68
+set629_frame0
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQEKVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQEKVN
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,134307,134474,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,7,55,55
+
+2
+6
+7
+Baronia_brevicornis,JASFAT010004391.1,138071,138191,1,N,Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2,1,46,46
+
+Baronia_brevicornis,JASFAT010004391.1,131106,131240,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set63_frame2, 0.629
+5 top scores:
+[['set63_frame2', 0.629], ['set32_frame2', 1.807], ['set70_frame2', 1.808], ['set52_frame0', 1.764], ['set85_frame1', 1.826]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Papilio_polytes/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_63_frame2.fa.txt
+44 96
+Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4
+QPGAGEGHYRAGYQEAVGEALRYLSEAHGYPADGLCAQLATHLQRHCDHVTK
+44 96
+set63_frame2
+DRQVGEEHFRAGYQEAVGEAVRFLSEVQGYGSDGVCAQLATHLQRHCELITK
+Original query = SEVQPGAGEGHYRAGYQEAVGEALRYLSEAHGYPADGLCAQLATHLQRHCDHVTK
+New query = DRQVGEEHFRAGYQEAVGEAVRFLSEVQGYGSDGVCAQLATHLQRHCELITK
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,133671,133862,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,4,57,57
+
+3
+7
+Baronia_brevicornis,JASFAT010004391.1,136428,136611,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Baronia_brevicornis,JASFAT010004391.1,131106,131240,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set43_frame0, 1.038
+5 top scores:
+[['set43_frame0', 1.038], ['set63_frame2', 1.694], ['set35_frame2', 1.777], ['set87_frame2', 1.815], ['set80_frame0', 1.855]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Papilio_polytes/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_43_frame0.fa.txt
+60 120
+Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5
+RDKGRSLGSSSETASSSSSSLGYSKAQAA-----PRAPPYAPDVYD-ATTDGPYNMDCDR
+60 120
+set43_frame0
+RDKARSHGSSSETASSSSSSHSYNVKQPGVIQPPPGLPPYVAETYDTAPTETTYPMECDR
+Original query = DGSRDKGRSLGSSSETASSSSSSLGYSKAQAAPRAPPYAPDVYDATTDGPYNMDCDR
+New query = RDKARSHGSSSETASSSSSSHSYNVKQPGVIQPPPGLPPYVAETYDTAPTETTYPMECDR
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,131692,131909,1,Y,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_0_query_Exon_6,35,71,71
+
+4
+8
+Baronia_brevicornis,JASFAT010004391.1,134307,134474,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,7,55,55
+
+Baronia_brevicornis,JASFAT010004391.1,129514,129616,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set45_frame2, 1.102
+5 top scores:
+[['set45_frame2', 1.102], ['set59_frame2', 1.83], ['set53_frame1', 1.867], ['set23_frame1', 1.758], ['set29_frame1', 1.765]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Papilio_polytes/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_45_frame2.fa.txt
+14 103
+Papilio_polytes_XM_013278899.1_Frame_2_rightoh_0_query_Exon_6
+ENGSAMSAVNGH------------AGGAPGA----GGASGAG-----GAGGKRE-ALRKPRKPEHDDFIHSYKFKNSIERRFSRSQDTE
+14 103
+set45_frame2
+YTGSSNSKI--HRVNFILFNIYVICVSVPATQMQMEGESQNDQPLPLDARHKREMTLRKVRKPDHDDYIHSYKFKNSIERRFSRSQDTE
+Original query = VGPVENGSAMSAVNGHAGGAPGAGGASGAGGAGGKREALRKPRKPEHDDFIHSYKFKNSIERRFSRSQDTE
+New query = YTGSSNSKI--HRVNFILFNIYVICVSVPATQMQMEGESQNDQPLPLDARHKREMTLRKVRKPDHDDYIHSYKFKNSIERRFSRSQDTE
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,131106,131240,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+5
+8
+Baronia_brevicornis,JASFAT010004391.1,133671,133862,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,4,57,57
+
+Baronia_brevicornis,JASFAT010004391.1,129514,129616,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set54_frame0, 0.273
+5 top scores:
+[['set54_frame0', 0.273], ['set1_frame2', 1.643], ['set78_frame2', 1.704], ['set67_frame1', 1.719], ['set47_frame0', 1.719]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Papilio_polytes/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_54_frame0.fa.txt
+34 79
+Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7
+AVESQTRVVNGKAYSHKRRRAARPAPAASTSASASTEEARDTSPQ
+34 79
+set54_frame0
+AADTQVRTTHGKPYSHKRRRAARPAPAASTSASASTEEARDTSPQ
+Original query = AVESQTRVVNGKAYSHKRRRAARPAPAASTSASASTEEARDTSPQ
+New query = AADTQVRTTHGKPYSHKRRRAARPAPAASTSASASTEEARDTSPQ
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,129514,129616,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+6
+5
+8
+Baronia_brevicornis,JASFAT010004391.1,133671,133862,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,4,57,57
+
+Baronia_brevicornis,JASFAT010004391.1,129514,129616,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set67_frame1, 0.86
+5 top scores:
+[['set67_frame1', 0.86], ['set1_frame2', 1.622], ['set27_frame1', 1.714], ['set17_frame2', 1.731], ['set54_frame2', 1.749]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Papilio_polytes/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_67_frame1.fa.txt
+4 11
+set67_frame1
+DTSSESP
+Original query = DTSSESPHRHVYEQFGQYEYEKPPPAHYVPVFALNTL
+New query = DTSSESP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,138071,138191,1,N,Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2,1,46,46
+
+1
+4
+Baronia_brevicornis,JASFAT010004391.1,170147,170199,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_2_query_Exon_1,1,16,16
+
+Baronia_brevicornis,JASFAT010004391.1,134307,134474,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,7,55,55
+
+Getting Gene
+min = set674_frame2, 0.461
+5 top scores:
+[['set674_frame2', 0.461], ['set214_frame2', 1.692], ['set671_frame2', 1.701], ['set145_frame1', 1.712], ['set555_frame2', 1.723]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_674_frame2.fa.txt
+7 47
+Zerene_cesonia_XM_038354443.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRAGGEQINFAVRSEDEGEY-PGAYMKKGKVSR
+7 47
+set674_frame2
+YNSNDGFGRGAGEQLNFAPHSEDEAEFPPGAYLKKGKVSR
+Original query = YNSNDGFGRAGGEQINFAVRSEDEGEYPGAYMKKGKVSR
+New query = YNSNDGFGRGAGEQLNFAPHSEDEAEFPPGAYLKKGKVSR
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,136428,136611,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Baronia_brevicornis,JASFAT010004391.1,170147,170199,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_2_query_Exon_1,1,16,16
+
+Baronia_brevicornis,JASFAT010004391.1,133671,133862,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,4,57,57
+
+Getting Gene
+min = set629_frame0, 0.02
+5 top scores:
+[['set629_frame0', 0.02], ['set674_frame2', 1.726], ['set430_frame1', 1.777], ['set296_frame1', 1.793], ['set443_frame1', 1.8]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_629_frame0.fa.txt
+7 68
+Zerene_cesonia_XM_038354443.1_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQERVN
+7 68
+set629_frame0
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQEKVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQERVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQEKVN
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,134307,134474,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,7,55,55
+
+2
+6
+7
+Baronia_brevicornis,JASFAT010004391.1,138071,138191,1,N,Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2,1,46,46
+
+Baronia_brevicornis,JASFAT010004391.1,131106,131240,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set63_frame2, 0.708
+5 top scores:
+[['set63_frame2', 0.708], ['set67_frame1', 1.779], ['set102_frame1', 1.793], ['set46_frame0', 1.8], ['set60_frame2', 1.816]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_63_frame2.fa.txt
+43 97
+Zerene_cesonia_XM_038354443.1_Frame_2_rightoh_1_query_Exon_4
+AERQAVED-FKAGYGDALGEAVRFLVEVQGFGPADGLCVQLAAHLQRHCDVVTK
+43 97
+set63_frame2
+ADRQVGEEHFRAGYQEAVGEAVRFLSEVQGYG-SDGVCAQLATHLQRHCELITK
+Original query = AERQAVEDFKAGYGDALGEAVRFLVEVQGFGPADGLCVQLAAHLQRHCDVVTK
+New query = ADRQVGEEHFRAGYQEAVGEAVRFLSEVQGYG-SDGVCAQLATHLQRHCELITK
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,133671,133862,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,4,57,57
+
+3
+7
+Baronia_brevicornis,JASFAT010004391.1,136428,136611,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Baronia_brevicornis,JASFAT010004391.1,131106,131240,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set43_frame0, 0.936
+5 top scores:
+[['set63_frame2', 1.66], ['set87_frame2', 1.736], ['set17_frame0', 1.826], ['set3_frame2', 1.845], ['set43_frame0', 0.936]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_43_frame0.fa.txt
+56 122
+Zerene_cesonia_XM_038354443.1_Frame_2_rightoh_1_query_Exon_5
+ETLPRDKARSHPGSSSETTSSSSSSHSYAVK--GVIQQPEPPPAFPREPFEPERTVEPSYPMECDR
+56 122
+set43_frame0
+EVLPRDKARSH-GSSSETASSSSSSHSYNVKQPGVIQPPPGLPPYVAETYDTAPT-ETTYPMECDR
+Original query = ETLPRDKARSHPGSSSETTSSSSSSHSYAVKGVIQQPEPPPAFPREPFEPERTVEPSYPMECDR
+New query = EVLPRDKARSH-GSSSETASSSSSSHSYNVKQPGVIQPPPGLPPYVAETYDTAPT-ETTYPMECDR
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,131692,131909,1,Y,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_0_query_Exon_6,35,71,71
+
+4
+8
+Baronia_brevicornis,JASFAT010004391.1,134307,134474,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,7,55,55
+
+Baronia_brevicornis,JASFAT010004391.1,129514,129616,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set45_frame2, 0.743
+5 top scores:
+[['set45_frame2', 0.743], ['set85_frame2', 1.738], ['set70_frame1', 1.795], ['set78_frame0', 1.766], ['set59_frame1', 1.821]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_45_frame2.fa.txt
+39 102
+Zerene_cesonia_XM_038354443.1_Frame_2_rightoh_0_query_Exon_6
+APAP--LVSTEAAEPEPLPLDGRLKREPTLRKIRKPEHGEDYLHSYKFKNSIERRFSRSQDSE
+39 102
+set45_frame2
+VPATQMQMEGESQNDQPLPLDARHKREMTLRKVRKPDH-DDYIHSYKFKNSIERRFSRSQDTE
+Original query = LVAPAPLVSTEAAEPEPLPLDGRLKREPTLRKIRKPEHGEDYLHSYKFKNSIERRFSRSQDSE
+New query = VPATQMQMEGESQNDQPLPLDARHKREMTLRKVRKPDH-DDYIHSYKFKNSIERRFSRSQDTE
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,131106,131240,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+5
+8
+Baronia_brevicornis,JASFAT010004391.1,133671,133862,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,4,57,57
+
+Baronia_brevicornis,JASFAT010004391.1,129514,129616,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set54_frame0, 0.907
+5 top scores:
+[['set78_frame2', 1.705], ['set54_frame0', 0.907], ['set73_frame0', 1.774], ['set76_frame0', 1.746], ['set80_frame0', 1.772]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_54_frame0.fa.txt
+24 79
+Zerene_cesonia_XM_038354443.1_Frame_0_rightoh_0_query_Exon_7
+SKCLTKHSHKHAGQAGAHAHTKAYSHKRRRAAKPAPSTSTSASGSTEDARDTSPQ
+24 79
+set54_frame0
+AKKMVYAFQQAADTQVRTTHGKPYSHKRRRAARPAPAASTSASASTEEARDTSPQ
+Original query = SKCLTKHSHKHAGQAGAHAHTKAYSHKRRRAAKPAPSTSTSASGSTEDARDTSPQ
+New query = AKKMVYAFQQAADTQVRTTHGKPYSHKRRRAARPAPAASTSASASTEEARDTSPQ
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,129514,129616,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+6
+5
+8
+Baronia_brevicornis,JASFAT010004391.1,133671,133862,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,4,57,57
+
+Baronia_brevicornis,JASFAT010004391.1,129514,129616,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set67_frame1, 0.464
+5 top scores:
+[['set67_frame1', 0.464], ['set1_frame2', 1.53], ['set17_frame2', 1.606], ['set38_frame2', 1.685], ['set58_frame2', 1.706]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_67_frame1.fa.txt
+4 20
+set67_frame1
+DTSSESPPTHHHQYDR
+Original query = DTSSESPHHHQYDKPPPPTQFVPVFALNAL
+New query = DTSSESPPTHHHQYDR
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,138071,138191,1,N,Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2,1,46,46
+
+1
+4
+Baronia_brevicornis,JASFAT010004391.1,170147,170199,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_2_query_Exon_1,1,16,16
+
+Baronia_brevicornis,JASFAT010004391.1,134307,134474,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,7,55,55
+
+Getting Gene
+min = set674_frame2, 1.038
+5 top scores:
+[['set674_frame2', 1.038], ['set482_frame2', 1.728], ['set540_frame0', 1.749], ['set563_frame2', 1.756], ['set387_frame2', 1.771]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_674_frame2.fa.txt
+7 55
+Papilio_machaon_XM_014501859.2_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRVASGGGNAVAGEQLAFAAPSEDEADF---ANYKKGKVLR
+7 55
+set674_frame2
+YNSNDGFGR--------GAGEQLNFAPHSEDEAEFPPGAYLKKGKVSR
+Original query = YNSNDGFGRVASGGGNAVAGEQLAFAAPSEDEADFANYKKGKVLR
+New query = YNSNDGFGR--------GAGEQLNFAPHSEDEAEFPPGAYLKKGKVSR
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,136428,136611,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Baronia_brevicornis,JASFAT010004391.1,170147,170199,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_2_query_Exon_1,1,16,16
+
+Baronia_brevicornis,JASFAT010004391.1,133671,133862,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,4,57,57
+
+Getting Gene
+min = set629_frame0, 0.072
+5 top scores:
+[['set629_frame0', 0.072], ['set674_frame2', 1.704], ['set63_frame1', 1.792], ['set296_frame1', 1.793], ['set728_frame2', 1.794]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_629_frame0.fa.txt
+7 68
+Papilio_machaon_XM_014501859.2_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVN
+7 68
+set629_frame0
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQEKVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQEKVN
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,134307,134474,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,7,55,55
+
+2
+6
+7
+Baronia_brevicornis,JASFAT010004391.1,138071,138191,1,N,Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2,1,46,46
+
+Baronia_brevicornis,JASFAT010004391.1,131106,131240,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set63_frame2, 0.608
+5 top scores:
+[['set63_frame2', 0.608], ['set70_frame2', 1.805], ['set60_frame2', 1.817], ['set52_frame0', 1.77], ['set85_frame1', 1.825]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_63_frame2.fa.txt
+35 96
+Papilio_machaon_XM_014501859.2_Frame_2_rightoh_1_query_Exon_4
+VQAGS--------GEGHYRAGYQEAVGEALRYLSEAHGYPADGLCAQLATHLQRHCDHITK
+35 96
+set63_frame2
+VPVGSVIAADRQVGEEHFRAGYQEAVGEAVRFLSEVQGYGSDGVCAQLATHLQRHCELITK
+Original query = SEVQAGSGEGHYRAGYQEAVGEALRYLSEAHGYPADGLCAQLATHLQRHCDHITK
+New query = VPVGSVIAADRQVGEEHFRAGYQEAVGEAVRFLSEVQGYGSDGVCAQLATHLQRHCELITK
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,133671,133862,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,4,57,57
+
+3
+7
+Baronia_brevicornis,JASFAT010004391.1,136428,136611,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Baronia_brevicornis,JASFAT010004391.1,131106,131240,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set43_frame0, 1.022
+5 top scores:
+[['set43_frame0', 1.022], ['set63_frame2', 1.71], ['set87_frame2', 1.782], ['set17_frame0', 1.834], ['set85_frame2', 1.847]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_43_frame0.fa.txt
+60 120
+Papilio_machaon_XM_014501859.2_Frame_2_rightoh_1_query_Exon_5
+RDKGRSLGSASETASSSSSSLGY-----GKAQPPPRPPPYAPDLYD-ANNDGPYNMDCDR
+60 120
+set43_frame0
+RDKARSHGSSSETASSSSSSHSYNVKQPGVIQPPPGLPPYVAETYDTAPTETTYPMECDR
+Original query = DNSRDKGRSLGSASETASSSSSSLGYGKAQPPPRPPPYAPDLYDANNDGPYNMDCDR
+New query = RDKARSHGSSSETASSSSSSHSYNVKQPGVIQPPPGLPPYVAETYDTAPTETTYPMECDR
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,131692,131909,1,Y,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_0_query_Exon_6,35,71,71
+
+4
+8
+Baronia_brevicornis,JASFAT010004391.1,134307,134474,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,7,55,55
+
+Baronia_brevicornis,JASFAT010004391.1,129514,129616,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set45_frame2, 0.941
+5 top scores:
+[['set45_frame2', 0.941], ['set51_frame1', 1.808], ['set59_frame1', 1.821], ['set57_frame2', 1.832], ['set85_frame2', 1.844]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_45_frame2.fa.txt
+10 101
+Papilio_machaon_XM_014501859.2_Frame_2_rightoh_0_query_Exon_6
+ENGRATS---------------------PVCGEEGEGAGEGTGD---------KRE-TLRKMRKPDHDDYIHSYKFKNSIERRFSRSQDSE
+10 101
+set45_frame2
+KNSRYTGSSNSKIHRVNFILFNIYVICVSVPATQMQMEGESQNDQPLPLDARHKREMTLRKVRKPDHDDYIHSYKFKNSIERRFSRSQDTE
+Original query = RGAVENGRATSPVCGEEGEGAGEGTGDKRETLRKMRKPDHDDYIHSYKFKNSIERRFSRSQDSE
+New query = KNSRYTGSSNSKIHRVNFILFNIYVICVSVPATQMQMEGESQNDQPLPLDARHKREMTLRKVRKPDHDDYIHSYKFKNSIERRFSRSQDTE
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,131106,131240,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+5
+8
+Baronia_brevicornis,JASFAT010004391.1,133671,133862,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,4,57,57
+
+Baronia_brevicornis,JASFAT010004391.1,129514,129616,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set54_frame0, 0.608
+5 top scores:
+[['set1_frame2', 1.653], ['set54_frame0', 0.608], ['set31_frame1', 1.72], ['set76_frame0', 1.712], ['set78_frame2', 1.724]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_54_frame0.fa.txt
+34 87
+Papilio_machaon_XM_014501859.2_Frame_0_rightoh_0_query_Exon_7
+AAESQARAANGKPYSHKRRRPARPAPAASTSASISTSTSASASTEEARDTSPQ
+34 87
+set54_frame0
+AADTQVRTTHGKPYSHKRRRAARPAPAA--------STSASASTEEARDTSPQ
+Original query = AAESQARAANGKPYSHKRRRPARPAPAASTSASISTSTSASASTEEARDTSPQ
+New query = AADTQVRTTHGKPYSHKRRRAARPAPAA--------STSASASTEEARDTSPQ
+Scaffold = JASFAT010004391.1, start = 170147, end = 170199
+Baronia_brevicornis,JASFAT010004391.1,129514,129616,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+6
+5
+8
+Baronia_brevicornis,JASFAT010004391.1,133671,133862,1,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,4,57,57
+
+Baronia_brevicornis,JASFAT010004391.1,129514,129616,1,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set67_frame1, 0.475
+5 top scores:
+[['set67_frame1', 0.475], ['set20_frame1', 1.575], ['set1_frame2', 1.626], ['set17_frame2', 1.637], ['set50_frame2', 1.708]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Baronia_brevicornis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_67_frame1.fa.txt
+4 11
+set67_frame1
+DTSSESP
+Original query = DTSSESPHRHQYEQYEKPPQAQFVPVFALNSL
+New query = DTSSESP

@@ -1,0 +1,510 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = CM066618.1, start = 14929731, end = 14929783
+Argynnis_bischoffii_washingtonia,CM066618.1,14896099,14896231,1,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+1
+4
+Argynnis_bischoffii_washingtonia,CM066618.1,14929731,14929783,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Argynnis_bischoffii_washingtonia,CM066618.1,14893472,14893627,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Getting Gene
+min = set814_frame1, 0.819
+5 top scores:
+[['set814_frame1', 0.819], ['set825_frame2', 1.697], ['set826_frame1', 1.7], ['set676_frame2', 1.711], ['set817_frame2', 1.739]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Argynnis_bischoffii_washingtonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_814_frame1.fa.txt
+0 48
+Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2
+Y----SNEEFARE-PLSFAPPSEDEAEYPPG-YKKGKVSRASHTEYAR
+0 48
+set814_frame1
+LFSYNSNDGFGRAGELNFAAPSEDEADYASGAYKKGKVSRASHTEYAQ
+Original query = YSNEEFAREPLSFAPPSEDEAEYPPGYKKGKVSRASHTEYAR
+New query = LFSYNSNDGFGRAGELNFAAPSEDEADYASGAYKKGKVSRASHTEYAQ
+Scaffold = CM066618.1, start = 14929731, end = 14929783
+Argynnis_bischoffii_washingtonia,CM066618.1,14895402,14895585,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+6
+7
+8
+9
+Argynnis_bischoffii_washingtonia,CM066618.1,14929731,14929783,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Argynnis_bischoffii_washingtonia,CM066618.1,14887769,14887944,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,58,60
+
+Getting Gene
+min = set826_frame1, 0.063
+5 top scores:
+[['set826_frame1', 0.063], ['set154_frame1', 1.771], ['set781_frame2', 1.779], ['set48_frame0', 1.792], ['set386_frame2', 1.793]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Argynnis_bischoffii_washingtonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_826_frame1.fa.txt
+0 61
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+0 61
+set826_frame1
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = CM066618.1, start = 14929731, end = 14929783
+Argynnis_bischoffii_washingtonia,CM066618.1,14893472,14893627,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+2
+6
+7
+8
+9
+Argynnis_bischoffii_washingtonia,CM066618.1,14896099,14896231,1,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+Argynnis_bischoffii_washingtonia,CM066618.1,14887769,14887944,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,58,60
+
+Getting Gene
+min = set57_frame2, 1.046
+5 top scores:
+[['set57_frame2', 1.046], ['set180_frame2', 1.742], ['set162_frame2', 1.771], ['set138_frame2', 1.811], ['set115_frame1', 1.828]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Argynnis_bischoffii_washingtonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_57_frame2.fa.txt
+7 58
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4
+LERGSEFLAGYQRAGAEAVRF-VELQ--GSRDGLADQLAAHLHSHADMMAK
+7 58
+set57_frame2
+ERQGAEFRSGYQEAVAEALRFLVEVQGFGPGDGLCVQMASHLQRHCEVVAK
+Original query = LERGSEFLAGYQRAGAEAVRFVELQGSRDGLADQLAAHLHSHADMMAK
+New query = ERQGAEFRSGYQEAVAEALRFLVEVQGFGPGDGLCVQMASHLQRHCEVVAK
+Scaffold = CM066618.1, start = 14929731, end = 14929783
+Argynnis_bischoffii_washingtonia,CM066618.1,14893040,14893210,1,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,23,44,56
+
+3
+7
+8
+9
+Argynnis_bischoffii_washingtonia,CM066618.1,14895402,14895585,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Argynnis_bischoffii_washingtonia,CM066618.1,14887769,14887944,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,58,60
+
+Getting Gene
+min = set50_frame1, 0.886
+5 top scores:
+[['set50_frame1', 0.886], ['set123_frame2', 1.677], ['set138_frame2', 1.775], ['set141_frame2', 1.777], ['set132_frame2', 1.84]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Argynnis_bischoffii_washingtonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_50_frame1.fa.txt
+14 64
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5
+HEKRVYPNSSSETTSSSSSSQGFAVKVIQRPEPPPAFPEPYEPDRQEHFA
+14 64
+set50_frame1
+EKPRSHIGSSSETTSSSNSSHGFAVKVIQRPEPPPAFSEPYEERPVEPCS
+Original query = AVHEKRVYPNSSSETTSSSSSSQGFAVKVIQRPEPPPAFPEPYEPDRQEHFADCER
+New query = EKPRSHIGSSSETTSSSNSSHGFAVKVIQRPEPPPAFSEPYEERPVEPCS
+Scaffold = CM066618.1, start = 14929731, end = 14929783
+Argynnis_bischoffii_washingtonia,CM066618.1,14891974,14892155,1,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6,19,60,60
+
+4
+8
+9
+Argynnis_bischoffii_washingtonia,CM066618.1,14893472,14893627,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Argynnis_bischoffii_washingtonia,CM066618.1,14887769,14887944,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,58,60
+
+Getting Gene
+min = set29_frame1, 0.925
+5 top scores:
+[['set29_frame1', 0.925], ['set82_frame2', 1.774], ['set12_frame2', 1.791], ['set124_frame2', 1.829], ['set68_frame0', 1.797]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Argynnis_bischoffii_washingtonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_29_frame1.fa.txt
+20 80
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6
+VHQPAVMEPLEGEPLPLDGRVKKEVTLRKIRKPEH-EDYLHSYKFKNSIERRFSRSQDSE
+20 80
+set29_frame1
+IISPVSMALPYVEGAETDARVSRD-ALRKVRKPEHGDDYLHSYKFKNSIERRFSRSQDSE
+Original query = SVHQPAVMEPLEGEPLPLDGRVKKEVTLRKIRKPEHEDYLHSYKFKNSIERRFSRSQDSE
+New query = IISPVSMALPYVEGAETDARVSRD-ALRKVRKPEHGDDYLHSYKFKNSIERRFSRSQDSE
+Scaffold = CM066618.1, start = 14929731, end = 14929783
+Argynnis_bischoffii_washingtonia,CM066618.1,0,0,0,Y,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,0,0,45
+
+5
+4
+8
+9
+Argynnis_bischoffii_washingtonia,CM066618.1,14893472,14893627,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Argynnis_bischoffii_washingtonia,CM066618.1,14887769,14887944,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,58,60
+
+Getting Gene
+min = set68_frame0, 1.032
+5 top scores:
+[['set68_frame0', 1.032], ['set106_frame1', 1.568], ['set30_frame0', 1.651], ['set32_frame2', 1.683], ['set124_frame2', 1.715]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Argynnis_bischoffii_washingtonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_68_frame0.fa.txt
+24 95
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7
+GDAWSAGPTAKAYNHKRRRPTKP--------------------------APPSTSTSASGSTEEARDTSPQ
+24 95
+set68_frame0
+ADPRTGAAPHKAYSHKRRRAAKPVASFVSTSTSTSNSASNSASNSASNSASNSASNSGSGSTEEARDTSPQ
+Original query = GDAWSAGPTAKAYNHKRRRPTKPAPPSTSTSASGSTEEARDTSPQ
+New query = ADPRTGAAPHKAYSHKRRRAAKPVASFVSTSTSTSNSASNSASNSASNSASNSASNSGSGSTEEARDTSPQ
+Scaffold = CM066618.1, start = 14929731, end = 14929783
+Argynnis_bischoffii_washingtonia,CM066618.1,14888714,14888798,1,Y,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,5,30,30
+
+6
+5
+4
+8
+9
+Argynnis_bischoffii_washingtonia,CM066618.1,14893472,14893627,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Argynnis_bischoffii_washingtonia,CM066618.1,14887769,14887944,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,58,60
+
+Getting Gene
+min = set106_frame2, 0.813
+5 top scores:
+[['set106_frame2', 0.813], ['set124_frame2', 1.604], ['set17_frame0', 1.615], ['set85_frame2', 1.723], ['set84_frame1', 1.751]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Argynnis_bischoffii_washingtonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_106_frame2.fa.txt
+25 61
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8
+TC-------SDSPHHHSFDKPPPPAQYVPVFALNAL
+25 61
+set106_frame2
+TCLFAQGLSRSSPHQHQYDK--PPAQYVPVFALNAL
+Original query = DTCSDSPHHHSFDKPPPPAQYVPVFALNAL
+New query = TCLFAQGLSRSSPHQHQYDK--PPAQYVPVFALNAL
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = CM066618.1, start = 14929731, end = 14929783
+Argynnis_bischoffii_washingtonia,CM066618.1,14896099,14896231,1,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+1
+4
+Argynnis_bischoffii_washingtonia,CM066618.1,14929731,14929783,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Argynnis_bischoffii_washingtonia,CM066618.1,14893472,14893627,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Getting Gene
+min = set814_frame1, 0.459
+5 top scores:
+[['set814_frame1', 0.459], ['set826_frame1', 1.683], ['set418_frame2', 1.684], ['set744_frame0', 1.746], ['set717_frame2', 1.75]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Argynnis_bischoffii_washingtonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_814_frame1.fa.txt
+3 41
+Nymphalis_io_XM_050486679.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRAGELNFAAPSEDEAEYPPAVFLKKGKVSR
+3 41
+set814_frame1
+YNSNDGFGRAGELNFAAPSEDEADYASGAY-KKGKVSR
+Original query = YNSNDGFGRAGELNFAAPSEDEAEYPPAVFLKKGKVSR
+New query = YNSNDGFGRAGELNFAAPSEDEADYASGAY-KKGKVSR
+Scaffold = CM066618.1, start = 14929731, end = 14929783
+Argynnis_bischoffii_washingtonia,CM066618.1,14895402,14895585,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+6
+7
+8
+9
+Argynnis_bischoffii_washingtonia,CM066618.1,14929731,14929783,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Argynnis_bischoffii_washingtonia,CM066618.1,14887769,14887944,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,58,60
+
+Getting Gene
+min = set826_frame1, 0.0
+5 top scores:
+[['set826_frame1', 0.0], ['set393_frame0', 1.776], ['set781_frame2', 1.778], ['set228_frame2', 1.786], ['set386_frame2', 1.793]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Argynnis_bischoffii_washingtonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_826_frame1.fa.txt
+0 61
+Nymphalis_io_XM_050486679.1_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+0 61
+set826_frame1
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = CM066618.1, start = 14929731, end = 14929783
+Argynnis_bischoffii_washingtonia,CM066618.1,14893472,14893627,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+2
+6
+7
+8
+9
+Argynnis_bischoffii_washingtonia,CM066618.1,14896099,14896231,1,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+Argynnis_bischoffii_washingtonia,CM066618.1,14887769,14887944,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,58,60
+
+Getting Gene
+min = set57_frame2, 0.385
+5 top scores:
+[['set57_frame2', 0.385], ['set78_frame1', 1.757], ['set56_frame1', 1.803], ['set133_frame1', 1.818], ['set122_frame2', 1.827]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Argynnis_bischoffii_washingtonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_57_frame2.fa.txt
+6 59
+Nymphalis_io_XM_050486679.1_Frame_2_rightoh_1_query_Exon_4
+AERQAGDDYRAGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEFVTK
+6 59
+set57_frame2
+AERQ-GAEFRSGYQEAVAEALRFLVEVQGFGPGDGLCVQMASHLQRHCEVVAK
+Original query = AERQAGDDYRAGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEFVTK
+New query = AERQ-GAEFRSGYQEAVAEALRFLVEVQGFGPGDGLCVQMASHLQRHCEVVAK
+Scaffold = CM066618.1, start = 14929731, end = 14929783
+Argynnis_bischoffii_washingtonia,CM066618.1,14893040,14893210,1,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,23,44,56
+
+3
+7
+8
+9
+Argynnis_bischoffii_washingtonia,CM066618.1,14895402,14895585,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Argynnis_bischoffii_washingtonia,CM066618.1,14887769,14887944,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,58,60
+
+Getting Gene
+min = set50_frame1, 0.806
+5 top scores:
+[['set50_frame1', 0.806], ['set123_frame2', 1.689], ['set138_frame2', 1.777], ['set38_frame0', 1.819], ['set105_frame2', 1.831]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Argynnis_bischoffii_washingtonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_50_frame1.fa.txt
+12 70
+Nymphalis_io_XM_050486679.1_Frame_2_rightoh_1_query_Exon_5
+TRDKPRSHPGSSSETASSSSSSHGFGVKVIQRPELPPFPAETYDHERQEPPYAMECDR
+12 70
+set50_frame1
+NREKPRSHIGSSSETTSSSNSSHGFAVKVIQRPEPPPAFSEPYE-ERPVEPCSMECDR
+Original query = EHTRDKPRSHPGSSSETASSSSSSHGFGVKVIQRPELPPFPAETYDHERQEPPYAMECDR
+New query = NREKPRSHIGSSSETTSSSNSSHGFAVKVIQRPEPPPAFSEPYE-ERPVEPCSMECDR
+Scaffold = CM066618.1, start = 14929731, end = 14929783
+Argynnis_bischoffii_washingtonia,CM066618.1,14891974,14892155,1,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6,19,60,60
+
+4
+8
+9
+Argynnis_bischoffii_washingtonia,CM066618.1,14893472,14893627,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Argynnis_bischoffii_washingtonia,CM066618.1,14887769,14887944,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,58,60
+
+Getting Gene
+min = set29_frame1, 0.798
+5 top scores:
+[['set29_frame1', 0.798], ['set82_frame2', 1.711], ['set33_frame2', 1.804], ['set124_frame2', 1.822], ['set32_frame2', 1.85]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Argynnis_bischoffii_washingtonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_29_frame1.fa.txt
+27 84
+Nymphalis_io_XM_050486679.1_Frame_2_rightoh_0_query_Exon_6
+VLPAAETDAPDAPLDGRLKKEPALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDTE
+27 84
+set29_frame1
+ALPYVE----GAETDARVSRD-ALRKVRKPEHGDDYLHSYKFKNSIERRFSRSQDSE
+Original query = SVLPAAETDAPDAPLDGRLKKEPALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDTE
+New query = ALPYVE----GAETDARVSRD-ALRKVRKPEHGDDYLHSYKFKNSIERRFSRSQDSE
+Scaffold = CM066618.1, start = 14929731, end = 14929783
+Argynnis_bischoffii_washingtonia,CM066618.1,0,0,0,Y,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,0,0,45
+
+5
+4
+8
+9
+Argynnis_bischoffii_washingtonia,CM066618.1,14893472,14893627,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Argynnis_bischoffii_washingtonia,CM066618.1,14887769,14887944,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,58,60
+
+Getting Gene
+min = set68_frame0, 1.019
+5 top scores:
+[['set68_frame0', 1.019], ['set82_frame2', 1.587], ['set32_frame2', 1.643], ['set124_frame2', 1.72], ['set106_frame2', 1.742]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Argynnis_bischoffii_washingtonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_68_frame0.fa.txt
+22 95
+Nymphalis_io_XM_050486679.1_Frame_0_rightoh_0_query_Exon_7
+TAEGAGRGAAHGKLYSHKRRRQAKPAA-----------------------PESTSASTSASASTEDAQDTSPQ
+22 95
+set68_frame0
+QMADPRTGAAPHKAYSHKRRRAAKPVASFVSTSTSTSNSASNSASNSASNSASNSASNSGSGSTEEARDTSPQ
+Original query = TAEGAGRGAAHGKLYSHKRRRQAKPAAPESTSASTSASASTEDAQDTSPQ
+New query = QMADPRTGAAPHKAYSHKRRRAAKPVASFVSTSTSTSNSASNSASNSASNSASNSASNSGSGSTEEARDTSPQ
+Scaffold = CM066618.1, start = 14929731, end = 14929783
+Argynnis_bischoffii_washingtonia,CM066618.1,14888714,14888798,1,Y,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,5,30,30
+
+6
+5
+4
+8
+9
+Argynnis_bischoffii_washingtonia,CM066618.1,14893472,14893627,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Argynnis_bischoffii_washingtonia,CM066618.1,14887769,14887944,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,58,60
+
+Getting Gene
+min = set106_frame2, 0.725
+5 top scores:
+[['set106_frame2', 0.725], ['set12_frame2', 1.594], ['set124_frame2', 1.628], ['set85_frame2', 1.722], ['set32_frame2', 1.729]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Argynnis_bischoffii_washingtonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_106_frame2.fa.txt
+31 61
+Nymphalis_io_XM_050486679.1_Frame_0_rightoh_1_query_Exon_8
+DTSSDSPHHHQYDKPPPPTQYVPVFALNSL
+31 61
+set106_frame2
+GLSRSSPHQHQYDK--PPAQYVPVFALNAL
+Original query = DTSSDSPHHHQYDKPPPPTQYVPVFALNSL
+New query = GLSRSSPHQHQYDK--PPAQYVPVFALNAL
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = CM066618.1, start = 14929731, end = 14929783
+Argynnis_bischoffii_washingtonia,CM066618.1,14896099,14896231,1,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+1
+4
+Argynnis_bischoffii_washingtonia,CM066618.1,14929731,14929783,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Argynnis_bischoffii_washingtonia,CM066618.1,14893472,14893627,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Getting Gene
+min = set814_frame1, 0.354
+5 top scores:
+[['set814_frame1', 0.354], ['set826_frame1', 1.641], ['set414_frame2', 1.73], ['set637_frame2', 1.737], ['set703_frame2', 1.743]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Argynnis_bischoffii_washingtonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_814_frame1.fa.txt
+3 41
+Vanessa_tameamea_XM_026630430.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRAGELNFAAPSEDEADYPPAAYLKKGKVSR
+3 41
+set814_frame1
+YNSNDGFGRAGELNFAAPSEDEADYASGAY-KKGKVSR
+Original query = YNSNDGFGRAGELNFAAPSEDEADYPPAAYLKKGKVSR
+New query = YNSNDGFGRAGELNFAAPSEDEADYASGAY-KKGKVSR
+Scaffold = CM066618.1, start = 14929731, end = 14929783
+Argynnis_bischoffii_washingtonia,CM066618.1,14895402,14895585,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+6
+7
+8
+9
+Argynnis_bischoffii_washingtonia,CM066618.1,14929731,14929783,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Argynnis_bischoffii_washingtonia,CM066618.1,14887769,14887944,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,58,60
+
+Getting Gene
+min = set826_frame1, 0.107
+5 top scores:
+[['set826_frame1', 0.107], ['set228_frame2', 1.786], ['set781_frame2', 1.79], ['set48_frame0', 1.792], ['set925_frame1', 1.797]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Argynnis_bischoffii_washingtonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_826_frame1.fa.txt
+0 65
+Vanessa_tameamea_XM_026630430.1_Frame_0_rightoh_1_query_Exon_3
+VLLQQDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+0 65
+set826_frame1
+----QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = VLLQQDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+New query = ----QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = CM066618.1, start = 14929731, end = 14929783
+Argynnis_bischoffii_washingtonia,CM066618.1,14893472,14893627,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+2
+6
+7
+8
+9
+Argynnis_bischoffii_washingtonia,CM066618.1,14896099,14896231,1,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+Argynnis_bischoffii_washingtonia,CM066618.1,14887769,14887944,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,58,60
+
+Getting Gene
+min = set57_frame2, 0.355
+5 top scores:
+[['set57_frame2', 0.355], ['set78_frame1', 1.761], ['set56_frame1', 1.802], ['set133_frame1', 1.817], ['set13_frame1', 1.822]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Argynnis_bischoffii_washingtonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_57_frame2.fa.txt
+6 59
+Vanessa_tameamea_XM_026630430.1_Frame_2_rightoh_1_query_Exon_4
+AERQAGDDYRTGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEIVTK
+6 59
+set57_frame2
+AERQ-GAEFRSGYQEAVAEALRFLVEVQGFGPGDGLCVQMASHLQRHCEVVAK
+Original query = AERQAGDDYRTGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEIVTK
+New query = AERQ-GAEFRSGYQEAVAEALRFLVEVQGFGPGDGLCVQMASHLQRHCEVVAK
+Scaffold = CM066618.1, start = 14929731, end = 14929783
+Argynnis_bischoffii_washingtonia,CM066618.1,14893040,14893210,1,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,23,44,56
+
+3
+7
+8
+9
+Argynnis_bischoffii_washingtonia,CM066618.1,14895402,14895585,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Argynnis_bischoffii_washingtonia,CM066618.1,14887769,14887944,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,58,60
+
+Getting Gene
+min = set50_frame1, 0.806
+5 top scores:
+[['set50_frame1', 0.806], ['set123_frame2', 1.689], ['set138_frame2', 1.777], ['set38_frame0', 1.819], ['set105_frame2', 1.831]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Argynnis_bischoffii_washingtonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_50_frame1.fa.txt
+12 70
+Vanessa_tameamea_XM_026630430.1_Frame_2_rightoh_1_query_Exon_5
+TRDKPRSHPGSSSETASSSSSSHGFGVKVIQRPELPPFPAETYDHERQEPPYAMECDR
+12 70
+set50_frame1
+NREKPRSHIGSSSETTSSSNSSHGFAVKVIQRPEPPPAFSEPYE-ERPVEPCSMECDR
+Original query = EHTRDKPRSHPGSSSETASSSSSSHGFGVKVIQRPELPPFPAETYDHERQEPPYAMECDR
+New query = NREKPRSHIGSSSETTSSSNSSHGFAVKVIQRPEPPPAFSEPYE-ERPVEPCSMECDR
+Scaffold = CM066618.1, start = 14929731, end = 14929783
+Argynnis_bischoffii_washingtonia,CM066618.1,14891974,14892155,1,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6,19,60,60
+
+4
+8
+9
+Argynnis_bischoffii_washingtonia,CM066618.1,14893472,14893627,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Argynnis_bischoffii_washingtonia,CM066618.1,14887769,14887944,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,58,60
+
+Getting Gene
+min = set29_frame1, 0.804
+5 top scores:
+[['set29_frame1', 0.804], ['set124_frame2', 1.732], ['set82_frame2', 1.775], ['set106_frame1', 1.815], ['set68_frame0', 1.8]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Argynnis_bischoffii_washingtonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_29_frame1.fa.txt
+20 80
+Vanessa_tameamea_XM_026630430.1_Frame_2_rightoh_0_query_Exon_6
+LLPAAEADAPRAPRAPLDGRLKREAALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDTE
+20 80
+set29_frame1
+IISPVSMALPYVEGAETDARVSRD-ALRKVRKPEHGDDYLHSYKFKNSIERRFSRSQDSE
+Original query = SLLPAAEADAPRAPRAPLDGRLKREAALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDTE
+New query = IISPVSMALPYVEGAETDARVSRD-ALRKVRKPEHGDDYLHSYKFKNSIERRFSRSQDSE
+Scaffold = CM066618.1, start = 14929731, end = 14929783
+Argynnis_bischoffii_washingtonia,CM066618.1,0,0,0,Y,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,0,0,45
+
+5
+4
+8
+9
+Argynnis_bischoffii_washingtonia,CM066618.1,14893472,14893627,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Argynnis_bischoffii_washingtonia,CM066618.1,14887769,14887944,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,58,60
+
+Getting Gene
+min = set68_frame0, 0.924
+5 top scores:
+[['set68_frame0', 0.924], ['set106_frame1', 1.541], ['set82_frame2', 1.664], ['set32_frame2', 1.713], ['set93_frame0', 1.753]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Argynnis_bischoffii_washingtonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_68_frame0.fa.txt
+26 95
+Vanessa_tameamea_XM_026630430.1_Frame_0_rightoh_0_query_Exon_7
+SAEGAAHGKLYSHKRRRQAKPCA-------------------PPSTSASASASTSASASTEDAQDTSPQ
+26 95
+set68_frame0
+PRTGAAPHKAYSHKRRRAAKPVASFVSTSTSTSNSASNSASNSASNSASNSASNSGSGSTEEARDTSPQ
+Original query = SAEGAAHGKLYSHKRRRQAKPCAPPSTSASASASTSASASTEDAQDTSPQ
+New query = PRTGAAPHKAYSHKRRRAAKPVASFVSTSTSTSNSASNSASNSASNSASNSASNSGSGSTEEARDTSPQ
+Scaffold = CM066618.1, start = 14929731, end = 14929783
+Argynnis_bischoffii_washingtonia,CM066618.1,14888714,14888798,1,Y,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,5,30,30
+
+6
+5
+4
+8
+9
+Argynnis_bischoffii_washingtonia,CM066618.1,14893472,14893627,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Argynnis_bischoffii_washingtonia,CM066618.1,14887769,14887944,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,58,60
+
+Getting Gene
+min = set106_frame2, 0.725
+5 top scores:
+[['set106_frame2', 0.725], ['set12_frame2', 1.594], ['set124_frame2', 1.628], ['set85_frame2', 1.722], ['set32_frame2', 1.729]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Argynnis_bischoffii_washingtonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_106_frame2.fa.txt
+31 61
+Vanessa_tameamea_XM_026630430.1_Frame_0_rightoh_1_query_Exon_8
+DTSSDSPHHHQYDKPPPPTQYVPVFALNSL
+31 61
+set106_frame2
+GLSRSSPHQHQYDK--PPAQYVPVFALNAL
+Original query = DTSSDSPHHHQYDKPPPPTQYVPVFALNSL
+New query = GLSRSSPHQHQYDK--PPAQYVPVFALNAL

@@ -1,0 +1,453 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = OY751439.1, start = 4372541, end = 4372593
+Phengaris_arion,OY751439.1,4400408,4400522,0,N,Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+1
+4
+Phengaris_arion,OY751439.1,4372541,4372593,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Phengaris_arion,OY751439.1,4403918,4404079,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+Getting Gene
+min = set568_frame1, 0.385
+5 top scores:
+[['set568_frame1', 0.385], ['set238_frame1', 1.672], ['set511_frame1', 1.735], ['set528_frame2', 1.745], ['set583_frame2', 1.746]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Phengaris_arion/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_568_frame1.fa.txt
+13 52
+Maniola_jurtina_XM_045908966.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRTGEPLSFAPPSEDEAEYPAGAYLKKGKVSR
+13 52
+set568_frame1
+YNSNDGFGRPGE-IHYAPPSEDEAEYPQGAYLKKGKVSR
+Original query = YNSNDGFGRTGEPLSFAPPSEDEAEYPAGAYLKKGKVSR
+New query = YNSNDGFGRPGE-IHYAPPSEDEAEYPQGAYLKKGKVSR
+Scaffold = OY751439.1, start = 4372541, end = 4372593
+Phengaris_arion,OY751439.1,4401134,4401317,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Phengaris_arion,OY751439.1,4372541,4372593,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Phengaris_arion,OY751439.1,4405553,4405738,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,1,63,63
+
+Getting Gene
+min = set650_frame0, 0.044
+5 top scores:
+[['set650_frame0', 0.044], ['set157_frame2', 1.756], ['set212_frame2', 1.761], ['set528_frame2', 1.797], ['set667_frame2', 1.806]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Phengaris_arion/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_650_frame0.fa.txt
+7 68
+Maniola_jurtina_XM_045908966.1_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPAEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+7 68
+set650_frame0
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHIKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPAEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHIKFLQDRVN
+Scaffold = OY751439.1, start = 4372541, end = 4372593
+Phengaris_arion,OY751439.1,4403918,4404079,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+2
+6
+Phengaris_arion,OY751439.1,4400408,4400522,0,N,Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+Phengaris_arion,OY751439.1,4406156,4406328,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,2,56,56
+
+Getting Gene
+min = set79_frame2, 0.445
+5 top scores:
+[['set79_frame2', 0.445], ['set109_frame2', 1.762], ['set100_frame1', 1.812], ['set49_frame1', 1.825], ['set91_frame2', 1.829]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Phengaris_arion/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_79_frame2.fa.txt
+21 74
+Maniola_jurtina_XM_045908966.1_Frame_2_rightoh_1_query_Exon_4
+AERQAGEEFRAGYQEAVAEAVRFLVEVQGFGPGDGLCVQLASHMQRHCDAVTK
+21 74
+set79_frame2
+TEGQATEPFRVGYNEAVGEAVRFLVEVQGFGPADGLCVQMTTHLQRHCEIVTK
+Original query = AERQAGEEFRAGYQEAVAEAVRFLVEVQGFGPGDGLCVQLASHMQRHCDAVTK
+New query = TEGQATEPFRVGYNEAVGEAVRFLVEVQGFGPADGLCVQMTTHLQRHCEIVTK
+Scaffold = OY751439.1, start = 4372541, end = 4372593
+Phengaris_arion,OY751439.1,4405553,4405738,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,1,63,63
+
+3
+7
+Phengaris_arion,OY751439.1,4401134,4401317,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Phengaris_arion,OY751439.1,4406807,4406935,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7,1,43,43
+
+Getting Gene
+min = set103_frame2, 1.227
+5 top scores:
+[['set103_frame2', 1.227], ['set96_frame1', 1.794], ['set126_frame1', 1.795], ['set109_frame2', 1.811], ['set114_frame2', 1.821]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Phengaris_arion/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_103_frame2.fa.txt
+14 80
+Maniola_jurtina_XM_045908966.1_Frame_2_rightoh_1_query_Exon_5
+AMTRSDKSRSSNPGSSSETTSSSSSSHGFAVK-VIQRPELPPAFPVESYEQERPAAGPQYPMECER
+14 80
+set103_frame2
+SLPR-DKPR-FHLGSSSETASSSSSSQGYVMKGLIQRPD-PPPFP-EPYEPERPA---EMYMECDR
+Original query = DAMTRSDKSRSSNPGSSSETTSSSSSSHGFAVKVIQRPELPPAFPVESYEQERPAAGPQYPMECER
+New query = SLPR-DKPR-FHLGSSSETASSSSSSQGYVMKGLIQRPD-PPPFP-EPYEPERPA---EMYMECDR
+Scaffold = OY751439.1, start = 4372541, end = 4372593
+Phengaris_arion,OY751439.1,4406156,4406328,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,2,56,56
+
+4
+8
+Phengaris_arion,OY751439.1,4403918,4404079,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+Phengaris_arion,OY751439.1,4407467,4407560,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set39_frame2, 0.782
+5 top scores:
+[['set39_frame2', 0.782], ['set61_frame0', 1.797], ['set72_frame1', 1.834], ['set67_frame0', 1.839], ['set1_frame2', 1.85]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Phengaris_arion/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_39_frame2.fa.txt
+5 63
+Maniola_jurtina_XM_045908966.1_Frame_2_rightoh_0_query_Exon_6
+QNLAAPEAESQEPLPLDGRIKREALRKVRKIEHSDDYLHSYKFKNSIERRFSRSQDTE
+5 63
+set39_frame2
+VTLLPEQLPSDEPLSLD-RHKRDNLRKVRKPDH-DDYLHSYKFKNSIERRFSRSQDSE
+Original query = QNLAAPEAESQEPLPLDGRIKREALRKVRKIEHSDDYLHSYKFKNSIERRFSRSQDTE
+New query = VTLLPEQLPSDEPLSLD-RHKRDNLRKVRKPDH-DDYLHSYKFKNSIERRFSRSQDSE
+Scaffold = OY751439.1, start = 4372541, end = 4372593
+Phengaris_arion,OY751439.1,4406807,4406935,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7,1,43,43
+
+5
+8
+Phengaris_arion,OY751439.1,4405553,4405738,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,1,63,63
+
+Phengaris_arion,OY751439.1,4407467,4407560,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set18_frame0, 1.358
+5 top scores:
+[['set32_frame1', 1.678], ['set18_frame0', 1.358], ['set23_frame2', 1.703], ['set7_frame2', 1.78], ['set2_frame1', 1.821]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Phengaris_arion/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_18_frame0.fa.txt
+12 117
+Maniola_jurtina_XM_045908966.1_Frame_0_rightoh_0_query_Exon_7
+AADCPPH-----------------------------------------------------NGVNGATHGKPYAHKRRRAVKPAPSAPTSASTS-----TEDTSPQ
+12 117
+set18_frame0
+TASCAAYSRSLLTALLIAIERTLNALEDLQKQLGHGRISMSSVPCTFSFYVHVKKKLFHFQAADNCTRSARAFTKRRRAVKPVP-ASTSASTSGSTEDARDTSPQ
+Original query = AADCPPHNGVNGATHGKPYAHKRRRAVKPAPSAPTSASTSTEDTSPQ
+New query = TASCAAYSRSLLTALLIAIERTLNALEDLQKQLGHGRISMSSVPCTFSFYVHVKKKLFHFQAADNCTRSARAFTKRRRAVKPVP-ASTSASTSGSTEDARDTSPQ
+Scaffold = OY751439.1, start = 4372541, end = 4372593
+Phengaris_arion,OY751439.1,4407467,4407560,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+6
+8
+Phengaris_arion,OY751439.1,4406156,4406328,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,2,56,56
+
+Phengaris_arion,OY751439.1,4407467,4407560,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set15_frame0, 0.812
+5 top scores:
+[['set15_frame0', 0.812], ['set17_frame2', 1.681], ['set6_frame2', 1.721], ['set11_frame2', 1.733], ['set1_frame2', 1.805]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Phengaris_arion/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_15_frame0.fa.txt
+44 59
+set15_frame0
+DTSSESPHHHQYEKP
+Original query = DTSSESPHNHHYDKPPPPTQYVPVFALNSL
+New query = DTSSESPHHHQYEKP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = OY751439.1, start = 4372541, end = 4372593
+Phengaris_arion,OY751439.1,4400408,4400522,0,N,Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+1
+4
+Phengaris_arion,OY751439.1,4372541,4372593,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Phengaris_arion,OY751439.1,4403918,4404079,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+Getting Gene
+min = set568_frame1, 0.012
+5 top scores:
+[['set568_frame1', 0.012], ['set158_frame2', 1.693], ['set499_frame2', 1.716], ['set564_frame2', 1.737], ['set448_frame1', 1.741]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Phengaris_arion/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_568_frame1.fa.txt
+13 51
+Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRPGEVHYAPPSEDEAEYPQGAYLKKGKVSR
+13 51
+set568_frame1
+YNSNDGFGRPGEIHYAPPSEDEAEYPQGAYLKKGKVSR
+Original query = YNSNDGFGRPGEVHYAPPSEDEAEYPQGAYLKKGKVSR
+New query = YNSNDGFGRPGEIHYAPPSEDEAEYPQGAYLKKGKVSR
+Scaffold = OY751439.1, start = 4372541, end = 4372593
+Phengaris_arion,OY751439.1,4401134,4401317,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Phengaris_arion,OY751439.1,4372541,4372593,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Phengaris_arion,OY751439.1,4405553,4405738,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,1,63,63
+
+Getting Gene
+min = set650_frame0, 0.0
+5 top scores:
+[['set650_frame0', 0.0], ['set157_frame2', 1.759], ['set212_frame2', 1.791], ['set406_frame2', 1.802], ['set413_frame2', 1.809]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Phengaris_arion/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_650_frame0.fa.txt
+7 68
+Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHIKFLQDRVN
+7 68
+set650_frame0
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHIKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHIKFLQDRVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHIKFLQDRVN
+Scaffold = OY751439.1, start = 4372541, end = 4372593
+Phengaris_arion,OY751439.1,4403918,4404079,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+2
+6
+Phengaris_arion,OY751439.1,4400408,4400522,0,N,Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+Phengaris_arion,OY751439.1,4406156,4406328,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,2,56,56
+
+Getting Gene
+min = set79_frame2, 0.204
+5 top scores:
+[['set79_frame2', 0.204], ['set109_frame2', 1.779], ['set50_frame1', 1.812], ['set111_frame2', 1.815], ['set95_frame2', 1.825]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Phengaris_arion/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_79_frame2.fa.txt
+21 74
+Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4
+AEGQAPEPYRVGYQEAVGEAVRFLVEVQGFGPADGLCVQMAAHLQRHCEIVTK
+21 74
+set79_frame2
+TEGQATEPFRVGYNEAVGEAVRFLVEVQGFGPADGLCVQMTTHLQRHCEIVTK
+Original query = AEGQAPEPYRVGYQEAVGEAVRFLVEVQGFGPADGLCVQMAAHLQRHCEIVTK
+New query = TEGQATEPFRVGYNEAVGEAVRFLVEVQGFGPADGLCVQMTTHLQRHCEIVTK
+Scaffold = OY751439.1, start = 4372541, end = 4372593
+Phengaris_arion,OY751439.1,4405553,4405738,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,1,63,63
+
+3
+7
+Phengaris_arion,OY751439.1,4401134,4401317,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Phengaris_arion,OY751439.1,4406807,4406935,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7,1,43,43
+
+Getting Gene
+min = set103_frame2, 0.502
+5 top scores:
+[['set103_frame2', 0.502], ['set109_frame2', 1.827], ['set71_frame2', 1.834], ['set31_frame0', 1.823], ['set46_frame0', 1.834]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Phengaris_arion/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_103_frame2.fa.txt
+12 75
+Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5
+NGSVPREKIRSHIGGSSSETASSSSSSHGYVMKGVIQRPEPPPFSEPYEPEHPADMYQMECDR
+12 75
+set103_frame2
+NGSLPRDKPRFHL-GSSSETASSSSSSQGYVMKGLIQRPDPPPFPEPYEPERPAEMY-MECDR
+Original query = NGSVPREKIRSHIGGSSSETASSSSSSHGYVMKGVIQRPEPPPFSEPYEPEHPADMYQMECDR
+New query = NGSLPRDKPRFHL-GSSSETASSSSSSQGYVMKGLIQRPDPPPFPEPYEPERPAEMY-MECDR
+Scaffold = OY751439.1, start = 4372541, end = 4372593
+Phengaris_arion,OY751439.1,4406156,4406328,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,2,56,56
+
+4
+8
+Phengaris_arion,OY751439.1,4403918,4404079,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+Phengaris_arion,OY751439.1,4407467,4407560,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set39_frame2, 0.329
+5 top scores:
+[['set39_frame2', 0.329], ['set72_frame1', 1.814], ['set13_frame2', 1.819], ['set44_frame2', 1.851], ['set67_frame0', 1.864]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Phengaris_arion/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_39_frame2.fa.txt
+4 61
+Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6
+PVPLLPVDLPADEPLPLDRHKRD-LRKVRKPDHDDYLHSYKFKNSIERRFSRSQDSE
+4 61
+set39_frame2
+AVTLLPEQLPSDEPLSLDRHKRDNLRKVRKPDHDDYLHSYKFKNSIERRFSRSQDSE
+Original query = PVPLLPVDLPADEPLPLDRHKRDLRKVRKPDHDDYLHSYKFKNSIERRFSRSQDSE
+New query = AVTLLPEQLPSDEPLSLDRHKRDNLRKVRKPDHDDYLHSYKFKNSIERRFSRSQDSE
+Scaffold = OY751439.1, start = 4372541, end = 4372593
+Phengaris_arion,OY751439.1,4406807,4406935,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7,1,43,43
+
+5
+8
+Phengaris_arion,OY751439.1,4405553,4405738,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,1,63,63
+
+Phengaris_arion,OY751439.1,4407467,4407560,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set18_frame0, 0.284
+5 top scores:
+[['set2_frame1', 1.675], ['set1_frame2', 1.711], ['set7_frame2', 1.763], ['set18_frame0', 0.284], ['set14_frame2', 1.796]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Phengaris_arion/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_18_frame0.fa.txt
+73 116
+Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7
+AAENGTRGPRAFTKRRRANKPVPASTSASTSGSTEDARDTSPQ
+73 116
+set18_frame0
+AADNCTRSARAFTKRRRAVKPVPASTSASTSGSTEDARDTSPQ
+Original query = AAENGTRGPRAFTKRRRANKPVPASTSASTSGSTEDARDTSPQ
+New query = AADNCTRSARAFTKRRRAVKPVPASTSASTSGSTEDARDTSPQ
+Scaffold = OY751439.1, start = 4372541, end = 4372593
+Phengaris_arion,OY751439.1,4407467,4407560,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+6
+8
+Phengaris_arion,OY751439.1,4406156,4406328,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,2,56,56
+
+Phengaris_arion,OY751439.1,4407467,4407560,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set15_frame0, 0.153
+5 top scores:
+[['set15_frame0', 0.153], ['set19_frame1', 1.713], ['set17_frame2', 1.735], ['set9_frame0', 1.668], ['set13_frame0', 1.749]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Phengaris_arion/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_15_frame0.fa.txt
+44 74
+set15_frame0
+DTSSESPHHHQYEKPLTSAQQLVPVFALNA
+Original query = DTSSESPHHHQYEKPLPTAQQLVPVFALNAI
+New query = DTSSESPHHHQYEKPLTSAQQLVPVFALNA
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = OY751439.1, start = 4372541, end = 4372593
+Phengaris_arion,OY751439.1,4400408,4400522,0,N,Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+1
+4
+Phengaris_arion,OY751439.1,4372541,4372593,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Phengaris_arion,OY751439.1,4403918,4404079,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+Getting Gene
+min = set568_frame1, 1.058
+5 top scores:
+[['set568_frame1', 1.058], ['set537_frame2', 1.623], ['set651_frame0', 1.711], ['set448_frame1', 1.714], ['set564_frame2', 1.733]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Phengaris_arion/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_568_frame1.fa.txt
+14 53
+set568_frame1
+NSNDGFGRPGEIHYAPPSEDEAEYPQGAYLKKGKVSRAS
+Original query = YSNEEFAREPLSFAPPSEDEAEYPPGYKKGKVSRASHTEYAR
+New query = NSNDGFGRPGEIHYAPPSEDEAEYPQGAYLKKGKVSRAS
+Scaffold = OY751439.1, start = 4372541, end = 4372593
+Phengaris_arion,OY751439.1,4401134,4401317,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Phengaris_arion,OY751439.1,4372541,4372593,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Phengaris_arion,OY751439.1,4405553,4405738,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,1,63,63
+
+Getting Gene
+min = set650_frame0, 0.079
+5 top scores:
+[['set650_frame0', 0.079], ['set157_frame2', 1.761], ['set212_frame2', 1.793], ['set406_frame2', 1.802], ['set413_frame2', 1.809]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Phengaris_arion/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_650_frame0.fa.txt
+7 68
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+7 68
+set650_frame0
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHIKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHIKFLQDRVN
+Scaffold = OY751439.1, start = 4372541, end = 4372593
+Phengaris_arion,OY751439.1,4403918,4404079,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+2
+6
+Phengaris_arion,OY751439.1,4400408,4400522,0,N,Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+Phengaris_arion,OY751439.1,4406156,4406328,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,2,56,56
+
+Getting Gene
+min = set79_frame2, 1.275
+5 top scores:
+[['set79_frame2', 1.275], ['set1_frame1', 1.761], ['set125_frame1', 1.77], ['set117_frame2', 1.771], ['set73_frame1', 1.814]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Phengaris_arion/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_79_frame2.fa.txt
+17 74
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4
+LERGSE------FLAGYQRAGAEAVRF-VELQ--GSRDGLADQLAAHLHSHADMMAK
+17 74
+set79_frame2
+LSTATEGQATEPFRVGYNEAVGEAVRFLVEVQGFGPADGLCVQMTTHLQRHCEIVTK
+Original query = LERGSEFLAGYQRAGAEAVRFVELQGSRDGLADQLAAHLHSHADMMAK
+New query = LSTATEGQATEPFRVGYNEAVGEAVRFLVEVQGFGPADGLCVQMTTHLQRHCEIVTK
+Scaffold = OY751439.1, start = 4372541, end = 4372593
+Phengaris_arion,OY751439.1,4405553,4405738,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,1,63,63
+
+3
+7
+Phengaris_arion,OY751439.1,4401134,4401317,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Phengaris_arion,OY751439.1,4406807,4406935,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7,1,43,43
+
+Getting Gene
+min = set103_frame2, 0.96
+5 top scores:
+[['set103_frame2', 0.96], ['set109_frame2', 1.719], ['set71_frame2', 1.802], ['set107_frame2', 1.807], ['set83_frame1', 1.817]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Phengaris_arion/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_103_frame2.fa.txt
+19 74
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5
+EKRVYPNSSSETTSSSSSSQGFAVK-VIQRPEPPPAFPEPYEPDR-QEHFADCER
+19 74
+set103_frame2
+KPRFHLGSSSETASSSSSSQGYVMKGLIQRPDPPP-FPEPYEPERPAEMYMECDR
+Original query = AVHEKRVYPNSSSETTSSSSSSQGFAVKVIQRPEPPPAFPEPYEPDRQEHFADCER
+New query = KPRFHLGSSSETASSSSSSQGYVMKGLIQRPDPPP-FPEPYEPERPAEMYMECDR
+Scaffold = OY751439.1, start = 4372541, end = 4372593
+Phengaris_arion,OY751439.1,4406156,4406328,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,2,56,56
+
+4
+8
+Phengaris_arion,OY751439.1,4403918,4404079,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+Phengaris_arion,OY751439.1,4407467,4407560,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set39_frame2, 0.853
+5 top scores:
+[['set39_frame2', 0.853], ['set33_frame2', 1.832], ['set65_frame0', 1.794], ['set44_frame2', 1.845], ['set46_frame2', 1.854]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Phengaris_arion/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_39_frame2.fa.txt
+0 63
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6
+SVHQPAVMEPLE---GEPLPLDGRVKKEVTLRKIRKPEHEDYLHSYKFKNSIERRFSRSQDSE
+0 63
+set39_frame2
+LFAVAVTLLPEQLPSDEPLSLDRH--KRDNLRKVRKPDHDDYLHSYKFKNSIERRFSRSQDSE
+Original query = SVHQPAVMEPLEGEPLPLDGRVKKEVTLRKIRKPEHEDYLHSYKFKNSIERRFSRSQDSE
+New query = LFAVAVTLLPEQLPSDEPLSLDRH--KRDNLRKVRKPDHDDYLHSYKFKNSIERRFSRSQDSE
+Scaffold = OY751439.1, start = 4372541, end = 4372593
+Phengaris_arion,OY751439.1,4406807,4406935,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7,1,43,43
+
+5
+8
+Phengaris_arion,OY751439.1,4405553,4405738,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,1,63,63
+
+Phengaris_arion,OY751439.1,4407467,4407560,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set18_frame0, 0.971
+5 top scores:
+[['set32_frame1', 1.619], ['set1_frame2', 1.725], ['set18_frame0', 0.971], ['set23_frame2', 1.744], ['set14_frame1', 1.818]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Phengaris_arion/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_18_frame0.fa.txt
+49 117
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7
+DAWSAGP------------------------TAKAYNHKRRRPTKPAPPSTSTSASGSTEEARDTSPQ
+49 117
+set18_frame0
+ISMSSVPCTFSFYVHVKKKLFHFQAADNCTRSARAFT-KRRRAVKPVPASTSASTSGSTEDARDTSPQ
+Original query = GDAWSAGPTAKAYNHKRRRPTKPAPPSTSTSASGSTEEARDTSPQ
+New query = ISMSSVPCTFSFYVHVKKKLFHFQAADNCTRSARAFT-KRRRAVKPVPASTSASTSGSTEDARDTSPQ
+Scaffold = OY751439.1, start = 4372541, end = 4372593
+Phengaris_arion,OY751439.1,4407467,4407560,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+6
+8
+Phengaris_arion,OY751439.1,4406156,4406328,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,2,56,56
+
+Phengaris_arion,OY751439.1,4407467,4407560,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set15_frame0, 0.841
+5 top scores:
+[['set15_frame0', 0.841], ['set17_frame2', 1.687], ['set15_frame2', 1.746], ['set9_frame0', 1.705], ['set1_frame2', 1.793]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Phengaris_arion/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_15_frame0.fa.txt
+44 63
+set15_frame0
+DTSSESPHHHQYEKPLTSA
+Original query = DTCSDSPHHHSFDKPPPPAQYVPVFALNAL
+New query = DTSSESPHHHQYEKPLTSA

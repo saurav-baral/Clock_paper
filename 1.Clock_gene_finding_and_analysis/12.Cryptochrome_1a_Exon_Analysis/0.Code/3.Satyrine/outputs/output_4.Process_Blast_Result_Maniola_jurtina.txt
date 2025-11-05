@@ -1,0 +1,629 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Maniola_jurtina
+Processing Exon_2
+0 query coordinate
+Period_gene_genomic_sequence_individual_exon
+48
+[[2, 1]]
+reached here
+Before splice: 2161,2307
+after splice: 2161,2307
+sequence:
+ACCAAAGTGGTAGGTTACAACCGCATGCGCTACCTACTGGAAGCTCTGCAAGACCTGGACAACCAGTTCAAGAAGTACGGCGGCAGACTGCACATGATCAAGGGCAAGCCTGAGGCTGTGTTCAGACGCCTGTGGGAGGAGTTTG
+sequence:
+TKVVGYNRMRYLLEALQDLDNQFKKYGGRLHMIKGKPEAVFRRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALQDLDNQFKKYGGRLHMIKGKPEAVFRRLWEEF
+[[2, 1]]
+start_coordinate : 12312011,stop_coordinate : 12312154
+2161 2307 Y N
+Maniola_jurtina,,12312009,12312155,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Maniola_jurtina
+Processing Exon_3
+Maniola_jurtina_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 3152,3339
+after splice: 3152,3339
+sequence:
+ATCCGTAAGATTTGCTTCGAGCAGGATTGCGAACCGATATGGCGCGCTAGAGACGAGTGCGTCAAGAGCCTCTGTCGTGAGATAGGTGTGGGGTGTCGTGAGAATGTTTCCCACACGCTTTGGGACCCTGACGTCATCATACGCGCCAATGGGGGCATCCCACCCCTTACCTATCAGATGTTTTTG
+sequence:
+IRKICFEQDCEPIWRARDECVKSLCREIGVGCRENVSHTLWDPDVIIRANGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+IRKICFEQDCEPIWRARDECVKSLCREIGVGCRENVSHTLWDPDVIIRANGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 12313002,stop_coordinate : 12313187
+3152 3339 Y N
+Maniola_jurtina,,12313000,12313187,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Maniola_jurtina
+Processing Exon_4
+Maniola_jurtina_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 3964,4080
+after splice: 3964,4080
+sequence:
+CATACCGTAGCCATCATCGGCAATCCGCCGCGACCTGTAGATGACGTGGATTTAAGAGGAGTCAACTTTGTGGCCCTTCCCGACAGCTTCTACCAGGAGTTTACCATATTTGACAAG
+sequence:
+HTVAIIGNPPRPVDDVDLRGVNFVALPDSFYQEFTIFDK
+left = AG, right =GT, stop_counter = 0
+HTVAIIGNPPRPVDDVDLRGVNFVALPDSFYQEFTIFDK
+[[0, 0]]
+start_coordinate : 12313812,stop_coordinate : 12313928
+3964 4080 Y N
+Maniola_jurtina,,12313812,12313928,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Maniola_jurtina
+Processing Exon_5
+Maniola_jurtina_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+43
+[[0, 2]]
+reached here
+Before splice: 4892,5022
+after splice: 4892,5022
+sequence:
+GCTCCAAAACCAGAAGACTTGGGAATATTTTTGGAACATGAGGATATCCGCATGATACGCTGGGTGGGCGGAGAAACTGCTGCCTTGGTCCAGATGCAGAACCGCCTCGCTGTGGAGTATGAGACGTTTTG
+sequence:
+APKPEDLGIFLEHEDIRMIRWVGGETAALVQMQNRLAVEYETF
+left = aG, right =CA, stop_counter = 0
+sequence:
+GCTCCAAAACCAGAAGACTTGGGAATATTTTTGGAACATGAGGATATCCGCATGATACGCTGGGTGGGCGGAGAAACTGCTGCCTTGGTCCAGATGCAGAACCGCCTCGCTGTGGAGTATGAGACGTTTTGCAA
+sequence:
+APKPEDLGIFLEHEDIRMIRWVGGETAALVQMQNRLAVEYETFC
+left = aG, right =GT, stop_counter = 0
+APKPEDLGIFLEHEDIRMIRWVGGETAALVQMQNRLAVEYETFC
+[[0, 2]]
+start_coordinate : 12314740,stop_coordinate : 12314871
+4892 5025 Y N
+Maniola_jurtina,,12314740,12314873,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Maniola_jurtina
+Processing Exon_6
+Maniola_jurtina_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 5805,5900
+after splice: 5805,5900
+sequence:
+ggcTCGTATCTGCCAACGCATGGGAACCCGGATCTCTTGAGCCGGCCGATATCTTTGAGCCCTGCGCTTCGTTTCGGCTGCTTGTCTGTGCGCcg
+sequence:
+GSYLPTHGNPDLLSRPISLSPALRFGCLSVR
+left = ag, right =gt, stop_counter = 0
+GSYLPTHGNPDLLSRPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 12315654,stop_coordinate : 12315746
+5805 5900 Y N
+Maniola_jurtina,,12315653,12315748,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Maniola_jurtina
+Processing Exon_7
+Maniola_jurtina_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 6561,6634
+after splice: 6561,6634
+sequence:
+TTCTACTGGTGCCTTCAAGATCTGTTCCAACAGGTCCATCAGGGGCGTCTGGGCTCCAGTCAATTTATTACTG
+sequence:
+FYWCLQDLFQQVHQGRLGSSQFIT
+left = AG, right =GT, stop_counter = 0
+FYWCLQDLFQQVHQGRLGSSQFIT
+[[1, 1]]
+start_coordinate : 12316410,stop_coordinate : 12316481
+6561 6634 Y N
+Maniola_jurtina,,12316409,12316482,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Maniola_jurtina
+Processing Exon_8
+Maniola_jurtina_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 7133,7259
+after splice: 7133,7259
+sequence:
+CAGCTGATCTGGCGCGAGTACTTCTACACGATGAGCGTGAACAACCCGCAGTACGCGCAGATGGCGGGCAACCCCATCTGCCTCGACATTCCGTGGAAGGAGCCAGAGGGCGATGAGTTGGAAAG
+sequence:
+QLIWREYFYTMSVNNPQYAQMAGNPICLDIPWKEPEGDELE
+left = AG, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPQYAQMAGNPICLDIPWKEPEGDELE
+[[2, 2]]
+start_coordinate : 12316983,stop_coordinate : 12317105
+7133 7259 Y N
+Maniola_jurtina,,12316981,12317107,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Maniola_jurtina
+Processing Exon_9
+Maniola_jurtina_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 7727,7909
+after splice: 7727,7909
+sequence:
+TGGAAGGAAGGTCGTACGGGGTTCCCGTTCGTAGACGCGGCGATGCGTCAACTGCGCACAGAGGGCTGGCTGCACCACGCCGTGCGTAACACCGTTGCGTCGTTCCTCACGCGCGGTACGCTGTGGTTGTCCTGGGAACACGGGTTGCAACACTTCCTCAAATACTTACTTGATGCTGATTG
+sequence:
+WKEGRTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WKEGRTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 12317576,stop_coordinate : 12317755
+7727 7909 Y N
+Maniola_jurtina,,12317575,12317757,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Maniola_jurtina
+Processing Exon_10
+Maniola_jurtina_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 8524,8691
+after splice: 8524,8691
+sequence:
+TCAGTCTGCGCCGGCAACTGGATGTGGGTGTCCTCCAGCGCGTTCGAGGCGCTGCTGGATTCGGGCGAGTGCGCGTGTCCGGTGCGCCTCGGCCGCCGCCTGGAGCCCTCGGGCCACTACGTGCGCCGCTACGTGCCCGAGCTGGCCAAGATGCCTGTCGAATACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELAKMPVEY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELAKMPVEY
+[[1, 2]]
+start_coordinate : 12318373,stop_coordinate : 12318537
+8524 8691 Y N
+Maniola_jurtina,,12318372,12318539,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Maniola_jurtina
+Processing Exon_11
+Maniola_jurtina_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 9250,9370
+after splice: 9250,9370
+sequence:
+TACGAGCCATGGCGCGCGCCGCTGGACGTGCAGCAGAAGGCGGAGTGCATCATCGGCCGCGACTACCCCGCGCCGGTGGTCGACCACCGCGCCGCCGCGCATCGCAACCGCAGCGCCATG
+sequence:
+YEPWRAPLDVQQKAECIIGRDYPAPVVDHRAAAHRNRSAM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACGAGCCATGGCGCGCGCCGCTGGACGTGCAGCAGAAGGCGGAGTGCATCATCGGCCGCGACTACCCCGCGCCGGTGGTCGACCACCGCGCCGCCGCGCATCGCAACCGCAGCGCCATGCAG
+sequence:
+YEPWRAPLDVQQKAECIIGRDYPAPVVDHRAAAHRNRSAMQ
+left = AG, right =GT, stop_counter = 0
+YEPWRAPLDVQQKAECIIGRDYPAPVVDHRAAAHRNRSAMQ
+[[1, 0]]
+start_coordinate : 12319099,stop_coordinate : 12319221
+9250 9373 Y N
+Maniola_jurtina,,12319098,12319221,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Maniola_jurtina
+Processing Exon_2
+0 query coordinate
+Maniola_jurtina_coordinates_Bicyclus_anynana.csv
+48
+[[2, 1]]
+reached here
+Before splice: 2161,2307
+after splice: 2161,2307
+sequence:
+ACCAAAGTGGTAGGTTACAACCGCATGCGCTACCTACTGGAAGCTCTGCAAGACCTGGACAACCAGTTCAAGAAGTACGGCGGCAGACTGCACATGATCAAGGGCAAGCCTGAGGCTGTGTTCAGACGCCTGTGGGAGGAGTTTG
+sequence:
+TKVVGYNRMRYLLEALQDLDNQFKKYGGRLHMIKGKPEAVFRRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALQDLDNQFKKYGGRLHMIKGKPEAVFRRLWEEF
+[[2, 1]]
+start_coordinate : 12312011,stop_coordinate : 12312154
+2161 2307 Y N
+Maniola_jurtina,,12312009,12312155,0,N,Maniola_jurtina_XM_045915831.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Maniola_jurtina
+Processing Exon_3
+Maniola_jurtina_coordinates_Maniola_jurtina.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 3152,3339
+after splice: 3152,3339
+sequence:
+ATCCGTAAGATTTGCTTCGAGCAGGATTGCGAACCGATATGGCGCGCTAGAGACGAGTGCGTCAAGAGCCTCTGTCGTGAGATAGGTGTGGGGTGTCGTGAGAATGTTTCCCACACGCTTTGGGACCCTGACGTCATCATACGCGCCAATGGGGGCATCCCACCCCTTACCTATCAGATGTTTTTG
+sequence:
+IRKICFEQDCEPIWRARDECVKSLCREIGVGCRENVSHTLWDPDVIIRANGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+IRKICFEQDCEPIWRARDECVKSLCREIGVGCRENVSHTLWDPDVIIRANGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 12313002,stop_coordinate : 12313187
+3152 3339 Y N
+Maniola_jurtina,,12313000,12313187,0,N,Maniola_jurtina_XM_045915831.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Maniola_jurtina
+Processing Exon_4
+Maniola_jurtina_coordinates_Maniola_jurtina.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 3964,4080
+after splice: 3964,4080
+sequence:
+CATACCGTAGCCATCATCGGCAATCCGCCGCGACCTGTAGATGACGTGGATTTAAGAGGAGTCAACTTTGTGGCCCTTCCCGACAGCTTCTACCAGGAGTTTACCATATTTGACAAG
+sequence:
+HTVAIIGNPPRPVDDVDLRGVNFVALPDSFYQEFTIFDK
+left = AG, right =GT, stop_counter = 0
+HTVAIIGNPPRPVDDVDLRGVNFVALPDSFYQEFTIFDK
+[[0, 0]]
+start_coordinate : 12313812,stop_coordinate : 12313928
+3964 4080 Y N
+Maniola_jurtina,,12313812,12313928,0,N,Maniola_jurtina_XM_045915831.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Maniola_jurtina
+Processing Exon_5
+Maniola_jurtina_coordinates_Maniola_jurtina.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 4892,5025
+after splice: 4892,5025
+sequence:
+GCTCCAAAACCAGAAGACTTGGGAATATTTTTGGAACATGAGGATATCCGCATGATACGCTGGGTGGGCGGAGAAACTGCTGCCTTGGTCCAGATGCAGAACCGCCTCGCTGTGGAGTATGAGACGTTTTGCAA
+sequence:
+APKPEDLGIFLEHEDIRMIRWVGGETAALVQMQNRLAVEYETFC
+left = aG, right =GT, stop_counter = 0
+APKPEDLGIFLEHEDIRMIRWVGGETAALVQMQNRLAVEYETFC
+[[0, 2]]
+start_coordinate : 12314740,stop_coordinate : 12314871
+4892 5025 Y N
+Maniola_jurtina,,12314740,12314873,0,N,Maniola_jurtina_XM_045915831.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Maniola_jurtina
+Processing Exon_6
+Maniola_jurtina_coordinates_Maniola_jurtina.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 5805,5900
+after splice: 5805,5900
+sequence:
+ggcTCGTATCTGCCAACGCATGGGAACCCGGATCTCTTGAGCCGGCCGATATCTTTGAGCCCTGCGCTTCGTTTCGGCTGCTTGTCTGTGCGCcg
+sequence:
+GSYLPTHGNPDLLSRPISLSPALRFGCLSVR
+left = ag, right =gt, stop_counter = 0
+GSYLPTHGNPDLLSRPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 12315654,stop_coordinate : 12315746
+5805 5900 Y N
+Maniola_jurtina,,12315653,12315748,0,N,Maniola_jurtina_XM_045915831.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Maniola_jurtina
+Processing Exon_7
+Maniola_jurtina_coordinates_Maniola_jurtina.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 6561,6634
+after splice: 6561,6634
+sequence:
+TTCTACTGGTGCCTTCAAGATCTGTTCCAACAGGTCCATCAGGGGCGTCTGGGCTCCAGTCAATTTATTACTG
+sequence:
+FYWCLQDLFQQVHQGRLGSSQFIT
+left = AG, right =GT, stop_counter = 0
+FYWCLQDLFQQVHQGRLGSSQFIT
+[[1, 1]]
+start_coordinate : 12316410,stop_coordinate : 12316481
+6561 6634 Y N
+Maniola_jurtina,,12316409,12316482,0,N,Maniola_jurtina_XM_045915831.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Maniola_jurtina
+Processing Exon_8
+Maniola_jurtina_coordinates_Maniola_jurtina.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 7133,7259
+after splice: 7133,7259
+sequence:
+CAGCTGATCTGGCGCGAGTACTTCTACACGATGAGCGTGAACAACCCGCAGTACGCGCAGATGGCGGGCAACCCCATCTGCCTCGACATTCCGTGGAAGGAGCCAGAGGGCGATGAGTTGGAAAG
+sequence:
+QLIWREYFYTMSVNNPQYAQMAGNPICLDIPWKEPEGDELE
+left = AG, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPQYAQMAGNPICLDIPWKEPEGDELE
+[[2, 2]]
+start_coordinate : 12316983,stop_coordinate : 12317105
+7133 7259 Y N
+Maniola_jurtina,,12316981,12317107,0,N,Maniola_jurtina_XM_045915831.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Maniola_jurtina
+Processing Exon_9
+Maniola_jurtina_coordinates_Maniola_jurtina.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 7727,7909
+after splice: 7727,7909
+sequence:
+TGGAAGGAAGGTCGTACGGGGTTCCCGTTCGTAGACGCGGCGATGCGTCAACTGCGCACAGAGGGCTGGCTGCACCACGCCGTGCGTAACACCGTTGCGTCGTTCCTCACGCGCGGTACGCTGTGGTTGTCCTGGGAACACGGGTTGCAACACTTCCTCAAATACTTACTTGATGCTGATTG
+sequence:
+WKEGRTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WKEGRTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 12317576,stop_coordinate : 12317755
+7727 7909 Y N
+Maniola_jurtina,,12317575,12317757,0,N,Maniola_jurtina_XM_045915831.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Maniola_jurtina
+Processing Exon_10
+Maniola_jurtina_coordinates_Maniola_jurtina.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 8524,8691
+after splice: 8524,8691
+sequence:
+TCAGTCTGCGCCGGCAACTGGATGTGGGTGTCCTCCAGCGCGTTCGAGGCGCTGCTGGATTCGGGCGAGTGCGCGTGTCCGGTGCGCCTCGGCCGCCGCCTGGAGCCCTCGGGCCACTACGTGCGCCGCTACGTGCCCGAGCTGGCCAAGATGCCTGTCGAATACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELAKMPVEY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELAKMPVEY
+[[1, 2]]
+start_coordinate : 12318373,stop_coordinate : 12318537
+8524 8691 Y N
+Maniola_jurtina,,12318372,12318539,0,N,Maniola_jurtina_XM_045915831.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Maniola_jurtina
+Processing Exon_11
+Maniola_jurtina_coordinates_Maniola_jurtina.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 9250,9370
+after splice: 9250,9370
+sequence:
+TACGAGCCATGGCGCGCGCCGCTGGACGTGCAGCAGAAGGCGGAGTGCATCATCGGCCGCGACTACCCCGCGCCGGTGGTCGACCACCGCGCCGCCGCGCATCGCAACCGCAGCGCCATG
+sequence:
+YEPWRAPLDVQQKAECIIGRDYPAPVVDHRAAAHRNRSAM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACGAGCCATGGCGCGCGCCGCTGGACGTGCAGCAGAAGGCGGAGTGCATCATCGGCCGCGACTACCCCGCGCCGGTGGTCGACCACCGCGCCGCCGCGCATCGCAACCGCAGCGCCATGCAG
+sequence:
+YEPWRAPLDVQQKAECIIGRDYPAPVVDHRAAAHRNRSAMQ
+left = AG, right =GT, stop_counter = 0
+YEPWRAPLDVQQKAECIIGRDYPAPVVDHRAAAHRNRSAMQ
+[[1, 0]]
+start_coordinate : 12319099,stop_coordinate : 12319221
+9250 9373 Y N
+Maniola_jurtina,,12319098,12319221,0,N,Maniola_jurtina_XM_045915831.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Maniola_jurtina
+Processing Exon_2
+0 query coordinate
+Maniola_jurtina_coordinates_Maniola_jurtina.csv
+48
+[[2, 1]]
+reached here
+Before splice: 2161,2307
+after splice: 2161,2307
+sequence:
+ACCAAAGTGGTAGGTTACAACCGCATGCGCTACCTACTGGAAGCTCTGCAAGACCTGGACAACCAGTTCAAGAAGTACGGCGGCAGACTGCACATGATCAAGGGCAAGCCTGAGGCTGTGTTCAGACGCCTGTGGGAGGAGTTTG
+sequence:
+TKVVGYNRMRYLLEALQDLDNQFKKYGGRLHMIKGKPEAVFRRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALQDLDNQFKKYGGRLHMIKGKPEAVFRRLWEEF
+[[2, 1]]
+start_coordinate : 12312011,stop_coordinate : 12312154
+2161 2307 Y N
+Maniola_jurtina,,12312009,12312155,0,N,Pararge_aegeria_XM_039898346.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Maniola_jurtina
+Processing Exon_3
+Maniola_jurtina_coordinates_Pararge_aegeria.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 3152,3339
+after splice: 3152,3339
+sequence:
+ATCCGTAAGATTTGCTTCGAGCAGGATTGCGAACCGATATGGCGCGCTAGAGACGAGTGCGTCAAGAGCCTCTGTCGTGAGATAGGTGTGGGGTGTCGTGAGAATGTTTCCCACACGCTTTGGGACCCTGACGTCATCATACGCGCCAATGGGGGCATCCCACCCCTTACCTATCAGATGTTTTTG
+sequence:
+IRKICFEQDCEPIWRARDECVKSLCREIGVGCRENVSHTLWDPDVIIRANGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+IRKICFEQDCEPIWRARDECVKSLCREIGVGCRENVSHTLWDPDVIIRANGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 12313002,stop_coordinate : 12313187
+3152 3339 Y N
+Maniola_jurtina,,12313000,12313187,0,N,Pararge_aegeria_XM_039898346.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Maniola_jurtina
+Processing Exon_4
+Maniola_jurtina_coordinates_Pararge_aegeria.csv
+1 query coordinate
+38
+[[0, 0]]
+reached here
+Before splice: 3964,4077
+after splice: 3964,4077
+sequence:
+CATACCGTAGCCATCATCGGCAATCCGCCGCGACCTGTAGATGACGTGGATTTAAGAGGAGTCAACTTTGTGGCCCTTCCCGACAGCTTCTACCAGGAGTTTACCATATTTGAC
+sequence:
+HTVAIIGNPPRPVDDVDLRGVNFVALPDSFYQEFTIFD
+left = AG, right =AA, stop_counter = 0
+sequence:
+CATACCGTAGCCATCATCGGCAATCCGCCGCGACCTGTAGATGACGTGGATTTAAGAGGAGTCAACTTTGTGGCCCTTCCCGACAGCTTCTACCAGGAGTTTACCATATTTGACAAG
+sequence:
+HTVAIIGNPPRPVDDVDLRGVNFVALPDSFYQEFTIFDK
+left = AG, right =GT, stop_counter = 0
+HTVAIIGNPPRPVDDVDLRGVNFVALPDSFYQEFTIFDK
+[[0, 0]]
+start_coordinate : 12313812,stop_coordinate : 12313928
+3964 4080 Y N
+Maniola_jurtina,,12313812,12313928,0,N,Pararge_aegeria_XM_039898346.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Maniola_jurtina
+Processing Exon_5
+Maniola_jurtina_coordinates_Pararge_aegeria.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 4892,5025
+after splice: 4892,5025
+sequence:
+GCTCCAAAACCAGAAGACTTGGGAATATTTTTGGAACATGAGGATATCCGCATGATACGCTGGGTGGGCGGAGAAACTGCTGCCTTGGTCCAGATGCAGAACCGCCTCGCTGTGGAGTATGAGACGTTTTGCAA
+sequence:
+APKPEDLGIFLEHEDIRMIRWVGGETAALVQMQNRLAVEYETFC
+left = aG, right =GT, stop_counter = 0
+APKPEDLGIFLEHEDIRMIRWVGGETAALVQMQNRLAVEYETFC
+[[0, 2]]
+start_coordinate : 12314740,stop_coordinate : 12314871
+4892 5025 Y N
+Maniola_jurtina,,12314740,12314873,0,N,Pararge_aegeria_XM_039898346.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Maniola_jurtina
+Processing Exon_6
+Maniola_jurtina_coordinates_Pararge_aegeria.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 5805,5900
+after splice: 5805,5900
+sequence:
+ggcTCGTATCTGCCAACGCATGGGAACCCGGATCTCTTGAGCCGGCCGATATCTTTGAGCCCTGCGCTTCGTTTCGGCTGCTTGTCTGTGCGCcg
+sequence:
+GSYLPTHGNPDLLSRPISLSPALRFGCLSVR
+left = ag, right =gt, stop_counter = 0
+GSYLPTHGNPDLLSRPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 12315654,stop_coordinate : 12315746
+5805 5900 Y N
+Maniola_jurtina,,12315653,12315748,0,N,Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Maniola_jurtina
+Processing Exon_7
+Maniola_jurtina_coordinates_Pararge_aegeria.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 6561,6634
+after splice: 6561,6634
+sequence:
+TTCTACTGGTGCCTTCAAGATCTGTTCCAACAGGTCCATCAGGGGCGTCTGGGCTCCAGTCAATTTATTACTG
+sequence:
+FYWCLQDLFQQVHQGRLGSSQFIT
+left = AG, right =GT, stop_counter = 0
+FYWCLQDLFQQVHQGRLGSSQFIT
+[[1, 1]]
+start_coordinate : 12316410,stop_coordinate : 12316481
+6561 6634 Y N
+Maniola_jurtina,,12316409,12316482,0,N,Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Maniola_jurtina
+Processing Exon_8
+Maniola_jurtina_coordinates_Pararge_aegeria.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 7133,7259
+after splice: 7133,7259
+sequence:
+CAGCTGATCTGGCGCGAGTACTTCTACACGATGAGCGTGAACAACCCGCAGTACGCGCAGATGGCGGGCAACCCCATCTGCCTCGACATTCCGTGGAAGGAGCCAGAGGGCGATGAGTTGGAAAG
+sequence:
+QLIWREYFYTMSVNNPQYAQMAGNPICLDIPWKEPEGDELE
+left = AG, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPQYAQMAGNPICLDIPWKEPEGDELE
+[[2, 2]]
+start_coordinate : 12316983,stop_coordinate : 12317105
+7133 7259 Y N
+Maniola_jurtina,,12316981,12317107,0,N,Pararge_aegeria_XM_039898346.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Maniola_jurtina
+Processing Exon_9
+Maniola_jurtina_coordinates_Pararge_aegeria.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 7727,7909
+after splice: 7727,7909
+sequence:
+TGGAAGGAAGGTCGTACGGGGTTCCCGTTCGTAGACGCGGCGATGCGTCAACTGCGCACAGAGGGCTGGCTGCACCACGCCGTGCGTAACACCGTTGCGTCGTTCCTCACGCGCGGTACGCTGTGGTTGTCCTGGGAACACGGGTTGCAACACTTCCTCAAATACTTACTTGATGCTGATTG
+sequence:
+WKEGRTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WKEGRTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 12317576,stop_coordinate : 12317755
+7727 7909 Y N
+Maniola_jurtina,,12317575,12317757,0,N,Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Maniola_jurtina
+Processing Exon_10
+Maniola_jurtina_coordinates_Pararge_aegeria.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 8524,8691
+after splice: 8524,8691
+sequence:
+TCAGTCTGCGCCGGCAACTGGATGTGGGTGTCCTCCAGCGCGTTCGAGGCGCTGCTGGATTCGGGCGAGTGCGCGTGTCCGGTGCGCCTCGGCCGCCGCCTGGAGCCCTCGGGCCACTACGTGCGCCGCTACGTGCCCGAGCTGGCCAAGATGCCTGTCGAATACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELAKMPVEY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELAKMPVEY
+[[1, 2]]
+start_coordinate : 12318373,stop_coordinate : 12318537
+8524 8691 Y N
+Maniola_jurtina,,12318372,12318539,0,N,Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Maniola_jurtina
+Processing Exon_11
+Maniola_jurtina_coordinates_Pararge_aegeria.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 9250,9370
+after splice: 9250,9370
+sequence:
+TACGAGCCATGGCGCGCGCCGCTGGACGTGCAGCAGAAGGCGGAGTGCATCATCGGCCGCGACTACCCCGCGCCGGTGGTCGACCACCGCGCCGCCGCGCATCGCAACCGCAGCGCCATG
+sequence:
+YEPWRAPLDVQQKAECIIGRDYPAPVVDHRAAAHRNRSAM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACGAGCCATGGCGCGCGCCGCTGGACGTGCAGCAGAAGGCGGAGTGCATCATCGGCCGCGACTACCCCGCGCCGGTGGTCGACCACCGCGCCGCCGCGCATCGCAACCGCAGCGCCATGCAG
+sequence:
+YEPWRAPLDVQQKAECIIGRDYPAPVVDHRAAAHRNRSAMQ
+left = AG, right =GT, stop_counter = 0
+YEPWRAPLDVQQKAECIIGRDYPAPVVDHRAAAHRNRSAMQ
+[[1, 0]]
+start_coordinate : 12319099,stop_coordinate : 12319221
+9250 9373 Y N
+Maniola_jurtina,,12319098,12319221,0,N,Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+

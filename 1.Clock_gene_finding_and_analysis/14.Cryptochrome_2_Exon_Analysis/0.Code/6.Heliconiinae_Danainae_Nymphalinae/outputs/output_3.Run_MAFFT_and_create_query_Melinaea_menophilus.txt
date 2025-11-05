@@ -1,0 +1,456 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = OU911038.1, start = 32342402, end = 32342700
+Melinaea_menophilus,OU911038.1,32342077,32342328,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Melinaea_menophilus,OU911038.1,32342402,32342700,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,1,99,99
+
+Melinaea_menophilus,OU911038.1,32341373,32341544,1,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set13_frame1, 0.066
+5 top scores:
+[['set1_frame0', 1.863], ['set15_frame0', 1.906], ['set13_frame1', 0.066], ['set21_frame1', 1.905]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_menophilus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_13_frame1.fa.txt
+4 87
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDKNLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIQVTSRVSHTLYKLD
+4 87
+set13_frame1
+FLLQCLEDLDQNLRKLNSRLFVIRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIKVISRISHTLYKLD
+Original query = FLLQCLEDLDKNLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIQVTSRVSHTLYKLD
+New query = FLLQCLEDLDQNLRKLNSRLFVIRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIKVISRISHTLYKLD
+Scaffold = OU911038.1, start = 32342402, end = 32342700
+Melinaea_menophilus,OU911038.1,32341799,32341983,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Melinaea_menophilus,OU911038.1,32342402,32342700,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,1,99,99
+
+Melinaea_menophilus,OU911038.1,32341081,32341306,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set21_frame1, 0.243
+5 top scores:
+[['set21_frame1', 0.243], ['set28_frame2', 1.791], ['set11_frame0', 1.83], ['set15_frame0', 1.846], ['set18_frame0', 1.761]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_menophilus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_21_frame1.fa.txt
+5 66
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3
+IIEKNGGKAPLTYHQFQALIASMPPPPSAEPTISLETLNRAVTPISDNHDERFGVPTLEEL
+5 66
+set21_frame1
+IIEKNGGKAPLTYHQFQALIASMPPPPSAEETITLEALNGTITPISEDHDDRFGVPTLEEL
+Original query = IIEKNGGKAPLTYHQFQALIASMPPPPSAEPTISLETLNRAVTPISDNHDERFGVPTLEEL
+New query = IIEKNGGKAPLTYHQFQALIASMPPPPSAEETITLEALNGTITPISEDHDDRFGVPTLEEL
+Scaffold = OU911038.1, start = 32342402, end = 32342700
+Melinaea_menophilus,OU911038.1,32341373,32341544,1,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Melinaea_menophilus,OU911038.1,32342077,32342328,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Melinaea_menophilus,OU911038.1,32340447,32340587,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set11_frame0, 0.12
+5 top scores:
+[['set9_frame1', 1.821], ['set36_frame1', 1.831], ['set11_frame0', 0.12], ['set14_frame0', 1.841], ['set19_frame2', 1.847]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_menophilus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_11_frame0.fa.txt
+34 90
+Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4
+FDTEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPESLLSSQTGLSPYL
+34 90
+set11_frame0
+FETENLKPPIWIGGETEALLRLERHLERKAWVASFGRPKMTPQSLLSSQTGLSPYL
+Original query = FDTEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPESLLSSQTGLSPYL
+New query = FETENLKPPIWIGGETEALLRLERHLERKAWVASFGRPKMTPQSLLSSQTGLSPYL
+Scaffold = OU911038.1, start = 32342402, end = 32342700
+Melinaea_menophilus,OU911038.1,32341081,32341306,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Melinaea_menophilus,OU911038.1,32341799,32341983,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Melinaea_menophilus,OU911038.1,32335926,32336077,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set9_frame0, 0.021
+5 top scores:
+[['set44_frame2', 1.82], ['set9_frame0', 0.021], ['set120_frame1', 1.876], ['set1_frame1', 1.844], ['set14_frame1', 1.819]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_menophilus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_9_frame0.fa.txt
+6 81
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAN
+6 81
+set9_frame0
+FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAS
+Original query = FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAN
+New query = FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAS
+Scaffold = OU911038.1, start = 32342402, end = 32342700
+Melinaea_menophilus,OU911038.1,32340447,32340587,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Melinaea_menophilus,OU911038.1,32341373,32341544,1,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Melinaea_menophilus,OU911038.1,32335611,32335813,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set22_frame0, 0.028
+5 top scores:
+[['set33_frame1', 1.774], ['set22_frame0', 0.028], ['set122_frame2', 1.774], ['set57_frame2', 1.803], ['set123_frame2', 1.803]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_menophilus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_22_frame0.fa.txt
+1 48
+Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6
+GQTGFPWIDAIMIQLRNDGWIHHLARHAVACFLTRGDLWISWEEGMK
+1 48
+set22_frame0
+GQTGFPWIDAIMIQLRDDGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GQTGFPWIDAIMIQLRNDGWIHHLARHAVACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDAIMIQLRDDGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = OU911038.1, start = 32342402, end = 32342700
+Melinaea_menophilus,OU911038.1,32335926,32336077,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Melinaea_menophilus,OU911038.1,32341081,32341306,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Melinaea_menophilus,OU911038.1,32335611,32335813,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set50_frame0, 0.0
+5 top scores:
+[['set38_frame1', 1.787], ['set30_frame0', 1.77], ['set41_frame0', 1.788], ['set50_frame0', 0.0], ['set80_frame2', 1.804]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_menophilus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_50_frame0.fa.txt
+4 54
+Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+4 54
+set50_frame0
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = OU911038.1, start = 32342402, end = 32342700
+Melinaea_menophilus,OU911038.1,32335611,32335813,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Melinaea_menophilus,OU911038.1,32340447,32340587,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Melinaea_menophilus,OU911038.1,32335611,32335813,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set114_frame2, 0.272
+5 top scores:
+[['set114_frame2', 0.272], ['set101_frame0', 1.813], ['set103_frame2', 1.855], ['set124_frame0', 1.898], ['set17_frame1', 1.824]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_menophilus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_114_frame2.fa.txt
+75 141
+set114_frame2
+KYIPALKNMPTRYIHEPWVCPEDVQASARCVIGRDYPLPMVDHQRAAEQNIQRIKQVYAQLAKFKP
+Original query = KYIPVLKNMPTRYIHEPWVCPEEIQKSIRCIIGKDYPMPIVDHTKASEINLERIKQVYAQLAKFKPQ
+New query = KYIPALKNMPTRYIHEPWVCPEDVQASARCVIGRDYPLPMVDHQRAAEQNIQRIKQVYAQLAKFKP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = OU911038.1, start = 32342402, end = 32342700
+Melinaea_menophilus,OU911038.1,32342077,32342328,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Melinaea_menophilus,OU911038.1,32342402,32342700,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,1,99,99
+
+Melinaea_menophilus,OU911038.1,32341373,32341544,1,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set13_frame1, 0.122
+5 top scores:
+[['set1_frame0', 1.865], ['set15_frame0', 1.877], ['set13_frame1', 0.122], ['set21_frame1', 1.904]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_menophilus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_13_frame1.fa.txt
+4 87
+Nymphalis_io_XM_050504024.1_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWETTALTFEEDPEPYGRVRDHNITTKCREVGIKVTSRVSHTLYKLD
+4 87
+set13_frame1
+FLLQCLEDLDQNLRKLNSRLFVIRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIKVISRISHTLYKLD
+Original query = FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWETTALTFEEDPEPYGRVRDHNITTKCREVGIKVTSRVSHTLYKLD
+New query = FLLQCLEDLDQNLRKLNSRLFVIRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIKVISRISHTLYKLD
+Scaffold = OU911038.1, start = 32342402, end = 32342700
+Melinaea_menophilus,OU911038.1,32341799,32341983,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Melinaea_menophilus,OU911038.1,32342402,32342700,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,1,99,99
+
+Melinaea_menophilus,OU911038.1,32341081,32341306,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set21_frame1, 0.353
+5 top scores:
+[['set21_frame1', 0.353], ['set34_frame1', 1.851], ['set11_frame0', 1.838], ['set15_frame0', 1.852], ['set18_frame0', 1.846]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_menophilus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_21_frame1.fa.txt
+5 66
+Nymphalis_io_XM_050504024.1_Frame_1_rightoh_1_query_Exon_3
+IIERNGGKAPLTYHQFQALIASMPPPPPAEPAITADMLNGAITPLGADHEDRFGVPTLEEL
+5 66
+set21_frame1
+IIEKNGGKAPLTYHQFQALIASMPPPPSAEETITLEALNGTITPISEDHDDRFGVPTLEEL
+Original query = IIERNGGKAPLTYHQFQALIASMPPPPPAEPAITADMLNGAITPLGADHEDRFGVPTLEEL
+New query = IIEKNGGKAPLTYHQFQALIASMPPPPSAEETITLEALNGTITPISEDHDDRFGVPTLEEL
+Scaffold = OU911038.1, start = 32342402, end = 32342700
+Melinaea_menophilus,OU911038.1,32341373,32341544,1,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Melinaea_menophilus,OU911038.1,32342077,32342328,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Melinaea_menophilus,OU911038.1,32340447,32340587,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set11_frame0, 0.166
+5 top scores:
+[['set9_frame1', 1.822], ['set36_frame1', 1.831], ['set11_frame0', 0.166], ['set14_frame0', 1.825], ['set19_frame2', 1.865]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_menophilus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_11_frame0.fa.txt
+34 90
+Nymphalis_io_XM_050504024.1_Frame_2_rightoh_2_query_Exon_4
+FDTDGLKPPLWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+34 90
+set11_frame0
+FETENLKPPIWIGGETEALLRLERHLERKAWVASFGRPKMTPQSLLSSQTGLSPYL
+Original query = FDTDGLKPPLWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+New query = FETENLKPPIWIGGETEALLRLERHLERKAWVASFGRPKMTPQSLLSSQTGLSPYL
+Scaffold = OU911038.1, start = 32342402, end = 32342700
+Melinaea_menophilus,OU911038.1,32341081,32341306,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Melinaea_menophilus,OU911038.1,32341799,32341983,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Melinaea_menophilus,OU911038.1,32335926,32336077,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set9_frame0, 0.224
+5 top scores:
+[['set44_frame2', 1.777], ['set9_frame0', 0.224], ['set22_frame0', 1.889], ['set1_frame1', 1.847], ['set14_frame1', 1.825]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_menophilus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_9_frame0.fa.txt
+6 81
+Nymphalis_io_XM_050504024.1_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLTELYTRVKRVLPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWQKNQDALLKWAN
+6 81
+set9_frame0
+FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAS
+Original query = FGCLSTRLFYYQLTELYTRVKRVLPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWQKNQDALLKWAN
+New query = FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAS
+Scaffold = OU911038.1, start = 32342402, end = 32342700
+Melinaea_menophilus,OU911038.1,32340447,32340587,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Melinaea_menophilus,OU911038.1,32341373,32341544,1,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Melinaea_menophilus,OU911038.1,32335611,32335813,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set22_frame0, 0.148
+5 top scores:
+[['set33_frame1', 1.76], ['set22_frame0', 0.148], ['set122_frame2', 1.774], ['set57_frame2', 1.803], ['set130_frame2', 1.814]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_menophilus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_22_frame0.fa.txt
+1 48
+Nymphalis_io_XM_050504024.1_Frame_0_rightoh_0_query_Exon_6
+GKTGYPWIDAIMIQLREEGWIHHLSRHAAACFLTRGDLWISWEEGMK
+1 48
+set22_frame0
+GQTGFPWIDAIMIQLRDDGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GKTGYPWIDAIMIQLREEGWIHHLSRHAAACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDAIMIQLRDDGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = OU911038.1, start = 32342402, end = 32342700
+Melinaea_menophilus,OU911038.1,32335926,32336077,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Melinaea_menophilus,OU911038.1,32341081,32341306,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Melinaea_menophilus,OU911038.1,32335611,32335813,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set50_frame0, 0.031
+5 top scores:
+[['set38_frame1', 1.787], ['set30_frame0', 1.764], ['set41_frame0', 1.792], ['set50_frame0', 0.031], ['set80_frame2', 1.804]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_menophilus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_50_frame0.fa.txt
+4 54
+Nymphalis_io_XM_050504024.1_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKIDPNGDFI
+4 54
+set50_frame0
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKIDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = OU911038.1, start = 32342402, end = 32342700
+Melinaea_menophilus,OU911038.1,32335611,32335813,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Melinaea_menophilus,OU911038.1,32340447,32340587,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Melinaea_menophilus,OU911038.1,32335611,32335813,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set114_frame2, 0.454
+5 top scores:
+[['set114_frame2', 0.454], ['set101_frame0', 1.827], ['set39_frame1', 1.868], ['set103_frame2', 1.881], ['set17_frame1', 1.839]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_menophilus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_114_frame2.fa.txt
+75 141
+set114_frame2
+KYIPALKNMPTRYIHEPWVCPEDVQASARCVIGRDYPLPMVDHQRAAEQNIQRIKQVYAQLAKFKP
+Original query = KYIPALRNLPTRFIHEPWMAPETVQQDANCIIGRDYPQPIVDHAKASQVNIERIKQVYAQLAKYKPP
+New query = KYIPALKNMPTRYIHEPWVCPEDVQASARCVIGRDYPLPMVDHQRAAEQNIQRIKQVYAQLAKFKP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = OU911038.1, start = 32342402, end = 32342700
+Melinaea_menophilus,OU911038.1,32342077,32342328,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Melinaea_menophilus,OU911038.1,32342402,32342700,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,1,99,99
+
+Melinaea_menophilus,OU911038.1,32341373,32341544,1,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set13_frame1, 0.093
+5 top scores:
+[['set1_frame0', 1.863], ['set15_frame0', 1.906], ['set13_frame1', 0.093], ['set21_frame1', 1.904]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_menophilus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_13_frame1.fa.txt
+4 87
+Vanessa_tameamea_XM_026629288.1_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRVSHTLYKLD
+4 87
+set13_frame1
+FLLQCLEDLDQNLRKLNSRLFVIRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIKVISRISHTLYKLD
+Original query = FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRVSHTLYKLD
+New query = FLLQCLEDLDQNLRKLNSRLFVIRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIKVISRISHTLYKLD
+Scaffold = OU911038.1, start = 32342402, end = 32342700
+Melinaea_menophilus,OU911038.1,32341799,32341983,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Melinaea_menophilus,OU911038.1,32342402,32342700,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,1,99,99
+
+Melinaea_menophilus,OU911038.1,32341081,32341306,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set21_frame1, 0.358
+5 top scores:
+[['set21_frame1', 0.358], ['set28_frame2', 1.822], ['set11_frame0', 1.83], ['set15_frame0', 1.828], ['set18_frame0', 1.845]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_menophilus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_21_frame1.fa.txt
+5 66
+Vanessa_tameamea_XM_026629288.1_Frame_1_rightoh_1_query_Exon_3
+IIERNEGKAPLTYHQFQALIASMPPPPPAEPAITAEMLNGAVTPLADDHEDRFGVPTLEEL
+5 66
+set21_frame1
+IIEKNGGKAPLTYHQFQALIASMPPPPSAEETITLEALNGTITPISEDHDDRFGVPTLEEL
+Original query = IIERNEGKAPLTYHQFQALIASMPPPPPAEPAITAEMLNGAVTPLADDHEDRFGVPTLEEL
+New query = IIEKNGGKAPLTYHQFQALIASMPPPPSAEETITLEALNGTITPISEDHDDRFGVPTLEEL
+Scaffold = OU911038.1, start = 32342402, end = 32342700
+Melinaea_menophilus,OU911038.1,32341373,32341544,1,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Melinaea_menophilus,OU911038.1,32342077,32342328,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Melinaea_menophilus,OU911038.1,32340447,32340587,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set11_frame0, 0.09
+5 top scores:
+[['set9_frame1', 1.824], ['set36_frame1', 1.831], ['set11_frame0', 0.09], ['set14_frame0', 1.84], ['set19_frame2', 1.843]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_menophilus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_11_frame0.fa.txt
+34 90
+Vanessa_tameamea_XM_026629288.1_Frame_2_rightoh_2_query_Exon_4
+FETEGLKPPIWIGGEKEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+34 90
+set11_frame0
+FETENLKPPIWIGGETEALLRLERHLERKAWVASFGRPKMTPQSLLSSQTGLSPYL
+Original query = FETEGLKPPIWIGGEKEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+New query = FETENLKPPIWIGGETEALLRLERHLERKAWVASFGRPKMTPQSLLSSQTGLSPYL
+Scaffold = OU911038.1, start = 32342402, end = 32342700
+Melinaea_menophilus,OU911038.1,32341081,32341306,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Melinaea_menophilus,OU911038.1,32341799,32341983,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Melinaea_menophilus,OU911038.1,32335926,32336077,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set9_frame0, 0.186
+5 top scores:
+[['set44_frame2', 1.779], ['set9_frame0', 0.186], ['set22_frame0', 1.889], ['set1_frame1', 1.847], ['set14_frame1', 1.825]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_menophilus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_9_frame0.fa.txt
+6 81
+Vanessa_tameamea_XM_026629288.1_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLTELYTRVKRVLPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQEALVKWAN
+6 81
+set9_frame0
+FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAS
+Original query = FGCLSTRLFYYQLTELYTRVKRVLPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQEALVKWAN
+New query = FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAS
+Scaffold = OU911038.1, start = 32342402, end = 32342700
+Melinaea_menophilus,OU911038.1,32340447,32340587,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Melinaea_menophilus,OU911038.1,32341373,32341544,1,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Melinaea_menophilus,OU911038.1,32335611,32335813,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set22_frame0, 0.076
+5 top scores:
+[['set122_frame2', 1.757], ['set22_frame0', 0.076], ['set118_frame2', 1.779], ['set57_frame2', 1.803], ['set79_frame2', 1.813]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_menophilus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_22_frame0.fa.txt
+1 48
+Vanessa_tameamea_XM_026629288.1_Frame_0_rightoh_0_query_Exon_6
+GQTGFPWIDAIMIQLREEGWIHHLARHAAACFLTRGDLWISWEEGMK
+1 48
+set22_frame0
+GQTGFPWIDAIMIQLRDDGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GQTGFPWIDAIMIQLREEGWIHHLARHAAACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDAIMIQLRDDGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = OU911038.1, start = 32342402, end = 32342700
+Melinaea_menophilus,OU911038.1,32335926,32336077,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Melinaea_menophilus,OU911038.1,32341081,32341306,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Melinaea_menophilus,OU911038.1,32335611,32335813,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set50_frame0, 0.0
+5 top scores:
+[['set38_frame1', 1.787], ['set30_frame0', 1.77], ['set41_frame0', 1.788], ['set50_frame0', 0.0], ['set80_frame2', 1.804]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_menophilus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_50_frame0.fa.txt
+4 54
+Vanessa_tameamea_XM_026629288.1_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+4 54
+set50_frame0
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = OU911038.1, start = 32342402, end = 32342700
+Melinaea_menophilus,OU911038.1,32335611,32335813,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Melinaea_menophilus,OU911038.1,32340447,32340587,1,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Melinaea_menophilus,OU911038.1,32335611,32335813,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set114_frame2, 0.405
+5 top scores:
+[['set114_frame2', 0.405], ['set101_frame0', 1.827], ['set103_frame2', 1.881], ['set124_frame0', 1.879], ['set17_frame1', 1.821]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_menophilus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_114_frame2.fa.txt
+75 141
+set114_frame2
+KYIPALKNMPTRYIHEPWVCPEDVQASARCVIGRDYPLPMVDHQRAAEQNIQRIKQVYAQLAKFKP
+Original query = KYIPALKNLPTRYIHEPWMAPEAVQQAANCIIGRDYPQPIVDHAKASQVNIERIKQVYAQLAKYKPP
+New query = KYIPALKNMPTRYIHEPWVCPEDVQASARCVIGRDYPLPMVDHQRAAEQNIQRIKQVYAQLAKFKP

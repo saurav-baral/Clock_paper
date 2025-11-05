@@ -1,0 +1,72 @@
+---
+title: "Plot Rho_final"
+output: html_document
+date: "2025-03-20"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document.
+
+```{r}
+setwd("G:/My Drive/Circadian Rhythm Genes Project/20.RERconverge/4.Diapause_2Apr")
+library(tidyverse)
+library(ggExtra)
+library(ggrepel)
+library(cowplot)
+
+
+data <- read.csv("correlation_2Apr2025_sp_rem_annotated.csv")
+#head(data)
+
+
+
+p3 <- data %>% 
+  ggplot(aes(x=Rho,y=-log10(p.adj),color=p.adj)) + 
+  # xlim(0, 1000) +  # Set x limits from 0 to 6
+  # ylim(0, 1000) +  # Set y limits from 0 to 6
+  geom_point(aes(color = (p.adj < 0.1 & Rho > 0))) +  # Color based on condition
+  scale_color_manual(values = c("TRUE" = "red", "FALSE" = "black"), name = "P.adj < 0.1") + 
+  geom_text_repel(
+    data = subset(data, (p.adj < 0.1 & Rho > 0)),  # Only label points with p < 0.05
+    aes(label = Pref_name),  # Label with gene names
+    vjust = -0.2,  # Position text slightly above points
+    size = 2,  # Adjust text size
+    color = "black"  # Set label color
+  ) +
+  labs(title = "Scatter Plot with Gene Labels", x = "Rho", y = "-log10(P-value)") +
+  theme_half_open() +
+  background_grid()
+
+#p3 <- data %>% 
+  #ggplot(aes(x=Rho,y=-log10(P),color=P)) +
+  # xlim(0, 1000) +  # Set x limits from 0 to 6
+  # ylim(0, 1000) +  # Set y limits from 0 to 6
+  geom_point(aes(color = (P < 0.001 & Rho > 0))) +  # Color based on condition
+  scale_color_manual(values = c("TRUE" = "red", "FALSE" = "black"), name = "P < 0.001")  +
+  geom_text_repel(
+    data = subset(data, (P < 0.001 & Rho > 0)),  # Only label points with p < 0.05
+    aes(label = Pref_name),  # Label with gene names
+    vjust = -0.2,  # Position text slightly above points
+    size = 2,  # Adjust text size
+    color = "black"  # Set label color
+  ) +
+  labs(title = "Scatter Plot with Gene Labels", x = "Rho", y = "-log10(P-value)") +
+  theme_half_open() +
+  background_grid()
+  
+
+#setwd("G:/My Drive/Circadian Rhythm Genes Project/20.RERconverge/3.Original_diapause")
+#pdf("rho_plot.pdf", width = 5, height = 3)
+ggMarginal(p3, type = "histogram")
+#dev.off()
+
+```
+
+```{r}
+
+```

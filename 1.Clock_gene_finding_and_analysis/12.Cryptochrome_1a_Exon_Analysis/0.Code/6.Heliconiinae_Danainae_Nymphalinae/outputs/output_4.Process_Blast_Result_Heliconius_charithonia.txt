@@ -1,0 +1,654 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Heliconius_charithonia
+Processing Exon_2
+0 query coordinate
+Period_gene_genomic_sequence_individual_exon
+48
+[[2, 1]]
+reached here
+Before splice: 991,1137
+after splice: 991,1137
+sequence:
+ACCAAAGTAGTGGGATATAACCGCATGCGGTATCTCCTGGAGGCTCTGAACGATCTCGATGTCCAGTTCAAGAAGTATGGTGGGAGATTGCACATGATAAAGGGAAAACCTGATGTCGTCTTTAAACGTCTTTGGGAGGAGTTCG
+sequence:
+TKVVGYNRMRYLLEALNDLDVQFKKYGGRLHMIKGKPDVVFKRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALNDLDVQFKKYGGRLHMIKGKPDVVFKRLWEEF
+[[2, 1]]
+start_coordinate : 3254269,stop_coordinate : 3254126
+991 1137 Y N
+Heliconius_charithonia,,3254125,3254271,1,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Heliconius_charithonia
+Processing Exon_3
+Heliconius_charithonia_coordinates_Danaus_plexippus.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 2581,2768
+after splice: 2581,2768
+sequence:
+ATCCGTAAGATCTGCTTCGAGCAGGACTGCGAGCCCATATGGCGCCCCCGCGACGACGGCGTGCGCGCGCTGTGCCGCGAGGTCGGCGTGTCGTGCCGCGAGCACGTGTCGCACACCCTGTGGGACCCCGACACCGTCATCAGAGCCAACGGCGGCATACCGCCGCTCACCTACCAGATGTTTCTC
+sequence:
+IRKICFEQDCEPIWRPRDDGVRALCREVGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+IRKICFEQDCEPIWRPRDDGVRALCREVGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 3252679,stop_coordinate : 3252494
+2581 2768 Y N
+Heliconius_charithonia,,3252494,3252681,1,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Heliconius_charithonia
+Processing Exon_4
+Heliconius_charithonia_coordinates_Danaus_plexippus.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 3299,3415
+after splice: 3299,3415
+sequence:
+caCACTGTAGCCATCATCGGGGACCCGCCTCGCCCCGTCGACGATGTGGACTTAAAGGGAATTAATTTTGGATCACTACCCGAAAGTTTCCACAAAGAATTTACTGTGTTTGATGcg
+sequence:
+HTVAIIGDPPRPVDDVDLKGINFGSLPESFHKEFTVFDA
+left = ag, right =gt, stop_counter = 0
+HTVAIIGDPPRPVDDVDLKGINFGSLPESFHKEFTVFDA
+[[0, 0]]
+start_coordinate : 3251963,stop_coordinate : 3251847
+3299 3415 Y N
+Heliconius_charithonia,,3251847,3251963,1,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Heliconius_charithonia
+Processing Exon_5
+Heliconius_charithonia_coordinates_Danaus_plexippus.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 4029,4162
+after splice: 4029,4162
+sequence:
+gCCCCTAAACCGGAAGACTTGGGAGTCTTCCTAGAAAATGAAGACATTCGTATGATACGCTGGGTCGGAGGGGAGACGGCCGCCTTAAACCAAATGCAGAATCGTTTGGCCGTGGAGTATGAGACCTTTTGCAG
+sequence:
+APKPEDLGVFLENEDIRMIRWVGGETAALNQMQNRLAVEYETFC
+left = ag, right =GT, stop_counter = 0
+APKPEDLGVFLENEDIRMIRWVGGETAALNQMQNRLAVEYETFC
+[[0, 2]]
+start_coordinate : 3251233,stop_coordinate : 3251102
+4029 4162 Y N
+Heliconius_charithonia,,3251100,3251233,1,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Heliconius_charithonia
+Processing Exon_6
+Heliconius_charithonia_coordinates_Danaus_plexippus.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 4756,4851
+after splice: 4756,4851
+sequence:
+GGTTCCTATTTGCCGACTCACGGTAATCCCGATCTATTGGGGCCCCCTATATCTTTGAGCCCAGCTCTGCGTTTTGGATGTCTTTCTGTGCGACG
+sequence:
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+left = AG, right =GT, stop_counter = 0
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 3250505,stop_coordinate : 3250413
+4756 4851 Y N
+Heliconius_charithonia,,3250411,3250506,1,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Heliconius_charithonia
+Processing Exon_7
+Heliconius_charithonia_coordinates_Danaus_plexippus.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 5186,5259
+after splice: 5186,5259
+sequence:
+TTTTATTGGTGCGTCCAAGATTTATTCCACCAAGTGAACCAGGGGCAACTCGCTTCTACTCAATTTATTACTG
+sequence:
+FYWCVQDLFHQVNQGQLASTQFIT
+left = AG, right =GT, stop_counter = 0
+FYWCVQDLFHQVNQGQLASTQFIT
+[[1, 1]]
+start_coordinate : 3250075,stop_coordinate : 3250004
+5186 5259 Y N
+Heliconius_charithonia,,3250003,3250076,1,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Heliconius_charithonia
+Processing Exon_8
+Heliconius_charithonia_coordinates_Danaus_plexippus.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 5406,5532
+after splice: 5406,5532
+sequence:
+caACTTATATGGCGTGAGTATTTCTATACGATGAGTGTAAACAACCCTAACTACGGCCAAATGAGCAACAATCCCATATGTTTGAACATCCCCTGGAAAGAGCCCGAAAACGATGAATTGCAGAG
+sequence:
+QLIWREYFYTMSVNNPNYGQMSNNPICLNIPWKEPENDELQ
+left = ag, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPNYGQMSNNPICLNIPWKEPENDELQ
+[[2, 2]]
+start_coordinate : 3249854,stop_coordinate : 3249732
+5406 5532 Y N
+Heliconius_charithonia,,3249730,3249856,1,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Heliconius_charithonia
+Processing Exon_9
+Heliconius_charithonia_coordinates_Danaus_plexippus.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 6007,6189
+after splice: 6007,6189
+sequence:
+TGGCGCGAGGGCCGCACCGGCTTCCCTTTCATAGACGCGGCCATGCGCCAACTGCGCACCGAGGGCTGGCTGCACCACGCCGTGAGGAACACGGTGGCGTCCTTCCTGACGCGCGGCACGCTGTGGCTGTCCTGGGAGCACGGCCTGAACCACTTCCTCAAGTACCTGCTGGACGCTGACTG
+sequence:
+WREGRTGFPFIDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WREGRTGFPFIDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 3249254,stop_coordinate : 3249075
+6007 6189 Y N
+Heliconius_charithonia,,3249073,3249255,1,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Heliconius_charithonia
+Processing Exon_10
+Heliconius_charithonia_coordinates_Danaus_plexippus.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 6560,6727
+after splice: 6560,6727
+sequence:
+TCGGTGTGCGCCGGCAACTGGATGTGGGTGTCGTCGTCCGCGTTCGAGGCGCTGCTGGACTCGGGCGAGTGCGCGTGCCCCGTGCGCCTCGGCCGCCGCCTCGAGCCCTCCGGCCACTACGTGCGCCGCTACGTGCCCGAGCTGGCCGACATGCCCGTGGAGTACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELADMPVEY
+left = AG, right =GC, stop_counter = 0
+sequence:
+TCGGTGTGCGCCGGCAACTGGATGTGGGTGTCGTCGTCCGCGTTCGAGGCGCTGCTGGACTCGGGCGAGTGCGCGTGCCCCGTGCGCCTCGGCCGCCGCCTCGAGCCCTCCGGCCACTACGTGCGCCGCTACGTGCCCGAGCTGGCCGACATGCCCGTGGAGTACATGCA
+sequence:
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELADMPVEYM
+left = AG, right =AG, stop_counter = 0
+sequence:
+TCGGTGTGCGCCGGCAACTGGATGTGGGTGTCGTCGTCCGCGTTCGAGGCGCTGCTGGACTCGGGCGAGTGCGCGTGCCCCGTGCGCCTCGGCCGCCGCCTCGAGCCCTCCGGCCACTACGTGCGCCGCTACGTGCCCGAGCTGGCCGACATGCCCGTGGAGTACATGCAAGT
+sequence:
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELADMPVEYMQ
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELADMPVEYMQ
+[[1, 2]]
+start_coordinate : 3248701,stop_coordinate : 3248531
+6560 6733 Y N
+Heliconius_charithonia,,3248529,3248702,1,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_10,1,57,57,Y,N
+
+Heliconius_charithonia
+Processing Exon_11
+Heliconius_charithonia_coordinates_Danaus_plexippus.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 7241,7361
+after splice: 7241,7361
+sequence:
+TACTCCCCGTGGACGGCGCCGCTGCGCGTGCAGCAGCGCGCGCGCTGCGTGGTGGGCCGCGACTACCCGGCGCCCGTCGTGGACcaccgcgccgccgccgcgcgcaaCCGCAGCAACATG
+sequence:
+YSPWTAPLRVQQRARCVVGRDYPAPVVDHRAAAARNRSNM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACTCCCCGTGGACGGCGCCGCTGCGCGTGCAGCAGCGCGCGCGCTGCGTGGTGGGCCGCGACTACCCGGCGCCCGTCGTGGACcaccgcgccgccgccgcgcgcaaCCGCAGCAACATGCAG
+sequence:
+YSPWTAPLRVQQRARCVVGRDYPAPVVDHRAAAARNRSNMQ
+left = AG, right =GT, stop_counter = 0
+YSPWTAPLRVQQRARCVVGRDYPAPVVDHRAAAARNRSNMQ
+[[1, 0]]
+start_coordinate : 3248020,stop_coordinate : 3247898
+7241 7364 Y N
+Heliconius_charithonia,,3247898,3248021,1,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Heliconius_charithonia
+Processing Exon_2
+0 query coordinate
+Heliconius_charithonia_coordinates_Danaus_plexippus.csv
+48
+[[2, 1]]
+reached here
+Before splice: 991,1137
+after splice: 991,1137
+sequence:
+ACCAAAGTAGTGGGATATAACCGCATGCGGTATCTCCTGGAGGCTCTGAACGATCTCGATGTCCAGTTCAAGAAGTATGGTGGGAGATTGCACATGATAAAGGGAAAACCTGATGTCGTCTTTAAACGTCTTTGGGAGGAGTTCG
+sequence:
+TKVVGYNRMRYLLEALNDLDVQFKKYGGRLHMIKGKPDVVFKRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALNDLDVQFKKYGGRLHMIKGKPDVVFKRLWEEF
+[[2, 1]]
+start_coordinate : 3254269,stop_coordinate : 3254126
+991 1137 Y N
+Heliconius_charithonia,,3254125,3254271,1,N,Nymphalis_io_XM_050489987.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Heliconius_charithonia
+Processing Exon_3
+Heliconius_charithonia_coordinates_Nymphalis_io.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 2581,2768
+after splice: 2581,2768
+sequence:
+ATCCGTAAGATCTGCTTCGAGCAGGACTGCGAGCCCATATGGCGCCCCCGCGACGACGGCGTGCGCGCGCTGTGCCGCGAGGTCGGCGTGTCGTGCCGCGAGCACGTGTCGCACACCCTGTGGGACCCCGACACCGTCATCAGAGCCAACGGCGGCATACCGCCGCTCACCTACCAGATGTTTCTC
+sequence:
+IRKICFEQDCEPIWRPRDDGVRALCREVGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+IRKICFEQDCEPIWRPRDDGVRALCREVGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 3252679,stop_coordinate : 3252494
+2581 2768 Y N
+Heliconius_charithonia,,3252494,3252681,1,N,Nymphalis_io_XM_050489987.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Heliconius_charithonia
+Processing Exon_4
+Heliconius_charithonia_coordinates_Nymphalis_io.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 3299,3415
+after splice: 3299,3415
+sequence:
+caCACTGTAGCCATCATCGGGGACCCGCCTCGCCCCGTCGACGATGTGGACTTAAAGGGAATTAATTTTGGATCACTACCCGAAAGTTTCCACAAAGAATTTACTGTGTTTGATGcg
+sequence:
+HTVAIIGDPPRPVDDVDLKGINFGSLPESFHKEFTVFDA
+left = ag, right =gt, stop_counter = 0
+HTVAIIGDPPRPVDDVDLKGINFGSLPESFHKEFTVFDA
+[[0, 0]]
+start_coordinate : 3251963,stop_coordinate : 3251847
+3299 3415 Y N
+Heliconius_charithonia,,3251847,3251963,1,N,Nymphalis_io_XM_050489987.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Heliconius_charithonia
+Processing Exon_5
+Heliconius_charithonia_coordinates_Nymphalis_io.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 4029,4162
+after splice: 4029,4162
+sequence:
+gCCCCTAAACCGGAAGACTTGGGAGTCTTCCTAGAAAATGAAGACATTCGTATGATACGCTGGGTCGGAGGGGAGACGGCCGCCTTAAACCAAATGCAGAATCGTTTGGCCGTGGAGTATGAGACCTTTTGCAG
+sequence:
+APKPEDLGVFLENEDIRMIRWVGGETAALNQMQNRLAVEYETFC
+left = ag, right =GT, stop_counter = 0
+APKPEDLGVFLENEDIRMIRWVGGETAALNQMQNRLAVEYETFC
+[[0, 2]]
+start_coordinate : 3251233,stop_coordinate : 3251102
+4029 4162 Y N
+Heliconius_charithonia,,3251100,3251233,1,N,Nymphalis_io_XM_050489987.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Heliconius_charithonia
+Processing Exon_6
+Heliconius_charithonia_coordinates_Nymphalis_io.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 4756,4851
+after splice: 4756,4851
+sequence:
+GGTTCCTATTTGCCGACTCACGGTAATCCCGATCTATTGGGGCCCCCTATATCTTTGAGCCCAGCTCTGCGTTTTGGATGTCTTTCTGTGCGACG
+sequence:
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+left = AG, right =GT, stop_counter = 0
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 3250505,stop_coordinate : 3250413
+4756 4851 Y N
+Heliconius_charithonia,,3250411,3250506,1,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Heliconius_charithonia
+Processing Exon_7
+Heliconius_charithonia_coordinates_Nymphalis_io.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 5186,5259
+after splice: 5186,5259
+sequence:
+TTTTATTGGTGCGTCCAAGATTTATTCCACCAAGTGAACCAGGGGCAACTCGCTTCTACTCAATTTATTACTG
+sequence:
+FYWCVQDLFHQVNQGQLASTQFIT
+left = AG, right =GT, stop_counter = 0
+FYWCVQDLFHQVNQGQLASTQFIT
+[[1, 1]]
+start_coordinate : 3250075,stop_coordinate : 3250004
+5186 5259 Y N
+Heliconius_charithonia,,3250003,3250076,1,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Heliconius_charithonia
+Processing Exon_8
+Heliconius_charithonia_coordinates_Nymphalis_io.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 5406,5532
+after splice: 5406,5532
+sequence:
+caACTTATATGGCGTGAGTATTTCTATACGATGAGTGTAAACAACCCTAACTACGGCCAAATGAGCAACAATCCCATATGTTTGAACATCCCCTGGAAAGAGCCCGAAAACGATGAATTGCAGAG
+sequence:
+QLIWREYFYTMSVNNPNYGQMSNNPICLNIPWKEPENDELQ
+left = ag, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPNYGQMSNNPICLNIPWKEPENDELQ
+[[2, 2]]
+start_coordinate : 3249854,stop_coordinate : 3249732
+5406 5532 Y N
+Heliconius_charithonia,,3249730,3249856,1,N,Nymphalis_io_XM_050489987.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Heliconius_charithonia
+Processing Exon_9
+Heliconius_charithonia_coordinates_Nymphalis_io.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 6007,6189
+after splice: 6007,6189
+sequence:
+TGGCGCGAGGGCCGCACCGGCTTCCCTTTCATAGACGCGGCCATGCGCCAACTGCGCACCGAGGGCTGGCTGCACCACGCCGTGAGGAACACGGTGGCGTCCTTCCTGACGCGCGGCACGCTGTGGCTGTCCTGGGAGCACGGCCTGAACCACTTCCTCAAGTACCTGCTGGACGCTGACTG
+sequence:
+WREGRTGFPFIDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WREGRTGFPFIDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 3249254,stop_coordinate : 3249075
+6007 6189 Y N
+Heliconius_charithonia,,3249073,3249255,1,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Heliconius_charithonia
+Processing Exon_10
+Heliconius_charithonia_coordinates_Nymphalis_io.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 6560,6727
+after splice: 6560,6727
+sequence:
+TCGGTGTGCGCCGGCAACTGGATGTGGGTGTCGTCGTCCGCGTTCGAGGCGCTGCTGGACTCGGGCGAGTGCGCGTGCCCCGTGCGCCTCGGCCGCCGCCTCGAGCCCTCCGGCCACTACGTGCGCCGCTACGTGCCCGAGCTGGCCGACATGCCCGTGGAGTACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELADMPVEY
+left = AG, right =GC, stop_counter = 0
+sequence:
+TCGGTGTGCGCCGGCAACTGGATGTGGGTGTCGTCGTCCGCGTTCGAGGCGCTGCTGGACTCGGGCGAGTGCGCGTGCCCCGTGCGCCTCGGCCGCCGCCTCGAGCCCTCCGGCCACTACGTGCGCCGCTACGTGCCCGAGCTGGCCGACATGCCCGTGGAGTACATGCA
+sequence:
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELADMPVEYM
+left = AG, right =AG, stop_counter = 0
+sequence:
+TCGGTGTGCGCCGGCAACTGGATGTGGGTGTCGTCGTCCGCGTTCGAGGCGCTGCTGGACTCGGGCGAGTGCGCGTGCCCCGTGCGCCTCGGCCGCCGCCTCGAGCCCTCCGGCCACTACGTGCGCCGCTACGTGCCCGAGCTGGCCGACATGCCCGTGGAGTACATGCAAGT
+sequence:
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELADMPVEYMQ
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELADMPVEYMQ
+[[1, 2]]
+start_coordinate : 3248701,stop_coordinate : 3248531
+6560 6733 Y N
+Heliconius_charithonia,,3248529,3248702,1,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_2_query_Exon_10,1,57,57,Y,N
+
+Heliconius_charithonia
+Processing Exon_11
+Heliconius_charithonia_coordinates_Nymphalis_io.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 7241,7361
+after splice: 7241,7361
+sequence:
+TACTCCCCGTGGACGGCGCCGCTGCGCGTGCAGCAGCGCGCGCGCTGCGTGGTGGGCCGCGACTACCCGGCGCCCGTCGTGGACcaccgcgccgccgccgcgcgcaaCCGCAGCAACATG
+sequence:
+YSPWTAPLRVQQRARCVVGRDYPAPVVDHRAAAARNRSNM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACTCCCCGTGGACGGCGCCGCTGCGCGTGCAGCAGCGCGCGCGCTGCGTGGTGGGCCGCGACTACCCGGCGCCCGTCGTGGACcaccgcgccgccgccgcgcgcaaCCGCAGCAACATGCAG
+sequence:
+YSPWTAPLRVQQRARCVVGRDYPAPVVDHRAAAARNRSNMQ
+left = AG, right =GT, stop_counter = 0
+YSPWTAPLRVQQRARCVVGRDYPAPVVDHRAAAARNRSNMQ
+[[1, 0]]
+start_coordinate : 3248020,stop_coordinate : 3247898
+7241 7364 Y N
+Heliconius_charithonia,,3247898,3248021,1,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Heliconius_charithonia
+Processing Exon_2
+0 query coordinate
+Heliconius_charithonia_coordinates_Nymphalis_io.csv
+47
+[[2, 1]]
+reached here
+Before splice: 991,1134
+after splice: 991,1134
+sequence:
+ACCAAAGTAGTGGGATATAACCGCATGCGGTATCTCCTGGAGGCTCTGAACGATCTCGATGTCCAGTTCAAGAAGTATGGTGGGAGATTGCACATGATAAAGGGAAAACCTGATGTCGTCTTTAAACGTCTTTGGGAGGAGT
+sequence:
+TKVVGYNRMRYLLEALNDLDVQFKKYGGRLHMIKGKPDVVFKRLWEE
+left = AG, right =TC, stop_counter = 0
+sequence:
+ACCAAAGTAGTGGGATATAACCGCATGCGGTATCTCCTGGAGGCTCTGAACGATCTCGATGTCCAGTTCAAGAAGTATGGTGGGAGATTGCACATGATAAAGGGAAAACCTGATGTCGTCTTTAAACGTCTTTGGGAGGAGTTCG
+sequence:
+TKVVGYNRMRYLLEALNDLDVQFKKYGGRLHMIKGKPDVVFKRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALNDLDVQFKKYGGRLHMIKGKPDVVFKRLWEEF
+[[2, 1]]
+start_coordinate : 3254269,stop_coordinate : 3254126
+991 1137 Y N
+Heliconius_charithonia,,3254125,3254271,1,N,Vanessa_tameamea_XM_026643186.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Heliconius_charithonia
+Processing Exon_3
+Heliconius_charithonia_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 2581,2768
+after splice: 2581,2768
+sequence:
+ATCCGTAAGATCTGCTTCGAGCAGGACTGCGAGCCCATATGGCGCCCCCGCGACGACGGCGTGCGCGCGCTGTGCCGCGAGGTCGGCGTGTCGTGCCGCGAGCACGTGTCGCACACCCTGTGGGACCCCGACACCGTCATCAGAGCCAACGGCGGCATACCGCCGCTCACCTACCAGATGTTTCTC
+sequence:
+IRKICFEQDCEPIWRPRDDGVRALCREVGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+IRKICFEQDCEPIWRPRDDGVRALCREVGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 3252679,stop_coordinate : 3252494
+2581 2768 Y N
+Heliconius_charithonia,,3252494,3252681,1,N,Vanessa_tameamea_XM_026643186.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Heliconius_charithonia
+Processing Exon_4
+Heliconius_charithonia_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 3299,3415
+after splice: 3299,3415
+sequence:
+caCACTGTAGCCATCATCGGGGACCCGCCTCGCCCCGTCGACGATGTGGACTTAAAGGGAATTAATTTTGGATCACTACCCGAAAGTTTCCACAAAGAATTTACTGTGTTTGATGcg
+sequence:
+HTVAIIGDPPRPVDDVDLKGINFGSLPESFHKEFTVFDA
+left = ag, right =gt, stop_counter = 0
+HTVAIIGDPPRPVDDVDLKGINFGSLPESFHKEFTVFDA
+[[0, 0]]
+start_coordinate : 3251963,stop_coordinate : 3251847
+3299 3415 Y N
+Heliconius_charithonia,,3251847,3251963,1,N,Vanessa_tameamea_XM_026643186.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Heliconius_charithonia
+Processing Exon_5
+Heliconius_charithonia_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 4029,4162
+after splice: 4029,4162
+sequence:
+gCCCCTAAACCGGAAGACTTGGGAGTCTTCCTAGAAAATGAAGACATTCGTATGATACGCTGGGTCGGAGGGGAGACGGCCGCCTTAAACCAAATGCAGAATCGTTTGGCCGTGGAGTATGAGACCTTTTGCAG
+sequence:
+APKPEDLGVFLENEDIRMIRWVGGETAALNQMQNRLAVEYETFC
+left = ag, right =GT, stop_counter = 0
+APKPEDLGVFLENEDIRMIRWVGGETAALNQMQNRLAVEYETFC
+[[0, 2]]
+start_coordinate : 3251233,stop_coordinate : 3251102
+4029 4162 Y N
+Heliconius_charithonia,,3251100,3251233,1,N,Vanessa_tameamea_XM_026643186.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Heliconius_charithonia
+Processing Exon_6
+Heliconius_charithonia_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 4756,4851
+after splice: 4756,4851
+sequence:
+GGTTCCTATTTGCCGACTCACGGTAATCCCGATCTATTGGGGCCCCCTATATCTTTGAGCCCAGCTCTGCGTTTTGGATGTCTTTCTGTGCGACG
+sequence:
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+left = AG, right =GT, stop_counter = 0
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 3250505,stop_coordinate : 3250413
+4756 4851 Y N
+Heliconius_charithonia,,3250411,3250506,1,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Heliconius_charithonia
+Processing Exon_7
+Heliconius_charithonia_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 5186,5259
+after splice: 5186,5259
+sequence:
+TTTTATTGGTGCGTCCAAGATTTATTCCACCAAGTGAACCAGGGGCAACTCGCTTCTACTCAATTTATTACTG
+sequence:
+FYWCVQDLFHQVNQGQLASTQFIT
+left = AG, right =GT, stop_counter = 0
+FYWCVQDLFHQVNQGQLASTQFIT
+[[1, 1]]
+start_coordinate : 3250075,stop_coordinate : 3250004
+5186 5259 Y N
+Heliconius_charithonia,,3250003,3250076,1,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Heliconius_charithonia
+Processing Exon_8
+Heliconius_charithonia_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 5406,5532
+after splice: 5406,5532
+sequence:
+caACTTATATGGCGTGAGTATTTCTATACGATGAGTGTAAACAACCCTAACTACGGCCAAATGAGCAACAATCCCATATGTTTGAACATCCCCTGGAAAGAGCCCGAAAACGATGAATTGCAGAG
+sequence:
+QLIWREYFYTMSVNNPNYGQMSNNPICLNIPWKEPENDELQ
+left = ag, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPNYGQMSNNPICLNIPWKEPENDELQ
+[[2, 2]]
+start_coordinate : 3249854,stop_coordinate : 3249732
+5406 5532 Y N
+Heliconius_charithonia,,3249730,3249856,1,N,Vanessa_tameamea_XM_026643186.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Heliconius_charithonia
+Processing Exon_9
+Heliconius_charithonia_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 6007,6189
+after splice: 6007,6189
+sequence:
+TGGCGCGAGGGCCGCACCGGCTTCCCTTTCATAGACGCGGCCATGCGCCAACTGCGCACCGAGGGCTGGCTGCACCACGCCGTGAGGAACACGGTGGCGTCCTTCCTGACGCGCGGCACGCTGTGGCTGTCCTGGGAGCACGGCCTGAACCACTTCCTCAAGTACCTGCTGGACGCTGACTG
+sequence:
+WREGRTGFPFIDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WREGRTGFPFIDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 3249254,stop_coordinate : 3249075
+6007 6189 Y N
+Heliconius_charithonia,,3249073,3249255,1,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Heliconius_charithonia
+Processing Exon_10
+Heliconius_charithonia_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 6560,6727
+after splice: 6560,6727
+sequence:
+TCGGTGTGCGCCGGCAACTGGATGTGGGTGTCGTCGTCCGCGTTCGAGGCGCTGCTGGACTCGGGCGAGTGCGCGTGCCCCGTGCGCCTCGGCCGCCGCCTCGAGCCCTCCGGCCACTACGTGCGCCGCTACGTGCCCGAGCTGGCCGACATGCCCGTGGAGTACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELADMPVEY
+left = AG, right =GC, stop_counter = 0
+sequence:
+TCGGTGTGCGCCGGCAACTGGATGTGGGTGTCGTCGTCCGCGTTCGAGGCGCTGCTGGACTCGGGCGAGTGCGCGTGCCCCGTGCGCCTCGGCCGCCGCCTCGAGCCCTCCGGCCACTACGTGCGCCGCTACGTGCCCGAGCTGGCCGACATGCCCGTGGAGTACATGCA
+sequence:
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELADMPVEYM
+left = AG, right =AG, stop_counter = 0
+sequence:
+TCGGTGTGCGCCGGCAACTGGATGTGGGTGTCGTCGTCCGCGTTCGAGGCGCTGCTGGACTCGGGCGAGTGCGCGTGCCCCGTGCGCCTCGGCCGCCGCCTCGAGCCCTCCGGCCACTACGTGCGCCGCTACGTGCCCGAGCTGGCCGACATGCCCGTGGAGTACATGCAAGT
+sequence:
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELADMPVEYMQ
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELADMPVEYMQ
+[[1, 2]]
+start_coordinate : 3248701,stop_coordinate : 3248531
+6560 6733 Y N
+Heliconius_charithonia,,3248529,3248702,1,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_2_query_Exon_10,1,57,57,Y,N
+
+Heliconius_charithonia
+Processing Exon_11
+Heliconius_charithonia_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 7241,7361
+after splice: 7241,7361
+sequence:
+TACTCCCCGTGGACGGCGCCGCTGCGCGTGCAGCAGCGCGCGCGCTGCGTGGTGGGCCGCGACTACCCGGCGCCCGTCGTGGACcaccgcgccgccgccgcgcgcaaCCGCAGCAACATG
+sequence:
+YSPWTAPLRVQQRARCVVGRDYPAPVVDHRAAAARNRSNM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACTCCCCGTGGACGGCGCCGCTGCGCGTGCAGCAGCGCGCGCGCTGCGTGGTGGGCCGCGACTACCCGGCGCCCGTCGTGGACcaccgcgccgccgccgcgcgcaaCCGCAGCAACATGCAG
+sequence:
+YSPWTAPLRVQQRARCVVGRDYPAPVVDHRAAAARNRSNMQ
+left = AG, right =GT, stop_counter = 0
+YSPWTAPLRVQQRARCVVGRDYPAPVVDHRAAAARNRSNMQ
+[[1, 0]]
+start_coordinate : 3248020,stop_coordinate : 3247898
+7241 7364 Y N
+Heliconius_charithonia,,3247898,3248021,1,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+

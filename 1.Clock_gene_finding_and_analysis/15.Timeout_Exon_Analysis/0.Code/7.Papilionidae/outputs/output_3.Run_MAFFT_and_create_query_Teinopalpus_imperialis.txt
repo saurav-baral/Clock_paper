@@ -1,0 +1,1771 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8254943,8255126,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Teinopalpus_imperialis,JAGSMU010000005.1,8254615,8254868,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8255472,8255728,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set12_frame2, 0.228
+5 top scores:
+[['set1_frame0', 1.859], ['set16_frame1', 1.903], ['set12_frame2', 0.228], ['set24_frame2', 1.802]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_12_frame2.fa.txt
+11 72
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPVERNDRHNYLQILSHLQSYKEDAFTKVENWQVFAKKLGKVLEI
+11 72
+set12_frame2
+LIVNLTNPALLLYREEVPIERTARHNYLQILSHLQSYKEEAFTKVETWQVFSKKLAQILEI
+Original query = LIVNLTNPALLLYREEVPVERNDRHNYLQILSHLQSYKEDAFTKVENWQVFAKKLGKVLEI
+New query = LIVNLTNPALLLYREEVPIERTARHNYLQILSHLQSYKEEAFTKVETWQVFSKKLAQILEI
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8255215,8255349,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Teinopalpus_imperialis,JAGSMU010000005.1,8254615,8254868,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8256650,8256847,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,64,65
+
+Getting Gene
+min = set14_frame0, 0.027
+5 top scores:
+[['set12_frame2', 1.7], ['set14_frame0', 0.027], ['set24_frame2', 1.74], ['set33_frame0', 1.735], ['set51_frame2', 1.771]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_14_frame0.fa.txt
+0 45
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+0 45
+set14_frame0
+DWSERDEDTGLVIERILILIRNVLHVPADLDKEKRPENDASVHDQ
+Original query = DWSERDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+New query = DWSERDEDTGLVIERILILIRNVLHVPADLDKEKRPENDASVHDQ
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8255472,8255728,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Teinopalpus_imperialis,JAGSMU010000005.1,8254943,8255126,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8257531,8257713,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set13_frame1, 0.21
+5 top scores:
+[['set65_frame0', 1.818], ['set13_frame1', 0.21], ['set40_frame1', 1.856]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_13_frame1.fa.txt
+2 87
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPSSLADAALQRSVDEKVRDDQELLMIRMTENKDRMNKIRHYSST
+2 87
+set13_frame1
+VLWALNQSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLSNAALQRSMDEKLRDEQELLMIRMTESKDRLNKIKQYSAT
+Original query = VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPSSLADAALQRSVDEKVRDDQELLMIRMTENKDRMNKIRHYSST
+New query = VLWALNQSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLSNAALQRSMDEKLRDEQELLMIRMTESKDRLNKIKQYSAT
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8256650,8256847,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,64,65
+
+3
+7
+Teinopalpus_imperialis,JAGSMU010000005.1,8255215,8255349,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8262771,8263058,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set39_frame2, 0.206
+5 top scores:
+[['set39_frame2', 0.206], ['set114_frame2', 1.8], ['set169_frame2', 1.807], ['set120_frame0', 1.839], ['set132_frame0', 1.844]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_39_frame2.fa.txt
+13 78
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVQNMKSISDNELICLKPLNKISNLDFNGSKKQKLVKPKNRRPTESGTMERRSAFAI
+13 78
+set39_frame2
+HSRFGGTYVVQNMKSISDNGIICLKPLNKISSLDFNGSKKTKLIKPKNRRPIESGVLERRSAFAV
+Original query = HSRFGGTYVVQNMKSISDNELICLKPLNKISNLDFNGSKKQKLVKPKNRRPTESGTMERRSAFAI
+New query = HSRFGGTYVVQNMKSISDNGIICLKPLNKISSLDFNGSKKTKLIKPKNRRPIESGVLERRSAFAV
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8257531,8257713,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+9
+Teinopalpus_imperialis,JAGSMU010000005.1,8255472,8255728,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8265414,8265570,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+Getting Gene
+min = set52_frame2, 0.167
+5 top scores:
+[['set52_frame2', 0.167], ['set81_frame2', 1.747], ['set157_frame2', 1.775], ['set128_frame1', 1.819], ['set121_frame2', 1.824]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_52_frame2.fa.txt
+9 69
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNVLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRAHDFQVGFV
+9 69
+set52_frame2
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRARAQQNDESYYLWAVKFFMEFNRGHNFHVGLV
+Original query = LFLKEFCIEFLNSSYNVLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRAHDFQVGFV
+New query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRARAQQNDESYYLWAVKFFMEFNRGHNFHVGLV
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8262771,8263058,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Teinopalpus_imperialis,JAGSMU010000005.1,8256650,8256847,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,64,65
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8265414,8265570,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+Getting Gene
+min = set142_frame2, 0.193
+5 top scores:
+[['set142_frame2', 0.193], ['set98_frame0', 1.873], ['set174_frame1', 1.876], ['set131_frame1', 1.868], ['set139_frame1', 1.872]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_142_frame2.fa.txt
+5 100
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQMEKYYDMISVEKKKFTNWVRRLHLALRAYKELLHTLLAMDASKDHTVRESAKVLKSNIFYVLEYREFILSMYLNYDENKMP
+5 100
+set142_frame2
+ETMSVPMFHYVQQQMEKYYDMIKVEKKKFSSWVRRLHLALRAYKELLHTLLAMDKSSDPTVKESAKVLKSNIFYVLEYREFILTTFLNYDDNKMP
+Original query = ETMSVPMFHYVQQQMEKYYDMISVEKKKFTNWVRRLHLALRAYKELLHTLLAMDASKDHTVRESAKVLKSNIFYVLEYREFILSMYLNYDENKMP
+New query = ETMSVPMFHYVQQQMEKYYDMIKVEKKKFSSWVRRLHLALRAYKELLHTLLAMDKSSDPTVKESAKVLKSNIFYVLEYREFILTTFLNYDDNKMP
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8264263,8264381,0,Y,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_8,1,29,39
+
+6
+10
+Teinopalpus_imperialis,JAGSMU010000005.1,8257531,8257713,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8268134,8268214,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set142_frame1, 0.097
+5 top scores:
+[['set142_frame1', 0.097], ['set155_frame0', 1.665], ['set171_frame1', 1.687], ['set105_frame0', 1.695], ['set164_frame1', 1.712]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_142_frame1.fa.txt
+9 48
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLVETVHLFLKMLEHYCKRTGLVVQKKVRKKTKAK
+9 48
+set142_frame1
+SYLVDLIETVHLFLKMLEYYCKRTGLVVQKKVRKKSKAK
+Original query = SYLVDLVETVHLFLKMLEHYCKRTGLVVQKKVRKKTKAK
+New query = SYLVDLIETVHLFLKMLEYYCKRTGLVVQKKVRKKSKAK
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8265414,8265570,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+7
+11
+Teinopalpus_imperialis,JAGSMU010000005.1,8262771,8263058,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8268594,8268703,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Getting Gene
+min = set46_frame2, 0.78
+5 top scores:
+[['set46_frame2', 0.78], ['set65_frame2', 1.726], ['set25_frame0', 1.772], ['set41_frame1', 1.818], ['set6_frame1', 1.825]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_46_frame2.fa.txt
+12 60
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9
+QKPKIKPKVIELSPWEEIRPQLAAVLSSGVEHYLPPFDAASETPIDQQ
+12 60
+set46_frame2
+RTQKLKSVLVEVPVWEELRPQIACVLSTGQHEYPPPFDAASDVPIDQQ
+Original query = QKPKIKPKVIELSPWEEIRPQLAAVLSSGVEHYLPPFDAASETPIDQQ
+New query = RTQKLKSVLVEVPVWEELRPQIACVLSTGQHEYPPPFDAASDVPIDQQ
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8268134,8268214,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+7
+12
+13
+Teinopalpus_imperialis,JAGSMU010000005.1,8262771,8263058,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8270606,8270675,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Getting Gene
+min = set126_frame0, 0.457
+5 top scores:
+[['set126_frame0', 0.457], ['set65_frame2', 1.454], ['set41_frame1', 1.606], ['set87_frame2', 1.618], ['set148_frame2', 1.634]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_126_frame0.fa.txt
+12 38
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQRLMRDHKYEDVIGTFRAA
+12 38
+set126_frame0
+EDCMKNIQKLMRECKYEDAVGIFRAA
+Original query = EDCMKKIQRLMRDHKYEDVIGTFRAA
+New query = EDCMKNIQKLMRECKYEDAVGIFRAA
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8268594,8268703,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+9
+13
+Teinopalpus_imperialis,JAGSMU010000005.1,8265414,8265570,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8270606,8270675,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Getting Gene
+min = set52_frame1, 0.535
+5 top scores:
+[['set52_frame1', 0.535], ['set20_frame2', 1.729], ['set62_frame1', 1.772], ['set92_frame1', 1.784], ['set13_frame2', 1.798]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_52_frame1.fa.txt
+1 34
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEDGIFGVSGMPEDEELDMLETIYNTDLGL
+1 34
+set52_frame1
+EVWQEEGIFGINGIAEDEELDMLQTIYNTDLGV
+Original query = EVWPEDGIFGVSGMPEDEELDMLETIYNTDLGLDYE
+New query = EVWQEEGIFGINGIAEDEELDMLQTIYNTDLGV
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,0,0,0,Y,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_12,0,0,17
+
+10
+14
+Teinopalpus_imperialis,JAGSMU010000005.1,8268134,8268214,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8272792,8272990,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set1_frame0, 1.279
+5 top scores:
+[['set1_frame0', 1.279], ['set54_frame2', 1.454], ['set17_frame1', 1.476], ['set26_frame1', 1.505], ['set11_frame2', 1.51]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_1_frame0.fa.txt
+0 13
+set1_frame0
+GRL--YEEYSEVD
+Original query = AQHEDAQEYSEDED
+New query = GRL--YEEYSEVD
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8270606,8270675,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+11
+15
+Teinopalpus_imperialis,JAGSMU010000005.1,8268594,8268703,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8273644,8273792,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set44_frame1, 0.454
+5 top scores:
+[['set44_frame1', 0.454], ['set57_frame1', 1.615], ['set83_frame1', 1.653], ['set97_frame2', 1.664], ['set23_frame0', 1.656]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_44_frame1.fa.txt
+16 36
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13
+EDEEQGSAIVETDFDFQDFV
+16 36
+set44_frame1
+EDAENTAAVVETDFDFQDFV
+Original query = EDEEQGSAIVETDFDFQDFVL
+New query = EDAENTAAVVETDFDFQDFV
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8272792,8272990,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Teinopalpus_imperialis,JAGSMU010000005.1,8268594,8268703,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8274792,8274886,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Getting Gene
+min = set97_frame2, 0.338
+5 top scores:
+[['set97_frame2', 0.338], ['set55_frame0', 1.767], ['set95_frame1', 1.841], ['set73_frame0', 1.851], ['set130_frame0', 1.842]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_97_frame2.fa.txt
+10 76
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14
+FCHPKIVSACVCLLERYDKNRSHTNHCIVKMLHRIAFDCNRPAMMFQATLFLTFQKILHNPMPHLK
+10 76
+set97_frame2
+FCHPRVVSACAFILERYEQNTAHTNHCVVKMLHRIALDCRRPSMIFQATLFLTFQKIFHNPMPHFK
+Original query = FCHPKIVSACVCLLERYDKNRSHTNHCIVKMLHRIAFDCNRPAMMFQATLFLTFQKILHNPMPHLK
+New query = FCHPRVVSACAFILERYEQNTAHTNHCVVKMLHRIALDCRRPSMIFQATLFLTFQKIFHNPMPHFK
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8273644,8273792,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+17
+Teinopalpus_imperialis,JAGSMU010000005.1,8270606,8270675,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8275081,8275290,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,68,69
+
+Getting Gene
+min = set52_frame2, 0.411
+5 top scores:
+[['set52_frame2', 0.411], ['set60_frame2', 1.733], ['set75_frame1', 1.782], ['set42_frame0', 1.768], ['set46_frame0', 1.784]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_52_frame2.fa.txt
+9 57
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFAIFILRKFADIASKSGKVFIELLFWKNSKDAVEIEHGYNLYND
+9 57
+set52_frame2
+ELEKFGLFIFRKFAAVATKNTKVFIELLFWKSSKDAIEIEHGYDLYSD
+Original query = ELEKFAIFILRKFADIASKSGKVFIELLFWKNSKDAVEIEHGYNLYNDP
+New query = ELEKFGLFIFRKFAAVATKNTKVFIELLFWKSSKDAIEIEHGYDLYSD
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8274792,8274886,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+14
+18
+Teinopalpus_imperialis,JAGSMU010000005.1,8272792,8272990,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8285942,8286103,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,52,53
+
+Getting Gene
+min = set39_frame0, 0.399
+5 top scores:
+[['set39_frame0', 0.399], ['set111_frame0', 1.599], ['set81_frame1', 1.641], ['set221_frame2', 1.664], ['set21_frame0', 1.697]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_39_frame0.fa.txt
+10 41
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16
+DKLGKASWSEEQEDELRNLYMENQTNPQTDQ
+10 41
+set39_frame0
+DKLGKGVWTEEQENELRNLYMENQSNPTTEK
+Original query = DKLGKASWSEEQEDELRNLYMENQTNPQTDQ
+New query = DKLGKGVWTEEQENELRNLYMENQSNPTTEK
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8275081,8275290,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,68,69
+
+15
+19
+Teinopalpus_imperialis,JAGSMU010000005.1,8273644,8273792,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8286328,8286525,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_19,11,63,64
+
+Getting Gene
+min = set37_frame2, 0.521
+5 top scores:
+[['set37_frame2', 0.521], ['set70_frame1', 1.768], ['set37_frame0', 1.782], ['set83_frame2', 1.783], ['set164_frame2', 1.793]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_37_frame2.fa.txt
+6 75
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFNAPTKKSNKART-EKVTKDFTEEEDKLLTELWTQNAESQ
+6 75
+set37_frame2
+VIDWILENLIDQTRTRRSVIKKLKELGLIFKAPTKKSNHERNRERVPKEFSAEEDALLTELWKLYADSP
+Original query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFNAPTKKSNKARTEKVTKDFTEEEDKLLTELWTQNAESQ
+New query = VIDWILENLIDQTRTRRSVIKKLKELGLIFKAPTKKSNHERNRERVPKEFSAEEDALLTELWKLYADSP
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8285942,8286103,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,52,53
+
+16
+20
+Teinopalpus_imperialis,JAGSMU010000005.1,8274792,8274886,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8286605,8286801,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set156_frame1, 0.854
+5 top scores:
+[['set156_frame1', 0.854], ['set204_frame0', 1.66], ['set64_frame2', 1.685], ['set78_frame2', 1.717], ['set100_frame2', 1.722]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_156_frame1.fa.txt
+8 52
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18
+PMSVIMERMPRNRSKRTFVERLLRLGLIDDKKQCRKKSIKNISG
+8 52
+set156_frame1
+PMGVIVPRMLRKRPKQIFVERLLELDLIRDKKECRKKKQAKLKS
+Original query = PMSVIMERMPRNRSKRTFVERLLRLGLIDDKKQCRKKSIKNISG
+New query = PMGVIVPRMLRKRPKQIFVERLLELDLIRDKKECRKKKQAKLKS
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8286328,8286525,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_19,11,63,64
+
+17
+21
+Teinopalpus_imperialis,JAGSMU010000005.1,8275081,8275290,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,68,69
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8287494,8287920,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,141,146
+
+Getting Gene
+min = set191_frame2, 1.166
+5 top scores:
+[['set191_frame2', 1.166], ['set215_frame2', 1.625], ['set81_frame2', 1.729], ['set165_frame2', 1.733], ['set180_frame2', 1.759]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_191_frame2.fa.txt
+22 89
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19
+NSSDSESSKSEDED------APPKRPTIKIKSKKNLTKSKQSNKKSAESLELSANEIAELLVQAVEN
+22 89
+set191_frame2
+SSSDSESSDGNESDTSVKVRSPPKTKKAVKKAHKERQQAR-ANKKSIKNIDLSASEIAKLLLQAVDS
+Original query = NSSDSESSKSEDEDAPPKRPTIKIKSKKNLTKSKQSNKKSAESLELSANEIAELLVQAVEN
+New query = SSSDSESSDGNESDTSVKVRSPPKTKKAVKKAHKERQQAR-ANKKSIKNIDLSASEIAKLLLQAVDS
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8286605,8286801,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+18
+21
+Teinopalpus_imperialis,JAGSMU010000005.1,8285942,8286103,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,52,53
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8287494,8287920,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,141,146
+
+Getting Gene
+min = set6_frame2, 0.49
+5 top scores:
+[['set14_frame2', 1.854], ['set24_frame2', 1.858], ['set36_frame1', 1.814], ['set1_frame2', 1.887], ['set6_frame2', 0.49]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_6_frame2.fa.txt
+23 88
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20
+HTEALNWLSENLEEVALDQEAEGFDPTSEGTPLVPISRESVQAIQDDLFRRVLKSLGIVPPVDEQ
+23 88
+set6_frame2
+FSEALRWLAENLEEVALDQEAEGYDPTTEGTPLVPITEYSVQAMESDIFHKVLNGVGISPPADEQ
+Original query = HTEALNWLSENLEEVALDQEAEGFDPTSEGTPLVPISRESVQAIQDDLFRRVLKSLGIVPPVDEQ
+New query = FSEALRWLAENLEEVALDQEAEGYDPTTEGTPLVPITEYSVQAMESDIFHKVLNGVGISPPADEQ
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8287494,8287920,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,141,146
+
+19
+21
+Teinopalpus_imperialis,JAGSMU010000005.1,8286328,8286525,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_19,11,63,64
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8287494,8287920,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,141,146
+
+Getting Gene
+min = set25_frame2, 1.144
+5 top scores:
+[['set25_frame2', 1.144]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_25_frame2.fa.txt
+0 151
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21
+ETYWRIPSSLHYETIRKRREIITKAVNKELIIDNRAAPETKKDNNDNGNNGNHNINDESDASDDDLFDNLRKIAKKSSETDNNPKSKNRKRTRSFESDDENKKKQRKDNIKDKDDENENENKDSDDDLLSFVKNTLHTELPDTEDILNALP
+0 151
+set25_frame2
+EVYWRIPSHLHHEMIRKRREIILKAVNKELIVD-----ESEITNATEHTLENHH-EDKESSDDDDLFDSLRKLRDNTETTINKSINAATSRKRS-RSDGEEESRNEKLQKIDEAEEN------SDEDILSFAKKTLQCDEPDTEDILRNIR
+Original query = ETYWRIPSSLHYETIRKRREIITKAVNKELIIDNRAAPETKKDNNDNGNNGNHNINDESDASDDDLFDNLRKIAKKSSETDNNPKSKNRKRTRSFESDDENKKKQRKDNIKDKDDENENENKDSDDDLLSFVKNTLHTELPDTEDILNALPEHS
+New query = EVYWRIPSHLHHEMIRKRREIILKAVNKELIVD-----ESEITNATEHTLENHH-EDKESSDDDDLFDSLRKLRDNTETTINKSINAATSRKRS-RSDGEEESRNEKLQKIDEAEEN------SDEDILSFAKKTLQCDEPDTEDILRNIR
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8254943,8255126,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Teinopalpus_imperialis,JAGSMU010000005.1,8254615,8254868,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8255472,8255728,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set12_frame2, 0.148
+5 top scores:
+[['set1_frame0', 1.88], ['set16_frame1', 1.903], ['set12_frame2', 0.148], ['set24_frame2', 1.792]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_12_frame2.fa.txt
+11 72
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQNYKEEAFTKVDVWQMFSKKLAKVLEI
+11 72
+set12_frame2
+LIVNLTNPALLLYREEVPIERTARHNYLQILSHLQSYKEEAFTKVETWQVFSKKLAQILEI
+Original query = LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQNYKEEAFTKVDVWQMFSKKLAKVLEI
+New query = LIVNLTNPALLLYREEVPIERTARHNYLQILSHLQSYKEEAFTKVETWQVFSKKLAQILEI
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8255215,8255349,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Teinopalpus_imperialis,JAGSMU010000005.1,8254615,8254868,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8256650,8256847,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,64,65
+
+Getting Gene
+min = set14_frame0, 0.038
+5 top scores:
+[['set12_frame2', 1.689], ['set14_frame0', 0.038], ['set24_frame2', 1.74], ['set33_frame0', 1.735], ['set51_frame2', 1.76]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_14_frame0.fa.txt
+0 45
+Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+0 45
+set14_frame0
+DWSERDEDTGLVIERILILIRNVLHVPADLDKEKRPENDASVHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+New query = DWSERDEDTGLVIERILILIRNVLHVPADLDKEKRPENDASVHDQ
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8255472,8255728,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Teinopalpus_imperialis,JAGSMU010000005.1,8254943,8255126,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8257531,8257713,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set13_frame1, 0.182
+5 top scores:
+[['set65_frame0', 1.828], ['set13_frame1', 0.182], ['set40_frame1', 1.836]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_13_frame1.fa.txt
+2 87
+Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLASAALQRSMDEKVRDEQELLTIRMTETKERQNKIRQFSGT
+2 87
+set13_frame1
+VLWALNQSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLSNAALQRSMDEKLRDEQELLMIRMTESKDRLNKIKQYSAT
+Original query = VLWALNQSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLASAALQRSMDEKVRDEQELLTIRMTETKERQNKIRQFSGT
+New query = VLWALNQSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLSNAALQRSMDEKLRDEQELLMIRMTESKDRLNKIKQYSAT
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8256650,8256847,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,64,65
+
+3
+7
+Teinopalpus_imperialis,JAGSMU010000005.1,8255215,8255349,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8262771,8263058,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set39_frame2, 0.196
+5 top scores:
+[['set39_frame2', 0.196], ['set114_frame2', 1.755], ['set12_frame2', 1.817], ['set169_frame2', 1.829], ['set132_frame0', 1.86]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_39_frame2.fa.txt
+13 78
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVQNMKSISENEIISLKPLNNISSLDFNGSKKSRLVKPKNRRPVESGTLERRSAFAV
+13 78
+set39_frame2
+HSRFGGTYVVQNMKSISDNGIICLKPLNKISSLDFNGSKKTKLIKPKNRRPIESGVLERRSAFAV
+Original query = HSRFGGTYVVQNMKSISENEIISLKPLNNISSLDFNGSKKSRLVKPKNRRPVESGTLERRSAFAV
+New query = HSRFGGTYVVQNMKSISDNGIICLKPLNKISSLDFNGSKKTKLIKPKNRRPIESGVLERRSAFAV
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8257531,8257713,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+9
+Teinopalpus_imperialis,JAGSMU010000005.1,8255472,8255728,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8265414,8265570,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+Getting Gene
+min = set52_frame2, 0.083
+5 top scores:
+[['set52_frame2', 0.083], ['set81_frame2', 1.756], ['set109_frame1', 1.813], ['set157_frame2', 1.814], ['set128_frame1', 1.836]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_52_frame2.fa.txt
+9 69
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRSRAQQNDESYYLWAVKFFMEFNRGHHFQVGLV
+9 69
+set52_frame2
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRARAQQNDESYYLWAVKFFMEFNRGHNFHVGLV
+Original query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRSRAQQNDESYYLWAVKFFMEFNRGHHFQVGLV
+New query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRARAQQNDESYYLWAVKFFMEFNRGHNFHVGLV
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8262771,8263058,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Teinopalpus_imperialis,JAGSMU010000005.1,8256650,8256847,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,64,65
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8265414,8265570,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+Getting Gene
+min = set142_frame2, 0.1
+5 top scores:
+[['set142_frame2', 0.1], ['set98_frame0', 1.849], ['set174_frame1', 1.879], ['set131_frame1', 1.863], ['set182_frame2', 1.879]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_142_frame2.fa.txt
+5 100
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQMEKYYDMIKVEKKKFPAWVRRLHLSLRAYKELLNTLLAMDKSSDPTVKESAKVLKSNIFYVLEYREFILYTFLNYDDNKMP
+5 100
+set142_frame2
+ETMSVPMFHYVQQQMEKYYDMIKVEKKKFSSWVRRLHLALRAYKELLHTLLAMDKSSDPTVKESAKVLKSNIFYVLEYREFILTTFLNYDDNKMP
+Original query = ETMSVPMFHYVQQQMEKYYDMIKVEKKKFPAWVRRLHLSLRAYKELLNTLLAMDKSSDPTVKESAKVLKSNIFYVLEYREFILYTFLNYDDNKMP
+New query = ETMSVPMFHYVQQQMEKYYDMIKVEKKKFSSWVRRLHLALRAYKELLHTLLAMDKSSDPTVKESAKVLKSNIFYVLEYREFILTTFLNYDDNKMP
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8264263,8264381,0,Y,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_8,1,29,39
+
+6
+10
+Teinopalpus_imperialis,JAGSMU010000005.1,8257531,8257713,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8268134,8268214,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set142_frame1, 0.065
+5 top scores:
+[['set142_frame1', 0.065], ['set1_frame1', 1.685], ['set106_frame1', 1.687], ['set171_frame1', 1.687], ['set142_frame2', 1.699]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_142_frame1.fa.txt
+9 48
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLVETVHLFLKMLEYYCKKTGLVVQKKVRKKSKSK
+9 48
+set142_frame1
+SYLVDLIETVHLFLKMLEYYCKRTGLVVQKKVRKKSKAK
+Original query = SYLVDLVETVHLFLKMLEYYCKKTGLVVQKKVRKKSKSK
+New query = SYLVDLIETVHLFLKMLEYYCKRTGLVVQKKVRKKSKAK
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8265414,8265570,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+7
+11
+Teinopalpus_imperialis,JAGSMU010000005.1,8262771,8263058,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8268594,8268703,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Getting Gene
+min = set46_frame2, 0.564
+5 top scores:
+[['set46_frame2', 0.564], ['set11_frame2', 1.751], ['set56_frame2', 1.791], ['set63_frame2', 1.791], ['set87_frame0', 1.802]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_46_frame2.fa.txt
+9 60
+Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9
+KKLHLQKAKQVAVEVPAWDVLCPQIACVLSAGVNEYPPPFDAASDIPIDQQ
+9 60
+set46_frame2
+QKQRTQKLKSVLVEVPVWEELRPQIACVLSTGQHEYPPPFDAASDVPIDQQ
+Original query = KKLHLQKAKQVAVEVPAWDVLCPQIACVLSAGVNEYPPPFDAASDIPIDQQ
+New query = QKQRTQKLKSVLVEVPVWEELRPQIACVLSTGQHEYPPPFDAASDVPIDQQ
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8268134,8268214,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+7
+12
+13
+Teinopalpus_imperialis,JAGSMU010000005.1,8262771,8263058,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8270606,8270675,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Getting Gene
+min = set126_frame0, 0.276
+5 top scores:
+[['set126_frame0', 0.276], ['set134_frame2', 1.547], ['set7_frame1', 1.634], ['set41_frame1', 1.645], ['set148_frame2', 1.666]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_126_frame0.fa.txt
+12 38
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRESKFEDAIGTFRAA
+12 38
+set126_frame0
+EDCMKNIQKLMRECKYEDAVGIFRAA
+Original query = EDCMKKIQKLMRESKFEDAIGTFRAA
+New query = EDCMKNIQKLMRECKYEDAVGIFRAA
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8268594,8268703,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+9
+13
+Teinopalpus_imperialis,JAGSMU010000005.1,8265414,8265570,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8270606,8270675,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Getting Gene
+min = set52_frame1, 0.248
+5 top scores:
+[['set52_frame1', 0.248], ['set95_frame1', 1.684], ['set13_frame2', 1.762], ['set106_frame2', 1.764], ['set100_frame2', 1.781]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_52_frame1.fa.txt
+1 37
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGVSGIAEDEELEMLQTIYNTDLGVEVN
+1 37
+set52_frame1
+EVWQEEGIFGINGIAEDEELDMLQTIYNTDLGVVVN
+Original query = EVWPEEGIFGVSGIAEDEELEMLQTIYNTDLGVEVN
+New query = EVWQEEGIFGINGIAEDEELDMLQTIYNTDLGVVVN
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,0,0,0,Y,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_12,0,0,17
+
+10
+14
+Teinopalpus_imperialis,JAGSMU010000005.1,8268134,8268214,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8272792,8272990,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set17_frame1, 0.983
+5 top scores:
+[['set17_frame1', 0.983], ['set112_frame1', 1.497], ['set66_frame2', 1.548], ['set57_frame2', 1.561], ['set78_frame1', 1.594]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_17_frame1.fa.txt
+0 42
+Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_12
+VP-------------------------EVEDESQDGYDNEED
+0 42
+set17_frame1
+LSRTDLICINVLLFHGYKYIHHFTETVEKEDVSQDDLDNEEG
+Original query = VPEVEDESQDGYDNEED
+New query = LSRTDLICINVLLFHGYKYIHHFTETVEKEDVSQDDLDNEEG
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8270606,8270675,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+11
+15
+Teinopalpus_imperialis,JAGSMU010000005.1,8268594,8268703,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8273644,8273792,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set44_frame1, 0.351
+5 top scores:
+[['set44_frame1', 0.351], ['set52_frame1', 1.606], ['set57_frame2', 1.606], ['set97_frame2', 1.623], ['set95_frame1', 1.674]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_44_frame1.fa.txt
+15 37
+Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13
+EEEEANTTSVVETDFDFQDFVQ
+15 37
+set44_frame1
+EEDAENTAAVVETDFDFQDFVQ
+Original query = EEEEANTTSVVETDFDFQDFVQ
+New query = EEDAENTAAVVETDFDFQDFVQ
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8272792,8272990,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Teinopalpus_imperialis,JAGSMU010000005.1,8268594,8268703,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8274792,8274886,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Getting Gene
+min = set97_frame2, 0.265
+5 top scores:
+[['set97_frame2', 0.265], ['set55_frame0', 1.818], ['set108_frame2', 1.847], ['set73_frame0', 1.857], ['set56_frame1', 1.865]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_97_frame2.fa.txt
+10 76
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14
+FCQPRVVSACAYLLERYEKNSAYTNHCIIKMLHRIAWDCKRPSMMFQASMFLTFQKIFHNPLPHFK
+10 76
+set97_frame2
+FCHPRVVSACAFILERYEQNTAHTNHCVVKMLHRIALDCRRPSMIFQATLFLTFQKIFHNPMPHFK
+Original query = FCQPRVVSACAYLLERYEKNSAYTNHCIIKMLHRIAWDCKRPSMMFQASMFLTFQKIFHNPLPHFK
+New query = FCHPRVVSACAFILERYEQNTAHTNHCVVKMLHRIALDCRRPSMIFQATLFLTFQKIFHNPMPHFK
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8273644,8273792,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+17
+Teinopalpus_imperialis,JAGSMU010000005.1,8270606,8270675,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8275081,8275290,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,68,69
+
+Getting Gene
+min = set52_frame2, 0.146
+5 top scores:
+[['set52_frame2', 0.146], ['set29_frame1', 1.762], ['set28_frame2', 1.77], ['set30_frame2', 1.787], ['set46_frame0', 1.736]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_52_frame2.fa.txt
+9 58
+Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFGLFVFRKFSEVALKNTKVFIELLFWKSSKDAIDIEHGYDLYSDQ
+9 58
+set52_frame2
+ELEKFGLFIFRKFAAVATKNTKVFIELLFWKSSKDAIEIEHGYDLYSDQ
+Original query = ELEKFGLFVFRKFSEVALKNTKVFIELLFWKSSKDAIDIEHGYDLYSDQ
+New query = ELEKFGLFIFRKFAAVATKNTKVFIELLFWKSSKDAIEIEHGYDLYSDQ
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8274792,8274886,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+14
+18
+Teinopalpus_imperialis,JAGSMU010000005.1,8272792,8272990,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8285942,8286103,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,52,53
+
+Getting Gene
+min = set39_frame0, 0.32
+5 top scores:
+[['set39_frame0', 0.32], ['set63_frame2', 1.559], ['set111_frame0', 1.621], ['set221_frame2', 1.682], ['set21_frame0', 1.649]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_39_frame0.fa.txt
+10 41
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16
+DKVGKGHWSEEQEDELRNLFMENQTNPTTEK
+10 41
+set39_frame0
+DKLGKGVWTEEQENELRNLYMENQSNPTTEK
+Original query = DKVGKGHWSEEQEDELRNLFMENQTNPTTEK
+New query = DKLGKGVWTEEQENELRNLYMENQSNPTTEK
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8275081,8275290,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,68,69
+
+15
+19
+Teinopalpus_imperialis,JAGSMU010000005.1,8273644,8273792,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8286328,8286525,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_19,11,63,64
+
+Getting Gene
+min = set37_frame2, 0.331
+5 top scores:
+[['set37_frame2', 0.331], ['set37_frame0', 1.768], ['set227_frame2', 1.781], ['set143_frame2', 1.796], ['set105_frame1', 1.823]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_37_frame2.fa.txt
+6 75
+Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRGVIKKLKELGLIFKAPTKRSNKERLKEKVPKEFSEEEDSLLIELWKQYGDSS
+6 75
+set37_frame2
+VIDWILENLIDQTRTRRSVIKKLKELGLIFKAPTKKSNHERNRERVPKEFSAEEDALLTELWKLYADSP
+Original query = VIDWILDNLIDQTRTRRGVIKKLKELGLIFKAPTKRSNKERLKEKVPKEFSEEEDSLLIELWKQYGDSS
+New query = VIDWILENLIDQTRTRRSVIKKLKELGLIFKAPTKKSNHERNRERVPKEFSAEEDALLTELWKLYADSP
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8285942,8286103,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,52,53
+
+16
+20
+Teinopalpus_imperialis,JAGSMU010000005.1,8274792,8274886,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8286605,8286801,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set156_frame1, 0.67
+5 top scores:
+[['set156_frame1', 0.67], ['set21_frame0', 1.663], ['set108_frame0', 1.703], ['set62_frame1', 1.718], ['set70_frame1', 1.727]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_156_frame1.fa.txt
+8 61
+Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18
+PMGIIIPRMPRKRPRRSFVERLLELDLIQDKRQCRQKKQQKSKSDGNNSDRSD
+8 61
+set156_frame1
+PMGVIVPRMLRKRPKQIFVERLLELDLIRDKKECRKKKQAKLKSNEIEGDTSL
+Original query = PMGIIIPRMPRKRPRRSFVERLLELDLIQDKRQCRQKKQQKSKSDGNNSDRSD
+New query = PMGVIVPRMLRKRPKQIFVERLLELDLIRDKKECRKKKQAKLKSNEIEGDTSL
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8286328,8286525,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_19,11,63,64
+
+17
+21
+Teinopalpus_imperialis,JAGSMU010000005.1,8275081,8275290,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,68,69
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8287494,8287920,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,141,146
+
+Getting Gene
+min = set191_frame2, 0.888
+5 top scores:
+[['set191_frame2', 0.888], ['set215_frame2', 1.634], ['set73_frame1', 1.721], ['set1_frame2', 1.747], ['set125_frame2', 1.749]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_191_frame2.fa.txt
+23 88
+Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_19
+SSSSSESDESDSDSNIRVRS-PKIKKNIKKIDKRRTDASSNRKANKTVELSANEIAKLLVQAVNK
+23 88
+set191_frame2
+SSDSESSDGNESDTSVKVRSPPKTKKAVKKAHKERQQARANKKSIKNIDLSASEIAKLLLQAVDS
+Original query = SSSSSESDESDSDSNIRVRSPKIKKNIKKIDKRRTDASSNRKANKTVELSANEIAKLLVQAVNK
+New query = SSDSESSDGNESDTSVKVRSPPKTKKAVKKAHKERQQARANKKSIKNIDLSASEIAKLLLQAVDS
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8286605,8286801,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+18
+21
+Teinopalpus_imperialis,JAGSMU010000005.1,8285942,8286103,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,52,53
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8287494,8287920,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,141,146
+
+Getting Gene
+min = set6_frame2, 0.343
+5 top scores:
+[['set24_frame2', 1.843], ['set14_frame2', 1.885], ['set36_frame1', 1.839], ['set1_frame2', 1.858], ['set6_frame2', 0.343]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_6_frame2.fa.txt
+23 88
+Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20
+FSEALKWVAENLEEVALDQEAEGYDPSAEGTPLVPISDDSVQAMDNRMFHKVLKGVGILPPADEQ
+23 88
+set6_frame2
+FSEALRWLAENLEEVALDQEAEGYDPTTEGTPLVPITEYSVQAMESDIFHKVLNGVGISPPADEQ
+Original query = FSEALKWVAENLEEVALDQEAEGYDPSAEGTPLVPISDDSVQAMDNRMFHKVLKGVGILPPADEQ
+New query = FSEALRWLAENLEEVALDQEAEGYDPTTEGTPLVPITEYSVQAMESDIFHKVLNGVGISPPADEQ
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8287494,8287920,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,141,146
+
+19
+21
+Teinopalpus_imperialis,JAGSMU010000005.1,8286328,8286525,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_19,11,63,64
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8287494,8287920,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,141,146
+
+Getting Gene
+min = set25_frame2, 0.763
+5 top scores:
+[['set25_frame2', 0.763]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_25_frame2.fa.txt
+0 145
+set25_frame2
+EVYWRIPSHLHHEMIRKRREIILKAVNKELIVDESEITNATEHTLENHHEDKESSDDDDLFDSLRKLRD-NTETTINKSINAATSRKRSRSDGEEESRNEKLQKIDEA--EENSDEDILSFAKKTLQC-DEPDTEDILRNIRVRD
+Original query = ETYWRIPSHLHFNTIRKRREIILKAINKELIINDAEISNTITAEESEKNEKEESSDDEDLFDSLRKLRDNNTEEYVNKSNNKTNTRKRSRSSDDEDNGKEKLQRIEEELIEKSDEEDILSFAKKTLQCDDEPDTEDILKSIPKHIS
+New query = EVYWRIPSHLHHEMIRKRREIILKAVNKELIVDESEITNATEHTLENHHEDKESSDDDDLFDSLRKLRD-NTETTINKSINAATSRKRSRSDGEEESRNEKLQKIDEA--EENSDEDILSFAKKTLQC-DEPDTEDILRNIRVRD
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8254943,8255126,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Teinopalpus_imperialis,JAGSMU010000005.1,8254615,8254868,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8255472,8255728,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set12_frame2, 0.148
+5 top scores:
+[['set1_frame0', 1.88], ['set16_frame1', 1.903], ['set12_frame2', 0.148], ['set24_frame2', 1.792]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_12_frame2.fa.txt
+11 72
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQNYKEEAFTKVDVWQMFSKKLAKVLEI
+11 72
+set12_frame2
+LIVNLTNPALLLYREEVPIERTARHNYLQILSHLQSYKEEAFTKVETWQVFSKKLAQILEI
+Original query = LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQNYKEEAFTKVDVWQMFSKKLAKVLEI
+New query = LIVNLTNPALLLYREEVPIERTARHNYLQILSHLQSYKEEAFTKVETWQVFSKKLAQILEI
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8255215,8255349,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Teinopalpus_imperialis,JAGSMU010000005.1,8254615,8254868,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8256650,8256847,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,64,65
+
+Getting Gene
+min = set14_frame0, 0.038
+5 top scores:
+[['set12_frame2', 1.689], ['set14_frame0', 0.038], ['set24_frame2', 1.74], ['set33_frame0', 1.735], ['set51_frame2', 1.76]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_14_frame0.fa.txt
+0 45
+Papilio_machaon_XM_045678832.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+0 45
+set14_frame0
+DWSERDEDTGLVIERILILIRNVLHVPADLDKEKRPENDASVHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+New query = DWSERDEDTGLVIERILILIRNVLHVPADLDKEKRPENDASVHDQ
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8255472,8255728,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Teinopalpus_imperialis,JAGSMU010000005.1,8254943,8255126,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8257531,8257713,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set13_frame1, 0.179
+5 top scores:
+[['set65_frame0', 1.828], ['set13_frame1', 0.179], ['set40_frame1', 1.836]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_13_frame1.fa.txt
+2 87
+Papilio_machaon_XM_045678832.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQSGLLDIILYMSSENEKQYFMHILEIISHLLREQNPTSLASAALQRSMDEKVRDEQELLTIRMTETKERQNKIRQYSGT
+2 87
+set13_frame1
+VLWALNQSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLSNAALQRSMDEKLRDEQELLMIRMTESKDRLNKIKQYSAT
+Original query = VLWALNQSGLLDIILYMSSENEKQYFMHILEIISHLLREQNPTSLASAALQRSMDEKVRDEQELLTIRMTETKERQNKIRQYSGT
+New query = VLWALNQSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLSNAALQRSMDEKLRDEQELLMIRMTESKDRLNKIKQYSAT
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8256650,8256847,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,64,65
+
+3
+7
+Teinopalpus_imperialis,JAGSMU010000005.1,8255215,8255349,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8262771,8263058,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set39_frame2, 0.21
+5 top scores:
+[['set39_frame2', 0.21], ['set114_frame2', 1.757], ['set169_frame2', 1.842], ['set120_frame0', 1.826], ['set132_frame0', 1.863]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_39_frame2.fa.txt
+13 78
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVQNMKSISDNEIISLKPLNNISSLDFNGSKKSRLVKPKHRRPVESGALERRSAFAV
+13 78
+set39_frame2
+HSRFGGTYVVQNMKSISDNGIICLKPLNKISSLDFNGSKKTKLIKPKNRRPIESGVLERRSAFAV
+Original query = HSRFGGTYVVQNMKSISDNEIISLKPLNNISSLDFNGSKKSRLVKPKHRRPVESGALERRSAFAV
+New query = HSRFGGTYVVQNMKSISDNGIICLKPLNKISSLDFNGSKKTKLIKPKNRRPIESGVLERRSAFAV
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8257531,8257713,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+9
+Teinopalpus_imperialis,JAGSMU010000005.1,8255472,8255728,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8265414,8265570,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+Getting Gene
+min = set52_frame2, 0.044
+5 top scores:
+[['set52_frame2', 0.044], ['set81_frame2', 1.756], ['set116_frame1', 1.81], ['set121_frame2', 1.813], ['set157_frame2', 1.814]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_52_frame2.fa.txt
+9 69
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRSRAQQNDESYYLWAVKFFMEFNRGHNFQVGLV
+9 69
+set52_frame2
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRARAQQNDESYYLWAVKFFMEFNRGHNFHVGLV
+Original query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRSRAQQNDESYYLWAVKFFMEFNRGHNFQVGLV
+New query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRARAQQNDESYYLWAVKFFMEFNRGHNFHVGLV
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8262771,8263058,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Teinopalpus_imperialis,JAGSMU010000005.1,8256650,8256847,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,64,65
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8265414,8265570,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+Getting Gene
+min = set142_frame2, 0.154
+5 top scores:
+[['set142_frame2', 0.154], ['set98_frame0', 1.856], ['set182_frame2', 1.879], ['set131_frame1', 1.863], ['set139_frame1', 1.877]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_142_frame2.fa.txt
+5 100
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQMEKYYDMIKVEKKKFPAWVRRLHLSLRAYKELLNTLLAMDKSNDSTVKDSAKVLKSNIFYVLEYREFILYTFLNYDDNKMP
+5 100
+set142_frame2
+ETMSVPMFHYVQQQMEKYYDMIKVEKKKFSSWVRRLHLALRAYKELLHTLLAMDKSSDPTVKESAKVLKSNIFYVLEYREFILTTFLNYDDNKMP
+Original query = ETMSVPMFHYVQQQMEKYYDMIKVEKKKFPAWVRRLHLSLRAYKELLNTLLAMDKSNDSTVKDSAKVLKSNIFYVLEYREFILYTFLNYDDNKMP
+New query = ETMSVPMFHYVQQQMEKYYDMIKVEKKKFSSWVRRLHLALRAYKELLHTLLAMDKSSDPTVKESAKVLKSNIFYVLEYREFILTTFLNYDDNKMP
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8264263,8264381,0,Y,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_8,1,29,39
+
+6
+10
+Teinopalpus_imperialis,JAGSMU010000005.1,8257531,8257713,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8268134,8268214,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set142_frame1, 0.117
+5 top scores:
+[['set142_frame1', 0.117], ['set83_frame0', 1.685], ['set171_frame1', 1.687], ['set115_frame0', 1.697], ['set142_frame2', 1.7]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_142_frame1.fa.txt
+9 48
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKSKSK
+9 48
+set142_frame1
+SYLVDLIETVHLFLKMLEYYCKRTGLVVQKKVRKKSKAK
+Original query = SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKSKSK
+New query = SYLVDLIETVHLFLKMLEYYCKRTGLVVQKKVRKKSKAK
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8265414,8265570,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+7
+11
+Teinopalpus_imperialis,JAGSMU010000005.1,8262771,8263058,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8268594,8268703,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Getting Gene
+min = set46_frame2, 0.556
+5 top scores:
+[['set46_frame2', 0.556], ['set11_frame2', 1.741], ['set63_frame2', 1.803], ['set40_frame2', 1.845], ['set87_frame0', 1.796]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_46_frame2.fa.txt
+9 60
+Papilio_machaon_XM_045678832.1_Frame_2_rightoh_2_query_Exon_9
+KKHQAQKVKHVPVEVPAWDVLCPQIACVLSAGLNEYPPPFDAASDVPIDQQ
+9 60
+set46_frame2
+QKQRTQKLKSVLVEVPVWEELRPQIACVLSTGQHEYPPPFDAASDVPIDQQ
+Original query = KKHQAQKVKHVPVEVPAWDVLCPQIACVLSAGLNEYPPPFDAASDVPIDQQ
+New query = QKQRTQKLKSVLVEVPVWEELRPQIACVLSTGQHEYPPPFDAASDVPIDQQ
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8268134,8268214,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+7
+12
+13
+Teinopalpus_imperialis,JAGSMU010000005.1,8262771,8263058,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8270606,8270675,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Getting Gene
+min = set126_frame0, 0.276
+5 top scores:
+[['set126_frame0', 0.276], ['set134_frame2', 1.547], ['set7_frame1', 1.634], ['set41_frame1', 1.645], ['set148_frame2', 1.666]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_126_frame0.fa.txt
+12 38
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRESKFEDAIGTFRAA
+12 38
+set126_frame0
+EDCMKNIQKLMRECKYEDAVGIFRAA
+Original query = EDCMKKIQKLMRESKFEDAIGTFRAA
+New query = EDCMKNIQKLMRECKYEDAVGIFRAA
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8268594,8268703,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+9
+13
+Teinopalpus_imperialis,JAGSMU010000005.1,8265414,8265570,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8270606,8270675,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Getting Gene
+min = set52_frame1, 0.325
+5 top scores:
+[['set52_frame1', 0.325], ['set95_frame1', 1.69], ['set20_frame2', 1.743], ['set106_frame2', 1.771], ['set7_frame1', 1.803]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_52_frame1.fa.txt
+1 37
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGVSGIPEDEELEMLQTIYNTDLGVEVN
+1 37
+set52_frame1
+EVWQEEGIFGINGIAEDEELDMLQTIYNTDLGVVVN
+Original query = EVWPEEGIFGVSGIPEDEELEMLQTIYNTDLGVEVN
+New query = EVWQEEGIFGINGIAEDEELDMLQTIYNTDLGVVVN
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,0,0,0,Y,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_12,0,0,17
+
+10
+14
+Teinopalpus_imperialis,JAGSMU010000005.1,8268134,8268214,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8272792,8272990,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set17_frame1, 1.136
+5 top scores:
+[['set17_frame1', 1.136], ['set112_frame1', 1.548], ['set66_frame2', 1.552], ['set57_frame2', 1.561], ['set86_frame2', 1.617]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_17_frame1.fa.txt
+0 41
+Papilio_machaon_XM_045678832.1_Frame_2_rightoh_1_query_Exon_12
+VP-------------------------EVEDESQDGYDYEE
+0 41
+set17_frame1
+LSRTDLICINVLLFHGYKYIHHFTETVEKEDVSQDDLDNEE
+Original query = VPEVEDESQDGYDYEEE
+New query = LSRTDLICINVLLFHGYKYIHHFTETVEKEDVSQDDLDNEE
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8270606,8270675,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+11
+15
+Teinopalpus_imperialis,JAGSMU010000005.1,8268594,8268703,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8273644,8273792,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set44_frame1, 0.361
+5 top scores:
+[['set44_frame1', 0.361], ['set57_frame2', 1.606], ['set18_frame1', 1.615], ['set22_frame1', 1.631], ['set78_frame2', 1.647]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_44_frame1.fa.txt
+15 37
+Papilio_machaon_XM_045678832.1_Frame_2_rightoh_2_query_Exon_13
+EEDEANATSVVETDFDFQDFVQ
+15 37
+set44_frame1
+EEDAENTAAVVETDFDFQDFVQ
+Original query = EEDEANATSVVETDFDFQDFVQ
+New query = EEDAENTAAVVETDFDFQDFVQ
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8272792,8272990,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Teinopalpus_imperialis,JAGSMU010000005.1,8268594,8268703,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8274792,8274886,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Getting Gene
+min = set97_frame2, 0.24
+5 top scores:
+[['set97_frame2', 0.24], ['set55_frame0', 1.818], ['set108_frame2', 1.847], ['set73_frame0', 1.857], ['set76_frame1', 1.863]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_97_frame2.fa.txt
+10 76
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_0_query_Exon_14
+FCHPRVVSACAYLLERYEKNSAYTNHCIIKMLHRIAWDCKRPSMMFQASMFLTFQKIFHNPLPHFK
+10 76
+set97_frame2
+FCHPRVVSACAFILERYEQNTAHTNHCVVKMLHRIALDCRRPSMIFQATLFLTFQKIFHNPMPHFK
+Original query = FCHPRVVSACAYLLERYEKNSAYTNHCIIKMLHRIAWDCKRPSMMFQASMFLTFQKIFHNPLPHFK
+New query = FCHPRVVSACAFILERYEQNTAHTNHCVVKMLHRIALDCRRPSMIFQATLFLTFQKIFHNPMPHFK
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8273644,8273792,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+17
+Teinopalpus_imperialis,JAGSMU010000005.1,8270606,8270675,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8275081,8275290,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,68,69
+
+Getting Gene
+min = set52_frame2, 0.146
+5 top scores:
+[['set52_frame2', 0.146], ['set29_frame1', 1.762], ['set28_frame2', 1.77], ['set30_frame2', 1.787], ['set46_frame0', 1.736]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_52_frame2.fa.txt
+9 58
+Papilio_machaon_XM_045678832.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFGLFVFRKFSEVALKNTKVFIELLFWKSSKDAIDIEHGYDLYSDQ
+9 58
+set52_frame2
+ELEKFGLFIFRKFAAVATKNTKVFIELLFWKSSKDAIEIEHGYDLYSDQ
+Original query = ELEKFGLFVFRKFSEVALKNTKVFIELLFWKSSKDAIDIEHGYDLYSDQ
+New query = ELEKFGLFIFRKFAAVATKNTKVFIELLFWKSSKDAIEIEHGYDLYSDQ
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8274792,8274886,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+14
+18
+Teinopalpus_imperialis,JAGSMU010000005.1,8272792,8272990,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8285942,8286103,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,52,53
+
+Getting Gene
+min = set39_frame0, 0.32
+5 top scores:
+[['set39_frame0', 0.32], ['set63_frame2', 1.559], ['set111_frame0', 1.621], ['set221_frame2', 1.682], ['set21_frame0', 1.649]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_39_frame0.fa.txt
+10 41
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_1_query_Exon_16
+DKVGKGHWSEEQEDELRNLFMENQTNPTTEK
+10 41
+set39_frame0
+DKLGKGVWTEEQENELRNLYMENQSNPTTEK
+Original query = DKVGKGHWSEEQEDELRNLFMENQTNPTTEK
+New query = DKLGKGVWTEEQENELRNLYMENQSNPTTEK
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8275081,8275290,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,68,69
+
+15
+19
+Teinopalpus_imperialis,JAGSMU010000005.1,8273644,8273792,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8286328,8286525,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_19,11,63,64
+
+Getting Gene
+min = set37_frame2, 0.336
+5 top scores:
+[['set37_frame2', 0.336], ['set37_frame0', 1.768], ['set94_frame2', 1.774], ['set83_frame2', 1.792], ['set117_frame2', 1.793]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_37_frame2.fa.txt
+6 75
+Papilio_machaon_XM_045678832.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRGVIKKLKELGLIFKAPTKRSTKERFKEKVPKEFSEEEDSLLIELWKQYGDSP
+6 75
+set37_frame2
+VIDWILENLIDQTRTRRSVIKKLKELGLIFKAPTKKSNHERNRERVPKEFSAEEDALLTELWKLYADSP
+Original query = VIDWILDNLIDQTRTRRGVIKKLKELGLIFKAPTKRSTKERFKEKVPKEFSEEEDSLLIELWKQYGDSP
+New query = VIDWILENLIDQTRTRRSVIKKLKELGLIFKAPTKKSNHERNRERVPKEFSAEEDALLTELWKLYADSP
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8285942,8286103,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,52,53
+
+16
+20
+Teinopalpus_imperialis,JAGSMU010000005.1,8274792,8274886,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8286605,8286801,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set156_frame1, 0.618
+5 top scores:
+[['set156_frame1', 0.618], ['set21_frame0', 1.676], ['set108_frame0', 1.693], ['set54_frame2', 1.712], ['set70_frame1', 1.736]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_156_frame1.fa.txt
+8 61
+Papilio_machaon_XM_045678832.1_Frame_2_rightoh_1_query_Exon_18
+PMGVIIPRMPRKRPKRSFVERLLELDLIQDKRQCRKKKQRKSKSDGNNSDRSD
+8 61
+set156_frame1
+PMGVIVPRMLRKRPKQIFVERLLELDLIRDKKECRKKKQAKLKSNEIEGDTSL
+Original query = PMGVIIPRMPRKRPKRSFVERLLELDLIQDKRQCRKKKQRKSKSDGNNSDRSD
+New query = PMGVIVPRMLRKRPKQIFVERLLELDLIRDKKECRKKKQAKLKSNEIEGDTSL
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8286328,8286525,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_19,11,63,64
+
+17
+21
+Teinopalpus_imperialis,JAGSMU010000005.1,8275081,8275290,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,68,69
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8287494,8287920,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,141,146
+
+Getting Gene
+min = set191_frame2, 0.832
+5 top scores:
+[['set191_frame2', 0.832], ['set215_frame2', 1.619], ['set8_frame2', 1.748], ['set125_frame2', 1.766], ['set180_frame2', 1.768]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_191_frame2.fa.txt
+22 88
+Papilio_machaon_XM_045678832.1_Frame_2_rightoh_1_query_Exon_19
+SSSSSESSDESDSDNNIKVRS-PKVKKNIQKIDKRKTDASKNRKANKTIELSANEIAKLLVQAVDN
+22 88
+set191_frame2
+SSSDSESSDGNESDTSVKVRSPPKTKKAVKKAHKERQQARANKKSIKNIDLSASEIAKLLLQAVDS
+Original query = SSSSSESSDESDSDNNIKVRSPKVKKNIQKIDKRKTDASKNRKANKTIELSANEIAKLLVQAVDN
+New query = SSSDSESSDGNESDTSVKVRSPPKTKKAVKKAHKERQQARANKKSIKNIDLSASEIAKLLLQAVDS
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8286605,8286801,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+18
+21
+Teinopalpus_imperialis,JAGSMU010000005.1,8285942,8286103,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,52,53
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8287494,8287920,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,141,146
+
+Getting Gene
+min = set6_frame2, 0.376
+5 top scores:
+[['set24_frame2', 1.843], ['set14_frame2', 1.87], ['set36_frame1', 1.859], ['set1_frame2', 1.84], ['set6_frame2', 0.376]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_6_frame2.fa.txt
+23 88
+Papilio_machaon_XM_045678832.1_Frame_2_rightoh_0_query_Exon_20
+FGEALKWVAENLEEVALDQEAEGYDPNAEGTPLVPISDDSVQAMENQMFHKVLKGIGLLPPADEQ
+23 88
+set6_frame2
+FSEALRWLAENLEEVALDQEAEGYDPTTEGTPLVPITEYSVQAMESDIFHKVLNGVGISPPADEQ
+Original query = FGEALKWVAENLEEVALDQEAEGYDPNAEGTPLVPISDDSVQAMENQMFHKVLKGIGLLPPADEQ
+New query = FSEALRWLAENLEEVALDQEAEGYDPTTEGTPLVPITEYSVQAMESDIFHKVLNGVGISPPADEQ
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8287494,8287920,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,141,146
+
+19
+21
+Teinopalpus_imperialis,JAGSMU010000005.1,8286328,8286525,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_19,11,63,64
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8287494,8287920,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,141,146
+
+Getting Gene
+min = set25_frame2, 0.751
+5 top scores:
+[['set25_frame2', 0.751]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_25_frame2.fa.txt
+0 146
+set25_frame2
+EVYWRIPSHLHHEMIRKRREIILKAVNKELIVDESEITNATEHTLENHHEDKESSDDDDLFDSLRKLRD-NTETTINKSINAATSRKRSRSDGEEESRNEKLQKIDE---AEENSDEDILSFAKKTLQC-DEPDTEDILRNIRVRD
+Original query = ETYWRIPSHLHFDTIRKRREIILKAINKELIINDEEITNNIISEESEKNEKEESSDDEDLFDSLRKLRDNNTEEYVNKSMNKTNTRKRSRSSDDEDNGKEKLQRIEEEQIEEKSDEEDILSFAKKTLQCEDEPDTEDILKSIPKHNS
+New query = EVYWRIPSHLHHEMIRKRREIILKAVNKELIVDESEITNATEHTLENHHEDKESSDDDDLFDSLRKLRD-NTETTINKSINAATSRKRSRSDGEEESRNEKLQKIDE---AEENSDEDILSFAKKTLQC-DEPDTEDILRNIRVRD
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8254943,8255126,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Teinopalpus_imperialis,JAGSMU010000005.1,8254615,8254868,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8255472,8255728,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set12_frame2, 0.071
+5 top scores:
+[['set1_frame0', 1.837], ['set16_frame1', 1.903], ['set12_frame2', 0.071], ['set24_frame2', 1.794]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_12_frame2.fa.txt
+11 72
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPAERSARHNYLQILSHLQSYKEEAFTKVETWQVFSKKLAKILEI
+11 72
+set12_frame2
+LIVNLTNPALLLYREEVPIERTARHNYLQILSHLQSYKEEAFTKVETWQVFSKKLAQILEI
+Original query = LIVNLTNPALLLYREEVPAERSARHNYLQILSHLQSYKEEAFTKVETWQVFSKKLAKILEI
+New query = LIVNLTNPALLLYREEVPIERTARHNYLQILSHLQSYKEEAFTKVETWQVFSKKLAQILEI
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8255215,8255349,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Teinopalpus_imperialis,JAGSMU010000005.1,8254615,8254868,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8256650,8256847,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,64,65
+
+Getting Gene
+min = set14_frame0, 0.049
+5 top scores:
+[['set12_frame2', 1.689], ['set14_frame0', 0.049], ['set24_frame2', 1.74], ['set33_frame0', 1.735], ['set51_frame2', 1.749]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_14_frame0.fa.txt
+0 45
+Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+0 45
+set14_frame0
+DWSERDEDTGLVIERILILIRNVLHVPADLDKEKRPENDASVHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+New query = DWSERDEDTGLVIERILILIRNVLHVPADLDKEKRPENDASVHDQ
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8255472,8255728,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Teinopalpus_imperialis,JAGSMU010000005.1,8254943,8255126,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8257531,8257713,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set13_frame1, 0.159
+5 top scores:
+[['set65_frame0', 1.828], ['set13_frame1', 0.159], ['set40_frame1', 1.871]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_13_frame1.fa.txt
+2 87
+Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMMRMSESKERLNKVKLYSAT
+2 87
+set13_frame1
+VLWALNQSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLSNAALQRSMDEKLRDEQELLMIRMTESKDRLNKIKQYSAT
+Original query = VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMMRMSESKERLNKVKLYSAT
+New query = VLWALNQSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLSNAALQRSMDEKLRDEQELLMIRMTESKDRLNKIKQYSAT
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8256650,8256847,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,64,65
+
+3
+7
+Teinopalpus_imperialis,JAGSMU010000005.1,8255215,8255349,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8262771,8263058,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set39_frame2, 0.236
+5 top scores:
+[['set39_frame2', 0.236], ['set114_frame2', 1.77], ['set169_frame2', 1.846], ['set120_frame0', 1.855], ['set132_frame0', 1.864]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_39_frame2.fa.txt
+13 78
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVQNMKSISENQLISLKPLNKISDLDFNGSKKSKLVRPKNRRPVESGFLERRSAFAI
+13 78
+set39_frame2
+HSRFGGTYVVQNMKSISDNGIICLKPLNKISSLDFNGSKKTKLIKPKNRRPIESGVLERRSAFAV
+Original query = HSRFGGTYVVQNMKSISENQLISLKPLNKISDLDFNGSKKSKLVRPKNRRPVESGFLERRSAFAI
+New query = HSRFGGTYVVQNMKSISDNGIICLKPLNKISSLDFNGSKKTKLIKPKNRRPIESGVLERRSAFAV
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8257531,8257713,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+9
+Teinopalpus_imperialis,JAGSMU010000005.1,8255472,8255728,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8265414,8265570,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+Getting Gene
+min = set52_frame2, 0.091
+5 top scores:
+[['set52_frame2', 0.091], ['set81_frame2', 1.76], ['set109_frame1', 1.804], ['set157_frame2', 1.809], ['set128_frame1', 1.822]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_52_frame2.fa.txt
+9 69
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNTSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+9 69
+set52_frame2
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRARAQQNDESYYLWAVKFFMEFNRGHNFHVGLV
+Original query = LFLKEFCIEFLNTSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+New query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRARAQQNDESYYLWAVKFFMEFNRGHNFHVGLV
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8262771,8263058,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Teinopalpus_imperialis,JAGSMU010000005.1,8256650,8256847,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,64,65
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8265414,8265570,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+Getting Gene
+min = set142_frame2, 0.176
+5 top scores:
+[['set142_frame2', 0.176], ['set174_frame1', 1.857], ['set182_frame2', 1.887], ['set131_frame1', 1.871], ['set139_frame1', 1.894]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_142_frame2.fa.txt
+5 100
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQLEKYYDMIKIEKKKFAPWVRRLHLSLRAYKELLNTLLAMDKSTDDSVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+5 100
+set142_frame2
+ETMSVPMFHYVQQQMEKYYDMIKVEKKKFSSWVRRLHLALRAYKELLHTLLAMDKSSDPTVKESAKVLKSNIFYVLEYREFILTTFLNYDDNKMP
+Original query = ETMSVPMFHYVQQQLEKYYDMIKIEKKKFAPWVRRLHLSLRAYKELLNTLLAMDKSTDDSVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+New query = ETMSVPMFHYVQQQMEKYYDMIKVEKKKFSSWVRRLHLALRAYKELLHTLLAMDKSSDPTVKESAKVLKSNIFYVLEYREFILTTFLNYDDNKMP
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8264263,8264381,0,Y,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_8,1,29,39
+
+6
+10
+Teinopalpus_imperialis,JAGSMU010000005.1,8257531,8257713,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8268134,8268214,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set142_frame1, 0.227
+5 top scores:
+[['set142_frame1', 0.227], ['set171_frame1', 1.687], ['set115_frame0', 1.714], ['set164_frame1', 1.72], ['set142_frame2', 1.727]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_142_frame1.fa.txt
+9 50
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLIETIHLFLKMLEHYCKKTGLMVQKKVRRKAKTKSK
+9 50
+set142_frame1
+SYLVDLIETVHLFLKMLEYYCKRTGLVVQKKVRKKSKAKSK
+Original query = SYLVDLIETIHLFLKMLEHYCKKTGLMVQKKVRRKAKTKSK
+New query = SYLVDLIETVHLFLKMLEYYCKRTGLVVQKKVRKKSKAKSK
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8265414,8265570,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+7
+11
+Teinopalpus_imperialis,JAGSMU010000005.1,8262771,8263058,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8268594,8268703,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Getting Gene
+min = set46_frame2, 0.794
+5 top scores:
+[['set46_frame2', 0.794], ['set56_frame2', 1.768], ['set65_frame2', 1.775], ['set79_frame0', 1.836], ['set87_frame0', 1.829]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_46_frame2.fa.txt
+11 60
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_2_query_Exon_9
+QKSRAAKPAAAEVAPWEEARLQVAAVLSAGVEHCPPPFDAASDVPIDQQ
+11 60
+set46_frame2
+QRTQKLKSVLVEVPVWEELRPQIACVLSTGQHEYPPPFDAASDVPIDQQ
+Original query = QKSRAAKPAAAEVAPWEEARLQVAAVLSAGVEHCPPPFDAASDVPIDQQ
+New query = QRTQKLKSVLVEVPVWEELRPQIACVLSTGQHEYPPPFDAASDVPIDQQ
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8268134,8268214,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+7
+12
+13
+Teinopalpus_imperialis,JAGSMU010000005.1,8262771,8263058,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8270606,8270675,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Getting Gene
+min = set126_frame0, 0.34
+5 top scores:
+[['set126_frame0', 0.34], ['set170_frame0', 1.535], ['set65_frame2', 1.562], ['set134_frame2', 1.608], ['set145_frame2', 1.673]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_126_frame0.fa.txt
+12 38
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRDHKYEDAVGTFRAA
+12 38
+set126_frame0
+EDCMKNIQKLMRECKYEDAVGIFRAA
+Original query = EDCMKKIQKLMRDHKYEDAVGTFRAA
+New query = EDCMKNIQKLMRECKYEDAVGIFRAA
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8268594,8268703,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+9
+13
+Teinopalpus_imperialis,JAGSMU010000005.1,8265414,8265570,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8270606,8270675,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Getting Gene
+min = set52_frame1, 0.375
+5 top scores:
+[['set52_frame1', 0.375], ['set20_frame2', 1.723], ['set62_frame1', 1.79], ['set13_frame2', 1.805], ['set67_frame2', 1.813]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_52_frame1.fa.txt
+1 37
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGVDGIPEDEELDMLETIYNTDLGVEVT
+1 37
+set52_frame1
+EVWQEEGIFGINGIAEDEELDMLQTIYNTDLGVVVN
+Original query = EVWPEEGIFGVDGIPEDEELDMLETIYNTDLGVEVT
+New query = EVWQEEGIFGINGIAEDEELDMLQTIYNTDLGVVVN
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,0,0,0,Y,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_12,0,0,17
+
+10
+14
+Teinopalpus_imperialis,JAGSMU010000005.1,8268134,8268214,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8272792,8272990,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set112_frame1, 1.242
+5 top scores:
+[['set112_frame1', 1.242], ['set86_frame2', 1.377], ['set31_frame1', 1.529], ['set51_frame2', 1.533], ['set66_frame2', 1.543]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_112_frame1.fa.txt
+0 14
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_12
+NVPVETQDNSEYDE
+0 14
+set112_frame1
+E--YGAVDNSEEDQ
+Original query = NVPVETQDNSEYDEE
+New query = E--YGAVDNSEEDQ
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8270606,8270675,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+11
+15
+Teinopalpus_imperialis,JAGSMU010000005.1,8268594,8268703,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8273644,8273792,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set44_frame1, 0.501
+5 top scores:
+[['set44_frame1', 0.501], ['set57_frame2', 1.558], ['set57_frame1', 1.641], ['set97_frame2', 1.644], ['set72_frame2', 1.651]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_44_frame1.fa.txt
+14 36
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_2_query_Exon_13
+EENEEEKSTAVVETDFDFQDFV
+14 36
+set44_frame1
+EEEDAENTAAVVETDFDFQDFV
+Original query = EENEEEKSTAVVETDFDFQDFVL
+New query = EEEDAENTAAVVETDFDFQDFV
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8272792,8272990,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Teinopalpus_imperialis,JAGSMU010000005.1,8268594,8268703,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8274792,8274886,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Getting Gene
+min = set97_frame2, 0.452
+5 top scores:
+[['set97_frame2', 0.452], ['set55_frame0', 1.814], ['set108_frame2', 1.837], ['set73_frame0', 1.87], ['set130_frame0', 1.85]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_97_frame2.fa.txt
+10 76
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_0_query_Exon_14
+FCHPRVVSACVCLLERYDKNLPHTNHCIVKMLHRIAWDCNRPVMMFQASLFLIFQRILHNPVPHLK
+10 76
+set97_frame2
+FCHPRVVSACAFILERYEQNTAHTNHCVVKMLHRIALDCRRPSMIFQATLFLTFQKIFHNPMPHFK
+Original query = FCHPRVVSACVCLLERYDKNLPHTNHCIVKMLHRIAWDCNRPVMMFQASLFLIFQRILHNPVPHLK
+New query = FCHPRVVSACAFILERYEQNTAHTNHCVVKMLHRIALDCRRPSMIFQATLFLTFQKIFHNPMPHFK
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8273644,8273792,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+17
+Teinopalpus_imperialis,JAGSMU010000005.1,8270606,8270675,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8275081,8275290,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,68,69
+
+Getting Gene
+min = set52_frame2, 0.439
+5 top scores:
+[['set52_frame2', 0.439], ['set29_frame1', 1.761], ['set28_frame2', 1.763], ['set42_frame0', 1.739], ['set46_frame0', 1.772]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_52_frame2.fa.txt
+9 58
+Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFAVFILRKFSEIASRSGKVFIELLFWKNSKDAVEIEHGYELYNDP
+9 58
+set52_frame2
+ELEKFGLFIFRKFAAVATKNTKVFIELLFWKSSKDAIEIEHGYDLYSDQ
+Original query = ELEKFAVFILRKFSEIASRSGKVFIELLFWKNSKDAVEIEHGYELYNDP
+New query = ELEKFGLFIFRKFAAVATKNTKVFIELLFWKSSKDAIEIEHGYDLYSDQ
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8274792,8274886,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+14
+18
+Teinopalpus_imperialis,JAGSMU010000005.1,8272792,8272990,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8285942,8286103,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,52,53
+
+Getting Gene
+min = set39_frame0, 0.487
+5 top scores:
+[['set39_frame0', 0.487], ['set100_frame0', 1.6], ['set61_frame2', 1.65], ['set175_frame2', 1.662], ['set21_frame0', 1.7]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_39_frame0.fa.txt
+10 41
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_1_query_Exon_16
+DKPGKGAWSEEQEEELRKLYMENQANPETDQ
+10 41
+set39_frame0
+DKLGKGVWTEEQENELRNLYMENQSNPTTEK
+Original query = DKPGKGAWSEEQEEELRKLYMENQANPETDQ
+New query = DKLGKGVWTEEQENELRNLYMENQSNPTTEK
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8275081,8275290,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,68,69
+
+15
+19
+Teinopalpus_imperialis,JAGSMU010000005.1,8273644,8273792,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8286328,8286525,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_19,11,63,64
+
+Getting Gene
+min = set37_frame2, 0.415
+5 top scores:
+[['set37_frame2', 0.415], ['set80_frame0', 1.75], ['set128_frame1', 1.776], ['set83_frame2', 1.792], ['set70_frame1', 1.799]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_37_frame2.fa.txt
+6 75
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILENLIDQTRTRRGVIKKLKELGLVFKAPTKKTNRER-REKVPKDFSEEEDEMLRELWNQYEDTP
+6 75
+set37_frame2
+VIDWILENLIDQTRTRRSVIKKLKELGLIFKAPTKKSNHERNRERVPKEFSAEEDALLTELWKLYADSP
+Original query = VIDWILENLIDQTRTRRGVIKKLKELGLVFKAPTKKTNRERREKVPKDFSEEEDEMLRELWNQYEDTP
+New query = VIDWILENLIDQTRTRRSVIKKLKELGLIFKAPTKKSNHERNRERVPKEFSAEEDALLTELWKLYADSP
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8285942,8286103,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,52,53
+
+16
+20
+Teinopalpus_imperialis,JAGSMU010000005.1,8274792,8274886,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8286605,8286801,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set156_frame1, 0.833
+5 top scores:
+[['set156_frame1', 0.833], ['set204_frame0', 1.716], ['set70_frame1', 1.727], ['set17_frame2', 1.741], ['set100_frame2', 1.752]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_156_frame1.fa.txt
+8 54
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_18
+PMALILPRMPRKRSKRSFVDRLLELGVIQDRKQCRKKKQRRAKSAA
+8 54
+set156_frame1
+PMGVIVPRMLRKRPKQIFVERLLELDLIRDKKECRKKKQAKLKSNE
+Original query = PMALILPRMPRKRSKRSFVDRLLELGVIQDRKQCRKKKQRRAKSAADDKSN
+New query = PMGVIVPRMLRKRPKQIFVERLLELDLIRDKKECRKKKQAKLKSNE
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8286328,8286525,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_19,11,63,64
+
+17
+21
+Teinopalpus_imperialis,JAGSMU010000005.1,8275081,8275290,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,68,69
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8287494,8287920,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,141,146
+
+Getting Gene
+min = set191_frame2, 1.12
+5 top scores:
+[['set191_frame2', 1.12], ['set125_frame2', 1.706], ['set215_frame2', 1.712], ['set81_frame2', 1.775], ['set141_frame2', 1.795]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_191_frame2.fa.txt
+22 91
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_19
+SSSESEASN---SDSENDIVSPPAITVKPKKKNKTNAEKKQQIKNKKPVKSAELSANEIAKLLVQAVDE
+22 91
+set191_frame2
+SSSDSESSDGNESDTSVKVRSPPKTKKAVKKAHK---ERQQARANKKSIKNIDLSASEIAKLLLQAVDS
+Original query = SSSESEASNSDSENDIVSPPAITVKPKKKNKTNAEKKQQIKNKKPVKSAELSANEIAKLLVQAVDE
+New query = SSSDSESSDGNESDTSVKVRSPPKTKKAVKKAHK---ERQQARANKKSIKNIDLSASEIAKLLLQAVDS
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8286605,8286801,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+18
+21
+Teinopalpus_imperialis,JAGSMU010000005.1,8285942,8286103,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,52,53
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8287494,8287920,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,141,146
+
+Getting Gene
+min = set6_frame2, 0.475
+5 top scores:
+[['set14_frame2', 1.839], ['set24_frame2', 1.854], ['set36_frame1', 1.839], ['set1_frame2', 1.885], ['set6_frame2', 0.475]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_6_frame2.fa.txt
+23 88
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_0_query_Exon_20
+YTEGLRWLAENLEEVALDQEAEGFDPTAEGTPLVPISSESVEAMDSALFTTVLKSIGILPPVDEQ
+23 88
+set6_frame2
+FSEALRWLAENLEEVALDQEAEGYDPTTEGTPLVPITEYSVQAMESDIFHKVLNGVGISPPADEQ
+Original query = YTEGLRWLAENLEEVALDQEAEGFDPTAEGTPLVPISSESVEAMDSALFTTVLKSIGILPPVDEQ
+New query = FSEALRWLAENLEEVALDQEAEGYDPTTEGTPLVPITEYSVQAMESDIFHKVLNGVGISPPADEQ
+Scaffold = JAGSMU010000005.1, start = 8254615, end = 8254868
+Teinopalpus_imperialis,JAGSMU010000005.1,8287494,8287920,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,141,146
+
+19
+21
+Teinopalpus_imperialis,JAGSMU010000005.1,8286328,8286525,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_19,11,63,64
+
+Teinopalpus_imperialis,JAGSMU010000005.1,8287494,8287920,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,141,146
+
+Getting Gene
+min = set25_frame2, 0.943
+5 top scores:
+[['set25_frame2', 0.943]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Teinopalpus_imperialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_25_frame2.fa.txt
+0 161
+Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_1_query_Exon_21
+ETYWRIPSNLHHATIRKRREIIIKAVNKELIIDNANYDQSNKFNNAEEPPKSKAESSDDDDLFDNLRKMRDNIPEKIDAVSNHKSIPNNKNVSNNASVSNGKIESKNRKRSRSIDSDEGNNRKMQRIDEI-EDEDEDILSFAKKTLQTELPDTEDILSGLP
+0 161
+set25_frame2
+EVYWRIPSHLHHEMIRKRREIILKAVNKELIVDES--EITNATEHTLENHHEDKESSDDDDLFDSLRKLRDNTETTI-------------NKSINAATS--------RKRSRSDGEEESRNEKLQKIDEAEENSDEDILSFAKKTLQCDEPDTEDILRNIR
+Original query = ETYWRIPSNLHHATIRKRREIIIKAVNKELIIDNANYDQSNKFNNAEEPPKSKAESSDDDDLFDNLRKMRDNIPEKIDAVSNHKSIPNNKNVSNNASVSNGKIESKNRKRSRSIDSDEGNNRKMQRIDEIEDEDEDILSFAKKTLQTELPDTEDILSGLPQHS
+New query = EVYWRIPSHLHHEMIRKRREIILKAVNKELIVDES--EITNATEHTLENHHEDKESSDDDDLFDSLRKLRDNTETTI-------------NKSINAATS--------RKRSRSDGEEESRNEKLQKIDEAEENSDEDILSFAKKTLQCDEPDTEDILRNIR

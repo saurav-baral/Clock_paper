@@ -1,0 +1,1317 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3693054,3693237,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Maniola_hyperantus,NC_048547.1,3693863,3694116,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Maniola_hyperantus,NC_048547.1,3691747,3692003,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set34_frame1, 0.042
+5 top scores:
+[['set33_frame2', 1.75], ['set36_frame2', 1.794], ['set34_frame1', 0.042], ['set44_frame2', 1.846], ['set59_frame1', 1.802]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_34_frame1.fa.txt
+5 66
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPAERSARHNYLQILSHLQSYKEEAFTKVETWQVFSKKLAKILEI
+5 66
+set34_frame1
+LIVNLTNPALLLYREEVPVERSARHNYLQILSHLQSYKEEAFTKVETWQVFAKKLAKILEI
+Original query = LIVNLTNPALLLYREEVPAERSARHNYLQILSHLQSYKEEAFTKVETWQVFSKKLAKILEI
+New query = LIVNLTNPALLLYREEVPVERSARHNYLQILSHLQSYKEEAFTKVETWQVFAKKLAKILEI
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3692555,3692689,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Maniola_hyperantus,NC_048547.1,3693863,3694116,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Maniola_hyperantus,NC_048547.1,3690730,3690927,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set36_frame2, 0.032
+5 top scores:
+[['set36_frame2', 0.032], ['set59_frame1', 1.754], ['set38_frame2', 1.773], ['set74_frame1', 1.792], ['set84_frame0', 1.777]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_36_frame2.fa.txt
+0 45
+Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+0 45
+set36_frame2
+DWSERDEDTGLIIERILILIRNALHVPADLDKERRPENDASIHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+New query = DWSERDEDTGLIIERILILIRNALHVPADLDKERRPENDASIHDQ
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3691747,3692003,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Maniola_hyperantus,NC_048547.1,3693054,3693237,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Maniola_hyperantus,NC_048547.1,3689116,3689298,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set26_frame1, 0.039
+5 top scores:
+[['set67_frame1', 1.826], ['set1_frame1', 1.838], ['set16_frame1', 1.858], ['set26_frame1', 0.039], ['set41_frame1', 1.83]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_26_frame1.fa.txt
+0 85
+Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMMRMSESKERLNKVKLYSAT
+0 85
+set26_frame1
+VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMMRMTESKERLNKVKQYSAT
+Original query = VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMMRMSESKERLNKVKLYSAT
+New query = VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMMRMTESKERLNKVKQYSAT
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3690730,3690927,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Maniola_hyperantus,NC_048547.1,3692555,3692689,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Maniola_hyperantus,NC_048547.1,3688182,3688469,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set32_frame2, 0.062
+5 top scores:
+[['set32_frame2', 0.062], ['set72_frame1', 1.82], ['set7_frame2', 1.822], ['set17_frame2', 1.822], ['set58_frame2', 1.823]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_32_frame2.fa.txt
+4 69
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVQNMKSISENQLISLKPLNKISDLDFNGSKKSKLVRPKNRRPVESGFLERRSAFAI
+4 69
+set32_frame2
+HSRFGGTYVVQNMKSISENEIISLKPLNKISNLDFNGSKKSKLVRPKNRRPVESGFLERRSAFAI
+Original query = HSRFGGTYVVQNMKSISENQLISLKPLNKISDLDFNGSKKSKLVRPKNRRPVESGFLERRSAFAI
+New query = HSRFGGTYVVQNMKSISENEIISLKPLNKISNLDFNGSKKSKLVRPKNRRPVESGFLERRSAFAI
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3689116,3689298,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+Maniola_hyperantus,NC_048547.1,3691747,3692003,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Maniola_hyperantus,NC_048547.1,3686915,3687039,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_8,1,41,41
+
+Getting Gene
+min = set42_frame0, 0.02
+5 top scores:
+[['set84_frame1', 1.738], ['set88_frame1', 1.81], ['set16_frame0', 1.8], ['set42_frame0', 0.02], ['set59_frame2', 1.814]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_42_frame0.fa.txt
+9 69
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNTSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+9 69
+set42_frame0
+LFLKEFCIEFLNTSYNPLMHYVKDVLMRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+Original query = LFLKEFCIEFLNTSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+New query = LFLKEFCIEFLNTSYNPLMHYVKDVLMRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3688182,3688469,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Maniola_hyperantus,NC_048547.1,3690730,3690927,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Maniola_hyperantus,NC_048547.1,3684485,3684635,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_2_query_Exon_9,2,49,49
+
+Getting Gene
+min = set60_frame2, 0.047
+5 top scores:
+[['set60_frame2', 0.047], ['set58_frame2', 1.9], ['set59_frame1', 1.815], ['set97_frame1', 1.913], ['set100_frame1', 1.92]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_60_frame2.fa.txt
+17 112
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQLEKYYDMIKIEKKKFAPWVRRLHLSLRAYKELLNTLLAMDKSTDDSVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+17 112
+set60_frame2
+ETMSVPMFHYVQQQLEKYYDMIKIEKKKFPPWVRRLHLSLRAYKELLNTLLSMDKSADDSVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+Original query = ETMSVPMFHYVQQQLEKYYDMIKIEKKKFAPWVRRLHLSLRAYKELLNTLLAMDKSTDDSVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+New query = ETMSVPMFHYVQQQLEKYYDMIKIEKKKFPPWVRRLHLSLRAYKELLNTLLSMDKSADDSVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3686915,3687039,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_8,1,41,41
+
+6
+10
+Maniola_hyperantus,NC_048547.1,3689116,3689298,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Maniola_hyperantus,NC_048547.1,3682573,3682653,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set33_frame1, 0.049
+5 top scores:
+[['set33_frame1', 0.049], ['set51_frame2', 1.693], ['set89_frame2', 1.693], ['set19_frame0', 1.707], ['set75_frame2', 1.742]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_33_frame1.fa.txt
+73 114
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLIETIHLFLKMLEHYCKKTGLMVQKKVRRKAKTKSK
+73 114
+set33_frame1
+SYLVDLIETIHLFLKMLEYYCKKTGLMVQKKVRRKAKTKSK
+Original query = SYLVDLIETIHLFLKMLEHYCKKTGLMVQKKVRRKAKTKSK
+New query = SYLVDLIETIHLFLKMLEYYCKKTGLMVQKKVRRKAKTKSK
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3684485,3684635,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_2_query_Exon_9,2,49,49
+
+7
+11
+Maniola_hyperantus,NC_048547.1,3688182,3688469,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Maniola_hyperantus,NC_048547.1,3681998,3682107,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Getting Gene
+min = set57_frame1, 0.143
+5 top scores:
+[['set57_frame1', 0.143], ['set61_frame1', 0.251], ['set72_frame2', 0.251], ['set70_frame2', 1.797], ['set101_frame2', 1.804]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_57_frame1.fa.txt
+7 56
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_2_query_Exon_9
+QKSRAAKPAAAEVAPWEEARLQVAAVLSAGVEHCPPPFDAASDVPIDQQ
+7 56
+set57_frame1
+QKPRAAKPAAAEVAPWEEVRPQVAVVLSAGVEHCPPPFDAASDVPIDQQ
+Original query = QKSRAAKPAAAEVAPWEEARLQVAAVLSAGVEHCPPPFDAASDVPIDQQ
+New query = QKPRAAKPAAAEVAPWEEVRPQVAVVLSAGVEHCPPPFDAASDVPIDQQ
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3682573,3682653,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+12
+Maniola_hyperantus,NC_048547.1,3686915,3687039,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_8,1,41,41
+
+Maniola_hyperantus,NC_048547.1,3679592,3679639,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_12,0,0,15
+
+Getting Gene
+min = set80_frame1, 0.129
+5 top scores:
+[['set80_frame1', 0.129], ['set79_frame2', 1.579], ['set33_frame2', 1.649], ['set19_frame0', 1.651], ['set36_frame2', 1.687]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_80_frame1.fa.txt
+15 41
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRDHKYEDAVGTFRAA
+15 41
+set80_frame1
+EYCMKKIQKLMRDHKYEDAVGTFRAA
+Original query = EDCMKKIQKLMRDHKYEDAVGTFRAA
+New query = EYCMKKIQKLMRDHKYEDAVGTFRAA
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3681998,3682107,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+9
+13
+Maniola_hyperantus,NC_048547.1,3684485,3684635,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_2_query_Exon_9,2,49,49
+
+Maniola_hyperantus,NC_048547.1,3678428,3678497,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Getting Gene
+min = set50_frame0, 0.0
+5 top scores:
+[['set50_frame0', 0.0], ['set34_frame1', 1.635], ['set130_frame2', 1.692], ['set120_frame0', 1.789], ['set98_frame1', 1.79]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_50_frame0.fa.txt
+7 43
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGVDGIPEDEELDMLETIYNTDLGVEVT
+7 43
+set50_frame0
+EVWPEEGIFGVDGIPEDEELDMLETIYNTDLGVEVT
+Original query = EVWPEEGIFGVDGIPEDEELDMLETIYNTDLGVEVT
+New query = EVWPEEGIFGVDGIPEDEELDMLETIYNTDLGVEVT
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3679592,3679639,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_12,0,0,15
+
+10
+14
+Maniola_hyperantus,NC_048547.1,3682573,3682653,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Maniola_hyperantus,NC_048547.1,3674622,3674820,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set73_frame1, 0.53
+5 top scores:
+[['set73_frame1', 0.53], ['set53_frame2', 1.49], ['set94_frame2', 1.508], ['set90_frame2', 1.561], ['set85_frame2', 1.586]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_73_frame1.fa.txt
+14 29
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_12
+NVPVETQDNSEYDEE
+14 29
+set73_frame1
+NVTDEPQDNSEYDEE
+Original query = NVPVETQDNSEYDEE
+New query = NVTDEPQDNSEYDEE
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3678428,3678497,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+11
+15
+Maniola_hyperantus,NC_048547.1,3681998,3682107,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Maniola_hyperantus,NC_048547.1,3671176,3671324,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set84_frame0, 0.0
+5 top scores:
+[['set84_frame0', 0.0], ['set103_frame1', 1.439], ['set61_frame1', 1.518], ['set156_frame1', 1.528], ['set213_frame1', 1.567]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_84_frame0.fa.txt
+7 30
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_2_query_Exon_13
+EENEEEKSTAVVETDFDFQDFVL
+7 30
+set84_frame0
+EENEEEKSTAVVETDFDFQDFVL
+Original query = EENEEEKSTAVVETDFDFQDFVL
+New query = EENEEEKSTAVVETDFDFQDFVL
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3674622,3674820,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+16
+Maniola_hyperantus,NC_048547.1,3679592,3679639,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_12,0,0,15
+
+Maniola_hyperantus,NC_048547.1,3669590,3669684,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Getting Gene
+min = set94_frame2, 0.048
+5 top scores:
+[['set94_frame2', 0.048], ['set13_frame0', 1.813], ['set47_frame2', 1.819], ['set10_frame2', 1.837], ['set70_frame0', 1.823]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_94_frame2.fa.txt
+16 82
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_0_query_Exon_14
+FCHPRVVSACVCLLERYDKNLPHTNHCIVKMLHRIAWDCNRPVMMFQASLFLIFQRILHNPVPHLK
+16 82
+set94_frame2
+FCHPRVVSACICLLERYDKNLPYTNHCIVKMLHRIAWDCNRPVMMFQATLFLIFQRILHNPVPHLK
+Original query = FCHPRVVSACVCLLERYDKNLPHTNHCIVKMLHRIAWDCNRPVMMFQASLFLIFQRILHNPVPHLK
+New query = FCHPRVVSACICLLERYDKNLPYTNHCIVKMLHRIAWDCNRPVMMFQATLFLIFQRILHNPVPHLK
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3671176,3671324,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+17
+Maniola_hyperantus,NC_048547.1,3678428,3678497,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Maniola_hyperantus,NC_048547.1,3668651,3668857,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+Getting Gene
+min = set137_frame0, 0.112
+5 top scores:
+[['set137_frame0', 0.112], ['set138_frame2', 1.7], ['set34_frame2', 1.776], ['set156_frame2', 1.781], ['set160_frame2', 1.807]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_137_frame0.fa.txt
+0 49
+Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFAVFILRKFSEIASRSGKVFIELLFWKNSKDAVEIEHGYELYNDP
+0 49
+set137_frame0
+ELEKFALFILRKFSETASKSGKVFIELLFWKNSKDAVEIEHGYDLYNDP
+Original query = ELEKFAVFILRKFSEIASRSGKVFIELLFWKNSKDAVEIEHGYELYNDP
+New query = ELEKFALFILRKFSETASKSGKVFIELLFWKNSKDAVEIEHGYDLYNDP
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3669590,3669684,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+14
+18
+Maniola_hyperantus,NC_048547.1,3674622,3674820,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Maniola_hyperantus,NC_048547.1,3663261,3663416,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_18,2,48,52
+
+Getting Gene
+min = set93_frame1, 0.0
+5 top scores:
+[['set93_frame1', 0.0], ['set111_frame1', 1.487], ['set224_frame2', 1.651], ['set249_frame2', 1.654], ['set136_frame0', 1.743]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_93_frame1.fa.txt
+4 35
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_1_query_Exon_16
+DKPGKGAWSEEQEEELRKLYMENQANPETDQ
+4 35
+set93_frame1
+DKPGKGAWSEEQEEELRKLYMENQANPETDQ
+Original query = DKPGKGAWSEEQEEELRKLYMENQANPETDQ
+New query = DKPGKGAWSEEQEEELRKLYMENQANPETDQ
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3668651,3668857,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+15
+19
+Maniola_hyperantus,NC_048547.1,3671176,3671324,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Maniola_hyperantus,NC_048547.1,3661436,3661636,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_19,18,65,65
+
+Getting Gene
+min = set49_frame0, 0.064
+5 top scores:
+[['set173_frame2', 1.66], ['set49_frame0', 0.064], ['set84_frame1', 1.831], ['set184_frame2', 1.835], ['set190_frame2', 1.839]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_49_frame0.fa.txt
+10 78
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILENLIDQTRTRRGVIKKLKELGLVFKAPTKKTNRERREKVPKDFSEEEDEMLRELWNQYEDTP
+10 78
+set49_frame0
+VIDWILENLIDQTRTRRGVIKKLKELGLVFRAPTKKTNRERREKVPKDFGEEEDEMLRELWKQYEDTP
+Original query = VIDWILENLIDQTRTRRGVIKKLKELGLVFKAPTKKTNRERREKVPKDFSEEEDEMLRELWNQYEDTP
+New query = VIDWILENLIDQTRTRRGVIKKLKELGLVFRAPTKKTNRERREKVPKDFGEEEDEMLRELWKQYEDTP
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3663261,3663416,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_18,2,48,52
+
+16
+20
+Maniola_hyperantus,NC_048547.1,3669590,3669684,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Maniola_hyperantus,NC_048547.1,3659289,3659485,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set138_frame0, 0.097
+5 top scores:
+[['set138_frame0', 0.097], ['set19_frame1', 1.549], ['set175_frame2', 1.731], ['set201_frame2', 1.751], ['set49_frame0', 1.808]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_138_frame0.fa.txt
+7 58
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_18
+PMALILPRMPRKRSKRSFVDRLLELGVIQDRKQCRKKKQRRAKSAADDKSN
+7 58
+set138_frame0
+SMALILPRMPRKRSKRSFVDRLLELGIIQDRKQCRKKKQRRAKSAADDKSD
+Original query = PMALILPRMPRKRSKRSFVDRLLELGVIQDRKQCRKKKQRRAKSAADDKSN
+New query = SMALILPRMPRKRSKRSFVDRLLELGIIQDRKQCRKKKQRRAKSAADDKSD
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3661436,3661636,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_19,18,65,65
+
+17
+21
+Maniola_hyperantus,NC_048547.1,3668651,3668857,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+Maniola_hyperantus,NC_048547.1,3658396,3658888,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_1_query_Exon_21,1,149,149
+
+Getting Gene
+min = set152_frame2, 0.167
+5 top scores:
+[['set152_frame2', 0.167], ['set57_frame2', 1.73], ['set153_frame2', 1.809], ['set223_frame0', 1.663], ['set187_frame2', 1.832]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_152_frame2.fa.txt
+16 82
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_19
+SSSESEASNSDSENDIVSPPAITVKPKKKNKTNAEKKQQIKNKKPVKSAELSANEIAKLLVQAVDE
+16 82
+set152_frame2
+SSSGSEASNSDSENDVGSPSAITVKPKKNNKTNAEKKQQIKNKKPVKSAELSANEIAKLLVQAVDE
+Original query = SSSESEASNSDSENDIVSPPAITVKPKKKNKTNAEKKQQIKNKKPVKSAELSANEIAKLLVQAVDE
+New query = SSSGSEASNSDSENDVGSPSAITVKPKKNNKTNAEKKQQIKNKKPVKSAELSANEIAKLLVQAVDE
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3659289,3659485,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+18
+21
+Maniola_hyperantus,NC_048547.1,3663261,3663416,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_18,2,48,52
+
+Maniola_hyperantus,NC_048547.1,3658396,3658888,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_1_query_Exon_21,1,149,149
+
+Getting Gene
+min = set76_frame0, 0.112
+5 top scores:
+[['set94_frame1', 1.817], ['set38_frame2', 1.831], ['set18_frame2', 1.861], ['set76_frame0', 0.112], ['set33_frame1', 1.848]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_76_frame0.fa.txt
+8 73
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_0_query_Exon_20
+YTEGLRWLAENLEEVALDQEAEGFDPTAEGTPLVPISSESVEAMDSALFTTVLKSIGILPPVDEQ
+8 73
+set76_frame0
+YTEALRWLAENLEEVALDQEAEGFDPTAEGTPLVPISSEAVEAMDSALFNKVLKSIGVLPPVDEQ
+Original query = YTEGLRWLAENLEEVALDQEAEGFDPTAEGTPLVPISSESVEAMDSALFTTVLKSIGILPPVDEQ
+New query = YTEALRWLAENLEEVALDQEAEGFDPTAEGTPLVPISSEAVEAMDSALFNKVLKSIGVLPPVDEQ
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3658396,3658888,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_1_query_Exon_21,1,149,149
+
+19
+21
+Maniola_hyperantus,NC_048547.1,3661436,3661636,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_19,18,65,65
+
+Maniola_hyperantus,NC_048547.1,3658396,3658888,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_1_query_Exon_21,1,149,149
+
+Getting Gene
+min = set58_frame0, 0.208
+5 top scores:
+[['set58_frame0', 0.208]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_58_frame0.fa.txt
+6 93
+set58_frame0
+EIYWRIPSNLHHETIRKRREIIIKAVNKELIIDNANNDQNNKFNNAEEPTESKVESSDDDDLFDNLRKMRDNIPDKSDNVSNRKSLS
+Original query = ETYWRIPSNLHHATIRKRREIIIKAVNKELIIDNANYDQSNKFNNAEEPPKSKAESSDDDDLFDNLRKMRDNIPEKIDAVSNHKSIPNNKNVSNNASVSNGKIESKNRKRSRSIDSDEGNNRKMQRIDEIEDEDEDILSFAKKTLQTELPDTEDILSGLPQHS
+New query = EIYWRIPSNLHHETIRKRREIIIKAVNKELIIDNANNDQNNKFNNAEEPTESKVESSDDDDLFDNLRKMRDNIPDKSDNVSNRKSLS
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3693054,3693237,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Maniola_hyperantus,NC_048547.1,3693863,3694116,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Maniola_hyperantus,NC_048547.1,3691747,3692003,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set34_frame1, 0.05
+5 top scores:
+[['set33_frame2', 1.713], ['set56_frame0', 1.786], ['set34_frame1', 0.05], ['set36_frame2', 1.818], ['set59_frame1', 1.82]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_34_frame1.fa.txt
+5 66
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPVERTARHNYMQILSHLQSYKEEAFTKVETWQVFAKKLAKVLEI
+5 66
+set34_frame1
+LIVNLTNPALLLYREEVPVERSARHNYLQILSHLQSYKEEAFTKVETWQVFAKKLAKILEI
+Original query = LIVNLTNPALLLYREEVPVERTARHNYMQILSHLQSYKEEAFTKVETWQVFAKKLAKVLEI
+New query = LIVNLTNPALLLYREEVPVERSARHNYLQILSHLQSYKEEAFTKVETWQVFAKKLAKILEI
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3692555,3692689,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Maniola_hyperantus,NC_048547.1,3693863,3694116,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Maniola_hyperantus,NC_048547.1,3690730,3690927,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set36_frame2, 0.032
+5 top scores:
+[['set36_frame2', 0.032], ['set59_frame1', 1.754], ['set38_frame2', 1.773], ['set74_frame1', 1.792], ['set84_frame0', 1.777]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_36_frame2.fa.txt
+0 45
+Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+0 45
+set36_frame2
+DWSERDEDTGLIIERILILIRNALHVPADLDKERRPENDASIHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+New query = DWSERDEDTGLIIERILILIRNALHVPADLDKERRPENDASIHDQ
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3691747,3692003,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Maniola_hyperantus,NC_048547.1,3693054,3693237,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Maniola_hyperantus,NC_048547.1,3689116,3689298,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set26_frame1, 0.039
+5 top scores:
+[['set67_frame1', 1.826], ['set1_frame1', 1.838], ['set16_frame1', 1.862], ['set26_frame1', 0.039], ['set41_frame1', 1.817]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_26_frame1.fa.txt
+0 85
+Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMIRMSETKERLNKVKQYSAT
+0 85
+set26_frame1
+VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMMRMTESKERLNKVKQYSAT
+Original query = VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMIRMSETKERLNKVKQYSAT
+New query = VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMMRMTESKERLNKVKQYSAT
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3690730,3690927,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Maniola_hyperantus,NC_048547.1,3692555,3692689,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Maniola_hyperantus,NC_048547.1,3688182,3688469,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set32_frame2, 0.07
+5 top scores:
+[['set32_frame2', 0.07], ['set7_frame2', 1.836], ['set17_frame2', 1.841], ['set58_frame2', 1.853], ['set17_frame1', 1.84]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_32_frame2.fa.txt
+4 69
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVKNMKSISENELISLKPLNKISNLDFNGSKKSKLVKPKNRRPVESGFMERRSAFAI
+4 69
+set32_frame2
+HSRFGGTYVVQNMKSISENEIISLKPLNKISNLDFNGSKKSKLVRPKNRRPVESGFLERRSAFAI
+Original query = HSRFGGTYVVKNMKSISENELISLKPLNKISNLDFNGSKKSKLVKPKNRRPVESGFMERRSAFAI
+New query = HSRFGGTYVVQNMKSISENEIISLKPLNKISNLDFNGSKKSKLVRPKNRRPVESGFLERRSAFAI
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3689116,3689298,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+Maniola_hyperantus,NC_048547.1,3691747,3692003,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Maniola_hyperantus,NC_048547.1,3686915,3687039,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_8,1,41,41
+
+Getting Gene
+min = set42_frame0, 0.039
+5 top scores:
+[['set84_frame1', 1.719], ['set88_frame1', 1.791], ['set16_frame0', 1.801], ['set42_frame0', 0.039], ['set59_frame2', 1.829]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_42_frame0.fa.txt
+9 69
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNTSYNPMMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+9 69
+set42_frame0
+LFLKEFCIEFLNTSYNPLMHYVKDVLMRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+Original query = LFLKEFCIEFLNTSYNPMMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+New query = LFLKEFCIEFLNTSYNPLMHYVKDVLMRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3688182,3688469,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Maniola_hyperantus,NC_048547.1,3690730,3690927,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Maniola_hyperantus,NC_048547.1,3684485,3684635,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_2_query_Exon_9,2,49,49
+
+Getting Gene
+min = set60_frame2, 0.127
+5 top scores:
+[['set60_frame2', 0.127], ['set58_frame2', 1.9], ['set59_frame1', 1.802], ['set97_frame1', 1.903], ['set100_frame1', 1.916]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_60_frame2.fa.txt
+17 112
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQLEKYYDMISVEKKKFSPWVRRLHLSLRAYKELLHTLLAMDKSTDEGVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+17 112
+set60_frame2
+ETMSVPMFHYVQQQLEKYYDMIKIEKKKFPPWVRRLHLSLRAYKELLNTLLSMDKSADDSVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+Original query = ETMSVPMFHYVQQQLEKYYDMISVEKKKFSPWVRRLHLSLRAYKELLHTLLAMDKSTDEGVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+New query = ETMSVPMFHYVQQQLEKYYDMIKIEKKKFPPWVRRLHLSLRAYKELLNTLLSMDKSADDSVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3686915,3687039,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_8,1,41,41
+
+6
+10
+Maniola_hyperantus,NC_048547.1,3689116,3689298,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Maniola_hyperantus,NC_048547.1,3682573,3682653,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set33_frame1, 0.167
+5 top scores:
+[['set33_frame1', 0.167], ['set51_frame2', 1.686], ['set53_frame2', 1.705], ['set19_frame0', 1.698], ['set89_frame2', 1.707]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_33_frame1.fa.txt
+73 114
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_8
+SYLVDLVETVHLFLKMLEHFCKKTGLMVQKKVRKKAKAKSK
+73 114
+set33_frame1
+SYLVDLIETIHLFLKMLEYYCKKTGLMVQKKVRRKAKTKSK
+Original query = SYLVDLVETVHLFLKMLEHFCKKTGLMVQKKVRKKAKAKSK
+New query = SYLVDLIETIHLFLKMLEYYCKKTGLMVQKKVRRKAKTKSK
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3684485,3684635,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_2_query_Exon_9,2,49,49
+
+7
+11
+Maniola_hyperantus,NC_048547.1,3688182,3688469,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Maniola_hyperantus,NC_048547.1,3681998,3682107,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Getting Gene
+min = set57_frame1, 0.453
+5 top scores:
+[['set57_frame1', 0.453], ['set72_frame2', 0.458], ['set69_frame2', 0.487], ['set89_frame2', 1.789], ['set101_frame2', 1.808]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_57_frame1.fa.txt
+7 56
+Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_2_query_Exon_9
+SKPRVSKPKEAPVTVWEEVRPQLAAVLSAGVDHYPPPFDAASDVPIDQQ
+7 56
+set57_frame1
+QKPRAAKPAAAEVAPWEEVRPQVAVVLSAGVEHCPPPFDAASDVPIDQQ
+Original query = SKPRVSKPKEAPVTVWEEVRPQLAAVLSAGVDHYPPPFDAASDVPIDQQ
+New query = QKPRAAKPAAAEVAPWEEVRPQVAVVLSAGVEHCPPPFDAASDVPIDQQ
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3682573,3682653,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+12
+Maniola_hyperantus,NC_048547.1,3686915,3687039,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_8,1,41,41
+
+Maniola_hyperantus,NC_048547.1,3679592,3679639,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_12,0,0,15
+
+Getting Gene
+min = set80_frame1, 0.129
+5 top scores:
+[['set80_frame1', 0.129], ['set79_frame2', 1.579], ['set33_frame2', 1.649], ['set19_frame0', 1.651], ['set36_frame2', 1.687]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_80_frame1.fa.txt
+15 41
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRDHKYEDAVGTFRAA
+15 41
+set80_frame1
+EYCMKKIQKLMRDHKYEDAVGTFRAA
+Original query = EDCMKKIQKLMRDHKYEDAVGTFRAA
+New query = EYCMKKIQKLMRDHKYEDAVGTFRAA
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3681998,3682107,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+9
+13
+Maniola_hyperantus,NC_048547.1,3684485,3684635,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_2_query_Exon_9,2,49,49
+
+Maniola_hyperantus,NC_048547.1,3678428,3678497,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Getting Gene
+min = set50_frame0, 0.108
+5 top scores:
+[['set50_frame0', 0.108], ['set34_frame1', 1.66], ['set130_frame2', 1.684], ['set109_frame2', 1.786], ['set89_frame2', 1.792]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_50_frame0.fa.txt
+7 43
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGVAGIPEDEELDMLETVYNTDMGVEVT
+7 43
+set50_frame0
+EVWPEEGIFGVDGIPEDEELDMLETIYNTDLGVEVT
+Original query = EVWPEEGIFGVAGIPEDEELDMLETVYNTDMGVEVT
+New query = EVWPEEGIFGVDGIPEDEELDMLETIYNTDLGVEVT
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3679592,3679639,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_12,0,0,15
+
+10
+14
+Maniola_hyperantus,NC_048547.1,3682573,3682653,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Maniola_hyperantus,NC_048547.1,3674622,3674820,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set73_frame1, 1.379
+5 top scores:
+[['set73_frame1', 1.379], ['set88_frame1', 1.501], ['set153_frame1', 1.511], ['set134_frame2', 1.511], ['set49_frame2', 1.546]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_73_frame1.fa.txt
+4 29
+Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_12
+IDQE----------DSHNDSDDDEE
+4 29
+set73_frame1
+LDKENAFVLENVTDEPQDNSEYDEE
+Original query = IDQEDSHNDSDDDEE
+New query = LDKENAFVLENVTDEPQDNSEYDEE
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3678428,3678497,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+11
+15
+Maniola_hyperantus,NC_048547.1,3681998,3682107,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Maniola_hyperantus,NC_048547.1,3671176,3671324,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set84_frame0, 0.359
+5 top scores:
+[['set84_frame0', 0.359], ['set103_frame1', 1.428], ['set156_frame1', 1.496], ['set73_frame2', 1.545], ['set66_frame2', 1.605]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_84_frame0.fa.txt
+8 30
+Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_2_query_Exon_13
+EEEDEPSTAVVETDFDFKDFVL
+8 30
+set84_frame0
+ENEEEKSTAVVETDFDFQDFVL
+Original query = EEEDEPSTAVVETDFDFKDFVL
+New query = ENEEEKSTAVVETDFDFQDFVL
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3674622,3674820,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+16
+Maniola_hyperantus,NC_048547.1,3679592,3679639,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_12,0,0,15
+
+Maniola_hyperantus,NC_048547.1,3669590,3669684,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Getting Gene
+min = set94_frame2, 0.116
+5 top scores:
+[['set94_frame2', 0.116], ['set13_frame0', 1.805], ['set47_frame2', 1.818], ['set10_frame2', 1.837], ['set70_frame0', 1.831]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_94_frame2.fa.txt
+16 82
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_0_query_Exon_14
+FCHPRVVSACVCLLERYDKNTTHTNHCIVKMLHRIAWDCNRPAMMFQATLFLIFQRILHNPVPHLK
+16 82
+set94_frame2
+FCHPRVVSACICLLERYDKNLPYTNHCIVKMLHRIAWDCNRPVMMFQATLFLIFQRILHNPVPHLK
+Original query = FCHPRVVSACVCLLERYDKNTTHTNHCIVKMLHRIAWDCNRPAMMFQATLFLIFQRILHNPVPHLK
+New query = FCHPRVVSACICLLERYDKNLPYTNHCIVKMLHRIAWDCNRPVMMFQATLFLIFQRILHNPVPHLK
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3671176,3671324,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+17
+Maniola_hyperantus,NC_048547.1,3678428,3678497,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Maniola_hyperantus,NC_048547.1,3668651,3668857,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+Getting Gene
+min = set137_frame0, 0.217
+5 top scores:
+[['set137_frame0', 0.217], ['set138_frame2', 1.736], ['set87_frame2', 1.765], ['set156_frame2', 1.786], ['set175_frame1', 1.805]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_137_frame0.fa.txt
+0 49
+Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_15
+ELEKFAVYVLRKFTEIASKSGKVFIELLFWKNSKDAVEIEHGYDVHSDP
+0 49
+set137_frame0
+ELEKFALFILRKFSETASKSGKVFIELLFWKNSKDAVEIEHGYDLYNDP
+Original query = ELEKFAVYVLRKFTEIASKSGKVFIELLFWKNSKDAVEIEHGYDVHSDP
+New query = ELEKFALFILRKFSETASKSGKVFIELLFWKNSKDAVEIEHGYDLYNDP
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3669590,3669684,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+14
+18
+Maniola_hyperantus,NC_048547.1,3674622,3674820,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Maniola_hyperantus,NC_048547.1,3663261,3663416,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_18,2,48,52
+
+Getting Gene
+min = set93_frame1, 0.189
+5 top scores:
+[['set93_frame1', 0.189], ['set111_frame1', 1.513], ['set121_frame2', 1.683], ['set224_frame2', 1.707], ['set163_frame2', 1.724]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_93_frame1.fa.txt
+4 35
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_16
+DKPGKGGWSEAQEEELRQLYMENQSNPETDQ
+4 35
+set93_frame1
+DKPGKGAWSEEQEEELRKLYMENQANPETDQ
+Original query = DKPGKGGWSEAQEEELRQLYMENQSNPETDQ
+New query = DKPGKGAWSEEQEEELRKLYMENQANPETDQ
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3668651,3668857,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+15
+19
+Maniola_hyperantus,NC_048547.1,3671176,3671324,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Maniola_hyperantus,NC_048547.1,3661436,3661636,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_19,18,65,65
+
+Getting Gene
+min = set49_frame0, 0.285
+5 top scores:
+[['set173_frame2', 1.661], ['set49_frame0', 0.285], ['set105_frame0', 1.832], ['set85_frame2', 1.835], ['set184_frame2', 1.853]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_49_frame0.fa.txt
+10 77
+Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_17
+VIDWMLENIIDQTRTRRSVIKKLKELGLIFKAPTKKVNREKREHVPKDFSEEEDEMLRELWQQFGDT
+10 77
+set49_frame0
+VIDWILENLIDQTRTRRGVIKKLKELGLVFRAPTKKTNRERREKVPKDFGEEEDEMLRELWKQYEDT
+Original query = VIDWMLENIIDQTRTRRSVIKKLKELGLIFKAPTKKVNREKREHVPKDFSEEEDEMLRELWQQFGDTT
+New query = VIDWILENLIDQTRTRRGVIKKLKELGLVFRAPTKKTNRERREKVPKDFGEEEDEMLRELWKQYEDT
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3663261,3663416,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_18,2,48,52
+
+16
+20
+Maniola_hyperantus,NC_048547.1,3669590,3669684,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Maniola_hyperantus,NC_048547.1,3659289,3659485,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set138_frame0, 0.3
+5 top scores:
+[['set138_frame0', 0.3], ['set19_frame1', 1.594], ['set171_frame2', 1.731], ['set170_frame1', 1.771], ['set171_frame1', 1.781]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_138_frame0.fa.txt
+7 59
+Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_18
+PMALILPRMPRKRSKRSFVDRMLELGVVQDRKQCRKKKQRKAKSTADDDKSN
+7 59
+set138_frame0
+SMALILPRMPRKRSKRSFVDRLLELGIIQDRKQCRKKKQRRAKSAADDKSDG
+Original query = PMALILPRMPRKRSKRSFVDRMLELGVVQDRKQCRKKKQRKAKSTADDDKSN
+New query = SMALILPRMPRKRSKRSFVDRLLELGIIQDRKQCRKKKQRRAKSAADDKSDG
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3661436,3661636,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_19,18,65,65
+
+17
+21
+Maniola_hyperantus,NC_048547.1,3668651,3668857,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+Maniola_hyperantus,NC_048547.1,3658396,3658888,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_1_query_Exon_21,1,149,149
+
+Getting Gene
+min = set152_frame2, 0.683
+5 top scores:
+[['set152_frame2', 0.683], ['set57_frame2', 1.774], ['set138_frame1', 1.805], ['set223_frame0', 1.633], ['set32_frame1', 1.827]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_152_frame2.fa.txt
+14 82
+Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_19
+SSSESESEASHSDSD---APPPTINIKPKKTNKKDAGKKQQIKNKKGAKSVELSANEIAKLLVQAVDE
+14 82
+set152_frame2
+VESSSGSEASNSDSENDVGSPSAITVKPKKNNKTNAEKKQQIKNKKPVKSAELSANEIAKLLVQAVDE
+Original query = SSSESESEASHSDSDAPPPTINIKPKKTNKKDAGKKQQIKNKKGAKSVELSANEIAKLLVQAVDE
+New query = VESSSGSEASNSDSENDVGSPSAITVKPKKNNKTNAEKKQQIKNKKPVKSAELSANEIAKLLVQAVDE
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3659289,3659485,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+18
+21
+Maniola_hyperantus,NC_048547.1,3663261,3663416,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_18,2,48,52
+
+Maniola_hyperantus,NC_048547.1,3658396,3658888,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_1_query_Exon_21,1,149,149
+
+Getting Gene
+min = set76_frame0, 0.208
+5 top scores:
+[['set38_frame2', 1.803], ['set41_frame0', 1.831], ['set39_frame2', 1.842], ['set76_frame0', 0.208], ['set33_frame1', 1.834]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_76_frame0.fa.txt
+8 73
+Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_0_query_Exon_20
+FTEALRWLAENLEEVALDQEAEGFDPTAEGTALVPISSESIEAMDSALFLEVLKSIGIAPPSDEQ
+8 73
+set76_frame0
+YTEALRWLAENLEEVALDQEAEGFDPTAEGTPLVPISSEAVEAMDSALFNKVLKSIGVLPPVDEQ
+Original query = FTEALRWLAENLEEVALDQEAEGFDPTAEGTALVPISSESIEAMDSALFLEVLKSIGIAPPSDEQ
+New query = YTEALRWLAENLEEVALDQEAEGFDPTAEGTPLVPISSEAVEAMDSALFNKVLKSIGVLPPVDEQ
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3658396,3658888,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_1_query_Exon_21,1,149,149
+
+19
+21
+Maniola_hyperantus,NC_048547.1,3661436,3661636,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_19,18,65,65
+
+Maniola_hyperantus,NC_048547.1,3658396,3658888,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_1_query_Exon_21,1,149,149
+
+Getting Gene
+min = set58_frame0, 0.552
+5 top scores:
+[['set58_frame0', 0.552]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_58_frame0.fa.txt
+6 107
+set58_frame0
+EIYWRIPSNLHHETIRKRREIIIKAVNKELIIDNA-NNDQNNKFNNAEEPTESKVESSDDDDLFDNLRKMRDNIPDKSDNVSNRKSLSNNNKNVSNNASVS
+Original query = EIYWRIPSNLHHETIRKRREIILKAINKELIVDNSITNTVVPKSANSQEPIDKAESSDDDDLFDNLRKIRDNNPVISDNVSNKSVSNNRNTSNRKRSRSNDPDEGNNRKMQRIEEVNDEEEDILSFAKKTLQTDLPDTEDILSGLPHHS
+New query = EIYWRIPSNLHHETIRKRREIIIKAVNKELIIDNA-NNDQNNKFNNAEEPTESKVESSDDDDLFDNLRKMRDNIPDKSDNVSNRKSLSNNNKNVSNNASVS
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3693054,3693237,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Maniola_hyperantus,NC_048547.1,3693863,3694116,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Maniola_hyperantus,NC_048547.1,3691747,3692003,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set1_frame0, 0.077
+5 top scores:
+[['set1_frame0', 0.077], ['set36_frame2', 1.449], ['set59_frame1', 1.523], ['set27_frame2', 1.526], ['set33_frame2', 1.548]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_1_frame0.fa.txt
+69 84
+Pararge_aegeria_XM_039893538.1_Frame_1_rightoh_2_query_Exon_2
+LIDHWERDELFDVTL
+69 84
+set1_frame0
+LIDHWEKDELFDVTL
+Original query = LIDHWERDELFDVTL
+New query = LIDHWEKDELFDVTL
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3692555,3692689,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Maniola_hyperantus,NC_048547.1,3693863,3694116,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Maniola_hyperantus,NC_048547.1,3690730,3690927,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set34_frame1, 0.05
+5 top scores:
+[['set33_frame2', 1.75], ['set36_frame2', 1.794], ['set74_frame1', 1.805], ['set34_frame1', 0.05], ['set49_frame1', 1.84]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_34_frame1.fa.txt
+5 66
+Pararge_aegeria_XM_039893538.1_Frame_1_rightoh_0_query_Exon_3
+LIVNLTNPALLLYREEVPTERSARHNYLQILSHLQSYKEEAFTKVETWQLFAKKLAKILEI
+5 66
+set34_frame1
+LIVNLTNPALLLYREEVPVERSARHNYLQILSHLQSYKEEAFTKVETWQVFAKKLAKILEI
+Original query = LIVNLTNPALLLYREEVPTERSARHNYLQILSHLQSYKEEAFTKVETWQLFAKKLAKILEI
+New query = LIVNLTNPALLLYREEVPVERSARHNYLQILSHLQSYKEEAFTKVETWQVFAKKLAKILEI
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3691747,3692003,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Maniola_hyperantus,NC_048547.1,3693054,3693237,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Maniola_hyperantus,NC_048547.1,3689116,3689298,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set14_frame2, 0.06
+5 top scores:
+[['set14_frame2', 0.06], ['set50_frame2', 1.763], ['set16_frame2', 1.772], ['set61_frame0', 1.776], ['set87_frame2', 1.78]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_14_frame2.fa.txt
+0 45
+Pararge_aegeria_XM_039893538.1_Frame_0_rightoh_0_query_Exon_4
+DWSERDEETGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+0 45
+set14_frame2
+DWSERDEDTGLIIERILILIRNALHVPADLDKERRPENDASIHDQ
+Original query = DWSERDEETGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+New query = DWSERDEDTGLIIERILILIRNALHVPADLDKERRPENDASIHDQ
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3690730,3690927,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Maniola_hyperantus,NC_048547.1,3692555,3692689,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Maniola_hyperantus,NC_048547.1,3688182,3688469,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set17_frame2, 0.045
+5 top scores:
+[['set17_frame2', 0.045], ['set32_frame2', 1.817], ['set93_frame0', 1.783], ['set58_frame2', 1.829], ['set7_frame2', 1.861]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_17_frame2.fa.txt
+0 85
+Pararge_aegeria_XM_039893538.1_Frame_0_rightoh_2_query_Exon_5
+VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMIRMSENKERLNKVKQYSAT
+0 85
+set17_frame2
+VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMMRMTESKERLNKVKQYSAT
+Original query = VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMIRMSENKERLNKVKQYSAT
+New query = VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMMRMTESKERLNKVKQYSAT
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3689116,3689298,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+Maniola_hyperantus,NC_048547.1,3691747,3692003,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Maniola_hyperantus,NC_048547.1,3686915,3687039,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_8,1,41,41
+
+Getting Gene
+min = set16_frame0, 0.07
+5 top scores:
+[['set87_frame1', 1.758], ['set45_frame2', 1.793], ['set16_frame0', 0.07], ['set56_frame2', 1.836], ['set84_frame1', 1.847]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_16_frame0.fa.txt
+4 69
+Pararge_aegeria_XM_039893538.1_Frame_1_rightoh_2_query_Exon_6
+HSRFGGTYVVQNMKSISENELISLKPLNKISNLDFSGSKKTKLVKPKNRRPVESGFLERRSAFAI
+4 69
+set16_frame0
+HSRFGGTYVVQNMKSISENEIISLKPLNKISNLDFNGSKKSKLVRPKNRRPVESGFLERRSAFAI
+Original query = HSRFGGTYVVQNMKSISENELISLKPLNKISNLDFSGSKKTKLVKPKNRRPVESGFLERRSAFAI
+New query = HSRFGGTYVVQNMKSISENEIISLKPLNKISNLDFNGSKKSKLVRPKNRRPVESGFLERRSAFAI
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3688182,3688469,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Maniola_hyperantus,NC_048547.1,3690730,3690927,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Maniola_hyperantus,NC_048547.1,3684485,3684635,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_2_query_Exon_9,2,49,49
+
+Getting Gene
+min = set27_frame1, 0.056
+5 top scores:
+[['set27_frame1', 0.056], ['set59_frame1', 1.744], ['set60_frame2', 1.756], ['set64_frame2', 1.809], ['set112_frame0', 1.704]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_27_frame1.fa.txt
+9 69
+Pararge_aegeria_XM_039893538.1_Frame_1_rightoh_2_query_Exon_7
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRGHNFQVGLV
+9 69
+set27_frame1
+LFLKEFCIEFLNTSYNPLMHYVKDVLMRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+Original query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRGHNFQVGLV
+New query = LFLKEFCIEFLNTSYNPLMHYVKDVLMRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3686915,3687039,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_8,1,41,41
+
+6
+10
+Maniola_hyperantus,NC_048547.1,3689116,3689298,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Maniola_hyperantus,NC_048547.1,3682573,3682653,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set17_frame2, 0.052
+5 top scores:
+[['set17_frame2', 0.052], ['set122_frame0', 1.9], ['set33_frame1', 1.82], ['set71_frame1', 1.913], ['set74_frame1', 1.92]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_17_frame2.fa.txt
+17 112
+Pararge_aegeria_XM_039893538.1_Frame_1_rightoh_2_query_Exon_8
+ETMSVPMFHYVQQQLEKYYDMIKVEKKKFAPWVRRLHLSLRAYKELLNTLLAMDKSTDDSVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+17 112
+set17_frame2
+ETMSVPMFHYVQQQLEKYYDMIKIEKKKFPPWVRRLHLSLRAYKELLNTLLSMDKSADDSVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+Original query = ETMSVPMFHYVQQQLEKYYDMIKVEKKKFAPWVRRLHLSLRAYKELLNTLLAMDKSTDDSVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+New query = ETMSVPMFHYVQQQLEKYYDMIKIEKKKFPPWVRRLHLSLRAYKELLNTLLSMDKSADDSVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3684485,3684635,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_2_query_Exon_9,2,49,49
+
+7
+11
+Maniola_hyperantus,NC_048547.1,3688182,3688469,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Maniola_hyperantus,NC_048547.1,3681998,3682107,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Getting Gene
+min = set20_frame0, 0.111
+5 top scores:
+[['set20_frame0', 0.111], ['set106_frame2', 1.635], ['set37_frame1', 1.698], ['set2_frame2', 1.706], ['set76_frame2', 1.725]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_20_frame0.fa.txt
+73 114
+Pararge_aegeria_XM_039893538.1_Frame_1_rightoh_1_query_Exon_9
+SYLVDLIETIHLFLKMLEYYCKKTGLMVQKKVRRKAKKKLK
+73 114
+set20_frame0
+SYLVDLIETIHLFLKMLEYYCKKTGLMVQKKVRRKAKTKSK
+Original query = SYLVDLIETIHLFLKMLEYYCKKTGLMVQKKVRRKAKKKLK
+New query = SYLVDLIETIHLFLKMLEYYCKKTGLMVQKKVRRKAKTKSK
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3682573,3682653,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+12
+Maniola_hyperantus,NC_048547.1,3686915,3687039,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_8,1,41,41
+
+Maniola_hyperantus,NC_048547.1,3679592,3679639,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_12,0,0,15
+
+Getting Gene
+min = set34_frame2, 0.332
+5 top scores:
+[['set34_frame2', 0.332], ['set38_frame2', 0.366], ['set43_frame0', 0.395], ['set39_frame2', 1.821], ['set46_frame0', 0.366]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_34_frame2.fa.txt
+7 56
+Pararge_aegeria_XM_039893538.1_Frame_2_rightoh_2_query_Exon_10
+QKHRAAKPKAIEVTAWEEIRPQIAAVLSAGVEHYPPPFDAASDVPIDQQ
+7 56
+set34_frame2
+QKPRAAKPAAAEVAPWEEVRPQVAVVLSAGVEHCPPPFDAASDVPIDQQ
+Original query = QKHRAAKPKAIEVTAWEEIRPQIAAVLSAGVEHYPPPFDAASDVPIDQQ
+New query = QKPRAAKPAAAEVAPWEEVRPQVAVVLSAGVEHCPPPFDAASDVPIDQQ
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3681998,3682107,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+9
+13
+Maniola_hyperantus,NC_048547.1,3684485,3684635,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_2_query_Exon_9,2,49,49
+
+Maniola_hyperantus,NC_048547.1,3678428,3678497,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Getting Gene
+min = set39_frame0, 0.281
+5 top scores:
+[['set39_frame0', 0.281], ['set55_frame2', 1.548], ['set74_frame2', 1.631], ['set35_frame2', 1.686], ['set12_frame2', 1.71]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_39_frame0.fa.txt
+15 41
+Pararge_aegeria_XM_039893538.1_Frame_1_rightoh_2_query_Exon_11
+EDCMKKIQQRMRDHKYEDAVGTFRAA
+15 41
+set39_frame0
+EYCMKKIQKLMRDHKYEDAVGTFRAA
+Original query = EDCMKKIQQRMRDHKYEDAVGTFRAA
+New query = EYCMKKIQKLMRDHKYEDAVGTFRAA
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3679592,3679639,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_12,0,0,15
+
+10
+14
+Maniola_hyperantus,NC_048547.1,3682573,3682653,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Maniola_hyperantus,NC_048547.1,3674622,3674820,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set12_frame1, 0.148
+5 top scores:
+[['set12_frame1', 0.148], ['set159_frame1', 1.681], ['set126_frame2', 1.711], ['set132_frame1', 1.73], ['set73_frame1', 1.76]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_12_frame1.fa.txt
+7 43
+Pararge_aegeria_XM_039893538.1_Frame_1_rightoh_1_query_Exon_12
+EVWPEEGIFGVDGIPEDEELDMLGIIYNTDLGVEVS
+7 43
+set12_frame1
+EVWPEEGIFGVDGIPEDEELDMLETIYNTDLGVEVT
+Original query = EVWPEEGIFGVDGIPEDEELDMLGIIYNTDLGVEVS
+New query = EVWPEEGIFGVDGIPEDEELDMLETIYNTDLGVEVT
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3678428,3678497,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+11
+15
+Maniola_hyperantus,NC_048547.1,3681998,3682107,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Maniola_hyperantus,NC_048547.1,3671176,3671324,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set62_frame1, 0.822
+5 top scores:
+[['set62_frame1', 0.822], ['set97_frame0', 1.455], ['set234_frame0', 1.465], ['set25_frame1', 1.467], ['set171_frame1', 1.509]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_62_frame1.fa.txt
+4 29
+Pararge_aegeria_XM_039893538.1_Frame_2_rightoh_1_query_Exon_13
+MNQ----------DESQDNSENDDE
+4 29
+set62_frame1
+LDKENAFVLENVTDEPQDNSEYDEE
+Original query = MNQDESQDNSENDDE
+New query = LDKENAFVLENVTDEPQDNSEYDEE
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3674622,3674820,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+16
+Maniola_hyperantus,NC_048547.1,3679592,3679639,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_12,0,0,15
+
+Maniola_hyperantus,NC_048547.1,3669590,3669684,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Getting Gene
+min = set29_frame1, 0.34
+5 top scores:
+[['set29_frame1', 0.34], ['set42_frame2', 1.451], ['set95_frame2', 1.522], ['set186_frame2', 1.611], ['set152_frame2', 1.635]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_29_frame1.fa.txt
+7 30
+Pararge_aegeria_XM_039893538.1_Frame_2_rightoh_2_query_Exon_14
+EEDDEEPSTAVVETDFDFKDFVL
+7 30
+set29_frame1
+EENEEEKSTAVVETDFDFQDFVL
+Original query = EEDDEEPSTAVVETDFDFKDFVL
+New query = EENEEEKSTAVVETDFDFQDFVL
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3671176,3671324,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+17
+Maniola_hyperantus,NC_048547.1,3678428,3678497,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Maniola_hyperantus,NC_048547.1,3668651,3668857,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+Getting Gene
+min = set75_frame0, 0.114
+5 top scores:
+[['set107_frame2', 1.778], ['set4_frame1', 1.831], ['set36_frame2', 1.836], ['set75_frame0', 0.114], ['set141_frame2', 1.844]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_75_frame0.fa.txt
+16 82
+Pararge_aegeria_XM_039893538.1_Frame_1_rightoh_0_query_Exon_15
+FCHARVVSACVYLLERYDKNLPHTNHCIVKMLHRIAWDCNRPVMMFQATLFLIFQRVLHNPVPHLK
+16 82
+set75_frame0
+FCHPRVVSACICLLERYDKNLPYTNHCIVKMLHRIAWDCNRPVMMFQATLFLIFQRILHNPVPHLK
+Original query = FCHARVVSACVYLLERYDKNLPHTNHCIVKMLHRIAWDCNRPVMMFQATLFLIFQRVLHNPVPHLK
+New query = FCHPRVVSACICLLERYDKNLPYTNHCIVKMLHRIAWDCNRPVMMFQATLFLIFQRILHNPVPHLK
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3669590,3669684,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+14
+18
+Maniola_hyperantus,NC_048547.1,3674622,3674820,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Maniola_hyperantus,NC_048547.1,3663261,3663416,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_18,2,48,52
+
+Getting Gene
+min = set63_frame1, 0.219
+5 top scores:
+[['set63_frame1', 0.219], ['set242_frame0', 1.739], ['set44_frame2', 1.741], ['set53_frame0', 1.71], ['set167_frame1', 1.775]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_63_frame1.fa.txt
+0 49
+Pararge_aegeria_XM_039893538.1_Frame_0_rightoh_2_query_Exon_16
+ELEKFAVFILRKFTEIASRSGKVFIELLFWKNSKDAVEIEHGYDVNSDP
+0 49
+set63_frame1
+ELEKFALFILRKFSETASKSGKVFIELLFWKNSKDAVEIEHGYDLYNDP
+Original query = ELEKFAVFILRKFTEIASRSGKVFIELLFWKNSKDAVEIEHGYDVNSDP
+New query = ELEKFALFILRKFSETASKSGKVFIELLFWKNSKDAVEIEHGYDLYNDP
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3668651,3668857,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+15
+19
+Maniola_hyperantus,NC_048547.1,3671176,3671324,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Maniola_hyperantus,NC_048547.1,3661436,3661636,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_19,18,65,65
+
+Getting Gene
+min = set31_frame0, 0.139
+5 top scores:
+[['set31_frame0', 0.139], ['set49_frame0', 1.481], ['set9_frame0', 1.673], ['set193_frame2', 1.679], ['set64_frame2', 1.691]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_31_frame0.fa.txt
+4 35
+Pararge_aegeria_XM_039893538.1_Frame_1_rightoh_1_query_Exon_17
+DKLGKGGWSEEQEEELRKLYMENQANPETDQ
+4 35
+set31_frame0
+DKPGKGAWSEEQEEELRKLYMENQANPETDQ
+Original query = DKLGKGGWSEEQEEELRKLYMENQANPETDQ
+New query = DKPGKGAWSEEQEEELRKLYMENQANPETDQ
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3663261,3663416,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_18,2,48,52
+
+16
+20
+Maniola_hyperantus,NC_048547.1,3669590,3669684,1,N,Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Maniola_hyperantus,NC_048547.1,3659289,3659485,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set19_frame1, 0.253
+5 top scores:
+[['set19_frame1', 0.253], ['set205_frame1', 1.81], ['set170_frame1', 1.835], ['set59_frame2', 1.835], ['set75_frame1', 1.837]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_19_frame1.fa.txt
+10 78
+Pararge_aegeria_XM_039893538.1_Frame_2_rightoh_1_query_Exon_18
+VIDWMLDNLIDQTRTRRGVVKKLKELGLLFKAPTKRSNRERRDKVPKEFSEEEDEKLRELWKQYGDTP
+10 78
+set19_frame1
+VIDWILENLIDQTRTRRGVIKKLKELGLVFRAPTKKTNRERREKVPKDFGEEEDEMLRELWKQYEDTP
+Original query = VIDWMLDNLIDQTRTRRGVVKKLKELGLLFKAPTKRSNRERRDKVPKEFSEEEDEKLRELWKQYGDTP
+New query = VIDWILENLIDQTRTRRGVIKKLKELGLVFRAPTKKTNRERREKVPKDFGEEEDEMLRELWKQYEDTP
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3661436,3661636,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_19,18,65,65
+
+17
+21
+Maniola_hyperantus,NC_048547.1,3668651,3668857,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+Maniola_hyperantus,NC_048547.1,3658396,3658888,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_1_query_Exon_21,1,149,149
+
+Getting Gene
+min = set121_frame1, 0.282
+5 top scores:
+[['set121_frame1', 0.282], ['set1_frame2', 1.554], ['set189_frame2', 1.746], ['set158_frame0', 1.752], ['set162_frame0', 1.732]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_121_frame1.fa.txt
+7 59
+Pararge_aegeria_XM_039893538.1_Frame_2_rightoh_1_query_Exon_19
+PMTLIVPRMPRKRSKRSFVDRLLELGIIEDRKQCRKKKQRRAKSAADDDKSN
+7 59
+set121_frame1
+SMALILPRMPRKRSKRSFVDRLLELGIIQDRKQCRKKKQRRAKSAADDKSDG
+Original query = PMTLIVPRMPRKRSKRSFVDRLLELGIIEDRKQCRKKKQRRAKSAADDDKSN
+New query = SMALILPRMPRKRSKRSFVDRLLELGIIQDRKQCRKKKQRRAKSAADDKSDG
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3659289,3659485,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+18
+21
+Maniola_hyperantus,NC_048547.1,3663261,3663416,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_18,2,48,52
+
+Maniola_hyperantus,NC_048547.1,3658396,3658888,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_1_query_Exon_21,1,149,149
+
+Getting Gene
+min = set41_frame0, 0.527
+5 top scores:
+[['set94_frame1', 1.694], ['set41_frame0', 0.527], ['set42_frame0', 1.805], ['set76_frame0', 1.815], ['set1_frame2', 1.829]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_41_frame0.fa.txt
+14 82
+Pararge_aegeria_XM_039893538.1_Frame_2_rightoh_1_query_Exon_20
+SSSQSEGEASNSDSENDDGPPPTINIKPKKKNKKDAEKKQLFKNKKPVKSVELSANEIAKLLVQAVDE
+14 82
+set41_frame0
+VESSSGSEASNSDSENDVGSPSAITVKPKKNNKTNAEKKQQIKNKKPVKSAELSANEIAKLLVQAVDE
+Original query = SSSQSEGEASNSDSENDDGPPPTINIKPKKKNKKDAEKKQLFKNKKPVKSVELSANEIAKLLVQAVDE
+New query = VESSSGSEASNSDSENDVGSPSAITVKPKKNNKTNAEKKQQIKNKKPVKSAELSANEIAKLLVQAVDE
+Scaffold = NC_048547.1, start = 3693863, end = 3694116
+Maniola_hyperantus,NC_048547.1,3658396,3658888,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_1_query_Exon_21,1,149,149
+
+19
+21
+Maniola_hyperantus,NC_048547.1,3661436,3661636,1,N,Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_19,18,65,65
+
+Maniola_hyperantus,NC_048547.1,3658396,3658888,1,N,Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_1_query_Exon_21,1,149,149
+
+Getting Gene
+min = set36_frame2, 0.187
+5 top scores:
+[['set36_frame2', 0.187], ['set58_frame0', 1.789], ['set18_frame1', 1.849], ['set19_frame1', 1.862], ['set61_frame1', 1.863]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/3.Satyrine/1.Blast_result/Maniola_hyperantus/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_36_frame2.fa.txt
+8 73
+Pararge_aegeria_XM_039893538.1_Frame_2_rightoh_0_query_Exon_21
+YTEALKWVAENLEEVALDQEAEGFDPSAEGTPLVPISSESAEAMDSTLFVKVLKSIGVLPPSDEQ
+8 73
+set36_frame2
+YTEALRWLAENLEEVALDQEAEGFDPTAEGTPLVPISSEAVEAMDSALFNKVLKSIGVLPPVDEQ
+Original query = YTEALKWVAENLEEVALDQEAEGFDPSAEGTPLVPISSESAEAMDSTLFVKVLKSIGVLPPSDEQ
+New query = YTEALRWLAENLEEVALDQEAEGFDPTAEGTPLVPISSEAVEAMDSALFNKVLKSIGVLPPVDEQ

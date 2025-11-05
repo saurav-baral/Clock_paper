@@ -1,0 +1,1779 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22285632,22285815,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Parnassius_glacialis,JAVANC010000026.1,22285022,22285275,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Parnassius_glacialis,JAVANC010000026.1,22287672,22287928,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set13_frame2, 0.232
+5 top scores:
+[['set13_frame2', 0.232], ['set39_frame2', 1.862], ['set9_frame1', 1.86], ['set38_frame1', 1.777], ['set59_frame1', 1.812]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_13_frame2.fa.txt
+14 75
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPVERNDRHNYLQILSHLQSYKEDAFTKVENWQVFAKKLGKVLEI
+14 75
+set13_frame2
+LIVNLTNPALLLYREEVPIERTARHNYLQILSHLQWYKEEAFTKVETWQVFAKKLAKILEI
+Original query = LIVNLTNPALLLYREEVPVERNDRHNYLQILSHLQSYKEDAFTKVENWQVFAKKLGKVLEI
+New query = LIVNLTNPALLLYREEVPIERTARHNYLQILSHLQWYKEEAFTKVETWQVFAKKLAKILEI
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22287330,22287464,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Parnassius_glacialis,JAVANC010000026.1,22285022,22285275,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Parnassius_glacialis,JAVANC010000026.1,22297700,22297897,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set59_frame1, 0.032
+5 top scores:
+[['set59_frame1', 0.032], ['set207_frame2', 1.714], ['set13_frame2', 1.735], ['set234_frame2', 1.748], ['set236_frame2', 1.766]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_59_frame1.fa.txt
+0 45
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+0 45
+set59_frame1
+DWTERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Original query = DWSERDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+New query = DWTERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22287672,22287928,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Parnassius_glacialis,JAVANC010000026.1,22285632,22285815,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Parnassius_glacialis,JAVANC010000026.1,22299633,22299815,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set52_frame0, 0.254
+5 top scores:
+[['set127_frame0', 1.783], ['set52_frame0', 0.254], ['set192_frame2', 1.809], ['set103_frame2', 1.836], ['set87_frame0', 1.847]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_52_frame0.fa.txt
+4 89
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPSSLADAALQRSVDEKVRDDQELLMIRMTENKDRMNKIRHYSST
+4 89
+set52_frame0
+VLWALNQSGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLAHAALQRSIDEKLRDEQELLTIRMTETKERLNKIKQYSAS
+Original query = VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPSSLADAALQRSVDEKVRDDQELLMIRMTENKDRMNKIRHYSST
+New query = VLWALNQSGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLAHAALQRSIDEKLRDEQELLTIRMTETKERLNKIKQYSAS
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22297700,22297897,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Parnassius_glacialis,JAVANC010000026.1,22287330,22287464,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Parnassius_glacialis,JAVANC010000026.1,22302339,22302626,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set166_frame0, 0.156
+5 top scores:
+[['set166_frame0', 0.156], ['set193_frame1', 1.759], ['set65_frame2', 1.776], ['set164_frame2', 1.789], ['set311_frame2', 1.813]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_166_frame0.fa.txt
+6 71
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVQNMKSISDNELICLKPLNKISNLDFNGSKKQKLVKPKNRRPTESGTMERRSAFAI
+6 71
+set166_frame0
+HSRFGGTYVVQNMKSISDNELICLKPLNKISNLDFSGSKKSKFVKPKNRRPVESGVLERRSAFAV
+Original query = HSRFGGTYVVQNMKSISDNELICLKPLNKISNLDFNGSKKQKLVKPKNRRPTESGTMERRSAFAI
+New query = HSRFGGTYVVQNMKSISDNELICLKPLNKISNLDFSGSKKSKFVKPKNRRPVESGVLERRSAFAV
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22299633,22299815,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+9
+Parnassius_glacialis,JAVANC010000026.1,22287672,22287928,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Parnassius_glacialis,JAVANC010000026.1,22303351,22303507,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,2,51,51
+
+Getting Gene
+min = set244_frame1, 0.235
+5 top scores:
+[['set244_frame1', 0.235], ['set300_frame1', 1.788], ['set138_frame2', 1.802], ['set240_frame2', 1.819], ['set35_frame0', 1.798]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_244_frame1.fa.txt
+7 67
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNVLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRAHDFQVGFV
+7 67
+set244_frame1
+LFLKEFCIEFLNSSYNSLMHYVKDVLVRCKGQQNDESYYLWSLKFFMEFNRGYNFQVGLV
+Original query = LFLKEFCIEFLNSSYNVLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRAHDFQVGFV
+New query = LFLKEFCIEFLNSSYNSLMHYVKDVLVRCKGQQNDESYYLWSLKFFMEFNRGYNFQVGLV
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22302339,22302626,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Parnassius_glacialis,JAVANC010000026.1,22297700,22297897,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Parnassius_glacialis,JAVANC010000026.1,22303351,22303507,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,2,51,51
+
+Getting Gene
+min = set91_frame2, 0.231
+5 top scores:
+[['set27_frame0', 1.883], ['set122_frame0', 1.862], ['set91_frame2', 0.231]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_91_frame2.fa.txt
+13 108
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQMEKYYDMISVEKKKFTNWVRRLHLALRAYKELLHTLLAMDASKDHTVRESAKVLKSNIFYVLEYREFILSMYLNYDENKMP
+13 108
+set91_frame2
+ETMSVPMFHYVQQQMEKYYDMIKVEKKKYSTWVRRLHLALRAYKELLYTLLAMDKSTDPTVKESAKVLKSNIFYVLEYREFILTTFLNYDDNKMP
+Original query = ETMSVPMFHYVQQQMEKYYDMISVEKKKFTNWVRRLHLALRAYKELLHTLLAMDASKDHTVRESAKVLKSNIFYVLEYREFILSMYLNYDENKMP
+New query = ETMSVPMFHYVQQQMEKYYDMIKVEKKKYSTWVRRLHLALRAYKELLYTLLAMDKSTDPTVKESAKVLKSNIFYVLEYREFILTTFLNYDDNKMP
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22302708,22302826,0,Y,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_8,1,29,39
+
+6
+10
+Parnassius_glacialis,JAVANC010000026.1,22299633,22299815,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Parnassius_glacialis,JAVANC010000026.1,22305182,22305262,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set57_frame1, 0.148
+5 top scores:
+[['set57_frame1', 0.148], ['set11_frame2', 1.701], ['set87_frame2', 1.705], ['set119_frame2', 1.753], ['set115_frame2', 1.773]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_57_frame1.fa.txt
+136 175
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLVETVHLFLKMLEHYCKRTGLVVQKKVRKKTKAK
+136 175
+set57_frame1
+SYLVDLMETVHLFLKMLEYYCKKTGLVVQKKVRKKSKAK
+Original query = SYLVDLVETVHLFLKMLEHYCKRTGLVVQKKVRKKTKAK
+New query = SYLVDLMETVHLFLKMLEYYCKKTGLVVQKKVRKKSKAK
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22303351,22303507,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,2,51,51
+
+7
+11
+Parnassius_glacialis,JAVANC010000026.1,22302339,22302626,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Parnassius_glacialis,JAVANC010000026.1,22305580,22305689,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Getting Gene
+min = set29_frame0, 0.721
+5 top scores:
+[['set29_frame0', 0.721], ['set1_frame1', 1.799], ['set41_frame2', 1.801], ['set79_frame2', 1.819], ['set55_frame2', 1.827]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_29_frame0.fa.txt
+16 64
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9
+QKPKIKPKVIELSPWEEIRPQLAAVLSSGVEHYLPPFDAASETPIDQQ
+16 64
+set29_frame0
+QKTKSVP--VEIPAWEELRPQVACVLSAGLEQYPPPFDAASEVPIDQQ
+Original query = QKPKIKPKVIELSPWEEIRPQLAAVLSSGVEHYLPPFDAASETPIDQQ
+New query = QKTKSVP--VEIPAWEELRPQVACVLSAGLEQYPPPFDAASEVPIDQQ
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22305182,22305262,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+7
+12
+13
+Parnassius_glacialis,JAVANC010000026.1,22302339,22302626,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Parnassius_glacialis,JAVANC010000026.1,22311027,22311096,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Getting Gene
+min = set54_frame0, 0.393
+5 top scores:
+[['set54_frame0', 0.393], ['set125_frame2', 1.557], ['set18_frame1', 1.655], ['set159_frame2', 1.657], ['set174_frame2', 1.666]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_54_frame0.fa.txt
+5 31
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQRLMRDHKYEDVIGTFRAA
+5 31
+set54_frame0
+EDCMKKIQKLMRESQFEDAVGTFRAA
+Original query = EDCMKKIQRLMRDHKYEDVIGTFRAA
+New query = EDCMKKIQKLMRESQFEDAVGTFRAA
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22305580,22305689,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+9
+13
+Parnassius_glacialis,JAVANC010000026.1,22303351,22303507,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,2,51,51
+
+Parnassius_glacialis,JAVANC010000026.1,22311027,22311096,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Getting Gene
+min = set51_frame1, 0.433
+5 top scores:
+[['set51_frame1', 0.433], ['set144_frame0', 1.735], ['set37_frame1', 1.759], ['set145_frame1', 1.769], ['set143_frame1', 1.775]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_51_frame1.fa.txt
+19 55
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEDGIFGVSGMPEDEELDMLETIYNTDLGLDYE
+19 55
+set51_frame1
+EVWPEEGIFGVSGIAEDEELDMLQTIYSTDLGVEIN
+Original query = EVWPEDGIFGVSGMPEDEELDMLETIYNTDLGLDYE
+New query = EVWPEEGIFGVSGIAEDEELDMLQTIYSTDLGVEIN
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,0,0,0,Y,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_12,0,0,17
+
+10
+14
+Parnassius_glacialis,JAVANC010000026.1,22305182,22305262,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Parnassius_glacialis,JAVANC010000026.1,22318538,22318736,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set39_frame1, 1.386
+5 top scores:
+[['set39_frame1', 1.386], ['set132_frame2', 1.429], ['set45_frame2', 1.435], ['set244_frame1', 1.481], ['set156_frame2', 1.495]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_39_frame1.fa.txt
+1 15
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_12
+AQHEDAQEYSEDED
+1 15
+set39_frame1
+LKHKSPQELSVIKT
+Original query = AQHEDAQEYSEDED
+New query = LKHKSPQELSVIKT
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22311027,22311096,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+11
+15
+Parnassius_glacialis,JAVANC010000026.1,22305580,22305689,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Parnassius_glacialis,JAVANC010000026.1,22319451,22319599,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set99_frame1, 0.596
+5 top scores:
+[['set99_frame1', 0.596], ['set65_frame0', 1.456], ['set58_frame1', 1.504], ['set106_frame2', 1.542], ['set223_frame2', 1.561]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_99_frame1.fa.txt
+5 26
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13
+EDEEQGSAIVETDFDFQDFVL
+5 26
+set99_frame1
+EEAEHTTAVVETDFDFKDFVQ
+Original query = EDEEQGSAIVETDFDFQDFVL
+New query = EEAEHTTAVVETDFDFKDFVQ
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22318538,22318736,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Parnassius_glacialis,JAVANC010000026.1,22305580,22305689,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Parnassius_glacialis,JAVANC010000026.1,22329252,22329346,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Getting Gene
+min = set267_frame2, 0.331
+5 top scores:
+[['set267_frame2', 0.331], ['set380_frame1', 1.768], ['set12_frame2', 1.771], ['set316_frame2', 1.778], ['set168_frame0', 1.811]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_267_frame2.fa.txt
+4 70
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14
+FCHPKIVSACVCLLERYDKNRSHTNHCIVKMLHRIAFDCNRPAMMFQATLFLTFQKILHNPMPHLK
+4 70
+set267_frame2
+FCQPRVVSACASLMERYERNSAHTNHCILKMLHRIAWDCSRPSMMFQATLFLTFQRILHNPMPHFK
+Original query = FCHPKIVSACVCLLERYDKNRSHTNHCIVKMLHRIAFDCNRPAMMFQATLFLTFQKILHNPMPHLK
+New query = FCQPRVVSACASLMERYERNSAHTNHCILKMLHRIAWDCSRPSMMFQATLFLTFQRILHNPMPHFK
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22319451,22319599,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+17
+Parnassius_glacialis,JAVANC010000026.1,22311027,22311096,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Parnassius_glacialis,JAVANC010000026.1,22329864,22330073,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,68,69
+
+Getting Gene
+min = set167_frame0, 0.361
+5 top scores:
+[['set167_frame0', 0.361], ['set228_frame0', 1.701], ['set174_frame2', 1.705], ['set267_frame2', 1.743], ['set194_frame2', 1.773]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_167_frame0.fa.txt
+34 83
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFAIFILRKFADIASKSGKVFIELLFWKNSKDAVEIEHGYNLYNDP
+34 83
+set167_frame0
+ELEKFALFIFRKFAQIASKNPKVFIELLFWKSSKDSIEIEHGYDLYSDQ
+Original query = ELEKFAIFILRKFADIASKSGKVFIELLFWKNSKDAVEIEHGYNLYNDP
+New query = ELEKFALFIFRKFAQIASKNPKVFIELLFWKSSKDSIEIEHGYDLYSDQ
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22329252,22329346,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+14
+18
+Parnassius_glacialis,JAVANC010000026.1,22318538,22318736,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Parnassius_glacialis,JAVANC010000026.1,22336347,22336508,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,51,53
+
+Getting Gene
+min = set212_frame2, 0.468
+5 top scores:
+[['set212_frame2', 0.468], ['set228_frame0', 1.609], ['set142_frame1', 1.627], ['set173_frame1', 1.641], ['set316_frame2', 1.667]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_212_frame2.fa.txt
+17 48
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16
+DKLGKASWSEEQEDELRNLYMENQTNPQTDQ
+17 48
+set212_frame2
+DKLGKGVWTEEQEEELRKLFMENQTNPTTEK
+Original query = DKLGKASWSEEQEDELRNLYMENQTNPQTDQ
+New query = DKLGKGVWTEEQEEELRKLFMENQTNPTTEK
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22329864,22330073,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,68,69
+
+15
+19
+20
+Parnassius_glacialis,JAVANC010000026.1,22319451,22319599,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Parnassius_glacialis,JAVANC010000026.1,22339619,22339815,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set213_frame2, 0.532
+5 top scores:
+[['set213_frame2', 0.532], ['set328_frame2', 1.599], ['set358_frame2', 1.757], ['set240_frame1', 1.818], ['set252_frame1', 1.827]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_213_frame2.fa.txt
+23 92
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFNAPTKKSNKAR-TEKVTKDFTEEEDKLLTELWTQNAESQ
+23 92
+set213_frame2
+VIDWILENLIDQTRTRRGVIKKLKELGLIFKAPTKRSNKERLKEGVPKEFSEEEDAMLTDLWKQYGDSP
+Original query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFNAPTKKSNKARTEKVTKDFTEEEDKLLTELWTQNAESQ
+New query = VIDWILENLIDQTRTRRGVIKKLKELGLIFKAPTKRSNKERLKEGVPKEFSEEEDAMLTDLWKQYGDSP
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22336347,22336508,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,51,53
+
+16
+20
+Parnassius_glacialis,JAVANC010000026.1,22329252,22329346,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Parnassius_glacialis,JAVANC010000026.1,22339619,22339815,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set124_frame2, 0.735
+5 top scores:
+[['set124_frame2', 0.735], ['set141_frame2', 1.628], ['set113_frame2', 1.706], ['set47_frame0', 1.679], ['set52_frame0', 1.746]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_124_frame2.fa.txt
+16 60
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18
+PMSVIMERMPRNRSKRTFVERLLRLGLIDDKKQCRKKSIKNISG
+16 60
+set124_frame2
+PLGLIIPRMPRKRSRRSYVERLLELDLIQDKKQCRKRRQKQTKS
+Original query = PMSVIMERMPRNRSKRTFVERLLRLGLIDDKKQCRKKSIKNISG
+New query = PLGLIIPRMPRKRSRRSYVERLLELDLIQDKKQCRKRRQKQTKS
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22337682,22337879,0,Y,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_19,15,63,64
+
+17
+21
+Parnassius_glacialis,JAVANC010000026.1,22329864,22330073,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,68,69
+
+Parnassius_glacialis,JAVANC010000026.1,22340109,22340550,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+Getting Gene
+min = set146_frame2, 1.112
+5 top scores:
+[['set146_frame2', 1.112], ['set116_frame2', 1.755], ['set41_frame0', 1.761], ['set37_frame1', 1.796], ['set180_frame1', 1.796]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_146_frame2.fa.txt
+15 81
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19
+NSSDSESSKSEDEDAPPK-RPTIKIKSKKNLTKSKQ----SNKKSAESLELSANEIAELLVQAVEN
+15 81
+set146_frame2
+TSSDSESSDQSDSDSNVKVRSPLKVKKPVKKAEKKKLEARANKRPKKNLELSANEIAKLLVQAVDS
+Original query = NSSDSESSKSEDEDAPPKRPTIKIKSKKNLTKSKQSNKKSAESLELSANEIAELLVQAVEN
+New query = TSSDSESSDQSDSDSNVKVRSPLKVKKPVKKAEKKKLEARANKRPKKNLELSANEIAKLLVQAVDS
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22339619,22339815,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+18
+21
+Parnassius_glacialis,JAVANC010000026.1,22336347,22336508,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,51,53
+
+Parnassius_glacialis,JAVANC010000026.1,22340109,22340550,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+Getting Gene
+min = set76_frame1, 0.455
+5 top scores:
+[['set76_frame1', 0.455], ['set31_frame2', 1.809], ['set50_frame0', 1.86], ['set56_frame0', 1.818], ['set68_frame0', 1.816]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_76_frame1.fa.txt
+13 77
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20
+TEALNWLSENLEEVALDQEAEGFDPTSEGTPLVPISRESVQAIQDDLFRRVLKSLGIVPPVDEQ
+13 77
+set76_frame1
+AEALRWLAENLEEVALDQEAEGYDPTAEGTPLVPIGDDSVQAMENELFQKVLKGVGILPPADEQ
+Original query = HTEALNWLSENLEEVALDQEAEGFDPTSEGTPLVPISRESVQAIQDDLFRRVLKSLGIVPPVDEQ
+New query = AEALRWLAENLEEVALDQEAEGYDPTAEGTPLVPIGDDSVQAMENELFQKVLKGVGILPPADEQ
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22340109,22340550,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+19
+18
+21
+Parnassius_glacialis,JAVANC010000026.1,22336347,22336508,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,51,53
+
+Parnassius_glacialis,JAVANC010000026.1,22340109,22340550,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+Getting Gene
+min = set68_frame0, 1.055
+5 top scores:
+[['set68_frame0', 1.055]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_68_frame0.fa.txt
+0 159
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21
+ETYWRIPSSLHYETIRKRREIITKAVNKELIIDNRAAPETKKDNNDNGNNGNHNINDESDASDDDLFDNLRKIAKKSSETD-----NNPKSKNRKRTRSFESDDENKKKQRKDNIKDKDDENENENKDSDDDLLSFVKNTLHTELPDTEDILNALPEHS
+0 159
+set68_frame0
+ETYWRIPSQLHHETLRKRREIIVKAVNKELIIDEIVNTAVTEDKTEDKQANNESSDDE------DLFDSLRKLRDNNLETNITKSGNNNKASDRKRSRSCDEED-TSRKEKMQKIDEVDEQN------SDEDILSFAKKTLQRDEPDTEDILSNIPTHD
+Original query = ETYWRIPSSLHYETIRKRREIITKAVNKELIIDNRAAPETKKDNNDNGNNGNHNINDESDASDDDLFDNLRKIAKKSSETDNNPKSKNRKRTRSFESDDENKKKQRKDNIKDKDDENENENKDSDDDLLSFVKNTLHTELPDTEDILNALPEHS
+New query = ETYWRIPSQLHHETLRKRREIIVKAVNKELIIDEIVNTAVTEDKTEDKQANNESSDDE------DLFDSLRKLRDNNLETNITKSGNNNKASDRKRSRSCDEED-TSRKEKMQKIDEVDEQN------SDEDILSFAKKTLQRDEPDTEDILSNIPTHD
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22285632,22285815,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Parnassius_glacialis,JAVANC010000026.1,22285022,22285275,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Parnassius_glacialis,JAVANC010000026.1,22287672,22287928,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set13_frame2, 0.172
+5 top scores:
+[['set13_frame2', 0.172], ['set30_frame0', 1.846], ['set9_frame1', 1.829], ['set38_frame1', 1.743], ['set59_frame1', 1.816]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_13_frame2.fa.txt
+14 75
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQNYKEEAFTKVDVWQMFSKKLAKVLEI
+14 75
+set13_frame2
+LIVNLTNPALLLYREEVPIERTARHNYLQILSHLQWYKEEAFTKVETWQVFAKKLAKILEI
+Original query = LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQNYKEEAFTKVDVWQMFSKKLAKVLEI
+New query = LIVNLTNPALLLYREEVPIERTARHNYLQILSHLQWYKEEAFTKVETWQVFAKKLAKILEI
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22287330,22287464,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Parnassius_glacialis,JAVANC010000026.1,22285022,22285275,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Parnassius_glacialis,JAVANC010000026.1,22297700,22297897,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set59_frame1, 0.022
+5 top scores:
+[['set59_frame1', 0.022], ['set207_frame2', 1.714], ['set13_frame2', 1.724], ['set234_frame2', 1.748], ['set236_frame2', 1.766]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_59_frame1.fa.txt
+0 45
+Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+0 45
+set59_frame1
+DWTERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+New query = DWTERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22287672,22287928,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Parnassius_glacialis,JAVANC010000026.1,22285632,22285815,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Parnassius_glacialis,JAVANC010000026.1,22299633,22299815,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set52_frame0, 0.167
+5 top scores:
+[['set127_frame0', 1.777], ['set52_frame0', 0.167], ['set103_frame2', 1.799], ['set192_frame2', 1.818], ['set87_frame0', 1.821]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_52_frame0.fa.txt
+4 89
+Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLASAALQRSMDEKVRDEQELLTIRMTETKERQNKIRQFSGT
+4 89
+set52_frame0
+VLWALNQSGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLAHAALQRSIDEKLRDEQELLTIRMTETKERLNKIKQYSAS
+Original query = VLWALNQSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLASAALQRSMDEKVRDEQELLTIRMTETKERQNKIRQFSGT
+New query = VLWALNQSGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLAHAALQRSIDEKLRDEQELLTIRMTETKERLNKIKQYSAS
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22297700,22297897,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Parnassius_glacialis,JAVANC010000026.1,22287330,22287464,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Parnassius_glacialis,JAVANC010000026.1,22302339,22302626,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set166_frame0, 0.208
+5 top scores:
+[['set166_frame0', 0.208], ['set193_frame1', 1.705], ['set65_frame2', 1.758], ['set311_frame2', 1.781], ['set34_frame0', 1.776]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_166_frame0.fa.txt
+6 71
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVQNMKSISENEIISLKPLNNISSLDFNGSKKSRLVKPKNRRPVESGTLERRSAFAV
+6 71
+set166_frame0
+HSRFGGTYVVQNMKSISDNELICLKPLNKISNLDFSGSKKSKFVKPKNRRPVESGVLERRSAFAV
+Original query = HSRFGGTYVVQNMKSISENEIISLKPLNNISSLDFNGSKKSRLVKPKNRRPVESGTLERRSAFAV
+New query = HSRFGGTYVVQNMKSISDNELICLKPLNKISNLDFSGSKKSKFVKPKNRRPVESGVLERRSAFAV
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22299633,22299815,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+9
+Parnassius_glacialis,JAVANC010000026.1,22287672,22287928,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Parnassius_glacialis,JAVANC010000026.1,22303351,22303507,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,2,51,51
+
+Getting Gene
+min = set244_frame1, 0.224
+5 top scores:
+[['set244_frame1', 0.224], ['set300_frame1', 1.758], ['set13_frame2', 1.768], ['set138_frame2', 1.8], ['set35_frame0', 1.806]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_244_frame1.fa.txt
+7 67
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRSRAQQNDESYYLWAVKFFMEFNRGHHFQVGLV
+7 67
+set244_frame1
+LFLKEFCIEFLNSSYNSLMHYVKDVLVRCKGQQNDESYYLWSLKFFMEFNRGYNFQVGLV
+Original query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRSRAQQNDESYYLWAVKFFMEFNRGHHFQVGLV
+New query = LFLKEFCIEFLNSSYNSLMHYVKDVLVRCKGQQNDESYYLWSLKFFMEFNRGYNFQVGLV
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22302339,22302626,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Parnassius_glacialis,JAVANC010000026.1,22297700,22297897,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Parnassius_glacialis,JAVANC010000026.1,22303351,22303507,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,2,51,51
+
+Getting Gene
+min = set91_frame2, 0.138
+5 top scores:
+[['set27_frame0', 1.869], ['set122_frame0', 1.877], ['set91_frame2', 0.138]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_91_frame2.fa.txt
+13 108
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQMEKYYDMIKVEKKKFPAWVRRLHLSLRAYKELLNTLLAMDKSSDPTVKESAKVLKSNIFYVLEYREFILYTFLNYDDNKMP
+13 108
+set91_frame2
+ETMSVPMFHYVQQQMEKYYDMIKVEKKKYSTWVRRLHLALRAYKELLYTLLAMDKSTDPTVKESAKVLKSNIFYVLEYREFILTTFLNYDDNKMP
+Original query = ETMSVPMFHYVQQQMEKYYDMIKVEKKKFPAWVRRLHLSLRAYKELLNTLLAMDKSSDPTVKESAKVLKSNIFYVLEYREFILYTFLNYDDNKMP
+New query = ETMSVPMFHYVQQQMEKYYDMIKVEKKKYSTWVRRLHLALRAYKELLYTLLAMDKSTDPTVKESAKVLKSNIFYVLEYREFILTTFLNYDDNKMP
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22302708,22302826,0,Y,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_8,1,29,39
+
+6
+10
+Parnassius_glacialis,JAVANC010000026.1,22299633,22299815,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Parnassius_glacialis,JAVANC010000026.1,22305182,22305262,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set57_frame1, 0.059
+5 top scores:
+[['set57_frame1', 0.059], ['set11_frame2', 1.607], ['set103_frame2', 1.707], ['set129_frame2', 1.725], ['set63_frame2', 1.767]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_57_frame1.fa.txt
+136 175
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLVETVHLFLKMLEYYCKKTGLVVQKKVRKKSKSK
+136 175
+set57_frame1
+SYLVDLMETVHLFLKMLEYYCKKTGLVVQKKVRKKSKAK
+Original query = SYLVDLVETVHLFLKMLEYYCKKTGLVVQKKVRKKSKSK
+New query = SYLVDLMETVHLFLKMLEYYCKKTGLVVQKKVRKKSKAK
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22303351,22303507,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,2,51,51
+
+7
+11
+Parnassius_glacialis,JAVANC010000026.1,22302339,22302626,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Parnassius_glacialis,JAVANC010000026.1,22305580,22305689,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Getting Gene
+min = set29_frame0, 0.58
+5 top scores:
+[['set29_frame0', 0.58], ['set55_frame2', 1.805], ['set18_frame1', 1.849], ['set34_frame0', 1.847], ['set13_frame2', 1.858]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_29_frame0.fa.txt
+11 62
+Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9
+KKLHLQKAKQVAVEVPAWDVLCPQIACVLSAGVNEYPPPFDAASDIPIDQQ
+11 62
+set29_frame0
+PKKRPQKTKSVPVEIPAWEELRPQVACVLSAGLEQYPPPFDAASEVPIDQQ
+Original query = KKLHLQKAKQVAVEVPAWDVLCPQIACVLSAGVNEYPPPFDAASDIPIDQQ
+New query = PKKRPQKTKSVPVEIPAWEELRPQVACVLSAGLEQYPPPFDAASEVPIDQQ
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22305182,22305262,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+7
+12
+13
+Parnassius_glacialis,JAVANC010000026.1,22302339,22302626,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Parnassius_glacialis,JAVANC010000026.1,22311027,22311096,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Getting Gene
+min = set54_frame0, 0.067
+5 top scores:
+[['set54_frame0', 0.067], ['set174_frame2', 1.518], ['set41_frame2', 1.612], ['set186_frame1', 1.645], ['set140_frame2', 1.661]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_54_frame0.fa.txt
+5 31
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRESKFEDAIGTFRAA
+5 31
+set54_frame0
+EDCMKKIQKLMRESQFEDAVGTFRAA
+Original query = EDCMKKIQKLMRESKFEDAIGTFRAA
+New query = EDCMKKIQKLMRESQFEDAVGTFRAA
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22305580,22305689,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+9
+13
+Parnassius_glacialis,JAVANC010000026.1,22303351,22303507,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,2,51,51
+
+Parnassius_glacialis,JAVANC010000026.1,22311027,22311096,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Getting Gene
+min = set51_frame1, 0.096
+5 top scores:
+[['set51_frame1', 0.096], ['set132_frame2', 1.7], ['set16_frame1', 1.72], ['set17_frame2', 1.757], ['set49_frame2', 1.763]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_51_frame1.fa.txt
+19 55
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGVSGIAEDEELEMLQTIYNTDLGVEVN
+19 55
+set51_frame1
+EVWPEEGIFGVSGIAEDEELDMLQTIYSTDLGVEIN
+Original query = EVWPEEGIFGVSGIAEDEELEMLQTIYNTDLGVEVN
+New query = EVWPEEGIFGVSGIAEDEELDMLQTIYSTDLGVEIN
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,0,0,0,Y,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_12,0,0,17
+
+10
+14
+Parnassius_glacialis,JAVANC010000026.1,22305182,22305262,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Parnassius_glacialis,JAVANC010000026.1,22318538,22318736,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set45_frame2, 0.752
+5 top scores:
+[['set45_frame2', 0.752], ['set136_frame0', 1.519], ['set201_frame0', 1.544], ['set247_frame2', 1.558], ['set239_frame2', 1.581]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_45_frame2.fa.txt
+6 23
+Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_12
+VPEVEDESQDGYDNEED
+6 23
+set45_frame2
+VVENEDESQDDLDNEEE
+Original query = VPEVEDESQDGYDNEED
+New query = VVENEDESQDDLDNEEE
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22311027,22311096,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+11
+15
+Parnassius_glacialis,JAVANC010000026.1,22305580,22305689,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Parnassius_glacialis,JAVANC010000026.1,22319451,22319599,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set99_frame1, 0.363
+5 top scores:
+[['set99_frame1', 0.363], ['set52_frame2', 1.565], ['set106_frame2', 1.571], ['set273_frame2', 1.576], ['set278_frame2', 1.619]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_99_frame1.fa.txt
+4 26
+Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13
+EEEEANTTSVVETDFDFQDFVQ
+4 26
+set99_frame1
+EEEAEHTTAVVETDFDFKDFVQ
+Original query = EEEEANTTSVVETDFDFQDFVQ
+New query = EEEAEHTTAVVETDFDFKDFVQ
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22318538,22318736,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Parnassius_glacialis,JAVANC010000026.1,22305580,22305689,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Parnassius_glacialis,JAVANC010000026.1,22329252,22329346,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Getting Gene
+min = set267_frame2, 0.213
+5 top scores:
+[['set267_frame2', 0.213], ['set208_frame2', 1.786], ['set316_frame2', 1.791], ['set181_frame2', 1.793], ['set168_frame0', 1.792]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_267_frame2.fa.txt
+4 70
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14
+FCQPRVVSACAYLLERYEKNSAYTNHCIIKMLHRIAWDCKRPSMMFQASMFLTFQKIFHNPLPHFK
+4 70
+set267_frame2
+FCQPRVVSACASLMERYERNSAHTNHCILKMLHRIAWDCSRPSMMFQATLFLTFQRILHNPMPHFK
+Original query = FCQPRVVSACAYLLERYEKNSAYTNHCIIKMLHRIAWDCKRPSMMFQASMFLTFQKIFHNPLPHFK
+New query = FCQPRVVSACASLMERYERNSAHTNHCILKMLHRIAWDCSRPSMMFQATLFLTFQRILHNPMPHFK
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22319451,22319599,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+17
+Parnassius_glacialis,JAVANC010000026.1,22311027,22311096,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Parnassius_glacialis,JAVANC010000026.1,22329864,22330073,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,68,69
+
+Getting Gene
+min = set167_frame0, 0.252
+5 top scores:
+[['set167_frame0', 0.252], ['set167_frame2', 1.68], ['set267_frame2', 1.705], ['set28_frame1', 1.743], ['set6_frame2', 1.749]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_167_frame0.fa.txt
+34 83
+Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFGLFVFRKFSEVALKNTKVFIELLFWKSSKDAIDIEHGYDLYSDQ
+34 83
+set167_frame0
+ELEKFALFIFRKFAQIASKNPKVFIELLFWKSSKDSIEIEHGYDLYSDQ
+Original query = ELEKFGLFVFRKFSEVALKNTKVFIELLFWKSSKDAIDIEHGYDLYSDQ
+New query = ELEKFALFIFRKFAQIASKNPKVFIELLFWKSSKDSIEIEHGYDLYSDQ
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22329252,22329346,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+14
+18
+Parnassius_glacialis,JAVANC010000026.1,22318538,22318736,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Parnassius_glacialis,JAVANC010000026.1,22336347,22336508,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,51,53
+
+Getting Gene
+min = set212_frame2, 0.305
+5 top scores:
+[['set212_frame2', 0.305], ['set228_frame0', 1.625], ['set142_frame1', 1.641], ['set173_frame1', 1.644], ['set288_frame2', 1.664]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_212_frame2.fa.txt
+17 48
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16
+DKVGKGHWSEEQEDELRNLFMENQTNPTTEK
+17 48
+set212_frame2
+DKLGKGVWTEEQEEELRKLFMENQTNPTTEK
+Original query = DKVGKGHWSEEQEDELRNLFMENQTNPTTEK
+New query = DKLGKGVWTEEQEEELRKLFMENQTNPTTEK
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22329864,22330073,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,68,69
+
+15
+19
+20
+Parnassius_glacialis,JAVANC010000026.1,22319451,22319599,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Parnassius_glacialis,JAVANC010000026.1,22339619,22339815,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set213_frame2, 0.15
+5 top scores:
+[['set213_frame2', 0.15], ['set328_frame2', 1.648], ['set358_frame2', 1.719], ['set240_frame1', 1.806], ['set252_frame1', 1.813]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_213_frame2.fa.txt
+23 92
+Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRGVIKKLKELGLIFKAPTKRSNKERLKEKVPKEFSEEEDSLLIELWKQYGDSS
+23 92
+set213_frame2
+VIDWILENLIDQTRTRRGVIKKLKELGLIFKAPTKRSNKERLKEGVPKEFSEEEDAMLTDLWKQYGDSP
+Original query = VIDWILDNLIDQTRTRRGVIKKLKELGLIFKAPTKRSNKERLKEKVPKEFSEEEDSLLIELWKQYGDSS
+New query = VIDWILENLIDQTRTRRGVIKKLKELGLIFKAPTKRSNKERLKEGVPKEFSEEEDAMLTDLWKQYGDSP
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22336347,22336508,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,51,53
+
+16
+20
+Parnassius_glacialis,JAVANC010000026.1,22329252,22329346,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Parnassius_glacialis,JAVANC010000026.1,22339619,22339815,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set124_frame2, 0.515
+5 top scores:
+[['set124_frame2', 0.515], ['set154_frame2', 1.7], ['set160_frame0', 1.786], ['set130_frame1', 1.788], ['set52_frame0', 1.778]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_124_frame2.fa.txt
+16 69
+Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18
+PMGIIIPRMPRKRPRRSFVERLLELDLIQDKRQCRQKKQQKSKSDGNNSDRSD
+16 69
+set124_frame2
+PLGLIIPRMPRKRSRRSYVERLLELDLIQDKKQCRKRRQKQTKSKGTGDDKDT
+Original query = PMGIIIPRMPRKRPRRSFVERLLELDLIQDKRQCRQKKQQKSKSDGNNSDRSD
+New query = PLGLIIPRMPRKRSRRSYVERLLELDLIQDKKQCRKRRQKQTKSKGTGDDKDT
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22337682,22337879,0,Y,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_19,15,63,64
+
+17
+21
+Parnassius_glacialis,JAVANC010000026.1,22329864,22330073,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,68,69
+
+Parnassius_glacialis,JAVANC010000026.1,22340109,22340550,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+Getting Gene
+min = set146_frame2, 0.688
+5 top scores:
+[['set146_frame2', 0.688], ['set41_frame0', 1.709], ['set43_frame1', 1.762], ['set1_frame2', 1.78], ['set116_frame2', 1.797]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_146_frame2.fa.txt
+16 81
+Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_19
+SSSSSESDESDSDSNIRVRSP-KIKKNIKKIDKRRTDASSNRKANKTVELSANEIAKLLVQAVNK
+16 81
+set146_frame2
+SSDSESSDQSDSDSNVKVRSPLKVKKPVKKAEKKKLEARANKRPKKNLELSANEIAKLLVQAVDS
+Original query = SSSSSESDESDSDSNIRVRSPKIKKNIKKIDKRRTDASSNRKANKTVELSANEIAKLLVQAVNK
+New query = SSDSESSDQSDSDSNVKVRSPLKVKKPVKKAEKKKLEARANKRPKKNLELSANEIAKLLVQAVDS
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22339619,22339815,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+18
+21
+Parnassius_glacialis,JAVANC010000026.1,22336347,22336508,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,51,53
+
+Parnassius_glacialis,JAVANC010000026.1,22340109,22340550,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+Getting Gene
+min = set76_frame1, 0.2
+5 top scores:
+[['set76_frame1', 0.2], ['set31_frame2', 1.815], ['set50_frame0', 1.867], ['set56_frame0', 1.898], ['set68_frame0', 1.837]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_76_frame1.fa.txt
+12 77
+Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20
+FSEALKWVAENLEEVALDQEAEGYDPSAEGTPLVPISDDSVQAMDNRMFHKVLKGVGILPPADEQ
+12 77
+set76_frame1
+FAEALRWLAENLEEVALDQEAEGYDPTAEGTPLVPIGDDSVQAMENELFQKVLKGVGILPPADEQ
+Original query = FSEALKWVAENLEEVALDQEAEGYDPSAEGTPLVPISDDSVQAMDNRMFHKVLKGVGILPPADEQ
+New query = FAEALRWLAENLEEVALDQEAEGYDPTAEGTPLVPIGDDSVQAMENELFQKVLKGVGILPPADEQ
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22340109,22340550,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+19
+18
+21
+Parnassius_glacialis,JAVANC010000026.1,22336347,22336508,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,51,53
+
+Parnassius_glacialis,JAVANC010000026.1,22340109,22340550,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+Getting Gene
+min = set68_frame0, 0.8
+5 top scores:
+[['set68_frame0', 0.8]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_68_frame0.fa.txt
+0 102
+set68_frame0
+ETYWRIPSQLHHETLRKRREIIVKAVNKELIID--EIVNTAVTEDKTEDKQANNESSDDEDLFDSLRKLRDNNLETNITKSGNNNKASDRKRSRSCDEEDTS
+Original query = ETYWRIPSHLHFNTIRKRREIILKAINKELIINDAEISNTITAEESEKNEKEESSDDEDLFDSLRKLRDNNTEEYVNKSNNKTNTRKRSRSSDDEDNGKEKLQRIEEELIEKSDEEDILSFAKKTLQCDDEPDTEDILKSIPKHIS
+New query = ETYWRIPSQLHHETLRKRREIIVKAVNKELIID--EIVNTAVTEDKTEDKQANNESSDDEDLFDSLRKLRDNNLETNITKSGNNNKASDRKRSRSCDEEDTS
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22285632,22285815,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Parnassius_glacialis,JAVANC010000026.1,22285022,22285275,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Parnassius_glacialis,JAVANC010000026.1,22287672,22287928,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set13_frame2, 0.172
+5 top scores:
+[['set13_frame2', 0.172], ['set30_frame0', 1.846], ['set9_frame1', 1.829], ['set38_frame1', 1.743], ['set59_frame1', 1.816]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_13_frame2.fa.txt
+14 75
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQNYKEEAFTKVDVWQMFSKKLAKVLEI
+14 75
+set13_frame2
+LIVNLTNPALLLYREEVPIERTARHNYLQILSHLQWYKEEAFTKVETWQVFAKKLAKILEI
+Original query = LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQNYKEEAFTKVDVWQMFSKKLAKVLEI
+New query = LIVNLTNPALLLYREEVPIERTARHNYLQILSHLQWYKEEAFTKVETWQVFAKKLAKILEI
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22287330,22287464,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Parnassius_glacialis,JAVANC010000026.1,22285022,22285275,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Parnassius_glacialis,JAVANC010000026.1,22297700,22297897,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set59_frame1, 0.022
+5 top scores:
+[['set59_frame1', 0.022], ['set207_frame2', 1.714], ['set13_frame2', 1.724], ['set234_frame2', 1.748], ['set236_frame2', 1.766]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_59_frame1.fa.txt
+0 45
+Papilio_machaon_XM_045678832.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+0 45
+set59_frame1
+DWTERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+New query = DWTERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22287672,22287928,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Parnassius_glacialis,JAVANC010000026.1,22285632,22285815,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Parnassius_glacialis,JAVANC010000026.1,22299633,22299815,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set52_frame0, 0.164
+5 top scores:
+[['set127_frame0', 1.789], ['set52_frame0', 0.164], ['set103_frame2', 1.812], ['set192_frame2', 1.819], ['set87_frame0', 1.83]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_52_frame0.fa.txt
+4 89
+Papilio_machaon_XM_045678832.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQSGLLDIILYMSSENEKQYFMHILEIISHLLREQNPTSLASAALQRSMDEKVRDEQELLTIRMTETKERQNKIRQYSGT
+4 89
+set52_frame0
+VLWALNQSGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLAHAALQRSIDEKLRDEQELLTIRMTETKERLNKIKQYSAS
+Original query = VLWALNQSGLLDIILYMSSENEKQYFMHILEIISHLLREQNPTSLASAALQRSMDEKVRDEQELLTIRMTETKERQNKIRQYSGT
+New query = VLWALNQSGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLAHAALQRSIDEKLRDEQELLTIRMTETKERLNKIKQYSAS
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22297700,22297897,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Parnassius_glacialis,JAVANC010000026.1,22287330,22287464,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Parnassius_glacialis,JAVANC010000026.1,22302339,22302626,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set166_frame0, 0.222
+5 top scores:
+[['set166_frame0', 0.222], ['set193_frame1', 1.737], ['set65_frame2', 1.763], ['set154_frame2', 1.765], ['set34_frame0', 1.792]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_166_frame0.fa.txt
+6 71
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVQNMKSISDNEIISLKPLNNISSLDFNGSKKSRLVKPKHRRPVESGALERRSAFAV
+6 71
+set166_frame0
+HSRFGGTYVVQNMKSISDNELICLKPLNKISNLDFSGSKKSKFVKPKNRRPVESGVLERRSAFAV
+Original query = HSRFGGTYVVQNMKSISDNEIISLKPLNNISSLDFNGSKKSRLVKPKHRRPVESGALERRSAFAV
+New query = HSRFGGTYVVQNMKSISDNELICLKPLNKISNLDFSGSKKSKFVKPKNRRPVESGVLERRSAFAV
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22299633,22299815,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+9
+Parnassius_glacialis,JAVANC010000026.1,22287672,22287928,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Parnassius_glacialis,JAVANC010000026.1,22303351,22303507,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,2,51,51
+
+Getting Gene
+min = set244_frame1, 0.186
+5 top scores:
+[['set244_frame1', 0.186], ['set300_frame1', 1.757], ['set13_frame2', 1.767], ['set138_frame2', 1.795], ['set197_frame1', 1.813]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_244_frame1.fa.txt
+7 67
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRSRAQQNDESYYLWAVKFFMEFNRGHNFQVGLV
+7 67
+set244_frame1
+LFLKEFCIEFLNSSYNSLMHYVKDVLVRCKGQQNDESYYLWSLKFFMEFNRGYNFQVGLV
+Original query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRSRAQQNDESYYLWAVKFFMEFNRGHNFQVGLV
+New query = LFLKEFCIEFLNSSYNSLMHYVKDVLVRCKGQQNDESYYLWSLKFFMEFNRGYNFQVGLV
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22302339,22302626,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Parnassius_glacialis,JAVANC010000026.1,22297700,22297897,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Parnassius_glacialis,JAVANC010000026.1,22303351,22303507,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,2,51,51
+
+Getting Gene
+min = set91_frame2, 0.184
+5 top scores:
+[['set27_frame0', 1.879], ['set122_frame0', 1.877], ['set91_frame2', 0.184]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_91_frame2.fa.txt
+13 108
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQMEKYYDMIKVEKKKFPAWVRRLHLSLRAYKELLNTLLAMDKSNDSTVKDSAKVLKSNIFYVLEYREFILYTFLNYDDNKMP
+13 108
+set91_frame2
+ETMSVPMFHYVQQQMEKYYDMIKVEKKKYSTWVRRLHLALRAYKELLYTLLAMDKSTDPTVKESAKVLKSNIFYVLEYREFILTTFLNYDDNKMP
+Original query = ETMSVPMFHYVQQQMEKYYDMIKVEKKKFPAWVRRLHLSLRAYKELLNTLLAMDKSNDSTVKDSAKVLKSNIFYVLEYREFILYTFLNYDDNKMP
+New query = ETMSVPMFHYVQQQMEKYYDMIKVEKKKYSTWVRRLHLALRAYKELLYTLLAMDKSTDPTVKESAKVLKSNIFYVLEYREFILTTFLNYDDNKMP
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22302708,22302826,0,Y,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_8,1,29,39
+
+6
+10
+Parnassius_glacialis,JAVANC010000026.1,22299633,22299815,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Parnassius_glacialis,JAVANC010000026.1,22305182,22305262,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set57_frame1, 0.11
+5 top scores:
+[['set57_frame1', 0.11], ['set11_frame2', 1.647], ['set87_frame2', 1.722], ['set119_frame2', 1.751], ['set66_frame2', 1.768]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_57_frame1.fa.txt
+136 175
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKSKSK
+136 175
+set57_frame1
+SYLVDLMETVHLFLKMLEYYCKKTGLVVQKKVRKKSKAK
+Original query = SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKSKSK
+New query = SYLVDLMETVHLFLKMLEYYCKKTGLVVQKKVRKKSKAK
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22303351,22303507,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,2,51,51
+
+7
+11
+Parnassius_glacialis,JAVANC010000026.1,22302339,22302626,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Parnassius_glacialis,JAVANC010000026.1,22305580,22305689,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Getting Gene
+min = set29_frame0, 0.499
+5 top scores:
+[['set29_frame0', 0.499], ['set55_frame2', 1.788], ['set1_frame1', 1.843], ['set18_frame1', 1.849], ['set13_frame2', 1.862]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_29_frame0.fa.txt
+11 62
+Papilio_machaon_XM_045678832.1_Frame_2_rightoh_2_query_Exon_9
+KKHQAQKVKHVPVEVPAWDVLCPQIACVLSAGLNEYPPPFDAASDVPIDQQ
+11 62
+set29_frame0
+PKKRPQKTKSVPVEIPAWEELRPQVACVLSAGLEQYPPPFDAASEVPIDQQ
+Original query = KKHQAQKVKHVPVEVPAWDVLCPQIACVLSAGLNEYPPPFDAASDVPIDQQ
+New query = PKKRPQKTKSVPVEIPAWEELRPQVACVLSAGLEQYPPPFDAASEVPIDQQ
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22305182,22305262,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+7
+12
+13
+Parnassius_glacialis,JAVANC010000026.1,22302339,22302626,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Parnassius_glacialis,JAVANC010000026.1,22311027,22311096,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Getting Gene
+min = set54_frame0, 0.067
+5 top scores:
+[['set54_frame0', 0.067], ['set174_frame2', 1.518], ['set41_frame2', 1.612], ['set186_frame1', 1.645], ['set140_frame2', 1.661]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_54_frame0.fa.txt
+5 31
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRESKFEDAIGTFRAA
+5 31
+set54_frame0
+EDCMKKIQKLMRESQFEDAVGTFRAA
+Original query = EDCMKKIQKLMRESKFEDAIGTFRAA
+New query = EDCMKKIQKLMRESQFEDAVGTFRAA
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22305580,22305689,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+9
+13
+Parnassius_glacialis,JAVANC010000026.1,22303351,22303507,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,2,51,51
+
+Parnassius_glacialis,JAVANC010000026.1,22311027,22311096,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Getting Gene
+min = set51_frame1, 0.176
+5 top scores:
+[['set51_frame1', 0.176], ['set27_frame1', 1.683], ['set132_frame2', 1.718], ['set96_frame2', 1.761], ['set6_frame2', 1.773]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_51_frame1.fa.txt
+19 55
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGVSGIPEDEELEMLQTIYNTDLGVEVN
+19 55
+set51_frame1
+EVWPEEGIFGVSGIAEDEELDMLQTIYSTDLGVEIN
+Original query = EVWPEEGIFGVSGIPEDEELEMLQTIYNTDLGVEVN
+New query = EVWPEEGIFGVSGIAEDEELDMLQTIYSTDLGVEIN
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,0,0,0,Y,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_12,0,0,17
+
+10
+14
+Parnassius_glacialis,JAVANC010000026.1,22305182,22305262,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Parnassius_glacialis,JAVANC010000026.1,22318538,22318736,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set45_frame2, 0.836
+5 top scores:
+[['set45_frame2', 0.836], ['set163_frame1', 1.505], ['set15_frame0', 1.554], ['set175_frame1', 1.554], ['set247_frame2', 1.558]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_45_frame2.fa.txt
+6 23
+Papilio_machaon_XM_045678832.1_Frame_2_rightoh_1_query_Exon_12
+VPEVEDESQDGYDYEEE
+6 23
+set45_frame2
+VVENEDESQDDLDNEEE
+Original query = VPEVEDESQDGYDYEEE
+New query = VVENEDESQDDLDNEEE
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22311027,22311096,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+11
+15
+Parnassius_glacialis,JAVANC010000026.1,22305580,22305689,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Parnassius_glacialis,JAVANC010000026.1,22319451,22319599,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set99_frame1, 0.507
+5 top scores:
+[['set99_frame1', 0.507], ['set52_frame2', 1.5], ['set106_frame2', 1.573], ['set273_frame2', 1.578], ['set278_frame2', 1.621]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_99_frame1.fa.txt
+4 26
+Papilio_machaon_XM_045678832.1_Frame_2_rightoh_2_query_Exon_13
+EEDEANATSVVETDFDFQDFVQ
+4 26
+set99_frame1
+EEEAEHTTAVVETDFDFKDFVQ
+Original query = EEDEANATSVVETDFDFQDFVQ
+New query = EEEAEHTTAVVETDFDFKDFVQ
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22318538,22318736,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Parnassius_glacialis,JAVANC010000026.1,22305580,22305689,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Parnassius_glacialis,JAVANC010000026.1,22329252,22329346,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Getting Gene
+min = set267_frame2, 0.247
+5 top scores:
+[['set267_frame2', 0.247], ['set208_frame2', 1.786], ['set316_frame2', 1.791], ['set408_frame2', 1.803], ['set168_frame0', 1.792]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_267_frame2.fa.txt
+4 70
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_0_query_Exon_14
+FCHPRVVSACAYLLERYEKNSAYTNHCIIKMLHRIAWDCKRPSMMFQASMFLTFQKIFHNPLPHFK
+4 70
+set267_frame2
+FCQPRVVSACASLMERYERNSAHTNHCILKMLHRIAWDCSRPSMMFQATLFLTFQRILHNPMPHFK
+Original query = FCHPRVVSACAYLLERYEKNSAYTNHCIIKMLHRIAWDCKRPSMMFQASMFLTFQKIFHNPLPHFK
+New query = FCQPRVVSACASLMERYERNSAHTNHCILKMLHRIAWDCSRPSMMFQATLFLTFQRILHNPMPHFK
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22319451,22319599,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+17
+Parnassius_glacialis,JAVANC010000026.1,22311027,22311096,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Parnassius_glacialis,JAVANC010000026.1,22329864,22330073,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,68,69
+
+Getting Gene
+min = set167_frame0, 0.252
+5 top scores:
+[['set167_frame0', 0.252], ['set167_frame2', 1.68], ['set267_frame2', 1.705], ['set28_frame1', 1.743], ['set6_frame2', 1.749]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_167_frame0.fa.txt
+34 83
+Papilio_machaon_XM_045678832.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFGLFVFRKFSEVALKNTKVFIELLFWKSSKDAIDIEHGYDLYSDQ
+34 83
+set167_frame0
+ELEKFALFIFRKFAQIASKNPKVFIELLFWKSSKDSIEIEHGYDLYSDQ
+Original query = ELEKFGLFVFRKFSEVALKNTKVFIELLFWKSSKDAIDIEHGYDLYSDQ
+New query = ELEKFALFIFRKFAQIASKNPKVFIELLFWKSSKDSIEIEHGYDLYSDQ
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22329252,22329346,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+14
+18
+Parnassius_glacialis,JAVANC010000026.1,22318538,22318736,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Parnassius_glacialis,JAVANC010000026.1,22336347,22336508,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,51,53
+
+Getting Gene
+min = set212_frame2, 0.305
+5 top scores:
+[['set212_frame2', 0.305], ['set228_frame0', 1.625], ['set142_frame1', 1.641], ['set173_frame1', 1.644], ['set288_frame2', 1.664]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_212_frame2.fa.txt
+17 48
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_1_query_Exon_16
+DKVGKGHWSEEQEDELRNLFMENQTNPTTEK
+17 48
+set212_frame2
+DKLGKGVWTEEQEEELRKLFMENQTNPTTEK
+Original query = DKVGKGHWSEEQEDELRNLFMENQTNPTTEK
+New query = DKLGKGVWTEEQEEELRKLFMENQTNPTTEK
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22329864,22330073,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,68,69
+
+15
+19
+20
+Parnassius_glacialis,JAVANC010000026.1,22319451,22319599,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Parnassius_glacialis,JAVANC010000026.1,22339619,22339815,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set213_frame2, 0.179
+5 top scores:
+[['set213_frame2', 0.179], ['set328_frame2', 1.663], ['set358_frame2', 1.746], ['set261_frame1', 1.813], ['set252_frame1', 1.814]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_213_frame2.fa.txt
+23 92
+Papilio_machaon_XM_045678832.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRGVIKKLKELGLIFKAPTKRSTKERFKEKVPKEFSEEEDSLLIELWKQYGDSP
+23 92
+set213_frame2
+VIDWILENLIDQTRTRRGVIKKLKELGLIFKAPTKRSNKERLKEGVPKEFSEEEDAMLTDLWKQYGDSP
+Original query = VIDWILDNLIDQTRTRRGVIKKLKELGLIFKAPTKRSTKERFKEKVPKEFSEEEDSLLIELWKQYGDSP
+New query = VIDWILENLIDQTRTRRGVIKKLKELGLIFKAPTKRSNKERLKEGVPKEFSEEEDAMLTDLWKQYGDSP
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22336347,22336508,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,51,53
+
+16
+20
+Parnassius_glacialis,JAVANC010000026.1,22329252,22329346,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Parnassius_glacialis,JAVANC010000026.1,22339619,22339815,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set124_frame2, 0.508
+5 top scores:
+[['set124_frame2', 0.508], ['set154_frame2', 1.704], ['set1_frame2', 1.77], ['set47_frame0', 1.762], ['set113_frame2', 1.776]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_124_frame2.fa.txt
+16 69
+Papilio_machaon_XM_045678832.1_Frame_2_rightoh_1_query_Exon_18
+PMGVIIPRMPRKRPKRSFVERLLELDLIQDKRQCRKKKQRKSKSDGNNSDRSD
+16 69
+set124_frame2
+PLGLIIPRMPRKRSRRSYVERLLELDLIQDKKQCRKRRQKQTKSKGTGDDKDT
+Original query = PMGVIIPRMPRKRPKRSFVERLLELDLIQDKRQCRKKKQRKSKSDGNNSDRSD
+New query = PLGLIIPRMPRKRSRRSYVERLLELDLIQDKKQCRKRRQKQTKSKGTGDDKDT
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22337682,22337879,0,Y,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_19,15,63,64
+
+17
+21
+Parnassius_glacialis,JAVANC010000026.1,22329864,22330073,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,68,69
+
+Parnassius_glacialis,JAVANC010000026.1,22340109,22340550,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+Getting Gene
+min = set146_frame2, 0.629
+5 top scores:
+[['set146_frame2', 0.629], ['set43_frame1', 1.753], ['set105_frame2', 1.764], ['set93_frame1', 1.79], ['set116_frame2', 1.811]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_146_frame2.fa.txt
+15 81
+Papilio_machaon_XM_045678832.1_Frame_2_rightoh_1_query_Exon_19
+SSSSSESSDESDSDNNIKVRSP-KVKKNIQKIDKRKTDASKNRKANKTIELSANEIAKLLVQAVDN
+15 81
+set146_frame2
+TSSDSESSDQSDSDSNVKVRSPLKVKKPVKKAEKKKLEARANKRPKKNLELSANEIAKLLVQAVDS
+Original query = SSSSSESSDESDSDNNIKVRSPKVKKNIQKIDKRKTDASKNRKANKTIELSANEIAKLLVQAVDN
+New query = TSSDSESSDQSDSDSNVKVRSPLKVKKPVKKAEKKKLEARANKRPKKNLELSANEIAKLLVQAVDS
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22339619,22339815,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+18
+21
+Parnassius_glacialis,JAVANC010000026.1,22336347,22336508,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,51,53
+
+Parnassius_glacialis,JAVANC010000026.1,22340109,22340550,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+Getting Gene
+min = set76_frame1, 0.214
+5 top scores:
+[['set76_frame1', 0.214], ['set31_frame2', 1.816], ['set50_frame0', 1.856], ['set1_frame2', 1.866], ['set68_frame0', 1.834]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_76_frame1.fa.txt
+12 77
+Papilio_machaon_XM_045678832.1_Frame_2_rightoh_0_query_Exon_20
+FGEALKWVAENLEEVALDQEAEGYDPNAEGTPLVPISDDSVQAMENQMFHKVLKGIGLLPPADEQ
+12 77
+set76_frame1
+FAEALRWLAENLEEVALDQEAEGYDPTAEGTPLVPIGDDSVQAMENELFQKVLKGVGILPPADEQ
+Original query = FGEALKWVAENLEEVALDQEAEGYDPNAEGTPLVPISDDSVQAMENQMFHKVLKGIGLLPPADEQ
+New query = FAEALRWLAENLEEVALDQEAEGYDPTAEGTPLVPIGDDSVQAMENELFQKVLKGVGILPPADEQ
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22340109,22340550,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+19
+18
+21
+Parnassius_glacialis,JAVANC010000026.1,22336347,22336508,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,51,53
+
+Parnassius_glacialis,JAVANC010000026.1,22340109,22340550,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+Getting Gene
+min = set68_frame0, 0.799
+5 top scores:
+[['set68_frame0', 0.799]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_68_frame0.fa.txt
+0 102
+set68_frame0
+ETYWRIPSQLHHETLRKRREIIVKAVNKELII--DEIVNTAVTEDKTEDKQANNESSDDEDLFDSLRKLRDNNLETNITKSGNNNKASDRKRSRSCDEEDTS
+Original query = ETYWRIPSHLHFDTIRKRREIILKAINKELIINDEEITNNIISEESEKNEKEESSDDEDLFDSLRKLRDNNTEEYVNKSMNKTNTRKRSRSSDDEDNGKEKLQRIEEEQIEEKSDEEDILSFAKKTLQCEDEPDTEDILKSIPKHNS
+New query = ETYWRIPSQLHHETLRKRREIIVKAVNKELII--DEIVNTAVTEDKTEDKQANNESSDDEDLFDSLRKLRDNNLETNITKSGNNNKASDRKRSRSCDEEDTS
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22285632,22285815,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Parnassius_glacialis,JAVANC010000026.1,22285022,22285275,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Parnassius_glacialis,JAVANC010000026.1,22287672,22287928,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set13_frame2, 0.108
+5 top scores:
+[['set13_frame2', 0.108], ['set30_frame0', 1.856], ['set9_frame1', 1.864], ['set38_frame1', 1.76], ['set59_frame1', 1.794]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_13_frame2.fa.txt
+14 75
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPAERSARHNYLQILSHLQSYKEEAFTKVETWQVFSKKLAKILEI
+14 75
+set13_frame2
+LIVNLTNPALLLYREEVPIERTARHNYLQILSHLQWYKEEAFTKVETWQVFAKKLAKILEI
+Original query = LIVNLTNPALLLYREEVPAERSARHNYLQILSHLQSYKEEAFTKVETWQVFSKKLAKILEI
+New query = LIVNLTNPALLLYREEVPIERTARHNYLQILSHLQWYKEEAFTKVETWQVFAKKLAKILEI
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22287330,22287464,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Parnassius_glacialis,JAVANC010000026.1,22285022,22285275,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Parnassius_glacialis,JAVANC010000026.1,22297700,22297897,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set59_frame1, 0.032
+5 top scores:
+[['set59_frame1', 0.032], ['set207_frame2', 1.708], ['set13_frame2', 1.724], ['set234_frame2', 1.748], ['set236_frame2', 1.766]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_59_frame1.fa.txt
+0 45
+Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+0 45
+set59_frame1
+DWTERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+New query = DWTERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22287672,22287928,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Parnassius_glacialis,JAVANC010000026.1,22285632,22285815,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Parnassius_glacialis,JAVANC010000026.1,22299633,22299815,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set52_frame0, 0.201
+5 top scores:
+[['set127_frame0', 1.814], ['set52_frame0', 0.201], ['set103_frame2', 1.818], ['set192_frame2', 1.821], ['set87_frame0', 1.841]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_52_frame0.fa.txt
+4 89
+Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMMRMSESKERLNKVKLYSAT
+4 89
+set52_frame0
+VLWALNQSGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLAHAALQRSIDEKLRDEQELLTIRMTETKERLNKIKQYSAS
+Original query = VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMMRMSESKERLNKVKLYSAT
+New query = VLWALNQSGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLAHAALQRSIDEKLRDEQELLTIRMTETKERLNKIKQYSAS
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22297700,22297897,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Parnassius_glacialis,JAVANC010000026.1,22287330,22287464,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Parnassius_glacialis,JAVANC010000026.1,22302339,22302626,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set166_frame0, 0.206
+5 top scores:
+[['set166_frame0', 0.206], ['set193_frame1', 1.738], ['set65_frame2', 1.76], ['set311_frame2', 1.782], ['set34_frame0', 1.761]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_166_frame0.fa.txt
+6 71
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVQNMKSISENQLISLKPLNKISDLDFNGSKKSKLVRPKNRRPVESGFLERRSAFAI
+6 71
+set166_frame0
+HSRFGGTYVVQNMKSISDNELICLKPLNKISNLDFSGSKKSKFVKPKNRRPVESGVLERRSAFAV
+Original query = HSRFGGTYVVQNMKSISENQLISLKPLNKISDLDFNGSKKSKLVRPKNRRPVESGFLERRSAFAI
+New query = HSRFGGTYVVQNMKSISDNELICLKPLNKISNLDFSGSKKSKFVKPKNRRPVESGVLERRSAFAV
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22299633,22299815,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+9
+Parnassius_glacialis,JAVANC010000026.1,22287672,22287928,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Parnassius_glacialis,JAVANC010000026.1,22303351,22303507,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,2,51,51
+
+Getting Gene
+min = set244_frame1, 0.185
+5 top scores:
+[['set244_frame1', 0.185], ['set300_frame1', 1.738], ['set94_frame2', 1.791], ['set138_frame2', 1.799], ['set148_frame2', 1.827]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_244_frame1.fa.txt
+7 67
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNTSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+7 67
+set244_frame1
+LFLKEFCIEFLNSSYNSLMHYVKDVLVRCKGQQNDESYYLWSLKFFMEFNRGYNFQVGLV
+Original query = LFLKEFCIEFLNTSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+New query = LFLKEFCIEFLNSSYNSLMHYVKDVLVRCKGQQNDESYYLWSLKFFMEFNRGYNFQVGLV
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22302339,22302626,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Parnassius_glacialis,JAVANC010000026.1,22297700,22297897,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Parnassius_glacialis,JAVANC010000026.1,22303351,22303507,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,2,51,51
+
+Getting Gene
+min = set91_frame2, 0.189
+5 top scores:
+[['set27_frame0', 1.888], ['set122_frame0', 1.877], ['set91_frame2', 0.189]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_91_frame2.fa.txt
+13 108
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQLEKYYDMIKIEKKKFAPWVRRLHLSLRAYKELLNTLLAMDKSTDDSVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+13 108
+set91_frame2
+ETMSVPMFHYVQQQMEKYYDMIKVEKKKYSTWVRRLHLALRAYKELLYTLLAMDKSTDPTVKESAKVLKSNIFYVLEYREFILTTFLNYDDNKMP
+Original query = ETMSVPMFHYVQQQLEKYYDMIKIEKKKFAPWVRRLHLSLRAYKELLNTLLAMDKSTDDSVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+New query = ETMSVPMFHYVQQQMEKYYDMIKVEKKKYSTWVRRLHLALRAYKELLYTLLAMDKSTDPTVKESAKVLKSNIFYVLEYREFILTTFLNYDDNKMP
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22302708,22302826,0,Y,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_8,1,29,39
+
+6
+10
+Parnassius_glacialis,JAVANC010000026.1,22299633,22299815,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Parnassius_glacialis,JAVANC010000026.1,22305182,22305262,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set57_frame1, 0.227
+5 top scores:
+[['set57_frame1', 0.227], ['set11_frame2', 1.679], ['set103_frame2', 1.736], ['set119_frame2', 1.741], ['set38_frame1', 1.781]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_57_frame1.fa.txt
+136 176
+set57_frame1
+SYLVDLMETVHLFLKMLEYYCKKTGLVVQKKVRKKSKAKS
+Original query = SYLVDLIETIHLFLKMLEHYCKKTGLMVQKKVRRKAKTKSK
+New query = SYLVDLMETVHLFLKMLEYYCKKTGLVVQKKVRKKSKAKS
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22303351,22303507,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,2,51,51
+
+7
+11
+Parnassius_glacialis,JAVANC010000026.1,22302339,22302626,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Parnassius_glacialis,JAVANC010000026.1,22305580,22305689,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Getting Gene
+min = set29_frame0, 0.754
+5 top scores:
+[['set29_frame0', 0.754], ['set41_frame2', 1.807], ['set55_frame2', 1.822], ['set79_frame2', 1.851], ['set45_frame0', 1.787]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_29_frame0.fa.txt
+13 62
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_2_query_Exon_9
+QKSRAAKPAAAEVAPWEEARLQVAAVLSAGVEHCPPPFDAASDVPIDQQ
+13 62
+set29_frame0
+KRPQKTKSVPVEIPAWEELRPQVACVLSAGLEQYPPPFDAASEVPIDQQ
+Original query = QKSRAAKPAAAEVAPWEEARLQVAAVLSAGVEHCPPPFDAASDVPIDQQ
+New query = KRPQKTKSVPVEIPAWEELRPQVACVLSAGLEQYPPPFDAASEVPIDQQ
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22305182,22305262,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+7
+12
+13
+Parnassius_glacialis,JAVANC010000026.1,22302339,22302626,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Parnassius_glacialis,JAVANC010000026.1,22311027,22311096,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Getting Gene
+min = set54_frame0, 0.275
+5 top scores:
+[['set54_frame0', 0.275], ['set125_frame2', 1.518], ['set159_frame2', 1.619], ['set174_frame2', 1.655], ['set44_frame2', 1.69]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_54_frame0.fa.txt
+5 31
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRDHKYEDAVGTFRAA
+5 31
+set54_frame0
+EDCMKKIQKLMRESQFEDAVGTFRAA
+Original query = EDCMKKIQKLMRDHKYEDAVGTFRAA
+New query = EDCMKKIQKLMRESQFEDAVGTFRAA
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22305580,22305689,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+9
+13
+Parnassius_glacialis,JAVANC010000026.1,22303351,22303507,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,2,51,51
+
+Parnassius_glacialis,JAVANC010000026.1,22311027,22311096,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Getting Gene
+min = set51_frame1, 0.275
+5 top scores:
+[['set51_frame1', 0.275], ['set132_frame2', 1.752], ['set144_frame0', 1.755], ['set37_frame1', 1.759], ['set63_frame1', 1.76]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_51_frame1.fa.txt
+19 55
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGVDGIPEDEELDMLETIYNTDLGVEVT
+19 55
+set51_frame1
+EVWPEEGIFGVSGIAEDEELDMLQTIYSTDLGVEIN
+Original query = EVWPEEGIFGVDGIPEDEELDMLETIYNTDLGVEVT
+New query = EVWPEEGIFGVSGIAEDEELDMLQTIYSTDLGVEIN
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,0,0,0,Y,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_12,0,0,17
+
+10
+14
+Parnassius_glacialis,JAVANC010000026.1,22305182,22305262,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Parnassius_glacialis,JAVANC010000026.1,22318538,22318736,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set45_frame2, 1.288
+5 top scores:
+[['set45_frame2', 1.288], ['set177_frame2', 1.405], ['set218_frame1', 1.447], ['set282_frame2', 1.456], ['set165_frame2', 1.515]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_45_frame2.fa.txt
+0 23
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_12
+NVPV--------ETQDNSEYDEE
+0 23
+set45_frame2
+KYFFTDVVENEDESQDDLDNEEE
+Original query = NVPVETQDNSEYDEE
+New query = KYFFTDVVENEDESQDDLDNEEE
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22311027,22311096,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+11
+15
+Parnassius_glacialis,JAVANC010000026.1,22305580,22305689,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Parnassius_glacialis,JAVANC010000026.1,22319451,22319599,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set99_frame1, 0.501
+5 top scores:
+[['set99_frame1', 0.501], ['set202_frame2', 1.581], ['set106_frame2', 1.595], ['set79_frame2', 1.61], ['set21_frame0', 1.621]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_99_frame1.fa.txt
+3 26
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_2_query_Exon_13
+EENEEEKSTAVVETDFDFQDFVL
+3 26
+set99_frame1
+DEEEAEHTTAVVETDFDFKDFVQ
+Original query = EENEEEKSTAVVETDFDFQDFVL
+New query = DEEEAEHTTAVVETDFDFKDFVQ
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22318538,22318736,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Parnassius_glacialis,JAVANC010000026.1,22305580,22305689,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Parnassius_glacialis,JAVANC010000026.1,22329252,22329346,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Getting Gene
+min = set267_frame2, 0.364
+5 top scores:
+[['set267_frame2', 0.364], ['set380_frame1', 1.751], ['set100_frame2', 1.781], ['set181_frame2', 1.8], ['set292_frame1', 1.812]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_267_frame2.fa.txt
+4 70
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_0_query_Exon_14
+FCHPRVVSACVCLLERYDKNLPHTNHCIVKMLHRIAWDCNRPVMMFQASLFLIFQRILHNPVPHLK
+4 70
+set267_frame2
+FCQPRVVSACASLMERYERNSAHTNHCILKMLHRIAWDCSRPSMMFQATLFLTFQRILHNPMPHFK
+Original query = FCHPRVVSACVCLLERYDKNLPHTNHCIVKMLHRIAWDCNRPVMMFQASLFLIFQRILHNPVPHLK
+New query = FCQPRVVSACASLMERYERNSAHTNHCILKMLHRIAWDCSRPSMMFQATLFLTFQRILHNPMPHFK
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22319451,22319599,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+17
+Parnassius_glacialis,JAVANC010000026.1,22311027,22311096,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,1,22,22
+
+Parnassius_glacialis,JAVANC010000026.1,22329864,22330073,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,68,69
+
+Getting Gene
+min = set167_frame0, 0.383
+5 top scores:
+[['set167_frame0', 0.383], ['set228_frame0', 1.699], ['set174_frame2', 1.705], ['set373_frame1', 1.721], ['set267_frame2', 1.738]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_167_frame0.fa.txt
+34 83
+Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFAVFILRKFSEIASRSGKVFIELLFWKNSKDAVEIEHGYELYNDP
+34 83
+set167_frame0
+ELEKFALFIFRKFAQIASKNPKVFIELLFWKSSKDSIEIEHGYDLYSDQ
+Original query = ELEKFAVFILRKFSEIASRSGKVFIELLFWKNSKDAVEIEHGYELYNDP
+New query = ELEKFALFIFRKFAQIASKNPKVFIELLFWKSSKDSIEIEHGYDLYSDQ
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22329252,22329346,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+14
+18
+Parnassius_glacialis,JAVANC010000026.1,22318538,22318736,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Parnassius_glacialis,JAVANC010000026.1,22336347,22336508,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,51,53
+
+Getting Gene
+min = set212_frame2, 0.442
+5 top scores:
+[['set212_frame2', 0.442], ['set208_frame0', 1.621], ['set102_frame1', 1.622], ['set173_frame1', 1.648], ['set218_frame1', 1.666]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_212_frame2.fa.txt
+17 48
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_1_query_Exon_16
+DKPGKGAWSEEQEEELRKLYMENQANPETDQ
+17 48
+set212_frame2
+DKLGKGVWTEEQEEELRKLFMENQTNPTTEK
+Original query = DKPGKGAWSEEQEEELRKLYMENQANPETDQ
+New query = DKLGKGVWTEEQEEELRKLFMENQTNPTTEK
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22329864,22330073,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,68,69
+
+15
+19
+20
+Parnassius_glacialis,JAVANC010000026.1,22319451,22319599,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Parnassius_glacialis,JAVANC010000026.1,22339619,22339815,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set213_frame2, 0.365
+5 top scores:
+[['set213_frame2', 0.365], ['set328_frame2', 1.634], ['set358_frame2', 1.765], ['set261_frame1', 1.829], ['set63_frame0', 1.824]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_213_frame2.fa.txt
+23 92
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILENLIDQTRTRRGVIKKLKELGLVFKAPTKKTNRER-REKVPKDFSEEEDEMLRELWNQYEDTP
+23 92
+set213_frame2
+VIDWILENLIDQTRTRRGVIKKLKELGLIFKAPTKRSNKERLKEGVPKEFSEEEDAMLTDLWKQYGDSP
+Original query = VIDWILENLIDQTRTRRGVIKKLKELGLVFKAPTKKTNRERREKVPKDFSEEEDEMLRELWNQYEDTP
+New query = VIDWILENLIDQTRTRRGVIKKLKELGLIFKAPTKRSNKERLKEGVPKEFSEEEDAMLTDLWKQYGDSP
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22336347,22336508,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,51,53
+
+16
+20
+Parnassius_glacialis,JAVANC010000026.1,22329252,22329346,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Parnassius_glacialis,JAVANC010000026.1,22339619,22339815,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set124_frame2, 0.597
+5 top scores:
+[['set124_frame2', 0.597], ['set63_frame1', 1.724], ['set68_frame1', 1.752], ['set137_frame1', 1.757], ['set1_frame2', 1.768]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_124_frame2.fa.txt
+16 69
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_18
+PMALILPRMPRKRSKRSFVDRLLELGVIQDRKQCRKKKQRRAKS--AADDKSN
+16 69
+set124_frame2
+PLGLIIPRMPRKRSRRSYVERLLELDLIQDKKQCRKRRQKQTKSKGTGDDKDT
+Original query = PMALILPRMPRKRSKRSFVDRLLELGVIQDRKQCRKKKQRRAKSAADDKSN
+New query = PLGLIIPRMPRKRSRRSYVERLLELDLIQDKKQCRKRRQKQTKSKGTGDDKDT
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22337682,22337879,0,Y,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_19,15,63,64
+
+17
+21
+Parnassius_glacialis,JAVANC010000026.1,22329864,22330073,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,68,69
+
+Parnassius_glacialis,JAVANC010000026.1,22340109,22340550,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+Getting Gene
+min = set146_frame2, 1.12
+5 top scores:
+[['set146_frame2', 1.12], ['set105_frame2', 1.766], ['set116_frame2', 1.818], ['set92_frame1', 1.83], ['set180_frame1', 1.862]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_146_frame2.fa.txt
+18 84
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_19
+SSSESEASNSDSENDIVSPPAITVKPKKKNKTNAEKKQQIKNKKPVKSAELSANEIAKLLVQAVDE
+18 84
+set146_frame2
+DSESSDQSDSDSNVKVRSPLKVKKPVKKAEKKKLEAR---ANKRPKKNLELSANEIAKLLVQAVDS
+Original query = SSSESEASNSDSENDIVSPPAITVKPKKKNKTNAEKKQQIKNKKPVKSAELSANEIAKLLVQAVDE
+New query = DSESSDQSDSDSNVKVRSPLKVKKPVKKAEKKKLEAR---ANKRPKKNLELSANEIAKLLVQAVDS
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22339619,22339815,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+18
+21
+Parnassius_glacialis,JAVANC010000026.1,22336347,22336508,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,51,53
+
+Parnassius_glacialis,JAVANC010000026.1,22340109,22340550,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+Getting Gene
+min = set76_frame1, 0.371
+5 top scores:
+[['set76_frame1', 0.371], ['set31_frame2', 1.803], ['set50_frame0', 1.886], ['set56_frame0', 1.854], ['set68_frame0', 1.84]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_76_frame1.fa.txt
+12 77
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_0_query_Exon_20
+YTEGLRWLAENLEEVALDQEAEGFDPTAEGTPLVPISSESVEAMDSALFTTVLKSIGILPPVDEQ
+12 77
+set76_frame1
+FAEALRWLAENLEEVALDQEAEGYDPTAEGTPLVPIGDDSVQAMENELFQKVLKGVGILPPADEQ
+Original query = YTEGLRWLAENLEEVALDQEAEGFDPTAEGTPLVPISSESVEAMDSALFTTVLKSIGILPPVDEQ
+New query = FAEALRWLAENLEEVALDQEAEGYDPTAEGTPLVPIGDDSVQAMENELFQKVLKGVGILPPADEQ
+Scaffold = JAVANC010000026.1, start = 22285022, end = 22285275
+Parnassius_glacialis,JAVANC010000026.1,22340109,22340550,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+19
+18
+21
+Parnassius_glacialis,JAVANC010000026.1,22336347,22336508,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,51,53
+
+Parnassius_glacialis,JAVANC010000026.1,22340109,22340550,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+Getting Gene
+min = set68_frame0, 0.923
+5 top scores:
+[['set68_frame0', 0.923]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Parnassius_glacialis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_68_frame0.fa.txt
+0 166
+Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_1_query_Exon_21
+ETYWRIPSNLHHATIRKRREIIIKAVNKELIIDNANYDQSNKFNNAEEPPKSKAESSDDDDLFDNLRKMRDNIPEKIDAVSNHKSIPNNKNVSNNASVSNGKIESKNRKRSRSID-SDEGNNRKMQRIDEIEDE--DEDILSFAKKTLQTELPDTEDILSGLPQHS
+0 166
+set68_frame0
+ETYWRIPSQLHHETLRKRREIIVKAVNKELIIDEIV--NTAVTEDKTEDKQANNESSDDEDLFDSLRKLRDN------------------NLETNITKSGNNNKASDRKRSRSCDEEDTSRKEKMQKIDEVDEQNSDEDILSFAKKTLQRDEPDTEDILSNIPTHD
+Original query = ETYWRIPSNLHHATIRKRREIIIKAVNKELIIDNANYDQSNKFNNAEEPPKSKAESSDDDDLFDNLRKMRDNIPEKIDAVSNHKSIPNNKNVSNNASVSNGKIESKNRKRSRSIDSDEGNNRKMQRIDEIEDEDEDILSFAKKTLQTELPDTEDILSGLPQHS
+New query = ETYWRIPSQLHHETLRKRREIIVKAVNKELIIDEIV--NTAVTEDKTEDKQANNESSDDEDLFDSLRKLRDN------------------NLETNITKSGNNNKASDRKRSRSCDEEDTSRKEKMQKIDEVDEQNSDEDILSFAKKTLQRDEPDTEDILSNIPTHD

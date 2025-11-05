@@ -1,0 +1,1039 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12']
+Lysandra_bellargus
+Processing Exon_2
+Lysandra_bellargus_coordinates_Aricia_agestis.csv
+1 query coordinate
+41
+[[1, 2]]
+reached here
+Before splice: 49824,49949
+after splice: 49824,49949
+sequence:
+TCGGTGCCAGCGTACGAGCTGACAGTGGAGGCCGCGGGCGCAGTTGCGGTGGCTTGCGCCCAGGCCAACACCGCCTCGGCGCAGCACCACCAGCACCATGAACACAGGAAGAGGACGTCCTCCAG
+sequence:
+SVPAYELTVEAAGAVAVACAQANTASAQHHQHHEHRKRTSS
+left = AG, right =GT, stop_counter = 0
+SVPAYELTVEAAGAVAVACAQANTASAQHHQHHEHRKRTSS
+[[1, 2]]
+start_coordinate : 3697420,stop_coordinate : 3697298
+49824 49949 Y N
+Lysandra_bellargus,HG995319.1,3697296,3697421,1,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_2,1,41,41,Y,N
+
+Lysandra_bellargus
+Processing Exon_3
+Lysandra_bellargus_coordinates_Aricia_agestis.csv
+1 query coordinate
+23
+[[1, 2]]
+reached here
+Before splice: 59492,59563
+after splice: 59492,59563
+sequence:
+AAATCAGGCAGCGTTTACGATGACGATACcactgaggattcctcttcgaGCCGCACCCTGTCTGATAAGAA
+sequence:
+KSGSVYDDDTTEDSSSSRTLSDK
+left = AG, right =GT, stop_counter = 0
+KSGSVYDDDTTEDSSSSRTLSDK
+[[1, 2]]
+start_coordinate : 3687752,stop_coordinate : 3687684
+59492 59563 Y N
+Lysandra_bellargus,HG995319.1,3687682,3687753,1,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_3,1,23,23,Y,N
+
+Lysandra_bellargus
+Processing Exon_4
+Lysandra_bellargus_coordinates_Aricia_agestis.csv
+1 query coordinate
+112
+[[1, 0]]
+reached here
+Before splice: 60530,60866
+after splice: 60530,60866
+sequence:
+CAAAACCACAGCGAGATTGAAAAAAGAAGGCGCGATAAAATGAACACGTACATATCGGAGCTGAGCGCGATGATACCAATGTGCGGGGCGATGTCCCGAAAGCTGGACAAATTGACAGTTCTCCGCATGGCTGTACAACATCTTAAGTCCGTGCGAGGAGCCCTATCAGCCGGGCCGCTAACGGCCAGACCTATACCTGCCTTCATATCTGAGACGGAACTAAACTCGCTGGTTCTACAGGCGGCCAAAGATTGCTTCTTGATGGTAGTTGGATGCGACCGGGGCAGGTTGATATACGTTTCCGCGTCTGTCACCCAAATGCTGTATTATGAACAG
+sequence:
+QNHSEIEKRRRDKMNTYISELSAMIPMCGAMSRKLDKLTVLRMAVQHLKSVRGALSAGPLTARPIPAFISETELNSLVLQAAKDCFLMVVGCDRGRLIYVSASVTQMLYYEQ
+left = AG, right =GT, stop_counter = 0
+QNHSEIEKRRRDKMNTYISELSAMIPMCGAMSRKLDKLTVLRMAVQHLKSVRGALSAGPLTARPIPAFISETELNSLVLQAAKDCFLMVVGCDRGRLIYVSASVTQMLYYEQ
+[[1, 0]]
+start_coordinate : 3686714,stop_coordinate : 3686379
+60530 60866 Y N
+Lysandra_bellargus,HG995319.1,3686379,3686715,1,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_0_query_Exon_4,1,112,112,Y,N
+
+Lysandra_bellargus
+Processing Exon_5
+Lysandra_bellargus_coordinates_Aricia_agestis.csv
+1 query coordinate
+39
+[[0, 1]]
+reached here
+Before splice: 60951,61068
+after splice: 60951,61068
+sequence:
+TCAGAACTTCTCGGCCAGAGTTTATTTGATATCCTCCATCCAAAGGACGTAGCAAAGGTGAAAGAACAACTGTCTTCGTCTGATCTGAGCCCACGAGAAAGACTTATTGACGCGAAAA
+sequence:
+SELLGQSLFDILHPKDVAKVKEQLSSSDLSPRERLIDAK
+left = aG, right =GT, stop_counter = 0
+SELLGQSLFDILHPKDVAKVKEQLSSSDLSPRERLIDAK
+[[0, 1]]
+start_coordinate : 3686294,stop_coordinate : 3686178
+60951 61068 Y N
+Lysandra_bellargus,HG995319.1,3686177,3686294,1,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_1_query_Exon_5,1,39,39,Y,N
+
+Lysandra_bellargus
+Processing Exon_6
+Lysandra_bellargus_coordinates_Aricia_agestis.csv
+1 query coordinate
+74
+[[2, 1]]
+reached here
+Before splice: 62800,63024
+after splice: 62800,63024
+sequence:
+ATGTTACCTGTAAAACCGGATGTCGTAGCTGGGGCTTCTAGACTCTGTCCTGGCGCGCGCCGCTCGTTCTTCTGCCGGATCAAATGTAAAGCGAACTCATTCGCTTCTGCCGCTAATACCACCGCTAGCACACAGCCGAACGTTAAAGATGAATCTGAGCCTACAGCAAAACTACGGAAGAAACAGGGGCCCgagaaaaaatattgtgttgtcCAATGCACTG
+sequence:
+MLPVKPDVVAGASRLCPGARRSFFCRIKCKANSFASAANTTASTQPNVKDESEPTAKLRKKQGPEKKYCVVQCT
+left = AG, right =GT, stop_counter = 0
+MLPVKPDVVAGASRLCPGARRSFFCRIKCKANSFASAANTTASTQPNVKDESEPTAKLRKKQGPEKKYCVVQCT
+[[2, 1]]
+start_coordinate : 3684443,stop_coordinate : 3684222
+62800 63024 Y N
+Lysandra_bellargus,HG995319.1,3684221,3684445,1,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_1_query_Exon_6,1,74,74,Y,N
+
+Lysandra_bellargus
+Processing Exon_7
+Lysandra_bellargus_coordinates_Aricia_agestis.csv
+1 query coordinate
+72
+[[2, 2]]
+reached here
+Before splice: 63410,63626
+after splice: 63410,63626
+sequence:
+TACCTCAAATCCTGGGCTCCAGTAGAGATTTCGGAAGGTGGAATAGACACGGGGCCTGATGATGGCGAAGCTAACAACCTCTCCTGTCTAGTGGCTGTCGGTCGCGCATTAAATGACTTGATACCAACCCAACTCAGCTCAGCATCCCGAACGAGAAACGTCAACAATTTCGTACCACAACAGAACGATACCAAATATGGATACAATATAGACCA
+sequence:
+YLKSWAPVEISEGGIDTGPDDGEANNLSCLVAVGRALNDLIPTQLSSASRTRNVNNFVPQQNDTKYGYNID
+left = AG, right =AA, stop_counter = 0
+sequence:
+TACCTCAAATCCTGGGCTCCAGTAGAGATTTCGGAAGGTGGAATAGACACGGGGCCTGATGATGGCGAAGCTAACAACCTCTCCTGTCTAGTGGCTGTCGGTCGCGCATTAAATGACTTGATACCAACCCAACTCAGCTCAGCATCCCGAACGAGAAACGTCAACAATTTCGTACCACAACAGAACGATACCAAATATGGATACAATATAGACCAAAA
+sequence:
+YLKSWAPVEISEGGIDTGPDDGEANNLSCLVAVGRALNDLIPTQLSSASRTRNVNNFVPQQNDTKYGYNIDQ
+left = AG, right =GT, stop_counter = 0
+YLKSWAPVEISEGGIDTGPDDGEANNLSCLVAVGRALNDLIPTQLSSASRTRNVNNFVPQQNDTKYGYNIDQ
+[[2, 2]]
+start_coordinate : 3683833,stop_coordinate : 3683618
+63410 63629 Y N
+Lysandra_bellargus,HG995319.1,3683616,3683835,1,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_2_query_Exon_7,1,72,72,Y,N
+
+Lysandra_bellargus
+Processing Exon_8
+Lysandra_bellargus_coordinates_Aricia_agestis.csv
+1 query coordinate
+31
+[[1, 1]]
+reached here
+Before splice: 65994,66088
+after splice: 65994,66088
+sequence:
+AAACCAAGAGCAAAAGAAATGGATTGTCTGGTACCAAACGAAATAACAGAAGTCCAATCTCAAGAAGATTGTCAATACGATGTCTATAAACAAA
+sequence:
+KPRAKEMDCLVPNEITEVQSQEDCQYDVYKQ
+left = AG, right =GT, stop_counter = 0
+KPRAKEMDCLVPNEITEVQSQEDCQYDVYKQ
+[[1, 1]]
+start_coordinate : 3681250,stop_coordinate : 3681158
+65994 66088 Y N
+Lysandra_bellargus,HG995319.1,3681157,3681251,1,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_1_query_Exon_8,1,31,31,Y,N
+
+Lysandra_bellargus
+Processing Exon_9
+Lysandra_bellargus_coordinates_Aricia_agestis.csv
+1 query coordinate
+69
+[[2, 2]]
+reached here
+Before splice: 67149,67359
+after splice: 67149,67359
+sequence:
+TACATGAAACCTTGGGTACCGTCGAACCTGTCTGAGAGTAGAAGTTCTGATGCTGGGTCAGGTAACTCTGAATGTAATCTGCCGTGCATGACGGTAGGCCAAAATCTAAATGATATTTCGCTAAACAGCAGTTCGGGGCCGCTCATAAGACCGCTCCAATACATATCTAGACACGCCACCGATGGAAAATTTTTATTCGTGGACCAAAG
+sequence:
+YMKPWVPSNLSESRSSDAGSGNSECNLPCMTVGQNLNDISLNSSSGPLIRPLQYISRHATDGKFLFVDQ
+left = AG, right =GT, stop_counter = 0
+YMKPWVPSNLSESRSSDAGSGNSECNLPCMTVGQNLNDISLNSSSGPLIRPLQYISRHATDGKFLFVDQ
+[[2, 2]]
+start_coordinate : 3680094,stop_coordinate : 3679888
+67149 67359 Y N
+Lysandra_bellargus,HG995319.1,3679886,3680096,1,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_2_query_Exon_9,1,69,69,Y,N
+
+Lysandra_bellargus
+Processing Exon_10
+Lysandra_bellargus_coordinates_Aricia_agestis.csv
+1 query coordinate
+67
+[[1, 2]]
+reached here
+Before splice: 67881,68084
+after splice: 67881,68084
+sequence:
+GTGACGTTGGCCCTAGGTTTCCTACCGCAGGAGTTGCTGGGATCCAGCCTGTATGAGTATGTTAGCGGTCCCGAGTTGGGCGCCGTCGCTCGGACCCACAAGGCATCGCTTCTCCGCCGCGACCCGATGCGTACGCCGCCGTACAACTTCAGACGAAAAGATGGCGCGTACGTCCGCATACAAACGCACTTCAAGCCGTTCAG
+sequence:
+VTLALGFLPQELLGSSLYEYVSGPELGAVARTHKASLLRRDPMRTPPYNFRRKDGAYVRIQTHFKPF
+left = AG, right =GT, stop_counter = 0
+VTLALGFLPQELLGSSLYEYVSGPELGAVARTHKASLLRRDPMRTPPYNFRRKDGAYVRIQTHFKPF
+[[1, 2]]
+start_coordinate : 3679363,stop_coordinate : 3679163
+67881 68084 Y N
+Lysandra_bellargus,HG995319.1,3679161,3679364,1,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_10,1,67,67,Y,N
+
+Lysandra_bellargus
+Processing Exon_11
+Lysandra_bellargus_coordinates_Aricia_agestis.csv
+1 query coordinate
+37
+[[1, 1]]
+reached here
+Before splice: 68268,68380
+after splice: 68268,68380
+sequence:
+AACCCTTGGACGAAAGACGTCGAGTGTCTGGTTGCTAACAACATCGTAGTGACAGACATACATAAACAATTATCAGAGGAGGACTGCCAACGCTTCGACGTTTTCAAACAGA
+sequence:
+NPWTKDVECLVANNIVVTDIHKQLSEEDCQRFDVFKQ
+left = AG, right =GT, stop_counter = 0
+NPWTKDVECLVANNIVVTDIHKQLSEEDCQRFDVFKQ
+[[1, 1]]
+start_coordinate : 3678976,stop_coordinate : 3678866
+68268 68380 Y N
+Lysandra_bellargus,HG995319.1,3678865,3678977,1,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_1_query_Exon_11,1,37,37,Y,N
+
+Lysandra_bellargus
+Processing Exon_12
+Lysandra_bellargus_coordinates_Aricia_agestis.csv
+1 query coordinate
+63
+[[2, 0]]
+reached here
+Before splice: 70770,70954
+after splice: 70770,70954
+sequence:
+GGCGCGGTGTACGGTGAAAGTGCGGTTTCAGAAGCCGATCTCGAAATGCAGCGACTGATCGACTCGCAGGTCGAGTCGCATAAGATCGGCTCGACAATCGCCGAGGAAGTGCTGAGGAGGGCATCGCGAGACCAAAGCCCAGAGCTGCCGGTTGACCTGCTGCAGGACGCTGTCTTCAATCAA
+sequence:
+GAVYGESAVSEADLEMQRLIDSQVESHKIGSTIAEEVLRRASRDQSPELPVDLLQDAVFNQ
+left = AG, right =CA, stop_counter = 0
+sequence:
+GGCGCGGTGTACGGTGAAAGTGCGGTTTCAGAAGCCGATCTCGAAATGCAGCGACTGATCGACTCGCAGGTCGAGTCGCATAAGATCGGCTCGACAATCGCCGAGGAAGTGCTGAGGAGGGCATCGCGAGACCAAAGCCCAGAGCTGCCGGTTGACCTGCTGCAGGACGCTGTCTTCAATCAACAG
+sequence:
+GAVYGESAVSEADLEMQRLIDSQVESHKIGSTIAEEVLRRASRDQSPELPVDLLQDAVFNQQ
+left = AG, right =GT, stop_counter = 0
+GAVYGESAVSEADLEMQRLIDSQVESHKIGSTIAEEVLRRASRDQSPELPVDLLQDAVFNQQ
+[[2, 0]]
+start_coordinate : 3676473,stop_coordinate : 3676288
+70770 70957 Y N
+Lysandra_bellargus,HG995319.1,3676288,3676475,1,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_0_query_Exon_12,1,62,62,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12']
+Lysandra_bellargus
+Processing Exon_2
+0 query coordinate
+Lysandra_bellargus_coordinates_Aricia_agestis.csv
+Query_error
+Lysandra_bellargus
+Processing Exon_3
+Lysandra_bellargus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+23
+[[1, 2]]
+reached here
+Before splice: 59492,59563
+after splice: 59492,59563
+sequence:
+AAATCAGGCAGCGTTTACGATGACGATACcactgaggattcctcttcgaGCCGCACCCTGTCTGATAAGAA
+sequence:
+KSGSVYDDDTTEDSSSSRTLSDK
+left = AG, right =GT, stop_counter = 0
+KSGSVYDDDTTEDSSSSRTLSDK
+[[1, 2]]
+start_coordinate : 3687752,stop_coordinate : 3687684
+59492 59563 Y N
+Lysandra_bellargus,HG995319.1,3687682,3687753,1,N,Danaus_plexippus_XM_061526053.1_Frame_1_rightoh_2_query_Exon_3,1,23,23,Y,N
+
+Lysandra_bellargus
+Processing Exon_4
+Lysandra_bellargus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+112
+[[1, 0]]
+reached here
+Before splice: 60530,60866
+after splice: 60530,60866
+sequence:
+CAAAACCACAGCGAGATTGAAAAAAGAAGGCGCGATAAAATGAACACGTACATATCGGAGCTGAGCGCGATGATACCAATGTGCGGGGCGATGTCCCGAAAGCTGGACAAATTGACAGTTCTCCGCATGGCTGTACAACATCTTAAGTCCGTGCGAGGAGCCCTATCAGCCGGGCCGCTAACGGCCAGACCTATACCTGCCTTCATATCTGAGACGGAACTAAACTCGCTGGTTCTACAGGCGGCCAAAGATTGCTTCTTGATGGTAGTTGGATGCGACCGGGGCAGGTTGATATACGTTTCCGCGTCTGTCACCCAAATGCTGTATTATGAACAG
+sequence:
+QNHSEIEKRRRDKMNTYISELSAMIPMCGAMSRKLDKLTVLRMAVQHLKSVRGALSAGPLTARPIPAFISETELNSLVLQAAKDCFLMVVGCDRGRLIYVSASVTQMLYYEQ
+left = AG, right =GT, stop_counter = 0
+QNHSEIEKRRRDKMNTYISELSAMIPMCGAMSRKLDKLTVLRMAVQHLKSVRGALSAGPLTARPIPAFISETELNSLVLQAAKDCFLMVVGCDRGRLIYVSASVTQMLYYEQ
+[[1, 0]]
+start_coordinate : 3686714,stop_coordinate : 3686379
+60530 60866 Y N
+Lysandra_bellargus,HG995319.1,3686379,3686715,1,N,Danaus_plexippus_XM_061526053.1_Frame_1_rightoh_0_query_Exon_4,1,112,112,Y,N
+
+Lysandra_bellargus
+Processing Exon_5
+Lysandra_bellargus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+39
+[[0, 1]]
+reached here
+Before splice: 60951,61068
+after splice: 60951,61068
+sequence:
+TCAGAACTTCTCGGCCAGAGTTTATTTGATATCCTCCATCCAAAGGACGTAGCAAAGGTGAAAGAACAACTGTCTTCGTCTGATCTGAGCCCACGAGAAAGACTTATTGACGCGAAAA
+sequence:
+SELLGQSLFDILHPKDVAKVKEQLSSSDLSPRERLIDAK
+left = aG, right =GT, stop_counter = 0
+SELLGQSLFDILHPKDVAKVKEQLSSSDLSPRERLIDAK
+[[0, 1]]
+start_coordinate : 3686294,stop_coordinate : 3686178
+60951 61068 Y N
+Lysandra_bellargus,HG995319.1,3686177,3686294,1,N,Danaus_plexippus_XM_061526053.1_Frame_0_rightoh_1_query_Exon_5,1,39,39,Y,N
+
+Lysandra_bellargus
+Processing Exon_6
+Lysandra_bellargus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+82
+[[2, 1]]
+reached here
+Before splice: 62800,63024
+after splice: 62800,63024
+sequence:
+ATGTTACCTGTAAAACCGGATGTCGTAGCTGGGGCTTCTAGACTCTGTCCTGGCGCGCGCCGCTCGTTCTTCTGCCGGATCAAATGTAAAGCGAACTCATTCGCTTCTGCCGCTAATACCACCGCTAGCACACAGCCGAACGTTAAAGATGAATCTGAGCCTACAGCAAAACTACGGAAGAAACAGGGGCCCgagaaaaaatattgtgttgtcCAATGCACTG
+sequence:
+MLPVKPDVVAGASRLCPGARRSFFCRIKCKANSFASAANTTASTQPNVKDESEPTAKLRKKQGPEKKYCVVQCT
+left = AG, right =GT, stop_counter = 0
+MLPVKPDVVAGASRLCPGARRSFFCRIKCKANSFASAANTTASTQPNVKDESEPTAKLRKKQGPEKKYCVVQCT
+[[2, 1]]
+start_coordinate : 3684443,stop_coordinate : 3684222
+62800 63024 Y N
+Lysandra_bellargus,HG995319.1,3684221,3684445,1,N,Danaus_plexippus_XM_061526053.1_Frame_2_rightoh_1_query_Exon_6,1,74,74,Y,N
+
+Lysandra_bellargus
+Processing Exon_7
+Lysandra_bellargus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+82
+[[2, 1]]
+reached here
+Before splice: 62800,63024
+after splice: 62800,63024
+sequence:
+ATGTTACCTGTAAAACCGGATGTCGTAGCTGGGGCTTCTAGACTCTGTCCTGGCGCGCGCCGCTCGTTCTTCTGCCGGATCAAATGTAAAGCGAACTCATTCGCTTCTGCCGCTAATACCACCGCTAGCACACAGCCGAACGTTAAAGATGAATCTGAGCCTACAGCAAAACTACGGAAGAAACAGGGGCCCgagaaaaaatattgtgttgtcCAATGCACTG
+sequence:
+MLPVKPDVVAGASRLCPGARRSFFCRIKCKANSFASAANTTASTQPNVKDESEPTAKLRKKQGPEKKYCVVQCT
+left = AG, right =GT, stop_counter = 0
+MLPVKPDVVAGASRLCPGARRSFFCRIKCKANSFASAANTTASTQPNVKDESEPTAKLRKKQGPEKKYCVVQCT
+[[2, 1]]
+start_coordinate : 3684443,stop_coordinate : 3684222
+62800 63024 Y N
+Lysandra_bellargus,HG995319.1,3684221,3684445,1,N,Danaus_plexippus_XM_061526053.1_Frame_2_rightoh_1_query_Exon_7,1,74,74,Y,N
+
+Lysandra_bellargus
+Processing Exon_8
+Lysandra_bellargus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+82
+[[2, 1]]
+reached here
+Before splice: 62800,63024
+after splice: 62800,63024
+sequence:
+ATGTTACCTGTAAAACCGGATGTCGTAGCTGGGGCTTCTAGACTCTGTCCTGGCGCGCGCCGCTCGTTCTTCTGCCGGATCAAATGTAAAGCGAACTCATTCGCTTCTGCCGCTAATACCACCGCTAGCACACAGCCGAACGTTAAAGATGAATCTGAGCCTACAGCAAAACTACGGAAGAAACAGGGGCCCgagaaaaaatattgtgttgtcCAATGCACTG
+sequence:
+MLPVKPDVVAGASRLCPGARRSFFCRIKCKANSFASAANTTASTQPNVKDESEPTAKLRKKQGPEKKYCVVQCT
+left = AG, right =GT, stop_counter = 0
+MLPVKPDVVAGASRLCPGARRSFFCRIKCKANSFASAANTTASTQPNVKDESEPTAKLRKKQGPEKKYCVVQCT
+[[2, 1]]
+start_coordinate : 3684443,stop_coordinate : 3684222
+62800 63024 Y N
+Lysandra_bellargus,HG995319.1,3684221,3684445,1,N,Danaus_plexippus_XM_061526053.1_Frame_2_rightoh_1_query_Exon_8,1,74,74,Y,N
+
+Lysandra_bellargus
+Processing Exon_9
+Lysandra_bellargus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+70
+[[2, 2]]
+reached here
+Before splice: 67149,67359
+after splice: 67149,67359
+sequence:
+TACATGAAACCTTGGGTACCGTCGAACCTGTCTGAGAGTAGAAGTTCTGATGCTGGGTCAGGTAACTCTGAATGTAATCTGCCGTGCATGACGGTAGGCCAAAATCTAAATGATATTTCGCTAAACAGCAGTTCGGGGCCGCTCATAAGACCGCTCCAATACATATCTAGACACGCCACCGATGGAAAATTTTTATTCGTGGACCAAAG
+sequence:
+YMKPWVPSNLSESRSSDAGSGNSECNLPCMTVGQNLNDISLNSSSGPLIRPLQYISRHATDGKFLFVDQ
+left = AG, right =GT, stop_counter = 0
+YMKPWVPSNLSESRSSDAGSGNSECNLPCMTVGQNLNDISLNSSSGPLIRPLQYISRHATDGKFLFVDQ
+[[2, 2]]
+start_coordinate : 3680094,stop_coordinate : 3679888
+67149 67359 Y N
+Lysandra_bellargus,HG995319.1,3679886,3680096,1,N,Danaus_plexippus_XM_061526053.1_Frame_2_rightoh_2_query_Exon_9,1,69,69,Y,N
+
+Lysandra_bellargus
+Processing Exon_10
+Lysandra_bellargus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+67
+[[1, 2]]
+reached here
+Before splice: 67881,68084
+after splice: 67881,68084
+sequence:
+GTGACGTTGGCCCTAGGTTTCCTACCGCAGGAGTTGCTGGGATCCAGCCTGTATGAGTATGTTAGCGGTCCCGAGTTGGGCGCCGTCGCTCGGACCCACAAGGCATCGCTTCTCCGCCGCGACCCGATGCGTACGCCGCCGTACAACTTCAGACGAAAAGATGGCGCGTACGTCCGCATACAAACGCACTTCAAGCCGTTCAG
+sequence:
+VTLALGFLPQELLGSSLYEYVSGPELGAVARTHKASLLRRDPMRTPPYNFRRKDGAYVRIQTHFKPF
+left = AG, right =GT, stop_counter = 0
+VTLALGFLPQELLGSSLYEYVSGPELGAVARTHKASLLRRDPMRTPPYNFRRKDGAYVRIQTHFKPF
+[[1, 2]]
+start_coordinate : 3679363,stop_coordinate : 3679163
+67881 68084 Y N
+Lysandra_bellargus,HG995319.1,3679161,3679364,1,N,Danaus_plexippus_XM_061526053.1_Frame_1_rightoh_2_query_Exon_10,1,67,67,Y,N
+
+Lysandra_bellargus
+Processing Exon_11
+Lysandra_bellargus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+36
+[[1, 1]]
+reached here
+Before splice: 68268,68377
+after splice: 68268,68377
+sequence:
+AACCCTTGGACGAAAGACGTCGAGTGTCTGGTTGCTAACAACATCGTAGTGACAGACATACATAAACAATTATCAGAGGAGGACTGCCAACGCTTCGACGTTTTCAAAC
+sequence:
+NPWTKDVECLVANNIVVTDIHKQLSEEDCQRFDVFK
+left = AG, right =AG, stop_counter = 0
+sequence:
+AACCCTTGGACGAAAGACGTCGAGTGTCTGGTTGCTAACAACATCGTAGTGACAGACATACATAAACAATTATCAGAGGAGGACTGCCAACGCTTCGACGTTTTCAAACAGA
+sequence:
+NPWTKDVECLVANNIVVTDIHKQLSEEDCQRFDVFKQ
+left = AG, right =GT, stop_counter = 0
+NPWTKDVECLVANNIVVTDIHKQLSEEDCQRFDVFKQ
+[[1, 1]]
+start_coordinate : 3678976,stop_coordinate : 3678866
+68268 68380 Y N
+Lysandra_bellargus,HG995319.1,3678865,3678977,1,N,Danaus_plexippus_XM_061526053.1_Frame_1_rightoh_1_query_Exon_11,1,37,37,Y,N
+
+Lysandra_bellargus
+Processing Exon_12
+Lysandra_bellargus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+41
+[[2, 0]]
+reached here
+Before splice: 70785,70909
+after splice: 70785,70909
+sequence:
+GAAAGTGCGGTTTCAGAAGCCGATCTCGAAATGCAGCGACTGATCGACTCGCAGGTCGAGTCGCATAAGATCGGCTCGACAATCGCCGAGGAAGTGCTGAGGAGGGCATCGCGAGACCAAAGC
+sequence:
+ESAVSEADLEMQRLIDSQVESHKIGSTIAEEVLRRASRDQS
+left = CG, right =CC, stop_counter = 0
+sequence:
+GGTGAAAGTGCGGTTTCAGAAGCCGATCTCGAAATGCAGCGACTGATCGACTCGCAGGTCGAGTCGCATAAGATCGGCTCGACAATCGCCGAGGAAGTGCTGAGGAGGGCATCGCGAGACCAAAGCCCA
+sequence:
+GESAVSEADLEMQRLIDSQVESHKIGSTIAEEVLRRASRDQSP
+left = GT, right =GA, stop_counter = 0
+sequence:
+TACGGTGAAAGTGCGGTTTCAGAAGCCGATCTCGAAATGCAGCGACTGATCGACTCGCAGGTCGAGTCGCATAAGATCGGCTCGACAATCGCCGAGGAAGTGCTGAGGAGGGCATCGCGAGACCAAAGCCCAGAG
+sequence:
+YGESAVSEADLEMQRLIDSQVESHKIGSTIAEEVLRRASRDQSPE
+left = GG, right =CT, stop_counter = 0
+sequence:
+GTGTACGGTGAAAGTGCGGTTTCAGAAGCCGATCTCGAAATGCAGCGACTGATCGACTCGCAGGTCGAGTCGCATAAGATCGGCTCGACAATCGCCGAGGAAGTGCTGAGGAGGGCATCGCGAGACCAAAGCCCAGAGCTG
+sequence:
+VYGESAVSEADLEMQRLIDSQVESHKIGSTIAEEVLRRASRDQSPEL
+left = CG, right =CC, stop_counter = 0
+sequence:
+GCGGTGTACGGTGAAAGTGCGGTTTCAGAAGCCGATCTCGAAATGCAGCGACTGATCGACTCGCAGGTCGAGTCGCATAAGATCGGCTCGACAATCGCCGAGGAAGTGCTGAGGAGGGCATCGCGAGACCAAAGCCCAGAGCTGCCG
+sequence:
+AVYGESAVSEADLEMQRLIDSQVESHKIGSTIAEEVLRRASRDQSPELP
+left = CG, right =GT, stop_counter = 0
+sequence:
+GGCGCGGTGTACGGTGAAAGTGCGGTTTCAGAAGCCGATCTCGAAATGCAGCGACTGATCGACTCGCAGGTCGAGTCGCATAAGATCGGCTCGACAATCGCCGAGGAAGTGCTGAGGAGGGCATCGCGAGACCAAAGCCCAGAGCTGCCG
+sequence:
+GAVYGESAVSEADLEMQRLIDSQVESHKIGSTIAEEVLRRASRDQSPELP
+left = AG, right =GT, stop_counter = 0
+GAVYGESAVSEADLEMQRLIDSQVESHKIGSTIAEEVLRRASRDQSPELP
+[[2, 0]]
+start_coordinate : 3676473,stop_coordinate : 3676324
+70770 70921 Y N
+Lysandra_bellargus,HG995319.1,3676324,3676475,1,N,Danaus_plexippus_XM_061526053.1_Frame_2_rightoh_0_query_Exon_12,1,50,50,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12']
+Lysandra_bellargus
+Processing Exon_2
+0 query coordinate
+Lysandra_bellargus_coordinates_Danaus_plexippus.csv
+Query_error
+Lysandra_bellargus
+Processing Exon_3
+Lysandra_bellargus_coordinates_Maniola_jurtina.csv
+1 query coordinate
+26
+[[1, 2]]
+reached here
+Before splice: 59483,59563
+after splice: 59483,59563
+sequence:
+TATTACAGTAAATCAGGCAGCGTTTACGATGACGATACcactgaggattcctcttcgaGCCGCACCCTGTCTGATAAGAA
+sequence:
+YYSKSGSVYDDDTTEDSSSSRTLSDK
+left = TA, right =GT, stop_counter = 0
+sequence:
+TAATATTACAGTAAATCAGGCAGCGTTTACGATGACGATACcactgaggattcctcttcgaGCCGCACCCTGTCTGATAAGAA
+sequence:
+*YYSKSGSVYDDDTTEDSSSSRTLSDK
+left = TA, right =GT, stop_counter = 1
+sequence:
+TATTACAGTAAATCAGGCAGCGTTTACGATGACGATACcactgaggattcctcttcgaGCCGCACCCTGTCTGATAAGAA
+sequence:
+YYSKSGSVYDDDTTEDSSSSRTLSDK
+left = TA, right =GT, stop_counter = 1
+sequence:
+TAATATTACAGTAAATCAGGCAGCGTTTACGATGACGATACcactgaggattcctcttcgaGCCGCACCCTGTCTGATAAGAA
+sequence:
+*YYSKSGSVYDDDTTEDSSSSRTLSDK
+left = TA, right =GT, stop_counter = 2
+sequence:
+TACAGTAAATCAGGCAGCGTTTACGATGACGATACcactgaggattcctcttcgaGCCGCACCCTGTCTGATAAGAA
+sequence:
+YSKSGSVYDDDTTEDSSSSRTLSDK
+left = TA, right =GT, stop_counter = 2
+sequence:
+TATTACAGTAAATCAGGCAGCGTTTACGATGACGATACcactgaggattcctcttcgaGCCGCACCCTGTCTGATAAGAA
+sequence:
+YYSKSGSVYDDDTTEDSSSSRTLSDK
+left = TA, right =GT, stop_counter = 2
+sequence:
+TAATATTACAGTAAATCAGGCAGCGTTTACGATGACGATACcactgaggattcctcttcgaGCCGCACCCTGTCTGATAAGAA
+sequence:
+*YYSKSGSVYDDDTTEDSSSSRTLSDK
+left = AG, right =GT, stop_counter = 3
+KSGSVYDDDTTEDSSSSRTLSDK
+[[1, 2]]
+start_coordinate : 3687752,stop_coordinate : 3687684
+59492 59563 Y N
+Lysandra_bellargus,HG995319.1,3687682,3687753,1,N,Maniola_jurtina_XM_045928647.1_Frame_1_rightoh_2_query_Exon_3,1,23,23,Y,N
+
+Lysandra_bellargus
+Processing Exon_4
+Lysandra_bellargus_coordinates_Maniola_jurtina.csv
+1 query coordinate
+112
+[[1, 0]]
+reached here
+Before splice: 60530,60866
+after splice: 60530,60866
+sequence:
+CAAAACCACAGCGAGATTGAAAAAAGAAGGCGCGATAAAATGAACACGTACATATCGGAGCTGAGCGCGATGATACCAATGTGCGGGGCGATGTCCCGAAAGCTGGACAAATTGACAGTTCTCCGCATGGCTGTACAACATCTTAAGTCCGTGCGAGGAGCCCTATCAGCCGGGCCGCTAACGGCCAGACCTATACCTGCCTTCATATCTGAGACGGAACTAAACTCGCTGGTTCTACAGGCGGCCAAAGATTGCTTCTTGATGGTAGTTGGATGCGACCGGGGCAGGTTGATATACGTTTCCGCGTCTGTCACCCAAATGCTGTATTATGAACAG
+sequence:
+QNHSEIEKRRRDKMNTYISELSAMIPMCGAMSRKLDKLTVLRMAVQHLKSVRGALSAGPLTARPIPAFISETELNSLVLQAAKDCFLMVVGCDRGRLIYVSASVTQMLYYEQ
+left = AG, right =GT, stop_counter = 0
+QNHSEIEKRRRDKMNTYISELSAMIPMCGAMSRKLDKLTVLRMAVQHLKSVRGALSAGPLTARPIPAFISETELNSLVLQAAKDCFLMVVGCDRGRLIYVSASVTQMLYYEQ
+[[1, 0]]
+start_coordinate : 3686714,stop_coordinate : 3686379
+60530 60866 Y N
+Lysandra_bellargus,HG995319.1,3686379,3686715,1,N,Maniola_jurtina_XM_045928647.1_Frame_1_rightoh_0_query_Exon_4,1,112,112,Y,N
+
+Lysandra_bellargus
+Processing Exon_5
+Lysandra_bellargus_coordinates_Maniola_jurtina.csv
+1 query coordinate
+39
+[[0, 1]]
+reached here
+Before splice: 60951,61068
+after splice: 60951,61068
+sequence:
+TCAGAACTTCTCGGCCAGAGTTTATTTGATATCCTCCATCCAAAGGACGTAGCAAAGGTGAAAGAACAACTGTCTTCGTCTGATCTGAGCCCACGAGAAAGACTTATTGACGCGAAAA
+sequence:
+SELLGQSLFDILHPKDVAKVKEQLSSSDLSPRERLIDAK
+left = aG, right =GT, stop_counter = 0
+SELLGQSLFDILHPKDVAKVKEQLSSSDLSPRERLIDAK
+[[0, 1]]
+start_coordinate : 3686294,stop_coordinate : 3686178
+60951 61068 Y N
+Lysandra_bellargus,HG995319.1,3686177,3686294,1,N,Maniola_jurtina_XM_045928647.1_Frame_0_rightoh_1_query_Exon_5,1,39,39,Y,N
+
+Lysandra_bellargus
+Processing Exon_6
+Lysandra_bellargus_coordinates_Maniola_jurtina.csv
+1 query coordinate
+75
+[[2, 1]]
+reached here
+Before splice: 62800,63024
+after splice: 62800,63024
+sequence:
+ATGTTACCTGTAAAACCGGATGTCGTAGCTGGGGCTTCTAGACTCTGTCCTGGCGCGCGCCGCTCGTTCTTCTGCCGGATCAAATGTAAAGCGAACTCATTCGCTTCTGCCGCTAATACCACCGCTAGCACACAGCCGAACGTTAAAGATGAATCTGAGCCTACAGCAAAACTACGGAAGAAACAGGGGCCCgagaaaaaatattgtgttgtcCAATGCACTG
+sequence:
+MLPVKPDVVAGASRLCPGARRSFFCRIKCKANSFASAANTTASTQPNVKDESEPTAKLRKKQGPEKKYCVVQCT
+left = AG, right =GT, stop_counter = 0
+MLPVKPDVVAGASRLCPGARRSFFCRIKCKANSFASAANTTASTQPNVKDESEPTAKLRKKQGPEKKYCVVQCT
+[[2, 1]]
+start_coordinate : 3684443,stop_coordinate : 3684222
+62800 63024 Y N
+Lysandra_bellargus,HG995319.1,3684221,3684445,1,N,Maniola_jurtina_XM_045928647.1_Frame_2_rightoh_1_query_Exon_6,1,74,74,Y,N
+
+Lysandra_bellargus
+Processing Exon_7
+Lysandra_bellargus_coordinates_Maniola_jurtina.csv
+1 query coordinate
+75
+[[2, 1]]
+reached here
+Before splice: 62800,63024
+after splice: 62800,63024
+sequence:
+ATGTTACCTGTAAAACCGGATGTCGTAGCTGGGGCTTCTAGACTCTGTCCTGGCGCGCGCCGCTCGTTCTTCTGCCGGATCAAATGTAAAGCGAACTCATTCGCTTCTGCCGCTAATACCACCGCTAGCACACAGCCGAACGTTAAAGATGAATCTGAGCCTACAGCAAAACTACGGAAGAAACAGGGGCCCgagaaaaaatattgtgttgtcCAATGCACTG
+sequence:
+MLPVKPDVVAGASRLCPGARRSFFCRIKCKANSFASAANTTASTQPNVKDESEPTAKLRKKQGPEKKYCVVQCT
+left = AG, right =GT, stop_counter = 0
+MLPVKPDVVAGASRLCPGARRSFFCRIKCKANSFASAANTTASTQPNVKDESEPTAKLRKKQGPEKKYCVVQCT
+[[2, 1]]
+start_coordinate : 3684443,stop_coordinate : 3684222
+62800 63024 Y N
+Lysandra_bellargus,HG995319.1,3684221,3684445,1,N,Maniola_jurtina_XM_045928647.1_Frame_2_rightoh_1_query_Exon_7,1,74,74,Y,N
+
+Lysandra_bellargus
+Processing Exon_8
+Lysandra_bellargus_coordinates_Maniola_jurtina.csv
+1 query coordinate
+75
+[[2, 1]]
+reached here
+Before splice: 62800,63024
+after splice: 62800,63024
+sequence:
+ATGTTACCTGTAAAACCGGATGTCGTAGCTGGGGCTTCTAGACTCTGTCCTGGCGCGCGCCGCTCGTTCTTCTGCCGGATCAAATGTAAAGCGAACTCATTCGCTTCTGCCGCTAATACCACCGCTAGCACACAGCCGAACGTTAAAGATGAATCTGAGCCTACAGCAAAACTACGGAAGAAACAGGGGCCCgagaaaaaatattgtgttgtcCAATGCACTG
+sequence:
+MLPVKPDVVAGASRLCPGARRSFFCRIKCKANSFASAANTTASTQPNVKDESEPTAKLRKKQGPEKKYCVVQCT
+left = AG, right =GT, stop_counter = 0
+MLPVKPDVVAGASRLCPGARRSFFCRIKCKANSFASAANTTASTQPNVKDESEPTAKLRKKQGPEKKYCVVQCT
+[[2, 1]]
+start_coordinate : 3684443,stop_coordinate : 3684222
+62800 63024 Y N
+Lysandra_bellargus,HG995319.1,3684221,3684445,1,N,Maniola_jurtina_XM_045928647.1_Frame_2_rightoh_1_query_Exon_8,1,74,74,Y,N
+
+Lysandra_bellargus
+Processing Exon_9
+Lysandra_bellargus_coordinates_Maniola_jurtina.csv
+1 query coordinate
+72
+[[2, 2]]
+reached here
+Before splice: 67149,67359
+after splice: 67149,67359
+sequence:
+TACATGAAACCTTGGGTACCGTCGAACCTGTCTGAGAGTAGAAGTTCTGATGCTGGGTCAGGTAACTCTGAATGTAATCTGCCGTGCATGACGGTAGGCCAAAATCTAAATGATATTTCGCTAAACAGCAGTTCGGGGCCGCTCATAAGACCGCTCCAATACATATCTAGACACGCCACCGATGGAAAATTTTTATTCGTGGACCAAAG
+sequence:
+YMKPWVPSNLSESRSSDAGSGNSECNLPCMTVGQNLNDISLNSSSGPLIRPLQYISRHATDGKFLFVDQ
+left = AG, right =GT, stop_counter = 0
+YMKPWVPSNLSESRSSDAGSGNSECNLPCMTVGQNLNDISLNSSSGPLIRPLQYISRHATDGKFLFVDQ
+[[2, 2]]
+start_coordinate : 3680094,stop_coordinate : 3679888
+67149 67359 Y N
+Lysandra_bellargus,HG995319.1,3679886,3680096,1,N,Maniola_jurtina_XM_045928647.1_Frame_2_rightoh_2_query_Exon_9,1,69,69,Y,N
+
+Lysandra_bellargus
+Processing Exon_10
+Lysandra_bellargus_coordinates_Maniola_jurtina.csv
+1 query coordinate
+67
+[[1, 2]]
+reached here
+Before splice: 67881,68084
+after splice: 67881,68084
+sequence:
+GTGACGTTGGCCCTAGGTTTCCTACCGCAGGAGTTGCTGGGATCCAGCCTGTATGAGTATGTTAGCGGTCCCGAGTTGGGCGCCGTCGCTCGGACCCACAAGGCATCGCTTCTCCGCCGCGACCCGATGCGTACGCCGCCGTACAACTTCAGACGAAAAGATGGCGCGTACGTCCGCATACAAACGCACTTCAAGCCGTTCAG
+sequence:
+VTLALGFLPQELLGSSLYEYVSGPELGAVARTHKASLLRRDPMRTPPYNFRRKDGAYVRIQTHFKPF
+left = AG, right =GT, stop_counter = 0
+VTLALGFLPQELLGSSLYEYVSGPELGAVARTHKASLLRRDPMRTPPYNFRRKDGAYVRIQTHFKPF
+[[1, 2]]
+start_coordinate : 3679363,stop_coordinate : 3679163
+67881 68084 Y N
+Lysandra_bellargus,HG995319.1,3679161,3679364,1,N,Maniola_jurtina_XM_045928647.1_Frame_1_rightoh_2_query_Exon_10,1,67,67,Y,N
+
+Lysandra_bellargus
+Processing Exon_11
+Lysandra_bellargus_coordinates_Maniola_jurtina.csv
+1 query coordinate
+37
+[[1, 1]]
+reached here
+Before splice: 68268,68380
+after splice: 68268,68380
+sequence:
+AACCCTTGGACGAAAGACGTCGAGTGTCTGGTTGCTAACAACATCGTAGTGACAGACATACATAAACAATTATCAGAGGAGGACTGCCAACGCTTCGACGTTTTCAAACAGA
+sequence:
+NPWTKDVECLVANNIVVTDIHKQLSEEDCQRFDVFKQ
+left = AG, right =GT, stop_counter = 0
+NPWTKDVECLVANNIVVTDIHKQLSEEDCQRFDVFKQ
+[[1, 1]]
+start_coordinate : 3678976,stop_coordinate : 3678866
+68268 68380 Y N
+Lysandra_bellargus,HG995319.1,3678865,3678977,1,N,Maniola_jurtina_XM_045928647.1_Frame_1_rightoh_1_query_Exon_11,1,37,37,Y,N
+
+Lysandra_bellargus
+Processing Exon_12
+Lysandra_bellargus_coordinates_Maniola_jurtina.csv
+1 query coordinate
+7
+[[2, 0]]
+reached here
+Before splice: 70728,70750
+after splice: 70728,70750
+sequence:
+CGTTATTGGTGTGAATGTGAG
+sequence:
+RYWCECE
+left = AT, right =GC, stop_counter = 0
+sequence:
+TAACGTTATTGGTGTGAATGTGAGGCG
+sequence:
+*RYWCECEA
+left = AC, right =GA, stop_counter = 1
+sequence:
+CGTTATTGGTGTGAATGTGAG
+sequence:
+RYWCECE
+left = AT, right =GC, stop_counter = 1
+sequence:
+TAACGTTATTGGTGTGAATGTGAGGCG
+sequence:
+*RYWCECEA
+left = TT, right =TG, stop_counter = 2
+sequence:
+TATTGGTGTGAATGT
+sequence:
+YWCEC
+left = AC, right =GA, stop_counter = 2
+sequence:
+CGTTATTGGTGTGAATGTGAG
+sequence:
+RYWCECE
+left = AT, right =GC, stop_counter = 2
+sequence:
+TAACGTTATTGGTGTGAATGTGAGGCG
+sequence:
+*RYWCECEA
+left = TT, right =GA, stop_counter = 3
+sequence:
+TGGTGTGAA
+sequence:
+WCE
+left = TT, right =TG, stop_counter = 3
+sequence:
+TATTGGTGTGAATGT
+sequence:
+YWCEC
+left = AC, right =GA, stop_counter = 3
+sequence:
+CGTTATTGGTGTGAATGTGAG
+sequence:
+RYWCECE
+left = AT, right =GC, stop_counter = 3
+sequence:
+TAACGTTATTGGTGTGAATGTGAGGCG
+sequence:
+*RYWCECEA
+left = GT, right =TG, stop_counter = 4
+sequence:
+TGT
+sequence:
+C
+left = TT, right =GA, stop_counter = 4
+sequence:
+TGGTGTGAA
+sequence:
+WCE
+left = TT, right =TG, stop_counter = 4
+sequence:
+TATTGGTGTGAATGT
+sequence:
+YWCEC
+left = AC, right =GA, stop_counter = 4
+sequence:
+CGTTATTGGTGTGAATGTGAG
+sequence:
+RYWCECE
+left = AT, right =GC, stop_counter = 4
+sequence:
+TAACGTTATTGGTGTGAATGTGAGGCG
+sequence:
+*RYWCECEA
+left = TG, right =TG, stop_counter = 5
+sequence:
+
+sequence:
+
+left = GT, right =TG, stop_counter = 5
+sequence:
+TGT
+sequence:
+C
+left = TT, right =GA, stop_counter = 5
+sequence:
+TGGTGTGAA
+sequence:
+WCE
+left = TT, right =TG, stop_counter = 5
+sequence:
+TATTGGTGTGAATGT
+sequence:
+YWCEC
+left = AC, right =GA, stop_counter = 5
+sequence:
+CGTTATTGGTGTGAATGTGAG
+sequence:
+RYWCECE
+left = AT, right =GC, stop_counter = 5
+sequence:
+TAACGTTATTGGTGTGAATGTGAGGCG
+sequence:
+*RYWCECEA
+left = AT, right =TA, stop_counter = 6
+sequence:
+
+sequence:
+
+left = TG, right =TG, stop_counter = 6
+sequence:
+
+sequence:
+
+left = GT, right =TG, stop_counter = 6
+sequence:
+TGT
+sequence:
+C
+left = TT, right =GA, stop_counter = 6
+sequence:
+TGGTGTGAA
+sequence:
+WCE
+left = TT, right =TG, stop_counter = 6
+sequence:
+TATTGGTGTGAATGT
+sequence:
+YWCEC
+left = AC, right =GA, stop_counter = 6
+sequence:
+CGTTATTGGTGTGAATGTGAG
+sequence:
+RYWCECE
+left = AT, right =GC, stop_counter = 6
+sequence:
+TAACGTTATTGGTGTGAATGTGAGGCG
+sequence:
+*RYWCECEA
+left = TG, right =CG, stop_counter = 7
+sequence:
+
+sequence:
+
+left = AT, right =TA, stop_counter = 7
+sequence:
+
+sequence:
+
+left = TG, right =TG, stop_counter = 7
+sequence:
+
+sequence:
+
+left = GT, right =TG, stop_counter = 7
+sequence:
+TGT
+sequence:
+C
+left = TT, right =GA, stop_counter = 7
+sequence:
+TGGTGTGAA
+sequence:
+WCE
+left = TT, right =TG, stop_counter = 7
+sequence:
+TATTGGTGTGAATGT
+sequence:
+YWCEC
+left = AC, right =GA, stop_counter = 7
+sequence:
+CGTTATTGGTGTGAATGTGAG
+sequence:
+RYWCECE
+left = AT, right =GC, stop_counter = 7
+sequence:
+TAACGTTATTGGTGTGAATGTGAGGCG
+sequence:
+*RYWCECEA
+left = GG, right =TA, stop_counter = 8
+sequence:
+
+sequence:
+
+left = TG, right =CG, stop_counter = 8
+sequence:
+
+sequence:
+
+left = AT, right =TA, stop_counter = 8
+sequence:
+
+sequence:
+
+left = TG, right =TG, stop_counter = 8
+sequence:
+
+sequence:
+
+left = GT, right =TG, stop_counter = 8
+sequence:
+TGT
+sequence:
+C
+left = TT, right =GA, stop_counter = 8
+sequence:
+TGGTGTGAA
+sequence:
+WCE
+left = TT, right =TG, stop_counter = 8
+sequence:
+TATTGGTGTGAATGT
+sequence:
+YWCEC
+left = AC, right =GA, stop_counter = 8
+sequence:
+CGTTATTGGTGTGAATGTGAG
+sequence:
+RYWCECE
+left = AT, right =GC, stop_counter = 8
+sequence:
+TAACGTTATTGGTGTGAATGTGAGGCG
+sequence:
+*RYWCECEA
+left = GC, right =CA, stop_counter = 9
+sequence:
+
+sequence:
+
+left = GG, right =TA, stop_counter = 9
+sequence:
+
+sequence:
+
+left = TG, right =CG, stop_counter = 9
+sequence:
+
+sequence:
+
+left = AT, right =TA, stop_counter = 9
+sequence:
+
+sequence:
+
+left = TG, right =TG, stop_counter = 9
+sequence:
+
+sequence:
+
+left = GT, right =TG, stop_counter = 9
+sequence:
+TGT
+sequence:
+C
+left = TT, right =GA, stop_counter = 9
+sequence:
+TGGTGTGAA
+sequence:
+WCE
+left = TT, right =TG, stop_counter = 9
+sequence:
+TATTGGTGTGAATGT
+sequence:
+YWCEC
+left = AC, right =GA, stop_counter = 9
+sequence:
+CGTTATTGGTGTGAATGTGAG
+sequence:
+RYWCECE
+left = AT, right =GC, stop_counter = 9
+sequence:
+TAACGTTATTGGTGTGAATGTGAGGCG
+sequence:
+*RYWCECEA
+left = GC, right =AG, stop_counter = 10
+sequence:
+
+sequence:
+
+left = GC, right =CA, stop_counter = 10
+sequence:
+
+sequence:
+
+left = GG, right =TA, stop_counter = 10
+sequence:
+
+sequence:
+
+left = TG, right =CG, stop_counter = 10
+sequence:
+
+sequence:
+
+left = AT, right =TA, stop_counter = 10
+sequence:
+
+sequence:
+
+left = TG, right =TG, stop_counter = 10
+sequence:
+
+sequence:
+
+left = GT, right =TG, stop_counter = 10
+sequence:
+TGT
+sequence:
+C
+left = TT, right =GA, stop_counter = 10
+sequence:
+TGGTGTGAA
+sequence:
+WCE
+left = TT, right =TG, stop_counter = 10
+sequence:
+TATTGGTGTGAATGT
+sequence:
+YWCEC
+left = AC, right =GA, stop_counter = 10
+sequence:
+CGTTATTGGTGTGAATGTGAG
+sequence:
+RYWCECE
+left = AT, right =GC, stop_counter = 10
+sequence:
+TAACGTTATTGGTGTGAATGTGAGGCG
+sequence:
+*RYWCECEA
+left = TT, right =TA, stop_counter = 11
+sequence:
+
+sequence:
+
+left = GC, right =AG, stop_counter = 11
+
+[[2, 0]]
+start_coordinate : 0,stop_coordinate : 0
+Error in Blast
+Lysandra_bellargus,Exon_2
+Lysandra_bellargus,Exon_2
+Lysandra_bellargus,Exon_12

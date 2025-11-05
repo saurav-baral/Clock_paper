@@ -1,0 +1,1793 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1346820,1347003,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Anthocharis_cardamines,FR989962.1,1346361,1346614,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Anthocharis_cardamines,FR989962.1,1347726,1347982,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set11_frame1, 0.12
+5 top scores:
+[['set18_frame2', 1.819], ['set25_frame0', 1.714], ['set35_frame0', 1.819], ['set11_frame1', 0.12], ['set26_frame1', 1.773]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_11_frame1.fa.txt
+13 74
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPAERSARHNYLQILSHLQSYKEEAFTKVETWQVFSKKLAKILEI
+13 74
+set11_frame1
+LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQAYKEETFSKVETWQVFAKKLAKILEI
+Original query = LIVNLTNPALLLYREEVPAERSARHNYLQILSHLQSYKEEAFTKVETWQVFSKKLAKILEI
+New query = LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQAYKEETFSKVETWQVFAKKLAKILEI
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1347309,1347443,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Anthocharis_cardamines,FR989962.1,1346361,1346614,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Anthocharis_cardamines,FR989962.1,1348735,1348932,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set25_frame0, 0.022
+5 top scores:
+[['set80_frame2', 1.744], ['set10_frame0', 1.794], ['set25_frame0', 0.022], ['set35_frame0', 1.76], ['set51_frame0', 1.825]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_25_frame0.fa.txt
+0 45
+Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+0 45
+set25_frame0
+DWSERDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+New query = DWSERDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1347726,1347982,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Anthocharis_cardamines,FR989962.1,1346820,1347003,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Anthocharis_cardamines,FR989962.1,1349360,1349542,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set27_frame0, 0.207
+5 top scores:
+[['set17_frame0', 1.803], ['set27_frame0', 0.207], ['set66_frame0', 1.843], ['set1_frame1', 1.852], ['set66_frame2', 1.85]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_27_frame0.fa.txt
+0 85
+Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMMRMSESKERLNKVKLYSAT
+0 85
+set27_frame0
+VLWALNQSGILDIILYMSSENEKQYFMHILEIITHLLREQNPSSLADAALQRSVDEKLRDEQELLTIRMSETKERVDKIRQYSST
+Original query = VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMMRMSESKERLNKVKLYSAT
+New query = VLWALNQSGILDIILYMSSENEKQYFMHILEIITHLLREQNPSSLADAALQRSVDEKLRDEQELLTIRMSETKERVDKIRQYSST
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1348735,1348932,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Anthocharis_cardamines,FR989962.1,1347309,1347443,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Anthocharis_cardamines,FR989962.1,1351561,1351848,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set53_frame2, 0.256
+5 top scores:
+[['set53_frame2', 0.256], ['set11_frame0', 1.819], ['set50_frame0', 1.803], ['set111_frame2', 1.824], ['set81_frame2', 1.842]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_53_frame2.fa.txt
+26 91
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVQNMKSISENQLISLKPLNKISDLDFNGSKKSKLVRPKNRRPVESGFLERRSAFAI
+26 91
+set53_frame2
+YSRFGGTYVIQNMKSISDNDLICLKPLNKISNLDFNGSKKSKLVKPKNRRPVESGAMERRSPFAV
+Original query = HSRFGGTYVVQNMKSISENQLISLKPLNKISDLDFNGSKKSKLVRPKNRRPVESGFLERRSAFAI
+New query = YSRFGGTYVIQNMKSISDNDLICLKPLNKISNLDFNGSKKSKLVKPKNRRPVESGAMERRSPFAV
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1349360,1349542,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+Anthocharis_cardamines,FR989962.1,1347726,1347982,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Anthocharis_cardamines,FR989962.1,1352641,1352759,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,38,39
+
+Getting Gene
+min = set40_frame0, 0.189
+5 top scores:
+[['set94_frame2', 1.765], ['set40_frame0', 0.189], ['set109_frame2', 1.77], ['set36_frame2', 1.842], ['set82_frame0', 1.844]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_40_frame0.fa.txt
+10 70
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNTSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+10 70
+set40_frame0
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWTMKFFMEFNRVHKFNVALV
+Original query = LFLKEFCIEFLNTSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+New query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWTMKFFMEFNRVHKFNVALV
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1351561,1351848,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+10
+Anthocharis_cardamines,FR989962.1,1348735,1348932,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Anthocharis_cardamines,FR989962.1,1363363,1363443,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set59_frame1, 0.171
+5 top scores:
+[['set306_frame1', 1.766], ['set212_frame2', 1.824], ['set129_frame1', 1.87], ['set311_frame0', 1.881], ['set59_frame1', 0.171]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_59_frame1.fa.txt
+5 100
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQLEKYYDMIKIEKKKFAPWVRRLHLSLRAYKELLNTLLAMDKSTDDSVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+5 100
+set59_frame1
+ETMSIPMFHYVQQQLEKYYDMIRMEKKKFSPWVRRMHLALRCYKELLNTLLAMDKCSDTSVKESAKVIKSNVFYVLEYREFILSIILNYDENKMP
+Original query = ETMSVPMFHYVQQQLEKYYDMIKIEKKKFAPWVRRLHLSLRAYKELLNTLLAMDKSTDDSVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+New query = ETMSIPMFHYVQQQLEKYYDMIRMEKKKFSPWVRRMHLALRCYKELLNTLLAMDKCSDTSVKESAKVIKSNVFYVLEYREFILSIILNYDENKMP
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1352641,1352759,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,38,39
+
+6
+10
+Anthocharis_cardamines,FR989962.1,1349360,1349542,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Anthocharis_cardamines,FR989962.1,1363363,1363443,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set59_frame0, 0.258
+5 top scores:
+[['set59_frame0', 0.258], ['set291_frame0', 1.679], ['set254_frame2', 1.702], ['set1_frame1', 1.737], ['set37_frame0', 1.738]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_59_frame0.fa.txt
+13 54
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLIETIHLFLKMLEHYCKKTGLMVQKKVRRKAKTKSK
+13 54
+set59_frame0
+SYLLDLIETVHLFLKMLEHYCKKTGLVVQKKVRKKAKGTSE
+Original query = SYLVDLIETIHLFLKMLEHYCKKTGLMVQKKVRRKAKTKSK
+New query = SYLLDLIETVHLFLKMLEHYCKKTGLVVQKKVRKKAKGTSE
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1354884,1355034,0,Y,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_9,16,49,49
+
+7
+11
+Anthocharis_cardamines,FR989962.1,1351561,1351848,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Anthocharis_cardamines,FR989962.1,1363712,1363821,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Getting Gene
+min = set70_frame1, 0.893
+5 top scores:
+[['set70_frame1', 0.893], ['set144_frame2', 1.742], ['set249_frame1', 1.78], ['set84_frame2', 1.78], ['set110_frame2', 1.8]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_70_frame1.fa.txt
+11 62
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_2_query_Exon_9
+QKSRAAK--PAAAEVAPWEEARLQVAAVLSAGVEHCPPPFDAASDVPIDQQ
+11 62
+set70_frame1
+QKSRPPKPQPPKPDIPQWEAVREQMAVVLTSRLENYPPPFDAASDTPIDHQ
+Original query = QKSRAAKPAAAEVAPWEEARLQVAAVLSAGVEHCPPPFDAASDVPIDQQ
+New query = QKSRPPKPQPPKPDIPQWEAVREQMAVVLTSRLENYPPPFDAASDTPIDHQ
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1363363,1363443,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+12
+13
+14
+Anthocharis_cardamines,FR989962.1,1352641,1352759,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,38,39
+
+Anthocharis_cardamines,FR989962.1,1366993,1367191,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set239_frame1, 0.175
+5 top scores:
+[['set239_frame1', 0.175], ['set67_frame1', 1.601], ['set129_frame2', 1.61], ['set66_frame2', 1.649], ['set77_frame2', 1.655]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_239_frame1.fa.txt
+3 29
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRDHKYEDAVGTFRAA
+3 29
+set239_frame1
+EDCMKKIQKLMRDQMYEDAVGTFRAA
+Original query = EDCMKKIQKLMRDHKYEDAVGTFRAA
+New query = EDCMKKIQKLMRDQMYEDAVGTFRAA
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1363712,1363821,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+9
+8
+13
+14
+Anthocharis_cardamines,FR989962.1,1352641,1352759,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,38,39
+
+Anthocharis_cardamines,FR989962.1,1366993,1367191,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set202_frame2, 0.295
+5 top scores:
+[['set202_frame2', 0.295], ['set226_frame2', 1.687], ['set234_frame1', 1.714], ['set339_frame1', 1.717], ['set129_frame2', 1.744]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_202_frame2.fa.txt
+17 53
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGVDGIPEDEELDMLETIYNTDLGVEVT
+17 53
+set202_frame2
+EVWPEEGIFGAEGIQEHEELDMLETIYSTDLGVEVT
+Original query = EVWPEEGIFGVDGIPEDEELDMLETIYNTDLGVEVT
+New query = EVWPEEGIFGAEGIQEHEELDMLETIYSTDLGVEVT
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,0,0,0,Y,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_12,0,0,15
+
+10
+14
+Anthocharis_cardamines,FR989962.1,1363363,1363443,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Anthocharis_cardamines,FR989962.1,1366993,1367191,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set32_frame2, 0.916
+5 top scores:
+[['set32_frame2', 0.916], ['set79_frame0', 1.531], ['set10_frame2', 1.536], ['set8_frame2', 1.549], ['set48_frame2', 1.549]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_32_frame2.fa.txt
+6 21
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_12
+NVPVETQDNSEYDEE
+6 21
+set32_frame2
+NIEENEEENSEYDDE
+Original query = NVPVETQDNSEYDEE
+New query = NIEENEEENSEYDDE
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,0,0,0,Y,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_13,0,0,21
+
+11
+15
+Anthocharis_cardamines,FR989962.1,1363712,1363821,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Anthocharis_cardamines,FR989962.1,1367929,1368077,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15,1,48,49
+
+Getting Gene
+min = set58_frame0, 0.627
+5 top scores:
+[['set58_frame0', 0.627], ['set25_frame1', 1.412], ['set101_frame1', 1.622], ['set94_frame2', 1.647], ['set68_frame2', 1.682]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_58_frame0.fa.txt
+23 44
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_2_query_Exon_13
+ENEEEKSTAVVETDFDFQDFV
+23 44
+set58_frame0
+DDEEEERTTVVETEFDFQDFM
+Original query = EENEEEKSTAVVETDFDFQDFVL
+New query = DDEEEERTTVVETEFDFQDFM
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1366993,1367191,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Anthocharis_cardamines,FR989962.1,1363712,1363821,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Anthocharis_cardamines,FR989962.1,1371722,1371816,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16,2,31,31
+
+Getting Gene
+min = set94_frame0, 0.435
+5 top scores:
+[['set94_frame0', 0.435], ['set126_frame2', 1.767], ['set164_frame2', 1.81], ['set33_frame1', 1.842], ['set92_frame1', 1.852]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_94_frame0.fa.txt
+13 79
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_0_query_Exon_14
+FCHPRVVSACVCLLERYDKNLPHTNHCIVKMLHRIAWDCNRPVMMFQASLFLIFQRILHNPVPHLK
+13 79
+set94_frame0
+FCHPRVVSACVLLLENFEKNSPYTNHCIVKMLHRIAWDCKRPAMMFQATLFLIFQKILANNIAHFR
+Original query = FCHPRVVSACVCLLERYDKNLPHTNHCIVKMLHRIAWDCNRPVMMFQASLFLIFQRILHNPVPHLK
+New query = FCHPRVVSACVLLLENFEKNSPYTNHCIVKMLHRIAWDCKRPAMMFQATLFLIFQKILANNIAHFR
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1367929,1368077,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15,1,48,49
+
+13
+12
+11
+17
+Anthocharis_cardamines,FR989962.1,1363712,1363821,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Anthocharis_cardamines,FR989962.1,1383366,1383572,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Getting Gene
+min = set94_frame2, 0.416
+5 top scores:
+[['set94_frame2', 0.416], ['set262_frame2', 1.672], ['set100_frame0', 1.712], ['set387_frame2', 1.747], ['set321_frame2', 1.768]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_94_frame2.fa.txt
+0 49
+Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFAVFILRKFSEIASRSGKVFIELLFWKNSKDAVEIEHGYELYNDP
+0 49
+set94_frame2
+ELEKFAIFVIRKFTEIATKSPKAFIELLFWTSSKDAIDVECGYDLYNDP
+Original query = ELEKFAVFILRKFSEIASRSGKVFIELLFWKNSKDAVEIEHGYELYNDP
+New query = ELEKFAIFVIRKFTEIATKSPKAFIELLFWTSSKDAIDVECGYDLYNDP
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1371722,1371816,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16,2,31,31
+
+14
+18
+Anthocharis_cardamines,FR989962.1,1366993,1367191,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Anthocharis_cardamines,FR989962.1,1386743,1386880,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_18,1,43,45
+
+Getting Gene
+min = set97_frame2, 0.373
+5 top scores:
+[['set97_frame2', 0.373], ['set485_frame2', 1.549], ['set252_frame2', 1.666], ['set457_frame2', 1.684], ['set161_frame1', 1.705]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_97_frame2.fa.txt
+2 33
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_1_query_Exon_16
+DKPGKGAWSEEQEEELRKLYMENQANPETDQ
+2 33
+set97_frame2
+NKEGKASWSEEQEEELRKLYMENQSNPENDK
+Original query = DKPGKGAWSEEQEEELRKLYMENQANPETDQ
+New query = NKEGKASWSEEQEEELRKLYMENQSNPENDK
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1383366,1383572,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+15
+19
+Anthocharis_cardamines,FR989962.1,1367929,1368077,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15,1,48,49
+
+Anthocharis_cardamines,FR989962.1,1388361,1388528,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_19,12,53,53
+
+Getting Gene
+min = set378_frame1, 0.331
+5 top scores:
+[['set378_frame1', 0.331], ['set468_frame1', 1.814], ['set503_frame1', 1.815], ['set472_frame2', 1.817], ['set71_frame0', 1.806]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_378_frame1.fa.txt
+8 76
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILENLIDQTRTRRGVIKKLKELGLVFKAPTKKTNRERREKVPKDFSEEEDEMLRELWNQYEDTP
+8 76
+set378_frame1
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFKAPTKRSNKERREGVPKEFSEQEDELLRELWAQYGETD
+Original query = VIDWILENLIDQTRTRRGVIKKLKELGLVFKAPTKKTNRERREKVPKDFSEEEDEMLRELWNQYEDTP
+New query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFKAPTKRSNKERREGVPKEFSEQEDELLRELWAQYGETD
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1386743,1386880,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_18,1,43,45
+
+16
+20
+Anthocharis_cardamines,FR989962.1,1371722,1371816,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16,2,31,31
+
+Anthocharis_cardamines,FR989962.1,1391164,1391357,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20,1,64,64
+
+Getting Gene
+min = set313_frame2, 0.565
+5 top scores:
+[['set313_frame2', 0.565], ['set284_frame2', 1.676], ['set34_frame2', 1.735], ['set245_frame2', 1.758], ['set142_frame2', 1.777]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_313_frame2.fa.txt
+4 52
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_18
+PMALILPRMPRKRSKRSFVDRLLELGVIQDRKQCRKKKQRRAKSAADD
+4 52
+set313_frame2
+PMSLIMSRMPRKRQKRSYIDRLLELGLVEDRKQCRKKRQKRKEDGSAD
+Original query = PMALILPRMPRKRSKRSFVDRLLELGVIQDRKQCRKKKQRRAKSAADDKSN
+New query = PMSLIMSRMPRKRQKRSYIDRLLELGLVEDRKQCRKKRQKRKEDGSAD
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1388361,1388528,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_19,12,53,53
+
+17
+21
+Anthocharis_cardamines,FR989962.1,1383366,1383572,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Anthocharis_cardamines,FR989962.1,1392852,1393320,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,146,148
+
+Getting Gene
+min = set126_frame2, 1.258
+5 top scores:
+[['set126_frame2', 1.258], ['set77_frame1', 1.773], ['set91_frame2', 1.783], ['set1_frame2', 1.834], ['set165_frame0', 1.844]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_126_frame2.fa.txt
+26 87
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_19
+EASNSDSENDIVSPPAITVKPKKKNKTNAEKKQQIKNKKPVKSAELSANEIAKLLVQAVDE
+26 87
+set126_frame2
+ESSSGDSDDGSRSPSPVRVKPKKTTQ-EPRKKGQKKNKN--TAVEISASEIARLLVSAVEA
+Original query = SSSESEASNSDSENDIVSPPAITVKPKKKNKTNAEKKQQIKNKKPVKSAELSANEIAKLLVQAVDE
+New query = ESSSGDSDDGSRSPSPVRVKPKKTTQ-EPRKKGQKKNKN--TAVEISASEIARLLVSAVEA
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1391164,1391357,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20,1,64,64
+
+18
+21
+Anthocharis_cardamines,FR989962.1,1386743,1386880,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_18,1,43,45
+
+Anthocharis_cardamines,FR989962.1,1392852,1393320,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,146,148
+
+Getting Gene
+min = set93_frame1, 0.655
+5 top scores:
+[['set93_frame1', 0.655], ['set120_frame1', 1.733], ['set1_frame2', 1.826], ['set98_frame1', 1.866], ['set57_frame0', 1.816]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_93_frame1.fa.txt
+17 81
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_0_query_Exon_20
+YTEGLRWLAENLEEVALDQEAEGFDPTAEGTPLVPISSESVEAMDSALFTTVLKSIGILPPVDE
+17 81
+set93_frame1
+HTESLNWLAENLEEVALDQEAAGFDPSEEGTPLVPILAGPAQAMEDNLFQAVLTAVGVVPPSEQ
+Original query = YTEGLRWLAENLEEVALDQEAEGFDPTAEGTPLVPISSESVEAMDSALFTTVLKSIGILPPVDEQ
+New query = HTESLNWLAENLEEVALDQEAAGFDPSEEGTPLVPILAGPAQAMEDNLFQAVLTAVGVVPPSEQ
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1392852,1393320,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,146,148
+
+19
+21
+Anthocharis_cardamines,FR989962.1,1388361,1388528,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_19,12,53,53
+
+Anthocharis_cardamines,FR989962.1,1392852,1393320,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,146,148
+
+Getting Gene
+min = set83_frame0, 1.001
+5 top scores:
+[['set83_frame0', 1.001]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_83_frame0.fa.txt
+0 158
+Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_1_query_Exon_21
+ETYWRIPSNLHHATIRKRREIIIKAVNKELIIDNANYDQSNKFNNAEEPPKSKAESSDDDDLFDNLRKMRDNIPEKI---DAVSN-HKSIPNNKNVSNNASVSNGK------IESKNRKRSRSIDSDEGNNRKMQRIDEIEDEDEDILSFAKKTLQTE
+0 158
+set83_frame0
+ESYWRIPSSLHYETIRKRREIIIKAINKELIV---------------EQSQDKAESSDDDNLFDNLRKITKNVQNAVIDENSVDNDQNSVDNDQNSVDNYQNDQSKSSIDTDVKKKGRKRTRSVES-EGNSKKLQKIDE---DEEDILSFAKKTLNHE
+Original query = ETYWRIPSNLHHATIRKRREIIIKAVNKELIIDNANYDQSNKFNNAEEPPKSKAESSDDDDLFDNLRKMRDNIPEKIDAVSNHKSIPNNKNVSNNASVSNGKIESKNRKRSRSIDSDEGNNRKMQRIDEIEDEDEDILSFAKKTLQTELPDTEDILSGLPQHS
+New query = ESYWRIPSSLHYETIRKRREIIIKAINKELIV---------------EQSQDKAESSDDDNLFDNLRKITKNVQNAVIDENSVDNDQNSVDNDQNSVDNYQNDQSKSSIDTDVKKKGRKRTRSVES-EGNSKKLQKIDE---DEEDILSFAKKTLNHE
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1346820,1347003,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Anthocharis_cardamines,FR989962.1,1346361,1346614,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Anthocharis_cardamines,FR989962.1,1347726,1347982,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set11_frame1, 0.091
+5 top scores:
+[['set18_frame2', 1.803], ['set25_frame0', 1.737], ['set35_frame0', 1.837], ['set11_frame1', 0.091], ['set26_frame1', 1.76]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_11_frame1.fa.txt
+13 74
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPVERTARHNYMQILSHLQSYKEEAFTKVETWQVFAKKLAKVLEI
+13 74
+set11_frame1
+LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQAYKEETFSKVETWQVFAKKLAKILEI
+Original query = LIVNLTNPALLLYREEVPVERTARHNYMQILSHLQSYKEEAFTKVETWQVFAKKLAKVLEI
+New query = LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQAYKEETFSKVETWQVFAKKLAKILEI
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1347309,1347443,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Anthocharis_cardamines,FR989962.1,1346361,1346614,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Anthocharis_cardamines,FR989962.1,1348735,1348932,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set25_frame0, 0.022
+5 top scores:
+[['set80_frame2', 1.744], ['set10_frame0', 1.794], ['set25_frame0', 0.022], ['set35_frame0', 1.76], ['set51_frame0', 1.825]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_25_frame0.fa.txt
+0 45
+Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+0 45
+set25_frame0
+DWSERDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+New query = DWSERDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1347726,1347982,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Anthocharis_cardamines,FR989962.1,1346820,1347003,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Anthocharis_cardamines,FR989962.1,1349360,1349542,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set27_frame0, 0.149
+5 top scores:
+[['set17_frame0', 1.803], ['set27_frame0', 0.149], ['set66_frame0', 1.843], ['set1_frame1', 1.852], ['set66_frame2', 1.85]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_27_frame0.fa.txt
+0 85
+Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMIRMSETKERLNKVKQYSAT
+0 85
+set27_frame0
+VLWALNQSGILDIILYMSSENEKQYFMHILEIITHLLREQNPSSLADAALQRSVDEKLRDEQELLTIRMSETKERVDKIRQYSST
+Original query = VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMIRMSETKERLNKVKQYSAT
+New query = VLWALNQSGILDIILYMSSENEKQYFMHILEIITHLLREQNPSSLADAALQRSVDEKLRDEQELLTIRMSETKERVDKIRQYSST
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1348735,1348932,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Anthocharis_cardamines,FR989962.1,1347309,1347443,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Anthocharis_cardamines,FR989962.1,1351561,1351848,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set53_frame2, 0.206
+5 top scores:
+[['set53_frame2', 0.206], ['set11_frame0', 1.802], ['set81_frame2', 1.833], ['set66_frame0', 1.842], ['set90_frame0', 1.844]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_53_frame2.fa.txt
+26 91
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVKNMKSISENELISLKPLNKISNLDFNGSKKSKLVKPKNRRPVESGFMERRSAFAI
+26 91
+set53_frame2
+YSRFGGTYVIQNMKSISDNDLICLKPLNKISNLDFNGSKKSKLVKPKNRRPVESGAMERRSPFAV
+Original query = HSRFGGTYVVKNMKSISENELISLKPLNKISNLDFNGSKKSKLVKPKNRRPVESGFMERRSAFAI
+New query = YSRFGGTYVIQNMKSISDNDLICLKPLNKISNLDFNGSKKSKLVKPKNRRPVESGAMERRSPFAV
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1349360,1349542,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+Anthocharis_cardamines,FR989962.1,1347726,1347982,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Anthocharis_cardamines,FR989962.1,1352641,1352759,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,38,39
+
+Getting Gene
+min = set40_frame0, 0.208
+5 top scores:
+[['set94_frame2', 1.747], ['set40_frame0', 0.208], ['set109_frame2', 1.784], ['set36_frame2', 1.847], ['set82_frame0', 1.844]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_40_frame0.fa.txt
+10 70
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNTSYNPMMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+10 70
+set40_frame0
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWTMKFFMEFNRVHKFNVALV
+Original query = LFLKEFCIEFLNTSYNPMMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+New query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWTMKFFMEFNRVHKFNVALV
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1351561,1351848,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+10
+Anthocharis_cardamines,FR989962.1,1348735,1348932,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Anthocharis_cardamines,FR989962.1,1363363,1363443,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set59_frame1, 0.21
+5 top scores:
+[['set306_frame1', 1.751], ['set212_frame2', 1.801], ['set128_frame1', 1.869], ['set311_frame0', 1.867], ['set59_frame1', 0.21]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_59_frame1.fa.txt
+5 100
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQLEKYYDMISVEKKKFSPWVRRLHLSLRAYKELLHTLLAMDKSTDEGVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+5 100
+set59_frame1
+ETMSIPMFHYVQQQLEKYYDMIRMEKKKFSPWVRRMHLALRCYKELLNTLLAMDKCSDTSVKESAKVIKSNVFYVLEYREFILSIILNYDENKMP
+Original query = ETMSVPMFHYVQQQLEKYYDMISVEKKKFSPWVRRLHLSLRAYKELLHTLLAMDKSTDEGVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+New query = ETMSIPMFHYVQQQLEKYYDMIRMEKKKFSPWVRRMHLALRCYKELLNTLLAMDKCSDTSVKESAKVIKSNVFYVLEYREFILSIILNYDENKMP
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1352641,1352759,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,38,39
+
+6
+10
+Anthocharis_cardamines,FR989962.1,1349360,1349542,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Anthocharis_cardamines,FR989962.1,1363363,1363443,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set59_frame0, 0.241
+5 top scores:
+[['set59_frame0', 0.241], ['set254_frame2', 1.7], ['set162_frame2', 1.716], ['set211_frame1', 1.732], ['set37_frame0', 1.717]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_59_frame0.fa.txt
+13 54
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_8
+SYLVDLVETVHLFLKMLEHFCKKTGLMVQKKVRKKAKAKSK
+13 54
+set59_frame0
+SYLLDLIETVHLFLKMLEHYCKKTGLVVQKKVRKKAKGTSE
+Original query = SYLVDLVETVHLFLKMLEHFCKKTGLMVQKKVRKKAKAKSK
+New query = SYLLDLIETVHLFLKMLEHYCKKTGLVVQKKVRKKAKGTSE
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1354884,1355034,0,Y,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_9,16,49,49
+
+7
+11
+Anthocharis_cardamines,FR989962.1,1351561,1351848,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Anthocharis_cardamines,FR989962.1,1363712,1363821,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Getting Gene
+min = set70_frame1, 0.844
+5 top scores:
+[['set70_frame1', 0.844], ['set144_frame2', 1.651], ['set248_frame1', 1.765], ['set249_frame1', 1.785], ['set84_frame2', 1.785]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_70_frame1.fa.txt
+13 62
+Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_2_query_Exon_9
+SKPRVSKPKEAPVTVWEEVRPQLAAVLSAGVDHYPPPFDAASDVPIDQQ
+13 62
+set70_frame1
+SRPPKPQPPKPDIPQWEAVREQMAVVLTSRLENYPPPFDAASDTPIDHQ
+Original query = SKPRVSKPKEAPVTVWEEVRPQLAAVLSAGVDHYPPPFDAASDVPIDQQ
+New query = SRPPKPQPPKPDIPQWEAVREQMAVVLTSRLENYPPPFDAASDTPIDHQ
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1363363,1363443,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+12
+13
+14
+Anthocharis_cardamines,FR989962.1,1352641,1352759,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,38,39
+
+Anthocharis_cardamines,FR989962.1,1366993,1367191,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set239_frame1, 0.175
+5 top scores:
+[['set239_frame1', 0.175], ['set67_frame1', 1.601], ['set129_frame2', 1.61], ['set66_frame2', 1.649], ['set77_frame2', 1.655]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_239_frame1.fa.txt
+3 29
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRDHKYEDAVGTFRAA
+3 29
+set239_frame1
+EDCMKKIQKLMRDQMYEDAVGTFRAA
+Original query = EDCMKKIQKLMRDHKYEDAVGTFRAA
+New query = EDCMKKIQKLMRDQMYEDAVGTFRAA
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1363712,1363821,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+9
+8
+13
+14
+Anthocharis_cardamines,FR989962.1,1352641,1352759,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,38,39
+
+Anthocharis_cardamines,FR989962.1,1366993,1367191,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set202_frame2, 0.343
+5 top scores:
+[['set202_frame2', 0.343], ['set1_frame1', 1.687], ['set234_frame1', 1.706], ['set226_frame2', 1.711], ['set234_frame2', 1.741]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_202_frame2.fa.txt
+17 53
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGVAGIPEDEELDMLETVYNTDMGVEVT
+17 53
+set202_frame2
+EVWPEEGIFGAEGIQEHEELDMLETIYSTDLGVEVT
+Original query = EVWPEEGIFGVAGIPEDEELDMLETVYNTDMGVEVT
+New query = EVWPEEGIFGAEGIQEHEELDMLETIYSTDLGVEVT
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,0,0,0,Y,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_12,0,0,15
+
+10
+14
+Anthocharis_cardamines,FR989962.1,1363363,1363443,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Anthocharis_cardamines,FR989962.1,1366993,1367191,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set32_frame2, 1.239
+5 top scores:
+[['set32_frame2', 1.239], ['set66_frame1', 1.441], ['set19_frame2', 1.603], ['set36_frame2', 1.649], ['set59_frame2', 1.657]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_32_frame2.fa.txt
+7 21
+Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_12
+IDQEDSHNDSDDDE
+7 21
+set32_frame2
+IEENEEENSEYDDE
+Original query = IDQEDSHNDSDDDEE
+New query = IEENEEENSEYDDE
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,0,0,0,Y,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_13,0,0,21
+
+11
+15
+Anthocharis_cardamines,FR989962.1,1363712,1363821,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Anthocharis_cardamines,FR989962.1,1367929,1368077,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15,1,48,49
+
+Getting Gene
+min = set58_frame0, 0.746
+5 top scores:
+[['set58_frame0', 0.746], ['set73_frame2', 1.572], ['set25_frame1', 1.664], ['set41_frame1', 1.668], ['set47_frame0', 1.676]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_58_frame0.fa.txt
+23 45
+Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_2_query_Exon_13
+EEEDEPSTAVVETDFDFKDFVL
+23 45
+set58_frame0
+DDEEEERTTVVETEFDFQDFMQ
+Original query = EEEDEPSTAVVETDFDFKDFVL
+New query = DDEEEERTTVVETEFDFQDFMQ
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1366993,1367191,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Anthocharis_cardamines,FR989962.1,1363712,1363821,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Anthocharis_cardamines,FR989962.1,1371722,1371816,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16,2,31,31
+
+Getting Gene
+min = set94_frame0, 0.416
+5 top scores:
+[['set94_frame0', 0.416], ['set126_frame2', 1.767], ['set140_frame2', 1.83], ['set164_frame2', 1.837], ['set127_frame2', 1.862]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_94_frame0.fa.txt
+13 79
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_0_query_Exon_14
+FCHPRVVSACVCLLERYDKNTTHTNHCIVKMLHRIAWDCNRPAMMFQATLFLIFQRILHNPVPHLK
+13 79
+set94_frame0
+FCHPRVVSACVLLLENFEKNSPYTNHCIVKMLHRIAWDCKRPAMMFQATLFLIFQKILANNIAHFR
+Original query = FCHPRVVSACVCLLERYDKNTTHTNHCIVKMLHRIAWDCNRPAMMFQATLFLIFQRILHNPVPHLK
+New query = FCHPRVVSACVLLLENFEKNSPYTNHCIVKMLHRIAWDCKRPAMMFQATLFLIFQKILANNIAHFR
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1367929,1368077,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15,1,48,49
+
+13
+12
+11
+17
+Anthocharis_cardamines,FR989962.1,1363712,1363821,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Anthocharis_cardamines,FR989962.1,1383366,1383572,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Getting Gene
+min = set94_frame2, 0.454
+5 top scores:
+[['set94_frame2', 0.454], ['set262_frame2', 1.678], ['set100_frame0', 1.648], ['set244_frame2', 1.751], ['set13_frame2', 1.765]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_94_frame2.fa.txt
+0 49
+Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_15
+ELEKFAVYVLRKFTEIASKSGKVFIELLFWKNSKDAVEIEHGYDVHSDP
+0 49
+set94_frame2
+ELEKFAIFVIRKFTEIATKSPKAFIELLFWTSSKDAIDVECGYDLYNDP
+Original query = ELEKFAVYVLRKFTEIASKSGKVFIELLFWKNSKDAVEIEHGYDVHSDP
+New query = ELEKFAIFVIRKFTEIATKSPKAFIELLFWTSSKDAIDVECGYDLYNDP
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1371722,1371816,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16,2,31,31
+
+14
+18
+Anthocharis_cardamines,FR989962.1,1366993,1367191,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Anthocharis_cardamines,FR989962.1,1386743,1386880,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_18,1,43,45
+
+Getting Gene
+min = set97_frame2, 0.469
+5 top scores:
+[['set97_frame2', 0.469], ['set336_frame0', 1.611], ['set90_frame2', 1.618], ['set128_frame2', 1.623], ['set252_frame2', 1.626]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_97_frame2.fa.txt
+2 33
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_16
+DKPGKGGWSEAQEEELRQLYMENQSNPETDQ
+2 33
+set97_frame2
+NKEGKASWSEEQEEELRKLYMENQSNPENDK
+Original query = DKPGKGGWSEAQEEELRQLYMENQSNPETDQ
+New query = NKEGKASWSEEQEEELRKLYMENQSNPENDK
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1383366,1383572,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+15
+19
+Anthocharis_cardamines,FR989962.1,1367929,1368077,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15,1,48,49
+
+Anthocharis_cardamines,FR989962.1,1388361,1388528,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_19,12,53,53
+
+Getting Gene
+min = set378_frame1, 0.339
+5 top scores:
+[['set378_frame1', 0.339], ['set472_frame2', 1.818], ['set47_frame0', 1.827], ['set468_frame1', 1.83], ['set71_frame0', 1.835]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_378_frame1.fa.txt
+8 76
+Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_17
+VIDWMLENIIDQTRTRRSVIKKLKELGLIFKAPTKKVNREKREHVPKDFSEEEDEMLRELWQQFGDTT
+8 76
+set378_frame1
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFKAPTKRSNKERREGVPKEFSEQEDELLRELWAQYGETD
+Original query = VIDWMLENIIDQTRTRRSVIKKLKELGLIFKAPTKKVNREKREHVPKDFSEEEDEMLRELWQQFGDTT
+New query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFKAPTKRSNKERREGVPKEFSEQEDELLRELWAQYGETD
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1386743,1386880,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_18,1,43,45
+
+16
+20
+Anthocharis_cardamines,FR989962.1,1371722,1371816,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16,2,31,31
+
+Anthocharis_cardamines,FR989962.1,1391164,1391357,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20,1,64,64
+
+Getting Gene
+min = set313_frame2, 0.599
+5 top scores:
+[['set313_frame2', 0.599], ['set402_frame0', 1.691], ['set438_frame0', 1.739], ['set284_frame2', 1.743], ['set34_frame2', 1.756]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_313_frame2.fa.txt
+4 56
+Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_18
+PMALILPRMPRKRSKRSFVDRMLELGVVQDRKQCRKKKQRKAKSTADDDKSN
+4 56
+set313_frame2
+PMSLIMSRMPRKRQKRSYIDRLLELGLVEDRKQCRKKRQKRKEDGSADGKTT
+Original query = PMALILPRMPRKRSKRSFVDRMLELGVVQDRKQCRKKKQRKAKSTADDDKSN
+New query = PMSLIMSRMPRKRQKRSYIDRLLELGLVEDRKQCRKKRQKRKEDGSADGKTT
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1388361,1388528,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_19,12,53,53
+
+17
+21
+Anthocharis_cardamines,FR989962.1,1383366,1383572,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Anthocharis_cardamines,FR989962.1,1392852,1393320,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,146,148
+
+Getting Gene
+min = set126_frame2, 1.255
+5 top scores:
+[['set126_frame2', 1.255], ['set77_frame1', 1.799], ['set83_frame0', 1.753], ['set142_frame2', 1.815], ['set162_frame2', 1.847]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_126_frame2.fa.txt
+24 88
+Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_19
+SSESESEASHSDSDAPPPTINIKPKKTNKKDAGKKQQIKNKKGAKSVELSANEIAKLLVQAVDE
+24 88
+set126_frame2
+SLESSSGDSDDGSRSPSP-VRVKPKKTT-QEPRKKGQKKNKNTA--VEISASEIARLLVSAVEA
+Original query = SSSESESEASHSDSDAPPPTINIKPKKTNKKDAGKKQQIKNKKGAKSVELSANEIAKLLVQAVDE
+New query = SLESSSGDSDDGSRSPSP-VRVKPKKTT-QEPRKKGQKKNKNTA--VEISASEIARLLVSAVEA
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1391164,1391357,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20,1,64,64
+
+18
+21
+Anthocharis_cardamines,FR989962.1,1386743,1386880,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_18,1,43,45
+
+Anthocharis_cardamines,FR989962.1,1392852,1393320,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,146,148
+
+Getting Gene
+min = set93_frame1, 0.68
+5 top scores:
+[['set93_frame1', 0.68], ['set120_frame1', 1.76], ['set1_frame2', 1.822], ['set41_frame0', 1.863], ['set57_frame0', 1.854]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_93_frame1.fa.txt
+17 81
+Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_0_query_Exon_20
+FTEALRWLAENLEEVALDQEAEGFDPTAEGTALVPISSESIEAMDSALFLEVLKSIGIAPPSDE
+17 81
+set93_frame1
+HTESLNWLAENLEEVALDQEAAGFDPSEEGTPLVPILAGPAQAMEDNLFQAVLTAVGVVPPSEQ
+Original query = FTEALRWLAENLEEVALDQEAEGFDPTAEGTALVPISSESIEAMDSALFLEVLKSIGIAPPSDEQ
+New query = HTESLNWLAENLEEVALDQEAAGFDPSEEGTPLVPILAGPAQAMEDNLFQAVLTAVGVVPPSEQ
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1392852,1393320,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,146,148
+
+19
+21
+Anthocharis_cardamines,FR989962.1,1388361,1388528,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_19,12,53,53
+
+Anthocharis_cardamines,FR989962.1,1392852,1393320,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,146,148
+
+Getting Gene
+min = set83_frame0, 1.034
+5 top scores:
+[['set83_frame0', 1.034]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_83_frame0.fa.txt
+0 171
+Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_1_query_Exon_21
+EIYWRIPSNLHHETIRKRREIILKAINKELIVDNSITNTVVPKSANSQEPIDKAESSDDDDLFDNLRKIRDN--NPVISDNV---SNKSVSNNRNTSN-------------------RKRSRSNDPDEGNNRKMQRIEEVNDEEEDILSFAKKTLQTD-LPDTEDILSGLP
+0 171
+set83_frame0
+ESYWRIPSSLHYETIRKRREIIIKAINKELIVEQS---------------QDKAESSDDDNLFDNLRKITKNVQNAVIDENSVDNDQNSVDNDQNSVDNYQNDQSKSSIDTDVKKKGRKRTRSVE-SEGNSKKLQKIDE---DEEDILSFAKKTLNHETLPDTEDILSALP
+Original query = EIYWRIPSNLHHETIRKRREIILKAINKELIVDNSITNTVVPKSANSQEPIDKAESSDDDDLFDNLRKIRDNNPVISDNVSNKSVSNNRNTSNRKRSRSNDPDEGNNRKMQRIEEVNDEEEDILSFAKKTLQTDLPDTEDILSGLPHHS
+New query = ESYWRIPSSLHYETIRKRREIIIKAINKELIVEQS---------------QDKAESSDDDNLFDNLRKITKNVQNAVIDENSVDNDQNSVDNDQNSVDNYQNDQSKSSIDTDVKKKGRKRTRSVE-SEGNSKKLQKIDE---DEEDILSFAKKTLNHETLPDTEDILSALP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1346820,1347003,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Anthocharis_cardamines,FR989962.1,1346361,1346614,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Anthocharis_cardamines,FR989962.1,1347726,1347982,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set11_frame1, 0.087
+5 top scores:
+[['set18_frame2', 1.807], ['set25_frame0', 1.723], ['set35_frame0', 1.82], ['set11_frame1', 0.087], ['set26_frame1', 1.76]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_11_frame1.fa.txt
+13 74
+Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPAERTARHNYLQILSHLQSYKEEAFTKVETWQVFAKKLAKILEI
+13 74
+set11_frame1
+LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQAYKEETFSKVETWQVFAKKLAKILEI
+Original query = LIVNLTNPALLLYREEVPAERTARHNYLQILSHLQSYKEEAFTKVETWQVFAKKLAKILEI
+New query = LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQAYKEETFSKVETWQVFAKKLAKILEI
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1347309,1347443,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Anthocharis_cardamines,FR989962.1,1346361,1346614,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Anthocharis_cardamines,FR989962.1,1348735,1348932,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set25_frame0, 0.032
+5 top scores:
+[['set80_frame2', 1.748], ['set10_frame0', 1.788], ['set25_frame0', 0.032], ['set35_frame0', 1.753], ['set51_frame0', 1.819]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_25_frame0.fa.txt
+0 45
+Pieris_napi_XM_047670174.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLVIERILILIRNVLHVPADLDKEKRPENDASIHDQ
+0 45
+set25_frame0
+DWSERDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Original query = DWSERDEDTGLVIERILILIRNVLHVPADLDKEKRPENDASIHDQ
+New query = DWSERDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1347726,1347982,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Anthocharis_cardamines,FR989962.1,1346820,1347003,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Anthocharis_cardamines,FR989962.1,1349360,1349542,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set27_frame0, 0.111
+5 top scores:
+[['set17_frame0', 1.812], ['set27_frame0', 0.111], ['set66_frame0', 1.836], ['set1_frame1', 1.855], ['set66_frame2', 1.869]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_27_frame0.fa.txt
+0 85
+Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4
+VLWGLNQSGILDLLLYMSSENEKQYFMHILEIITHLLREQNPSGLADAALQRSVDEKLRDEQELLTLRLSETKERVNKIRQYSST
+0 85
+set27_frame0
+VLWALNQSGILDIILYMSSENEKQYFMHILEIITHLLREQNPSSLADAALQRSVDEKLRDEQELLTIRMSETKERVDKIRQYSST
+Original query = VLWGLNQSGILDLLLYMSSENEKQYFMHILEIITHLLREQNPSGLADAALQRSVDEKLRDEQELLTLRLSETKERVNKIRQYSST
+New query = VLWALNQSGILDIILYMSSENEKQYFMHILEIITHLLREQNPSSLADAALQRSVDEKLRDEQELLTIRMSETKERVDKIRQYSST
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1348735,1348932,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Anthocharis_cardamines,FR989962.1,1347309,1347443,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Anthocharis_cardamines,FR989962.1,1351561,1351848,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set53_frame2, 0.135
+5 top scores:
+[['set53_frame2', 0.135], ['set11_frame0', 1.819], ['set111_frame2', 1.841], ['set66_frame0', 1.807], ['set90_frame0', 1.852]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_53_frame2.fa.txt
+26 91
+Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVIQNMKSISENELISLKPLNKISNLDFNGSKKSKLVRPKNRRPVETGAMERRSPFAV
+26 91
+set53_frame2
+YSRFGGTYVIQNMKSISDNDLICLKPLNKISNLDFNGSKKSKLVKPKNRRPVESGAMERRSPFAV
+Original query = HSRFGGTYVIQNMKSISENELISLKPLNKISNLDFNGSKKSKLVRPKNRRPVETGAMERRSPFAV
+New query = YSRFGGTYVIQNMKSISDNDLICLKPLNKISNLDFNGSKKSKLVKPKNRRPVESGAMERRSPFAV
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1349360,1349542,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+Anthocharis_cardamines,FR989962.1,1347726,1347982,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Anthocharis_cardamines,FR989962.1,1352641,1352759,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,38,39
+
+Getting Gene
+min = set40_frame0, 0.112
+5 top scores:
+[['set109_frame2', 1.779], ['set40_frame0', 0.112], ['set56_frame0', 1.808], ['set94_frame2', 1.809], ['set36_frame2', 1.833]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_40_frame0.fa.txt
+10 70
+Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNALMHYVKDVLVRAKAQQNDESYYLWTMKFFMEFNRGHKFNVGLV
+10 70
+set40_frame0
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWTMKFFMEFNRVHKFNVALV
+Original query = LFLKEFCIEFLNSSYNALMHYVKDVLVRAKAQQNDESYYLWTMKFFMEFNRGHKFNVGLV
+New query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWTMKFFMEFNRVHKFNVALV
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1351561,1351848,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+10
+Anthocharis_cardamines,FR989962.1,1348735,1348932,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Anthocharis_cardamines,FR989962.1,1363363,1363443,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set59_frame1, 0.253
+5 top scores:
+[['set306_frame1', 1.77], ['set174_frame0', 1.846], ['set212_frame2', 1.849], ['set129_frame1', 1.874], ['set59_frame1', 0.253]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_59_frame1.fa.txt
+5 100
+Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQMEKYHDMIRVEKNKFYPWVRRLHLALRCYKELLNTLLEMDKSSDVSVKDSAKVIKSNVFYVLEYREFILTIFLDYDDNKMP
+5 100
+set59_frame1
+ETMSIPMFHYVQQQLEKYYDMIRMEKKKFSPWVRRMHLALRCYKELLNTLLAMDKCSDTSVKESAKVIKSNVFYVLEYREFILSIILNYDENKMP
+Original query = ETMSVPMFHYVQQQMEKYHDMIRVEKNKFYPWVRRLHLALRCYKELLNTLLEMDKSSDVSVKDSAKVIKSNVFYVLEYREFILTIFLDYDDNKMP
+New query = ETMSIPMFHYVQQQLEKYYDMIRMEKKKFSPWVRRMHLALRCYKELLNTLLAMDKCSDTSVKESAKVIKSNVFYVLEYREFILSIILNYDENKMP
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1352641,1352759,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,38,39
+
+6
+10
+Anthocharis_cardamines,FR989962.1,1349360,1349542,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Anthocharis_cardamines,FR989962.1,1363363,1363443,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set59_frame0, 0.146
+5 top scores:
+[['set59_frame0', 0.146], ['set235_frame1', 1.702], ['set114_frame1', 1.717], ['set254_frame2', 1.719], ['set37_frame0', 1.743]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_59_frame0.fa.txt
+13 52
+Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8
+SYLLDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKTKAK
+13 52
+set59_frame0
+SYLLDLIETVHLFLKMLEHYCKKTGLVVQKKVRKKAKGT
+Original query = SYLLDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKTKAK
+New query = SYLLDLIETVHLFLKMLEHYCKKTGLVVQKKVRKKAKGT
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1354884,1355034,0,Y,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_9,16,49,49
+
+7
+11
+Anthocharis_cardamines,FR989962.1,1351561,1351848,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Anthocharis_cardamines,FR989962.1,1363712,1363821,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Getting Gene
+min = set70_frame1, 0.495
+5 top scores:
+[['set70_frame1', 0.495], ['set144_frame2', 1.604], ['set84_frame2', 1.756], ['set55_frame0', 1.757], ['set195_frame2', 1.8]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_70_frame1.fa.txt
+11 62
+Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_9
+QKPR-QKPQATKP-IPQWEAVREQMAVVLTSQLDTYPPPFDAASDTPIDQQ
+11 62
+set70_frame1
+QKSRPPKPQPPKPDIPQWEAVREQMAVVLTSRLENYPPPFDAASDTPIDHQ
+Original query = QKPRQKPQATKPIPQWEAVREQMAVVLTSQLDTYPPPFDAASDTPIDQQ
+New query = QKSRPPKPQPPKPDIPQWEAVREQMAVVLTSRLENYPPPFDAASDTPIDHQ
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1363363,1363443,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+12
+13
+14
+Anthocharis_cardamines,FR989962.1,1352641,1352759,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,38,39
+
+Anthocharis_cardamines,FR989962.1,1366993,1367191,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set239_frame1, 0.221
+5 top scores:
+[['set239_frame1', 0.221], ['set129_frame2', 1.61], ['set14_frame2', 1.623], ['set140_frame1', 1.643], ['set66_frame2', 1.649]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_239_frame1.fa.txt
+3 29
+Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRDHKYEDALGTFRAA
+3 29
+set239_frame1
+EDCMKKIQKLMRDQMYEDAVGTFRAA
+Original query = EDCMKKIQKLMRDHKYEDALGTFRAA
+New query = EDCMKKIQKLMRDQMYEDAVGTFRAA
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1363712,1363821,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+9
+8
+13
+14
+Anthocharis_cardamines,FR989962.1,1352641,1352759,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,38,39
+
+Anthocharis_cardamines,FR989962.1,1366993,1367191,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set202_frame2, 0.214
+5 top scores:
+[['set202_frame2', 0.214], ['set226_frame2', 1.637], ['set233_frame1', 1.725], ['set339_frame1', 1.731], ['set234_frame2', 1.755]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_202_frame2.fa.txt
+17 53
+Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGTEGIQEHEELDMLETIYNTDLGVEND
+17 53
+set202_frame2
+EVWPEEGIFGAEGIQEHEELDMLETIYSTDLGVEVT
+Original query = EVWPEEGIFGTEGIQEHEELDMLETIYNTDLGVEND
+New query = EVWPEEGIFGAEGIQEHEELDMLETIYSTDLGVEVT
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,0,0,0,Y,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_12,0,0,15
+
+10
+14
+Anthocharis_cardamines,FR989962.1,1363363,1363443,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Anthocharis_cardamines,FR989962.1,1366993,1367191,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set32_frame2, 0.452
+5 top scores:
+[['set32_frame2', 0.452], ['set56_frame0', 1.49], ['set48_frame2', 1.526], ['set56_frame1', 1.621], ['set10_frame2', 1.63]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_32_frame2.fa.txt
+6 21
+Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_12
+TVQEQEEENSEYDEE
+6 21
+set32_frame2
+NIEENEEENSEYDDE
+Original query = TVQEQEEENSEYDEE
+New query = NIEENEEENSEYDDE
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,0,0,0,Y,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_13,0,0,21
+
+11
+15
+Anthocharis_cardamines,FR989962.1,1363712,1363821,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Anthocharis_cardamines,FR989962.1,1367929,1368077,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15,1,48,49
+
+Getting Gene
+min = set58_frame0, 0.382
+5 top scores:
+[['set58_frame0', 0.382], ['set1_frame1', 1.562], ['set75_frame2', 1.58], ['set91_frame1', 1.667], ['set15_frame2', 1.667]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_58_frame0.fa.txt
+25 46
+Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_13
+EEEDRTTSVVETEFDFQDFMQ
+25 46
+set58_frame0
+EEEERTT-VVETEFDFQDFMQ
+Original query = EEEDRTTSVVETEFDFQDFMQ
+New query = EEEERTT-VVETEFDFQDFMQ
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1366993,1367191,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Anthocharis_cardamines,FR989962.1,1363712,1363821,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Anthocharis_cardamines,FR989962.1,1371722,1371816,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16,2,31,31
+
+Getting Gene
+min = set94_frame0, 0.255
+5 top scores:
+[['set94_frame0', 0.255], ['set143_frame2', 1.808], ['set164_frame2', 1.842], ['set33_frame1', 1.84], ['set140_frame2', 1.855]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_94_frame0.fa.txt
+13 79
+Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14
+FCHPRVVSACVSLLDRFEKNTPYTNHCIAKMLHRIAWDCRRPAMMFQASLFLIFQRVLTNNIQHFK
+13 79
+set94_frame0
+FCHPRVVSACVLLLENFEKNSPYTNHCIVKMLHRIAWDCKRPAMMFQATLFLIFQKILANNIAHFR
+Original query = FCHPRVVSACVSLLDRFEKNTPYTNHCIAKMLHRIAWDCRRPAMMFQASLFLIFQRVLTNNIQHFK
+New query = FCHPRVVSACVLLLENFEKNSPYTNHCIVKMLHRIAWDCKRPAMMFQATLFLIFQKILANNIAHFR
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1367929,1368077,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15,1,48,49
+
+13
+12
+11
+17
+Anthocharis_cardamines,FR989962.1,1363712,1363821,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Anthocharis_cardamines,FR989962.1,1383366,1383572,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Getting Gene
+min = set94_frame2, 0.221
+5 top scores:
+[['set94_frame2', 0.221], ['set324_frame2', 1.735], ['set100_frame0', 1.686], ['set232_frame2', 1.77], ['set321_frame2', 1.783]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_94_frame2.fa.txt
+0 48
+Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFAIYVIRKFTDIASRSPKAFIELLFWTNSKDAVEVECGYDLYND
+0 48
+set94_frame2
+ELEKFAIFVIRKFTEIATKSPKAFIELLFWTSSKDAIDVECGYDLYND
+Original query = ELEKFAIYVIRKFTDIASRSPKAFIELLFWTNSKDAVEVECGYDLYNDQ
+New query = ELEKFAIFVIRKFTEIATKSPKAFIELLFWTSSKDAIDVECGYDLYND
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1371722,1371816,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16,2,31,31
+
+14
+18
+Anthocharis_cardamines,FR989962.1,1366993,1367191,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Anthocharis_cardamines,FR989962.1,1386743,1386880,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_18,1,43,45
+
+Getting Gene
+min = set97_frame2, 0.364
+5 top scores:
+[['set97_frame2', 0.364], ['set485_frame2', 1.516], ['set128_frame2', 1.651], ['set457_frame2', 1.665], ['set411_frame2', 1.708]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_97_frame2.fa.txt
+2 33
+Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16
+GKEGKHSWSEEQEEELRKLYMENQANPVNEQ
+2 33
+set97_frame2
+NKEGKASWSEEQEEELRKLYMENQSNPENDK
+Original query = GKEGKHSWSEEQEEELRKLYMENQANPVNEQ
+New query = NKEGKASWSEEQEEELRKLYMENQSNPENDK
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1383366,1383572,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+15
+19
+Anthocharis_cardamines,FR989962.1,1367929,1368077,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15,1,48,49
+
+Anthocharis_cardamines,FR989962.1,1388361,1388528,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_19,12,53,53
+
+Getting Gene
+min = set378_frame1, 0.228
+5 top scores:
+[['set378_frame1', 0.228], ['set34_frame0', 1.808], ['set472_frame2', 1.816], ['set135_frame0', 1.826], ['set71_frame0', 1.821]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_378_frame1.fa.txt
+8 76
+Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17
+VIEWILDNLIDQTRTRRGVIKKLKELGLIFRAPTKKSNKERRERVPKEFTEEEDEMLRGLWAQFGETD
+8 76
+set378_frame1
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFKAPTKRSNKERREGVPKEFSEQEDELLRELWAQYGETD
+Original query = VIEWILDNLIDQTRTRRGVIKKLKELGLIFRAPTKKSNKERRERVPKEFTEEEDEMLRGLWAQFGETD
+New query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFKAPTKRSNKERREGVPKEFSEQEDELLRELWAQYGETD
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1386743,1386880,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_18,1,43,45
+
+16
+20
+Anthocharis_cardamines,FR989962.1,1371722,1371816,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16,2,31,31
+
+Anthocharis_cardamines,FR989962.1,1391164,1391357,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20,1,64,64
+
+Getting Gene
+min = set313_frame2, 0.379
+5 top scores:
+[['set313_frame2', 0.379], ['set402_frame0', 1.7], ['set34_frame2', 1.705], ['set15_frame2', 1.73], ['set60_frame2', 1.731]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_313_frame2.fa.txt
+4 49
+Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_18
+PMGLIISRMPRKRQKRSFIDRLLELGIIQDKKECRKKRQKKGDSS
+4 49
+set313_frame2
+PMSLIMSRMPRKRQKRSYIDRLLELGLVEDRKQCRKKRQKRKEDG
+Original query = PMGLIISRMPRKRQKRSFIDRLLELGIIQDKKECRKKRQKKGDSS
+New query = PMSLIMSRMPRKRQKRSYIDRLLELGLVEDRKQCRKKRQKRKEDG
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1388361,1388528,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_19,12,53,53
+
+17
+21
+Anthocharis_cardamines,FR989962.1,1383366,1383572,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Anthocharis_cardamines,FR989962.1,1392852,1393320,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,146,148
+
+Getting Gene
+min = set126_frame2, 0.678
+5 top scores:
+[['set126_frame2', 0.678], ['set77_frame1', 1.761], ['set1_frame2', 1.778], ['set162_frame2', 1.782], ['set163_frame2', 1.785]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_126_frame2.fa.txt
+28 84
+Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_19
+SSSDSDE-SRSSSPVRIQAKKKTHEPRKRNQNKGKH--VEISANEIARLLVSAVEA
+28 84
+set126_frame2
+SSGDSDDGSRSPSPVRVKPKKTTQEPRKKGQKKNKNTAVEISASEIARLLVSAVEA
+Original query = SSSDSDESRSSSPVRIQAKKKTHEPRKRNQNKGKHVEISANEIARLLVSAVEA
+New query = SSGDSDDGSRSPSPVRVKPKKTTQEPRKKGQKKNKNTAVEISASEIARLLVSAVEA
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1391164,1391357,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20,1,64,64
+
+18
+21
+Anthocharis_cardamines,FR989962.1,1386743,1386880,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_18,1,43,45
+
+Anthocharis_cardamines,FR989962.1,1392852,1393320,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,146,148
+
+Getting Gene
+min = set93_frame1, 0.349
+5 top scores:
+[['set93_frame1', 0.349], ['set43_frame1', 1.82], ['set120_frame1', 1.828], ['set1_frame2', 1.833], ['set57_frame0', 1.83]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_93_frame1.fa.txt
+17 81
+Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20
+HTESLNWLAENLEEVALDQEAEGFNPGDEGTPLVPIFTGSAEAMEENLFQTVLKAIGVVPPNDQ
+17 81
+set93_frame1
+HTESLNWLAENLEEVALDQEAAGFDPSEEGTPLVPILAGPAQAMEDNLFQAVLTAVGVVPPSEQ
+Original query = HTESLNWLAENLEEVALDQEAEGFNPGDEGTPLVPIFTGSAEAMEENLFQTVLKAIGVVPPNDQ
+New query = HTESLNWLAENLEEVALDQEAAGFDPSEEGTPLVPILAGPAQAMEDNLFQAVLTAVGVVPPSEQ
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1392852,1393320,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,146,148
+
+19
+21
+Anthocharis_cardamines,FR989962.1,1388361,1388528,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_19,12,53,53
+
+Anthocharis_cardamines,FR989962.1,1392852,1393320,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,146,148
+
+Getting Gene
+min = set83_frame0, 0.694
+5 top scores:
+[['set83_frame0', 0.694]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_83_frame0.fa.txt
+0 81
+set83_frame0
+ESYWRIPSSLHYETIRKRREIIIKAINKELIVEQSQDKAESSDDDNLFDNLRKITKN-------VQNAVIDENSVDNDQNS
+Original query = ESYWRIPSSLHYETIRKRRDTILKAVNKELIVEKPNDSSDDDDLFNNLRKITNNEQPVKEHINNTIINENNDANINEDNDSDSSDIGPSKSSKSRKRTRSVESEGNSRKLQKIDEDDDDILSFAKKTLNHENLPDTEDILSALPSRAS
+New query = ESYWRIPSSLHYETIRKRREIIIKAINKELIVEQSQDKAESSDDDNLFDNLRKITKN-------VQNAVIDENSVDNDQNS
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1346820,1347003,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Anthocharis_cardamines,FR989962.1,1346361,1346614,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Anthocharis_cardamines,FR989962.1,1347726,1347982,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set11_frame1, 0.27
+5 top scores:
+[['set18_frame2', 1.836], ['set25_frame0', 1.719], ['set35_frame0', 1.823], ['set11_frame1', 0.27], ['set26_frame1', 1.711]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_11_frame1.fa.txt
+13 74
+Leptidea_sinapis_XM_050825300.1_Frame_1_rightoh_0_query_Exon_2
+LIVNLTTPALLLYREEVPTDRSARHNYLHVLSHLQSYKEESFTKVDTWQVFAKKLTKVLEI
+13 74
+set11_frame1
+LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQAYKEETFSKVETWQVFAKKLAKILEI
+Original query = LIVNLTTPALLLYREEVPTDRSARHNYLHVLSHLQSYKEESFTKVDTWQVFAKKLTKVLEI
+New query = LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQAYKEETFSKVETWQVFAKKLAKILEI
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1347309,1347443,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Anthocharis_cardamines,FR989962.1,1346361,1346614,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Anthocharis_cardamines,FR989962.1,1348735,1348932,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set25_frame0, 0.022
+5 top scores:
+[['set80_frame2', 1.744], ['set10_frame0', 1.794], ['set25_frame0', 0.022], ['set35_frame0', 1.76], ['set51_frame0', 1.825]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_25_frame0.fa.txt
+0 45
+Leptidea_sinapis_XM_050825300.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+0 45
+set25_frame0
+DWSERDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+New query = DWSERDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1347726,1347982,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Anthocharis_cardamines,FR989962.1,1346820,1347003,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Anthocharis_cardamines,FR989962.1,1349360,1349542,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set27_frame0, 0.096
+5 top scores:
+[['set17_frame0', 1.809], ['set27_frame0', 0.096], ['set66_frame0', 1.823], ['set1_frame1', 1.857], ['set66_frame2', 1.863]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_27_frame0.fa.txt
+0 85
+Leptidea_sinapis_XM_050825300.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQSGILDVILYMSSENEKQYFMHILEIITHLLREQNPTNLADAALQRSVEEKLRDEQELLTIRMSETKDRVNKIRQYSST
+0 85
+set27_frame0
+VLWALNQSGILDIILYMSSENEKQYFMHILEIITHLLREQNPSSLADAALQRSVDEKLRDEQELLTIRMSETKERVDKIRQYSST
+Original query = VLWALNQSGILDVILYMSSENEKQYFMHILEIITHLLREQNPTNLADAALQRSVEEKLRDEQELLTIRMSETKDRVNKIRQYSST
+New query = VLWALNQSGILDIILYMSSENEKQYFMHILEIITHLLREQNPSSLADAALQRSVDEKLRDEQELLTIRMSETKERVDKIRQYSST
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1348735,1348932,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Anthocharis_cardamines,FR989962.1,1347309,1347443,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Anthocharis_cardamines,FR989962.1,1351561,1351848,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set53_frame2, 0.126
+5 top scores:
+[['set53_frame2', 0.126], ['set111_frame2', 1.828], ['set50_frame0', 1.825], ['set66_frame0', 1.845], ['set92_frame0', 1.851]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_53_frame2.fa.txt
+26 91
+Leptidea_sinapis_XM_050825300.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVIQNMKSISENELICLKPLNTISNLDFNGSKKSKLVKPKNRRPTESGAMERRSPFAV
+26 91
+set53_frame2
+YSRFGGTYVIQNMKSISDNDLICLKPLNKISNLDFNGSKKSKLVKPKNRRPVESGAMERRSPFAV
+Original query = HSRFGGTYVIQNMKSISENELICLKPLNTISNLDFNGSKKSKLVKPKNRRPTESGAMERRSPFAV
+New query = YSRFGGTYVIQNMKSISDNDLICLKPLNKISNLDFNGSKKSKLVKPKNRRPVESGAMERRSPFAV
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1349360,1349542,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+Anthocharis_cardamines,FR989962.1,1347726,1347982,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Anthocharis_cardamines,FR989962.1,1352641,1352759,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,38,39
+
+Getting Gene
+min = set40_frame0, 0.168
+5 top scores:
+[['set94_frame2', 1.762], ['set40_frame0', 0.168], ['set109_frame2', 1.804], ['set61_frame2', 1.822], ['set63_frame1', 1.836]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_40_frame0.fa.txt
+10 70
+Leptidea_sinapis_XM_050825300.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSAYNPLMHYVKDVLVRSIAQQNDESYYLWAVKFFMEFNRGHKFNVALV
+10 70
+set40_frame0
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWTMKFFMEFNRVHKFNVALV
+Original query = LFLKEFCIEFLNSAYNPLMHYVKDVLVRSIAQQNDESYYLWAVKFFMEFNRGHKFNVALV
+New query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWTMKFFMEFNRVHKFNVALV
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1351561,1351848,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+10
+Anthocharis_cardamines,FR989962.1,1348735,1348932,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Anthocharis_cardamines,FR989962.1,1363363,1363443,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set59_frame1, 0.188
+5 top scores:
+[['set306_frame1', 1.73], ['set212_frame2', 1.82], ['set266_frame0', 1.84], ['set311_frame0', 1.879], ['set59_frame1', 0.188]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_59_frame1.fa.txt
+5 100
+Leptidea_sinapis_XM_050825300.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQMEKYYDMIRVEKKKFSSWVRRLHLALRSYKELLYTLLAMDTAEDVSVKESAKVIKSNIFYVLEYREFILSIILNYDENKMP
+5 100
+set59_frame1
+ETMSIPMFHYVQQQLEKYYDMIRMEKKKFSPWVRRMHLALRCYKELLNTLLAMDKCSDTSVKESAKVIKSNVFYVLEYREFILSIILNYDENKMP
+Original query = ETMSVPMFHYVQQQMEKYYDMIRVEKKKFSSWVRRLHLALRSYKELLYTLLAMDTAEDVSVKESAKVIKSNIFYVLEYREFILSIILNYDENKMP
+New query = ETMSIPMFHYVQQQLEKYYDMIRMEKKKFSPWVRRMHLALRCYKELLNTLLAMDKCSDTSVKESAKVIKSNVFYVLEYREFILSIILNYDENKMP
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1352641,1352759,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,38,39
+
+6
+10
+Anthocharis_cardamines,FR989962.1,1349360,1349542,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Anthocharis_cardamines,FR989962.1,1363363,1363443,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set59_frame0, 0.324
+5 top scores:
+[['set59_frame0', 0.324], ['set113_frame0', 1.713], ['set190_frame1', 1.716], ['set255_frame1', 1.719], ['set254_frame2', 1.727]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_59_frame0.fa.txt
+13 53
+Leptidea_sinapis_XM_050825300.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKPSKPR
+13 53
+set59_frame0
+SYLLDLIETVHLFLKMLEHYCKKTGLVVQKKVRKKAKGTS
+Original query = SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKPSKPR
+New query = SYLLDLIETVHLFLKMLEHYCKKTGLVVQKKVRKKAKGTS
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1354884,1355034,0,Y,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_9,16,49,49
+
+7
+11
+Anthocharis_cardamines,FR989962.1,1351561,1351848,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Anthocharis_cardamines,FR989962.1,1363712,1363821,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Getting Gene
+min = set70_frame1, 0.865
+5 top scores:
+[['set70_frame1', 0.865], ['set144_frame2', 1.637], ['set21_frame2', 1.779], ['set84_frame2', 1.804], ['set71_frame1', 1.837]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_70_frame1.fa.txt
+11 63
+Leptidea_sinapis_XM_050825300.1_Frame_2_rightoh_2_query_Exon_9
+QKPRTKAQAQAPKTDTP-WEVAREQIAVVLTSQIEDCLPPFDAASDVPIDQQ
+11 63
+set70_frame1
+QKSR-PPKPQPPKPDIPQWEAVREQMAVVLTSRLENYPPPFDAASDTPIDHQ
+Original query = QKPRTKAQAQAPKTDTPWEVAREQIAVVLTSQIEDCLPPFDAASDVPIDQQ
+New query = QKSR-PPKPQPPKPDIPQWEAVREQMAVVLTSRLENYPPPFDAASDTPIDHQ
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1363363,1363443,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+12
+13
+14
+Anthocharis_cardamines,FR989962.1,1352641,1352759,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,38,39
+
+Anthocharis_cardamines,FR989962.1,1366993,1367191,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set239_frame1, 0.384
+5 top scores:
+[['set239_frame1', 0.384], ['set67_frame1', 1.431], ['set129_frame2', 1.531], ['set6_frame2', 1.604], ['set233_frame1', 1.631]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_239_frame1.fa.txt
+3 29
+Leptidea_sinapis_XM_050825300.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKRMREGQYEEAVGTFRAA
+3 29
+set239_frame1
+EDCMKKIQKLMRDQMYEDAVGTFRAA
+Original query = EDCMKKIQKRMREGQYEEAVGTFRAA
+New query = EDCMKKIQKLMRDQMYEDAVGTFRAA
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1363712,1363821,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+9
+8
+13
+14
+Anthocharis_cardamines,FR989962.1,1352641,1352759,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,38,39
+
+Anthocharis_cardamines,FR989962.1,1366993,1367191,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set202_frame2, 0.209
+5 top scores:
+[['set202_frame2', 0.209], ['set226_frame2', 1.678], ['set129_frame2', 1.712], ['set234_frame2', 1.739], ['set239_frame1', 1.747]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_202_frame2.fa.txt
+17 53
+Leptidea_sinapis_XM_050825300.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGTDGIQEHEELEMLETIYNTDLGVELT
+17 53
+set202_frame2
+EVWPEEGIFGAEGIQEHEELDMLETIYSTDLGVEVT
+Original query = EVWPEEGIFGTDGIQEHEELEMLETIYNTDLGVELT
+New query = EVWPEEGIFGAEGIQEHEELDMLETIYSTDLGVEVT
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,0,0,0,Y,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_12,0,0,15
+
+10
+14
+Anthocharis_cardamines,FR989962.1,1363363,1363443,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Anthocharis_cardamines,FR989962.1,1366993,1367191,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set32_frame2, 1.081
+5 top scores:
+[['set32_frame2', 1.081], ['set48_frame2', 1.439], ['set59_frame2', 1.592], ['set40_frame2', 1.644], ['set3_frame2', 1.684]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_32_frame2.fa.txt
+6 22
+Leptidea_sinapis_XM_050825300.1_Frame_2_rightoh_1_query_Exon_12
+NAEKAEPEENSEDDDE
+6 22
+set32_frame2
+NIEENE-EENSEYDDE
+Original query = NAEKAEPEENSEDDDEE
+New query = NIEENE-EENSEYDDE
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,0,0,0,Y,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_13,0,0,21
+
+11
+15
+Anthocharis_cardamines,FR989962.1,1363712,1363821,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Anthocharis_cardamines,FR989962.1,1367929,1368077,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15,1,48,49
+
+Getting Gene
+min = set58_frame0, 0.426
+5 top scores:
+[['set58_frame0', 0.426], ['set75_frame2', 1.641], ['set25_frame1', 1.653], ['set94_frame2', 1.673], ['set15_frame2', 1.679]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_58_frame0.fa.txt
+23 45
+Leptidea_sinapis_XM_050825300.1_Frame_2_rightoh_2_query_Exon_13
+EDEEDKTTAVVETEFDFQDFVQ
+23 45
+set58_frame0
+DDEEEERTTVVETEFDFQDFMQ
+Original query = EDEEDKTTAVVETEFDFQDFVQ
+New query = DDEEEERTTVVETEFDFQDFMQ
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1366993,1367191,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Anthocharis_cardamines,FR989962.1,1363712,1363821,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Anthocharis_cardamines,FR989962.1,1371722,1371816,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16,2,31,31
+
+Getting Gene
+min = set94_frame0, 0.396
+5 top scores:
+[['set94_frame0', 0.396], ['set126_frame2', 1.796], ['set164_frame2', 1.846], ['set33_frame1', 1.85], ['set143_frame2', 1.863]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_94_frame0.fa.txt
+13 79
+Leptidea_sinapis_XM_050825300.1_Frame_1_rightoh_0_query_Exon_14
+FCHPRVVSGCVSLLERYEKNSVHTNHCIVKMLHRIAWDCKRAAMLFHGTLFITFQKILASKLAHFK
+13 79
+set94_frame0
+FCHPRVVSACVLLLENFEKNSPYTNHCIVKMLHRIAWDCKRPAMMFQATLFLIFQKILANNIAHFR
+Original query = FCHPRVVSGCVSLLERYEKNSVHTNHCIVKMLHRIAWDCKRAAMLFHGTLFITFQKILASKLAHFK
+New query = FCHPRVVSACVLLLENFEKNSPYTNHCIVKMLHRIAWDCKRPAMMFQATLFLIFQKILANNIAHFR
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1367929,1368077,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15,1,48,49
+
+13
+12
+11
+17
+Anthocharis_cardamines,FR989962.1,1363712,1363821,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Anthocharis_cardamines,FR989962.1,1383366,1383572,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Getting Gene
+min = set94_frame2, 0.438
+5 top scores:
+[['set94_frame2', 0.438], ['set262_frame2', 1.694], ['set100_frame0', 1.695], ['set127_frame2', 1.76], ['set321_frame2', 1.764]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_94_frame2.fa.txt
+0 49
+Leptidea_sinapis_XM_050825300.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFAIYIIRKFTEAASKSPKVFIELLFWKTAKDALEIEHGYELYSDA
+0 49
+set94_frame2
+ELEKFAIFVIRKFTEIATKSPKAFIELLFWTSSKDAIDVECGYDLYNDP
+Original query = ELEKFAIYIIRKFTEAASKSPKVFIELLFWKTAKDALEIEHGYELYSDA
+New query = ELEKFAIFVIRKFTEIATKSPKAFIELLFWTSSKDAIDVECGYDLYNDP
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1371722,1371816,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16,2,31,31
+
+14
+18
+Anthocharis_cardamines,FR989962.1,1366993,1367191,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Anthocharis_cardamines,FR989962.1,1386743,1386880,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_18,1,43,45
+
+Getting Gene
+min = set97_frame2, 0.455
+5 top scores:
+[['set97_frame2', 0.455], ['set485_frame2', 1.549], ['set457_frame2', 1.638], ['set37_frame2', 1.646], ['set128_frame2', 1.66]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_97_frame2.fa.txt
+2 33
+Leptidea_sinapis_XM_050825300.1_Frame_1_rightoh_1_query_Exon_16
+DKVGKNQWSEEQEEELRKLYMENQSNPQTNQ
+2 33
+set97_frame2
+NKEGKASWSEEQEEELRKLYMENQSNPENDK
+Original query = DKVGKNQWSEEQEEELRKLYMENQSNPQTNQ
+New query = NKEGKASWSEEQEEELRKLYMENQSNPENDK
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1383366,1383572,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+15
+19
+Anthocharis_cardamines,FR989962.1,1367929,1368077,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15,1,48,49
+
+Anthocharis_cardamines,FR989962.1,1388361,1388528,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_19,12,53,53
+
+Getting Gene
+min = set378_frame1, 0.258
+5 top scores:
+[['set378_frame1', 0.258], ['set228_frame0', 1.802], ['set503_frame1', 1.806], ['set472_frame2', 1.807], ['set71_frame0', 1.825]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_378_frame1.fa.txt
+8 76
+Leptidea_sinapis_XM_050825300.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFRAPTKRSNKERKDKLPKTFSEEEDDMLRELWTQYGDSD
+8 76
+set378_frame1
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFKAPTKRSNKERREGVPKEFSEQEDELLRELWAQYGETD
+Original query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFRAPTKRSNKERKDKLPKTFSEEEDDMLRELWTQYGDSD
+New query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFKAPTKRSNKERREGVPKEFSEQEDELLRELWAQYGETD
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1386743,1386880,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_18,1,43,45
+
+16
+20
+Anthocharis_cardamines,FR989962.1,1371722,1371816,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16,2,31,31
+
+Anthocharis_cardamines,FR989962.1,1391164,1391357,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20,1,64,64
+
+Getting Gene
+min = set313_frame2, 0.413
+5 top scores:
+[['set313_frame2', 0.413], ['set424_frame1', 1.674], ['set34_frame2', 1.718], ['set306_frame2', 1.748], ['set30_frame0', 1.741]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_313_frame2.fa.txt
+4 46
+Leptidea_sinapis_XM_050825300.1_Frame_2_rightoh_1_query_Exon_18
+PMEMIMTRMPRKRQKRSFVDRLLELGLIEDRKQCKKKRKNKS
+4 46
+set313_frame2
+PMSLIMSRMPRKRQKRSYIDRLLELGLVEDRKQCRKKRQKRK
+Original query = PMEMIMTRMPRKRQKRSFVDRLLELGLIEDRKQCKKKRKNKSGTA
+New query = PMSLIMSRMPRKRQKRSYIDRLLELGLVEDRKQCRKKRQKRK
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1388361,1388528,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_19,12,53,53
+
+17
+21
+Anthocharis_cardamines,FR989962.1,1383366,1383572,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Anthocharis_cardamines,FR989962.1,1392852,1393320,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,146,148
+
+Getting Gene
+min = set126_frame2, 1.213
+5 top scores:
+[['set126_frame2', 1.213], ['set77_frame1', 1.752], ['set83_frame0', 1.726], ['set109_frame2', 1.776], ['set112_frame2', 1.792]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_126_frame2.fa.txt
+0 85
+Leptidea_sinapis_XM_050825300.1_Frame_2_rightoh_1_query_Exon_19
+NNASSNS-------------------ESESNDSDRSTRSLSPAPKPKKKKEAQKMRKKATERN----VEMSANEIASLLVRAVNE
+0 85
+set126_frame2
+TYSPASPLVLQMSVDFIRHHSSFLSLESSSGDSDDGSRSPSPV-RVKPKKTTQEPRKKGQKKNKNTAVEISASEIARLLVSAVEA
+Original query = NNASSNSESESNDSDRSTRSLSPAPKPKKKKEAQKMRKKATERNVEMSANEIASLLVRAVNE
+New query = TYSPASPLVLQMSVDFIRHHSSFLSLESSSGDSDDGSRSPSPV-RVKPKKTTQEPRKKGQKKNKNTAVEISASEIARLLVSAVEA
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1391164,1391357,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20,1,64,64
+
+18
+21
+Anthocharis_cardamines,FR989962.1,1386743,1386880,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_18,1,43,45
+
+Anthocharis_cardamines,FR989962.1,1392852,1393320,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,146,148
+
+Getting Gene
+min = set93_frame1, 0.691
+5 top scores:
+[['set93_frame1', 0.691], ['set43_frame1', 1.798], ['set120_frame1', 1.817], ['set1_frame2', 1.827], ['set57_frame0', 1.845]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_93_frame1.fa.txt
+17 81
+Leptidea_sinapis_XM_050825300.1_Frame_2_rightoh_0_query_Exon_20
+QTEALKWLADSLEEVALDQEADGYDPTSEGIPLVPISSDCVDAMDNKLFQLILKAIGVVPPSDE
+17 81
+set93_frame1
+HTESLNWLAENLEEVALDQEAAGFDPSEEGTPLVPILAGPAQAMEDNLFQAVLTAVGVVPPSEQ
+Original query = QTEALKWLADSLEEVALDQEADGYDPTSEGIPLVPISSDCVDAMDNKLFQLILKAIGVVPPSDEQ
+New query = HTESLNWLAENLEEVALDQEAAGFDPSEEGTPLVPILAGPAQAMEDNLFQAVLTAVGVVPPSEQ
+Scaffold = FR989962.1, start = 1346361, end = 1346614
+Anthocharis_cardamines,FR989962.1,1392852,1393320,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,146,148
+
+19
+21
+Anthocharis_cardamines,FR989962.1,1388361,1388528,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_19,12,53,53
+
+Anthocharis_cardamines,FR989962.1,1392852,1393320,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,146,148
+
+Getting Gene
+min = set83_frame0, 1.074
+5 top scores:
+[['set83_frame0', 1.074]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Anthocharis_cardamines/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_83_frame0.fa.txt
+0 156
+Leptidea_sinapis_XM_050825300.1_Frame_0_rightoh_1_query_Exon_21
+ETYWRIPSILHHETIRKRREIINKAINNELIVNLQDSNKNDSSDDDDLFDNLRKIT-NLGGTELNNSDKQKETNQINCKTATVVGNDIAENDSDDEDSISKVNIRSTKRKRTISLDSESSSRDKLPRIHEDVDEEDKNDDDDDDILEFAKKTLQQD
+0 156
+set83_frame0
+ESYWRIPSSLHYETIRKRREIIIKAINKELIVE-QSQDKAESSDDDNLFDNLRKITKNVQNAVIDENSVDNDQNSVDNDQ-----NSVDNYQNDQSKSSIDTDVKKKGRKRTRSVESEGNSK-KLQKI----------DEDEEDILSFAKKTLNHE
+Original query = ETYWRIPSILHHETIRKRREIINKAINNELIVNLQDSNKNDSSDDDDLFDNLRKITNLGGTELNNSDKQKETNQINCKTATVVGNDIAENDSDDEDSISKVNIRSTKRKRTISLDSESSSRDKLPRIHEDVDEEDKNDDDDDDILEFAKKTLQQDLPDTEDILSVLPKHDS
+New query = ESYWRIPSSLHYETIRKRREIIIKAINKELIVE-QSQDKAESSDDDNLFDNLRKITKNVQNAVIDENSVDNDQNSVDNDQ-----NSVDNYQNDQSKSSIDTDVKKKGRKRTRSVESEGNSK-KLQKI----------DEDEEDILSFAKKTLNHE

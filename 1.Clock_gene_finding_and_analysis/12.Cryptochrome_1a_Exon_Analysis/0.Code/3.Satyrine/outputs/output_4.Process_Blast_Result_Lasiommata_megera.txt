@@ -1,0 +1,624 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Lasiommata_megera
+Processing Exon_2
+0 query coordinate
+Period_gene_genomic_sequence_individual_exon
+48
+[[2, 1]]
+reached here
+Before splice: 4890,5036
+after splice: 4890,5036
+sequence:
+ACCAAGGTGGTGGGTTACAACCGCATGCGGTACTTGCTGGAAGCCTTGAACGATCTGGACAACCAGTTCAAGAAGTACGGCGGCCGACTGCACATGATCAAGGGCAAACCCGAAGCCGTGTTCAGAAGTCTATGGGAGGAGTTCG
+sequence:
+TKVVGYNRMRYLLEALNDLDNQFKKYGGRLHMIKGKPEAVFRSLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALNDLDNQFKKYGGRLHMIKGKPEAVFRSLWEEF
+[[2, 1]]
+start_coordinate : 12052339,stop_coordinate : 12052196
+4890 5036 Y N
+Lasiommata_megera,,12052195,12052341,1,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Lasiommata_megera
+Processing Exon_3
+Lasiommata_megera_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 6076,6263
+after splice: 6076,6263
+sequence:
+ATTCGTAAAATTTGCTTCGAACAGGACTGCGAGCCGATATGGCACGCGCGAGACGAGCGCGTCAGGAGTCTGTGCCGGGACTTGGGGGTAGGCTGTCGCGAGAACGTCTCCCACACCCTGTGGGATCCCGACACCGTTATACGCGCGAATGGGGGCATTCCACCCCTTACTTATGAAATGTTCCTG
+sequence:
+IRKICFEQDCEPIWHARDERVRSLCRDLGVGCRENVSHTLWDPDTVIRANGGIPPLTYEMFL
+left = AG, right =GT, stop_counter = 0
+IRKICFEQDCEPIWHARDERVRSLCRDLGVGCRENVSHTLWDPDTVIRANGGIPPLTYEMFL
+[[2, 0]]
+start_coordinate : 12051153,stop_coordinate : 12050968
+6076 6263 Y N
+Lasiommata_megera,,12050968,12051155,1,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Lasiommata_megera
+Processing Exon_4
+Lasiommata_megera_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 7532,7648
+after splice: 7532,7648
+sequence:
+CACACGGTGGGCATCATCGGTGATCCGCCCCGGCCTGTGGATGACGTGGACTTGAGAGGAGTCAACTTTGTGGCCCTTTCCGATAGATTTCGCAAAGAGTTCACTGTATTTGATAAG
+sequence:
+HTVGIIGDPPRPVDDVDLRGVNFVALSDRFRKEFTVFDK
+left = AG, right =GT, stop_counter = 0
+HTVGIIGDPPRPVDDVDLRGVNFVALSDRFRKEFTVFDK
+[[0, 0]]
+start_coordinate : 12049699,stop_coordinate : 12049583
+7532 7648 Y N
+Lasiommata_megera,,12049583,12049699,1,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Lasiommata_megera
+Processing Exon_5
+Lasiommata_megera_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+43
+[[0, 2]]
+reached here
+Before splice: 8392,8522
+after splice: 8392,8522
+sequence:
+GCTCCGAAACCTGAAGATTTCGGGATTTTCTTGGAGACTGAGGATATCCGCATGATTCGTTGGGTAGGAGGTGAGACGGCCGCCTTGAGACAGATGCAGGACCGCTTGGCTGTGGAGTATGAAACTTTTTG
+sequence:
+APKPEDFGIFLETEDIRMIRWVGGETAALRQMQDRLAVEYETF
+left = AG, right =CA, stop_counter = 0
+sequence:
+GCTCCGAAACCTGAAGATTTCGGGATTTTCTTGGAGACTGAGGATATCCGCATGATTCGTTGGGTAGGAGGTGAGACGGCCGCCTTGAGACAGATGCAGGACCGCTTGGCTGTGGAGTATGAAACTTTTTGCAG
+sequence:
+APKPEDFGIFLETEDIRMIRWVGGETAALRQMQDRLAVEYETFC
+left = AG, right =GT, stop_counter = 0
+APKPEDFGIFLETEDIRMIRWVGGETAALRQMQDRLAVEYETFC
+[[0, 2]]
+start_coordinate : 12048839,stop_coordinate : 12048708
+8392 8525 Y N
+Lasiommata_megera,,12048706,12048839,1,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Lasiommata_megera
+Processing Exon_6
+Lasiommata_megera_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 8917,9012
+after splice: 8917,9012
+sequence:
+ggTGCTTATCTACCAACGCACGGCAACCCGGATCTCTTAAGCCGACCGATATCTCTGAGCCCCGCGCTTCGCTTCGGCTGTCTGTCTGTACGCCG
+sequence:
+GAYLPTHGNPDLLSRPISLSPALRFGCLSVR
+left = ag, right =GT, stop_counter = 0
+GAYLPTHGNPDLLSRPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 12048313,stop_coordinate : 12048221
+8917 9012 Y N
+Lasiommata_megera,,12048219,12048314,1,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Lasiommata_megera
+Processing Exon_7
+Lasiommata_megera_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 9335,9408
+after splice: 9335,9408
+sequence:
+tTCTACTGGTGCCTTCAGGATTTGTTCCATCAGGTCCATCAAGGACGCGTCCAGTCCAGTCAGTTCATTACTG
+sequence:
+FYWCLQDLFHQVHQGRVQSSQFIT
+left = ag, right =GT, stop_counter = 0
+FYWCLQDLFHQVHQGRVQSSQFIT
+[[1, 1]]
+start_coordinate : 12047895,stop_coordinate : 12047824
+9335 9408 Y N
+Lasiommata_megera,,12047823,12047896,1,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Lasiommata_megera
+Processing Exon_8
+Lasiommata_megera_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 9484,9610
+after splice: 9484,9610
+sequence:
+CAGCTGATCTGGCGGGAGTATTTTTATACGATGAGCGTGAACAACCCGCAGTACGCCCAGATGGCCGGCAACCCCATCTGCTTGGACATCCCGTGGAAGGAACCCGAAGGAGATGAGTTGCAGAG
+sequence:
+QLIWREYFYTMSVNNPQYAQMAGNPICLDIPWKEPEGDELQ
+left = AG, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPQYAQMAGNPICLDIPWKEPEGDELQ
+[[2, 2]]
+start_coordinate : 12047745,stop_coordinate : 12047623
+9484 9610 Y N
+Lasiommata_megera,,12047621,12047747,1,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Lasiommata_megera
+Processing Exon_9
+Lasiommata_megera_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 9878,10060
+after splice: 9878,10060
+sequence:
+TGGAAGGAAGGCCGTACCGGATTCCCGTTTGTGGACGCGGCGATGCGTCAACTGCGTACGGAAGGTTGGCTGCATCACGCCGTACGCAACACTGTCGCGTCGTTCCTCACGCGTGGGACTTTGTGGCTCTCCTGGGAGCACGGAGTGGAACACTTTCTGAAGTATTTACTGGATGCTGATTG
+sequence:
+WKEGRTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGVEHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WKEGRTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGVEHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 12047352,stop_coordinate : 12047173
+9878 10060 Y N
+Lasiommata_megera,,12047171,12047353,1,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Lasiommata_megera
+Processing Exon_10
+Lasiommata_megera_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 11405,11572
+after splice: 11405,11572
+sequence:
+TCGGTATGCGCTGGCAACTGGATGTGGGTGTCGTCCAGCGCTTTCGAAGCGCTTCTGGACTCCAGCGAGTGCGTCTGCCCGGTGCGGCTCGGCCGGCGCCTGGAGCCCTCCGGCCACTACGTCCGCAGATACGTGCCCGAGTTGGCCAAAATGCCGGTAGAGTACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSSECVCPVRLGRRLEPSGHYVRRYVPELAKMPVEY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSSECVCPVRLGRRLEPSGHYVRRYVPELAKMPVEY
+[[1, 2]]
+start_coordinate : 12045825,stop_coordinate : 12045661
+11405 11572 Y N
+Lasiommata_megera,,12045659,12045826,1,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Lasiommata_megera
+Processing Exon_11
+Lasiommata_megera_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 12298,12418
+after splice: 12298,12418
+sequence:
+TACGAGCCGTGGAGTGCTCCGCTGGAGGTGCAGCAGAAAGCCGACTGCGTCGTCGGTCGAGACTACCCCGCGCCAGTGGTCGACCACCGCGCCTGCGCACATCGCAACCGAAGCGCTATG
+sequence:
+YEPWSAPLEVQQKADCVVGRDYPAPVVDHRACAHRNRSAM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACGAGCCGTGGAGTGCTCCGCTGGAGGTGCAGCAGAAAGCCGACTGCGTCGTCGGTCGAGACTACCCCGCGCCAGTGGTCGACCACCGCGCCTGCGCACATCGCAACCGAAGCGCTATGCAG
+sequence:
+YEPWSAPLEVQQKADCVVGRDYPAPVVDHRACAHRNRSAMQ
+left = AG, right =GT, stop_counter = 0
+YEPWSAPLEVQQKADCVVGRDYPAPVVDHRACAHRNRSAMQ
+[[1, 0]]
+start_coordinate : 12044932,stop_coordinate : 12044810
+12298 12421 Y N
+Lasiommata_megera,,12044810,12044933,1,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Lasiommata_megera
+Processing Exon_2
+0 query coordinate
+Lasiommata_megera_coordinates_Bicyclus_anynana.csv
+48
+[[2, 1]]
+reached here
+Before splice: 4890,5036
+after splice: 4890,5036
+sequence:
+ACCAAGGTGGTGGGTTACAACCGCATGCGGTACTTGCTGGAAGCCTTGAACGATCTGGACAACCAGTTCAAGAAGTACGGCGGCCGACTGCACATGATCAAGGGCAAACCCGAAGCCGTGTTCAGAAGTCTATGGGAGGAGTTCG
+sequence:
+TKVVGYNRMRYLLEALNDLDNQFKKYGGRLHMIKGKPEAVFRSLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALNDLDNQFKKYGGRLHMIKGKPEAVFRSLWEEF
+[[2, 1]]
+start_coordinate : 12052339,stop_coordinate : 12052196
+4890 5036 Y N
+Lasiommata_megera,,12052195,12052341,1,N,Maniola_jurtina_XM_045915831.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Lasiommata_megera
+Processing Exon_3
+Lasiommata_megera_coordinates_Maniola_jurtina.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 6076,6263
+after splice: 6076,6263
+sequence:
+ATTCGTAAAATTTGCTTCGAACAGGACTGCGAGCCGATATGGCACGCGCGAGACGAGCGCGTCAGGAGTCTGTGCCGGGACTTGGGGGTAGGCTGTCGCGAGAACGTCTCCCACACCCTGTGGGATCCCGACACCGTTATACGCGCGAATGGGGGCATTCCACCCCTTACTTATGAAATGTTCCTG
+sequence:
+IRKICFEQDCEPIWHARDERVRSLCRDLGVGCRENVSHTLWDPDTVIRANGGIPPLTYEMFL
+left = AG, right =GT, stop_counter = 0
+IRKICFEQDCEPIWHARDERVRSLCRDLGVGCRENVSHTLWDPDTVIRANGGIPPLTYEMFL
+[[2, 0]]
+start_coordinate : 12051153,stop_coordinate : 12050968
+6076 6263 Y N
+Lasiommata_megera,,12050968,12051155,1,N,Maniola_jurtina_XM_045915831.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Lasiommata_megera
+Processing Exon_4
+Lasiommata_megera_coordinates_Maniola_jurtina.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 7532,7648
+after splice: 7532,7648
+sequence:
+CACACGGTGGGCATCATCGGTGATCCGCCCCGGCCTGTGGATGACGTGGACTTGAGAGGAGTCAACTTTGTGGCCCTTTCCGATAGATTTCGCAAAGAGTTCACTGTATTTGATAAG
+sequence:
+HTVGIIGDPPRPVDDVDLRGVNFVALSDRFRKEFTVFDK
+left = AG, right =GT, stop_counter = 0
+HTVGIIGDPPRPVDDVDLRGVNFVALSDRFRKEFTVFDK
+[[0, 0]]
+start_coordinate : 12049699,stop_coordinate : 12049583
+7532 7648 Y N
+Lasiommata_megera,,12049583,12049699,1,N,Maniola_jurtina_XM_045915831.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Lasiommata_megera
+Processing Exon_5
+Lasiommata_megera_coordinates_Maniola_jurtina.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 8392,8525
+after splice: 8392,8525
+sequence:
+GCTCCGAAACCTGAAGATTTCGGGATTTTCTTGGAGACTGAGGATATCCGCATGATTCGTTGGGTAGGAGGTGAGACGGCCGCCTTGAGACAGATGCAGGACCGCTTGGCTGTGGAGTATGAAACTTTTTGCAG
+sequence:
+APKPEDFGIFLETEDIRMIRWVGGETAALRQMQDRLAVEYETFC
+left = AG, right =GT, stop_counter = 0
+APKPEDFGIFLETEDIRMIRWVGGETAALRQMQDRLAVEYETFC
+[[0, 2]]
+start_coordinate : 12048839,stop_coordinate : 12048708
+8392 8525 Y N
+Lasiommata_megera,,12048706,12048839,1,N,Maniola_jurtina_XM_045915831.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Lasiommata_megera
+Processing Exon_6
+Lasiommata_megera_coordinates_Maniola_jurtina.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 8917,9012
+after splice: 8917,9012
+sequence:
+ggTGCTTATCTACCAACGCACGGCAACCCGGATCTCTTAAGCCGACCGATATCTCTGAGCCCCGCGCTTCGCTTCGGCTGTCTGTCTGTACGCCG
+sequence:
+GAYLPTHGNPDLLSRPISLSPALRFGCLSVR
+left = ag, right =GT, stop_counter = 0
+GAYLPTHGNPDLLSRPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 12048313,stop_coordinate : 12048221
+8917 9012 Y N
+Lasiommata_megera,,12048219,12048314,1,N,Maniola_jurtina_XM_045915831.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Lasiommata_megera
+Processing Exon_7
+Lasiommata_megera_coordinates_Maniola_jurtina.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 9335,9408
+after splice: 9335,9408
+sequence:
+tTCTACTGGTGCCTTCAGGATTTGTTCCATCAGGTCCATCAAGGACGCGTCCAGTCCAGTCAGTTCATTACTG
+sequence:
+FYWCLQDLFHQVHQGRVQSSQFIT
+left = ag, right =GT, stop_counter = 0
+FYWCLQDLFHQVHQGRVQSSQFIT
+[[1, 1]]
+start_coordinate : 12047895,stop_coordinate : 12047824
+9335 9408 Y N
+Lasiommata_megera,,12047823,12047896,1,N,Maniola_jurtina_XM_045915831.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Lasiommata_megera
+Processing Exon_8
+Lasiommata_megera_coordinates_Maniola_jurtina.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 9484,9610
+after splice: 9484,9610
+sequence:
+CAGCTGATCTGGCGGGAGTATTTTTATACGATGAGCGTGAACAACCCGCAGTACGCCCAGATGGCCGGCAACCCCATCTGCTTGGACATCCCGTGGAAGGAACCCGAAGGAGATGAGTTGCAGAG
+sequence:
+QLIWREYFYTMSVNNPQYAQMAGNPICLDIPWKEPEGDELQ
+left = AG, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPQYAQMAGNPICLDIPWKEPEGDELQ
+[[2, 2]]
+start_coordinate : 12047745,stop_coordinate : 12047623
+9484 9610 Y N
+Lasiommata_megera,,12047621,12047747,1,N,Maniola_jurtina_XM_045915831.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Lasiommata_megera
+Processing Exon_9
+Lasiommata_megera_coordinates_Maniola_jurtina.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 9878,10060
+after splice: 9878,10060
+sequence:
+TGGAAGGAAGGCCGTACCGGATTCCCGTTTGTGGACGCGGCGATGCGTCAACTGCGTACGGAAGGTTGGCTGCATCACGCCGTACGCAACACTGTCGCGTCGTTCCTCACGCGTGGGACTTTGTGGCTCTCCTGGGAGCACGGAGTGGAACACTTTCTGAAGTATTTACTGGATGCTGATTG
+sequence:
+WKEGRTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGVEHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WKEGRTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGVEHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 12047352,stop_coordinate : 12047173
+9878 10060 Y N
+Lasiommata_megera,,12047171,12047353,1,N,Maniola_jurtina_XM_045915831.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Lasiommata_megera
+Processing Exon_10
+Lasiommata_megera_coordinates_Maniola_jurtina.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 11405,11572
+after splice: 11405,11572
+sequence:
+TCGGTATGCGCTGGCAACTGGATGTGGGTGTCGTCCAGCGCTTTCGAAGCGCTTCTGGACTCCAGCGAGTGCGTCTGCCCGGTGCGGCTCGGCCGGCGCCTGGAGCCCTCCGGCCACTACGTCCGCAGATACGTGCCCGAGTTGGCCAAAATGCCGGTAGAGTACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSSECVCPVRLGRRLEPSGHYVRRYVPELAKMPVEY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSSECVCPVRLGRRLEPSGHYVRRYVPELAKMPVEY
+[[1, 2]]
+start_coordinate : 12045825,stop_coordinate : 12045661
+11405 11572 Y N
+Lasiommata_megera,,12045659,12045826,1,N,Maniola_jurtina_XM_045915831.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Lasiommata_megera
+Processing Exon_11
+Lasiommata_megera_coordinates_Maniola_jurtina.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 12298,12418
+after splice: 12298,12418
+sequence:
+TACGAGCCGTGGAGTGCTCCGCTGGAGGTGCAGCAGAAAGCCGACTGCGTCGTCGGTCGAGACTACCCCGCGCCAGTGGTCGACCACCGCGCCTGCGCACATCGCAACCGAAGCGCTATG
+sequence:
+YEPWSAPLEVQQKADCVVGRDYPAPVVDHRACAHRNRSAM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACGAGCCGTGGAGTGCTCCGCTGGAGGTGCAGCAGAAAGCCGACTGCGTCGTCGGTCGAGACTACCCCGCGCCAGTGGTCGACCACCGCGCCTGCGCACATCGCAACCGAAGCGCTATGCAG
+sequence:
+YEPWSAPLEVQQKADCVVGRDYPAPVVDHRACAHRNRSAMQ
+left = AG, right =GT, stop_counter = 0
+YEPWSAPLEVQQKADCVVGRDYPAPVVDHRACAHRNRSAMQ
+[[1, 0]]
+start_coordinate : 12044932,stop_coordinate : 12044810
+12298 12421 Y N
+Lasiommata_megera,,12044810,12044933,1,N,Maniola_jurtina_XM_045915831.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Lasiommata_megera
+Processing Exon_2
+0 query coordinate
+Lasiommata_megera_coordinates_Maniola_jurtina.csv
+48
+[[2, 1]]
+reached here
+Before splice: 4890,5036
+after splice: 4890,5036
+sequence:
+ACCAAGGTGGTGGGTTACAACCGCATGCGGTACTTGCTGGAAGCCTTGAACGATCTGGACAACCAGTTCAAGAAGTACGGCGGCCGACTGCACATGATCAAGGGCAAACCCGAAGCCGTGTTCAGAAGTCTATGGGAGGAGTTCG
+sequence:
+TKVVGYNRMRYLLEALNDLDNQFKKYGGRLHMIKGKPEAVFRSLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALNDLDNQFKKYGGRLHMIKGKPEAVFRSLWEEF
+[[2, 1]]
+start_coordinate : 12052339,stop_coordinate : 12052196
+4890 5036 Y N
+Lasiommata_megera,,12052195,12052341,1,N,Pararge_aegeria_XM_039898346.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Lasiommata_megera
+Processing Exon_3
+Lasiommata_megera_coordinates_Pararge_aegeria.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 6076,6263
+after splice: 6076,6263
+sequence:
+ATTCGTAAAATTTGCTTCGAACAGGACTGCGAGCCGATATGGCACGCGCGAGACGAGCGCGTCAGGAGTCTGTGCCGGGACTTGGGGGTAGGCTGTCGCGAGAACGTCTCCCACACCCTGTGGGATCCCGACACCGTTATACGCGCGAATGGGGGCATTCCACCCCTTACTTATGAAATGTTCCTG
+sequence:
+IRKICFEQDCEPIWHARDERVRSLCRDLGVGCRENVSHTLWDPDTVIRANGGIPPLTYEMFL
+left = AG, right =GT, stop_counter = 0
+IRKICFEQDCEPIWHARDERVRSLCRDLGVGCRENVSHTLWDPDTVIRANGGIPPLTYEMFL
+[[2, 0]]
+start_coordinate : 12051153,stop_coordinate : 12050968
+6076 6263 Y N
+Lasiommata_megera,,12050968,12051155,1,N,Pararge_aegeria_XM_039898346.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Lasiommata_megera
+Processing Exon_4
+Lasiommata_megera_coordinates_Pararge_aegeria.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 7532,7648
+after splice: 7532,7648
+sequence:
+CACACGGTGGGCATCATCGGTGATCCGCCCCGGCCTGTGGATGACGTGGACTTGAGAGGAGTCAACTTTGTGGCCCTTTCCGATAGATTTCGCAAAGAGTTCACTGTATTTGATAAG
+sequence:
+HTVGIIGDPPRPVDDVDLRGVNFVALSDRFRKEFTVFDK
+left = AG, right =GT, stop_counter = 0
+HTVGIIGDPPRPVDDVDLRGVNFVALSDRFRKEFTVFDK
+[[0, 0]]
+start_coordinate : 12049699,stop_coordinate : 12049583
+7532 7648 Y N
+Lasiommata_megera,,12049583,12049699,1,N,Pararge_aegeria_XM_039898346.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Lasiommata_megera
+Processing Exon_5
+Lasiommata_megera_coordinates_Pararge_aegeria.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 8392,8525
+after splice: 8392,8525
+sequence:
+GCTCCGAAACCTGAAGATTTCGGGATTTTCTTGGAGACTGAGGATATCCGCATGATTCGTTGGGTAGGAGGTGAGACGGCCGCCTTGAGACAGATGCAGGACCGCTTGGCTGTGGAGTATGAAACTTTTTGCAG
+sequence:
+APKPEDFGIFLETEDIRMIRWVGGETAALRQMQDRLAVEYETFC
+left = AG, right =GT, stop_counter = 0
+APKPEDFGIFLETEDIRMIRWVGGETAALRQMQDRLAVEYETFC
+[[0, 2]]
+start_coordinate : 12048839,stop_coordinate : 12048708
+8392 8525 Y N
+Lasiommata_megera,,12048706,12048839,1,N,Pararge_aegeria_XM_039898346.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Lasiommata_megera
+Processing Exon_6
+Lasiommata_megera_coordinates_Pararge_aegeria.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 8917,9012
+after splice: 8917,9012
+sequence:
+ggTGCTTATCTACCAACGCACGGCAACCCGGATCTCTTAAGCCGACCGATATCTCTGAGCCCCGCGCTTCGCTTCGGCTGTCTGTCTGTACGCCG
+sequence:
+GAYLPTHGNPDLLSRPISLSPALRFGCLSVR
+left = ag, right =GT, stop_counter = 0
+GAYLPTHGNPDLLSRPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 12048313,stop_coordinate : 12048221
+8917 9012 Y N
+Lasiommata_megera,,12048219,12048314,1,N,Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Lasiommata_megera
+Processing Exon_7
+Lasiommata_megera_coordinates_Pararge_aegeria.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 9335,9408
+after splice: 9335,9408
+sequence:
+tTCTACTGGTGCCTTCAGGATTTGTTCCATCAGGTCCATCAAGGACGCGTCCAGTCCAGTCAGTTCATTACTG
+sequence:
+FYWCLQDLFHQVHQGRVQSSQFIT
+left = ag, right =GT, stop_counter = 0
+FYWCLQDLFHQVHQGRVQSSQFIT
+[[1, 1]]
+start_coordinate : 12047895,stop_coordinate : 12047824
+9335 9408 Y N
+Lasiommata_megera,,12047823,12047896,1,N,Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Lasiommata_megera
+Processing Exon_8
+Lasiommata_megera_coordinates_Pararge_aegeria.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 9484,9610
+after splice: 9484,9610
+sequence:
+CAGCTGATCTGGCGGGAGTATTTTTATACGATGAGCGTGAACAACCCGCAGTACGCCCAGATGGCCGGCAACCCCATCTGCTTGGACATCCCGTGGAAGGAACCCGAAGGAGATGAGTTGCAGAG
+sequence:
+QLIWREYFYTMSVNNPQYAQMAGNPICLDIPWKEPEGDELQ
+left = AG, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPQYAQMAGNPICLDIPWKEPEGDELQ
+[[2, 2]]
+start_coordinate : 12047745,stop_coordinate : 12047623
+9484 9610 Y N
+Lasiommata_megera,,12047621,12047747,1,N,Pararge_aegeria_XM_039898346.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Lasiommata_megera
+Processing Exon_9
+Lasiommata_megera_coordinates_Pararge_aegeria.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 9878,10060
+after splice: 9878,10060
+sequence:
+TGGAAGGAAGGCCGTACCGGATTCCCGTTTGTGGACGCGGCGATGCGTCAACTGCGTACGGAAGGTTGGCTGCATCACGCCGTACGCAACACTGTCGCGTCGTTCCTCACGCGTGGGACTTTGTGGCTCTCCTGGGAGCACGGAGTGGAACACTTTCTGAAGTATTTACTGGATGCTGATTG
+sequence:
+WKEGRTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGVEHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WKEGRTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGVEHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 12047352,stop_coordinate : 12047173
+9878 10060 Y N
+Lasiommata_megera,,12047171,12047353,1,N,Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Lasiommata_megera
+Processing Exon_10
+Lasiommata_megera_coordinates_Pararge_aegeria.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 11405,11572
+after splice: 11405,11572
+sequence:
+TCGGTATGCGCTGGCAACTGGATGTGGGTGTCGTCCAGCGCTTTCGAAGCGCTTCTGGACTCCAGCGAGTGCGTCTGCCCGGTGCGGCTCGGCCGGCGCCTGGAGCCCTCCGGCCACTACGTCCGCAGATACGTGCCCGAGTTGGCCAAAATGCCGGTAGAGTACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSSECVCPVRLGRRLEPSGHYVRRYVPELAKMPVEY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSSECVCPVRLGRRLEPSGHYVRRYVPELAKMPVEY
+[[1, 2]]
+start_coordinate : 12045825,stop_coordinate : 12045661
+11405 11572 Y N
+Lasiommata_megera,,12045659,12045826,1,N,Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Lasiommata_megera
+Processing Exon_11
+Lasiommata_megera_coordinates_Pararge_aegeria.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 12298,12418
+after splice: 12298,12418
+sequence:
+TACGAGCCGTGGAGTGCTCCGCTGGAGGTGCAGCAGAAAGCCGACTGCGTCGTCGGTCGAGACTACCCCGCGCCAGTGGTCGACCACCGCGCCTGCGCACATCGCAACCGAAGCGCTATG
+sequence:
+YEPWSAPLEVQQKADCVVGRDYPAPVVDHRACAHRNRSAM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACGAGCCGTGGAGTGCTCCGCTGGAGGTGCAGCAGAAAGCCGACTGCGTCGTCGGTCGAGACTACCCCGCGCCAGTGGTCGACCACCGCGCCTGCGCACATCGCAACCGAAGCGCTATGCAG
+sequence:
+YEPWSAPLEVQQKADCVVGRDYPAPVVDHRACAHRNRSAMQ
+left = AG, right =GT, stop_counter = 0
+YEPWSAPLEVQQKADCVVGRDYPAPVVDHRACAHRNRSAMQ
+[[1, 0]]
+start_coordinate : 12044932,stop_coordinate : 12044810
+12298 12421 Y N
+Lasiommata_megera,,12044810,12044933,1,N,Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+

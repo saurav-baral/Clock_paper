@@ -1,0 +1,654 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,959617,959763,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_1_query_Exon_2,1,46,48
+
+1
+4
+Nymphalis_polychloros,HG992250.1,959274,959403,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Nymphalis_polychloros,HG992250.1,960596,960712,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Getting Gene
+min = set5_frame0, 0.359
+5 top scores:
+[['set1_frame0', 1.792], ['set5_frame0', 0.359], ['set32_frame2', 1.828], ['set9_frame0', 1.786], ['set12_frame2', 1.864]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_5_frame0.fa.txt
+42 90
+Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_1_query_Exon_2
+TKMVGYNRMRYLLEALNDLDQQFRKYGGKLLMIKGRPDLIFRRLWEEF
+42 90
+set5_frame0
+TKTVGYNRLRYLLEALNDLDHQFKKYGGKLHLIKGKPELVFRRLWELL
+Original query = TKMVGYNRMRYLLEALNDLDQQFRKYGGKLLMIKGRPDLIFRRLWEEF
+New query = TKTVGYNRLRYLLEALNDLDHQFKKYGGKLHLIKGKPELVFRRLWELL
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,960043,960230,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+1
+5
+Nymphalis_polychloros,HG992250.1,959274,959403,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Nymphalis_polychloros,HG992250.1,961427,961560,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,2,44,44
+
+Getting Gene
+min = set9_frame0, 0.372
+5 top scores:
+[['set32_frame2', 1.811], ['set9_frame0', 0.372], ['set48_frame2', 1.848], ['set35_frame1', 1.859], ['set12_frame2', 1.864]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_9_frame0.fa.txt
+8 70
+Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_0_query_Exon_3
+IRTLCFEQDCEPIWRPRDASVRALCRDIGVSCREHVAHTLWNPDTVIKANGGIPPLTYQMFL
+8 70
+set9_frame0
+IRKICFEQDCEPIWRARDDCLRNVCREIGVSCQENVSHTLWDPDSVIQANGGIPPLTYQMFL
+Original query = IRTLCFEQDCEPIWRPRDASVRALCRDIGVSCREHVAHTLWNPDTVIKANGGIPPLTYQMFL
+New query = IRKICFEQDCEPIWRARDDCLRNVCREIGVSCQENVSHTLWDPDSVIQANGGIPPLTYQMFL
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,960596,960712,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+2
+6
+Nymphalis_polychloros,HG992250.1,959617,959763,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_1_query_Exon_2,1,46,48
+
+Nymphalis_polychloros,HG992250.1,962484,962579,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Getting Gene
+min = set22_frame1, 0.364
+5 top scores:
+[['set22_frame1', 0.364], ['set5_frame2', 1.743], ['set25_frame0', 1.694], ['set18_frame2', 1.781], ['set35_frame2', 1.792]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_22_frame1.fa.txt
+31 70
+Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4
+HTVEIIGNPPRPVDDVDLNGVNFGSLPESFYREFVVFDK
+31 70
+set22_frame1
+HTVAIIGDPPRPVDDVDLKGVNFASLPKSFYDEFTIFDE
+Original query = HTVEIIGNPPRPVDDVDLNGVNFGSLPESFYREFVVFDK
+New query = HTVAIIGDPPRPVDDVDLKGVNFASLPKSFYDEFTIFDE
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,961427,961560,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,2,44,44
+
+3
+7
+Nymphalis_polychloros,HG992250.1,960043,960230,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+Nymphalis_polychloros,HG992250.1,962880,962953,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Getting Gene
+min = set31_frame1, 0.082
+5 top scores:
+[['set31_frame1', 0.082], ['set14_frame2', 1.778], ['set32_frame2', 1.788], ['set45_frame0', 1.831], ['set49_frame0', 1.81]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_31_frame1.fa.txt
+9 53
+Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5
+APKPEDLGVFLENEDIRMIRWVGGETAALKQMQERLAVEYETFC
+9 53
+set31_frame1
+VPKPEDLGVFLENEDVRMIRWVGGETAALKQMQSRLAVEYETFC
+Original query = APKPEDLGVFLENEDIRMIRWVGGETAALKQMQERLAVEYETFC
+New query = VPKPEDLGVFLENEDVRMIRWVGGETAALKQMQSRLAVEYETFC
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,962484,962579,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+4
+8
+Nymphalis_polychloros,HG992250.1,960596,960712,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Nymphalis_polychloros,HG992250.1,963973,964099,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Getting Gene
+min = set34_frame2, 0.0
+5 top scores:
+[['set34_frame2', 0.0], ['set4_frame1', 1.702], ['set49_frame1', 1.725], ['set8_frame2', 1.741], ['set45_frame2', 1.769]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_34_frame2.fa.txt
+20 51
+Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+20 51
+set34_frame2
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Original query = GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+New query = GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,962880,962953,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+5
+9
+Nymphalis_polychloros,HG992250.1,961427,961560,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,2,44,44
+
+Nymphalis_polychloros,HG992250.1,964705,964887,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Getting Gene
+min = set24_frame2, 0.117
+5 top scores:
+[['set24_frame2', 0.117], ['set2_frame2', 1.64], ['set14_frame2', 1.67], ['set27_frame2', 1.678], ['set55_frame2', 1.683]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_24_frame2.fa.txt
+27 51
+Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7
+FYWSLQDLFQQVHQGRLASTQFIT
+27 51
+set24_frame2
+FYWCVQDLFQQVHQGRLASTQFIT
+Original query = FYWSLQDLFQQVHQGRLASTQFIT
+New query = FYWCVQDLFQQVHQGRLASTQFIT
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,963973,964099,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+6
+10
+Nymphalis_polychloros,HG992250.1,962484,962579,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Nymphalis_polychloros,HG992250.1,965465,965632,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+Getting Gene
+min = set31_frame0, 0.109
+5 top scores:
+[['set43_frame2', 1.795], ['set31_frame0', 0.109], ['set55_frame1', 1.815], ['set82_frame2', 1.824], ['set42_frame0', 1.802]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_31_frame0.fa.txt
+10 51
+Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8
+QLIWREYFYTMSVNNPNYAQMSGNPICLDIPWKEPENDELQ
+10 51
+set31_frame0
+QLIWREYFYTMSVNNPNYAQMANNPICLDIPWKEPESDELQ
+Original query = QLIWREYFYTMSVNNPNYAQMSGNPICLDIPWKEPENDELQ
+New query = QLIWREYFYTMSVNNPNYAQMANNPICLDIPWKEPESDELQ
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,964705,964887,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+7
+11
+Nymphalis_polychloros,HG992250.1,962880,962953,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Nymphalis_polychloros,HG992250.1,966159,966282,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set56_frame2, 0.057
+5 top scores:
+[['set56_frame2', 0.057], ['set76_frame2', 1.857], ['set22_frame0', 1.799], ['set89_frame2', 1.864], ['set33_frame0', 1.876]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_56_frame2.fa.txt
+10 70
+Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9
+WKEGRTGFPFVDAAMRQLRTEGWLHHVVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+10 70
+set56_frame2
+WKEGRTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLAHFLKYLLDAD
+Original query = WKEGRTGFPFVDAAMRQLRTEGWLHHVVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+New query = WKEGRTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLAHFLKYLLDAD
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,965465,965632,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+8
+11
+Nymphalis_polychloros,HG992250.1,963973,964099,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Nymphalis_polychloros,HG992250.1,966159,966282,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set28_frame2, 0.075
+5 top scores:
+[['set28_frame2', 0.075], ['set35_frame0', 1.72], ['set32_frame2', 1.768], ['set14_frame2', 1.838], ['set36_frame2', 1.852]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_28_frame2.fa.txt
+13 68
+Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_10
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPTGHYVRRYVPELARMPGEY
+13 68
+set28_frame2
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPTGHYVRRYVPELARMPVDY
+Original query = SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPTGHYVRRYVPELARMPGEY
+New query = SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPTGHYVRRYVPELARMPVDY
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,966159,966282,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+9
+11
+Nymphalis_polychloros,HG992250.1,964705,964887,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Nymphalis_polychloros,HG992250.1,966159,966282,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set21_frame0, 0.302
+5 top scores:
+[['set21_frame1', 1.693], ['set3_frame2', 1.757], ['set19_frame2', 1.776], ['set21_frame0', 0.302], ['set17_frame2', 1.802]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_21_frame0.fa.txt
+11 51
+set21_frame0
+YEPWNAPAEVQERAGCVVGRDYPAPVVDHRAAAQRNRAAM
+Original query = YEPWRAPLEVQEAAGCVIGRDYPAPVVDHTAAAARNRANMQ
+New query = YEPWNAPAEVQERAGCVVGRDYPAPVVDHRAAAQRNRAAM
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,959617,959763,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_1_query_Exon_2,1,46,48
+
+1
+4
+Nymphalis_polychloros,HG992250.1,959274,959403,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Nymphalis_polychloros,HG992250.1,960596,960712,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Getting Gene
+min = set5_frame0, 0.249
+5 top scores:
+[['set1_frame0', 1.796], ['set5_frame0', 0.249], ['set28_frame1', 1.811], ['set9_frame0', 1.808], ['set32_frame2', 1.835]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_5_frame0.fa.txt
+42 90
+Nymphalis_io_XM_050489987.1_Frame_2_rightoh_1_query_Exon_2
+TKIVGYNRMRYLLEALNDLDLQFKKYGGKLHLIKGKPEHVFRRFWEVL
+42 90
+set5_frame0
+TKTVGYNRLRYLLEALNDLDHQFKKYGGKLHLIKGKPELVFRRLWELL
+Original query = TKIVGYNRMRYLLEALNDLDLQFKKYGGKLHLIKGKPEHVFRRFWEVL
+New query = TKTVGYNRLRYLLEALNDLDHQFKKYGGKLHLIKGKPELVFRRLWELL
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,960043,960230,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+1
+5
+Nymphalis_polychloros,HG992250.1,959274,959403,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Nymphalis_polychloros,HG992250.1,961427,961560,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,2,44,44
+
+Getting Gene
+min = set9_frame0, 0.08
+5 top scores:
+[['set32_frame2', 1.841], ['set9_frame0', 0.08], ['set48_frame2', 1.866], ['set1_frame1', 1.871], ['set8_frame1', 1.89]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_9_frame0.fa.txt
+8 70
+Nymphalis_io_XM_050489987.1_Frame_2_rightoh_0_query_Exon_3
+IRKICFEQDCEPIWRARDDCVRNLCREIGISCHENVSHTLWDPDSVIQANGGIPPLTYQMFL
+8 70
+set9_frame0
+IRKICFEQDCEPIWRARDDCLRNVCREIGVSCQENVSHTLWDPDSVIQANGGIPPLTYQMFL
+Original query = IRKICFEQDCEPIWRARDDCVRNLCREIGISCHENVSHTLWDPDSVIQANGGIPPLTYQMFL
+New query = IRKICFEQDCEPIWRARDDCLRNVCREIGVSCQENVSHTLWDPDSVIQANGGIPPLTYQMFL
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,960596,960712,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+2
+6
+Nymphalis_polychloros,HG992250.1,959617,959763,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_1_query_Exon_2,1,46,48
+
+Nymphalis_polychloros,HG992250.1,962484,962579,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Getting Gene
+min = set22_frame1, 0.122
+5 top scores:
+[['set22_frame1', 0.122], ['set36_frame2', 1.772], ['set25_frame0', 1.642], ['set58_frame0', 1.816], ['set38_frame1', 1.819]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_22_frame1.fa.txt
+31 70
+Nymphalis_io_XM_050489987.1_Frame_0_rightoh_0_query_Exon_4
+HTVAIIGDPPRPVGDVDLKGVNFASLPRSFYDEFTIFEE
+31 70
+set22_frame1
+HTVAIIGDPPRPVDDVDLKGVNFASLPKSFYDEFTIFDE
+Original query = HTVAIIGDPPRPVGDVDLKGVNFASLPRSFYDEFTIFEE
+New query = HTVAIIGDPPRPVDDVDLKGVNFASLPKSFYDEFTIFDE
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,961427,961560,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,2,44,44
+
+3
+7
+Nymphalis_polychloros,HG992250.1,960043,960230,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+Nymphalis_polychloros,HG992250.1,962880,962953,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Getting Gene
+min = set31_frame1, 0.049
+5 top scores:
+[['set31_frame1', 0.049], ['set32_frame2', 1.75], ['set31_frame2', 1.816], ['set45_frame0', 1.831], ['set49_frame0', 1.811]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_31_frame1.fa.txt
+9 53
+Nymphalis_io_XM_050489987.1_Frame_0_rightoh_2_query_Exon_5
+VPKPEDLGVFLENEDIRMIRWVGGETAALKQMQNRLAVEYETFC
+9 53
+set31_frame1
+VPKPEDLGVFLENEDVRMIRWVGGETAALKQMQSRLAVEYETFC
+Original query = VPKPEDLGVFLENEDIRMIRWVGGETAALKQMQNRLAVEYETFC
+New query = VPKPEDLGVFLENEDVRMIRWVGGETAALKQMQSRLAVEYETFC
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,962484,962579,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+4
+8
+Nymphalis_polychloros,HG992250.1,960596,960712,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Nymphalis_polychloros,HG992250.1,963973,964099,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Getting Gene
+min = set34_frame2, 0.0
+5 top scores:
+[['set34_frame2', 0.0], ['set4_frame1', 1.702], ['set49_frame1', 1.725], ['set8_frame2', 1.741], ['set45_frame2', 1.769]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_34_frame2.fa.txt
+20 51
+Nymphalis_io_XM_050489987.1_Frame_1_rightoh_2_query_Exon_6
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+20 51
+set34_frame2
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Original query = GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+New query = GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,962880,962953,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+5
+9
+Nymphalis_polychloros,HG992250.1,961427,961560,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,2,44,44
+
+Nymphalis_polychloros,HG992250.1,964705,964887,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Getting Gene
+min = set24_frame2, 0.0
+5 top scores:
+[['set24_frame2', 0.0], ['set36_frame1', 1.686], ['set27_frame2', 1.689], ['set48_frame2', 1.703], ['set10_frame0', 1.712]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_24_frame2.fa.txt
+27 51
+Nymphalis_io_XM_050489987.1_Frame_1_rightoh_1_query_Exon_7
+FYWCVQDLFQQVHQGRLASTQFIT
+27 51
+set24_frame2
+FYWCVQDLFQQVHQGRLASTQFIT
+Original query = FYWCVQDLFQQVHQGRLASTQFIT
+New query = FYWCVQDLFQQVHQGRLASTQFIT
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,963973,964099,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+6
+10
+Nymphalis_polychloros,HG992250.1,962484,962579,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Nymphalis_polychloros,HG992250.1,965465,965632,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+Getting Gene
+min = set31_frame0, 0.0
+5 top scores:
+[['set31_frame1', 1.79], ['set31_frame0', 0.0], ['set43_frame2', 1.794], ['set82_frame2', 1.823], ['set42_frame0', 1.812]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_31_frame0.fa.txt
+10 51
+Nymphalis_io_XM_050489987.1_Frame_2_rightoh_2_query_Exon_8
+QLIWREYFYTMSVNNPNYAQMANNPICLDIPWKEPESDELQ
+10 51
+set31_frame0
+QLIWREYFYTMSVNNPNYAQMANNPICLDIPWKEPESDELQ
+Original query = QLIWREYFYTMSVNNPNYAQMANNPICLDIPWKEPESDELQ
+New query = QLIWREYFYTMSVNNPNYAQMANNPICLDIPWKEPESDELQ
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,964705,964887,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+7
+11
+Nymphalis_polychloros,HG992250.1,962880,962953,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Nymphalis_polychloros,HG992250.1,966159,966282,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set56_frame2, 0.015
+5 top scores:
+[['set56_frame2', 0.015], ['set76_frame2', 1.837], ['set22_frame0', 1.829], ['set31_frame0', 1.851], ['set89_frame2', 1.864]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_56_frame2.fa.txt
+10 70
+Nymphalis_io_XM_050489987.1_Frame_1_rightoh_2_query_Exon_9
+WKEGRTGFPFVDAAMRQLRSEGWLHHAVRNTVASFLTRGTLWLSWEHGLAHFLKYLLDAD
+10 70
+set56_frame2
+WKEGRTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLAHFLKYLLDAD
+Original query = WKEGRTGFPFVDAAMRQLRSEGWLHHAVRNTVASFLTRGTLWLSWEHGLAHFLKYLLDAD
+New query = WKEGRTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLAHFLKYLLDAD
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,965465,965632,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+8
+11
+Nymphalis_polychloros,HG992250.1,963973,964099,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Nymphalis_polychloros,HG992250.1,966159,966282,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set28_frame2, 0.062
+5 top scores:
+[['set28_frame2', 0.062], ['set35_frame0', 1.738], ['set32_frame2', 1.768], ['set14_frame2', 1.838], ['set36_frame2', 1.852]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_28_frame2.fa.txt
+13 68
+Nymphalis_io_XM_050489987.1_Frame_1_rightoh_2_query_Exon_10
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELAHMPVDY
+13 68
+set28_frame2
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPTGHYVRRYVPELARMPVDY
+Original query = SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELAHMPVDY
+New query = SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPTGHYVRRYVPELARMPVDY
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,966159,966282,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+9
+11
+Nymphalis_polychloros,HG992250.1,964705,964887,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Nymphalis_polychloros,HG992250.1,966159,966282,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set21_frame0, 0.173
+5 top scores:
+[['set1_frame2', 1.741], ['set21_frame1', 1.748], ['set3_frame2', 1.762], ['set21_frame0', 0.173], ['set25_frame2', 1.79]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_21_frame0.fa.txt
+11 51
+set21_frame0
+YEPWNAPAEVQERAGCVVGRDYPAPVVDHRAAAQRNRAAM
+Original query = YEPWNAPLEVQERAGCVVGRHYPAPVVDHRAAAQRNRANMQ
+New query = YEPWNAPAEVQERAGCVVGRDYPAPVVDHRAAAQRNRAAM
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,959617,959763,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_1_query_Exon_2,1,46,48
+
+1
+4
+Nymphalis_polychloros,HG992250.1,959274,959403,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Nymphalis_polychloros,HG992250.1,960596,960712,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Getting Gene
+min = set5_frame0, 0.271
+5 top scores:
+[['set1_frame0', 1.785], ['set5_frame0', 0.271], ['set28_frame1', 1.833], ['set9_frame0', 1.823], ['set32_frame2', 1.857]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_5_frame0.fa.txt
+42 88
+Vanessa_tameamea_XM_026643186.1_Frame_2_rightoh_1_query_Exon_2
+TKIVGYNRMRYLLEALNDLDVQFKKYGGRLHMIKGKPDLVFRRLWE
+42 88
+set5_frame0
+TKTVGYNRLRYLLEALNDLDHQFKKYGGKLHLIKGKPELVFRRLWE
+Original query = TKIVGYNRMRYLLEALNDLDVQFKKYGGRLHMIKGKPDLVFRRLWEES
+New query = TKTVGYNRLRYLLEALNDLDHQFKKYGGKLHLIKGKPELVFRRLWE
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,960043,960230,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+1
+5
+Nymphalis_polychloros,HG992250.1,959274,959403,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Nymphalis_polychloros,HG992250.1,961427,961560,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,2,44,44
+
+Getting Gene
+min = set9_frame0, 0.136
+5 top scores:
+[['set32_frame2', 1.84], ['set9_frame0', 0.136], ['set22_frame0', 1.821], ['set12_frame2', 1.853], ['set48_frame2', 1.873]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_9_frame0.fa.txt
+8 70
+Vanessa_tameamea_XM_026643186.1_Frame_2_rightoh_0_query_Exon_3
+IRKICFEQDCEPIWRARDDSVRDLCRKIGVSCRENVSHTLWDPDSVIQANGGIPPLTYQMFL
+8 70
+set9_frame0
+IRKICFEQDCEPIWRARDDCLRNVCREIGVSCQENVSHTLWDPDSVIQANGGIPPLTYQMFL
+Original query = IRKICFEQDCEPIWRARDDSVRDLCRKIGVSCRENVSHTLWDPDSVIQANGGIPPLTYQMFL
+New query = IRKICFEQDCEPIWRARDDCLRNVCREIGVSCQENVSHTLWDPDSVIQANGGIPPLTYQMFL
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,960596,960712,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+2
+6
+Nymphalis_polychloros,HG992250.1,959617,959763,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_1_query_Exon_2,1,46,48
+
+Nymphalis_polychloros,HG992250.1,962484,962579,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Getting Gene
+min = set22_frame1, 0.146
+5 top scores:
+[['set22_frame1', 0.146], ['set38_frame1', 1.799], ['set25_frame0', 1.718], ['set47_frame1', 1.816], ['set18_frame2', 1.818]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_22_frame1.fa.txt
+31 69
+Vanessa_tameamea_XM_026643186.1_Frame_0_rightoh_0_query_Exon_4
+HTVAIIGDPPRPVDDVDLKGVNFACLPKSFYDEFTVFD
+31 69
+set22_frame1
+HTVAIIGDPPRPVDDVDLKGVNFASLPKSFYDEFTIFD
+Original query = HTVAIIGDPPRPVDDVDLKGVNFACLPKSFYDEFTVFDM
+New query = HTVAIIGDPPRPVDDVDLKGVNFASLPKSFYDEFTIFD
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,961427,961560,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,2,44,44
+
+3
+7
+Nymphalis_polychloros,HG992250.1,960043,960230,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+Nymphalis_polychloros,HG992250.1,962880,962953,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Getting Gene
+min = set31_frame1, 0.12
+5 top scores:
+[['set31_frame1', 0.12], ['set32_frame2', 1.744], ['set31_frame2', 1.816], ['set45_frame0', 1.831], ['set49_frame0', 1.811]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_31_frame1.fa.txt
+9 53
+Vanessa_tameamea_XM_026643186.1_Frame_0_rightoh_2_query_Exon_5
+VPKPEDLGVFLENEDIRMIRWVGGETAALNKMQNRLAVEYETFC
+9 53
+set31_frame1
+VPKPEDLGVFLENEDVRMIRWVGGETAALKQMQSRLAVEYETFC
+Original query = VPKPEDLGVFLENEDIRMIRWVGGETAALNKMQNRLAVEYETFC
+New query = VPKPEDLGVFLENEDVRMIRWVGGETAALKQMQSRLAVEYETFC
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,962484,962579,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+4
+8
+Nymphalis_polychloros,HG992250.1,960596,960712,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Nymphalis_polychloros,HG992250.1,963973,964099,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Getting Gene
+min = set34_frame2, 0.077
+5 top scores:
+[['set34_frame2', 0.077], ['set4_frame1', 1.712], ['set49_frame1', 1.725], ['set68_frame1', 1.737], ['set65_frame2', 1.75]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_34_frame2.fa.txt
+20 51
+Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_2_query_Exon_6
+GSYLPTLGNPDLLGPPISLSPALRFGCLSVR
+20 51
+set34_frame2
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Original query = GSYLPTLGNPDLLGPPISLSPALRFGCLSVR
+New query = GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,962880,962953,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+5
+9
+Nymphalis_polychloros,HG992250.1,961427,961560,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,2,44,44
+
+Nymphalis_polychloros,HG992250.1,964705,964887,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Getting Gene
+min = set24_frame2, 0.0
+5 top scores:
+[['set24_frame2', 0.0], ['set36_frame1', 1.686], ['set27_frame2', 1.689], ['set48_frame2', 1.703], ['set10_frame0', 1.712]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_24_frame2.fa.txt
+27 51
+Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_1_query_Exon_7
+FYWCVQDLFQQVHQGRLASTQFIT
+27 51
+set24_frame2
+FYWCVQDLFQQVHQGRLASTQFIT
+Original query = FYWCVQDLFQQVHQGRLASTQFIT
+New query = FYWCVQDLFQQVHQGRLASTQFIT
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,963973,964099,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+6
+10
+Nymphalis_polychloros,HG992250.1,962484,962579,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Nymphalis_polychloros,HG992250.1,965465,965632,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+Getting Gene
+min = set31_frame0, 0.152
+5 top scores:
+[['set43_frame2', 1.786], ['set31_frame0', 0.152], ['set2_frame2', 1.824], ['set35_frame0', 1.83], ['set42_frame0', 1.817]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_31_frame0.fa.txt
+10 51
+Vanessa_tameamea_XM_026643186.1_Frame_2_rightoh_2_query_Exon_8
+QLIWREYFYTISVNNPNYGQMAGNPICLDIPWKDPESDELQ
+10 51
+set31_frame0
+QLIWREYFYTMSVNNPNYAQMANNPICLDIPWKEPESDELQ
+Original query = QLIWREYFYTISVNNPNYGQMAGNPICLDIPWKDPESDELQ
+New query = QLIWREYFYTMSVNNPNYAQMANNPICLDIPWKEPESDELQ
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,964705,964887,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+7
+11
+Nymphalis_polychloros,HG992250.1,962880,962953,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Nymphalis_polychloros,HG992250.1,966159,966282,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set56_frame2, 0.023
+5 top scores:
+[['set56_frame2', 0.023], ['set76_frame2', 1.841], ['set22_frame0', 1.824], ['set89_frame2', 1.864], ['set33_frame0', 1.884]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_56_frame2.fa.txt
+10 70
+Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_2_query_Exon_9
+WKEGRTGFPFVDAAMRQLRAEGWLHHAVRNTVASFLTRGTLWLSWEHGLAHFLKYLLDAD
+10 70
+set56_frame2
+WKEGRTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLAHFLKYLLDAD
+Original query = WKEGRTGFPFVDAAMRQLRAEGWLHHAVRNTVASFLTRGTLWLSWEHGLAHFLKYLLDAD
+New query = WKEGRTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLAHFLKYLLDAD
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,965465,965632,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+8
+11
+Nymphalis_polychloros,HG992250.1,963973,964099,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Nymphalis_polychloros,HG992250.1,966159,966282,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set28_frame2, 0.017
+5 top scores:
+[['set28_frame2', 0.017], ['set35_frame0', 1.703], ['set32_frame2', 1.768], ['set14_frame2', 1.837], ['set36_frame2', 1.852]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_28_frame2.fa.txt
+13 68
+Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_2_query_Exon_10
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELARMPVDY
+13 68
+set28_frame2
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPTGHYVRRYVPELARMPVDY
+Original query = SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELARMPVDY
+New query = SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPTGHYVRRYVPELARMPVDY
+Scaffold = HG992250.1, start = 959274, end = 959403
+Nymphalis_polychloros,HG992250.1,966159,966282,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+9
+11
+Nymphalis_polychloros,HG992250.1,964705,964887,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Nymphalis_polychloros,HG992250.1,966159,966282,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set21_frame0, 0.096
+5 top scores:
+[['set21_frame1', 1.7], ['set19_frame2', 1.747], ['set1_frame2', 1.755], ['set21_frame0', 0.096], ['set3_frame2', 1.759]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_polychloros/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_21_frame0.fa.txt
+11 51
+set21_frame0
+YEPWNAPAEVQERAGCVVGRDYPAPVVDHRAAAQRNRAAM
+Original query = YEPWRAPLEVQERAGCVVGRDYPAPVVDHRAAAQRNRAAMQ
+New query = YEPWNAPAEVQERAGCVVGRDYPAPVVDHRAAAQRNRAAM

@@ -1,0 +1,456 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = NJDD01002139.1, start = 39017, end = 39423
+Calephelis_nemesis,NJDD01002139.1,36866,37117,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Calephelis_nemesis,NJDD01002139.1,39017,39423,1,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_1,23,86,86
+
+Calephelis_nemesis,NJDD01002139.1,21291,21462,1,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set43_frame0, 0.139
+5 top scores:
+[['set234_frame1', 1.862], ['set282_frame1', 1.877], ['set24_frame0', 1.866], ['set43_frame0', 0.139], ['set204_frame0', 1.716]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_nemesis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_43_frame0.fa.txt
+10 93
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDKNLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIQVTSRVSHTLYKLD
+10 93
+set43_frame0
+FLLQCLEDLDNSLRKLNSRLFVVRGQPADALPKLFREWGTTTLSFEEDPEPYGRVRDQNIMTKCREVGITVTTRVSHTLYKLD
+Original query = FLLQCLEDLDKNLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIQVTSRVSHTLYKLD
+New query = FLLQCLEDLDNSLRKLNSRLFVVRGQPADALPKLFREWGTTTLSFEEDPEPYGRVRDQNIMTKCREVGITVTTRVSHTLYKLD
+Scaffold = NJDD01002139.1, start = 39017, end = 39423
+Calephelis_nemesis,NJDD01002139.1,35260,35444,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Calephelis_nemesis,NJDD01002139.1,39017,39423,1,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_1,23,86,86
+
+Calephelis_nemesis,NJDD01002139.1,20017,20242,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set83_frame2, 0.331
+5 top scores:
+[['set83_frame2', 0.331], ['set177_frame2', 1.772], ['set221_frame2', 1.784], ['set86_frame2', 1.798], ['set101_frame2', 1.811]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_nemesis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_83_frame2.fa.txt
+32 93
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3
+IIEKNGGKAPLTYHQFQALIASMPPPPSAEPTISLETLNRAVTPISDNHDERFGVPTLEEL
+32 93
+set83_frame2
+IIERNGGKAPLTYHQFQALIANMPPPPPAEPAITLEALNGSITPINVDHDNRFGVPTLEEL
+Original query = IIEKNGGKAPLTYHQFQALIASMPPPPSAEPTISLETLNRAVTPISDNHDERFGVPTLEEL
+New query = IIERNGGKAPLTYHQFQALIANMPPPPPAEPAITLEALNGSITPINVDHDNRFGVPTLEEL
+Scaffold = NJDD01002139.1, start = 39017, end = 39423
+Calephelis_nemesis,NJDD01002139.1,21291,21462,1,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Calephelis_nemesis,NJDD01002139.1,36866,37117,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Calephelis_nemesis,NJDD01002139.1,18284,18424,1,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set281_frame0, 0.283
+5 top scores:
+[['set281_frame0', 0.283], ['set228_frame0', 1.802], ['set231_frame0', 1.805], ['set35_frame0', 1.796], ['set24_frame2', 1.812]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_nemesis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_281_frame0.fa.txt
+7 63
+Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4
+FDTEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPESLLSSQTGLSPYL
+7 63
+set281_frame0
+FYTEGLKPPVWVGGESEALVRLERHLERKAWVATFGCPKMTPQSLLASKTGLSPYF
+Original query = FDTEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPESLLSSQTGLSPYL
+New query = FYTEGLKPPVWVGGESEALVRLERHLERKAWVATFGCPKMTPQSLLASKTGLSPYF
+Scaffold = NJDD01002139.1, start = 39017, end = 39423
+Calephelis_nemesis,NJDD01002139.1,20017,20242,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Calephelis_nemesis,NJDD01002139.1,35260,35444,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Calephelis_nemesis,NJDD01002139.1,16434,16585,1,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set265_frame2, 0.182
+5 top scores:
+[['set265_frame2', 0.182], ['set286_frame2', 1.834], ['set36_frame2', 1.837], ['set172_frame2', 1.858], ['set259_frame0', 1.864]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_nemesis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_265_frame2.fa.txt
+22 97
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAN
+22 97
+set265_frame2
+FGCLSARLFYCQLTELYKKVKRARPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+Original query = FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAN
+New query = FGCLSARLFYCQLTELYKKVKRARPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+Scaffold = NJDD01002139.1, start = 39017, end = 39423
+Calephelis_nemesis,NJDD01002139.1,18284,18424,1,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Calephelis_nemesis,NJDD01002139.1,21291,21462,1,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Calephelis_nemesis,NJDD01002139.1,15334,15536,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set80_frame2, 0.085
+5 top scores:
+[['set80_frame2', 0.085], ['set94_frame1', 1.805], ['set119_frame2', 1.812], ['set128_frame2', 1.828], ['set120_frame2', 1.834]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_nemesis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_80_frame2.fa.txt
+0 47
+Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6
+GQTGFPWIDAIMIQLRNDGWIHHLARHAVACFLTRGDLWISWEEGMK
+0 47
+set80_frame2
+GETGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GQTGFPWIDAIMIQLRNDGWIHHLARHAVACFLTRGDLWISWEEGMK
+New query = GETGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = NJDD01002139.1, start = 39017, end = 39423
+Calephelis_nemesis,NJDD01002139.1,16434,16585,1,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Calephelis_nemesis,NJDD01002139.1,20017,20242,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Calephelis_nemesis,NJDD01002139.1,15334,15536,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set85_frame0, 0.0
+5 top scores:
+[['set85_frame0', 0.0], ['set22_frame1', 1.768], ['set78_frame2', 1.773], ['set64_frame0', 1.823], ['set37_frame2', 1.823]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_nemesis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_85_frame0.fa.txt
+0 50
+Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+0 50
+set85_frame0
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = NJDD01002139.1, start = 39017, end = 39423
+Calephelis_nemesis,NJDD01002139.1,15334,15536,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Calephelis_nemesis,NJDD01002139.1,18284,18424,1,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Calephelis_nemesis,NJDD01002139.1,15334,15536,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set49_frame0, 0.37
+5 top scores:
+[['set1_frame0', 1.828], ['set12_frame0', 1.844], ['set34_frame1', 1.863], ['set41_frame0', 1.863], ['set49_frame0', 0.37]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_nemesis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_49_frame0.fa.txt
+3 69
+set49_frame0
+KYIPVLKNMPTQYIHEPWVAPESVQQSANCIVGQDYPLPMIDHAKASQINIERIKQVYTQLVKYRP
+Original query = KYIPVLKNMPTRYIHEPWVCPEEIQKSIRCIIGKDYPMPIVDHTKASEINLERIKQVYAQLAKFKPQ
+New query = KYIPVLKNMPTQYIHEPWVAPESVQQSANCIVGQDYPLPMIDHAKASQINIERIKQVYTQLVKYRP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = NJDD01002139.1, start = 39017, end = 39423
+Calephelis_nemesis,NJDD01002139.1,36866,37117,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Calephelis_nemesis,NJDD01002139.1,39017,39423,1,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_1,23,86,86
+
+Calephelis_nemesis,NJDD01002139.1,21291,21462,1,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set43_frame0, 0.146
+5 top scores:
+[['set234_frame1', 1.821], ['set260_frame1', 1.865], ['set24_frame0', 1.874], ['set43_frame0', 0.146], ['set204_frame0', 1.713]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_nemesis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_43_frame0.fa.txt
+10 93
+Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDNSLKKLNSRLFVVRGQPADALPKLFREWGTTFLTFEEDPEPYGRVRDQNITTKCQEVGISVVSRVSHTLYKLD
+10 93
+set43_frame0
+FLLQCLEDLDNSLRKLNSRLFVVRGQPADALPKLFREWGTTTLSFEEDPEPYGRVRDQNIMTKCREVGITVTTRVSHTLYKLD
+Original query = FLLQCLEDLDNSLKKLNSRLFVVRGQPADALPKLFREWGTTFLTFEEDPEPYGRVRDQNITTKCQEVGISVVSRVSHTLYKLD
+New query = FLLQCLEDLDNSLRKLNSRLFVVRGQPADALPKLFREWGTTTLSFEEDPEPYGRVRDQNIMTKCREVGITVTTRVSHTLYKLD
+Scaffold = NJDD01002139.1, start = 39017, end = 39423
+Calephelis_nemesis,NJDD01002139.1,35260,35444,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Calephelis_nemesis,NJDD01002139.1,39017,39423,1,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_1,23,86,86
+
+Calephelis_nemesis,NJDD01002139.1,20017,20242,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set83_frame2, 0.349
+5 top scores:
+[['set83_frame2', 0.349], ['set279_frame0', 1.782], ['set1_frame1', 1.793], ['set129_frame1', 1.808], ['set360_frame1', 1.808]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_nemesis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_83_frame2.fa.txt
+32 93
+Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3
+IIERNGGKAPLTYHQFQALIASMPPPPAAESTITKQTLNGAMTPILQDHDDRFGVPTLEEL
+32 93
+set83_frame2
+IIERNGGKAPLTYHQFQALIANMPPPPPAEPAITLEALNGSITPINVDHDNRFGVPTLEEL
+Original query = IIERNGGKAPLTYHQFQALIASMPPPPAAESTITKQTLNGAMTPILQDHDDRFGVPTLEEL
+New query = IIERNGGKAPLTYHQFQALIANMPPPPPAEPAITLEALNGSITPINVDHDNRFGVPTLEEL
+Scaffold = NJDD01002139.1, start = 39017, end = 39423
+Calephelis_nemesis,NJDD01002139.1,21291,21462,1,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Calephelis_nemesis,NJDD01002139.1,36866,37117,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Calephelis_nemesis,NJDD01002139.1,18284,18424,1,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set281_frame0, 0.274
+5 top scores:
+[['set281_frame0', 0.274], ['set201_frame0', 1.792], ['set286_frame2', 1.802], ['set66_frame1', 1.806], ['set214_frame2', 1.821]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_nemesis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_281_frame0.fa.txt
+7 63
+Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4
+FDTENLKPPIWIGGENEALARLERHLERKAWVATFGRPKMTPQSLLASSTGLSPYL
+7 63
+set281_frame0
+FYTEGLKPPVWVGGESEALVRLERHLERKAWVATFGCPKMTPQSLLASKTGLSPYF
+Original query = FDTENLKPPIWIGGENEALARLERHLERKAWVATFGRPKMTPQSLLASSTGLSPYL
+New query = FYTEGLKPPVWVGGESEALVRLERHLERKAWVATFGCPKMTPQSLLASKTGLSPYF
+Scaffold = NJDD01002139.1, start = 39017, end = 39423
+Calephelis_nemesis,NJDD01002139.1,20017,20242,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Calephelis_nemesis,NJDD01002139.1,35260,35444,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Calephelis_nemesis,NJDD01002139.1,16434,16585,1,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set265_frame2, 0.109
+5 top scores:
+[['set265_frame2', 0.109], ['set286_frame2', 1.828], ['set95_frame1', 1.848], ['set172_frame2', 1.852], ['set223_frame2', 1.856]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_nemesis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_265_frame2.fa.txt
+22 97
+Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYFQLTELYKRVKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+22 97
+set265_frame2
+FGCLSARLFYCQLTELYKKVKRARPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+Original query = FGCLSTRLFYFQLTELYKRVKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+New query = FGCLSARLFYCQLTELYKKVKRARPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+Scaffold = NJDD01002139.1, start = 39017, end = 39423
+Calephelis_nemesis,NJDD01002139.1,18284,18424,1,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Calephelis_nemesis,NJDD01002139.1,21291,21462,1,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Calephelis_nemesis,NJDD01002139.1,15334,15536,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set80_frame2, 0.024
+5 top scores:
+[['set80_frame2', 0.024], ['set94_frame1', 1.805], ['set119_frame2', 1.824], ['set128_frame2', 1.828], ['set120_frame2', 1.834]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_nemesis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_80_frame2.fa.txt
+0 47
+Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6
+GQTGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMK
+0 47
+set80_frame2
+GETGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GQTGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMK
+New query = GETGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = NJDD01002139.1, start = 39017, end = 39423
+Calephelis_nemesis,NJDD01002139.1,16434,16585,1,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Calephelis_nemesis,NJDD01002139.1,20017,20242,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Calephelis_nemesis,NJDD01002139.1,15334,15536,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set85_frame0, 0.0
+5 top scores:
+[['set85_frame0', 0.0], ['set22_frame1', 1.768], ['set78_frame2', 1.773], ['set64_frame0', 1.823], ['set37_frame2', 1.823]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_nemesis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_85_frame0.fa.txt
+0 50
+Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+0 50
+set85_frame0
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = NJDD01002139.1, start = 39017, end = 39423
+Calephelis_nemesis,NJDD01002139.1,15334,15536,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Calephelis_nemesis,NJDD01002139.1,18284,18424,1,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Calephelis_nemesis,NJDD01002139.1,15334,15536,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set49_frame0, 0.294
+5 top scores:
+[['set4_frame2', 1.826], ['set12_frame0', 1.864], ['set14_frame1', 1.879], ['set41_frame0', 1.859], ['set49_frame0', 0.294]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_nemesis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_49_frame0.fa.txt
+3 69
+set49_frame0
+KYIPVLKNMPTQYIHEPWVAPESVQQSANCIVGQDYPLPMIDHAKASQINIERIKQVYTQLVKYRP
+Original query = KYIPALKNMPAKYIHEPWVAPQPVQEAAQCIIGRDYPLPMVDHAKASKINIERIKQVYEQLAKYKPQ
+New query = KYIPVLKNMPTQYIHEPWVAPESVQQSANCIVGQDYPLPMIDHAKASQINIERIKQVYTQLVKYRP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = NJDD01002139.1, start = 39017, end = 39423
+Calephelis_nemesis,NJDD01002139.1,36866,37117,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Calephelis_nemesis,NJDD01002139.1,39017,39423,1,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_1,23,86,86
+
+Calephelis_nemesis,NJDD01002139.1,21291,21462,1,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set43_frame0, 0.111
+5 top scores:
+[['set234_frame1', 1.862], ['set56_frame2', 1.872], ['set24_frame0', 1.874], ['set43_frame0', 0.111], ['set204_frame0', 1.696]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_nemesis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_43_frame0.fa.txt
+10 93
+Maniola_jurtina_XM_045904525.1_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDSSLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGISVTSRVSHTLYKLD
+10 93
+set43_frame0
+FLLQCLEDLDNSLRKLNSRLFVVRGQPADALPKLFREWGTTTLSFEEDPEPYGRVRDQNIMTKCREVGITVTTRVSHTLYKLD
+Original query = FLLQCLEDLDSSLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGISVTSRVSHTLYKLD
+New query = FLLQCLEDLDNSLRKLNSRLFVVRGQPADALPKLFREWGTTTLSFEEDPEPYGRVRDQNIMTKCREVGITVTTRVSHTLYKLD
+Scaffold = NJDD01002139.1, start = 39017, end = 39423
+Calephelis_nemesis,NJDD01002139.1,35260,35444,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Calephelis_nemesis,NJDD01002139.1,39017,39423,1,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_1,23,86,86
+
+Calephelis_nemesis,NJDD01002139.1,20017,20242,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set83_frame2, 0.285
+5 top scores:
+[['set83_frame2', 0.285], ['set279_frame0', 1.793], ['set129_frame1', 1.793], ['set221_frame2', 1.812], ['set86_frame2', 1.832]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_nemesis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_83_frame2.fa.txt
+32 93
+Maniola_jurtina_XM_045904525.1_Frame_1_rightoh_1_query_Exon_3
+IIERNGGKAPLTYHQFQALIASMPPPPPAEASITVQTLNGAVTPIADDHDDRFGVPSLEEL
+32 93
+set83_frame2
+IIERNGGKAPLTYHQFQALIANMPPPPPAEPAITLEALNGSITPINVDHDNRFGVPTLEEL
+Original query = IIERNGGKAPLTYHQFQALIASMPPPPPAEASITVQTLNGAVTPIADDHDDRFGVPSLEEL
+New query = IIERNGGKAPLTYHQFQALIANMPPPPPAEPAITLEALNGSITPINVDHDNRFGVPTLEEL
+Scaffold = NJDD01002139.1, start = 39017, end = 39423
+Calephelis_nemesis,NJDD01002139.1,21291,21462,1,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Calephelis_nemesis,NJDD01002139.1,36866,37117,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Calephelis_nemesis,NJDD01002139.1,18284,18424,1,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set281_frame0, 0.257
+5 top scores:
+[['set281_frame0', 0.257], ['set162_frame1', 1.788], ['set214_frame2', 1.814], ['set35_frame0', 1.796], ['set334_frame1', 1.82]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_nemesis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_281_frame0.fa.txt
+7 63
+Maniola_jurtina_XM_045904525.1_Frame_2_rightoh_2_query_Exon_4
+FETEGLKPPIWVGGENEGLLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+7 63
+set281_frame0
+FYTEGLKPPVWVGGESEALVRLERHLERKAWVATFGCPKMTPQSLLASKTGLSPYF
+Original query = FETEGLKPPIWVGGENEGLLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+New query = FYTEGLKPPVWVGGESEALVRLERHLERKAWVATFGCPKMTPQSLLASKTGLSPYF
+Scaffold = NJDD01002139.1, start = 39017, end = 39423
+Calephelis_nemesis,NJDD01002139.1,20017,20242,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Calephelis_nemesis,NJDD01002139.1,35260,35444,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Calephelis_nemesis,NJDD01002139.1,16434,16585,1,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set265_frame2, 0.155
+5 top scores:
+[['set265_frame2', 0.155], ['set36_frame2', 1.822], ['set286_frame2', 1.836], ['set223_frame2', 1.85], ['set259_frame0', 1.864]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_nemesis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_265_frame2.fa.txt
+22 97
+Maniola_jurtina_XM_045904525.1_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLTELYKRVKQVRPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQDALAKWAS
+22 97
+set265_frame2
+FGCLSARLFYCQLTELYKKVKRARPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+Original query = FGCLSTRLFYYQLTELYKRVKQVRPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQDALAKWAS
+New query = FGCLSARLFYCQLTELYKKVKRARPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+Scaffold = NJDD01002139.1, start = 39017, end = 39423
+Calephelis_nemesis,NJDD01002139.1,18284,18424,1,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Calephelis_nemesis,NJDD01002139.1,21291,21462,1,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Calephelis_nemesis,NJDD01002139.1,15334,15536,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set80_frame2, 0.053
+5 top scores:
+[['set80_frame2', 0.053], ['set94_frame1', 1.805], ['set119_frame2', 1.812], ['set128_frame2', 1.819], ['set91_frame2', 1.844]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_nemesis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_80_frame2.fa.txt
+0 47
+Maniola_jurtina_XM_045904525.1_Frame_0_rightoh_0_query_Exon_6
+GKTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+0 47
+set80_frame2
+GETGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GKTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+New query = GETGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = NJDD01002139.1, start = 39017, end = 39423
+Calephelis_nemesis,NJDD01002139.1,16434,16585,1,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Calephelis_nemesis,NJDD01002139.1,20017,20242,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Calephelis_nemesis,NJDD01002139.1,15334,15536,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set85_frame0, 0.0
+5 top scores:
+[['set85_frame0', 0.0], ['set22_frame1', 1.768], ['set78_frame2', 1.773], ['set64_frame0', 1.823], ['set37_frame2', 1.823]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_nemesis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_85_frame0.fa.txt
+0 50
+Maniola_jurtina_XM_045904525.1_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+0 50
+set85_frame0
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = NJDD01002139.1, start = 39017, end = 39423
+Calephelis_nemesis,NJDD01002139.1,15334,15536,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Calephelis_nemesis,NJDD01002139.1,18284,18424,1,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Calephelis_nemesis,NJDD01002139.1,15334,15536,1,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set49_frame0, 0.443
+5 top scores:
+[['set1_frame0', 1.845], ['set12_frame0', 1.823], ['set14_frame1', 1.851], ['set41_frame0', 1.83], ['set49_frame0', 0.443]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_nemesis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_49_frame0.fa.txt
+3 69
+set49_frame0
+KYIPVLKNMPTQYIHEPWVAPESVQQSANCIVGQDYPLPMIDHAKASQINIERIKQVYTQLVKYRP
+Original query = KYIPALKNMPTRYIHEPWQAPAAVQEAARCLVGRDYPMPIVDHHKASQTNIERIKQVYAQLAKFKPP
+New query = KYIPVLKNMPTQYIHEPWVAPESVQQSANCIVGQDYPLPMIDHAKASQINIERIKQVYTQLVKYRP

@@ -1,0 +1,654 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1409689,1409835,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+1
+4
+Elymnias_hypermnestra,JACTOM010000094.1,1402897,1403026,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Elymnias_hypermnestra,JACTOM010000094.1,1414064,1414180,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Getting Gene
+min = set124_frame2, 0.218
+5 top scores:
+[['set124_frame2', 0.218], ['set135_frame2', 1.75], ['set9_frame0', 1.742], ['set45_frame2', 1.782], ['set146_frame2', 1.788]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_124_frame2.fa.txt
+3 51
+Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_1_query_Exon_2
+TKLVGYNRMRYLLEALNDLDNQFRKYGGRLHMIKGKPDVVFKRLWKEF
+3 51
+set124_frame2
+TKLVGYNRMRYLLEALNDLDCQFKKYGGRLLMIKGKPDVIFRRLWEEF
+Original query = TKLVGYNRMRYLLEALNDLDNQFRKYGGRLHMIKGKPDVVFKRLWKEF
+New query = TKLVGYNRMRYLLEALNDLDCQFKKYGGRLLMIKGKPDVIFRRLWEEF
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1411111,1411298,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+1
+5
+Elymnias_hypermnestra,JACTOM010000094.1,1402897,1403026,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Elymnias_hypermnestra,JACTOM010000094.1,1416238,1416371,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_2_query_Exon_5,1,43,44
+
+Getting Gene
+min = set146_frame2, 0.166
+5 top scores:
+[['set146_frame2', 0.166], ['set156_frame2', 1.813], ['set125_frame2', 1.837], ['set225_frame2', 1.838], ['set97_frame0', 1.858]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_146_frame2.fa.txt
+19 81
+Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_0_query_Exon_3
+IRKICFEQDCEPIWRMRDESVRGLCRELGVACRESVSHTLWDPDTVIRANGGIPPLTYQMFL
+19 81
+set146_frame2
+IRKICFEQDCEPIWRARDDSVKSLCREVGVRCRENVSHTLWDPDTVIRANGGIPPLTYQMFL
+Original query = IRKICFEQDCEPIWRMRDESVRGLCRELGVACRESVSHTLWDPDTVIRANGGIPPLTYQMFL
+New query = IRKICFEQDCEPIWRARDDSVKSLCREVGVRCRENVSHTLWDPDTVIRANGGIPPLTYQMFL
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1414064,1414180,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+2
+6
+Elymnias_hypermnestra,JACTOM010000094.1,1409689,1409835,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+Elymnias_hypermnestra,JACTOM010000094.1,1417814,1417909,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Getting Gene
+min = set82_frame1, 0.471
+5 top scores:
+[['set82_frame1', 0.471], ['set115_frame2', 1.687], ['set159_frame2', 1.752], ['set102_frame1', 1.769], ['set24_frame0', 1.7]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_82_frame1.fa.txt
+19 58
+Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_0_query_Exon_4
+HTVDIIGDPPRPVADVDLSGVNFAALPDNFYTAFTVFEK
+19 58
+set82_frame1
+HTVAIIGDPPRPVEDVDLRGVNFVPLPDCFFKEFTVYEK
+Original query = HTVDIIGDPPRPVADVDLSGVNFAALPDNFYTAFTVFEK
+New query = HTVAIIGDPPRPVEDVDLRGVNFVPLPDCFFKEFTVYEK
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1416238,1416371,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_2_query_Exon_5,1,43,44
+
+3
+7
+Elymnias_hypermnestra,JACTOM010000094.1,1411111,1411298,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+Elymnias_hypermnestra,JACTOM010000094.1,1418611,1418684,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Getting Gene
+min = set106_frame0, 0.28
+5 top scores:
+[['set106_frame0', 0.28], ['set84_frame2', 1.679], ['set182_frame2', 1.756], ['set11_frame2', 1.773], ['set119_frame1', 1.803]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_106_frame0.fa.txt
+0 43
+Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_2_query_Exon_5
+VPKPEDLGIFLENEDIRMIRWVGGETAALNQMQKRLAVEYETF
+0 43
+set106_frame0
+VPKPEEFGIFLENEDIRMIHWVGGETAALKQMQSRLQVEYETF
+Original query = VPKPEDLGIFLENEDIRMIRWVGGETAALNQMQKRLAVEYETFR
+New query = VPKPEEFGIFLENEDIRMIHWVGGETAALKQMQSRLQVEYETF
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1417814,1417909,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+4
+8
+Elymnias_hypermnestra,JACTOM010000094.1,1414064,1414180,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Elymnias_hypermnestra,JACTOM010000094.1,1420882,1421008,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Getting Gene
+min = set95_frame1, 0.235
+5 top scores:
+[['set95_frame1', 0.235], ['set9_frame2', 1.655], ['set136_frame2', 1.675], ['set29_frame2', 1.731], ['set18_frame0', 1.715]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_95_frame1.fa.txt
+13 44
+Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_6
+GAYLPTHGSPDLLGPPISLSPALRFGCLSVR
+13 44
+set95_frame1
+GSYLPTHGNPDLLSRPISLSPALRFGCLSVR
+Original query = GAYLPTHGSPDLLGPPISLSPALRFGCLSVR
+New query = GSYLPTHGNPDLLSRPISLSPALRFGCLSVR
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1418611,1418684,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+5
+9
+Elymnias_hypermnestra,JACTOM010000094.1,1416238,1416371,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_2_query_Exon_5,1,43,44
+
+Elymnias_hypermnestra,JACTOM010000094.1,1421888,1422070,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Getting Gene
+min = set52_frame1, 0.535
+5 top scores:
+[['set52_frame1', 0.535], ['set55_frame1', 1.558], ['set115_frame1', 1.56], ['set7_frame2', 1.577], ['set76_frame2', 1.605]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_52_frame1.fa.txt
+7 31
+Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_1_query_Exon_7
+FYWSLQDLFKQVHQGRLGSSQFIN
+7 31
+set52_frame1
+FYWCLQDLFQKVHQGQHGTSNFIT
+Original query = FYWSLQDLFKQVHQGRLGSSQFIN
+New query = FYWCLQDLFQKVHQGQHGTSNFIT
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1420882,1421008,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+6
+10
+Elymnias_hypermnestra,JACTOM010000094.1,1417814,1417909,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Elymnias_hypermnestra,JACTOM010000094.1,1422908,1423075,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+Getting Gene
+min = set65_frame1, 0.153
+5 top scores:
+[['set65_frame1', 0.153], ['set10_frame2', 1.667], ['set73_frame2', 1.686], ['set84_frame2', 1.772], ['set96_frame2', 1.794]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_65_frame1.fa.txt
+11 52
+Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_2_query_Exon_8
+QLIWREYFYTMSVNNPLYAQMSGNPICLDIPWKEPEGDELQ
+11 52
+set65_frame1
+QLVWREYFYTMSVNNAKYAQMAGNPICLDIPWKEPEGDELQ
+Original query = QLIWREYFYTMSVNNPLYAQMSGNPICLDIPWKEPEGDELQ
+New query = QLVWREYFYTMSVNNAKYAQMAGNPICLDIPWKEPEGDELQ
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1421888,1422070,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+7
+11
+Elymnias_hypermnestra,JACTOM010000094.1,1418611,1418684,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Elymnias_hypermnestra,JACTOM010000094.1,1424628,1424751,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set65_frame2, 0.073
+5 top scores:
+[['set65_frame2', 0.073], ['set113_frame1', 1.826], ['set74_frame0', 1.789], ['set86_frame0', 1.835], ['set45_frame2', 1.845]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_65_frame2.fa.txt
+17 77
+Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_9
+WKEGRTGFPFVDAAMRQLLTEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+17 77
+set65_frame2
+WKDGRTGFPFVDAAMRQLRSEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+Original query = WKEGRTGFPFVDAAMRQLLTEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+New query = WKDGRTGFPFVDAAMRQLRSEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1422908,1423075,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+8
+11
+Elymnias_hypermnestra,JACTOM010000094.1,1420882,1421008,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Elymnias_hypermnestra,JACTOM010000094.1,1424628,1424751,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set45_frame2, 0.21
+5 top scores:
+[['set45_frame2', 0.21], ['set41_frame0', 1.782], ['set39_frame1', 1.813], ['set12_frame1', 1.815], ['set16_frame1', 1.801]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_45_frame2.fa.txt
+13 68
+Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_10
+SVCAGNWMWVSSSAFEALLDSSECVCPVRLGRRLEPTGHYVRRYVPELANMPVQY
+13 68
+set45_frame2
+SVCAGNWMWMSSSAFEGILDSRECACPVRLGRRLEPTGHYVRRYVPELAMMPVEF
+Original query = SVCAGNWMWVSSSAFEALLDSSECVCPVRLGRRLEPTGHYVRRYVPELANMPVQY
+New query = SVCAGNWMWMSSSAFEGILDSRECACPVRLGRRLEPTGHYVRRYVPELAMMPVEF
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1424628,1424751,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+9
+11
+Elymnias_hypermnestra,JACTOM010000094.1,1421888,1422070,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Elymnias_hypermnestra,JACTOM010000094.1,1424628,1424751,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set55_frame2, 0.278
+5 top scores:
+[['set55_frame2', 0.278], ['set14_frame2', 1.779], ['set24_frame1', 1.803], ['set49_frame2', 1.819], ['set18_frame0', 1.77]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_55_frame2.fa.txt
+4 44
+set55_frame2
+YEPWSAPLDVQQKASCIIGRDYPAPVVDHQASAHRNRSAM
+Original query = YEPWSAPLHVQQKAKCVIGRDYPAPVVDHRACEHRNRSAMQ
+New query = YEPWSAPLDVQQKASCIIGRDYPAPVVDHQASAHRNRSAM
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1409689,1409835,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+1
+4
+Elymnias_hypermnestra,JACTOM010000094.1,1402897,1403026,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Elymnias_hypermnestra,JACTOM010000094.1,1414064,1414180,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Getting Gene
+min = set124_frame2, 0.264
+5 top scores:
+[['set124_frame2', 0.264], ['set135_frame2', 1.75], ['set9_frame0', 1.748], ['set116_frame1', 1.785], ['set122_frame1', 1.795]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_124_frame2.fa.txt
+3 51
+Maniola_jurtina_XM_045915831.1_Frame_2_rightoh_1_query_Exon_2
+TKVVGYNRMRYLLEALQDLDNQFKKYGGRLHMIKGKPEAVFRRLWEEF
+3 51
+set124_frame2
+TKLVGYNRMRYLLEALNDLDCQFKKYGGRLLMIKGKPDVIFRRLWEEF
+Original query = TKVVGYNRMRYLLEALQDLDNQFKKYGGRLHMIKGKPEAVFRRLWEEF
+New query = TKLVGYNRMRYLLEALNDLDCQFKKYGGRLLMIKGKPDVIFRRLWEEF
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1411111,1411298,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+1
+5
+Elymnias_hypermnestra,JACTOM010000094.1,1402897,1403026,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Elymnias_hypermnestra,JACTOM010000094.1,1416238,1416371,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_2_query_Exon_5,1,43,44
+
+Getting Gene
+min = set146_frame2, 0.146
+5 top scores:
+[['set146_frame2', 0.146], ['set156_frame2', 1.813], ['set162_frame1', 1.829], ['set123_frame1', 1.835], ['set134_frame2', 1.837]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_146_frame2.fa.txt
+19 81
+Maniola_jurtina_XM_045915831.1_Frame_2_rightoh_0_query_Exon_3
+IRKICFEQDCEPIWRARDECVKSLCREIGVGCRENVSHTLWDPDVIIRANGGIPPLTYQMFL
+19 81
+set146_frame2
+IRKICFEQDCEPIWRARDDSVKSLCREVGVRCRENVSHTLWDPDTVIRANGGIPPLTYQMFL
+Original query = IRKICFEQDCEPIWRARDECVKSLCREIGVGCRENVSHTLWDPDVIIRANGGIPPLTYQMFL
+New query = IRKICFEQDCEPIWRARDDSVKSLCREVGVRCRENVSHTLWDPDTVIRANGGIPPLTYQMFL
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1414064,1414180,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+2
+6
+Elymnias_hypermnestra,JACTOM010000094.1,1409689,1409835,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+Elymnias_hypermnestra,JACTOM010000094.1,1417814,1417909,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Getting Gene
+min = set82_frame1, 0.321
+5 top scores:
+[['set82_frame1', 0.321], ['set115_frame2', 1.735], ['set102_frame1', 1.758], ['set15_frame2', 1.777], ['set68_frame2', 1.779]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_82_frame1.fa.txt
+19 58
+Maniola_jurtina_XM_045915831.1_Frame_0_rightoh_0_query_Exon_4
+HTVAIIGNPPRPVDDVDLRGVNFVALPDSFYQEFTIFDK
+19 58
+set82_frame1
+HTVAIIGDPPRPVEDVDLRGVNFVPLPDCFFKEFTVYEK
+Original query = HTVAIIGNPPRPVDDVDLRGVNFVALPDSFYQEFTIFDK
+New query = HTVAIIGDPPRPVEDVDLRGVNFVPLPDCFFKEFTVYEK
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1416238,1416371,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_2_query_Exon_5,1,43,44
+
+3
+7
+Elymnias_hypermnestra,JACTOM010000094.1,1411111,1411298,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+Elymnias_hypermnestra,JACTOM010000094.1,1418611,1418684,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Getting Gene
+min = set106_frame0, 0.321
+5 top scores:
+[['set106_frame0', 0.321], ['set84_frame2', 1.707], ['set182_frame2', 1.727], ['set39_frame0', 1.781], ['set44_frame1', 1.803]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_106_frame0.fa.txt
+0 44
+Maniola_jurtina_XM_045915831.1_Frame_0_rightoh_2_query_Exon_5
+APKPEDLGIFLEHEDIRMIRWVGGETAALVQMQNRLAVEYETFC
+0 44
+set106_frame0
+VPKPEEFGIFLENEDIRMIHWVGGETAALKQMQSRLQVEYETFC
+Original query = APKPEDLGIFLEHEDIRMIRWVGGETAALVQMQNRLAVEYETFC
+New query = VPKPEEFGIFLENEDIRMIHWVGGETAALKQMQSRLQVEYETFC
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1417814,1417909,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+4
+8
+Elymnias_hypermnestra,JACTOM010000094.1,1414064,1414180,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Elymnias_hypermnestra,JACTOM010000094.1,1420882,1421008,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Getting Gene
+min = set95_frame1, 0.0
+5 top scores:
+[['set95_frame1', 0.0], ['set136_frame2', 1.618], ['set158_frame1', 1.692], ['set48_frame2', 1.699], ['set124_frame2', 1.726]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_95_frame1.fa.txt
+13 44
+Maniola_jurtina_XM_045915831.1_Frame_1_rightoh_2_query_Exon_6
+GSYLPTHGNPDLLSRPISLSPALRFGCLSVR
+13 44
+set95_frame1
+GSYLPTHGNPDLLSRPISLSPALRFGCLSVR
+Original query = GSYLPTHGNPDLLSRPISLSPALRFGCLSVR
+New query = GSYLPTHGNPDLLSRPISLSPALRFGCLSVR
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1418611,1418684,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+5
+9
+Elymnias_hypermnestra,JACTOM010000094.1,1416238,1416371,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_2_query_Exon_5,1,43,44
+
+Elymnias_hypermnestra,JACTOM010000094.1,1421888,1422070,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Getting Gene
+min = set52_frame1, 0.33
+5 top scores:
+[['set52_frame1', 0.33], ['set55_frame1', 1.536], ['set56_frame1', 1.578], ['set76_frame2', 1.578], ['set108_frame2', 1.596]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_52_frame1.fa.txt
+7 31
+Maniola_jurtina_XM_045915831.1_Frame_1_rightoh_1_query_Exon_7
+FYWCLQDLFQQVHQGRLGSSQFIT
+7 31
+set52_frame1
+FYWCLQDLFQKVHQGQHGTSNFIT
+Original query = FYWCLQDLFQQVHQGRLGSSQFIT
+New query = FYWCLQDLFQKVHQGQHGTSNFIT
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1420882,1421008,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+6
+10
+Elymnias_hypermnestra,JACTOM010000094.1,1417814,1417909,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Elymnias_hypermnestra,JACTOM010000094.1,1422908,1423075,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+Getting Gene
+min = set65_frame1, 0.131
+5 top scores:
+[['set65_frame1', 0.131], ['set10_frame2', 1.64], ['set73_frame2', 1.72], ['set84_frame2', 1.787], ['set96_frame2', 1.806]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_65_frame1.fa.txt
+11 52
+Maniola_jurtina_XM_045915831.1_Frame_2_rightoh_2_query_Exon_8
+QLIWREYFYTMSVNNPQYAQMAGNPICLDIPWKEPEGDELE
+11 52
+set65_frame1
+QLVWREYFYTMSVNNAKYAQMAGNPICLDIPWKEPEGDELQ
+Original query = QLIWREYFYTMSVNNPQYAQMAGNPICLDIPWKEPEGDELE
+New query = QLVWREYFYTMSVNNAKYAQMAGNPICLDIPWKEPEGDELQ
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1421888,1422070,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+7
+11
+Elymnias_hypermnestra,JACTOM010000094.1,1418611,1418684,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Elymnias_hypermnestra,JACTOM010000094.1,1424628,1424751,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set65_frame2, 0.038
+5 top scores:
+[['set65_frame2', 0.038], ['set83_frame1', 1.815], ['set74_frame0', 1.775], ['set113_frame1', 1.831], ['set43_frame2', 1.841]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_65_frame2.fa.txt
+17 77
+Maniola_jurtina_XM_045915831.1_Frame_1_rightoh_2_query_Exon_9
+WKEGRTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+17 77
+set65_frame2
+WKDGRTGFPFVDAAMRQLRSEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+Original query = WKEGRTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+New query = WKDGRTGFPFVDAAMRQLRSEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1422908,1423075,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+8
+11
+Elymnias_hypermnestra,JACTOM010000094.1,1420882,1421008,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Elymnias_hypermnestra,JACTOM010000094.1,1424628,1424751,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set45_frame2, 0.189
+5 top scores:
+[['set45_frame2', 0.189], ['set41_frame0', 1.745], ['set53_frame2', 1.824], ['set12_frame1', 1.815], ['set16_frame1', 1.797]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_45_frame2.fa.txt
+13 68
+Maniola_jurtina_XM_045915831.1_Frame_1_rightoh_2_query_Exon_10
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELAKMPVEY
+13 68
+set45_frame2
+SVCAGNWMWMSSSAFEGILDSRECACPVRLGRRLEPTGHYVRRYVPELAMMPVEF
+Original query = SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELAKMPVEY
+New query = SVCAGNWMWMSSSAFEGILDSRECACPVRLGRRLEPTGHYVRRYVPELAMMPVEF
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1424628,1424751,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+9
+11
+Elymnias_hypermnestra,JACTOM010000094.1,1421888,1422070,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Elymnias_hypermnestra,JACTOM010000094.1,1424628,1424751,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set55_frame2, 0.151
+5 top scores:
+[['set55_frame2', 0.151], ['set14_frame2', 1.78], ['set46_frame0', 1.8], ['set49_frame2', 1.819], ['set18_frame0', 1.727]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_55_frame2.fa.txt
+4 44
+set55_frame2
+YEPWSAPLDVQQKASCIIGRDYPAPVVDHQASAHRNRSAM
+Original query = YEPWRAPLDVQQKAECIIGRDYPAPVVDHRAAAHRNRSAMQ
+New query = YEPWSAPLDVQQKASCIIGRDYPAPVVDHQASAHRNRSAM
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1409689,1409835,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+1
+4
+Elymnias_hypermnestra,JACTOM010000094.1,1402897,1403026,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Elymnias_hypermnestra,JACTOM010000094.1,1414064,1414180,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Getting Gene
+min = set124_frame2, 0.234
+5 top scores:
+[['set124_frame2', 0.234], ['set135_frame2', 1.75], ['set9_frame0', 1.725], ['set165_frame0', 1.782], ['set45_frame2', 1.782]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_124_frame2.fa.txt
+3 51
+Pararge_aegeria_XM_039898346.1_Frame_2_rightoh_1_query_Exon_2
+TKVVGYNRMRYLLEALNDLDNQFKKYGGRLHMIKGKPDAVFRSLWEEF
+3 51
+set124_frame2
+TKLVGYNRMRYLLEALNDLDCQFKKYGGRLLMIKGKPDVIFRRLWEEF
+Original query = TKVVGYNRMRYLLEALNDLDNQFKKYGGRLHMIKGKPDAVFRSLWEEF
+New query = TKLVGYNRMRYLLEALNDLDCQFKKYGGRLLMIKGKPDVIFRRLWEEF
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1411111,1411298,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+1
+5
+Elymnias_hypermnestra,JACTOM010000094.1,1402897,1403026,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Elymnias_hypermnestra,JACTOM010000094.1,1416238,1416371,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_2_query_Exon_5,1,43,44
+
+Getting Gene
+min = set146_frame2, 0.197
+5 top scores:
+[['set146_frame2', 0.197], ['set156_frame2', 1.813], ['set225_frame2', 1.814], ['set142_frame1', 1.846], ['set162_frame1', 1.849]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_146_frame2.fa.txt
+19 81
+Pararge_aegeria_XM_039898346.1_Frame_2_rightoh_0_query_Exon_3
+IRKICFEQDCEPIWQARDECVRSLCRKIGVGCRENVSHTLWDPDTVIRANGGIPPLTYEMFL
+19 81
+set146_frame2
+IRKICFEQDCEPIWRARDDSVKSLCREVGVRCRENVSHTLWDPDTVIRANGGIPPLTYQMFL
+Original query = IRKICFEQDCEPIWQARDECVRSLCRKIGVGCRENVSHTLWDPDTVIRANGGIPPLTYEMFL
+New query = IRKICFEQDCEPIWRARDDSVKSLCREVGVRCRENVSHTLWDPDTVIRANGGIPPLTYQMFL
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1414064,1414180,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+2
+6
+Elymnias_hypermnestra,JACTOM010000094.1,1409689,1409835,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+Elymnias_hypermnestra,JACTOM010000094.1,1417814,1417909,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Getting Gene
+min = set82_frame1, 0.494
+5 top scores:
+[['set82_frame1', 0.494], ['set115_frame2', 1.735], ['set181_frame2', 1.755], ['set42_frame1', 1.772], ['set24_frame0', 1.764]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_82_frame1.fa.txt
+19 57
+Pararge_aegeria_XM_039898346.1_Frame_0_rightoh_0_query_Exon_4
+HTVGIIGNPPRPVDDVDLTGVNFVTLTDRFYKEFTVYD
+19 57
+set82_frame1
+HTVAIIGDPPRPVEDVDLRGVNFVPLPDCFFKEFTVYE
+Original query = HTVGIIGNPPRPVDDVDLTGVNFVTLTDRFYKEFTVYDT
+New query = HTVAIIGDPPRPVEDVDLRGVNFVPLPDCFFKEFTVYE
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1416238,1416371,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_2_query_Exon_5,1,43,44
+
+3
+7
+Elymnias_hypermnestra,JACTOM010000094.1,1411111,1411298,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+Elymnias_hypermnestra,JACTOM010000094.1,1418611,1418684,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Getting Gene
+min = set106_frame0, 0.292
+5 top scores:
+[['set106_frame0', 0.292], ['set84_frame2', 1.659], ['set40_frame2', 1.729], ['set182_frame2', 1.756], ['set136_frame2', 1.801]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_106_frame0.fa.txt
+0 44
+Pararge_aegeria_XM_039898346.1_Frame_0_rightoh_2_query_Exon_5
+VPKPEDLGIFLETEDIRMIRWVGGETAALSQMQNRLAVEYEAFC
+0 44
+set106_frame0
+VPKPEEFGIFLENEDIRMIHWVGGETAALKQMQSRLQVEYETFC
+Original query = VPKPEDLGIFLETEDIRMIRWVGGETAALSQMQNRLAVEYEAFC
+New query = VPKPEEFGIFLENEDIRMIHWVGGETAALKQMQSRLQVEYETFC
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1417814,1417909,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+4
+8
+Elymnias_hypermnestra,JACTOM010000094.1,1414064,1414180,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Elymnias_hypermnestra,JACTOM010000094.1,1420882,1421008,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Getting Gene
+min = set95_frame1, 0.031
+5 top scores:
+[['set95_frame1', 0.031], ['set136_frame2', 1.634], ['set158_frame1', 1.692], ['set48_frame2', 1.699], ['set124_frame2', 1.726]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_95_frame1.fa.txt
+13 44
+Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_2_query_Exon_6
+GAYLPTHGNPDLLSRPISLSPALRFGCLSVR
+13 44
+set95_frame1
+GSYLPTHGNPDLLSRPISLSPALRFGCLSVR
+Original query = GAYLPTHGNPDLLSRPISLSPALRFGCLSVR
+New query = GSYLPTHGNPDLLSRPISLSPALRFGCLSVR
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1418611,1418684,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+5
+9
+Elymnias_hypermnestra,JACTOM010000094.1,1416238,1416371,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_2_query_Exon_5,1,43,44
+
+Elymnias_hypermnestra,JACTOM010000094.1,1421888,1422070,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Getting Gene
+min = set52_frame1, 0.405
+5 top scores:
+[['set52_frame1', 0.405], ['set55_frame1', 1.536], ['set90_frame1', 1.562], ['set111_frame1', 1.597], ['set7_frame2', 1.61]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_52_frame1.fa.txt
+7 31
+Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_1_query_Exon_7
+FYWCLQDLFQQVHQGRVATTQFIT
+7 31
+set52_frame1
+FYWCLQDLFQKVHQGQHGTSNFIT
+Original query = FYWCLQDLFQQVHQGRVATTQFIT
+New query = FYWCLQDLFQKVHQGQHGTSNFIT
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1420882,1421008,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+6
+10
+Elymnias_hypermnestra,JACTOM010000094.1,1417814,1417909,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Elymnias_hypermnestra,JACTOM010000094.1,1422908,1423075,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+Getting Gene
+min = set65_frame1, 0.185
+5 top scores:
+[['set65_frame1', 0.185], ['set10_frame2', 1.64], ['set73_frame2', 1.72], ['set84_frame2', 1.788], ['set96_frame2', 1.801]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_65_frame1.fa.txt
+11 52
+Pararge_aegeria_XM_039898346.1_Frame_2_rightoh_2_query_Exon_8
+QLIWREYFYTMSVNNPQYAQMAGNPICLDIPWKQPENDELQ
+11 52
+set65_frame1
+QLVWREYFYTMSVNNAKYAQMAGNPICLDIPWKEPEGDELQ
+Original query = QLIWREYFYTMSVNNPQYAQMAGNPICLDIPWKQPENDELQ
+New query = QLVWREYFYTMSVNNAKYAQMAGNPICLDIPWKEPEGDELQ
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1421888,1422070,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+7
+11
+Elymnias_hypermnestra,JACTOM010000094.1,1418611,1418684,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Elymnias_hypermnestra,JACTOM010000094.1,1424628,1424751,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set65_frame2, 0.054
+5 top scores:
+[['set65_frame2', 0.054], ['set83_frame1', 1.815], ['set74_frame0', 1.775], ['set113_frame1', 1.831], ['set43_frame2', 1.841]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_65_frame2.fa.txt
+17 77
+Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_2_query_Exon_9
+WKEGRTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLEHFLKYLLDAD
+17 77
+set65_frame2
+WKDGRTGFPFVDAAMRQLRSEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+Original query = WKEGRTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLEHFLKYLLDAD
+New query = WKDGRTGFPFVDAAMRQLRSEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1422908,1423075,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+8
+11
+Elymnias_hypermnestra,JACTOM010000094.1,1420882,1421008,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Elymnias_hypermnestra,JACTOM010000094.1,1424628,1424751,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set45_frame2, 0.271
+5 top scores:
+[['set45_frame2', 0.271], ['set41_frame0', 1.789], ['set53_frame2', 1.834], ['set12_frame1', 1.815], ['set16_frame1', 1.792]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_45_frame2.fa.txt
+13 68
+Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_2_query_Exon_10
+SVCAGNWMWVSSSAFEALLDSSECVCPVRLGRRLEPSGQYVRRYVPELGNMPVEY
+13 68
+set45_frame2
+SVCAGNWMWMSSSAFEGILDSRECACPVRLGRRLEPTGHYVRRYVPELAMMPVEF
+Original query = SVCAGNWMWVSSSAFEALLDSSECVCPVRLGRRLEPSGQYVRRYVPELGNMPVEY
+New query = SVCAGNWMWMSSSAFEGILDSRECACPVRLGRRLEPTGHYVRRYVPELAMMPVEF
+Scaffold = JACTOM010000094.1, start = 1402897, end = 1403026
+Elymnias_hypermnestra,JACTOM010000094.1,1424628,1424751,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+9
+11
+Elymnias_hypermnestra,JACTOM010000094.1,1421888,1422070,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Elymnias_hypermnestra,JACTOM010000094.1,1424628,1424751,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set55_frame2, 0.263
+5 top scores:
+[['set55_frame2', 0.263], ['set14_frame2', 1.755], ['set2_frame2', 1.832], ['set49_frame2', 1.838], ['set18_frame0', 1.791]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/3.Satyrine/1.Blast_result/Elymnias_hypermnestra/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_55_frame2.fa.txt
+4 44
+set55_frame2
+YEPWSAPLDVQQKASCIIGRDYPAPVVDHQASAHRNRSAM
+Original query = YEPWSAPLEVQQNANCIIGRDYPAPVVDHRACAHRNRNAMQ
+New query = YEPWSAPLDVQQKASCIIGRDYPAPVVDHQASAHRNRSAM

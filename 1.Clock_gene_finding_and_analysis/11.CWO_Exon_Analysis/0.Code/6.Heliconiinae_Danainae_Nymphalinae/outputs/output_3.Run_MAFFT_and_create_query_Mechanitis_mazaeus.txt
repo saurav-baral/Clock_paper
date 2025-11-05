@@ -1,0 +1,456 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = OY365748.1, start = 1454741, end = 1454793
+Mechanitis_mazaeus,OY365748.1,1465274,1465406,0,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+1
+4
+Mechanitis_mazaeus,OY365748.1,1454741,1454793,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Mechanitis_mazaeus,OY365748.1,1467096,1467248,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Getting Gene
+min = set268_frame1, 0.75
+5 top scores:
+[['set268_frame1', 0.75], ['set271_frame2', 1.7], ['set216_frame2', 1.718], ['set266_frame2', 1.747], ['set180_frame2', 1.774]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Mechanitis_mazaeus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_268_frame1.fa.txt
+10 54
+Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2
+SNEEFAR--EPLSFAPPSEDEAEYPPGY-KKGKVSRASHTEYAR
+10 54
+set268_frame1
+NNEEFGRGAEPLSFAPPSEDE-EYPAAYLKKGKVSRASRAEYAQ
+Original query = YSNEEFAREPLSFAPPSEDEAEYPPGYKKGKVSRASHTEYAR
+New query = NNEEFGRGAEPLSFAPPSEDE-EYPAAYLKKGKVSRASRAEYAQ
+Scaffold = OY365748.1, start = 1454741, end = 1454793
+Mechanitis_mazaeus,OY365748.1,1465687,1465870,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Mechanitis_mazaeus,OY365748.1,1454741,1454793,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Mechanitis_mazaeus,OY365748.1,1467727,1467897,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,1,56,56
+
+Getting Gene
+min = set271_frame2, 0.063
+5 top scores:
+[['set271_frame2', 0.063], ['set266_frame2', 1.788], ['set144_frame2', 1.795], ['set59_frame0', 1.837], ['set319_frame1', 1.845]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Mechanitis_mazaeus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_271_frame2.fa.txt
+10 71
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+10 71
+set271_frame2
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = OY365748.1, start = 1454741, end = 1454793
+Mechanitis_mazaeus,OY365748.1,1467096,1467248,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+2
+6
+Mechanitis_mazaeus,OY365748.1,1465274,1465406,0,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+Mechanitis_mazaeus,OY365748.1,1468280,1468464,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6,3,60,60
+
+Getting Gene
+min = set56_frame0, 0.874
+5 top scores:
+[['set56_frame2', 1.752], ['set56_frame0', 0.874], ['set32_frame2', 1.787], ['set1_frame1', 1.798], ['set11_frame1', 1.837]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Mechanitis_mazaeus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_56_frame0.fa.txt
+29 79
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4
+LERGSEFLAGYQRAGAEAVRFV-ELQG-SRDGLADQLAAHLHSHADMMAK
+29 79
+set56_frame0
+ERRGTEFRAGYQQAVAEAVRFLADVQGFGRDGLSVQLASHLQRHCDVVAK
+Original query = LERGSEFLAGYQRAGAEAVRFVELQGSRDGLADQLAAHLHSHADMMAK
+New query = ERRGTEFRAGYQQAVAEAVRFLADVQGFGRDGLSVQLASHLQRHCDVVAK
+Scaffold = OY365748.1, start = 1454741, end = 1454793
+Mechanitis_mazaeus,OY365748.1,1467727,1467897,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,1,56,56
+
+3
+7
+Mechanitis_mazaeus,OY365748.1,1465687,1465870,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Mechanitis_mazaeus,OY365748.1,1468597,1468728,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set42_frame2, 0.378
+5 top scores:
+[['set42_frame2', 0.378], ['set51_frame2', 1.773], ['set53_frame0', 1.744], ['set3_frame1', 1.707], ['set44_frame1', 1.82]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Mechanitis_mazaeus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_42_frame2.fa.txt
+15 71
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5
+AVHEKRVYPNSSSETTSSSSSSQGFAVKVIQRPEPPPAFPEPYEPDRQEHFADCER
+15 71
+set42_frame2
+ALHDKRLYATSSSETASSSSSSQGYAVKVIQRPEPPPAFPEPYEPERKEQLAECDR
+Original query = AVHEKRVYPNSSSETTSSSSSSQGFAVKVIQRPEPPPAFPEPYEPDRQEHFADCER
+New query = ALHDKRLYATSSSETASSSSSSQGYAVKVIQRPEPPPAFPEPYEPERKEQLAECDR
+Scaffold = OY365748.1, start = 1454741, end = 1454793
+Mechanitis_mazaeus,OY365748.1,1468280,1468464,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6,3,60,60
+
+4
+8
+Mechanitis_mazaeus,OY365748.1,1467096,1467248,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Mechanitis_mazaeus,OY365748.1,1468811,1468901,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set25_frame1, 0.646
+5 top scores:
+[['set11_frame0', 1.824], ['set20_frame0', 1.791], ['set22_frame0', 1.868], ['set25_frame1', 0.646], ['set27_frame1', 1.795]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Mechanitis_mazaeus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_25_frame1.fa.txt
+10 71
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6
+SVHQPAVMEPLEGEPLPLDGRVKKEVTLRKIRKPEH-EDYLHSYKFKNSIERRFSRSQDSE
+10 71
+set25_frame1
+VSHTPHKETLQEAESLALDGRVKREPTLRKVRKPDHADDYLHSYKFKNSIERRFSRSQDSE
+Original query = SVHQPAVMEPLEGEPLPLDGRVKKEVTLRKIRKPEHEDYLHSYKFKNSIERRFSRSQDSE
+New query = VSHTPHKETLQEAESLALDGRVKREPTLRKVRKPDHADDYLHSYKFKNSIERRFSRSQDSE
+Scaffold = OY365748.1, start = 1454741, end = 1454793
+Mechanitis_mazaeus,OY365748.1,1468597,1468728,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+5
+8
+Mechanitis_mazaeus,OY365748.1,1467727,1467897,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,1,56,56
+
+Mechanitis_mazaeus,OY365748.1,1468811,1468901,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set15_frame0, 0.6
+5 top scores:
+[['set10_frame2', 1.695], ['set15_frame0', 0.6], ['set23_frame1', 1.714], ['set1_frame2', 1.718], ['set12_frame2', 1.791]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Mechanitis_mazaeus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_15_frame0.fa.txt
+12 57
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7
+GDAWSAGPTAKAYNHKRRRPTKPAPPSTSTSASGSTEEARDTSPQ
+12 57
+set15_frame0
+GDAWRAGP-VKSFAHKRRRCAKPAPPSTTTSGSGSTEDAREHSPQ
+Original query = GDAWSAGPTAKAYNHKRRRPTKPAPPSTSTSASGSTEEARDTSPQ
+New query = GDAWRAGP-VKSFAHKRRRCAKPAPPSTTTSGSGSTEDAREHSPQ
+Scaffold = OY365748.1, start = 1454741, end = 1454793
+Mechanitis_mazaeus,OY365748.1,1468811,1468901,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+6
+8
+Mechanitis_mazaeus,OY365748.1,1468280,1468464,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6,3,60,60
+
+Mechanitis_mazaeus,OY365748.1,1468811,1468901,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set11_frame0, 0.212
+5 top scores:
+[['set3_frame2', 1.531], ['set10_frame0', 1.743], ['set11_frame0', 0.212], ['set1_frame1', 1.702], ['set3_frame1', 1.81]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Mechanitis_mazaeus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_11_frame0.fa.txt
+26 55
+set11_frame0
+DTSSDSPHQHSYDKPPPPAQYVPVFALNA
+Original query = DTCSDSPHHHSFDKPPPPAQYVPVFALNAL
+New query = DTSSDSPHQHSYDKPPPPAQYVPVFALNA
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = OY365748.1, start = 1454741, end = 1454793
+Mechanitis_mazaeus,OY365748.1,1465274,1465406,0,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+1
+4
+Mechanitis_mazaeus,OY365748.1,1454741,1454793,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Mechanitis_mazaeus,OY365748.1,1467096,1467248,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Getting Gene
+min = set268_frame1, 0.92
+5 top scores:
+[['set268_frame1', 0.92], ['set271_frame2', 1.683], ['set230_frame1', 1.733], ['set297_frame1', 1.733], ['set105_frame2', 1.749]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Mechanitis_mazaeus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_268_frame1.fa.txt
+8 47
+Nymphalis_io_XM_050486679.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRAGE-LNFAAPSEDEAEYPPAVFLKKGKVSR
+8 47
+set268_frame1
+FNNNEEFGRGAEPLSFAPPSEDE-EY-PAAYLKKGKVSR
+Original query = YNSNDGFGRAGELNFAAPSEDEAEYPPAVFLKKGKVSR
+New query = FNNNEEFGRGAEPLSFAPPSEDE-EY-PAAYLKKGKVSR
+Scaffold = OY365748.1, start = 1454741, end = 1454793
+Mechanitis_mazaeus,OY365748.1,1465687,1465870,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Mechanitis_mazaeus,OY365748.1,1454741,1454793,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Mechanitis_mazaeus,OY365748.1,1467727,1467897,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,1,56,56
+
+Getting Gene
+min = set271_frame2, 0.0
+5 top scores:
+[['set271_frame2', 0.0], ['set266_frame2', 1.787], ['set144_frame2', 1.795], ['set319_frame1', 1.844], ['set87_frame2', 1.86]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Mechanitis_mazaeus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_271_frame2.fa.txt
+10 71
+Nymphalis_io_XM_050486679.1_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+10 71
+set271_frame2
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = OY365748.1, start = 1454741, end = 1454793
+Mechanitis_mazaeus,OY365748.1,1467096,1467248,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+2
+6
+Mechanitis_mazaeus,OY365748.1,1465274,1465406,0,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+Mechanitis_mazaeus,OY365748.1,1468280,1468464,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6,3,60,60
+
+Getting Gene
+min = set56_frame0, 0.708
+5 top scores:
+[['set61_frame1', 1.796], ['set56_frame0', 0.708], ['set56_frame2', 1.803], ['set11_frame1', 1.835], ['set32_frame2', 1.837]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Mechanitis_mazaeus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_56_frame0.fa.txt
+27 80
+Nymphalis_io_XM_050486679.1_Frame_2_rightoh_1_query_Exon_4
+AERQAGDDYRAGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEFVTK
+27 80
+set56_frame0
+ALERRGTEFRAGYQQAVAEAVRFLADVQGFG-RDGLSVQLASHLQRHCDVVAK
+Original query = AERQAGDDYRAGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEFVTK
+New query = ALERRGTEFRAGYQQAVAEAVRFLADVQGFG-RDGLSVQLASHLQRHCDVVAK
+Scaffold = OY365748.1, start = 1454741, end = 1454793
+Mechanitis_mazaeus,OY365748.1,1467727,1467897,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,1,56,56
+
+3
+7
+Mechanitis_mazaeus,OY365748.1,1465687,1465870,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Mechanitis_mazaeus,OY365748.1,1468597,1468728,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set42_frame2, 1.07
+5 top scores:
+[['set42_frame2', 1.07], ['set51_frame2', 1.762], ['set53_frame0', 1.785], ['set44_frame1', 1.867], ['set25_frame2', 1.866]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Mechanitis_mazaeus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_42_frame2.fa.txt
+14 74
+Nymphalis_io_XM_050486679.1_Frame_2_rightoh_1_query_Exon_5
+EHTRDKPRSHPGSSSETASSSSSSHGFGVKVIQRPELPPFPAETYDHERQEPPYAMECDR
+14 74
+set42_frame2
+EALHDK-RLYATSSSETASSSSSSQGYAVKVIQRPEPPPAFPEPYEPERKE--QLAECDR
+Original query = EHTRDKPRSHPGSSSETASSSSSSHGFGVKVIQRPELPPFPAETYDHERQEPPYAMECDR
+New query = EALHDK-RLYATSSSETASSSSSSQGYAVKVIQRPEPPPAFPEPYEPERKE--QLAECDR
+Scaffold = OY365748.1, start = 1454741, end = 1454793
+Mechanitis_mazaeus,OY365748.1,1468280,1468464,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6,3,60,60
+
+4
+8
+Mechanitis_mazaeus,OY365748.1,1467096,1467248,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Mechanitis_mazaeus,OY365748.1,1468811,1468901,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set25_frame1, 0.563
+5 top scores:
+[['set25_frame1', 0.563], ['set27_frame1', 1.788], ['set13_frame0', 1.836], ['set20_frame0', 1.827], ['set35_frame2', 1.845]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Mechanitis_mazaeus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_25_frame1.fa.txt
+11 71
+Nymphalis_io_XM_050486679.1_Frame_2_rightoh_0_query_Exon_6
+SVLPAAET--DAPDAPLDGRLKKEPALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDTE
+11 71
+set25_frame1
+SHTPHKETLQEAESLALDGRVKREPTLRKVRKPDHADDYLHSYKFKNSIERRFSRSQDSE
+Original query = SVLPAAETDAPDAPLDGRLKKEPALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDTE
+New query = SHTPHKETLQEAESLALDGRVKREPTLRKVRKPDHADDYLHSYKFKNSIERRFSRSQDSE
+Scaffold = OY365748.1, start = 1454741, end = 1454793
+Mechanitis_mazaeus,OY365748.1,1468597,1468728,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+5
+8
+Mechanitis_mazaeus,OY365748.1,1467727,1467897,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,1,56,56
+
+Mechanitis_mazaeus,OY365748.1,1468811,1468901,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set15_frame0, 1.101
+5 top scores:
+[['set10_frame2', 1.676], ['set15_frame0', 1.101], ['set12_frame2', 1.738], ['set1_frame2', 1.638], ['set3_frame2', 1.793]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Mechanitis_mazaeus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_15_frame0.fa.txt
+10 59
+Nymphalis_io_XM_050486679.1_Frame_0_rightoh_0_query_Exon_7
+AEGAGRGAAHGKLYSHKRRRQAKPAAPESTSASTSASASTEDAQDTSPQ
+10 59
+set15_frame0
+TQGDAWRAGPVKSFAHKRRRCAKPAPPSTT---TSGSGSTEDAREHSPQ
+Original query = TAEGAGRGAAHGKLYSHKRRRQAKPAAPESTSASTSASASTEDAQDTSPQ
+New query = TQGDAWRAGPVKSFAHKRRRCAKPAPPSTT---TSGSGSTEDAREHSPQ
+Scaffold = OY365748.1, start = 1454741, end = 1454793
+Mechanitis_mazaeus,OY365748.1,1468811,1468901,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+6
+8
+Mechanitis_mazaeus,OY365748.1,1468280,1468464,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6,3,60,60
+
+Mechanitis_mazaeus,OY365748.1,1468811,1468901,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set11_frame0, 0.214
+5 top scores:
+[['set3_frame2', 1.616], ['set10_frame0', 1.755], ['set11_frame0', 0.214], ['set1_frame1', 1.676], ['set3_frame1', 1.812]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Mechanitis_mazaeus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_11_frame0.fa.txt
+26 55
+set11_frame0
+DTSSDSPHQHSYDKPPPPAQYVPVFALNA
+Original query = DTSSDSPHHHQYDKPPPPTQYVPVFALNSL
+New query = DTSSDSPHQHSYDKPPPPAQYVPVFALNA
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = OY365748.1, start = 1454741, end = 1454793
+Mechanitis_mazaeus,OY365748.1,1465274,1465406,0,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+1
+4
+Mechanitis_mazaeus,OY365748.1,1454741,1454793,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Mechanitis_mazaeus,OY365748.1,1467096,1467248,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Getting Gene
+min = set268_frame1, 0.878
+5 top scores:
+[['set268_frame1', 0.878], ['set271_frame2', 1.641], ['set230_frame1', 1.726], ['set87_frame2', 1.739], ['set105_frame2', 1.749]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Mechanitis_mazaeus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_268_frame1.fa.txt
+8 47
+Vanessa_tameamea_XM_026630430.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRAGE-LNFAAPSEDEADYPPAAYLKKGKVSR
+8 47
+set268_frame1
+FNNNEEFGRGAEPLSFAPPSEDEE--YPAAYLKKGKVSR
+Original query = YNSNDGFGRAGELNFAAPSEDEADYPPAAYLKKGKVSR
+New query = FNNNEEFGRGAEPLSFAPPSEDEE--YPAAYLKKGKVSR
+Scaffold = OY365748.1, start = 1454741, end = 1454793
+Mechanitis_mazaeus,OY365748.1,1465687,1465870,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Mechanitis_mazaeus,OY365748.1,1454741,1454793,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Mechanitis_mazaeus,OY365748.1,1467727,1467897,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,1,56,56
+
+Getting Gene
+min = set271_frame2, 0.045
+5 top scores:
+[['set271_frame2', 0.045], ['set59_frame2', 1.794], ['set266_frame2', 1.798], ['set319_frame1', 1.85], ['set87_frame2', 1.86]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Mechanitis_mazaeus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_271_frame2.fa.txt
+6 71
+Vanessa_tameamea_XM_026630430.1_Frame_0_rightoh_1_query_Exon_3
+VLLQQDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+6 71
+set271_frame2
+FFLQQDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = VLLQQDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+New query = FFLQQDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = OY365748.1, start = 1454741, end = 1454793
+Mechanitis_mazaeus,OY365748.1,1467096,1467248,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+2
+6
+Mechanitis_mazaeus,OY365748.1,1465274,1465406,0,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+Mechanitis_mazaeus,OY365748.1,1468280,1468464,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6,3,60,60
+
+Getting Gene
+min = set56_frame0, 0.707
+5 top scores:
+[['set61_frame1', 1.795], ['set56_frame0', 0.707], ['set27_frame2', 1.805], ['set56_frame2', 1.807], ['set32_frame2', 1.839]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Mechanitis_mazaeus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_56_frame0.fa.txt
+27 80
+Vanessa_tameamea_XM_026630430.1_Frame_2_rightoh_1_query_Exon_4
+AERQAGDDYRTGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEIVTK
+27 80
+set56_frame0
+ALERRGTEFRAGYQQAVAEAVRFLADVQGFG-RDGLSVQLASHLQRHCDVVAK
+Original query = AERQAGDDYRTGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEIVTK
+New query = ALERRGTEFRAGYQQAVAEAVRFLADVQGFG-RDGLSVQLASHLQRHCDVVAK
+Scaffold = OY365748.1, start = 1454741, end = 1454793
+Mechanitis_mazaeus,OY365748.1,1467727,1467897,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,1,56,56
+
+3
+7
+Mechanitis_mazaeus,OY365748.1,1465687,1465870,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Mechanitis_mazaeus,OY365748.1,1468597,1468728,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set42_frame2, 1.07
+5 top scores:
+[['set42_frame2', 1.07], ['set51_frame2', 1.762], ['set53_frame0', 1.785], ['set44_frame1', 1.867], ['set25_frame2', 1.866]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Mechanitis_mazaeus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_42_frame2.fa.txt
+14 74
+Vanessa_tameamea_XM_026630430.1_Frame_2_rightoh_1_query_Exon_5
+EHTRDKPRSHPGSSSETASSSSSSHGFGVKVIQRPELPPFPAETYDHERQEPPYAMECDR
+14 74
+set42_frame2
+EALHDK-RLYATSSSETASSSSSSQGYAVKVIQRPEPPPAFPEPYEPERKE--QLAECDR
+Original query = EHTRDKPRSHPGSSSETASSSSSSHGFGVKVIQRPELPPFPAETYDHERQEPPYAMECDR
+New query = EALHDK-RLYATSSSETASSSSSSQGYAVKVIQRPEPPPAFPEPYEPERKE--QLAECDR
+Scaffold = OY365748.1, start = 1454741, end = 1454793
+Mechanitis_mazaeus,OY365748.1,1468280,1468464,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6,3,60,60
+
+4
+8
+Mechanitis_mazaeus,OY365748.1,1467096,1467248,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Mechanitis_mazaeus,OY365748.1,1468811,1468901,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set25_frame1, 0.688
+5 top scores:
+[['set11_frame0', 1.829], ['set20_frame0', 1.821], ['set22_frame0', 1.824], ['set25_frame1', 0.688], ['set27_frame1', 1.799]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Mechanitis_mazaeus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_25_frame1.fa.txt
+4 71
+Vanessa_tameamea_XM_026630430.1_Frame_2_rightoh_0_query_Exon_6
+SLLPAAEADAP------RAPRAPLDGRLKREAALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDTE
+4 71
+set25_frame1
+TIIAVPVSHTPHKETLQEAESLALDGRVKREPTLRKVRKPDHADDYLHSYKFKNSIERRFSRSQDSE
+Original query = SLLPAAEADAPRAPRAPLDGRLKREAALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDTE
+New query = TIIAVPVSHTPHKETLQEAESLALDGRVKREPTLRKVRKPDHADDYLHSYKFKNSIERRFSRSQDSE
+Scaffold = OY365748.1, start = 1454741, end = 1454793
+Mechanitis_mazaeus,OY365748.1,1468597,1468728,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+5
+8
+Mechanitis_mazaeus,OY365748.1,1467727,1467897,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,1,56,56
+
+Mechanitis_mazaeus,OY365748.1,1468811,1468901,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set15_frame0, 1.144
+5 top scores:
+[['set10_frame2', 1.703], ['set15_frame0', 1.144], ['set23_frame1', 1.714], ['set1_frame2', 1.692], ['set12_frame2', 1.731]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Mechanitis_mazaeus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_15_frame0.fa.txt
+13 63
+Vanessa_tameamea_XM_026630430.1_Frame_0_rightoh_0_query_Exon_7
+SAEGAAHGKLYSHKRRRQAKPCAPPSTSASASASTSASASTEDAQDTSPQ
+13 63
+set15_frame0
+DAWRAGPVKSFAHKRRRCAKP-APPST------TTSGSGSTEDAREHSPQ
+Original query = SAEGAAHGKLYSHKRRRQAKPCAPPSTSASASASTSASASTEDAQDTSPQ
+New query = DAWRAGPVKSFAHKRRRCAKP-APPST------TTSGSGSTEDAREHSPQ
+Scaffold = OY365748.1, start = 1454741, end = 1454793
+Mechanitis_mazaeus,OY365748.1,1468811,1468901,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+6
+8
+Mechanitis_mazaeus,OY365748.1,1468280,1468464,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6,3,60,60
+
+Mechanitis_mazaeus,OY365748.1,1468811,1468901,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set11_frame0, 0.214
+5 top scores:
+[['set3_frame2', 1.616], ['set10_frame0', 1.755], ['set11_frame0', 0.214], ['set1_frame1', 1.676], ['set3_frame1', 1.812]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Mechanitis_mazaeus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_11_frame0.fa.txt
+26 55
+set11_frame0
+DTSSDSPHQHSYDKPPPPAQYVPVFALNA
+Original query = DTSSDSPHHHQYDKPPPPTQYVPVFALNSL
+New query = DTSSDSPHQHSYDKPPPPAQYVPVFALNA

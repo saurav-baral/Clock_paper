@@ -1,0 +1,1350 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13647227,13647410,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Melitaea_cinxia,NC_059400.1,13646785,13647038,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Melitaea_cinxia,NC_059400.1,13647928,13648184,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set17_frame2, 0.167
+5 top scores:
+[['set17_frame2', 0.167], ['set6_frame0', 1.857], ['set10_frame0', 1.752], ['set11_frame0', 1.804], ['set8_frame1', 1.803]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_17_frame2.fa.txt
+25 86
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPVERNDRHNYLQILSHLQSYKEDAFTKVENWQVFAKKLGKVLEI
+25 86
+set17_frame2
+LLVNLTNPALLLYREEVPVERTARHNYLQILSHLQSYKEEAFTKVENWQVFAKKLAKILEI
+Original query = LIVNLTNPALLLYREEVPVERNDRHNYLQILSHLQSYKEDAFTKVENWQVFAKKLGKVLEI
+New query = LLVNLTNPALLLYREEVPVERTARHNYLQILSHLQSYKEEAFTKVENWQVFAKKLAKILEI
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13647601,13647735,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Melitaea_cinxia,NC_059400.1,13646785,13647038,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Melitaea_cinxia,NC_059400.1,13649201,13649398,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set10_frame0, 0.011
+5 top scores:
+[['set11_frame0', 1.712], ['set3_frame0', 1.723], ['set17_frame2', 1.741], ['set61_frame2', 1.761], ['set10_frame0', 0.011]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_10_frame0.fa.txt
+19 64
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+19 64
+set10_frame0
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Original query = DWSERDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+New query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13647928,13648184,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Melitaea_cinxia,NC_059400.1,13647227,13647410,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Melitaea_cinxia,NC_059400.1,13656999,13657181,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set8_frame2, 0.204
+5 top scores:
+[['set8_frame2', 0.204], ['set103_frame2', 1.836], ['set129_frame2', 1.847], ['set141_frame0', 1.867], ['set127_frame2', 1.87]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_8_frame2.fa.txt
+0 85
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPSSLADAALQRSVDEKVRDDQELLMIRMTENKDRMNKIRHYSST
+0 85
+set8_frame2
+VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALHRSVDEKLRDDQELLTMRMSESKERMNKVKQYSST
+Original query = VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPSSLADAALQRSVDEKVRDDQELLMIRMTENKDRMNKIRHYSST
+New query = VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALHRSVDEKLRDDQELLTMRMSESKERMNKVKQYSST
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13649201,13649398,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Melitaea_cinxia,NC_059400.1,13647601,13647735,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Melitaea_cinxia,NC_059400.1,13657799,13658086,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set42_frame2, 0.156
+5 top scores:
+[['set42_frame2', 0.156], ['set127_frame2', 1.756], ['set17_frame0', 1.819], ['set96_frame1', 1.832], ['set58_frame0', 1.804]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_42_frame2.fa.txt
+14 79
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVQNMKSISDNELICLKPLNKISNLDFNGSKKQKLVKPKNRRPTESGTMERRSAFAI
+14 79
+set42_frame2
+HSRFGGTYVIQNMKSVSDNQLICLKPLNKISNLNFNGSKKSKFVKPKNRRPTESGMLERRSAFAI
+Original query = HSRFGGTYVVQNMKSISDNELICLKPLNKISNLDFNGSKKQKLVKPKNRRPTESGTMERRSAFAI
+New query = HSRFGGTYVIQNMKSVSDNQLICLKPLNKISNLNFNGSKKSKFVKPKNRRPTESGMLERRSAFAI
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13656999,13657181,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+9
+Melitaea_cinxia,NC_059400.1,13647928,13648184,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Melitaea_cinxia,NC_059400.1,13667236,13667383,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,10,48,48
+
+Getting Gene
+min = set159_frame0, 0.144
+5 top scores:
+[['set159_frame0', 0.144], ['set249_frame0', 1.734], ['set319_frame2', 1.754], ['set161_frame1', 1.766], ['set320_frame2', 1.775]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_159_frame0.fa.txt
+7 67
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNVLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRAHDFQVGFV
+7 67
+set159_frame0
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+Original query = LFLKEFCIEFLNSSYNVLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRAHDFQVGFV
+New query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13657799,13658086,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Melitaea_cinxia,NC_059400.1,13649201,13649398,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Melitaea_cinxia,NC_059400.1,13667236,13667383,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,10,48,48
+
+Getting Gene
+min = set121_frame1, 0.303
+5 top scores:
+[['set121_frame1', 0.303], ['set139_frame2', 1.844], ['set97_frame2', 1.86], ['set76_frame2', 1.87], ['set233_frame0', 1.852]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_121_frame1.fa.txt
+9 104
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQMEKYYDMISVEKKKFTNWVRRLHLALRAYKELLHTLLAMDASKDHTVRESAKVLKSNIFYVLEYREFILSMYLNYDENKMP
+9 104
+set121_frame1
+ETMSVPTFYYVQQQMEKYYDMIKVEKKKFSVWVRRLHLALRAYKELLNTLLAMDKSDDNTVKDSAKVLKSNIFYVLEYREFILFIVLNYDDNKMP
+Original query = ETMSVPMFHYVQQQMEKYYDMISVEKKKFTNWVRRLHLALRAYKELLHTLLAMDASKDHTVRESAKVLKSNIFYVLEYREFILSMYLNYDENKMP
+New query = ETMSVPTFYYVQQQMEKYYDMIKVEKKKFSVWVRRLHLALRAYKELLNTLLAMDKSDDNTVKDSAKVLKSNIFYVLEYREFILFIVLNYDDNKMP
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13658842,13658960,0,Y,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8,1,29,39
+
+6
+10
+Melitaea_cinxia,NC_059400.1,13656999,13657181,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Melitaea_cinxia,NC_059400.1,13671646,13671726,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set67_frame2, 0.071
+5 top scores:
+[['set67_frame2', 0.071], ['set57_frame1', 1.655], ['set224_frame1', 1.677], ['set177_frame2', 1.686], ['set290_frame2', 1.695]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_67_frame2.fa.txt
+27 66
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLVETVHLFLKMLEHYCKRTGLVVQKKVRKKTKAK
+27 66
+set67_frame2
+SYLVDLIETVHLFLKMLEHYCKKTGLVVQKKVRKKTKSK
+Original query = SYLVDLVETVHLFLKMLEHYCKRTGLVVQKKVRKKTKAK
+New query = SYLVDLIETVHLFLKMLEHYCKKTGLVVQKKVRKKTKSK
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13667236,13667383,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,10,48,48
+
+7
+11
+Melitaea_cinxia,NC_059400.1,13657799,13658086,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Melitaea_cinxia,NC_059400.1,13671827,13671936,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Getting Gene
+min = set198_frame1, 0.496
+5 top scores:
+[['set198_frame1', 0.496], ['set177_frame1', 1.766], ['set224_frame1', 1.777], ['set237_frame2', 1.78], ['set187_frame1', 1.797]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_198_frame1.fa.txt
+31 80
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9
+QKPK-IKPKVIELSPWEEIRPQLAAVLSSGVEHYLPPFDAASETPIDQQ
+31 80
+set198_frame1
+QKPKPQKPKQVEIPRWEEIRPQIAAVLTSGVEEYPPPFDAASDTPIDQQ
+Original query = QKPKIKPKVIELSPWEEIRPQLAAVLSSGVEHYLPPFDAASETPIDQQ
+New query = QKPKPQKPKQVEIPRWEEIRPQIAAVLTSGVEEYPPPFDAASDTPIDQQ
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13671646,13671726,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+7
+12
+13
+14
+Melitaea_cinxia,NC_059400.1,13657799,13658086,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Melitaea_cinxia,NC_059400.1,13678299,13678497,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set315_frame0, 0.485
+5 top scores:
+[['set315_frame0', 0.485], ['set337_frame1', 1.536], ['set43_frame2', 1.556], ['set371_frame2', 1.566], ['set421_frame2', 1.621]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_315_frame0.fa.txt
+10 36
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQRLMRDHKYEDVIGTFRAA
+10 36
+set315_frame0
+EDCMKKIQKLMRVHNYEGAVGTLRAA
+Original query = EDCMKKIQRLMRDHKYEDVIGTFRAA
+New query = EDCMKKIQKLMRVHNYEGAVGTLRAA
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13671827,13671936,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+9
+13
+14
+Melitaea_cinxia,NC_059400.1,13667236,13667383,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,10,48,48
+
+Melitaea_cinxia,NC_059400.1,13678299,13678497,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set94_frame2, 0.276
+5 top scores:
+[['set94_frame2', 0.276], ['set246_frame1', 1.723], ['set62_frame2', 1.736], ['set184_frame2', 1.755], ['set143_frame1', 1.788]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_94_frame2.fa.txt
+2 37
+set94_frame2
+EVWPEEGIFGVEGIPEDEELDMLETIYNTDLGVDV
+Original query = EVWPEDGIFGVSGMPEDEELDMLETIYNTDLGLDYE
+New query = EVWPEEGIFGVEGIPEDEELDMLETIYNTDLGVDV
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,0,0,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_12,0,0,14
+
+10
+14
+Melitaea_cinxia,NC_059400.1,13671646,13671726,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Melitaea_cinxia,NC_059400.1,13678299,13678497,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set52_frame1, 1.212
+5 top scores:
+[['set52_frame1', 1.212], ['set100_frame2', 1.224], ['set77_frame1', 1.504], ['set157_frame1', 1.54], ['set10_frame2', 1.553]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_52_frame1.fa.txt
+18 32
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_12
+AQHEDAQEYSEDED
+18 32
+set52_frame1
+INEEETQENSEYDD
+Original query = AQHEDAQEYSEDED
+New query = INEEETQENSEYDD
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13677276,13677342,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,5,20,21
+
+11
+15
+Melitaea_cinxia,NC_059400.1,13671827,13671936,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Melitaea_cinxia,NC_059400.1,13681715,13681863,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set132_frame0, 0.56
+5 top scores:
+[['set132_frame0', 0.56], ['set16_frame1', 1.567], ['set140_frame1', 1.569], ['set214_frame2', 1.608], ['set145_frame2', 1.637]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_132_frame0.fa.txt
+10 30
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13
+EDEEQGSAIVETDFDFQDFV
+10 30
+set132_frame0
+DEEDKTTSIVETDFDFQDFV
+Original query = EDEEQGSAIVETDFDFQDFVL
+New query = DEEDKTTSIVETDFDFQDFV
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13678299,13678497,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Melitaea_cinxia,NC_059400.1,13671827,13671936,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Melitaea_cinxia,NC_059400.1,13684377,13684471,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Getting Gene
+min = set154_frame2, 0.289
+5 top scores:
+[['set154_frame2', 0.289], ['set235_frame1', 1.824], ['set143_frame1', 1.837], ['set235_frame0', 1.831], ['set70_frame2', 1.843]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_154_frame2.fa.txt
+34 100
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14
+FCHPKIVSACVCLLERYDKNRSHTNHCIVKMLHRIAFDCNRPAMMFQATLFLTFQKILHNPMPHLK
+34 100
+set154_frame2
+FCHPRVVSSCVSLLEHYDKNPPHTNHCIVKMLHRIAWDCRRPAMMFQATLFLIFQKILHNPAPHLK
+Original query = FCHPKIVSACVCLLERYDKNRSHTNHCIVKMLHRIAFDCNRPAMMFQATLFLTFQKILHNPMPHLK
+New query = FCHPRVVSSCVSLLEHYDKNPPHTNHCIVKMLHRIAWDCRRPAMMFQATLFLIFQKILHNPAPHLK
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13681715,13681863,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+12
+11
+17
+Melitaea_cinxia,NC_059400.1,13671827,13671936,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Melitaea_cinxia,NC_059400.1,13686963,13687169,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+Getting Gene
+min = set235_frame0, 0.275
+5 top scores:
+[['set235_frame0', 0.275], ['set91_frame1', 1.717], ['set83_frame2', 1.723], ['set64_frame0', 1.747], ['set273_frame2', 1.761]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_235_frame0.fa.txt
+5 54
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFAIFILRKFADIASKSGKVFIELLFWKNSKDAVEIEHGYNLYNDP
+5 54
+set235_frame0
+ELEKFAIFVLRKFTEIASNSGKVFIELLFWKNSKDAVEIELGYDLYNDQ
+Original query = ELEKFAIFILRKFADIASKSGKVFIELLFWKNSKDAVEIEHGYNLYNDP
+New query = ELEKFAIFVLRKFTEIASNSGKVFIELLFWKNSKDAVEIELGYDLYNDQ
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13684377,13684471,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+14
+18
+Melitaea_cinxia,NC_059400.1,13678299,13678497,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Melitaea_cinxia,NC_059400.1,13689339,13689473,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,37,44
+
+Getting Gene
+min = set136_frame1, 0.376
+5 top scores:
+[['set136_frame1', 0.376], ['set139_frame2', 1.62], ['set229_frame2', 1.633], ['set62_frame2', 1.727], ['set29_frame0', 1.658]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_136_frame1.fa.txt
+5 36
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16
+DKLGKASWSEEQEDELRNLYMENQTNPQTDQ
+5 36
+set136_frame1
+DKPGKAHWTTEQEDELRKLYMENQTNPENDQ
+Original query = DKLGKASWSEEQEDELRNLYMENQTNPQTDQ
+New query = DKPGKAHWTTEQEDELRKLYMENQTNPENDQ
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13686963,13687169,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+15
+19
+20
+Melitaea_cinxia,NC_059400.1,13681715,13681863,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Melitaea_cinxia,NC_059400.1,13692878,13693074,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+Getting Gene
+min = set148_frame0, 0.418
+5 top scores:
+[['set57_frame0', 1.773], ['set26_frame1', 1.798], ['set148_frame0', 0.418], ['set203_frame2', 1.818], ['set192_frame0', 1.679]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_148_frame0.fa.txt
+13 81
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFNAPTKKSNKARTEKVTKDFTEEEDKLLTELWTQNAESQ
+13 81
+set148_frame0
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFKAPTKRSNKERREKVPKHFTEDEDNLLRELWKQYEGSS
+Original query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFNAPTKKSNKARTEKVTKDFTEEEDKLLTELWTQNAESQ
+New query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFKAPTKRSNKERREKVPKHFTEDEDNLLRELWKQYEGSS
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13689339,13689473,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,37,44
+
+16
+20
+Melitaea_cinxia,NC_059400.1,13684377,13684471,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Melitaea_cinxia,NC_059400.1,13692878,13693074,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+Getting Gene
+min = set128_frame2, 0.72
+5 top scores:
+[['set128_frame2', 0.72], ['set1_frame2', 1.748], ['set124_frame2', 1.788], ['set76_frame0', 1.792], ['set116_frame2', 1.792]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_128_frame2.fa.txt
+6 47
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18
+PMSVIMERMPRNRSKRTFVERLLRLGLIDDKKQCRKKSIKN
+6 47
+set128_frame2
+PMGLIIARMPRKRSKRSFVDRMLELCIIEDKKQCRKKKQSK
+Original query = PMSVIMERMPRNRSKRTFVERLLRLGLIDDKKQCRKKSIKNISG
+New query = PMGLIIARMPRKRSKRSFVDRMLELCIIEDKKQCRKKKQSK
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,0,0,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19,0,0,61
+
+17
+21
+Melitaea_cinxia,NC_059400.1,13686963,13687169,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+Melitaea_cinxia,NC_059400.1,13693646,13694069,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,152,154
+
+Getting Gene
+min = set77_frame1, 1.264
+5 top scores:
+[['set77_frame1', 1.264], ['set175_frame2', 1.673], ['set1_frame2', 1.784], ['set60_frame0', 1.753], ['set131_frame2', 1.811]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_77_frame1.fa.txt
+24 85
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19
+NSSDSESSKSEDEDAPPKRPTIKIKSKKNLTKSKQSNKKSAESLELSANEIAELLVQAVEN
+24 85
+set77_frame1
+SSSESEHSSSDSDNDVRPPPSLTIKPKNKAVNKKEKRKQPATGKGLSAGEIVKLFSQAVDS
+Original query = NSSDSESSKSEDEDAPPKRPTIKIKSKKNLTKSKQSNKKSAESLELSANEIAELLVQAVEN
+New query = SSSESEHSSSDSDNDVRPPPSLTIKPKNKAVNKKEKRKQPATGKGLSAGEIVKLFSQAVDS
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13692878,13693074,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+18
+21
+Melitaea_cinxia,NC_059400.1,13689339,13689473,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,37,44
+
+Melitaea_cinxia,NC_059400.1,13693646,13694069,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,152,154
+
+Getting Gene
+min = set69_frame1, 0.429
+5 top scores:
+[['set69_frame1', 0.429], ['set131_frame2', 1.8], ['set46_frame0', 1.896], ['set55_frame0', 1.907], ['set57_frame0', 1.879]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_69_frame1.fa.txt
+18 82
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20
+TEALNWLSENLEEVALDQEAEGFDPTSEGTPLVPISRESVQAIQDDLFRRVLKSLGIVPPVDEQ
+18 82
+set69_frame1
+TEALKWLAENLEEVALDQEAEGFDPTSEGTPLVPISSDSVKAMENPIFIKALKSIGVVPPSDEQ
+Original query = HTEALNWLSENLEEVALDQEAEGFDPTSEGTPLVPISRESVQAIQDDLFRRVLKSLGIVPPVDEQ
+New query = TEALKWLAENLEEVALDQEAEGFDPTSEGTPLVPISSDSVKAMENPIFIKALKSIGVVPPSDEQ
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13693646,13694069,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,152,154
+
+19
+18
+21
+Melitaea_cinxia,NC_059400.1,13689339,13689473,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,37,44
+
+Melitaea_cinxia,NC_059400.1,13693646,13694069,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,152,154
+
+Getting Gene
+min = set131_frame2, 1.085
+5 top scores:
+[['set131_frame2', 1.085]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_131_frame2.fa.txt
+10 165
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21
+ETYWRIPSSLHYETIRKRREIITKAVNKELIIDNRAAPETKKDNNDNGNNGNHNINDESDASDDDLFDNLRKI--AKKSSETDNNPKSKNRKRTRSFESDDENKKKQRKDNIKDKDDENENENKDSDDDLLSFVKNTLHTELPDTEDILNALPEH
+10 165
+set131_frame2
+ETYWRIPSSLHHKTIRKRREIILKAVNNELIIDN------TNENNKQNDEPTQNNDSNDESSDDDLFDKLRMMRDATPYKSDNSNKVTDNRKRDRSVESNEENNRKMPK------------IDEDDSEDILSFAKKTLQTDLPDTEDILSDLPQR
+Original query = ETYWRIPSSLHYETIRKRREIITKAVNKELIIDNRAAPETKKDNNDNGNNGNHNINDESDASDDDLFDNLRKIAKKSSETDNNPKSKNRKRTRSFESDDENKKKQRKDNIKDKDDENENENKDSDDDLLSFVKNTLHTELPDTEDILNALPEHS
+New query = ETYWRIPSSLHHKTIRKRREIILKAVNNELIIDN------TNENNKQNDEPTQNNDSNDESSDDDLFDKLRMMRDATPYKSDNSNKVTDNRKRDRSVESNEENNRKMPK------------IDEDDSEDILSFAKKTLQTDLPDTEDILSDLPQR
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13647227,13647410,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Melitaea_cinxia,NC_059400.1,13646785,13647038,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Melitaea_cinxia,NC_059400.1,13647928,13648184,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set17_frame2, 0.099
+5 top scores:
+[['set17_frame2', 0.099], ['set6_frame0', 1.857], ['set10_frame0', 1.709], ['set11_frame0', 1.767], ['set8_frame1', 1.812]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_17_frame2.fa.txt
+25 86
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_0_query_Exon_2
+LLVNLTNPALLLYREEVPVDRTARHNYLQILTHLQSYKEEAFTKVETWQVFARKLAKILEI
+25 86
+set17_frame2
+LLVNLTNPALLLYREEVPVERTARHNYLQILSHLQSYKEEAFTKVENWQVFAKKLAKILEI
+Original query = LLVNLTNPALLLYREEVPVDRTARHNYLQILTHLQSYKEEAFTKVETWQVFARKLAKILEI
+New query = LLVNLTNPALLLYREEVPVERTARHNYLQILSHLQSYKEEAFTKVENWQVFAKKLAKILEI
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13647601,13647735,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Melitaea_cinxia,NC_059400.1,13646785,13647038,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Melitaea_cinxia,NC_059400.1,13649201,13649398,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set10_frame0, 0.0
+5 top scores:
+[['set11_frame0', 1.712], ['set3_frame0', 1.716], ['set17_frame2', 1.751], ['set61_frame2', 1.761], ['set10_frame0', 0.0]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_10_frame0.fa.txt
+19 64
+Nymphalis_io_XM_050487249.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+19 64
+set10_frame0
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+New query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13647928,13648184,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Melitaea_cinxia,NC_059400.1,13647227,13647410,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Melitaea_cinxia,NC_059400.1,13656999,13657181,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set8_frame2, 0.104
+5 top scores:
+[['set8_frame2', 0.104], ['set103_frame2', 1.795], ['set129_frame2', 1.853], ['set141_frame0', 1.866], ['set136_frame1', 1.879]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_8_frame2.fa.txt
+0 85
+Nymphalis_io_XM_050487249.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLRDEQELLTMRMTETKERMNKVKMYSST
+0 85
+set8_frame2
+VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALHRSVDEKLRDDQELLTMRMSESKERMNKVKQYSST
+Original query = VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLRDEQELLTMRMTETKERMNKVKMYSST
+New query = VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALHRSVDEKLRDDQELLTMRMSESKERMNKVKQYSST
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13649201,13649398,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Melitaea_cinxia,NC_059400.1,13647601,13647735,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Melitaea_cinxia,NC_059400.1,13657799,13658086,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set42_frame2, 0.247
+5 top scores:
+[['set42_frame2', 0.247], ['set127_frame2', 1.773], ['set81_frame2', 1.802], ['set70_frame2', 1.832], ['set132_frame2', 1.843]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_42_frame2.fa.txt
+14 79
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVRNMKSISENELISFKPLNKISGFDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+14 79
+set42_frame2
+HSRFGGTYVIQNMKSVSDNQLICLKPLNKISNLNFNGSKKSKFVKPKNRRPTESGMLERRSAFAI
+Original query = HSRFGGTYVVRNMKSISENELISFKPLNKISGFDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+New query = HSRFGGTYVIQNMKSVSDNQLICLKPLNKISNLNFNGSKKSKFVKPKNRRPTESGMLERRSAFAI
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13656999,13657181,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+9
+Melitaea_cinxia,NC_059400.1,13647928,13648184,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Melitaea_cinxia,NC_059400.1,13667236,13667383,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,10,48,48
+
+Getting Gene
+min = set159_frame0, 0.028
+5 top scores:
+[['set159_frame0', 0.028], ['set249_frame0', 1.758], ['set319_frame2', 1.759], ['set161_frame1', 1.778], ['set59_frame2', 1.789]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_159_frame0.fa.txt
+7 67
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHDFQVGLV
+7 67
+set159_frame0
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+Original query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHDFQVGLV
+New query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13657799,13658086,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Melitaea_cinxia,NC_059400.1,13649201,13649398,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Melitaea_cinxia,NC_059400.1,13667236,13667383,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,10,48,48
+
+Getting Gene
+min = set121_frame1, 0.553
+5 top scores:
+[['set121_frame1', 0.553], ['set97_frame2', 1.832], ['set76_frame2', 1.864], ['set139_frame2', 1.875], ['set233_frame0', 1.822]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_121_frame1.fa.txt
+9 104
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPTFHYVQQQMEKYTDMIKVEKKKFPVWVRRLHLALRAYAELLRSLRALQRA-PGAAREAARVLQSNVFYVPEYRELVLAMFLNYDENKMP
+9 104
+set121_frame1
+ETMSVPTFYYVQQQMEKYYDMIKVEKKKFSVWVRRLHLALRAYKELLNTLLAMDKSDDNTVKDSAKVLKSNIFYVLEYREFILFIVLNYDDNKMP
+Original query = ETMSVPTFHYVQQQMEKYTDMIKVEKKKFPVWVRRLHLALRAYAELLRSLRALQRAPGAAREAARVLQSNVFYVPEYRELVLAMFLNYDENKMP
+New query = ETMSVPTFYYVQQQMEKYYDMIKVEKKKFSVWVRRLHLALRAYKELLNTLLAMDKSDDNTVKDSAKVLKSNIFYVLEYREFILFIVLNYDDNKMP
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13658842,13658960,0,Y,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8,1,29,39
+
+6
+10
+Melitaea_cinxia,NC_059400.1,13656999,13657181,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Melitaea_cinxia,NC_059400.1,13671646,13671726,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set67_frame2, 0.304
+5 top scores:
+[['set67_frame2', 0.304], ['set208_frame2', 1.701], ['set267_frame2', 1.706], ['set130_frame2', 1.722], ['set126_frame2', 1.726]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_67_frame2.fa.txt
+27 66
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLVETEHLFLKMLEHFCKNTGLVVQKKVRKKGKPK
+27 66
+set67_frame2
+SYLVDLIETVHLFLKMLEHYCKKTGLVVQKKVRKKTKSK
+Original query = SYLVDLVETEHLFLKMLEHFCKNTGLVVQKKVRKKGKPK
+New query = SYLVDLIETVHLFLKMLEHYCKKTGLVVQKKVRKKTKSK
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13667236,13667383,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,10,48,48
+
+7
+11
+Melitaea_cinxia,NC_059400.1,13657799,13658086,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Melitaea_cinxia,NC_059400.1,13671827,13671936,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Getting Gene
+min = set198_frame1, 0.386
+5 top scores:
+[['set198_frame1', 0.386], ['set290_frame0', 1.755], ['set255_frame2', 1.775], ['set51_frame0', 1.767], ['set68_frame0', 1.72]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_198_frame1.fa.txt
+31 80
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_2_query_Exon_9
+QKPRPPKPKEVETPQWEEVRPQVAAVLAARVAELPPPFDAAADTPIDQQ
+31 80
+set198_frame1
+QKPKPQKPKQVEIPRWEEIRPQIAAVLTSGVEEYPPPFDAASDTPIDQQ
+Original query = QKPRPPKPKEVETPQWEEVRPQVAAVLAARVAELPPPFDAAADTPIDQQ
+New query = QKPKPQKPKQVEIPRWEEIRPQIAAVLTSGVEEYPPPFDAASDTPIDQQ
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13671646,13671726,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+7
+12
+13
+14
+Melitaea_cinxia,NC_059400.1,13657799,13658086,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Melitaea_cinxia,NC_059400.1,13678299,13678497,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set315_frame0, 0.196
+5 top scores:
+[['set315_frame0', 0.196], ['set98_frame2', 1.542], ['set450_frame0', 1.624], ['set400_frame2', 1.637], ['set45_frame2', 1.644]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_315_frame0.fa.txt
+10 36
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRDHKYEGAVGTLRAA
+10 36
+set315_frame0
+EDCMKKIQKLMRVHNYEGAVGTLRAA
+Original query = EDCMKKIQKLMRDHKYEGAVGTLRAA
+New query = EDCMKKIQKLMRVHNYEGAVGTLRAA
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13671827,13671936,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+9
+13
+14
+Melitaea_cinxia,NC_059400.1,13667236,13667383,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,10,48,48
+
+Melitaea_cinxia,NC_059400.1,13678299,13678497,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set94_frame2, 0.292
+5 top scores:
+[['set94_frame2', 0.292], ['set182_frame1', 1.742], ['set184_frame2', 1.754], ['set166_frame1', 1.76], ['set82_frame2', 1.778]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_94_frame2.fa.txt
+2 37
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGDTGITEDEELDMLETIYNTDLGVEA
+2 37
+set94_frame2
+EVWPEEGIFGVEGIPEDEELDMLETIYNTDLGVDV
+Original query = EVWPEEGIFGDTGITEDEELDMLETIYNTDLGVEA
+New query = EVWPEEGIFGVEGIPEDEELDMLETIYNTDLGVDV
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,0,0,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_12,0,0,14
+
+10
+14
+Melitaea_cinxia,NC_059400.1,13671646,13671726,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Melitaea_cinxia,NC_059400.1,13678299,13678497,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set52_frame1, 0.577
+5 top scores:
+[['set52_frame1', 0.577], ['set33_frame1', 1.4], ['set135_frame1', 1.458], ['set100_frame2', 1.499], ['set152_frame2', 1.504]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_52_frame1.fa.txt
+16 33
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_1_query_Exon_12
+TTINEEEVEENSAYEDD
+16 33
+set52_frame1
+VTINEEETQENSEYDDG
+Original query = TTINEEEVEENSAYEDD
+New query = VTINEEETQENSEYDDG
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13677276,13677342,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,5,20,21
+
+11
+15
+Melitaea_cinxia,NC_059400.1,13671827,13671936,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Melitaea_cinxia,NC_059400.1,13681715,13681863,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set132_frame0, 0.361
+5 top scores:
+[['set132_frame0', 0.361], ['set70_frame2', 1.481], ['set16_frame2', 1.607], ['set55_frame2', 1.628], ['set125_frame2', 1.648]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_132_frame0.fa.txt
+7 30
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_2_query_Exon_13
+EEGEEEERTTSVVETDFDFQDFV
+7 30
+set132_frame0
+EEEDEEDKTTSIVETDFDFQDFV
+Original query = EEGEEEERTTSVVETDFDFQDFVL
+New query = EEEDEEDKTTSIVETDFDFQDFV
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13678299,13678497,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Melitaea_cinxia,NC_059400.1,13671827,13671936,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Melitaea_cinxia,NC_059400.1,13684377,13684471,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Getting Gene
+min = set154_frame2, 0.904
+5 top scores:
+[['set154_frame2', 0.904], ['set261_frame2', 1.778], ['set137_frame1', 1.874], ['set235_frame0', 1.77], ['set291_frame0', 1.865]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_154_frame2.fa.txt
+34 100
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_0_query_Exon_14
+FCQPHVVRACAALWARCDVT-ARAARCALKLLHRIACDCNRPAMMFQASLFLTFQKILNKRSPQLK
+34 100
+set154_frame2
+FCHPRVVSSCVSLLEHYDKNPPHTNHCIVKMLHRIAWDCRRPAMMFQATLFLIFQKILHNPAPHLK
+Original query = FCQPHVVRACAALWARCDVTARAARCALKLLHRIACDCNRPAMMFQASLFLTFQKILNKRSPQLK
+New query = FCHPRVVSSCVSLLEHYDKNPPHTNHCIVKMLHRIAWDCRRPAMMFQATLFLIFQKILHNPAPHLK
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13681715,13681863,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+12
+11
+17
+Melitaea_cinxia,NC_059400.1,13671827,13671936,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Melitaea_cinxia,NC_059400.1,13686963,13687169,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+Getting Gene
+min = set235_frame0, 0.273
+5 top scores:
+[['set235_frame0', 0.273], ['set91_frame1', 1.671], ['set83_frame2', 1.707], ['set122_frame2', 1.718], ['set21_frame2', 1.758]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_235_frame0.fa.txt
+5 54
+Nymphalis_io_XM_050487249.1_Frame_0_rightoh_2_query_Exon_15
+EMEKFAIFILRKFTEIASKNGKVFIELLFWKNSKESVEIEHGYDLYRDQ
+5 54
+set235_frame0
+ELEKFAIFVLRKFTEIASNSGKVFIELLFWKNSKDAVEIELGYDLYNDQ
+Original query = EMEKFAIFILRKFTEIASKNGKVFIELLFWKNSKESVEIEHGYDLYRDQ
+New query = ELEKFAIFVLRKFTEIASNSGKVFIELLFWKNSKDAVEIELGYDLYNDQ
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13684377,13684471,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+14
+18
+Melitaea_cinxia,NC_059400.1,13678299,13678497,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Melitaea_cinxia,NC_059400.1,13689339,13689473,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,37,44
+
+Getting Gene
+min = set136_frame1, 0.499
+5 top scores:
+[['set136_frame1', 0.499], ['set229_frame2', 1.625], ['set231_frame2', 1.631], ['set32_frame2', 1.71], ['set29_frame0', 1.654]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_136_frame1.fa.txt
+5 36
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_1_query_Exon_16
+DKPGRGLWTEEQEEELRSLYMENMARPENDQ
+5 36
+set136_frame1
+DKPGKAHWTTEQEDELRKLYMENQTNPENDQ
+Original query = DKPGRGLWTEEQEEELRSLYMENMARPENDQ
+New query = DKPGKAHWTTEQEDELRKLYMENQTNPENDQ
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13686963,13687169,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+15
+19
+20
+Melitaea_cinxia,NC_059400.1,13681715,13681863,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Melitaea_cinxia,NC_059400.1,13692878,13693074,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+Getting Gene
+min = set148_frame0, 0.315
+5 top scores:
+[['set203_frame2', 1.792], ['set213_frame1', 1.819], ['set148_frame0', 0.315], ['set244_frame2', 1.837], ['set192_frame0', 1.661]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_148_frame0.fa.txt
+13 81
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRSVIKKLKDLGLIFKAPTKKSNRERQEKVSKEFNEEEDNLLAELWKQYKDSP
+13 81
+set148_frame0
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFKAPTKRSNKERREKVPKHFTEDEDNLLRELWKQYEGSS
+Original query = VIDWILDNLIDQTRTRRSVIKKLKDLGLIFKAPTKKSNRERQEKVSKEFNEEEDNLLAELWKQYKDSP
+New query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFKAPTKRSNKERREKVPKHFTEDEDNLLRELWKQYEGSS
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13689339,13689473,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,37,44
+
+16
+20
+Melitaea_cinxia,NC_059400.1,13684377,13684471,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Melitaea_cinxia,NC_059400.1,13692878,13693074,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+Getting Gene
+min = set128_frame2, 0.555
+5 top scores:
+[['set128_frame2', 0.555], ['set177_frame0', 1.76], ['set107_frame1', 1.811], ['set139_frame1', 1.811], ['set180_frame1', 1.811]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_128_frame2.fa.txt
+6 59
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_1_query_Exon_18
+PMGLIIARMPRKRSKRSFVDRLLELGLVQDKSQCRKRRQRNAKSAGDDGDKSN
+6 59
+set128_frame2
+PMGLIIARMPRKRSKRSFVDRMLELCIIEDKKQCRKKKQSKTKSV--DDDKSN
+Original query = PMGLIIARMPRKRSKRSFVDRLLELGLVQDKSQCRKRRQRNAKSAGDDGDKSN
+New query = PMGLIIARMPRKRSKRSFVDRMLELCIIEDKKQCRKKKQSKTKSV--DDDKSN
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,0,0,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19,0,0,61
+
+17
+21
+Melitaea_cinxia,NC_059400.1,13686963,13687169,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+Melitaea_cinxia,NC_059400.1,13693646,13694069,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,152,154
+
+Getting Gene
+min = set77_frame1, 1.051
+5 top scores:
+[['set77_frame1', 1.051], ['set175_frame2', 1.655], ['set131_frame2', 1.81], ['set41_frame2', 1.815], ['set63_frame0', 1.839]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_77_frame1.fa.txt
+24 85
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_1_query_Exon_19
+SSSESEHSSSDGDDNVRPQTAAVNVKHKKPLKKRAENKKKSARVELSASEIAKLLIEAVDS
+24 85
+set77_frame1
+SSSESEHSSSDSDNDVRPPPSLTIKPKNKAVNKKEKRKQPATGKGLSAGEIVKLFSQAVDS
+Original query = SSSESEHSSSDGDDNVRPQTAAVNVKHKKPLKKRAENKKKSARVELSASEIAKLLIEAVDS
+New query = SSSESEHSSSDSDNDVRPPPSLTIKPKNKAVNKKEKRKQPATGKGLSAGEIVKLFSQAVDS
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13692878,13693074,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+18
+21
+Melitaea_cinxia,NC_059400.1,13689339,13689473,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,37,44
+
+Melitaea_cinxia,NC_059400.1,13693646,13694069,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,152,154
+
+Getting Gene
+min = set69_frame1, 0.17
+5 top scores:
+[['set69_frame1', 0.17], ['set131_frame2', 1.814], ['set1_frame2', 1.875], ['set55_frame0', 1.868], ['set51_frame1', 1.897]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_69_frame1.fa.txt
+17 82
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_0_query_Exon_20
+LTEALKWLAENLEEVALDQEAEGFDPTSEGTPLVPISSESVEAMDNPLFMKVLKSVGIAPPSDEQ
+17 82
+set69_frame1
+LTEALKWLAENLEEVALDQEAEGFDPTSEGTPLVPISSDSVKAMENPIFIKALKSIGVVPPSDEQ
+Original query = LTEALKWLAENLEEVALDQEAEGFDPTSEGTPLVPISSESVEAMDNPLFMKVLKSVGIAPPSDEQ
+New query = LTEALKWLAENLEEVALDQEAEGFDPTSEGTPLVPISSDSVKAMENPIFIKALKSIGVVPPSDEQ
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13693646,13694069,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,152,154
+
+19
+18
+21
+Melitaea_cinxia,NC_059400.1,13689339,13689473,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,37,44
+
+Melitaea_cinxia,NC_059400.1,13693646,13694069,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,152,154
+
+Getting Gene
+min = set131_frame2, 0.82
+5 top scores:
+[['set131_frame2', 0.82]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_131_frame2.fa.txt
+10 138
+Nymphalis_io_XM_050487249.1_Frame_0_rightoh_1_query_Exon_21
+ETYWRIPSSIHYDTIRKRREIVIKAVNKELIVDSTNNNAEGIQE--KNNPKDESSDDDDLFDNLRKMRDVSPYKSNTPSRSVSNNRKRNRSLSSDEENNRKMQKIDEDDDEEDILSFAKKTLQRADPP
+10 138
+set131_frame2
+ETYWRIPSSLHHKTIRKRREIILKAVNNELIIDNTNENNKQNDEPTQNNDSNDESSDDDLFDKLRMMRDATPYKSDN-SNKVTDNRKRDRSVESNEENNRKMPKIDE-DDSEDILSFAKKTLQTDLPD
+Original query = ETYWRIPSSIHYDTIRKRREIVIKAVNKELIVDSTNNNAEGIQEKNNPKDESSDDDDLFDNLRKMRDVSPYKSNTPSRSVSNNRKRNRSLSSDEENNRKMQKIDEDDDEEDILSFAKKTLQRADPPADPPADHSDS
+New query = ETYWRIPSSLHHKTIRKRREIILKAVNNELIIDNTNENNKQNDEPTQNNDSNDESSDDDLFDKLRMMRDATPYKSDN-SNKVTDNRKRDRSVESNEENNRKMPKIDE-DDSEDILSFAKKTLQTDLPD
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13647227,13647410,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Melitaea_cinxia,NC_059400.1,13646785,13647038,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Melitaea_cinxia,NC_059400.1,13647928,13648184,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set17_frame2, 0.079
+5 top scores:
+[['set17_frame2', 0.079], ['set6_frame0', 1.855], ['set10_frame0', 1.681], ['set11_frame0', 1.814], ['set8_frame1', 1.812]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_17_frame2.fa.txt
+25 86
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_0_query_Exon_2
+LLVNLTNPALLLYREEVPVERTARHNYLQILTHLQSYKEEAFIKVETWQVFAKKLAKILEI
+25 86
+set17_frame2
+LLVNLTNPALLLYREEVPVERTARHNYLQILSHLQSYKEEAFTKVENWQVFAKKLAKILEI
+Original query = LLVNLTNPALLLYREEVPVERTARHNYLQILTHLQSYKEEAFIKVETWQVFAKKLAKILEI
+New query = LLVNLTNPALLLYREEVPVERTARHNYLQILSHLQSYKEEAFTKVENWQVFAKKLAKILEI
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13647601,13647735,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Melitaea_cinxia,NC_059400.1,13646785,13647038,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Melitaea_cinxia,NC_059400.1,13649201,13649398,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set10_frame0, 0.0
+5 top scores:
+[['set11_frame0', 1.712], ['set3_frame0', 1.716], ['set17_frame2', 1.751], ['set61_frame2', 1.761], ['set10_frame0', 0.0]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_10_frame0.fa.txt
+19 64
+Vanessa_tameamea_XM_026628490.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+19 64
+set10_frame0
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+New query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13647928,13648184,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Melitaea_cinxia,NC_059400.1,13647227,13647410,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Melitaea_cinxia,NC_059400.1,13656999,13657181,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set8_frame2, 0.092
+5 top scores:
+[['set8_frame2', 0.092], ['set103_frame2', 1.805], ['set129_frame2', 1.837], ['set141_frame0', 1.866], ['set127_frame2', 1.873]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_8_frame2.fa.txt
+0 85
+Vanessa_tameamea_XM_026628490.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIVLYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLTMRMAETKERMNKVKMYSST
+0 85
+set8_frame2
+VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALHRSVDEKLRDDQELLTMRMSESKERMNKVKQYSST
+Original query = VLWALNQAGILDIVLYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLTMRMAETKERMNKVKMYSST
+New query = VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALHRSVDEKLRDDQELLTMRMSESKERMNKVKQYSST
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13649201,13649398,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Melitaea_cinxia,NC_059400.1,13647601,13647735,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Melitaea_cinxia,NC_059400.1,13657799,13658086,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set42_frame2, 0.117
+5 top scores:
+[['set42_frame2', 0.117], ['set127_frame2', 1.723], ['set59_frame2', 1.82], ['set132_frame2', 1.82], ['set122_frame1', 1.851]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_42_frame2.fa.txt
+14 79
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVIQNMKSISENELISLKPLNKISNLDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+14 79
+set42_frame2
+HSRFGGTYVIQNMKSVSDNQLICLKPLNKISNLNFNGSKKSKFVKPKNRRPTESGMLERRSAFAI
+Original query = HSRFGGTYVIQNMKSISENELISLKPLNKISNLDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+New query = HSRFGGTYVIQNMKSVSDNQLICLKPLNKISNLNFNGSKKSKFVKPKNRRPTESGMLERRSAFAI
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13656999,13657181,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+9
+Melitaea_cinxia,NC_059400.1,13647928,13648184,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Melitaea_cinxia,NC_059400.1,13667236,13667383,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,10,48,48
+
+Getting Gene
+min = set159_frame0, 0.055
+5 top scores:
+[['set159_frame0', 0.055], ['set319_frame2', 1.754], ['set159_frame1', 1.772], ['set161_frame1', 1.777], ['set31_frame2', 1.783]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_159_frame0.fa.txt
+7 67
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNPMMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHDFQIGLV
+7 67
+set159_frame0
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+Original query = LFLKEFCIEFLNSSYNPMMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHDFQIGLV
+New query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13657799,13658086,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Melitaea_cinxia,NC_059400.1,13649201,13649398,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Melitaea_cinxia,NC_059400.1,13667236,13667383,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,10,48,48
+
+Getting Gene
+min = set121_frame1, 0.7
+5 top scores:
+[['set121_frame1', 0.7], ['set262_frame1', 1.846], ['set97_frame2', 1.846], ['set127_frame1', 1.879], ['set170_frame2', 1.886]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_121_frame1.fa.txt
+9 104
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_2_query_Exon_7
+ETLSVPTFHFVQQQMEKYSDMIKVERKRFPVWVRRLHVALRAFRELLQSLRVA-RGAAAAVRDAARALQAALLYAPEYREFVLALLLAYDENKMP
+9 104
+set121_frame1
+ETMSVPTFYYVQQQMEKYYDMIKVEKKKFSVWVRRLHLALRAYKELLNTLLAMDKSDDNTVKDSAKVLKSNIFYVLEYREFILFIVLNYDDNKMP
+Original query = ETLSVPTFHFVQQQMEKYSDMIKVERKRFPVWVRRLHVALRAFRELLQSLRVARGAAAAVRDAARALQAALLYAPEYREFVLALLLAYDENKMP
+New query = ETMSVPTFYYVQQQMEKYYDMIKVEKKKFSVWVRRLHLALRAYKELLNTLLAMDKSDDNTVKDSAKVLKSNIFYVLEYREFILFIVLNYDDNKMP
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13658842,13658960,0,Y,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8,1,29,39
+
+6
+10
+Melitaea_cinxia,NC_059400.1,13656999,13657181,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Melitaea_cinxia,NC_059400.1,13671646,13671726,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set67_frame2, 0.341
+5 top scores:
+[['set67_frame2', 0.341], ['set187_frame1', 1.696], ['set126_frame2', 1.699], ['set208_frame2', 1.701], ['set267_frame2', 1.721]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_67_frame2.fa.txt
+27 66
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_1_query_Exon_8
+SYLADLVETEHLFLKLLEEFCKNTGLVVQKKVRKKGKSK
+27 66
+set67_frame2
+SYLVDLIETVHLFLKMLEHYCKKTGLVVQKKVRKKTKSK
+Original query = SYLADLVETEHLFLKLLEEFCKNTGLVVQKKVRKKGKSK
+New query = SYLVDLIETVHLFLKMLEHYCKKTGLVVQKKVRKKTKSK
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13667236,13667383,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,10,48,48
+
+7
+11
+Melitaea_cinxia,NC_059400.1,13657799,13658086,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Melitaea_cinxia,NC_059400.1,13671827,13671936,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Getting Gene
+min = set198_frame1, 0.345
+5 top scores:
+[['set198_frame1', 0.345], ['set59_frame2', 1.704], ['set177_frame1', 1.791], ['set51_frame0', 1.756], ['set68_frame0', 1.715]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_198_frame1.fa.txt
+31 80
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_2_query_Exon_9
+QKPRAPKPKRVETAQWEEVRPQVAAVLRAGVEEYPPPFDAASDTPIDQQ
+31 80
+set198_frame1
+QKPKPQKPKQVEIPRWEEIRPQIAAVLTSGVEEYPPPFDAASDTPIDQQ
+Original query = QKPRAPKPKRVETAQWEEVRPQVAAVLRAGVEEYPPPFDAASDTPIDQQ
+New query = QKPKPQKPKQVEIPRWEEIRPQIAAVLTSGVEEYPPPFDAASDTPIDQQ
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13671646,13671726,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+7
+12
+13
+14
+Melitaea_cinxia,NC_059400.1,13657799,13658086,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Melitaea_cinxia,NC_059400.1,13678299,13678497,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set315_frame0, 0.279
+5 top scores:
+[['set315_frame0', 0.279], ['set98_frame2', 1.563], ['set370_frame0', 1.606], ['set418_frame2', 1.623], ['set353_frame1', 1.643]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_315_frame0.fa.txt
+10 36
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRDHKYEGAVGMLRAA
+10 36
+set315_frame0
+EDCMKKIQKLMRVHNYEGAVGTLRAA
+Original query = EDCMKKIQKLMRDHKYEGAVGMLRAA
+New query = EDCMKKIQKLMRVHNYEGAVGTLRAA
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13671827,13671936,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+9
+13
+14
+Melitaea_cinxia,NC_059400.1,13667236,13667383,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,10,48,48
+
+Melitaea_cinxia,NC_059400.1,13678299,13678497,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set94_frame2, 0.212
+5 top scores:
+[['set94_frame2', 0.212], ['set62_frame2', 1.713], ['set184_frame2', 1.754], ['set61_frame2', 1.76], ['set82_frame2', 1.778]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_94_frame2.fa.txt
+2 36
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGVDGVTEDEELDMLETIYNTDLGVE
+2 36
+set94_frame2
+EVWPEEGIFGVEGIPEDEELDMLETIYNTDLGVD
+Original query = EVWPEEGIFGVDGVTEDEELDMLETIYNTDLGVEE
+New query = EVWPEEGIFGVEGIPEDEELDMLETIYNTDLGVD
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,0,0,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_12,0,0,14
+
+10
+14
+Melitaea_cinxia,NC_059400.1,13671646,13671726,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Melitaea_cinxia,NC_059400.1,13678299,13678497,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set52_frame1, 0.629
+5 top scores:
+[['set52_frame1', 0.629], ['set98_frame1', 1.435], ['set100_frame2', 1.451], ['set152_frame2', 1.558], ['set60_frame2', 1.605]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_52_frame1.fa.txt
+16 33
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_1_query_Exon_12
+AYINEEEAQENSQYEDD
+16 33
+set52_frame1
+VTINEEETQENSEYDDG
+Original query = AYINEEEAQENSQYEDD
+New query = VTINEEETQENSEYDDG
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13677276,13677342,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,5,20,21
+
+11
+15
+Melitaea_cinxia,NC_059400.1,13671827,13671936,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Melitaea_cinxia,NC_059400.1,13681715,13681863,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set132_frame0, 0.209
+5 top scores:
+[['set132_frame0', 0.209], ['set16_frame2', 1.576], ['set53_frame2', 1.588], ['set55_frame2', 1.592], ['set70_frame2', 1.605]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_132_frame0.fa.txt
+9 30
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_2_query_Exon_13
+EEEEDRTTSVVETDFDFQDFV
+9 30
+set132_frame0
+EDEEDKTTSIVETDFDFQDFV
+Original query = EEEEDRTTSVVETDFDFQDFVL
+New query = EDEEDKTTSIVETDFDFQDFV
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13678299,13678497,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Melitaea_cinxia,NC_059400.1,13671827,13671936,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Melitaea_cinxia,NC_059400.1,13684377,13684471,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Getting Gene
+min = set154_frame2, 0.702
+5 top scores:
+[['set154_frame2', 0.702], ['set70_frame2', 1.825], ['set235_frame1', 1.838], ['set261_frame2', 1.838], ['set254_frame1', 1.853]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_154_frame2.fa.txt
+34 98
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_0_query_Exon_14
+FCHPRVVSACAGVLAR-EAGGARAAHCALKLLHRVAWDCARPAMLFQASLFLVFQRILDRPAPH
+34 98
+set154_frame2
+FCHPRVVSSCVSLLEHYDKNPPHTNHCIVKMLHRIAWDCRRPAMMFQATLFLIFQKILHNPAPH
+Original query = FCHPRVVSACAGVLAREAGGARAAHCALKLLHRVAWDCARPAMLFQASLFLVFQRILDRPAPHRE
+New query = FCHPRVVSSCVSLLEHYDKNPPHTNHCIVKMLHRIAWDCRRPAMMFQATLFLIFQKILHNPAPH
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13681715,13681863,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+12
+11
+17
+Melitaea_cinxia,NC_059400.1,13671827,13671936,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Melitaea_cinxia,NC_059400.1,13686963,13687169,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+Getting Gene
+min = set235_frame0, 0.237
+5 top scores:
+[['set235_frame0', 0.237], ['set91_frame1', 1.657], ['set83_frame2', 1.707], ['set334_frame2', 1.745], ['set67_frame0', 1.757]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_235_frame0.fa.txt
+5 54
+Vanessa_tameamea_XM_026628490.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFAIFILRKFTEIASKSNKVFIELLFWKNSKDSVEIEHGYDLYHDQ
+5 54
+set235_frame0
+ELEKFAIFVLRKFTEIASNSGKVFIELLFWKNSKDAVEIELGYDLYNDQ
+Original query = ELEKFAIFILRKFTEIASKSNKVFIELLFWKNSKDSVEIEHGYDLYHDQ
+New query = ELEKFAIFVLRKFTEIASNSGKVFIELLFWKNSKDAVEIELGYDLYNDQ
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13684377,13684471,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+14
+18
+Melitaea_cinxia,NC_059400.1,13678299,13678497,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Melitaea_cinxia,NC_059400.1,13689339,13689473,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,37,44
+
+Getting Gene
+min = set136_frame1, 0.472
+5 top scores:
+[['set136_frame1', 0.472], ['set229_frame2', 1.617], ['set231_frame2', 1.676], ['set32_frame2', 1.704], ['set29_frame0', 1.662]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_136_frame1.fa.txt
+5 36
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_1_query_Exon_16
+DKPGRAAWTEEQEEELRSLYMENVARPESDQ
+5 36
+set136_frame1
+DKPGKAHWTTEQEDELRKLYMENQTNPENDQ
+Original query = DKPGRAAWTEEQEEELRSLYMENVARPESDQ
+New query = DKPGKAHWTTEQEDELRKLYMENQTNPENDQ
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13686963,13687169,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+15
+19
+20
+Melitaea_cinxia,NC_059400.1,13681715,13681863,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Melitaea_cinxia,NC_059400.1,13692878,13693074,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+Getting Gene
+min = set148_frame0, 0.286
+5 top scores:
+[['set203_frame2', 1.791], ['set213_frame1', 1.819], ['set148_frame0', 0.286], ['set244_frame2', 1.837], ['set192_frame0', 1.642]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_148_frame0.fa.txt
+13 81
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFKAPTKKSNRERQEKVSKEFNEEEDNLLAELWKQYQDSP
+13 81
+set148_frame0
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFKAPTKRSNKERREKVPKHFTEDEDNLLRELWKQYEGSS
+Original query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFKAPTKKSNRERQEKVSKEFNEEEDNLLAELWKQYQDSP
+New query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFKAPTKRSNKERREKVPKHFTEDEDNLLRELWKQYEGSS
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13689339,13689473,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,37,44
+
+16
+20
+Melitaea_cinxia,NC_059400.1,13684377,13684471,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Melitaea_cinxia,NC_059400.1,13692878,13693074,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+Getting Gene
+min = set128_frame2, 0.535
+5 top scores:
+[['set128_frame2', 0.535], ['set139_frame1', 1.771], ['set180_frame1', 1.775], ['set124_frame2', 1.797], ['set111_frame0', 1.858]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_128_frame2.fa.txt
+6 54
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_1_query_Exon_18
+PMGLITARMPRKRSKRSFVERMLELGIIQDKNQCRKRRQRKTKSSGDD
+6 54
+set128_frame2
+PMGLIIARMPRKRSKRSFVDRMLELCIIEDKKQCRKKKQSKTKSVDDD
+Original query = PMGLITARMPRKRSKRSFVERMLELGIIQDKNQCRKRRQRKTKSSGDDGDKLN
+New query = PMGLIIARMPRKRSKRSFVDRMLELCIIEDKKQCRKKKQSKTKSVDDD
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,0,0,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19,0,0,61
+
+17
+21
+Melitaea_cinxia,NC_059400.1,13686963,13687169,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+Melitaea_cinxia,NC_059400.1,13693646,13694069,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,152,154
+
+Getting Gene
+min = set77_frame1, 1.078
+5 top scores:
+[['set77_frame1', 1.078], ['set45_frame2', 1.697], ['set175_frame2', 1.717], ['set118_frame1', 1.825], ['set2_frame2', 1.829]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_77_frame1.fa.txt
+24 86
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_1_query_Exon_19
+SSSESEHSSSDDENEARPPLRTINVKRKKPSKKKESSKTKKAERLELSASEIAKLLIQAVAS
+24 86
+set77_frame1
+SSSESEHSSSDSDNDVRPP-PSLTIKPKNKAVNKKEKRKQPATGKGLSAGEIVKLFSQAVDS
+Original query = SSSESEHSSSDDENEARPPLRTINVKRKKPSKKKESSKTKKAERLELSASEIAKLLIQAVAS
+New query = SSSESEHSSSDSDNDVRPP-PSLTIKPKNKAVNKKEKRKQPATGKGLSAGEIVKLFSQAVDS
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13692878,13693074,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+18
+21
+Melitaea_cinxia,NC_059400.1,13689339,13689473,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,37,44
+
+Melitaea_cinxia,NC_059400.1,13693646,13694069,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,152,154
+
+Getting Gene
+min = set69_frame1, 0.194
+5 top scores:
+[['set69_frame1', 0.194], ['set131_frame2', 1.813], ['set46_frame0', 1.884], ['set55_frame0', 1.844], ['set57_frame0', 1.913]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_69_frame1.fa.txt
+17 82
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_0_query_Exon_20
+LSEALKWLAENLEEVALDQEAEGFDPESEGTPLVPISSESVEAMDNPLFVKVLKSIGIAPPSDEQ
+17 82
+set69_frame1
+LTEALKWLAENLEEVALDQEAEGFDPTSEGTPLVPISSDSVKAMENPIFIKALKSIGVVPPSDEQ
+Original query = LSEALKWLAENLEEVALDQEAEGFDPESEGTPLVPISSESVEAMDNPLFVKVLKSIGIAPPSDEQ
+New query = LTEALKWLAENLEEVALDQEAEGFDPTSEGTPLVPISSDSVKAMENPIFIKALKSIGVVPPSDEQ
+Scaffold = NC_059400.1, start = 13646785, end = 13647038
+Melitaea_cinxia,NC_059400.1,13693646,13694069,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,152,154
+
+19
+18
+21
+Melitaea_cinxia,NC_059400.1,13689339,13689473,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,37,44
+
+Melitaea_cinxia,NC_059400.1,13693646,13694069,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,152,154
+
+Getting Gene
+min = set131_frame2, 0.83
+5 top scores:
+[['set131_frame2', 0.83]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melitaea_cinxia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_131_frame2.fa.txt
+10 144
+Vanessa_tameamea_XM_026628490.1_Frame_0_rightoh_0_query_Exon_21
+ETYWRIPSSIHYETIRKRREIVMKAVNNELLVDSTNDTNSTENNAGTTQENNPKDESSDDEDLFDTLRKMRDVSPQKSSHPTSNILNNRKRNRSLSSDDENNRKMQKIDEDDSEEDILSFAKKTLQRDDLPDTE
+10 144
+set131_frame2
+ETYWRIPSSLHHKTIRKRREIILKAVNNELIIDNTNENN--KQNDEPTQNNDSNDESSDD-DLFDKLRMMRDATPYKSDN-SNKVTDNRKRDRSVESNEENNRKMPKIDEDDS-EDILSFAKKTLQ-TDLPDTE
+Original query = ETYWRIPSSIHYETIRKRREIVMKAVNNELLVDSTNDTNSTENNAGTTQENNPKDESSDDEDLFDTLRKMRDVSPQKSSHPTSNILNNRKRNRSLSSDDENNRKMQKIDEDDSEEDILSFAKKTLQRDDLPDTEELPARDSGSGN
+New query = ETYWRIPSSLHHKTIRKRREIILKAVNNELIIDNTNENN--KQNDEPTQNNDSNDESSDD-DLFDKLRMMRDATPYKSDN-SNKVTDNRKRDRSVESNEENNRKMPKIDEDDS-EDILSFAKKTLQ-TDLPDTE

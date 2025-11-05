@@ -1,0 +1,462 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = LR989987.1, start = 10572227, end = 10572279
+Nymphalis_urticae,LR989987.1,10591957,10592092,0,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+1
+4
+Nymphalis_urticae,LR989987.1,10572227,10572279,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Nymphalis_urticae,LR989987.1,10594113,10594268,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,4,48,48
+
+Getting Gene
+min = set452_frame0, 0.734
+5 top scores:
+[['set452_frame0', 0.734], ['set269_frame1', 1.637], ['set485_frame2', 1.7], ['set64_frame2', 1.737], ['set105_frame2', 1.738]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_urticae/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_452_frame0.fa.txt
+7 52
+Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2
+YSNEEFARE-PLSFAPPSEDEAEYPPG--YKKGKVSRASHTEYAR
+7 52
+set452_frame0
+NSNDGFGRAGELNFAAPSEDEAEYPPAVFLKKGKVSRASHTEYAR
+Original query = YSNEEFAREPLSFAPPSEDEAEYPPGYKKGKVSRASHTEYAR
+New query = NSNDGFGRAGELNFAAPSEDEAEYPPAVFLKKGKVSRASHTEYAR
+Scaffold = LR989987.1, start = 10572227, end = 10572279
+Nymphalis_urticae,LR989987.1,10593055,10593238,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Nymphalis_urticae,LR989987.1,10572227,10572279,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Nymphalis_urticae,LR989987.1,10594441,10594617,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,6,56,56
+
+Getting Gene
+min = set485_frame2, 0.063
+5 top scores:
+[['set485_frame2', 0.063], ['set81_frame2', 1.783], ['set419_frame2', 1.814], ['set170_frame0', 1.813], ['set494_frame0', 1.839]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_urticae/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_485_frame2.fa.txt
+41 102
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+41 102
+set485_frame2
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = LR989987.1, start = 10572227, end = 10572279
+Nymphalis_urticae,LR989987.1,10594113,10594268,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,4,48,48
+
+2
+6
+7
+Nymphalis_urticae,LR989987.1,10591957,10592092,0,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+Nymphalis_urticae,LR989987.1,10595768,10595923,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,11,45,45
+
+Getting Gene
+min = set43_frame1, 1.082
+5 top scores:
+[['set43_frame1', 1.082], ['set76_frame0', 1.766], ['set46_frame1', 1.796], ['set73_frame1', 1.809], ['set49_frame2', 1.812]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_urticae/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_43_frame1.fa.txt
+29 80
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4
+LERGSEFLAGYQRAGAEAVRF-VELQ--GSRDGLADQLAAHLHSHADMMAK
+29 80
+set43_frame1
+RQAGDDYRAGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEFVTK
+Original query = LERGSEFLAGYQRAGAEAVRFVELQGSRDGLADQLAAHLHSHADMMAK
+New query = RQAGDDYRAGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEFVTK
+Scaffold = LR989987.1, start = 10572227, end = 10572279
+Nymphalis_urticae,LR989987.1,10594441,10594617,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,6,56,56
+
+3
+7
+Nymphalis_urticae,LR989987.1,10593055,10593238,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Nymphalis_urticae,LR989987.1,10595768,10595923,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,11,45,45
+
+Getting Gene
+min = set25_frame2, 0.976
+5 top scores:
+[['set25_frame2', 0.976], ['set43_frame2', 1.496], ['set31_frame0', 1.817], ['set9_frame2', 1.828], ['set39_frame0', 1.807]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_urticae/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_25_frame2.fa.txt
+28 84
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5
+HEKRVYPNSSSETTSSSSSSQGFAVKVIQRPEPPPAFPEPYEPDRQE--HFADCER
+28 84
+set25_frame2
+DKPRSHPGSSSETASSSNSSHGFGVKVIQRPELPPFPAETYEHERQEPPYAMECDR
+Original query = AVHEKRVYPNSSSETTSSSSSSQGFAVKVIQRPEPPPAFPEPYEPDRQEHFADCER
+New query = DKPRSHPGSSSETASSSNSSHGFGVKVIQRPELPPFPAETYEHERQEPPYAMECDR
+Scaffold = LR989987.1, start = 10572227, end = 10572279
+Nymphalis_urticae,LR989987.1,10595111,10595295,0,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6,17,60,60
+
+4
+8
+Nymphalis_urticae,LR989987.1,10594113,10594268,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,4,48,48
+
+Nymphalis_urticae,LR989987.1,10596468,10596558,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set14_frame1, 0.759
+5 top scores:
+[['set14_frame1', 0.759], ['set7_frame0', 1.71], ['set18_frame2', 1.832], ['set22_frame0', 1.797], ['set1_frame1', 1.838]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_urticae/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_14_frame1.fa.txt
+25 88
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6
+SVHQPAVMEPLEGEP--LPLDGRVKKEVTLRKIRKPEH-EDYLHSYKFKNSIERRFSRSQDSE
+25 88
+set14_frame1
+SV---SVLPAAETDAPDAPLDGRLKKEPALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDNE
+Original query = SVHQPAVMEPLEGEPLPLDGRVKKEVTLRKIRKPEHEDYLHSYKFKNSIERRFSRSQDSE
+New query = SV---SVLPAAETDAPDAPLDGRLKKEPALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDNE
+Scaffold = LR989987.1, start = 10572227, end = 10572279
+Nymphalis_urticae,LR989987.1,10595768,10595923,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,11,45,45
+
+5
+8
+Nymphalis_urticae,LR989987.1,10594441,10594617,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,6,56,56
+
+Nymphalis_urticae,LR989987.1,10596468,10596558,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set29_frame1, 0.989
+5 top scores:
+[['set29_frame1', 0.989], ['set19_frame2', 1.633], ['set1_frame2', 1.702], ['set23_frame2', 1.801], ['set16_frame0', 1.828]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_urticae/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_29_frame1.fa.txt
+26 77
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7
+DAWSAGPTAKAYNHKRRRPTKPAPP-------STSTSASGSTEEARDTSPQ
+26 77
+set29_frame1
+GAGRGAAHGKLYSHKRRRQAKPAAPESTSASASASTSASASTEDAHDTSPQ
+Original query = GDAWSAGPTAKAYNHKRRRPTKPAPPSTSTSASGSTEEARDTSPQ
+New query = GAGRGAAHGKLYSHKRRRQAKPAAPESTSASASASTSASASTEDAHDTSPQ
+Scaffold = LR989987.1, start = 10572227, end = 10572279
+Nymphalis_urticae,LR989987.1,10596468,10596558,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+6
+5
+8
+Nymphalis_urticae,LR989987.1,10594441,10594617,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,6,56,56
+
+Nymphalis_urticae,LR989987.1,10596468,10596558,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set25_frame2, 0.255
+5 top scores:
+[['set25_frame2', 0.255], ['set1_frame2', 1.593], ['set8_frame2', 1.723], ['set22_frame2', 1.731], ['set23_frame2', 1.778]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_urticae/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_25_frame2.fa.txt
+4 33
+set25_frame2
+DTSSDSPHHHQYDKPPPPTQYVPVFALNS
+Original query = DTCSDSPHHHSFDKPPPPAQYVPVFALNAL
+New query = DTSSDSPHHHQYDKPPPPTQYVPVFALNS
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = LR989987.1, start = 10572227, end = 10572279
+Nymphalis_urticae,LR989987.1,10591957,10592092,0,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+1
+4
+Nymphalis_urticae,LR989987.1,10572227,10572279,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Nymphalis_urticae,LR989987.1,10594113,10594268,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,4,48,48
+
+Getting Gene
+min = set452_frame0, 0.0
+5 top scores:
+[['set452_frame0', 0.0], ['set396_frame2', 1.657], ['set485_frame2', 1.683], ['set447_frame1', 1.767], ['set505_frame1', 1.774]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_urticae/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_452_frame0.fa.txt
+6 44
+Nymphalis_io_XM_050486679.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRAGELNFAAPSEDEAEYPPAVFLKKGKVSR
+6 44
+set452_frame0
+YNSNDGFGRAGELNFAAPSEDEAEYPPAVFLKKGKVSR
+Original query = YNSNDGFGRAGELNFAAPSEDEAEYPPAVFLKKGKVSR
+New query = YNSNDGFGRAGELNFAAPSEDEAEYPPAVFLKKGKVSR
+Scaffold = LR989987.1, start = 10572227, end = 10572279
+Nymphalis_urticae,LR989987.1,10593055,10593238,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Nymphalis_urticae,LR989987.1,10572227,10572279,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Nymphalis_urticae,LR989987.1,10594441,10594617,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,6,56,56
+
+Getting Gene
+min = set485_frame2, 0.0
+5 top scores:
+[['set485_frame2', 0.0], ['set81_frame2', 1.783], ['set419_frame2', 1.792], ['set170_frame0', 1.771], ['set491_frame1', 1.837]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_urticae/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_485_frame2.fa.txt
+41 102
+Nymphalis_io_XM_050486679.1_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+41 102
+set485_frame2
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = LR989987.1, start = 10572227, end = 10572279
+Nymphalis_urticae,LR989987.1,10594113,10594268,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,4,48,48
+
+2
+6
+7
+Nymphalis_urticae,LR989987.1,10591957,10592092,0,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+Nymphalis_urticae,LR989987.1,10595768,10595923,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,11,45,45
+
+Getting Gene
+min = set43_frame1, 0.0
+5 top scores:
+[['set43_frame1', 0.0], ['set30_frame2', 1.789], ['set50_frame2', 1.791], ['set68_frame2', 1.829], ['set62_frame0', 1.843]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_urticae/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_43_frame1.fa.txt
+27 80
+Nymphalis_io_XM_050486679.1_Frame_2_rightoh_1_query_Exon_4
+AERQAGDDYRAGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEFVTK
+27 80
+set43_frame1
+AERQAGDDYRAGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEFVTK
+Original query = AERQAGDDYRAGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEFVTK
+New query = AERQAGDDYRAGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEFVTK
+Scaffold = LR989987.1, start = 10572227, end = 10572279
+Nymphalis_urticae,LR989987.1,10594441,10594617,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,6,56,56
+
+3
+7
+Nymphalis_urticae,LR989987.1,10593055,10593238,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Nymphalis_urticae,LR989987.1,10595768,10595923,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,11,45,45
+
+Getting Gene
+min = set25_frame2, 0.046
+5 top scores:
+[['set25_frame2', 0.046], ['set43_frame2', 1.703], ['set39_frame0', 1.824], ['set39_frame1', 1.841], ['set9_frame2', 1.86]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_urticae/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_25_frame2.fa.txt
+24 84
+Nymphalis_io_XM_050486679.1_Frame_2_rightoh_1_query_Exon_5
+EHTRDKPRSHPGSSSETASSSSSSHGFGVKVIQRPELPPFPAETYDHERQEPPYAMECDR
+24 84
+set25_frame2
+EHTRDKPRSHPGSSSETASSSNSSHGFGVKVIQRPELPPFPAETYEHERQEPPYAMECDR
+Original query = EHTRDKPRSHPGSSSETASSSSSSHGFGVKVIQRPELPPFPAETYDHERQEPPYAMECDR
+New query = EHTRDKPRSHPGSSSETASSSNSSHGFGVKVIQRPELPPFPAETYEHERQEPPYAMECDR
+Scaffold = LR989987.1, start = 10572227, end = 10572279
+Nymphalis_urticae,LR989987.1,10595111,10595295,0,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6,17,60,60
+
+4
+8
+Nymphalis_urticae,LR989987.1,10594113,10594268,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,4,48,48
+
+Nymphalis_urticae,LR989987.1,10596468,10596558,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set14_frame1, 0.029
+5 top scores:
+[['set14_frame1', 0.029], ['set7_frame0', 1.775], ['set31_frame2', 1.809], ['set22_frame0', 1.79], ['set18_frame2', 1.831]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_urticae/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_14_frame1.fa.txt
+27 85
+Nymphalis_io_XM_050486679.1_Frame_2_rightoh_0_query_Exon_6
+SVLPAAETDAPDAPLDGRLKKEPALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDTE
+27 85
+set14_frame1
+SVLPAAETDAPDAPLDGRLKKEPALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDNE
+Original query = SVLPAAETDAPDAPLDGRLKKEPALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDTE
+New query = SVLPAAETDAPDAPLDGRLKKEPALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDNE
+Scaffold = LR989987.1, start = 10572227, end = 10572279
+Nymphalis_urticae,LR989987.1,10595768,10595923,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,11,45,45
+
+5
+8
+Nymphalis_urticae,LR989987.1,10594441,10594617,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,6,56,56
+
+Nymphalis_urticae,LR989987.1,10596468,10596558,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set29_frame1, 0.146
+5 top scores:
+[['set29_frame1', 0.146], ['set19_frame2', 1.57], ['set10_frame0', 1.815], ['set13_frame0', 1.854], ['set17_frame0', 1.682]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_urticae/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_29_frame1.fa.txt
+23 77
+Nymphalis_io_XM_050486679.1_Frame_0_rightoh_0_query_Exon_7
+TAEGAGRGAAHGKLYSHKRRRQAKPAAPEST----SASTSASASTEDAQDTSPQ
+23 77
+set29_frame1
+TAEGAGRGAAHGKLYSHKRRRQAKPAAPESTSASASASTSASASTEDAHDTSPQ
+Original query = TAEGAGRGAAHGKLYSHKRRRQAKPAAPESTSASTSASASTEDAQDTSPQ
+New query = TAEGAGRGAAHGKLYSHKRRRQAKPAAPESTSASASASTSASASTEDAHDTSPQ
+Scaffold = LR989987.1, start = 10572227, end = 10572279
+Nymphalis_urticae,LR989987.1,10596468,10596558,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+6
+5
+8
+Nymphalis_urticae,LR989987.1,10594441,10594617,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,6,56,56
+
+Nymphalis_urticae,LR989987.1,10596468,10596558,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set25_frame2, 0.0
+5 top scores:
+[['set25_frame2', 0.0], ['set44_frame1', 1.611], ['set1_frame2', 1.669], ['set8_frame2', 1.693], ['set22_frame2', 1.743]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_urticae/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_25_frame2.fa.txt
+4 33
+set25_frame2
+DTSSDSPHHHQYDKPPPPTQYVPVFALNS
+Original query = DTSSDSPHHHQYDKPPPPTQYVPVFALNSL
+New query = DTSSDSPHHHQYDKPPPPTQYVPVFALNS
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = LR989987.1, start = 10572227, end = 10572279
+Nymphalis_urticae,LR989987.1,10591957,10592092,0,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+1
+4
+Nymphalis_urticae,LR989987.1,10572227,10572279,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Nymphalis_urticae,LR989987.1,10594113,10594268,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,4,48,48
+
+Getting Gene
+min = set452_frame0, 0.12
+5 top scores:
+[['set452_frame0', 0.12], ['set485_frame2', 1.641], ['set396_frame2', 1.76], ['set473_frame1', 1.765], ['set505_frame1', 1.774]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_urticae/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_452_frame0.fa.txt
+6 44
+Vanessa_tameamea_XM_026630430.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRAGELNFAAPSEDEADYPPAAYLKKGKVSR
+6 44
+set452_frame0
+YNSNDGFGRAGELNFAAPSEDEAEYPPAVFLKKGKVSR
+Original query = YNSNDGFGRAGELNFAAPSEDEADYPPAAYLKKGKVSR
+New query = YNSNDGFGRAGELNFAAPSEDEAEYPPAVFLKKGKVSR
+Scaffold = LR989987.1, start = 10572227, end = 10572279
+Nymphalis_urticae,LR989987.1,10593055,10593238,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Nymphalis_urticae,LR989987.1,10572227,10572279,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Nymphalis_urticae,LR989987.1,10594441,10594617,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,6,56,56
+
+Getting Gene
+min = set485_frame2, 0.038
+5 top scores:
+[['set485_frame2', 0.038], ['set170_frame0', 1.771], ['set456_frame1', 1.782], ['set419_frame2', 1.792], ['set208_frame0', 1.771]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_urticae/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_485_frame2.fa.txt
+37 102
+Vanessa_tameamea_XM_026630430.1_Frame_0_rightoh_1_query_Exon_3
+VLLQQDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+37 102
+set485_frame2
+AILQQDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = VLLQQDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+New query = AILQQDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = LR989987.1, start = 10572227, end = 10572279
+Nymphalis_urticae,LR989987.1,10594113,10594268,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,4,48,48
+
+2
+6
+7
+Nymphalis_urticae,LR989987.1,10591957,10592092,0,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+Nymphalis_urticae,LR989987.1,10595768,10595923,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,11,45,45
+
+Getting Gene
+min = set43_frame1, 0.059
+5 top scores:
+[['set43_frame1', 0.059], ['set30_frame2', 1.78], ['set1_frame2', 1.814], ['set68_frame2', 1.818], ['set62_frame0', 1.833]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_urticae/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_43_frame1.fa.txt
+27 80
+Vanessa_tameamea_XM_026630430.1_Frame_2_rightoh_1_query_Exon_4
+AERQAGDDYRTGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEIVTK
+27 80
+set43_frame1
+AERQAGDDYRAGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEFVTK
+Original query = AERQAGDDYRTGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEIVTK
+New query = AERQAGDDYRAGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEFVTK
+Scaffold = LR989987.1, start = 10572227, end = 10572279
+Nymphalis_urticae,LR989987.1,10594441,10594617,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,6,56,56
+
+3
+7
+Nymphalis_urticae,LR989987.1,10593055,10593238,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Nymphalis_urticae,LR989987.1,10595768,10595923,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,11,45,45
+
+Getting Gene
+min = set25_frame2, 0.046
+5 top scores:
+[['set25_frame2', 0.046], ['set43_frame2', 1.703], ['set39_frame0', 1.824], ['set39_frame1', 1.841], ['set9_frame2', 1.86]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_urticae/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_25_frame2.fa.txt
+24 84
+Vanessa_tameamea_XM_026630430.1_Frame_2_rightoh_1_query_Exon_5
+EHTRDKPRSHPGSSSETASSSSSSHGFGVKVIQRPELPPFPAETYDHERQEPPYAMECDR
+24 84
+set25_frame2
+EHTRDKPRSHPGSSSETASSSNSSHGFGVKVIQRPELPPFPAETYEHERQEPPYAMECDR
+Original query = EHTRDKPRSHPGSSSETASSSSSSHGFGVKVIQRPELPPFPAETYDHERQEPPYAMECDR
+New query = EHTRDKPRSHPGSSSETASSSNSSHGFGVKVIQRPELPPFPAETYEHERQEPPYAMECDR
+Scaffold = LR989987.1, start = 10572227, end = 10572279
+Nymphalis_urticae,LR989987.1,10595111,10595295,0,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6,17,60,60
+
+4
+8
+Nymphalis_urticae,LR989987.1,10594113,10594268,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,4,48,48
+
+Nymphalis_urticae,LR989987.1,10596468,10596558,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set14_frame1, 0.351
+5 top scores:
+[['set14_frame1', 0.351], ['set31_frame2', 1.725], ['set1_frame2', 1.826], ['set22_frame0', 1.737], ['set1_frame1', 1.771]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_urticae/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_14_frame1.fa.txt
+27 88
+Vanessa_tameamea_XM_026630430.1_Frame_2_rightoh_0_query_Exon_6
+SLLPAAEADAPRAPRAPLDGRLKREAALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDTE
+27 88
+set14_frame1
+SVLPAAETD---APDAPLDGRLKKEPALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDNE
+Original query = SLLPAAEADAPRAPRAPLDGRLKREAALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDTE
+New query = SVLPAAETD---APDAPLDGRLKKEPALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDNE
+Scaffold = LR989987.1, start = 10572227, end = 10572279
+Nymphalis_urticae,LR989987.1,10595768,10595923,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,11,45,45
+
+5
+8
+Nymphalis_urticae,LR989987.1,10594441,10594617,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,6,56,56
+
+Nymphalis_urticae,LR989987.1,10596468,10596558,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set29_frame1, 0.255
+5 top scores:
+[['set29_frame1', 0.255], ['set19_frame2', 1.673], ['set10_frame0', 1.762], ['set13_frame0', 1.858], ['set17_frame0', 1.761]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_urticae/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_29_frame1.fa.txt
+27 77
+Vanessa_tameamea_XM_026630430.1_Frame_0_rightoh_0_query_Exon_7
+SAEGAAHGKLYSHKRRRQAKPCAPPSTSASASASTSASASTEDAQDTSPQ
+27 77
+set29_frame1
+AGRGAAHGKLYSHKRRRQAKPAAPESTSASASASTSASASTEDAHDTSPQ
+Original query = SAEGAAHGKLYSHKRRRQAKPCAPPSTSASASASTSASASTEDAQDTSPQ
+New query = AGRGAAHGKLYSHKRRRQAKPAAPESTSASASASTSASASTEDAHDTSPQ
+Scaffold = LR989987.1, start = 10572227, end = 10572279
+Nymphalis_urticae,LR989987.1,10596468,10596558,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+6
+5
+8
+Nymphalis_urticae,LR989987.1,10594441,10594617,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,6,56,56
+
+Nymphalis_urticae,LR989987.1,10596468,10596558,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set25_frame2, 0.0
+5 top scores:
+[['set25_frame2', 0.0], ['set44_frame1', 1.611], ['set1_frame2', 1.669], ['set8_frame2', 1.693], ['set22_frame2', 1.743]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Nymphalis_urticae/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_25_frame2.fa.txt
+4 33
+set25_frame2
+DTSSDSPHHHQYDKPPPPTQYVPVFALNS
+Original query = DTSSDSPHHHQYDKPPPPTQYVPVFALNSL
+New query = DTSSDSPHHHQYDKPPPPTQYVPVFALNS

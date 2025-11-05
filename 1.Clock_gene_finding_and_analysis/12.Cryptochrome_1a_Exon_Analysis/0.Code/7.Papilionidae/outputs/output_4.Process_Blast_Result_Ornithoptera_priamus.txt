@@ -1,0 +1,825 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Ornithoptera_priamus
+Processing Exon_2
+0 query coordinate
+Period_gene_genomic_sequence_individual_exon
+48
+[[2, 1]]
+reached here
+Before splice: 1256,1402
+after splice: 1256,1402
+sequence:
+ACGAAGGTTGTTGGTTACAACCGCATGCGGTACCTGCTGGAGGCTCTTGAAGATTTAGACAACCAGTTCAAGGCGTACGGTGGTCGTCTTATTATGTTAAAGGGCAAGCCGCACTTGATATTCAGACGTCTTTGGGAGGAGTTTG
+sequence:
+TKVVGYNRMRYLLEALEDLDNQFKAYGGRLIMLKGKPHLIFRRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALEDLDNQFKAYGGRLIMLKGKPHLIFRRLWEEF
+[[2, 1]]
+start_coordinate : 2080211,stop_coordinate : 2080068
+1256 1402 Y N
+Ornithoptera_priamus,,2080067,2080213,1,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Ornithoptera_priamus
+Processing Exon_3
+Ornithoptera_priamus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 2670,2857
+after splice: 2670,2857
+sequence:
+ATTCAAAGGCTGTGTTTCGAGCAAGACTGCGAGCCGGTGTGGCGGCCCCGAGACGATGCCGTGAAGGCTGCCTGTCGCGATATCGGCGTGGTGTGTCGCGAACATGTCTCCCACACTCTGTGGGAGCCCGACACGGTCATCAGGGTCAACGGTGGTATTCCCCCGCTGACCTATCAAATGTTTTTG
+sequence:
+IQRLCFEQDCEPVWRPRDDAVKAACRDIGVVCREHVSHTLWEPDTVIRVNGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+IQRLCFEQDCEPVWRPRDDAVKAACRDIGVVCREHVSHTLWEPDTVIRVNGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 2078797,stop_coordinate : 2078612
+2670 2857 Y N
+Ornithoptera_priamus,,2078612,2078799,1,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Ornithoptera_priamus
+Processing Exon_4
+Ornithoptera_priamus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 3629,3745
+after splice: 3629,3745
+sequence:
+CACACGGTGTCGACGATTGGGGATCCCCCGCGACCCGTCCCCGACATCAACCTGACCGGAGTTAACTTCGGCGTGCTACCGGAGAGCTTCTCCCGAGAGTTTACTGTCTTTGATAAA
+sequence:
+HTVSTIGDPPRPVPDINLTGVNFGVLPESFSREFTVFDK
+left = AG, right =GT, stop_counter = 0
+HTVSTIGDPPRPVPDINLTGVNFGVLPESFSREFTVFDK
+[[0, 0]]
+start_coordinate : 2077840,stop_coordinate : 2077724
+3629 3745 Y N
+Ornithoptera_priamus,,2077724,2077840,1,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Ornithoptera_priamus
+Processing Exon_5
+Ornithoptera_priamus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 3916,4049
+after splice: 3916,4049
+sequence:
+GTACCCAAGCCCGAACATTTGGATGTGTTTTTGGAGAACGAGGACATCCGTATGATCCGCTGGGTGGGAGGCGAGAGCGCAGCCTTGAAGCAGATGCAGTACCGTCTTAACGTCGAATACGAGACATTCTGCAA
+sequence:
+VPKPEHLDVFLENEDIRMIRWVGGESAALKQMQYRLNVEYETFC
+left = AG, right =GT, stop_counter = 0
+VPKPEHLDVFLENEDIRMIRWVGGESAALKQMQYRLNVEYETFC
+[[0, 2]]
+start_coordinate : 2077553,stop_coordinate : 2077422
+3916 4049 Y N
+Ornithoptera_priamus,,2077420,2077553,1,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Ornithoptera_priamus
+Processing Exon_6
+Ornithoptera_priamus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 4267,4362
+after splice: 4267,4362
+sequence:
+GGATCATACCTACCCTCGCACGGCAATCCGGACCTCCTCGGCCCACCTATATCTCTGAGTCCGGCGCTTCGTTTCGGCTGCCTGTCTGTTCGCAA
+sequence:
+GSYLPSHGNPDLLGPPISLSPALRFGCLSVR
+left = AG, right =GT, stop_counter = 0
+GSYLPSHGNPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 2077201,stop_coordinate : 2077109
+4267 4362 Y N
+Ornithoptera_priamus,,2077107,2077202,1,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Ornithoptera_priamus
+Processing Exon_7
+Ornithoptera_priamus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 4674,4747
+after splice: 4674,4747
+sequence:
+TTCTATTGGGCCGTTCAAGACTTGTTCCAAAAAGTGCATCAAGGCCGTCTGTCTGGTTCTCAGTTTATAACag
+sequence:
+FYWAVQDLFQKVHQGRLSGSQFIT
+left = AG, right =gt, stop_counter = 0
+FYWAVQDLFQKVHQGRLSGSQFIT
+[[1, 1]]
+start_coordinate : 2076794,stop_coordinate : 2076723
+4674 4747 Y N
+Ornithoptera_priamus,,2076722,2076795,1,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Ornithoptera_priamus
+Processing Exon_8
+Ornithoptera_priamus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 5731,5857
+after splice: 5731,5857
+sequence:
+CAATTGATATGGCGTGAGTACTTCTACACGATGAGCGTAAACAACCCTAATTACGGACAAATGGCGGGGAACCCCATCTGCCTTGATATACCGTGGAAGAATCCAGAGGGAGATGAACTAAAAAG
+sequence:
+QLIWREYFYTMSVNNPNYGQMAGNPICLDIPWKNPEGDELK
+left = AG, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPNYGQMAGNPICLDIPWKNPEGDELK
+[[2, 2]]
+start_coordinate : 2075736,stop_coordinate : 2075614
+5731 5857 Y N
+Ornithoptera_priamus,,2075612,2075738,1,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Ornithoptera_priamus
+Processing Exon_9
+Ornithoptera_priamus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 7483,7665
+after splice: 7483,7665
+sequence:
+TGGATAGAAGGCCGCACCGGTTTTCCGTTCATAGATGCAGCTATGAGGCAGCTGCGCACGGAGGGCTGGCTGCACCACGTCGTCCGCAACACGGTGGCCTCGTTCCTCACTCGGGGTACACTCTGGATCTCTTGGGAATACGGTCTCAACCACTTCCTCAAGTATCTTCTGGACGCTGACTG
+sequence:
+WIEGRTGFPFIDAAMRQLRTEGWLHHVVRNTVASFLTRGTLWISWEYGLNHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WIEGRTGFPFIDAAMRQLRTEGWLHHVVRNTVASFLTRGTLWISWEYGLNHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 2073985,stop_coordinate : 2073806
+7483 7665 Y N
+Ornithoptera_priamus,,2073804,2073986,1,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Ornithoptera_priamus
+Processing Exon_10
+Ornithoptera_priamus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 8132,8299
+after splice: 8132,8299
+sequence:
+TCTGTGTGCGCTGGTAATTGGATGTGGGTGTCTTCGAGTGCGTTCGAGGCGCTGCTGGACTCGAGCGATTGCGCGTGCCCCGTGCGCCTGGGGCGGAGGCTCGAGCCCAGTGGCGAGTACGTGCGTCGCTACGTGCCCGAGCTGGCGCGCATGCCCAACGAGTACat
+sequence:
+SVCAGNWMWVSSSAFEALLDSSDCACPVRLGRRLEPSGEYVRRYVPELARMPNEY
+left = AG, right =gt, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSSDCACPVRLGRRLEPSGEYVRRYVPELARMPNEY
+[[1, 2]]
+start_coordinate : 2073336,stop_coordinate : 2073172
+8132 8299 Y N
+Ornithoptera_priamus,,2073170,2073337,1,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Ornithoptera_priamus
+Processing Exon_11
+Ornithoptera_priamus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 8579,8699
+after splice: 8579,8699
+sequence:
+TATGAGCCGTGGAAAGCACCAATTGACGTGCAGGAGCGCGCGGGCTGCATCATCGGCAAGGAATACCCCGCTCCGGTCGTGAACCATTTGGATGCCGCGCAGAGGAACGGAAACGCAATG
+sequence:
+YEPWKAPIDVQERAGCIIGKEYPAPVVNHLDAAQRNGNAM
+left = AG, right =AA, stop_counter = 0
+sequence:
+TATGAGCCGTGGAAAGCACCAATTGACGTGCAGGAGCGCGCGGGCTGCATCATCGGCAAGGAATACCCCGCTCCGGTCGTGAACCATTTGGATGCCGCGCAGAGGAACGGAAACGCAATGAAG
+sequence:
+YEPWKAPIDVQERAGCIIGKEYPAPVVNHLDAAQRNGNAMK
+left = AG, right =GT, stop_counter = 0
+YEPWKAPIDVQERAGCIIGKEYPAPVVNHLDAAQRNGNAMK
+[[1, 0]]
+start_coordinate : 2072889,stop_coordinate : 2072767
+8579 8702 Y N
+Ornithoptera_priamus,,2072767,2072890,1,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Ornithoptera_priamus
+Processing Exon_2
+0 query coordinate
+Ornithoptera_priamus_coordinates_Danaus_plexippus.csv
+48
+[[2, 1]]
+reached here
+Before splice: 1256,1402
+after splice: 1256,1402
+sequence:
+ACGAAGGTTGTTGGTTACAACCGCATGCGGTACCTGCTGGAGGCTCTTGAAGATTTAGACAACCAGTTCAAGGCGTACGGTGGTCGTCTTATTATGTTAAAGGGCAAGCCGCACTTGATATTCAGACGTCTTTGGGAGGAGTTTG
+sequence:
+TKVVGYNRMRYLLEALEDLDNQFKAYGGRLIMLKGKPHLIFRRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALEDLDNQFKAYGGRLIMLKGKPHLIFRRLWEEF
+[[2, 1]]
+start_coordinate : 2080211,stop_coordinate : 2080068
+1256 1402 Y N
+Ornithoptera_priamus,,2080067,2080213,1,N,Papilio_machaon_XM_014499499.2_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Ornithoptera_priamus
+Processing Exon_3
+Ornithoptera_priamus_coordinates_Papilio_machaon.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 2670,2857
+after splice: 2670,2857
+sequence:
+ATTCAAAGGCTGTGTTTCGAGCAAGACTGCGAGCCGGTGTGGCGGCCCCGAGACGATGCCGTGAAGGCTGCCTGTCGCGATATCGGCGTGGTGTGTCGCGAACATGTCTCCCACACTCTGTGGGAGCCCGACACGGTCATCAGGGTCAACGGTGGTATTCCCCCGCTGACCTATCAAATGTTTTTG
+sequence:
+IQRLCFEQDCEPVWRPRDDAVKAACRDIGVVCREHVSHTLWEPDTVIRVNGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+IQRLCFEQDCEPVWRPRDDAVKAACRDIGVVCREHVSHTLWEPDTVIRVNGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 2078797,stop_coordinate : 2078612
+2670 2857 Y N
+Ornithoptera_priamus,,2078612,2078799,1,N,Papilio_machaon_XM_014499499.2_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Ornithoptera_priamus
+Processing Exon_4
+Ornithoptera_priamus_coordinates_Papilio_machaon.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 3629,3745
+after splice: 3629,3745
+sequence:
+CACACGGTGTCGACGATTGGGGATCCCCCGCGACCCGTCCCCGACATCAACCTGACCGGAGTTAACTTCGGCGTGCTACCGGAGAGCTTCTCCCGAGAGTTTACTGTCTTTGATAAA
+sequence:
+HTVSTIGDPPRPVPDINLTGVNFGVLPESFSREFTVFDK
+left = AG, right =GT, stop_counter = 0
+HTVSTIGDPPRPVPDINLTGVNFGVLPESFSREFTVFDK
+[[0, 0]]
+start_coordinate : 2077840,stop_coordinate : 2077724
+3629 3745 Y N
+Ornithoptera_priamus,,2077724,2077840,1,N,Papilio_machaon_XM_014499499.2_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Ornithoptera_priamus
+Processing Exon_5
+Ornithoptera_priamus_coordinates_Papilio_machaon.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 3916,4049
+after splice: 3916,4049
+sequence:
+GTACCCAAGCCCGAACATTTGGATGTGTTTTTGGAGAACGAGGACATCCGTATGATCCGCTGGGTGGGAGGCGAGAGCGCAGCCTTGAAGCAGATGCAGTACCGTCTTAACGTCGAATACGAGACATTCTGCAA
+sequence:
+VPKPEHLDVFLENEDIRMIRWVGGESAALKQMQYRLNVEYETFC
+left = AG, right =GT, stop_counter = 0
+VPKPEHLDVFLENEDIRMIRWVGGESAALKQMQYRLNVEYETFC
+[[0, 2]]
+start_coordinate : 2077553,stop_coordinate : 2077422
+3916 4049 Y N
+Ornithoptera_priamus,,2077420,2077553,1,N,Papilio_machaon_XM_014499499.2_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Ornithoptera_priamus
+Processing Exon_6
+Ornithoptera_priamus_coordinates_Papilio_machaon.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 4267,4362
+after splice: 4267,4362
+sequence:
+GGATCATACCTACCCTCGCACGGCAATCCGGACCTCCTCGGCCCACCTATATCTCTGAGTCCGGCGCTTCGTTTCGGCTGCCTGTCTGTTCGCAA
+sequence:
+GSYLPSHGNPDLLGPPISLSPALRFGCLSVR
+left = AG, right =GT, stop_counter = 0
+GSYLPSHGNPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 2077201,stop_coordinate : 2077109
+4267 4362 Y N
+Ornithoptera_priamus,,2077107,2077202,1,N,Papilio_machaon_XM_014499499.2_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Ornithoptera_priamus
+Processing Exon_7
+Ornithoptera_priamus_coordinates_Papilio_machaon.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 4674,4747
+after splice: 4674,4747
+sequence:
+TTCTATTGGGCCGTTCAAGACTTGTTCCAAAAAGTGCATCAAGGCCGTCTGTCTGGTTCTCAGTTTATAACag
+sequence:
+FYWAVQDLFQKVHQGRLSGSQFIT
+left = AG, right =gt, stop_counter = 0
+FYWAVQDLFQKVHQGRLSGSQFIT
+[[1, 1]]
+start_coordinate : 2076794,stop_coordinate : 2076723
+4674 4747 Y N
+Ornithoptera_priamus,,2076722,2076795,1,N,Papilio_machaon_XM_014499499.2_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Ornithoptera_priamus
+Processing Exon_8
+Ornithoptera_priamus_coordinates_Papilio_machaon.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 5731,5857
+after splice: 5731,5857
+sequence:
+CAATTGATATGGCGTGAGTACTTCTACACGATGAGCGTAAACAACCCTAATTACGGACAAATGGCGGGGAACCCCATCTGCCTTGATATACCGTGGAAGAATCCAGAGGGAGATGAACTAAAAAG
+sequence:
+QLIWREYFYTMSVNNPNYGQMAGNPICLDIPWKNPEGDELK
+left = AG, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPNYGQMAGNPICLDIPWKNPEGDELK
+[[2, 2]]
+start_coordinate : 2075736,stop_coordinate : 2075614
+5731 5857 Y N
+Ornithoptera_priamus,,2075612,2075738,1,N,Papilio_machaon_XM_014499499.2_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Ornithoptera_priamus
+Processing Exon_9
+Ornithoptera_priamus_coordinates_Papilio_machaon.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 7483,7665
+after splice: 7483,7665
+sequence:
+TGGATAGAAGGCCGCACCGGTTTTCCGTTCATAGATGCAGCTATGAGGCAGCTGCGCACGGAGGGCTGGCTGCACCACGTCGTCCGCAACACGGTGGCCTCGTTCCTCACTCGGGGTACACTCTGGATCTCTTGGGAATACGGTCTCAACCACTTCCTCAAGTATCTTCTGGACGCTGACTG
+sequence:
+WIEGRTGFPFIDAAMRQLRTEGWLHHVVRNTVASFLTRGTLWISWEYGLNHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WIEGRTGFPFIDAAMRQLRTEGWLHHVVRNTVASFLTRGTLWISWEYGLNHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 2073985,stop_coordinate : 2073806
+7483 7665 Y N
+Ornithoptera_priamus,,2073804,2073986,1,N,Papilio_machaon_XM_014499499.2_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Ornithoptera_priamus
+Processing Exon_10
+Ornithoptera_priamus_coordinates_Papilio_machaon.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 8132,8299
+after splice: 8132,8299
+sequence:
+TCTGTGTGCGCTGGTAATTGGATGTGGGTGTCTTCGAGTGCGTTCGAGGCGCTGCTGGACTCGAGCGATTGCGCGTGCCCCGTGCGCCTGGGGCGGAGGCTCGAGCCCAGTGGCGAGTACGTGCGTCGCTACGTGCCCGAGCTGGCGCGCATGCCCAACGAGTACat
+sequence:
+SVCAGNWMWVSSSAFEALLDSSDCACPVRLGRRLEPSGEYVRRYVPELARMPNEY
+left = AG, right =gt, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSSDCACPVRLGRRLEPSGEYVRRYVPELARMPNEY
+[[1, 2]]
+start_coordinate : 2073336,stop_coordinate : 2073172
+8132 8299 Y N
+Ornithoptera_priamus,,2073170,2073337,1,N,Papilio_machaon_XM_014499499.2_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Ornithoptera_priamus
+Processing Exon_11
+Ornithoptera_priamus_coordinates_Papilio_machaon.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 8579,8699
+after splice: 8579,8699
+sequence:
+TATGAGCCGTGGAAAGCACCAATTGACGTGCAGGAGCGCGCGGGCTGCATCATCGGCAAGGAATACCCCGCTCCGGTCGTGAACCATTTGGATGCCGCGCAGAGGAACGGAAACGCAATG
+sequence:
+YEPWKAPIDVQERAGCIIGKEYPAPVVNHLDAAQRNGNAM
+left = AG, right =AA, stop_counter = 0
+sequence:
+TATGAGCCGTGGAAAGCACCAATTGACGTGCAGGAGCGCGCGGGCTGCATCATCGGCAAGGAATACCCCGCTCCGGTCGTGAACCATTTGGATGCCGCGCAGAGGAACGGAAACGCAATGAAG
+sequence:
+YEPWKAPIDVQERAGCIIGKEYPAPVVNHLDAAQRNGNAMK
+left = AG, right =GT, stop_counter = 0
+YEPWKAPIDVQERAGCIIGKEYPAPVVNHLDAAQRNGNAMK
+[[1, 0]]
+start_coordinate : 2072889,stop_coordinate : 2072767
+8579 8702 Y N
+Ornithoptera_priamus,,2072767,2072890,1,N,Papilio_machaon_XM_014499499.2_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Ornithoptera_priamus
+Processing Exon_2
+0 query coordinate
+Ornithoptera_priamus_coordinates_Papilio_machaon.csv
+48
+[[2, 1]]
+reached here
+Before splice: 1256,1402
+after splice: 1256,1402
+sequence:
+ACGAAGGTTGTTGGTTACAACCGCATGCGGTACCTGCTGGAGGCTCTTGAAGATTTAGACAACCAGTTCAAGGCGTACGGTGGTCGTCTTATTATGTTAAAGGGCAAGCCGCACTTGATATTCAGACGTCTTTGGGAGGAGTTTG
+sequence:
+TKVVGYNRMRYLLEALEDLDNQFKAYGGRLIMLKGKPHLIFRRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALEDLDNQFKAYGGRLIMLKGKPHLIFRRLWEEF
+[[2, 1]]
+start_coordinate : 2080211,stop_coordinate : 2080068
+1256 1402 Y N
+Ornithoptera_priamus,,2080067,2080213,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Ornithoptera_priamus
+Processing Exon_3
+Ornithoptera_priamus_coordinates_Papilio_xuthus.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 2670,2857
+after splice: 2670,2857
+sequence:
+ATTCAAAGGCTGTGTTTCGAGCAAGACTGCGAGCCGGTGTGGCGGCCCCGAGACGATGCCGTGAAGGCTGCCTGTCGCGATATCGGCGTGGTGTGTCGCGAACATGTCTCCCACACTCTGTGGGAGCCCGACACGGTCATCAGGGTCAACGGTGGTATTCCCCCGCTGACCTATCAAATGTTTTTG
+sequence:
+IQRLCFEQDCEPVWRPRDDAVKAACRDIGVVCREHVSHTLWEPDTVIRVNGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+IQRLCFEQDCEPVWRPRDDAVKAACRDIGVVCREHVSHTLWEPDTVIRVNGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 2078797,stop_coordinate : 2078612
+2670 2857 Y N
+Ornithoptera_priamus,,2078612,2078799,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Ornithoptera_priamus
+Processing Exon_4
+Ornithoptera_priamus_coordinates_Papilio_xuthus.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 3629,3745
+after splice: 3629,3745
+sequence:
+CACACGGTGTCGACGATTGGGGATCCCCCGCGACCCGTCCCCGACATCAACCTGACCGGAGTTAACTTCGGCGTGCTACCGGAGAGCTTCTCCCGAGAGTTTACTGTCTTTGATAAA
+sequence:
+HTVSTIGDPPRPVPDINLTGVNFGVLPESFSREFTVFDK
+left = AG, right =GT, stop_counter = 0
+HTVSTIGDPPRPVPDINLTGVNFGVLPESFSREFTVFDK
+[[0, 0]]
+start_coordinate : 2077840,stop_coordinate : 2077724
+3629 3745 Y N
+Ornithoptera_priamus,,2077724,2077840,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Ornithoptera_priamus
+Processing Exon_5
+Ornithoptera_priamus_coordinates_Papilio_xuthus.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 3916,4049
+after splice: 3916,4049
+sequence:
+GTACCCAAGCCCGAACATTTGGATGTGTTTTTGGAGAACGAGGACATCCGTATGATCCGCTGGGTGGGAGGCGAGAGCGCAGCCTTGAAGCAGATGCAGTACCGTCTTAACGTCGAATACGAGACATTCTGCAA
+sequence:
+VPKPEHLDVFLENEDIRMIRWVGGESAALKQMQYRLNVEYETFC
+left = AG, right =GT, stop_counter = 0
+VPKPEHLDVFLENEDIRMIRWVGGESAALKQMQYRLNVEYETFC
+[[0, 2]]
+start_coordinate : 2077553,stop_coordinate : 2077422
+3916 4049 Y N
+Ornithoptera_priamus,,2077420,2077553,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Ornithoptera_priamus
+Processing Exon_6
+Ornithoptera_priamus_coordinates_Papilio_xuthus.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 4267,4362
+after splice: 4267,4362
+sequence:
+GGATCATACCTACCCTCGCACGGCAATCCGGACCTCCTCGGCCCACCTATATCTCTGAGTCCGGCGCTTCGTTTCGGCTGCCTGTCTGTTCGCAA
+sequence:
+GSYLPSHGNPDLLGPPISLSPALRFGCLSVR
+left = AG, right =GT, stop_counter = 0
+GSYLPSHGNPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 2077201,stop_coordinate : 2077109
+4267 4362 Y N
+Ornithoptera_priamus,,2077107,2077202,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Ornithoptera_priamus
+Processing Exon_7
+Ornithoptera_priamus_coordinates_Papilio_xuthus.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 4674,4747
+after splice: 4674,4747
+sequence:
+TTCTATTGGGCCGTTCAAGACTTGTTCCAAAAAGTGCATCAAGGCCGTCTGTCTGGTTCTCAGTTTATAACag
+sequence:
+FYWAVQDLFQKVHQGRLSGSQFIT
+left = AG, right =gt, stop_counter = 0
+FYWAVQDLFQKVHQGRLSGSQFIT
+[[1, 1]]
+start_coordinate : 2076794,stop_coordinate : 2076723
+4674 4747 Y N
+Ornithoptera_priamus,,2076722,2076795,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Ornithoptera_priamus
+Processing Exon_8
+Ornithoptera_priamus_coordinates_Papilio_xuthus.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 5731,5857
+after splice: 5731,5857
+sequence:
+CAATTGATATGGCGTGAGTACTTCTACACGATGAGCGTAAACAACCCTAATTACGGACAAATGGCGGGGAACCCCATCTGCCTTGATATACCGTGGAAGAATCCAGAGGGAGATGAACTAAAAAG
+sequence:
+QLIWREYFYTMSVNNPNYGQMAGNPICLDIPWKNPEGDELK
+left = AG, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPNYGQMAGNPICLDIPWKNPEGDELK
+[[2, 2]]
+start_coordinate : 2075736,stop_coordinate : 2075614
+5731 5857 Y N
+Ornithoptera_priamus,,2075612,2075738,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Ornithoptera_priamus
+Processing Exon_9
+Ornithoptera_priamus_coordinates_Papilio_xuthus.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 7483,7665
+after splice: 7483,7665
+sequence:
+TGGATAGAAGGCCGCACCGGTTTTCCGTTCATAGATGCAGCTATGAGGCAGCTGCGCACGGAGGGCTGGCTGCACCACGTCGTCCGCAACACGGTGGCCTCGTTCCTCACTCGGGGTACACTCTGGATCTCTTGGGAATACGGTCTCAACCACTTCCTCAAGTATCTTCTGGACGCTGACTG
+sequence:
+WIEGRTGFPFIDAAMRQLRTEGWLHHVVRNTVASFLTRGTLWISWEYGLNHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WIEGRTGFPFIDAAMRQLRTEGWLHHVVRNTVASFLTRGTLWISWEYGLNHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 2073985,stop_coordinate : 2073806
+7483 7665 Y N
+Ornithoptera_priamus,,2073804,2073986,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Ornithoptera_priamus
+Processing Exon_10
+Ornithoptera_priamus_coordinates_Papilio_xuthus.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 8132,8299
+after splice: 8132,8299
+sequence:
+TCTGTGTGCGCTGGTAATTGGATGTGGGTGTCTTCGAGTGCGTTCGAGGCGCTGCTGGACTCGAGCGATTGCGCGTGCCCCGTGCGCCTGGGGCGGAGGCTCGAGCCCAGTGGCGAGTACGTGCGTCGCTACGTGCCCGAGCTGGCGCGCATGCCCAACGAGTACat
+sequence:
+SVCAGNWMWVSSSAFEALLDSSDCACPVRLGRRLEPSGEYVRRYVPELARMPNEY
+left = AG, right =gt, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSSDCACPVRLGRRLEPSGEYVRRYVPELARMPNEY
+[[1, 2]]
+start_coordinate : 2073336,stop_coordinate : 2073172
+8132 8299 Y N
+Ornithoptera_priamus,,2073170,2073337,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Ornithoptera_priamus
+Processing Exon_11
+Ornithoptera_priamus_coordinates_Papilio_xuthus.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 8579,8699
+after splice: 8579,8699
+sequence:
+TATGAGCCGTGGAAAGCACCAATTGACGTGCAGGAGCGCGCGGGCTGCATCATCGGCAAGGAATACCCCGCTCCGGTCGTGAACCATTTGGATGCCGCGCAGAGGAACGGAAACGCAATG
+sequence:
+YEPWKAPIDVQERAGCIIGKEYPAPVVNHLDAAQRNGNAM
+left = AG, right =AA, stop_counter = 0
+sequence:
+TATGAGCCGTGGAAAGCACCAATTGACGTGCAGGAGCGCGCGGGCTGCATCATCGGCAAGGAATACCCCGCTCCGGTCGTGAACCATTTGGATGCCGCGCAGAGGAACGGAAACGCAATGAAG
+sequence:
+YEPWKAPIDVQERAGCIIGKEYPAPVVNHLDAAQRNGNAMK
+left = AG, right =GT, stop_counter = 0
+YEPWKAPIDVQERAGCIIGKEYPAPVVNHLDAAQRNGNAMK
+[[1, 0]]
+start_coordinate : 2072889,stop_coordinate : 2072767
+8579 8702 Y N
+Ornithoptera_priamus,,2072767,2072890,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Ornithoptera_priamus
+Processing Exon_2
+0 query coordinate
+Ornithoptera_priamus_coordinates_Papilio_xuthus.csv
+48
+[[2, 1]]
+reached here
+Before splice: 1256,1402
+after splice: 1256,1402
+sequence:
+ACGAAGGTTGTTGGTTACAACCGCATGCGGTACCTGCTGGAGGCTCTTGAAGATTTAGACAACCAGTTCAAGGCGTACGGTGGTCGTCTTATTATGTTAAAGGGCAAGCCGCACTTGATATTCAGACGTCTTTGGGAGGAGTTTG
+sequence:
+TKVVGYNRMRYLLEALEDLDNQFKAYGGRLIMLKGKPHLIFRRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALEDLDNQFKAYGGRLIMLKGKPHLIFRRLWEEF
+[[2, 1]]
+start_coordinate : 2080211,stop_coordinate : 2080068
+1256 1402 Y N
+Ornithoptera_priamus,,2080067,2080213,1,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Ornithoptera_priamus
+Processing Exon_3
+Ornithoptera_priamus_coordinates_Zerene_cesonia.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 2670,2857
+after splice: 2670,2857
+sequence:
+ATTCAAAGGCTGTGTTTCGAGCAAGACTGCGAGCCGGTGTGGCGGCCCCGAGACGATGCCGTGAAGGCTGCCTGTCGCGATATCGGCGTGGTGTGTCGCGAACATGTCTCCCACACTCTGTGGGAGCCCGACACGGTCATCAGGGTCAACGGTGGTATTCCCCCGCTGACCTATCAAATGTTTTTG
+sequence:
+IQRLCFEQDCEPVWRPRDDAVKAACRDIGVVCREHVSHTLWEPDTVIRVNGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+IQRLCFEQDCEPVWRPRDDAVKAACRDIGVVCREHVSHTLWEPDTVIRVNGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 2078797,stop_coordinate : 2078612
+2670 2857 Y N
+Ornithoptera_priamus,,2078612,2078799,1,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Ornithoptera_priamus
+Processing Exon_4
+Ornithoptera_priamus_coordinates_Zerene_cesonia.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 3629,3745
+after splice: 3629,3745
+sequence:
+CACACGGTGTCGACGATTGGGGATCCCCCGCGACCCGTCCCCGACATCAACCTGACCGGAGTTAACTTCGGCGTGCTACCGGAGAGCTTCTCCCGAGAGTTTACTGTCTTTGATAAA
+sequence:
+HTVSTIGDPPRPVPDINLTGVNFGVLPESFSREFTVFDK
+left = AG, right =GT, stop_counter = 0
+HTVSTIGDPPRPVPDINLTGVNFGVLPESFSREFTVFDK
+[[0, 0]]
+start_coordinate : 2077840,stop_coordinate : 2077724
+3629 3745 Y N
+Ornithoptera_priamus,,2077724,2077840,1,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Ornithoptera_priamus
+Processing Exon_5
+Ornithoptera_priamus_coordinates_Zerene_cesonia.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 3916,4049
+after splice: 3916,4049
+sequence:
+GTACCCAAGCCCGAACATTTGGATGTGTTTTTGGAGAACGAGGACATCCGTATGATCCGCTGGGTGGGAGGCGAGAGCGCAGCCTTGAAGCAGATGCAGTACCGTCTTAACGTCGAATACGAGACATTCTGCAA
+sequence:
+VPKPEHLDVFLENEDIRMIRWVGGESAALKQMQYRLNVEYETFC
+left = AG, right =GT, stop_counter = 0
+VPKPEHLDVFLENEDIRMIRWVGGESAALKQMQYRLNVEYETFC
+[[0, 2]]
+start_coordinate : 2077553,stop_coordinate : 2077422
+3916 4049 Y N
+Ornithoptera_priamus,,2077420,2077553,1,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Ornithoptera_priamus
+Processing Exon_6
+Ornithoptera_priamus_coordinates_Zerene_cesonia.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 4267,4362
+after splice: 4267,4362
+sequence:
+GGATCATACCTACCCTCGCACGGCAATCCGGACCTCCTCGGCCCACCTATATCTCTGAGTCCGGCGCTTCGTTTCGGCTGCCTGTCTGTTCGCAA
+sequence:
+GSYLPSHGNPDLLGPPISLSPALRFGCLSVR
+left = AG, right =GT, stop_counter = 0
+GSYLPSHGNPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 2077201,stop_coordinate : 2077109
+4267 4362 Y N
+Ornithoptera_priamus,,2077107,2077202,1,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Ornithoptera_priamus
+Processing Exon_7
+Ornithoptera_priamus_coordinates_Zerene_cesonia.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 4674,4747
+after splice: 4674,4747
+sequence:
+TTCTATTGGGCCGTTCAAGACTTGTTCCAAAAAGTGCATCAAGGCCGTCTGTCTGGTTCTCAGTTTATAACag
+sequence:
+FYWAVQDLFQKVHQGRLSGSQFIT
+left = AG, right =gt, stop_counter = 0
+FYWAVQDLFQKVHQGRLSGSQFIT
+[[1, 1]]
+start_coordinate : 2076794,stop_coordinate : 2076723
+4674 4747 Y N
+Ornithoptera_priamus,,2076722,2076795,1,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Ornithoptera_priamus
+Processing Exon_8
+Ornithoptera_priamus_coordinates_Zerene_cesonia.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 5731,5857
+after splice: 5731,5857
+sequence:
+CAATTGATATGGCGTGAGTACTTCTACACGATGAGCGTAAACAACCCTAATTACGGACAAATGGCGGGGAACCCCATCTGCCTTGATATACCGTGGAAGAATCCAGAGGGAGATGAACTAAAAAG
+sequence:
+QLIWREYFYTMSVNNPNYGQMAGNPICLDIPWKNPEGDELK
+left = AG, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPNYGQMAGNPICLDIPWKNPEGDELK
+[[2, 2]]
+start_coordinate : 2075736,stop_coordinate : 2075614
+5731 5857 Y N
+Ornithoptera_priamus,,2075612,2075738,1,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Ornithoptera_priamus
+Processing Exon_9
+Ornithoptera_priamus_coordinates_Zerene_cesonia.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 7483,7665
+after splice: 7483,7665
+sequence:
+TGGATAGAAGGCCGCACCGGTTTTCCGTTCATAGATGCAGCTATGAGGCAGCTGCGCACGGAGGGCTGGCTGCACCACGTCGTCCGCAACACGGTGGCCTCGTTCCTCACTCGGGGTACACTCTGGATCTCTTGGGAATACGGTCTCAACCACTTCCTCAAGTATCTTCTGGACGCTGACTG
+sequence:
+WIEGRTGFPFIDAAMRQLRTEGWLHHVVRNTVASFLTRGTLWISWEYGLNHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WIEGRTGFPFIDAAMRQLRTEGWLHHVVRNTVASFLTRGTLWISWEYGLNHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 2073985,stop_coordinate : 2073806
+7483 7665 Y N
+Ornithoptera_priamus,,2073804,2073986,1,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Ornithoptera_priamus
+Processing Exon_10
+Ornithoptera_priamus_coordinates_Zerene_cesonia.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 8132,8299
+after splice: 8132,8299
+sequence:
+TCTGTGTGCGCTGGTAATTGGATGTGGGTGTCTTCGAGTGCGTTCGAGGCGCTGCTGGACTCGAGCGATTGCGCGTGCCCCGTGCGCCTGGGGCGGAGGCTCGAGCCCAGTGGCGAGTACGTGCGTCGCTACGTGCCCGAGCTGGCGCGCATGCCCAACGAGTACat
+sequence:
+SVCAGNWMWVSSSAFEALLDSSDCACPVRLGRRLEPSGEYVRRYVPELARMPNEY
+left = AG, right =gt, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSSDCACPVRLGRRLEPSGEYVRRYVPELARMPNEY
+[[1, 2]]
+start_coordinate : 2073336,stop_coordinate : 2073172
+8132 8299 Y N
+Ornithoptera_priamus,,2073170,2073337,1,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Ornithoptera_priamus
+Processing Exon_11
+Ornithoptera_priamus_coordinates_Zerene_cesonia.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 8579,8699
+after splice: 8579,8699
+sequence:
+TATGAGCCGTGGAAAGCACCAATTGACGTGCAGGAGCGCGCGGGCTGCATCATCGGCAAGGAATACCCCGCTCCGGTCGTGAACCATTTGGATGCCGCGCAGAGGAACGGAAACGCAATG
+sequence:
+YEPWKAPIDVQERAGCIIGKEYPAPVVNHLDAAQRNGNAM
+left = AG, right =AA, stop_counter = 0
+sequence:
+TATGAGCCGTGGAAAGCACCAATTGACGTGCAGGAGCGCGCGGGCTGCATCATCGGCAAGGAATACCCCGCTCCGGTCGTGAACCATTTGGATGCCGCGCAGAGGAACGGAAACGCAATGAAG
+sequence:
+YEPWKAPIDVQERAGCIIGKEYPAPVVNHLDAAQRNGNAMK
+left = AG, right =GT, stop_counter = 0
+YEPWKAPIDVQERAGCIIGKEYPAPVVNHLDAAQRNGNAMK
+[[1, 0]]
+start_coordinate : 2072889,stop_coordinate : 2072767
+8579 8702 Y N
+Ornithoptera_priamus,,2072767,2072890,1,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+

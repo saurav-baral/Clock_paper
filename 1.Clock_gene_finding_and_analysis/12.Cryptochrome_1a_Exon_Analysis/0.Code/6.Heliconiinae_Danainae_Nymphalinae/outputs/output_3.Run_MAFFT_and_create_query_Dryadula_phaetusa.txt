@@ -1,0 +1,654 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3320738,3320884,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+1
+4
+Dryadula_phaetusa,JAOYRS010000021.1,3316638,3316767,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Dryadula_phaetusa,JAOYRS010000021.1,3322505,3322621,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Getting Gene
+min = set82_frame1, 0.244
+5 top scores:
+[['set82_frame1', 0.244], ['set125_frame2', 1.746], ['set117_frame1', 1.757], ['set81_frame2', 1.824], ['set20_frame0', 1.813]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_82_frame1.fa.txt
+17 65
+Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_1_query_Exon_2
+TKMVGYNRMRYLLEALNDLDQQFRKYGGKLLMIKGRPDLIFRRLWEEF
+17 65
+set82_frame1
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEEF
+Original query = TKMVGYNRMRYLLEALNDLDQQFRKYGGKLLMIKGRPDLIFRRLWEEF
+New query = TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEEF
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3321938,3322125,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+1
+5
+Dryadula_phaetusa,JAOYRS010000021.1,3316638,3316767,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Dryadula_phaetusa,JAOYRS010000021.1,3323099,3323232,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,1,44,44
+
+Getting Gene
+min = set117_frame1, 0.233
+5 top scores:
+[['set117_frame1', 0.233], ['set137_frame1', 1.816], ['set28_frame2', 1.822], ['set123_frame2', 1.838], ['set129_frame2', 1.854]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_117_frame1.fa.txt
+19 81
+Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_0_query_Exon_3
+IRTLCFEQDCEPIWRPRDASVRALCRDIGVSCREHVAHTLWNPDTVIKANGGIPPLTYQMFL
+19 81
+set117_frame1
+IRKICFEQDCEPIWRARDEGVRTLCREIGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+Original query = IRTLCFEQDCEPIWRPRDASVRALCRDIGVSCREHVAHTLWNPDTVIKANGGIPPLTYQMFL
+New query = IRKICFEQDCEPIWRARDEGVRTLCREIGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3322505,3322621,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+2
+6
+Dryadula_phaetusa,JAOYRS010000021.1,3320738,3320884,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+Dryadula_phaetusa,JAOYRS010000021.1,3323976,3324071,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Getting Gene
+min = set31_frame0, 0.297
+5 top scores:
+[['set31_frame0', 0.297], ['set61_frame2', 1.709], ['set72_frame2', 1.799], ['set25_frame0', 1.757], ['set56_frame2', 1.812]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_31_frame0.fa.txt
+40 79
+Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4
+HTVEIIGNPPRPVDDVDLNGVNFGSLPESFYREFVVFDK
+40 79
+set31_frame0
+HTVAIIGDPPRPVDDVDLKGINFGTLPESFYNEFTVFDE
+Original query = HTVEIIGNPPRPVDDVDLNGVNFGSLPESFYREFVVFDK
+New query = HTVAIIGDPPRPVDDVDLKGINFGTLPESFYNEFTVFDE
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3323099,3323232,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,1,44,44
+
+3
+7
+Dryadula_phaetusa,JAOYRS010000021.1,3321938,3322125,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+Dryadula_phaetusa,JAOYRS010000021.1,3324723,3324796,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Getting Gene
+min = set15_frame0, 0.077
+5 top scores:
+[['set34_frame2', 1.783], ['set3_frame0', 1.807], ['set7_frame0', 1.807], ['set1_frame2', 1.827], ['set15_frame0', 0.077]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_15_frame0.fa.txt
+0 44
+Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5
+APKPEDLGVFLENEDIRMIRWVGGETAALKQMQERLAVEYETFC
+0 44
+set15_frame0
+APKPEDLGVFLENEDIRMIRWVGGETAALNQMQNRLAVEYETFC
+Original query = APKPEDLGVFLENEDIRMIRWVGGETAALKQMQERLAVEYETFC
+New query = APKPEDLGVFLENEDIRMIRWVGGETAALNQMQNRLAVEYETFC
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3323976,3324071,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+4
+8
+Dryadula_phaetusa,JAOYRS010000021.1,3322505,3322621,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Dryadula_phaetusa,JAOYRS010000021.1,3325662,3325788,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Getting Gene
+min = set26_frame2, 0.0
+5 top scores:
+[['set26_frame2', 0.0], ['set41_frame1', 1.73], ['set23_frame2', 1.732], ['set53_frame2', 1.744], ['set10_frame2', 1.786]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_26_frame2.fa.txt
+8 39
+Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+8 39
+set26_frame2
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Original query = GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+New query = GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3324723,3324796,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+5
+9
+Dryadula_phaetusa,JAOYRS010000021.1,3323099,3323232,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,1,44,44
+
+Dryadula_phaetusa,JAOYRS010000021.1,3327304,3327486,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Getting Gene
+min = set30_frame2, 0.352
+5 top scores:
+[['set30_frame2', 0.352], ['set62_frame2', 1.604], ['set39_frame1', 1.637], ['set68_frame1', 1.662], ['set73_frame1', 1.672]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_30_frame2.fa.txt
+8 32
+Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7
+FYWSLQDLFQQVHQGRLASTQFIT
+8 32
+set30_frame2
+FYWCVQDLFHQVNQGQLASTQFIT
+Original query = FYWSLQDLFQQVHQGRLASTQFIT
+New query = FYWCVQDLFHQVNQGQLASTQFIT
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3325662,3325788,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+6
+10
+Dryadula_phaetusa,JAOYRS010000021.1,3323976,3324071,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Dryadula_phaetusa,JAOYRS010000021.1,3328462,3328629,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+Getting Gene
+min = set37_frame2, 0.201
+5 top scores:
+[['set37_frame2', 0.201], ['set21_frame2', 1.74], ['set74_frame2', 1.748], ['set82_frame2', 1.748], ['set53_frame2', 1.789]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_37_frame2.fa.txt
+23 64
+Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8
+QLIWREYFYTMSVNNPNYAQMSGNPICLDIPWKEPENDELQ
+23 64
+set37_frame2
+QLIWREYFYTMSVNNPNYGQMGNNPICLNIPWKEPEGDELQ
+Original query = QLIWREYFYTMSVNNPNYAQMSGNPICLDIPWKEPENDELQ
+New query = QLIWREYFYTMSVNNPNYGQMGNNPICLNIPWKEPEGDELQ
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3327304,3327486,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+7
+11
+Dryadula_phaetusa,JAOYRS010000021.1,3324723,3324796,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Dryadula_phaetusa,JAOYRS010000021.1,3328958,3329081,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set54_frame2, 0.077
+5 top scores:
+[['set54_frame2', 0.077], ['set22_frame2', 1.849], ['set101_frame1', 1.853], ['set77_frame2', 1.864], ['set78_frame2', 1.869]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_54_frame2.fa.txt
+16 76
+Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9
+WKEGRTGFPFVDAAMRQLRTEGWLHHVVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+16 76
+set54_frame2
+WREGRTGFPFIDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+Original query = WKEGRTGFPFVDAAMRQLRTEGWLHHVVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+New query = WREGRTGFPFIDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3328462,3328629,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+8
+11
+Dryadula_phaetusa,JAOYRS010000021.1,3325662,3325788,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Dryadula_phaetusa,JAOYRS010000021.1,3328958,3329081,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set56_frame2, 0.113
+5 top scores:
+[['set56_frame2', 0.113], ['set42_frame0', 1.774], ['set59_frame2', 1.815], ['set65_frame0', 1.797], ['set8_frame2', 1.849]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_56_frame2.fa.txt
+3 58
+Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_10
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPTGHYVRRYVPELARMPGEY
+3 58
+set56_frame2
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELANMPVEY
+Original query = SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPTGHYVRRYVPELARMPGEY
+New query = SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELANMPVEY
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3328958,3329081,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+9
+11
+Dryadula_phaetusa,JAOYRS010000021.1,3327304,3327486,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Dryadula_phaetusa,JAOYRS010000021.1,3328958,3329081,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set29_frame2, 0.393
+5 top scores:
+[['set29_frame2', 0.393], ['set24_frame2', 1.755], ['set1_frame1', 1.814], ['set23_frame0', 1.792], ['set33_frame0', 1.775]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_29_frame2.fa.txt
+19 59
+set29_frame2
+YSPWTAPLEVQARARCVVGRDYPAPVVDHRAAAARNRSAM
+Original query = YEPWRAPLEVQEAAGCVIGRDYPAPVVDHTAAAARNRANMQ
+New query = YSPWTAPLEVQARARCVVGRDYPAPVVDHRAAAARNRSAM
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3320738,3320884,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+1
+4
+Dryadula_phaetusa,JAOYRS010000021.1,3316638,3316767,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Dryadula_phaetusa,JAOYRS010000021.1,3322505,3322621,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Getting Gene
+min = set82_frame1, 0.325
+5 top scores:
+[['set82_frame1', 0.325], ['set125_frame2', 1.712], ['set129_frame2', 1.79], ['set55_frame1', 1.796], ['set65_frame1', 1.806]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_82_frame1.fa.txt
+17 65
+Nymphalis_io_XM_050489987.1_Frame_2_rightoh_1_query_Exon_2
+TKIVGYNRMRYLLEALNDLDLQFKKYGGKLHLIKGKPEHVFRRFWEVL
+17 65
+set82_frame1
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEEF
+Original query = TKIVGYNRMRYLLEALNDLDLQFKKYGGKLHLIKGKPEHVFRRFWEVL
+New query = TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEEF
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3321938,3322125,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+1
+5
+Dryadula_phaetusa,JAOYRS010000021.1,3316638,3316767,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Dryadula_phaetusa,JAOYRS010000021.1,3323099,3323232,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,1,44,44
+
+Getting Gene
+min = set117_frame1, 0.227
+5 top scores:
+[['set117_frame1', 0.227], ['set123_frame2', 1.81], ['set32_frame0', 1.829], ['set28_frame2', 1.857], ['set129_frame2', 1.861]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_117_frame1.fa.txt
+19 81
+Nymphalis_io_XM_050489987.1_Frame_2_rightoh_0_query_Exon_3
+IRKICFEQDCEPIWRARDDCVRNLCREIGISCHENVSHTLWDPDSVIQANGGIPPLTYQMFL
+19 81
+set117_frame1
+IRKICFEQDCEPIWRARDEGVRTLCREIGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+Original query = IRKICFEQDCEPIWRARDDCVRNLCREIGISCHENVSHTLWDPDSVIQANGGIPPLTYQMFL
+New query = IRKICFEQDCEPIWRARDEGVRTLCREIGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3322505,3322621,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+2
+6
+Dryadula_phaetusa,JAOYRS010000021.1,3320738,3320884,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+Dryadula_phaetusa,JAOYRS010000021.1,3323976,3324071,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Getting Gene
+min = set31_frame0, 0.269
+5 top scores:
+[['set31_frame0', 0.269], ['set44_frame2', 1.75], ['set56_frame2', 1.753], ['set61_frame2', 1.776], ['set27_frame0', 1.79]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_31_frame0.fa.txt
+40 79
+Nymphalis_io_XM_050489987.1_Frame_0_rightoh_0_query_Exon_4
+HTVAIIGDPPRPVGDVDLKGVNFASLPRSFYDEFTIFEE
+40 79
+set31_frame0
+HTVAIIGDPPRPVDDVDLKGINFGTLPESFYNEFTVFDE
+Original query = HTVAIIGDPPRPVGDVDLKGVNFASLPRSFYDEFTIFEE
+New query = HTVAIIGDPPRPVDDVDLKGINFGTLPESFYNEFTVFDE
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3323099,3323232,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,1,44,44
+
+3
+7
+Dryadula_phaetusa,JAOYRS010000021.1,3321938,3322125,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+Dryadula_phaetusa,JAOYRS010000021.1,3324723,3324796,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Getting Gene
+min = set15_frame0, 0.071
+5 top scores:
+[['set34_frame2', 1.757], ['set22_frame0', 1.799], ['set7_frame0', 1.803], ['set1_frame2', 1.827], ['set15_frame0', 0.071]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_15_frame0.fa.txt
+0 44
+Nymphalis_io_XM_050489987.1_Frame_0_rightoh_2_query_Exon_5
+VPKPEDLGVFLENEDIRMIRWVGGETAALKQMQNRLAVEYETFC
+0 44
+set15_frame0
+APKPEDLGVFLENEDIRMIRWVGGETAALNQMQNRLAVEYETFC
+Original query = VPKPEDLGVFLENEDIRMIRWVGGETAALKQMQNRLAVEYETFC
+New query = APKPEDLGVFLENEDIRMIRWVGGETAALNQMQNRLAVEYETFC
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3323976,3324071,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+4
+8
+Dryadula_phaetusa,JAOYRS010000021.1,3322505,3322621,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Dryadula_phaetusa,JAOYRS010000021.1,3325662,3325788,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Getting Gene
+min = set26_frame2, 0.0
+5 top scores:
+[['set26_frame2', 0.0], ['set41_frame1', 1.73], ['set23_frame2', 1.732], ['set53_frame2', 1.744], ['set10_frame2', 1.786]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_26_frame2.fa.txt
+8 39
+Nymphalis_io_XM_050489987.1_Frame_1_rightoh_2_query_Exon_6
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+8 39
+set26_frame2
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Original query = GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+New query = GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3324723,3324796,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+5
+9
+Dryadula_phaetusa,JAOYRS010000021.1,3323099,3323232,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,1,44,44
+
+Dryadula_phaetusa,JAOYRS010000021.1,3327304,3327486,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Getting Gene
+min = set30_frame2, 0.227
+5 top scores:
+[['set30_frame2', 0.227], ['set62_frame2', 1.598], ['set36_frame1', 1.646], ['set46_frame2', 1.653], ['set97_frame2', 1.663]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_30_frame2.fa.txt
+8 32
+Nymphalis_io_XM_050489987.1_Frame_1_rightoh_1_query_Exon_7
+FYWCVQDLFQQVHQGRLASTQFIT
+8 32
+set30_frame2
+FYWCVQDLFHQVNQGQLASTQFIT
+Original query = FYWCVQDLFQQVHQGRLASTQFIT
+New query = FYWCVQDLFHQVNQGQLASTQFIT
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3325662,3325788,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+6
+10
+Dryadula_phaetusa,JAOYRS010000021.1,3323976,3324071,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Dryadula_phaetusa,JAOYRS010000021.1,3328462,3328629,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+Getting Gene
+min = set37_frame2, 0.137
+5 top scores:
+[['set37_frame2', 0.137], ['set48_frame1', 1.731], ['set82_frame2', 1.746], ['set21_frame2', 1.76], ['set74_frame2', 1.761]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_37_frame2.fa.txt
+23 64
+Nymphalis_io_XM_050489987.1_Frame_2_rightoh_2_query_Exon_8
+QLIWREYFYTMSVNNPNYAQMANNPICLDIPWKEPESDELQ
+23 64
+set37_frame2
+QLIWREYFYTMSVNNPNYGQMGNNPICLNIPWKEPEGDELQ
+Original query = QLIWREYFYTMSVNNPNYAQMANNPICLDIPWKEPESDELQ
+New query = QLIWREYFYTMSVNNPNYGQMGNNPICLNIPWKEPEGDELQ
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3327304,3327486,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+7
+11
+Dryadula_phaetusa,JAOYRS010000021.1,3324723,3324796,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Dryadula_phaetusa,JAOYRS010000021.1,3328958,3329081,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set54_frame2, 0.069
+5 top scores:
+[['set54_frame2', 0.069], ['set22_frame2', 1.822], ['set80_frame2', 1.854], ['set23_frame2', 1.871], ['set88_frame0', 1.857]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_54_frame2.fa.txt
+16 76
+Nymphalis_io_XM_050489987.1_Frame_1_rightoh_2_query_Exon_9
+WKEGRTGFPFVDAAMRQLRSEGWLHHAVRNTVASFLTRGTLWLSWEHGLAHFLKYLLDAD
+16 76
+set54_frame2
+WREGRTGFPFIDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+Original query = WKEGRTGFPFVDAAMRQLRSEGWLHHAVRNTVASFLTRGTLWLSWEHGLAHFLKYLLDAD
+New query = WREGRTGFPFIDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3328462,3328629,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+8
+11
+Dryadula_phaetusa,JAOYRS010000021.1,3325662,3325788,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Dryadula_phaetusa,JAOYRS010000021.1,3328958,3329081,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set56_frame2, 0.071
+5 top scores:
+[['set56_frame2', 0.071], ['set42_frame0', 1.775], ['set59_frame2', 1.834], ['set65_frame0', 1.764], ['set8_frame2', 1.85]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_56_frame2.fa.txt
+3 58
+Nymphalis_io_XM_050489987.1_Frame_1_rightoh_2_query_Exon_10
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELAHMPVDY
+3 58
+set56_frame2
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELANMPVEY
+Original query = SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELAHMPVDY
+New query = SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELANMPVEY
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3328958,3329081,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+9
+11
+Dryadula_phaetusa,JAOYRS010000021.1,3327304,3327486,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Dryadula_phaetusa,JAOYRS010000021.1,3328958,3329081,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set29_frame2, 0.391
+5 top scores:
+[['set29_frame2', 0.391], ['set14_frame0', 1.76], ['set1_frame2', 1.764], ['set23_frame0', 1.801], ['set33_frame0', 1.696]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_29_frame2.fa.txt
+19 59
+set29_frame2
+YSPWTAPLEVQARARCVVGRDYPAPVVDHRAAAARNRSAM
+Original query = YEPWNAPLEVQERAGCVVGRHYPAPVVDHRAAAQRNRANMQ
+New query = YSPWTAPLEVQARARCVVGRDYPAPVVDHRAAAARNRSAM
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3320738,3320884,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+1
+4
+Dryadula_phaetusa,JAOYRS010000021.1,3316638,3316767,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Dryadula_phaetusa,JAOYRS010000021.1,3322505,3322621,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Getting Gene
+min = set82_frame1, 0.113
+5 top scores:
+[['set82_frame1', 0.113], ['set125_frame2', 1.736], ['set117_frame1', 1.783], ['set65_frame1', 1.805], ['set81_frame1', 1.818]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_82_frame1.fa.txt
+17 64
+Vanessa_tameamea_XM_026643186.1_Frame_2_rightoh_1_query_Exon_2
+TKIVGYNRMRYLLEALNDLDVQFKKYGGRLHMIKGKPDLVFRRLWEE
+17 64
+set82_frame1
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEE
+Original query = TKIVGYNRMRYLLEALNDLDVQFKKYGGRLHMIKGKPDLVFRRLWEES
+New query = TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEE
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3321938,3322125,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+1
+5
+Dryadula_phaetusa,JAOYRS010000021.1,3316638,3316767,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Dryadula_phaetusa,JAOYRS010000021.1,3323099,3323232,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,1,44,44
+
+Getting Gene
+min = set117_frame1, 0.176
+5 top scores:
+[['set117_frame1', 0.176], ['set123_frame2', 1.822], ['set39_frame2', 1.833], ['set129_frame2', 1.855], ['set36_frame0', 1.846]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_117_frame1.fa.txt
+19 81
+Vanessa_tameamea_XM_026643186.1_Frame_2_rightoh_0_query_Exon_3
+IRKICFEQDCEPIWRARDDSVRDLCRKIGVSCRENVSHTLWDPDSVIQANGGIPPLTYQMFL
+19 81
+set117_frame1
+IRKICFEQDCEPIWRARDEGVRTLCREIGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+Original query = IRKICFEQDCEPIWRARDDSVRDLCRKIGVSCRENVSHTLWDPDSVIQANGGIPPLTYQMFL
+New query = IRKICFEQDCEPIWRARDEGVRTLCREIGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3322505,3322621,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+2
+6
+Dryadula_phaetusa,JAOYRS010000021.1,3320738,3320884,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+Dryadula_phaetusa,JAOYRS010000021.1,3323976,3324071,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Getting Gene
+min = set31_frame0, 0.259
+5 top scores:
+[['set31_frame0', 0.259], ['set59_frame2', 1.751], ['set61_frame2', 1.784], ['set87_frame1', 1.796], ['set27_frame0', 1.754]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_31_frame0.fa.txt
+40 78
+Vanessa_tameamea_XM_026643186.1_Frame_0_rightoh_0_query_Exon_4
+HTVAIIGDPPRPVDDVDLKGVNFACLPKSFYDEFTVFD
+40 78
+set31_frame0
+HTVAIIGDPPRPVDDVDLKGINFGTLPESFYNEFTVFD
+Original query = HTVAIIGDPPRPVDDVDLKGVNFACLPKSFYDEFTVFDM
+New query = HTVAIIGDPPRPVDDVDLKGINFGTLPESFYNEFTVFD
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3323099,3323232,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,1,44,44
+
+3
+7
+Dryadula_phaetusa,JAOYRS010000021.1,3321938,3322125,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+Dryadula_phaetusa,JAOYRS010000021.1,3324723,3324796,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Getting Gene
+min = set15_frame0, 0.06
+5 top scores:
+[['set34_frame2', 1.796], ['set3_frame0', 1.808], ['set7_frame0', 1.797], ['set32_frame0', 1.817], ['set15_frame0', 0.06]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_15_frame0.fa.txt
+0 44
+Vanessa_tameamea_XM_026643186.1_Frame_0_rightoh_2_query_Exon_5
+VPKPEDLGVFLENEDIRMIRWVGGETAALNKMQNRLAVEYETFC
+0 44
+set15_frame0
+APKPEDLGVFLENEDIRMIRWVGGETAALNQMQNRLAVEYETFC
+Original query = VPKPEDLGVFLENEDIRMIRWVGGETAALNKMQNRLAVEYETFC
+New query = APKPEDLGVFLENEDIRMIRWVGGETAALNQMQNRLAVEYETFC
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3323976,3324071,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+4
+8
+Dryadula_phaetusa,JAOYRS010000021.1,3322505,3322621,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Dryadula_phaetusa,JAOYRS010000021.1,3325662,3325788,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Getting Gene
+min = set26_frame2, 0.077
+5 top scores:
+[['set26_frame2', 0.077], ['set41_frame1', 1.724], ['set19_frame1', 1.743], ['set53_frame2', 1.744], ['set23_frame2', 1.749]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_26_frame2.fa.txt
+8 39
+Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_2_query_Exon_6
+GSYLPTLGNPDLLGPPISLSPALRFGCLSVR
+8 39
+set26_frame2
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Original query = GSYLPTLGNPDLLGPPISLSPALRFGCLSVR
+New query = GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3324723,3324796,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+5
+9
+Dryadula_phaetusa,JAOYRS010000021.1,3323099,3323232,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,1,44,44
+
+Dryadula_phaetusa,JAOYRS010000021.1,3327304,3327486,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Getting Gene
+min = set30_frame2, 0.227
+5 top scores:
+[['set30_frame2', 0.227], ['set62_frame2', 1.598], ['set36_frame1', 1.646], ['set46_frame2', 1.653], ['set97_frame2', 1.663]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_30_frame2.fa.txt
+8 32
+Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_1_query_Exon_7
+FYWCVQDLFQQVHQGRLASTQFIT
+8 32
+set30_frame2
+FYWCVQDLFHQVNQGQLASTQFIT
+Original query = FYWCVQDLFQQVHQGRLASTQFIT
+New query = FYWCVQDLFHQVNQGQLASTQFIT
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3325662,3325788,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+6
+10
+Dryadula_phaetusa,JAOYRS010000021.1,3323976,3324071,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Dryadula_phaetusa,JAOYRS010000021.1,3328462,3328629,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+Getting Gene
+min = set37_frame2, 0.212
+5 top scores:
+[['set37_frame2', 0.212], ['set48_frame1', 1.737], ['set82_frame2', 1.758], ['set26_frame0', 1.737], ['set39_frame0', 1.759]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_37_frame2.fa.txt
+23 64
+Vanessa_tameamea_XM_026643186.1_Frame_2_rightoh_2_query_Exon_8
+QLIWREYFYTISVNNPNYGQMAGNPICLDIPWKDPESDELQ
+23 64
+set37_frame2
+QLIWREYFYTMSVNNPNYGQMGNNPICLNIPWKEPEGDELQ
+Original query = QLIWREYFYTISVNNPNYGQMAGNPICLDIPWKDPESDELQ
+New query = QLIWREYFYTMSVNNPNYGQMGNNPICLNIPWKEPEGDELQ
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3327304,3327486,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+7
+11
+Dryadula_phaetusa,JAOYRS010000021.1,3324723,3324796,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Dryadula_phaetusa,JAOYRS010000021.1,3328958,3329081,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set54_frame2, 0.077
+5 top scores:
+[['set54_frame2', 0.077], ['set22_frame2', 1.822], ['set80_frame2', 1.854], ['set23_frame2', 1.871], ['set88_frame0', 1.842]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_54_frame2.fa.txt
+16 76
+Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_2_query_Exon_9
+WKEGRTGFPFVDAAMRQLRAEGWLHHAVRNTVASFLTRGTLWLSWEHGLAHFLKYLLDAD
+16 76
+set54_frame2
+WREGRTGFPFIDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+Original query = WKEGRTGFPFVDAAMRQLRAEGWLHHAVRNTVASFLTRGTLWLSWEHGLAHFLKYLLDAD
+New query = WREGRTGFPFIDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3328462,3328629,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+8
+11
+Dryadula_phaetusa,JAOYRS010000021.1,3325662,3325788,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Dryadula_phaetusa,JAOYRS010000021.1,3328958,3329081,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set56_frame2, 0.067
+5 top scores:
+[['set56_frame2', 0.067], ['set42_frame0', 1.773], ['set59_frame2', 1.833], ['set65_frame0', 1.763], ['set8_frame2', 1.849]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_56_frame2.fa.txt
+3 58
+Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_2_query_Exon_10
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELARMPVDY
+3 58
+set56_frame2
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELANMPVEY
+Original query = SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELARMPVDY
+New query = SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELANMPVEY
+Scaffold = JAOYRS010000021.1, start = 3316638, end = 3316767
+Dryadula_phaetusa,JAOYRS010000021.1,3328958,3329081,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+9
+11
+Dryadula_phaetusa,JAOYRS010000021.1,3327304,3327486,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Dryadula_phaetusa,JAOYRS010000021.1,3328958,3329081,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set29_frame2, 0.277
+5 top scores:
+[['set29_frame2', 0.277], ['set14_frame0', 1.764], ['set27_frame1', 1.776], ['set23_frame0', 1.756], ['set33_frame0', 1.692]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Dryadula_phaetusa/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_29_frame2.fa.txt
+19 59
+set29_frame2
+YSPWTAPLEVQARARCVVGRDYPAPVVDHRAAAARNRSAM
+Original query = YEPWRAPLEVQERAGCVVGRDYPAPVVDHRAAAQRNRAAMQ
+New query = YSPWTAPLEVQARARCVVGRDYPAPVVDHRAAAARNRSAM

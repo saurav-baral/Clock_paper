@@ -1,0 +1,654 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7885638,7885784,1,N,Pieris_napi_XM_047649107.1_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+1
+4
+Pieris_brassicae,NC_059668.1,7886103,7886232,1,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Pieris_brassicae,NC_059668.1,7880515,7880631,1,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Getting Gene
+min = set10_frame0, 0.204
+5 top scores:
+[['set4_frame1', 1.679], ['set10_frame0', 0.204], ['set35_frame2', 1.768], ['set51_frame2', 1.798], ['set91_frame2', 1.809]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_10_frame0.fa.txt
+10 58
+Pararge_aegeria_XM_039898346.1_Frame_2_rightoh_1_query_Exon_2
+TKVVGYNRMRYLLEALNDLDNQFKKYGGRLHMIKGKPDAVFRSLWEEF
+10 58
+set10_frame0
+TKVVGYNRMRYLLEALEDLDTQFRQYGGRLHMIKGKPDDVFRRLWEEF
+Original query = TKVVGYNRMRYLLEALNDLDNQFKKYGGRLHMIKGKPDAVFRSLWEEF
+New query = TKVVGYNRMRYLLEALEDLDTQFRQYGGRLHMIKGKPDDVFRRLWEEF
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7882500,7882687,1,N,Pieris_napi_XM_047649107.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+1
+5
+Pieris_brassicae,NC_059668.1,7886103,7886232,1,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Pieris_brassicae,NC_059668.1,7879778,7879911,1,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_2_query_Exon_5,1,44,44
+
+Getting Gene
+min = set82_frame1, 0.397
+5 top scores:
+[['set82_frame1', 0.397], ['set42_frame1', 1.829], ['set114_frame2', 1.849], ['set139_frame0', 1.843], ['set98_frame1', 1.859]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_82_frame1.fa.txt
+32 94
+Pararge_aegeria_XM_039898346.1_Frame_2_rightoh_0_query_Exon_3
+IRKICFEQDCEPIWQARDECVRSLCRKIGVGCRENVSHTLWDPDTVIRANGGIPPLTYEMFL
+32 94
+set82_frame1
+ITKLCYEQDCEPIWRERDESVRATCRQIGVECHQFVSHTLWDPDTVIRVNGGIPPLTYQMFL
+Original query = IRKICFEQDCEPIWQARDECVRSLCRKIGVGCRENVSHTLWDPDTVIRANGGIPPLTYEMFL
+New query = ITKLCYEQDCEPIWRERDESVRATCRQIGVECHQFVSHTLWDPDTVIRVNGGIPPLTYQMFL
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7880515,7880631,1,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+2
+6
+Pieris_brassicae,NC_059668.1,7885638,7885784,1,N,Pieris_napi_XM_047649107.1_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+Pieris_brassicae,NC_059668.1,7878764,7878859,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Getting Gene
+min = set130_frame2, 0.658
+5 top scores:
+[['set130_frame2', 0.658], ['set131_frame0', 1.703], ['set66_frame2', 1.709], ['set76_frame2', 1.718], ['set140_frame2', 1.718]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_130_frame2.fa.txt
+4 43
+Pararge_aegeria_XM_039898346.1_Frame_0_rightoh_0_query_Exon_4
+HTVGIIGNPPRPVDDVDLTGVNFVTLTDRFYKEFTVYDT
+4 43
+set130_frame2
+HTVAIIGDPPRPVDDVDLKVTNFGVLPDCFYKEFVVFEK
+Original query = HTVGIIGNPPRPVDDVDLTGVNFVTLTDRFYKEFTVYDT
+New query = HTVAIIGDPPRPVDDVDLKVTNFGVLPDCFYKEFVVFEK
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7879778,7879911,1,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_2_query_Exon_5,1,44,44
+
+3
+7
+Pieris_brassicae,NC_059668.1,7882500,7882687,1,N,Pieris_napi_XM_047649107.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+Pieris_brassicae,NC_059668.1,7876274,7876344,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_1_query_Exon_7,1,23,23
+
+Getting Gene
+min = set67_frame1, 0.372
+5 top scores:
+[['set67_frame1', 0.372], ['set11_frame1', 1.756], ['set78_frame1', 1.778], ['set89_frame1', 1.796], ['set29_frame0', 1.79]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_67_frame1.fa.txt
+8 52
+Pararge_aegeria_XM_039898346.1_Frame_0_rightoh_2_query_Exon_5
+VPKPEDLGIFLETEDIRMIRWVGGETAALSQMQNRLAVEYEAFC
+8 52
+set67_frame1
+TPKPEDLGVYLENEDIRMIRWVGGERAALAQMQQRLAVEHETFR
+Original query = VPKPEDLGIFLETEDIRMIRWVGGETAALSQMQNRLAVEYEAFC
+New query = TPKPEDLGVYLENEDIRMIRWVGGERAALAQMQQRLAVEHETFR
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7878764,7878859,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+4
+8
+Pieris_brassicae,NC_059668.1,7880515,7880631,1,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Pieris_brassicae,NC_059668.1,7875568,7875694,1,N,Pieris_napi_XM_047649107.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Getting Gene
+min = set20_frame0, 0.161
+5 top scores:
+[['set20_frame0', 0.161], ['set16_frame1', 1.644], ['set103_frame1', 1.654], ['set13_frame2', 1.661], ['set90_frame2', 1.675]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_20_frame0.fa.txt
+28 59
+Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_2_query_Exon_6
+GAYLPTHGNPDLLSRPISLSPALRFGCLSVR
+28 59
+set20_frame0
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Original query = GAYLPTHGNPDLLSRPISLSPALRFGCLSVR
+New query = GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7876274,7876344,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_1_query_Exon_7,1,23,23
+
+5
+9
+Pieris_brassicae,NC_059668.1,7879778,7879911,1,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_2_query_Exon_5,1,44,44
+
+Pieris_brassicae,NC_059668.1,7874725,7874907,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Getting Gene
+min = set75_frame1, 0.713
+5 top scores:
+[['set75_frame1', 0.713], ['set55_frame2', 1.57], ['set41_frame2', 1.661], ['set10_frame0', 1.626], ['set111_frame2', 1.665]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_75_frame1.fa.txt
+12 36
+Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_1_query_Exon_7
+FYWCLQDLFQQVHQGRVATTQFIT
+12 36
+set75_frame1
+FYWSLQDLFQSVHQGEM-SSQFIS
+Original query = FYWCLQDLFQQVHQGRVATTQFIT
+New query = FYWSLQDLFQSVHQGEM-SSQFIS
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7875568,7875694,1,N,Pieris_napi_XM_047649107.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+6
+10
+Pieris_brassicae,NC_059668.1,7878764,7878859,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Pieris_brassicae,NC_059668.1,7874424,7874591,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+Getting Gene
+min = set62_frame2, 0.212
+5 top scores:
+[['set62_frame2', 0.212], ['set7_frame2', 1.742], ['set77_frame1', 1.787], ['set47_frame2', 1.8], ['set62_frame1', 1.813]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_62_frame2.fa.txt
+19 60
+Pararge_aegeria_XM_039898346.1_Frame_2_rightoh_2_query_Exon_8
+QLIWREYFYTMSVNNPQYAQMAGNPICLDIPWKQPENDELQ
+19 60
+set62_frame2
+QLIWREYFYTMSVNNPRYAQMEGNPICLDIPWREPHGDELQ
+Original query = QLIWREYFYTMSVNNPQYAQMAGNPICLDIPWKQPENDELQ
+New query = QLIWREYFYTMSVNNPRYAQMEGNPICLDIPWREPHGDELQ
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7874725,7874907,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+7
+11
+Pieris_brassicae,NC_059668.1,7876274,7876344,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_1_query_Exon_7,1,23,23
+
+Pieris_brassicae,NC_059668.1,7872793,7872916,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set32_frame1, 0.069
+5 top scores:
+[['set32_frame1', 0.069], ['set20_frame2', 1.703], ['set22_frame2', 1.812], ['set30_frame2', 1.847], ['set34_frame2', 1.85]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_32_frame1.fa.txt
+8 68
+Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_2_query_Exon_9
+WKEGRTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLEHFLKYLLDAD
+8 68
+set32_frame1
+WEEGRTGFPFVDAAMRQLRTEGWLHHALRNTVASFLTRGTLWLSWEHGLRHFLKYLLDAD
+Original query = WKEGRTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLEHFLKYLLDAD
+New query = WEEGRTGFPFVDAAMRQLRTEGWLHHALRNTVASFLTRGTLWLSWEHGLRHFLKYLLDAD
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7874424,7874591,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+8
+11
+Pieris_brassicae,NC_059668.1,7875568,7875694,1,N,Pieris_napi_XM_047649107.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Pieris_brassicae,NC_059668.1,7872793,7872916,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set18_frame0, 0.195
+5 top scores:
+[['set4_frame0', 1.743], ['set32_frame1', 1.804], ['set14_frame0', 1.86], ['set18_frame0', 0.195], ['set39_frame0', 1.845]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_18_frame0.fa.txt
+13 68
+Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_2_query_Exon_10
+SVCAGNWMWVSSSAFEALLDSSECVCPVRLGRRLEPSGQYVRRYVPELGNMPVEY
+13 68
+set18_frame0
+SVCAGNWMWVSSSAFEALLDSSECACPVRLGQRLEPSGQYVRRYVPELTNIPDKY
+Original query = SVCAGNWMWVSSSAFEALLDSSECVCPVRLGRRLEPSGQYVRRYVPELGNMPVEY
+New query = SVCAGNWMWVSSSAFEALLDSSECACPVRLGQRLEPSGQYVRRYVPELTNIPDKY
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7872793,7872916,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+9
+11
+Pieris_brassicae,NC_059668.1,7874725,7874907,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Pieris_brassicae,NC_059668.1,7872793,7872916,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set39_frame0, 0.575
+5 top scores:
+[['set39_frame0', 0.575], ['set5_frame1', 1.782], ['set11_frame0', 1.783], ['set23_frame1', 1.79], ['set37_frame2', 1.796]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_39_frame0.fa.txt
+11 51
+set39_frame0
+YEPWKAPIEVQQRAGCIIGRDYPPPMLDHLEAAGRNQSAM
+Original query = YEPWSAPLEVQQNANCIIGRDYPAPVVDHRACAHRNRNAMQ
+New query = YEPWKAPIEVQQRAGCIIGRDYPPPMLDHLEAAGRNQSAM
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7885638,7885784,1,N,Pieris_napi_XM_047649107.1_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+1
+4
+Pieris_brassicae,NC_059668.1,7886103,7886232,1,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Pieris_brassicae,NC_059668.1,7880515,7880631,1,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Getting Gene
+min = set10_frame0, 0.119
+5 top scores:
+[['set4_frame1', 1.685], ['set10_frame0', 0.119], ['set82_frame1', 1.747], ['set35_frame2', 1.756], ['set91_frame2', 1.773]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_10_frame0.fa.txt
+10 58
+Pieris_napi_XM_047649107.1_Frame_2_rightoh_1_query_Exon_2
+TKVVGYNRMRYLLEALEDLDNQFRQYGGRLHMIKGKPVDVFRRLWEEL
+10 58
+set10_frame0
+TKVVGYNRMRYLLEALEDLDTQFRQYGGRLHMIKGKPDDVFRRLWEEF
+Original query = TKVVGYNRMRYLLEALEDLDNQFRQYGGRLHMIKGKPVDVFRRLWEEL
+New query = TKVVGYNRMRYLLEALEDLDTQFRQYGGRLHMIKGKPDDVFRRLWEEF
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7882500,7882687,1,N,Pieris_napi_XM_047649107.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+1
+5
+Pieris_brassicae,NC_059668.1,7886103,7886232,1,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Pieris_brassicae,NC_059668.1,7879778,7879911,1,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_2_query_Exon_5,1,44,44
+
+Getting Gene
+min = set82_frame1, 0.08
+5 top scores:
+[['set82_frame1', 0.08], ['set42_frame1', 1.826], ['set98_frame1', 1.852], ['set139_frame0', 1.848], ['set90_frame2', 1.854]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_82_frame1.fa.txt
+32 94
+Pieris_napi_XM_047649107.1_Frame_2_rightoh_0_query_Exon_3
+INKLCYEQDCEPIWRERDESVRATCKQIGVECHHFVSHTLWDPDTVIRVNGGIPPLTYQMFL
+32 94
+set82_frame1
+ITKLCYEQDCEPIWRERDESVRATCRQIGVECHQFVSHTLWDPDTVIRVNGGIPPLTYQMFL
+Original query = INKLCYEQDCEPIWRERDESVRATCKQIGVECHHFVSHTLWDPDTVIRVNGGIPPLTYQMFL
+New query = ITKLCYEQDCEPIWRERDESVRATCRQIGVECHQFVSHTLWDPDTVIRVNGGIPPLTYQMFL
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7880515,7880631,1,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+2
+6
+Pieris_brassicae,NC_059668.1,7885638,7885784,1,N,Pieris_napi_XM_047649107.1_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+Pieris_brassicae,NC_059668.1,7878764,7878859,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Getting Gene
+min = set130_frame2, 0.113
+5 top scores:
+[['set130_frame2', 0.113], ['set36_frame2', 1.726], ['set134_frame2', 1.752], ['set43_frame2', 1.758], ['set74_frame0', 1.731]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_130_frame2.fa.txt
+4 43
+Pieris_napi_XM_047649107.1_Frame_0_rightoh_0_query_Exon_4
+HTVTIIGDPPRPVDDVDLRMTNFGVLPDCFYKEFVVFEK
+4 43
+set130_frame2
+HTVAIIGDPPRPVDDVDLKVTNFGVLPDCFYKEFVVFEK
+Original query = HTVTIIGDPPRPVDDVDLRMTNFGVLPDCFYKEFVVFEK
+New query = HTVAIIGDPPRPVDDVDLKVTNFGVLPDCFYKEFVVFEK
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7879778,7879911,1,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_2_query_Exon_5,1,44,44
+
+3
+7
+Pieris_brassicae,NC_059668.1,7882500,7882687,1,N,Pieris_napi_XM_047649107.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+Pieris_brassicae,NC_059668.1,7876274,7876344,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_1_query_Exon_7,1,23,23
+
+Getting Gene
+min = set67_frame1, 0.162
+5 top scores:
+[['set67_frame1', 0.162], ['set130_frame2', 1.773], ['set1_frame2', 1.785], ['set91_frame2', 1.811], ['set29_frame0', 1.818]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_67_frame1.fa.txt
+8 52
+Pieris_napi_XM_047649107.1_Frame_0_rightoh_2_query_Exon_5
+TPKPEDFGVHLENDDIRMIRWVGGERAALTQMQQRLAVEHETFR
+8 52
+set67_frame1
+TPKPEDLGVYLENEDIRMIRWVGGERAALAQMQQRLAVEHETFR
+Original query = TPKPEDFGVHLENDDIRMIRWVGGERAALTQMQQRLAVEHETFR
+New query = TPKPEDLGVYLENEDIRMIRWVGGERAALAQMQQRLAVEHETFR
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7878764,7878859,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+4
+8
+Pieris_brassicae,NC_059668.1,7880515,7880631,1,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Pieris_brassicae,NC_059668.1,7875568,7875694,1,N,Pieris_napi_XM_047649107.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Getting Gene
+min = set20_frame0, 0.0
+5 top scores:
+[['set20_frame0', 0.0], ['set90_frame2', 1.552], ['set13_frame2', 1.659], ['set110_frame2', 1.717], ['set7_frame0', 1.729]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_20_frame0.fa.txt
+28 59
+Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_6
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+28 59
+set20_frame0
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Original query = GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+New query = GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7876274,7876344,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_1_query_Exon_7,1,23,23
+
+5
+9
+Pieris_brassicae,NC_059668.1,7879778,7879911,1,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_2_query_Exon_5,1,44,44
+
+Pieris_brassicae,NC_059668.1,7874725,7874907,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Getting Gene
+min = set75_frame1, 0.152
+5 top scores:
+[['set75_frame1', 0.152], ['set71_frame1', 1.594], ['set79_frame1', 1.626], ['set41_frame2', 1.649], ['set54_frame2', 1.653]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_75_frame1.fa.txt
+12 35
+Pieris_napi_XM_047649107.1_Frame_1_rightoh_1_query_Exon_7
+FYWSLQDLFQSVHQGRMSSQFVT
+12 35
+set75_frame1
+FYWSLQDLFQSVHQGEMSSQFIS
+Original query = FYWSLQDLFQSVHQGRMSSQFVT
+New query = FYWSLQDLFQSVHQGEMSSQFIS
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7875568,7875694,1,N,Pieris_napi_XM_047649107.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+6
+10
+Pieris_brassicae,NC_059668.1,7878764,7878859,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Pieris_brassicae,NC_059668.1,7874424,7874591,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+Getting Gene
+min = set62_frame2, 0.022
+5 top scores:
+[['set62_frame2', 0.022], ['set28_frame0', 1.749], ['set7_frame2', 1.757], ['set47_frame2', 1.785], ['set59_frame2', 1.808]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_62_frame2.fa.txt
+19 60
+Pieris_napi_XM_047649107.1_Frame_2_rightoh_2_query_Exon_8
+QLIWREYFYTMSVNNPKYAQMEGNPICLDIPWREPHGDELQ
+19 60
+set62_frame2
+QLIWREYFYTMSVNNPRYAQMEGNPICLDIPWREPHGDELQ
+Original query = QLIWREYFYTMSVNNPKYAQMEGNPICLDIPWREPHGDELQ
+New query = QLIWREYFYTMSVNNPRYAQMEGNPICLDIPWREPHGDELQ
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7874725,7874907,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+7
+11
+Pieris_brassicae,NC_059668.1,7876274,7876344,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_1_query_Exon_7,1,23,23
+
+Pieris_brassicae,NC_059668.1,7872793,7872916,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set32_frame1, 0.015
+5 top scores:
+[['set32_frame1', 0.015], ['set20_frame2', 1.742], ['set22_frame2', 1.833], ['set34_frame2', 1.85], ['set55_frame2', 1.879]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_32_frame1.fa.txt
+8 68
+Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_9
+WEEGRTGFPFVDAAMRQLRTEGWLHHALRNTVASFLTRGTLWLSWEHGLKHFLKYLLDAD
+8 68
+set32_frame1
+WEEGRTGFPFVDAAMRQLRTEGWLHHALRNTVASFLTRGTLWLSWEHGLRHFLKYLLDAD
+Original query = WEEGRTGFPFVDAAMRQLRTEGWLHHALRNTVASFLTRGTLWLSWEHGLKHFLKYLLDAD
+New query = WEEGRTGFPFVDAAMRQLRTEGWLHHALRNTVASFLTRGTLWLSWEHGLRHFLKYLLDAD
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7874424,7874591,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+8
+11
+Pieris_brassicae,NC_059668.1,7875568,7875694,1,N,Pieris_napi_XM_047649107.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Pieris_brassicae,NC_059668.1,7872793,7872916,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set18_frame0, 0.042
+5 top scores:
+[['set4_frame0', 1.767], ['set25_frame2', 1.813], ['set58_frame1', 1.851], ['set18_frame0', 0.042], ['set39_frame2', 1.865]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_18_frame0.fa.txt
+13 68
+Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_10
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGQRLEPSGQYVRRYIPELTNIPDKY
+13 68
+set18_frame0
+SVCAGNWMWVSSSAFEALLDSSECACPVRLGQRLEPSGQYVRRYVPELTNIPDKY
+Original query = SVCAGNWMWVSSSAFEALLDSGECACPVRLGQRLEPSGQYVRRYIPELTNIPDKY
+New query = SVCAGNWMWVSSSAFEALLDSSECACPVRLGQRLEPSGQYVRRYVPELTNIPDKY
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7872793,7872916,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+9
+11
+Pieris_brassicae,NC_059668.1,7874725,7874907,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Pieris_brassicae,NC_059668.1,7872793,7872916,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set39_frame0, 0.211
+5 top scores:
+[['set39_frame0', 0.211], ['set1_frame2', 1.703], ['set23_frame1', 1.781], ['set5_frame2', 1.813], ['set16_frame2', 1.823]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_39_frame0.fa.txt
+11 51
+set39_frame0
+YEPWKAPIEVQQRAGCIIGRDYPPPMLDHLEAAGRNQSAM
+Original query = YEPWRAPIEVQQRAGCIIGRDYPPPIIDHLEAAERNQGAMR
+New query = YEPWKAPIEVQQRAGCIIGRDYPPPMLDHLEAAGRNQSAM
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7885638,7885784,1,N,Pieris_napi_XM_047649107.1_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+1
+4
+Pieris_brassicae,NC_059668.1,7886103,7886232,1,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Pieris_brassicae,NC_059668.1,7880515,7880631,1,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Getting Gene
+min = set10_frame0, 0.233
+5 top scores:
+[['set4_frame1', 1.705], ['set10_frame0', 0.233], ['set82_frame1', 1.758], ['set91_frame2', 1.768], ['set51_frame2', 1.798]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_10_frame0.fa.txt
+10 58
+Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_1_query_Exon_2
+TKLVGYNRMRYLLEALNDLDNQFRKYGGRLHMIKGKPDVVFKRLWKEF
+10 58
+set10_frame0
+TKVVGYNRMRYLLEALEDLDTQFRQYGGRLHMIKGKPDDVFRRLWEEF
+Original query = TKLVGYNRMRYLLEALNDLDNQFRKYGGRLHMIKGKPDVVFKRLWKEF
+New query = TKVVGYNRMRYLLEALEDLDTQFRQYGGRLHMIKGKPDDVFRRLWEEF
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7882500,7882687,1,N,Pieris_napi_XM_047649107.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+1
+5
+Pieris_brassicae,NC_059668.1,7886103,7886232,1,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Pieris_brassicae,NC_059668.1,7879778,7879911,1,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_2_query_Exon_5,1,44,44
+
+Getting Gene
+min = set82_frame1, 0.328
+5 top scores:
+[['set82_frame1', 0.328], ['set114_frame2', 1.849], ['set139_frame1', 1.859], ['set139_frame0', 1.838], ['set146_frame0', 1.857]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_82_frame1.fa.txt
+32 94
+Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_0_query_Exon_3
+IRKICFEQDCEPIWRMRDESVRGLCRELGVACRESVSHTLWDPDTVIRANGGIPPLTYQMFL
+32 94
+set82_frame1
+ITKLCYEQDCEPIWRERDESVRATCRQIGVECHQFVSHTLWDPDTVIRVNGGIPPLTYQMFL
+Original query = IRKICFEQDCEPIWRMRDESVRGLCRELGVACRESVSHTLWDPDTVIRANGGIPPLTYQMFL
+New query = ITKLCYEQDCEPIWRERDESVRATCRQIGVECHQFVSHTLWDPDTVIRVNGGIPPLTYQMFL
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7880515,7880631,1,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+2
+6
+Pieris_brassicae,NC_059668.1,7885638,7885784,1,N,Pieris_napi_XM_047649107.1_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+Pieris_brassicae,NC_059668.1,7878764,7878859,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Getting Gene
+min = set130_frame2, 0.563
+5 top scores:
+[['set130_frame2', 0.563], ['set153_frame0', 1.681], ['set50_frame1', 1.694], ['set64_frame1', 1.739], ['set102_frame1', 1.757]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_130_frame2.fa.txt
+4 43
+Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_0_query_Exon_4
+HTVDIIGDPPRPVADVDLSGVNFAALPDNFYTAFTVFEK
+4 43
+set130_frame2
+HTVAIIGDPPRPVDDVDLKVTNFGVLPDCFYKEFVVFEK
+Original query = HTVDIIGDPPRPVADVDLSGVNFAALPDNFYTAFTVFEK
+New query = HTVAIIGDPPRPVDDVDLKVTNFGVLPDCFYKEFVVFEK
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7879778,7879911,1,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_2_query_Exon_5,1,44,44
+
+3
+7
+Pieris_brassicae,NC_059668.1,7882500,7882687,1,N,Pieris_napi_XM_047649107.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+Pieris_brassicae,NC_059668.1,7876274,7876344,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_1_query_Exon_7,1,23,23
+
+Getting Gene
+min = set67_frame1, 0.244
+5 top scores:
+[['set67_frame1', 0.244], ['set11_frame1', 1.75], ['set130_frame2', 1.774], ['set89_frame1', 1.802], ['set29_frame0', 1.79]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_67_frame1.fa.txt
+8 52
+Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_2_query_Exon_5
+VPKPEDLGIFLENEDIRMIRWVGGETAALNQMQKRLAVEYETFR
+8 52
+set67_frame1
+TPKPEDLGVYLENEDIRMIRWVGGERAALAQMQQRLAVEHETFR
+Original query = VPKPEDLGIFLENEDIRMIRWVGGETAALNQMQKRLAVEYETFR
+New query = TPKPEDLGVYLENEDIRMIRWVGGERAALAQMQQRLAVEHETFR
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7878764,7878859,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+4
+8
+Pieris_brassicae,NC_059668.1,7880515,7880631,1,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Pieris_brassicae,NC_059668.1,7875568,7875694,1,N,Pieris_napi_XM_047649107.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Getting Gene
+min = set20_frame0, 0.068
+5 top scores:
+[['set20_frame0', 0.068], ['set90_frame2', 1.515], ['set16_frame1', 1.654], ['set13_frame2', 1.656], ['set7_frame0', 1.727]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_20_frame0.fa.txt
+28 59
+Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_6
+GAYLPTHGSPDLLGPPISLSPALRFGCLSVR
+28 59
+set20_frame0
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Original query = GAYLPTHGSPDLLGPPISLSPALRFGCLSVR
+New query = GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7876274,7876344,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_1_query_Exon_7,1,23,23
+
+5
+9
+Pieris_brassicae,NC_059668.1,7879778,7879911,1,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_2_query_Exon_5,1,44,44
+
+Pieris_brassicae,NC_059668.1,7874725,7874907,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Getting Gene
+min = set75_frame1, 0.572
+5 top scores:
+[['set75_frame1', 0.572], ['set42_frame1', 1.589], ['set71_frame1', 1.63], ['set10_frame0', 1.537], ['set29_frame2', 1.632]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_75_frame1.fa.txt
+12 36
+Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_1_query_Exon_7
+FYWSLQDLFKQVHQGRLGSSQFIN
+12 36
+set75_frame1
+FYWSLQDLFQSVHQGEM-SSQFIS
+Original query = FYWSLQDLFKQVHQGRLGSSQFIN
+New query = FYWSLQDLFQSVHQGEM-SSQFIS
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7875568,7875694,1,N,Pieris_napi_XM_047649107.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+6
+10
+Pieris_brassicae,NC_059668.1,7878764,7878859,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Pieris_brassicae,NC_059668.1,7874424,7874591,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+Getting Gene
+min = set62_frame2, 0.142
+5 top scores:
+[['set62_frame2', 0.142], ['set77_frame1', 1.734], ['set59_frame2', 1.77], ['set47_frame2', 1.798], ['set19_frame1', 1.829]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_62_frame2.fa.txt
+19 60
+Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_2_query_Exon_8
+QLIWREYFYTMSVNNPLYAQMSGNPICLDIPWKEPEGDELQ
+19 60
+set62_frame2
+QLIWREYFYTMSVNNPRYAQMEGNPICLDIPWREPHGDELQ
+Original query = QLIWREYFYTMSVNNPLYAQMSGNPICLDIPWKEPEGDELQ
+New query = QLIWREYFYTMSVNNPRYAQMEGNPICLDIPWREPHGDELQ
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7874725,7874907,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+7
+11
+Pieris_brassicae,NC_059668.1,7876274,7876344,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_1_query_Exon_7,1,23,23
+
+Pieris_brassicae,NC_059668.1,7872793,7872916,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set32_frame1, 0.104
+5 top scores:
+[['set32_frame1', 0.104], ['set20_frame2', 1.718], ['set22_frame2', 1.825], ['set30_frame2', 1.847], ['set34_frame2', 1.851]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_32_frame1.fa.txt
+8 68
+Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_9
+WKEGRTGFPFVDAAMRQLLTEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+8 68
+set32_frame1
+WEEGRTGFPFVDAAMRQLRTEGWLHHALRNTVASFLTRGTLWLSWEHGLRHFLKYLLDAD
+Original query = WKEGRTGFPFVDAAMRQLLTEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+New query = WEEGRTGFPFVDAAMRQLRTEGWLHHALRNTVASFLTRGTLWLSWEHGLRHFLKYLLDAD
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7874424,7874591,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+8
+11
+Pieris_brassicae,NC_059668.1,7875568,7875694,1,N,Pieris_napi_XM_047649107.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Pieris_brassicae,NC_059668.1,7872793,7872916,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set18_frame0, 0.24
+5 top scores:
+[['set4_frame0', 1.762], ['set32_frame1', 1.805], ['set58_frame1', 1.839], ['set18_frame0', 0.24], ['set39_frame0', 1.845]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_18_frame0.fa.txt
+13 68
+Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_10
+SVCAGNWMWVSSSAFEALLDSSECVCPVRLGRRLEPTGHYVRRYVPELANMPVQY
+13 68
+set18_frame0
+SVCAGNWMWVSSSAFEALLDSSECACPVRLGQRLEPSGQYVRRYVPELTNIPDKY
+Original query = SVCAGNWMWVSSSAFEALLDSSECVCPVRLGRRLEPTGHYVRRYVPELANMPVQY
+New query = SVCAGNWMWVSSSAFEALLDSSECACPVRLGQRLEPSGQYVRRYVPELTNIPDKY
+Scaffold = NC_059668.1, start = 7886103, end = 7886232
+Pieris_brassicae,NC_059668.1,7872793,7872916,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+9
+11
+Pieris_brassicae,NC_059668.1,7874725,7874907,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Pieris_brassicae,NC_059668.1,7872793,7872916,1,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set39_frame0, 0.623
+5 top scores:
+[['set39_frame0', 0.623], ['set7_frame0', 1.804], ['set1_frame2', 1.807], ['set13_frame0', 1.803], ['set14_frame0', 1.785]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/4.Pierinae/1.Blast_result/Pieris_brassicae/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_39_frame0.fa.txt
+11 51
+set39_frame0
+YEPWKAPIEVQQRAGCIIGRDYPPPMLDHLEAAGRNQSAM
+Original query = YEPWSAPLHVQQKAKCVIGRDYPAPVVDHRACEHRNRSAMQ
+New query = YEPWKAPIEVQQRAGCIIGRDYPPPMLDHLEAAGRNQSAM

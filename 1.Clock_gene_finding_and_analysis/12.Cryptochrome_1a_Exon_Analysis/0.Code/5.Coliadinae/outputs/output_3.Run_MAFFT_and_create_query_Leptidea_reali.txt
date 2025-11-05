@@ -1,0 +1,657 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1217608,1217754,0,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_1_query_Exon_2,1,47,48
+
+1
+4
+Leptidea_reali,CATIXK010000017.1,1217214,1217343,0,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Leptidea_reali,CATIXK010000017.1,1221898,1222014,0,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Getting Gene
+min = set6_frame0, 0.622
+5 top scores:
+[['set67_frame2', 1.77], ['set6_frame0', 0.622], ['set82_frame2', 1.788], ['set57_frame2', 1.811], ['set58_frame2', 1.827]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Colias_croceus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_6_frame0.fa.txt
+45 93
+Colias_croceus_XM_045641425.1_Frame_2_rightoh_1_query_Exon_2
+TKSVGYNRMRYLLEALDDLDRQFRMHGGRLLMIKGKPSHVIRRLWEEF
+45 93
+set6_frame0
+TSLVGYNRMRYLLEALDDLGSQLRQHGGRLHLVKGNPTDIIRRLREEL
+Original query = TKSVGYNRMRYLLEALDDLDRQFRMHGGRLLMIKGKPSHVIRRLWEEF
+New query = TSLVGYNRMRYLLEALDDLGSQLRQHGGRLHLVKGNPTDIIRRLREEL
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1220586,1220773,0,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+1
+5
+Leptidea_reali,CATIXK010000017.1,1217214,1217343,0,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Leptidea_reali,CATIXK010000017.1,1222712,1222845,0,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_2_query_Exon_5,1,43,44
+
+Getting Gene
+min = set67_frame2, 0.29
+5 top scores:
+[['set67_frame2', 0.29], ['set80_frame2', 1.778], ['set68_frame0', 1.828], ['set75_frame0', 1.839], ['set109_frame1', 1.844]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Colias_croceus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_67_frame2.fa.txt
+7 69
+Colias_croceus_XM_045641425.1_Frame_2_rightoh_0_query_Exon_3
+ISKLCFEQDCEPIWRARDESVRSVCREIGVTCRERVSHTLWEPDTIIRVNGGIPPLTYQMFL
+7 69
+set67_frame2
+LKKICFEQDCEPIWRARDDRVRKLCREVGVVCREHVSHTLWEPDTILRHNGNIPPLTYQMFL
+Original query = ISKLCFEQDCEPIWRARDESVRSVCREIGVTCRERVSHTLWEPDTIIRVNGGIPPLTYQMFL
+New query = LKKICFEQDCEPIWRARDDRVRKLCREVGVVCREHVSHTLWEPDTILRHNGNIPPLTYQMFL
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1221898,1222014,0,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+2
+6
+Leptidea_reali,CATIXK010000017.1,1217608,1217754,0,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_1_query_Exon_2,1,47,48
+
+Leptidea_reali,CATIXK010000017.1,1224327,1224422,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Getting Gene
+min = set81_frame0, 0.389
+5 top scores:
+[['set81_frame0', 0.389], ['set43_frame1', 1.722], ['set79_frame1', 1.724], ['set73_frame2', 1.756], ['set65_frame1', 1.773]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Colias_croceus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_81_frame0.fa.txt
+2 41
+Colias_croceus_XM_045641425.1_Frame_0_rightoh_0_query_Exon_4
+HTVAIIGDPPRPVDDVDLRKVNFGVLPDSFYSEFVVFDK
+2 41
+set81_frame0
+HTVSIIGDPPRPVSDVDLREVQFGALPDAFCKEFCVFDK
+Original query = HTVAIIGDPPRPVDDVDLRKVNFGVLPDSFYSEFVVFDK
+New query = HTVSIIGDPPRPVSDVDLREVQFGALPDAFCKEFCVFDK
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1222712,1222845,0,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_2_query_Exon_5,1,43,44
+
+3
+7
+Leptidea_reali,CATIXK010000017.1,1220586,1220773,0,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+Leptidea_reali,CATIXK010000017.1,1226084,1226157,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Getting Gene
+min = set33_frame2, 0.257
+5 top scores:
+[['set33_frame2', 0.257], ['set44_frame1', 1.783], ['set52_frame0', 1.802], ['set76_frame0', 1.802], ['set79_frame1', 1.804]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Colias_croceus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_33_frame2.fa.txt
+0 43
+Colias_croceus_XM_045641425.1_Frame_0_rightoh_2_query_Exon_5
+TPKPEDLGVFLEKEDIRMIRWVGGETAALQQADQRLAVEHETF
+0 43
+set33_frame2
+TPKPEDLGVFLENEDIRMIRWVGGETAALKQMEQRLAVERETF
+Original query = TPKPEDLGVFLEKEDIRMIRWVGGETAALQQADQRLAVEHETFR
+New query = TPKPEDLGVFLENEDIRMIRWVGGETAALKQMEQRLAVERETF
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1224327,1224422,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+4
+8
+Leptidea_reali,CATIXK010000017.1,1221898,1222014,0,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Leptidea_reali,CATIXK010000017.1,1227770,1227896,0,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Getting Gene
+min = set53_frame0, 0.076
+5 top scores:
+[['set53_frame0', 0.076], ['set67_frame0', 1.673], ['set67_frame1', 1.691], ['set92_frame2', 1.707], ['set99_frame2', 1.72]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Colias_croceus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_53_frame0.fa.txt
+13 44
+Colias_croceus_XM_045641425.1_Frame_1_rightoh_2_query_Exon_6
+GSYLPTHGSPDLLGPPISLSPALRFGCLSVR
+13 44
+set53_frame0
+GSYLPTHSSPDLLGPPVSLSPALRFGCLSVR
+Original query = GSYLPTHGSPDLLGPPISLSPALRFGCLSVR
+New query = GSYLPTHSSPDLLGPPVSLSPALRFGCLSVR
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1226084,1226157,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+5
+9
+Leptidea_reali,CATIXK010000017.1,1222712,1222845,0,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_2_query_Exon_5,1,43,44
+
+Leptidea_reali,CATIXK010000017.1,1234674,1234856,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Getting Gene
+min = set63_frame1, 0.474
+5 top scores:
+[['set63_frame1', 0.474], ['set220_frame1', 1.604], ['set293_frame2', 1.63], ['set297_frame2', 1.631], ['set312_frame2', 1.662]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Colias_croceus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_63_frame1.fa.txt
+8 32
+Colias_croceus_XM_045641425.1_Frame_1_rightoh_1_query_Exon_7
+FYWAVQDLFQKVHQGRISSTHFIT
+8 32
+set63_frame1
+FYWAVQDLFIEVHKGRMSSAPFIT
+Original query = FYWAVQDLFQKVHQGRISSTHFIT
+New query = FYWAVQDLFIEVHKGRMSSAPFIT
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1227770,1227896,0,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+6
+10
+11
+Leptidea_reali,CATIXK010000017.1,1224327,1224422,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Leptidea_reali,CATIXK010000017.1,1236445,1236568,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set67_frame1, 0.298
+5 top scores:
+[['set67_frame1', 0.298], ['set1_frame1', 1.725], ['set122_frame2', 1.752], ['set162_frame2', 1.752], ['set22_frame0', 1.744]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Colias_croceus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_67_frame1.fa.txt
+15 56
+Colias_croceus_XM_045641425.1_Frame_2_rightoh_2_query_Exon_8
+QLIWREYFYTMSVNNPRYGQMEGNPICLDIPWKQPQGDHLQ
+15 56
+set67_frame1
+QLIWREYFYTMSVNNPHYGQMAGNPICMRIPWREPKGDELQ
+Original query = QLIWREYFYTMSVNNPRYGQMEGNPICLDIPWKQPQGDHLQ
+New query = QLIWREYFYTMSVNNPHYGQMAGNPICMRIPWREPKGDELQ
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1234674,1234856,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+7
+11
+Leptidea_reali,CATIXK010000017.1,1226084,1226157,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Leptidea_reali,CATIXK010000017.1,1236445,1236568,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set272_frame2, 0.162
+5 top scores:
+[['set272_frame2', 0.162], ['set127_frame0', 1.75], ['set15_frame1', 1.795], ['set156_frame1', 1.809], ['set185_frame1', 1.814]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Colias_croceus/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_272_frame2.fa.txt
+7 67
+Colias_croceus_XM_045641425.1_Frame_1_rightoh_2_query_Exon_9
+WKEGRTGFPFIDAAMRQLLAEGWLHHALRNTVASFLTRGTLWLSWEHGLKHFLKYLLDAD
+7 67
+set272_frame2
+WKEGRTGYPLVDAAMRQLRAEGWLHHVLRNTVASFLTRGTLWLCWEHGLQHFLKYLLDAD
+Original query = WKEGRTGFPFIDAAMRQLLAEGWLHHALRNTVASFLTRGTLWLSWEHGLKHFLKYLLDAD
+New query = WKEGRTGYPLVDAAMRQLRAEGWLHHVLRNTVASFLTRGTLWLCWEHGLQHFLKYLLDAD
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1236277,1236444,0,Y,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_10,1,25,55
+
+8
+11
+Leptidea_reali,CATIXK010000017.1,1227770,1227896,0,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Leptidea_reali,CATIXK010000017.1,1236445,1236568,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set40_frame2, 1.743
+5 top scores:
+[['set40_frame2', 1.743], ['set243_frame2', 1.777], ['set255_frame2', 1.792], ['set167_frame1', 1.821], ['set54_frame0', 1.838]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Colias_croceus/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_40_frame2.fa.txt
+0 57
+Colias_croceus_XM_045641425.1_Frame_1_rightoh_2_query_Exon_10
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGLRLEPSGRYVRRYVP--ELTHMPDAY
+0 57
+set40_frame2
+H--------VKSANITSLWHVVQQKCNLKVSLVLNSFSAY-QQYIQLIKLIHLHIKY
+Original query = SVCAGNWMWVSSSAFEALLDSGECACPVRLGLRLEPSGRYVRRYVPELTHMPDAY
+New query = H--------VKSANITSLWHVVQQKCNLKVSLVLNSFSAY-QQYIQLIKLIHLHIKY
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1236445,1236568,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+9
+11
+Leptidea_reali,CATIXK010000017.1,1234674,1234856,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Leptidea_reali,CATIXK010000017.1,1236445,1236568,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set35_frame2, 0.518
+5 top scores:
+[['set35_frame2', 0.518], ['set3_frame0', 1.798], ['set10_frame0', 1.784], ['set10_frame2', 1.805], ['set13_frame0', 1.785]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Colias_croceus/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_35_frame2.fa.txt
+12 52
+set35_frame2
+YEPWKTPLEVQRRARCVIGRDYPAPIVNHEEAATRNRNTM
+Original query = YEPWKAPLDVQQRANCVIGRDYPPPILDHLEAAERNRAAMQ
+New query = YEPWKTPLEVQRRARCVIGRDYPAPIVNHEEAATRNRNTM
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1217608,1217754,0,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_1_query_Exon_2,1,47,48
+
+1
+4
+Leptidea_reali,CATIXK010000017.1,1217214,1217343,0,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Leptidea_reali,CATIXK010000017.1,1221898,1222014,0,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Getting Gene
+min = set6_frame0, 0.0
+5 top scores:
+[['set57_frame2', 1.749], ['set6_frame0', 0.0], ['set67_frame2', 1.783], ['set66_frame1', 1.801], ['set69_frame2', 1.821]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_6_frame0.fa.txt
+45 93
+Leptidea_sinapis_XM_050828385.1_Frame_2_rightoh_1_query_Exon_2
+TSLVGYNRMRYLLEALDDLGSQLRQHGGRLHLVKGNPTDIIRRLREEL
+45 93
+set6_frame0
+TSLVGYNRMRYLLEALDDLGSQLRQHGGRLHLVKGNPTDIIRRLREEL
+Original query = TSLVGYNRMRYLLEALDDLGSQLRQHGGRLHLVKGNPTDIIRRLREEL
+New query = TSLVGYNRMRYLLEALDDLGSQLRQHGGRLHLVKGNPTDIIRRLREEL
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1220586,1220773,0,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+1
+5
+Leptidea_reali,CATIXK010000017.1,1217214,1217343,0,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Leptidea_reali,CATIXK010000017.1,1222712,1222845,0,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_2_query_Exon_5,1,43,44
+
+Getting Gene
+min = set67_frame2, 0.029
+5 top scores:
+[['set67_frame2', 0.029], ['set80_frame2', 1.809], ['set68_frame0', 1.849], ['set75_frame0', 1.833], ['set85_frame1', 1.867]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_67_frame2.fa.txt
+7 69
+Leptidea_sinapis_XM_050828385.1_Frame_2_rightoh_0_query_Exon_3
+LKKICFEQDCEPIWRARDDRVRNLCREVGVVCREHVSHTLWEPDTILRHNGNIPPLTYQMFL
+7 69
+set67_frame2
+LKKICFEQDCEPIWRARDDRVRKLCREVGVVCREHVSHTLWEPDTILRHNGNIPPLTYQMFL
+Original query = LKKICFEQDCEPIWRARDDRVRNLCREVGVVCREHVSHTLWEPDTILRHNGNIPPLTYQMFL
+New query = LKKICFEQDCEPIWRARDDRVRKLCREVGVVCREHVSHTLWEPDTILRHNGNIPPLTYQMFL
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1221898,1222014,0,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+2
+6
+Leptidea_reali,CATIXK010000017.1,1217608,1217754,0,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_1_query_Exon_2,1,47,48
+
+Leptidea_reali,CATIXK010000017.1,1224327,1224422,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Getting Gene
+min = set81_frame0, 0.0
+5 top scores:
+[['set81_frame0', 0.0], ['set67_frame1', 1.717], ['set73_frame2', 1.76], ['set144_frame2', 1.767], ['set12_frame0', 1.729]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_81_frame0.fa.txt
+2 41
+Leptidea_sinapis_XM_050828385.1_Frame_0_rightoh_0_query_Exon_4
+HTVSIIGDPPRPVSDVDLREVQFGALPDAFCKEFCVFDK
+2 41
+set81_frame0
+HTVSIIGDPPRPVSDVDLREVQFGALPDAFCKEFCVFDK
+Original query = HTVSIIGDPPRPVSDVDLREVQFGALPDAFCKEFCVFDK
+New query = HTVSIIGDPPRPVSDVDLREVQFGALPDAFCKEFCVFDK
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1222712,1222845,0,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_2_query_Exon_5,1,43,44
+
+3
+7
+Leptidea_reali,CATIXK010000017.1,1220586,1220773,0,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+Leptidea_reali,CATIXK010000017.1,1226084,1226157,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Getting Gene
+min = set33_frame2, 0.0
+5 top scores:
+[['set33_frame2', 0.0], ['set44_frame2', 1.765], ['set47_frame2', 1.796], ['set86_frame1', 1.813], ['set49_frame0', 1.815]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_33_frame2.fa.txt
+0 44
+Leptidea_sinapis_XM_050828385.1_Frame_0_rightoh_2_query_Exon_5
+TPKPEDLGVFLENEDIRMIRWVGGETAALKQMEQRLAVERETFF
+0 44
+set33_frame2
+TPKPEDLGVFLENEDIRMIRWVGGETAALKQMEQRLAVERETFF
+Original query = TPKPEDLGVFLENEDIRMIRWVGGETAALKQMEQRLAVERETFF
+New query = TPKPEDLGVFLENEDIRMIRWVGGETAALKQMEQRLAVERETFF
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1224327,1224422,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+4
+8
+Leptidea_reali,CATIXK010000017.1,1221898,1222014,0,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Leptidea_reali,CATIXK010000017.1,1227770,1227896,0,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Getting Gene
+min = set53_frame0, 0.0
+5 top scores:
+[['set53_frame0', 0.0], ['set67_frame1', 1.653], ['set110_frame1', 1.682], ['set92_frame2', 1.685], ['set99_frame2', 1.687]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_53_frame0.fa.txt
+13 44
+Leptidea_sinapis_XM_050828385.1_Frame_1_rightoh_2_query_Exon_6
+GSYLPTHSSPDLLGPPVSLSPALRFGCLSVR
+13 44
+set53_frame0
+GSYLPTHSSPDLLGPPVSLSPALRFGCLSVR
+Original query = GSYLPTHSSPDLLGPPVSLSPALRFGCLSVR
+New query = GSYLPTHSSPDLLGPPVSLSPALRFGCLSVR
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1226084,1226157,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+5
+9
+Leptidea_reali,CATIXK010000017.1,1222712,1222845,0,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_2_query_Exon_5,1,43,44
+
+Leptidea_reali,CATIXK010000017.1,1234674,1234856,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Getting Gene
+min = set63_frame1, 0.0
+5 top scores:
+[['set63_frame1', 0.0], ['set170_frame1', 1.485], ['set220_frame1', 1.581], ['set95_frame2', 1.602], ['set297_frame2', 1.628]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_63_frame1.fa.txt
+8 32
+Leptidea_sinapis_XM_050828385.1_Frame_1_rightoh_1_query_Exon_7
+FYWAVQDLFIEVHKGRMSSAPFIT
+8 32
+set63_frame1
+FYWAVQDLFIEVHKGRMSSAPFIT
+Original query = FYWAVQDLFIEVHKGRMSSAPFIT
+New query = FYWAVQDLFIEVHKGRMSSAPFIT
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1227770,1227896,0,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+6
+10
+11
+Leptidea_reali,CATIXK010000017.1,1224327,1224422,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Leptidea_reali,CATIXK010000017.1,1236445,1236568,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set67_frame1, 0.0
+5 top scores:
+[['set67_frame1', 0.0], ['set122_frame2', 1.717], ['set289_frame1', 1.739], ['set154_frame2', 1.752], ['set22_frame0', 1.744]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_67_frame1.fa.txt
+15 56
+Leptidea_sinapis_XM_050828385.1_Frame_2_rightoh_2_query_Exon_8
+QLIWREYFYTMSVNNPHYGQMAGNPICMRIPWREPKGDELQ
+15 56
+set67_frame1
+QLIWREYFYTMSVNNPHYGQMAGNPICMRIPWREPKGDELQ
+Original query = QLIWREYFYTMSVNNPHYGQMAGNPICMRIPWREPKGDELQ
+New query = QLIWREYFYTMSVNNPHYGQMAGNPICMRIPWREPKGDELQ
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1234674,1234856,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+7
+11
+Leptidea_reali,CATIXK010000017.1,1226084,1226157,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Leptidea_reali,CATIXK010000017.1,1236445,1236568,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set272_frame2, 0.0
+5 top scores:
+[['set272_frame2', 0.0], ['set127_frame0', 1.773], ['set25_frame1', 1.791], ['set62_frame0', 1.792], ['set1_frame2', 1.806]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_272_frame2.fa.txt
+7 67
+Leptidea_sinapis_XM_050828385.1_Frame_1_rightoh_2_query_Exon_9
+WKEGRTGYPLVDAAMRQLRAEGWLHHVLRNTVASFLTRGTLWLCWEHGLQHFLKYLLDAD
+7 67
+set272_frame2
+WKEGRTGYPLVDAAMRQLRAEGWLHHVLRNTVASFLTRGTLWLCWEHGLQHFLKYLLDAD
+Original query = WKEGRTGYPLVDAAMRQLRAEGWLHHVLRNTVASFLTRGTLWLCWEHGLQHFLKYLLDAD
+New query = WKEGRTGYPLVDAAMRQLRAEGWLHHVLRNTVASFLTRGTLWLCWEHGLQHFLKYLLDAD
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1236277,1236444,0,Y,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_10,1,25,55
+
+8
+11
+Leptidea_reali,CATIXK010000017.1,1227770,1227896,0,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Leptidea_reali,CATIXK010000017.1,1236445,1236568,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set243_frame2, 1.785
+5 top scores:
+[['set243_frame2', 1.785], ['set48_frame0', 1.821], ['set255_frame2', 1.826], ['set53_frame0', 1.804], ['set54_frame0', 1.811]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_243_frame2.fa.txt
+16 71
+Leptidea_sinapis_XM_050828385.1_Frame_1_rightoh_2_query_Exon_10
+SVCAGNWMWVSSSAFEVLLDSGDCASPVLLGRRLDPTGHYVRRYVPELERVPDIY
+16 71
+set243_frame2
+SV---------GSIFVEILGGGLCSA-------------------------VDIF
+Original query = SVCAGNWMWVSSSAFEVLLDSGDCASPVLLGRRLDPTGHYVRRYVPELERVPDIY
+New query = SV---------GSIFVEILGGGLCSA-------------------------VDIF
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1236445,1236568,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+9
+11
+Leptidea_reali,CATIXK010000017.1,1234674,1234856,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Leptidea_reali,CATIXK010000017.1,1236445,1236568,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set35_frame2, 0.05
+5 top scores:
+[['set35_frame2', 0.05], ['set10_frame2', 1.787], ['set10_frame0', 1.731], ['set2_frame2', 1.791], ['set13_frame0', 1.652]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_35_frame2.fa.txt
+12 52
+set35_frame2
+YEPWKTPLEVQRRARCVIGRDYPAPIVNHEEAATRNRNTM
+Original query = YEPWKMPLEVQRRARCVIGRDYPAPIVNHEEAATRNRNTMN
+New query = YEPWKTPLEVQRRARCVIGRDYPAPIVNHEEAATRNRNTM
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1217608,1217754,0,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_1_query_Exon_2,1,47,48
+
+1
+4
+Leptidea_reali,CATIXK010000017.1,1217214,1217343,0,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Leptidea_reali,CATIXK010000017.1,1221898,1222014,0,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Getting Gene
+min = set6_frame0, 0.536
+5 top scores:
+[['set82_frame2', 1.786], ['set6_frame0', 0.536], ['set57_frame2', 1.791], ['set58_frame2', 1.805], ['set69_frame2', 1.826]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_6_frame0.fa.txt
+45 93
+Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_1_query_Exon_2
+TKVVGYNRMRYLLEALDDLDRQFRQYGGRLLMIKGKPADVIRRLWEEF
+45 93
+set6_frame0
+TSLVGYNRMRYLLEALDDLGSQLRQHGGRLHLVKGNPTDIIRRLREEL
+Original query = TKVVGYNRMRYLLEALDDLDRQFRQYGGRLLMIKGKPADVIRRLWEEF
+New query = TSLVGYNRMRYLLEALDDLGSQLRQHGGRLHLVKGNPTDIIRRLREEL
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1220586,1220773,0,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+1
+5
+Leptidea_reali,CATIXK010000017.1,1217214,1217343,0,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Leptidea_reali,CATIXK010000017.1,1222712,1222845,0,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_2_query_Exon_5,1,43,44
+
+Getting Gene
+min = set67_frame2, 0.358
+5 top scores:
+[['set67_frame2', 0.358], ['set109_frame1', 1.792], ['set80_frame2', 1.83], ['set75_frame0', 1.854], ['set100_frame0', 1.869]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_67_frame2.fa.txt
+7 69
+Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_0_query_Exon_3
+ISKLCFEQDCEPIWRARDESVRAVCRQIGVRCRERVSHTLWDPDTIVRVNGGIPPLTYQMFL
+7 69
+set67_frame2
+LKKICFEQDCEPIWRARDDRVRKLCREVGVVCREHVSHTLWEPDTILRHNGNIPPLTYQMFL
+Original query = ISKLCFEQDCEPIWRARDESVRAVCRQIGVRCRERVSHTLWDPDTIVRVNGGIPPLTYQMFL
+New query = LKKICFEQDCEPIWRARDDRVRKLCREVGVVCREHVSHTLWEPDTILRHNGNIPPLTYQMFL
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1221898,1222014,0,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+2
+6
+Leptidea_reali,CATIXK010000017.1,1217608,1217754,0,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_1_query_Exon_2,1,47,48
+
+Leptidea_reali,CATIXK010000017.1,1224327,1224422,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Getting Gene
+min = set81_frame0, 0.399
+5 top scores:
+[['set81_frame0', 0.399], ['set79_frame1', 1.683], ['set53_frame1', 1.744], ['set73_frame2', 1.756], ['set65_frame1', 1.775]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_81_frame0.fa.txt
+2 41
+Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_0_query_Exon_4
+HTVAIIGDPPRPVDDVDLRKVNFGVLPDSFYNEFVVFDK
+2 41
+set81_frame0
+HTVSIIGDPPRPVSDVDLREVQFGALPDAFCKEFCVFDK
+Original query = HTVAIIGDPPRPVDDVDLRKVNFGVLPDSFYNEFVVFDK
+New query = HTVSIIGDPPRPVSDVDLREVQFGALPDAFCKEFCVFDK
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1222712,1222845,0,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_2_query_Exon_5,1,43,44
+
+3
+7
+Leptidea_reali,CATIXK010000017.1,1220586,1220773,0,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+Leptidea_reali,CATIXK010000017.1,1226084,1226157,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Getting Gene
+min = set33_frame2, 0.335
+5 top scores:
+[['set33_frame2', 0.335], ['set27_frame0', 1.758], ['set79_frame1', 1.763], ['set7_frame1', 1.805], ['set80_frame1', 1.805]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_33_frame2.fa.txt
+0 44
+Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_2_query_Exon_5
+TPKPEDLGVFLEKEDIRMIRWVGGERAALQQADQRLAVEHETFC
+0 44
+set33_frame2
+TPKPEDLGVFLENEDIRMIRWVGGETAALKQMEQRLAVERETFF
+Original query = TPKPEDLGVFLEKEDIRMIRWVGGERAALQQADQRLAVEHETFC
+New query = TPKPEDLGVFLENEDIRMIRWVGGETAALKQMEQRLAVERETFF
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1224327,1224422,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+4
+8
+Leptidea_reali,CATIXK010000017.1,1221898,1222014,0,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Leptidea_reali,CATIXK010000017.1,1227770,1227896,0,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Getting Gene
+min = set53_frame0, 0.076
+5 top scores:
+[['set53_frame0', 0.076], ['set67_frame0', 1.673], ['set67_frame1', 1.691], ['set92_frame2', 1.707], ['set99_frame2', 1.72]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_53_frame0.fa.txt
+13 44
+Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_6
+GSYLPTHGSPDLLGPPISLSPALRFGCLSVR
+13 44
+set53_frame0
+GSYLPTHSSPDLLGPPVSLSPALRFGCLSVR
+Original query = GSYLPTHGSPDLLGPPISLSPALRFGCLSVR
+New query = GSYLPTHSSPDLLGPPVSLSPALRFGCLSVR
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1226084,1226157,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+5
+9
+Leptidea_reali,CATIXK010000017.1,1222712,1222845,0,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_2_query_Exon_5,1,43,44
+
+Leptidea_reali,CATIXK010000017.1,1234674,1234856,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Getting Gene
+min = set63_frame1, 0.484
+5 top scores:
+[['set63_frame1', 0.484], ['set220_frame1', 1.604], ['set293_frame2', 1.63], ['set297_frame2', 1.631], ['set117_frame2', 1.653]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_63_frame1.fa.txt
+8 32
+Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_1_query_Exon_7
+FYWAVQDLFQKVHQGRVSSTHFIT
+8 32
+set63_frame1
+FYWAVQDLFIEVHKGRMSSAPFIT
+Original query = FYWAVQDLFQKVHQGRVSSTHFIT
+New query = FYWAVQDLFIEVHKGRMSSAPFIT
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1227770,1227896,0,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+6
+10
+11
+Leptidea_reali,CATIXK010000017.1,1224327,1224422,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Leptidea_reali,CATIXK010000017.1,1236445,1236568,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set67_frame1, 0.32
+5 top scores:
+[['set67_frame1', 0.32], ['set1_frame1', 1.724], ['set122_frame2', 1.752], ['set162_frame2', 1.752], ['set22_frame0', 1.744]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_67_frame1.fa.txt
+15 56
+Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_2_query_Exon_8
+QLIWREYFYTMSVNNPRYGQMEGNPICLDIPWKQPQGDHLE
+15 56
+set67_frame1
+QLIWREYFYTMSVNNPHYGQMAGNPICMRIPWREPKGDELQ
+Original query = QLIWREYFYTMSVNNPRYGQMEGNPICLDIPWKQPQGDHLE
+New query = QLIWREYFYTMSVNNPHYGQMAGNPICMRIPWREPKGDELQ
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1234674,1234856,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+7
+11
+Leptidea_reali,CATIXK010000017.1,1226084,1226157,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Leptidea_reali,CATIXK010000017.1,1236445,1236568,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set272_frame2, 0.154
+5 top scores:
+[['set272_frame2', 0.154], ['set127_frame0', 1.75], ['set15_frame1', 1.805], ['set156_frame1', 1.809], ['set185_frame1', 1.822]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_272_frame2.fa.txt
+7 67
+Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_9
+WKEGRTGFPFVDAAMRQLLAEGWLHHALRNTVASFLTRGTLWLSWEHGLKHFLKYLLDAD
+7 67
+set272_frame2
+WKEGRTGYPLVDAAMRQLRAEGWLHHVLRNTVASFLTRGTLWLCWEHGLQHFLKYLLDAD
+Original query = WKEGRTGFPFVDAAMRQLLAEGWLHHALRNTVASFLTRGTLWLSWEHGLKHFLKYLLDAD
+New query = WKEGRTGYPLVDAAMRQLRAEGWLHHVLRNTVASFLTRGTLWLCWEHGLQHFLKYLLDAD
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1236277,1236444,0,Y,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_10,1,25,55
+
+8
+11
+Leptidea_reali,CATIXK010000017.1,1227770,1227896,0,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Leptidea_reali,CATIXK010000017.1,1236445,1236568,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set40_frame2, 1.743
+5 top scores:
+[['set40_frame2', 1.743], ['set243_frame2', 1.777], ['set255_frame2', 1.792], ['set167_frame1', 1.821], ['set54_frame0', 1.838]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_40_frame2.fa.txt
+0 57
+Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_10
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGLRLEPSGRYVRRYVP--ELTHMPDAY
+0 57
+set40_frame2
+H--------VKSANITSLWHVVQQKCNLKVSLVLNSFSAY-QQYIQLIKLIHLHIKY
+Original query = SVCAGNWMWVSSSAFEALLDSGECACPVRLGLRLEPSGRYVRRYVPELTHMPDAY
+New query = H--------VKSANITSLWHVVQQKCNLKVSLVLNSFSAY-QQYIQLIKLIHLHIKY
+Scaffold = CATIXK010000017.1, start = 1217214, end = 1217343
+Leptidea_reali,CATIXK010000017.1,1236445,1236568,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+9
+11
+Leptidea_reali,CATIXK010000017.1,1234674,1234856,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Leptidea_reali,CATIXK010000017.1,1236445,1236568,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set35_frame2, 0.566
+5 top scores:
+[['set35_frame2', 0.566], ['set12_frame2', 1.772], ['set10_frame0', 1.766], ['set10_frame2', 1.794], ['set13_frame0', 1.787]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/5.Coliadinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_35_frame2.fa.txt
+12 52
+set35_frame2
+YEPWKTPLEVQRRARCVIGRDYPAPIVNHEEAATRNRNTM
+Original query = YEPWKAPLEVQQRAGCVIGRDYPPPILDHLGAADRNRAAMQ
+New query = YEPWKTPLEVQRRARCVIGRDYPAPIVNHEEAATRNRNTM

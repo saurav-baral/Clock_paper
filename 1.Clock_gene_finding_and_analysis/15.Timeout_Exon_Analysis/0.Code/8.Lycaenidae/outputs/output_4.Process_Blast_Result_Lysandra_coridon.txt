@@ -1,0 +1,2042 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Lysandra_coridon
+Processing Exon_2
+0 query coordinate
+Period_gene_genomic_sequence_individual_exon
+61
+[[1, 0]]
+reached here
+Before splice: 348,531
+after splice: 348,531
+sequence:
+CTTATTGTTAACCTCACAAATCCTGCACTTCTACTGTATAGAGAGGAAGTGCCTACAGAAAAAGCAGCCAGACATAACTACTTGCAAATATTATCTCATCTACAATCCTATAAAGAAGAAACTTTTACGAAAGTTGATACATGGCAGGTTTTTGCCAAGAAATTGGCAAAGACGTTAGAAATA
+sequence:
+LIVNLTNPALLLYREEVPTEKAARHNYLQILSHLQSYKEETFTKVDTWQVFAKKLAKTLEI
+left = AG, right =GT, stop_counter = 0
+LIVNLTNPALLLYREEVPTEKAARHNYLQILSHLQSYKEETFTKVDTWQVFAKKLAKTLEI
+[[1, 0]]
+start_coordinate : 2131606,stop_coordinate : 2131424
+348 531 Y N
+Lysandra_coridon,HG992141.1,2131424,2131607,1,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61,Y,N
+
+Lysandra_coridon
+Processing Exon_3
+Lysandra_coridon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+45
+[[0, 0]]
+reached here
+Before splice: 1566,1700
+after splice: 1566,1700
+sequence:
+gACTGGTCAGAAAGAGATGAAGATACAGGTCTCATAATTGAGAGGATACTTATTTTAATAAGAAATGTTCTACATGTTCCTGCTGACTTAGACAAAGAGAAAAGGCCCGAAAATGATGCCAGTGTACATGACCAG
+sequence:
+DWSERDEDTGLIIERILILIRNVLHVPADLDKEKRPENDASVHDQ
+left = ag, right =GT, stop_counter = 0
+DWSERDEDTGLIIERILILIRNVLHVPADLDKEKRPENDASVHDQ
+[[0, 0]]
+start_coordinate : 2130389,stop_coordinate : 2130255
+1566 1700 Y N
+Lysandra_coridon,HG992141.1,2130255,2130389,1,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45,Y,N
+
+Lysandra_coridon
+Processing Exon_4
+Lysandra_coridon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+85
+[[0, 2]]
+reached here
+Before splice: 1966,2222
+after splice: 1966,2222
+sequence:
+GTATTGTGGGCATTGAACCACTCTGGTATATTAGACATAATTCTTTATATGTCTTCAGAGAAtgagaaacaatattttatgcatattcTCGAGATAATATCTCACCTACTTCGAGAACAGAATCCAACAAGTCTCGCAGATGCGGCATTACAAAGAAGTGTTGATGAGAAACTGAAAGATGAACAGGAACTTCTCATGATGAGGATGAAAGAAAATAAGGAGAGAATTAACAAAGTGAAACAGTATTCAGGTTCAAG
+sequence:
+VLWALNHSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLKDEQELLMMRMKENKERINKVKQYSGS
+left = AG, right =GT, stop_counter = 0
+VLWALNHSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLKDEQELLMMRMKENKERINKVKQYSGS
+[[0, 2]]
+start_coordinate : 2129989,stop_coordinate : 2129735
+1966 2222 Y N
+Lysandra_coridon,HG992141.1,2129733,2129989,1,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85,Y,N
+
+Lysandra_coridon
+Processing Exon_5
+Lysandra_coridon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+65
+[[1, 2]]
+reached here
+Before splice: 2865,3062
+after splice: 2865,3062
+sequence:
+CATTCAAGATTTGGTGGGACTTATGTTATACAGAATATGAAGTCAATATCTGATAATGAGTTGATCAGTCTGAAACCATTGAACAAAATATCCAATTTTAACTTTAATGGTAGTAAAACATCAAAATTTATGAAACCTAAAAACAGGCGGCCAGTGGAAAGTGGTATGATGGAAAGAAGATCAGCCTTTGCTGTgag
+sequence:
+HSRFGGTYVIQNMKSISDNELISLKPLNKISNFNFNGSKTSKFMKPKNRRPVESGMMERRSAFAV
+left = AG, right =gt, stop_counter = 0
+HSRFGGTYVIQNMKSISDNELISLKPLNKISNFNFNGSKTSKFMKPKNRRPVESGMMERRSAFAV
+[[1, 2]]
+start_coordinate : 2129089,stop_coordinate : 2128895
+2865 3062 Y N
+Lysandra_coridon,HG992141.1,2128893,2129090,1,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65,Y,N
+
+Lysandra_coridon
+Processing Exon_6
+Lysandra_coridon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 3172,3354
+after splice: 3172,3354
+sequence:
+TTGTTTCTAAAGGAGTTTTGTATAGAATTTCTAAATAGCTCATACAATCCAATGATGCACTATGTGAAGGATGTTCTTGTAAGAGCTAAAGCACAGCAGAATGATGAGTCTTATTATCTCTGGGCAATGAAATTTTTCATGGAGTTCAATAGAGGACACAATTTCCAAGTTGGACTTGTCAG
+sequence:
+LFLKEFCIEFLNSSYNPMMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+left = AG, right =GT, stop_counter = 0
+LFLKEFCIEFLNSSYNPMMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+[[1, 2]]
+start_coordinate : 2128782,stop_coordinate : 2128603
+3172 3354 Y N
+Lysandra_coridon,HG992141.1,2128601,2128783,1,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60,Y,N
+
+Lysandra_coridon
+Processing Exon_7
+Lysandra_coridon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+95
+[[1, 2]]
+reached here
+Before splice: 4653,4940
+after splice: 4653,4940
+sequence:
+GAGACGATGTCGGTGCCGATGTTTCATTACGTGCAGCAGCAGATGGAAAAATACTTCGACATGATCAAAGTCGAGAAGAAAAAGTTCTCCGTGTGGGTGCGACGCCTGCACCTCGCACTGCGCGCCTACAAGGAACTTTTGCACACCCTACTCGCTATGGACAAGTGCACAGAGAGCACCGTAAGGGACTCCGCCAAAGTTCTTAAGAGCAATATATTCTACGTGCTCGAGTATAGGGAGTTCATACTATCGATTATACTGAACTACGATGATAATAAGATGCCGAG
+sequence:
+ETMSVPMFHYVQQQMEKYFDMIKVEKKKFSVWVRRLHLALRAYKELLHTLLAMDKCTESTVRDSAKVLKSNIFYVLEYREFILSIILNYDDNKMP
+left = AG, right =GT, stop_counter = 0
+ETMSVPMFHYVQQQMEKYFDMIKVEKKKFSVWVRRLHLALRAYKELLHTLLAMDKCTESTVRDSAKVLKSNIFYVLEYREFILSIILNYDDNKMP
+[[1, 2]]
+start_coordinate : 2127301,stop_coordinate : 2127017
+4653 4940 Y N
+Lysandra_coridon,HG992141.1,2127015,2127302,1,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95,Y,N
+
+Lysandra_coridon
+Processing Exon_8
+Lysandra_coridon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+39
+[[1, 1]]
+reached here
+Before splice: 7572,7690
+after splice: 7572,7690
+sequence:
+TCATATCTCGTGGATCTAGTGGAGACTGTCCATCTCTTCCTCAAGATGCTGGAGCACTACTGCAAGAAAACTGGACTCGTCGTGCAAAAGAAAGTGAGGAAGAAAGCCAAACCTAAAA
+sequence:
+SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKAKPK
+left = AG, right =GT, stop_counter = 0
+SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKAKPK
+[[1, 1]]
+start_coordinate : 2124382,stop_coordinate : 2124266
+7572 7690 Y N
+Lysandra_coridon,HG992141.1,2124265,2124383,1,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8,1,39,39,Y,N
+
+Lysandra_coridon
+Processing Exon_9
+Lysandra_coridon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+46
+[[2, 2]]
+reached here
+Before splice: 13950,14091
+after splice: 13950,14091
+sequence:
+CCTGTGTCAAAACCGAAGCCAACGAAGGAGGTTCCCATGGAGCAGGTGGAGCATCATCTGAGCGAGGCGCTGGCTGCCCCGGCGGATGAGTTCCCGCCGCCCTTCGACGCCGCCTCAGACGTGCCTATTGAGGAACAGAG
+sequence:
+PVSKPKPTKEVPMEQVEHHLSEALAAPADEFPPPFDAASDVPIEEQ
+left = CC, right =GT, stop_counter = 0
+sequence:
+CCTCCTGTGTCAAAACCGAAGCCAACGAAGGAGGTTCCCATGGAGCAGGTGGAGCATCATCTGAGCGAGGCGCTGGCTGCCCCGGCGGATGAGTTCCCGCCGCCCTTCGACGCCGCCTCAGACGTGCCTATTGAGGAACAGAG
+sequence:
+PPVSKPKPTKEVPMEQVEHHLSEALAAPADEFPPPFDAASDVPIEEQ
+left = AG, right =GT, stop_counter = 0
+PPVSKPKPTKEVPMEQVEHHLSEALAAPADEFPPPFDAASDVPIEEQ
+[[2, 2]]
+start_coordinate : 2118006,stop_coordinate : 2117866
+13947 14091 Y N
+Lysandra_coridon,HG992141.1,2117864,2118008,1,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,47,47,Y,N
+
+Lysandra_coridon
+Processing Exon_10
+Lysandra_coridon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+26
+[[1, 2]]
+reached here
+Before splice: 19839,19919
+after splice: 19839,19919
+sequence:
+gGAGACTGCATGAAGAAGATCCAGACACTCATGCGTGATGAGAAGTACGCAGAAGCTGTCAGTCTATTCCGCGCTGCCAG
+sequence:
+GDCMKKIQTLMRDEKYAEAVSLFRAA
+left = ag, right =GT, stop_counter = 0
+GDCMKKIQTLMRDEKYAEAVSLFRAA
+[[1, 2]]
+start_coordinate : 2112115,stop_coordinate : 2112038
+19839 19919 Y N
+Lysandra_coridon,HG992141.1,2112036,2112116,1,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26,Y,N
+
+Lysandra_coridon
+Processing Exon_11
+Lysandra_coridon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+36
+[[1, 1]]
+reached here
+Before splice: 21978,22087
+after splice: 21978,22087
+sequence:
+GAAGTGTGGCCCGAGGAAGGGGTATTCGGTTCCCCCGGTATACCTGAACATGAAGAACTGGACATGCTCAAGACCGTTTATAGCGCAGACCTGGGTGTAGAGATGAAAG
+sequence:
+EVWPEEGVFGSPGIPEHEELDMLKTVYSADLGVEMK
+left = AG, right =GT, stop_counter = 0
+EVWPEEGVFGSPGIPEHEELDMLKTVYSADLGVEMK
+[[1, 1]]
+start_coordinate : 2109976,stop_coordinate : 2109869
+21978 22087 Y N
+Lysandra_coridon,HG992141.1,2109868,2109977,1,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,36,36,Y,N
+
+Lysandra_coridon
+Processing Exon_12
+Lysandra_coridon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+18
+[[2, 1]]
+reached here
+Before splice: 24597,24653
+after splice: 24597,24653
+sequence:
+acaataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacgaat
+sequence:
+TIMTMLALTKVEYKEDDE
+left = ct, right =aT, stop_counter = 0
+sequence:
+tgaacaataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacgaataTT
+sequence:
+*TIMTMLALTKVEYKEDDEY
+left = aa, right =aa, stop_counter = 1
+sequence:
+acaataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacgaat
+sequence:
+TIMTMLALTKVEYKEDDE
+left = ct, right =aT, stop_counter = 1
+sequence:
+tgaacaataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacgaataTT
+sequence:
+*TIMTMLALTKVEYKEDDEY
+left = aa, right =ac, stop_counter = 2
+sequence:
+ataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacg
+sequence:
+IMTMLALTKVEYKEDD
+left = aa, right =aa, stop_counter = 2
+sequence:
+acaataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacgaat
+sequence:
+TIMTMLALTKVEYKEDDE
+left = ct, right =aT, stop_counter = 2
+sequence:
+tgaacaataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacgaataTT
+sequence:
+*TIMTMLALTKVEYKEDDEY
+left = aa, right =at, stop_counter = 3
+sequence:
+atgacaatgttggcgttgacgaaagttgaatacaaagaagatg
+sequence:
+MTMLALTKVEYKED
+left = aa, right =ac, stop_counter = 3
+sequence:
+ataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacg
+sequence:
+IMTMLALTKVEYKEDD
+left = aa, right =aa, stop_counter = 3
+sequence:
+acaataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacgaat
+sequence:
+TIMTMLALTKVEYKEDDE
+left = ct, right =aT, stop_counter = 3
+sequence:
+tgaacaataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacgaataTT
+sequence:
+*TIMTMLALTKVEYKEDDEY
+left = ga, right =aa, stop_counter = 4
+sequence:
+acaatgttggcgttgacgaaagttgaatacaaagaag
+sequence:
+TMLALTKVEYKE
+left = aa, right =at, stop_counter = 4
+sequence:
+atgacaatgttggcgttgacgaaagttgaatacaaagaagatg
+sequence:
+MTMLALTKVEYKED
+left = aa, right =ac, stop_counter = 4
+sequence:
+ataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacg
+sequence:
+IMTMLALTKVEYKEDD
+left = aa, right =aa, stop_counter = 4
+sequence:
+acaataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacgaat
+sequence:
+TIMTMLALTKVEYKEDDE
+left = ct, right =aT, stop_counter = 4
+sequence:
+tgaacaataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacgaataTT
+sequence:
+*TIMTMLALTKVEYKEDDEY
+left = aa, right =aa, stop_counter = 5
+sequence:
+atgttggcgttgacgaaagttgaatacaaag
+sequence:
+MLALTKVEYK
+left = ga, right =aa, stop_counter = 5
+sequence:
+acaatgttggcgttgacgaaagttgaatacaaagaag
+sequence:
+TMLALTKVEYKE
+left = aa, right =at, stop_counter = 5
+sequence:
+atgacaatgttggcgttgacgaaagttgaatacaaagaagatg
+sequence:
+MTMLALTKVEYKED
+left = aa, right =ac, stop_counter = 5
+sequence:
+ataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacg
+sequence:
+IMTMLALTKVEYKEDD
+left = aa, right =aa, stop_counter = 5
+sequence:
+acaataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacgaat
+sequence:
+TIMTMLALTKVEYKEDDE
+left = ct, right =aT, stop_counter = 5
+sequence:
+tgaacaataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacgaataTT
+sequence:
+*TIMTMLALTKVEYKEDDEY
+left = gt, right =ac, stop_counter = 6
+sequence:
+ttggcgttgacgaaagttgaataca
+sequence:
+LALTKVEY
+left = aa, right =aa, stop_counter = 6
+sequence:
+atgttggcgttgacgaaagttgaatacaaag
+sequence:
+MLALTKVEYK
+left = ga, right =aa, stop_counter = 6
+sequence:
+acaatgttggcgttgacgaaagttgaatacaaagaag
+sequence:
+TMLALTKVEYKE
+left = aa, right =at, stop_counter = 6
+sequence:
+atgacaatgttggcgttgacgaaagttgaatacaaagaagatg
+sequence:
+MTMLALTKVEYKED
+left = aa, right =ac, stop_counter = 6
+sequence:
+ataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacg
+sequence:
+IMTMLALTKVEYKEDD
+left = aa, right =aa, stop_counter = 6
+sequence:
+acaataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacgaat
+sequence:
+TIMTMLALTKVEYKEDDE
+left = ct, right =aT, stop_counter = 6
+sequence:
+tgaacaataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacgaataTT
+sequence:
+*TIMTMLALTKVEYKEDDEY
+left = gg, right =aa, stop_counter = 7
+sequence:
+gcgttgacgaaagttgaat
+sequence:
+ALTKVE
+left = gt, right =ac, stop_counter = 7
+sequence:
+ttggcgttgacgaaagttgaataca
+sequence:
+LALTKVEY
+left = aa, right =aa, stop_counter = 7
+sequence:
+atgttggcgttgacgaaagttgaatacaaag
+sequence:
+MLALTKVEYK
+left = ga, right =aa, stop_counter = 7
+sequence:
+acaatgttggcgttgacgaaagttgaatacaaagaag
+sequence:
+TMLALTKVEYKE
+left = aa, right =at, stop_counter = 7
+sequence:
+atgacaatgttggcgttgacgaaagttgaatacaaagaagatg
+sequence:
+MTMLALTKVEYKED
+left = aa, right =ac, stop_counter = 7
+sequence:
+ataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacg
+sequence:
+IMTMLALTKVEYKEDD
+left = aa, right =aa, stop_counter = 7
+sequence:
+acaataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacgaat
+sequence:
+TIMTMLALTKVEYKEDDE
+left = ct, right =aT, stop_counter = 7
+sequence:
+tgaacaataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacgaataTT
+sequence:
+*TIMTMLALTKVEYKEDDEY
+left = gt, right =tt, stop_counter = 8
+sequence:
+ttgacgaaagttg
+sequence:
+LTKV
+left = gg, right =aa, stop_counter = 8
+sequence:
+gcgttgacgaaagttgaat
+sequence:
+ALTKVE
+left = gt, right =ac, stop_counter = 8
+sequence:
+ttggcgttgacgaaagttgaataca
+sequence:
+LALTKVEY
+left = aa, right =aa, stop_counter = 8
+sequence:
+atgttggcgttgacgaaagttgaatacaaag
+sequence:
+MLALTKVEYK
+left = ga, right =aa, stop_counter = 8
+sequence:
+acaatgttggcgttgacgaaagttgaatacaaagaag
+sequence:
+TMLALTKVEYKE
+left = aa, right =at, stop_counter = 8
+sequence:
+atgacaatgttggcgttgacgaaagttgaatacaaagaagatg
+sequence:
+MTMLALTKVEYKED
+left = aa, right =ac, stop_counter = 8
+sequence:
+ataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacg
+sequence:
+IMTMLALTKVEYKEDD
+left = aa, right =aa, stop_counter = 8
+sequence:
+acaataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacgaat
+sequence:
+TIMTMLALTKVEYKEDDE
+left = ct, right =aT, stop_counter = 8
+sequence:
+tgaacaataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacgaataTT
+sequence:
+*TIMTMLALTKVEYKEDDEY
+left = ga, right =aa, stop_counter = 9
+sequence:
+acgaaag
+sequence:
+TK
+left = gt, right =tt, stop_counter = 9
+sequence:
+ttgacgaaagttg
+sequence:
+LTKV
+left = gg, right =aa, stop_counter = 9
+sequence:
+gcgttgacgaaagttgaat
+sequence:
+ALTKVE
+left = gt, right =ac, stop_counter = 9
+sequence:
+ttggcgttgacgaaagttgaataca
+sequence:
+LALTKVEY
+left = aa, right =aa, stop_counter = 9
+sequence:
+atgttggcgttgacgaaagttgaatacaaag
+sequence:
+MLALTKVEYK
+left = ga, right =aa, stop_counter = 9
+sequence:
+acaatgttggcgttgacgaaagttgaatacaaagaag
+sequence:
+TMLALTKVEYKE
+left = aa, right =at, stop_counter = 9
+sequence:
+atgacaatgttggcgttgacgaaagttgaatacaaagaagatg
+sequence:
+MTMLALTKVEYKED
+left = aa, right =ac, stop_counter = 9
+sequence:
+ataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacg
+sequence:
+IMTMLALTKVEYKEDD
+left = aa, right =aa, stop_counter = 9
+sequence:
+acaataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacgaat
+sequence:
+TIMTMLALTKVEYKEDDE
+left = ct, right =aT, stop_counter = 9
+sequence:
+tgaacaataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacgaataTT
+sequence:
+*TIMTMLALTKVEYKEDDEY
+left = ga, right =cg, stop_counter = 10
+sequence:
+a
+sequence:
+
+left = ga, right =aa, stop_counter = 10
+sequence:
+acgaaag
+sequence:
+TK
+left = gt, right =tt, stop_counter = 10
+sequence:
+ttgacgaaagttg
+sequence:
+LTKV
+left = gg, right =aa, stop_counter = 10
+sequence:
+gcgttgacgaaagttgaat
+sequence:
+ALTKVE
+left = gt, right =ac, stop_counter = 10
+sequence:
+ttggcgttgacgaaagttgaataca
+sequence:
+LALTKVEY
+left = aa, right =aa, stop_counter = 10
+sequence:
+atgttggcgttgacgaaagttgaatacaaag
+sequence:
+MLALTKVEYK
+left = ga, right =aa, stop_counter = 10
+sequence:
+acaatgttggcgttgacgaaagttgaatacaaagaag
+sequence:
+TMLALTKVEYKE
+left = aa, right =at, stop_counter = 10
+sequence:
+atgacaatgttggcgttgacgaaagttgaatacaaagaagatg
+sequence:
+MTMLALTKVEYKED
+left = aa, right =ac, stop_counter = 10
+sequence:
+ataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacg
+sequence:
+IMTMLALTKVEYKEDD
+left = aa, right =aa, stop_counter = 10
+sequence:
+acaataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacgaat
+sequence:
+TIMTMLALTKVEYKEDDE
+left = ct, right =aT, stop_counter = 10
+sequence:
+tgaacaataatgacaatgttggcgttgacgaaagttgaatacaaagaagatgacgaataTT
+sequence:
+*TIMTMLALTKVEYKEDDEY
+left = ag, right =tg, stop_counter = 11
+sequence:
+
+sequence:
+
+left = ag, right =cg, stop_counter = 11
+
+[[2, 1]]
+start_coordinate : 0,stop_coordinate : 0
+Error in Blast
+Lysandra_coridon
+Processing Exon_13
+Lysandra_coridon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+21
+[[2, 2]]
+reached here
+Before splice: 27626,27692
+after splice: 27626,27692
+sequence:
+gaagaagaagaaagaaCAACGGCCGTCGTGGAAACTGATTTCGATTTTCAAGACTTCGTACAAAG
+sequence:
+EEEERTTAVVETDFDFQDFVQ
+left = gg, right =GT, stop_counter = 0
+sequence:
+gaagaagaagaagaaagaaCAACGGCCGTCGTGGAAACTGATTTCGATTTTCAAGACTTCGTACAAAG
+sequence:
+EEEEERTTAVVETDFDFQDFVQ
+left = cg, right =GT, stop_counter = 0
+sequence:
+gaggaagaagaagaagaaagaaCAACGGCCGTCGTGGAAACTGATTTCGATTTTCAAGACTTCGTACAAAG
+sequence:
+EEEEEERTTAVVETDFDFQDFVQ
+left = AG, right =GT, stop_counter = 0
+EEEEEERTTAVVETDFDFQDFVQ
+[[2, 2]]
+start_coordinate : 2104333,stop_coordinate : 2104265
+27620 27692 Y N
+Lysandra_coridon,HG992141.1,2104263,2104335,1,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,1,23,23,Y,N
+
+Lysandra_coridon
+Processing Exon_14
+Lysandra_coridon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+66
+[[1, 0]]
+reached here
+Before splice: 28640,28838
+after splice: 28640,28838
+sequence:
+TTCTGCCACCCTCGAGTTGTGAGCGCGTGCGCAGCTCTCCTGGAGCGCTTCGACCAGAACCTACCTCACACCAACCACTGCATCGTCAAGATGCTGCACCGCGTGGCCTGGGACTGCAAGCGCCCCGCCATGATGTTCCAAGCCACTCTGTTTGTTACCTTCCAGAAGATTCTCGCCCACCCCATCTCGCATTTCAAG
+sequence:
+FCHPRVVSACAALLERFDQNLPHTNHCIVKMLHRVAWDCKRPAMMFQATLFVTFQKILAHPISHFK
+left = AG, right =GT, stop_counter = 0
+FCHPRVVSACAALLERFDQNLPHTNHCIVKMLHRVAWDCKRPAMMFQATLFVTFQKILAHPISHFK
+[[1, 0]]
+start_coordinate : 2103314,stop_coordinate : 2103117
+28640 28838 Y N
+Lysandra_coridon,HG992141.1,2103117,2103315,1,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66,Y,N
+
+Lysandra_coridon
+Processing Exon_15
+Lysandra_coridon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+49
+[[0, 2]]
+reached here
+Before splice: 29245,29393
+after splice: 29245,29393
+sequence:
+GAGCTGGAGAAGTTTGCGATATTTATAATAAGGAAATTCGCGGAGATCGCCGCCGCCAACGGTAAAGTTTTCATCGAGCTGCTATTCTGGAAGAACTCGAAAGACTCCGTGGAGATCGAGCTCGGATACGACCTCTACAACGATCAAAG
+sequence:
+ELEKFAIFIIRKFAEIAAANGKVFIELLFWKNSKDSVEIELGYDLYNDQ
+left = AG, right =GT, stop_counter = 0
+ELEKFAIFIIRKFAEIAAANGKVFIELLFWKNSKDSVEIELGYDLYNDQ
+[[0, 2]]
+start_coordinate : 2102710,stop_coordinate : 2102564
+29245 29393 Y N
+Lysandra_coridon,HG992141.1,2102562,2102710,1,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49,Y,N
+
+Lysandra_coridon
+Processing Exon_16
+Lysandra_coridon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+31
+[[1, 1]]
+reached here
+Before splice: 34232,34326
+after splice: 34232,34326
+sequence:
+GATAAGGCGGGCAAGGGCGCCTGGACCCCGGAACAGGAAGAGGAACTCCGCTCCTTGTATATGGAAAATCAATCCAACCCGCAGACCAACCAGG
+sequence:
+DKAGKGAWTPEQEEELRSLYMENQSNPQTNQ
+left = AG, right =GT, stop_counter = 0
+DKAGKGAWTPEQEEELRSLYMENQSNPQTNQ
+[[1, 1]]
+start_coordinate : 2097722,stop_coordinate : 2097630
+34232 34326 Y N
+Lysandra_coridon,HG992141.1,2097629,2097723,1,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31,Y,N
+
+Lysandra_coridon
+Processing Exon_17
+Lysandra_coridon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+68
+[[2, 1]]
+reached here
+Before splice: 44756,44956
+after splice: 44756,44956
+sequence:
+GTAATTGACTGGATCCTGGACAACCTGATCGACCAGACGCGAACTCGGCGCAGCGTCATCAAGAAACTGAAGGAGTTGGGGTTGATTTTCCGCGCGCCGACAAAACGCGCCAACCGCGAGAGGAAGGACAAGGGCACATTCACCGAGGAAGACGATAATCTGTTGAAGGAGTTGTGGCAGCAACACGCCGAATCACCAG
+sequence:
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFRAPTKRANRERKDKGTFTEEDDNLLKELWQQHAESP
+left = AG, right =GT, stop_counter = 0
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFRAPTKRANRERKDKGTFTEEDDNLLKELWQQHAESP
+[[2, 1]]
+start_coordinate : 2087197,stop_coordinate : 2087000
+44756 44956 Y N
+Lysandra_coridon,HG992141.1,2086999,2087199,1,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,66,66,Y,N
+
+Lysandra_coridon
+Processing Exon_18
+Lysandra_coridon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+52
+[[2, 1]]
+reached here
+Before splice: 46517,46675
+after splice: 46517,46675
+sequence:
+CCAACATCCGCCATCCTATCGGAGCTGAAGGAGCGCGGCGTTTCGCGGTCACGGCGCACCGTCGTGTCGCGTCTCGTGTCGCTCGGCGTGGTGGGGGACGCTCGCGAGTGCCGCAAGCCGCGTCGGGCCGATAAATCGAACCGTGAGTTGAAAAACC
+sequence:
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSNRELKN
+left = AG, right =AG, stop_counter = 0
+sequence:
+CCAACATCCGCCATCCTATCGGAGCTGAAGGAGCGCGGCGTTTCGCGGTCACGGCGCACCGTCGTGTCGCGTCTCGTGTCGCTCGGCGTGGTGGGGGACGCTCGCGAGTGCCGCAAGCCGCGTCGGGCCGATAAATCGAACCGTGAGTTGAAAAACCAGG
+sequence:
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSNRELKNQ
+left = AG, right =GG, stop_counter = 0
+sequence:
+CCAACATCCGCCATCCTATCGGAGCTGAAGGAGCGCGGCGTTTCGCGGTCACGGCGCACCGTCGTGTCGCGTCTCGTGTCGCTCGGCGTGGTGGGGGACGCTCGCGAGTGCCGCAAGCCGCGTCGGGCCGATAAATCGAACCGTGAGTTGAAAAACCAGGGGT
+sequence:
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSNRELKNQG
+left = AG, right =TC, stop_counter = 0
+sequence:
+CCAACATCCGCCATCCTATCGGAGCTGAAGGAGCGCGGCGTTTCGCGGTCACGGCGCACCGTCGTGTCGCGTCTCGTGTCGCTCGGCGTGGTGGGGGACGCTCGCGAGTGCCGCAAGCCGCGTCGGGCCGATAAATCGAACCGTGAGTTGAAAAACCAGGGGTTCA
+sequence:
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSNRELKNQGF
+left = AG, right =CA, stop_counter = 0
+sequence:
+CCAACATCCGCCATCCTATCGGAGCTGAAGGAGCGCGGCGTTTCGCGGTCACGGCGCACCGTCGTGTCGCGTCTCGTGTCGCTCGGCGTGGTGGGGGACGCTCGCGAGTGCCGCAAGCCGCGTCGGGCCGATAAATCGAACCGTGAGTTGAAAAACCAGGGGTTCACAA
+sequence:
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSNRELKNQGFT
+left = AG, right =CC, stop_counter = 0
+sequence:
+CCAACATCCGCCATCCTATCGGAGCTGAAGGAGCGCGGCGTTTCGCGGTCACGGCGCACCGTCGTGTCGCGTCTCGTGTCGCTCGGCGTGGTGGGGGACGCTCGCGAGTGCCGCAAGCCGCGTCGGGCCGATAAATCGAACCGTGAGTTGAAAAACCAGGGGTTCACAACCT
+sequence:
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSNRELKNQGFTT
+left = AG, right =TT, stop_counter = 0
+sequence:
+CCAACATCCGCCATCCTATCGGAGCTGAAGGAGCGCGGCGTTTCGCGGTCACGGCGCACCGTCGTGTCGCGTCTCGTGTCGCTCGGCGTGGTGGGGGACGCTCGCGAGTGCCGCAAGCCGCGTCGGGCCGATAAATCGAACCGTGAGTTGAAAAACCAGGGGTTCACAACCTTTT
+sequence:
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSNRELKNQGFTTF
+left = AG, right =AT, stop_counter = 0
+sequence:
+CCAACATCCGCCATCCTATCGGAGCTGAAGGAGCGCGGCGTTTCGCGGTCACGGCGCACCGTCGTGTCGCGTCTCGTGTCGCTCGGCGTGGTGGGGGACGCTCGCGAGTGCCGCAAGCCGCGTCGGGCCGATAAATCGAACCGTGAGTTGAAAAACCAGGGGTTCACAACCTTTTATA
+sequence:
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSNRELKNQGFTTFY
+left = AG, right =GA, stop_counter = 0
+sequence:
+CCAACATCCGCCATCCTATCGGAGCTGAAGGAGCGCGGCGTTTCGCGGTCACGGCGCACCGTCGTGTCGCGTCTCGTGTCGCTCGGCGTGGTGGGGGACGCTCGCGAGTGCCGCAAGCCGCGTCGGGCCGATAAATCGAACCGTGAGTTGAAAAACCAGGGGTTCACAACCTTTTATAGAC
+sequence:
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSNRELKNQGFTTFYR
+left = AG, right =CA, stop_counter = 0
+sequence:
+CCAACATCCGCCATCCTATCGGAGCTGAAGGAGCGCGGCGTTTCGCGGTCACGGCGCACCGTCGTGTCGCGTCTCGTGTCGCTCGGCGTGGTGGGGGACGCTCGCGAGTGCCGCAAGCCGCGTCGGGCCGATAAATCGAACCGTGAGTTGAAAAACCAGGGGTTCACAACCTTTTATAGACCAG
+sequence:
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSNRELKNQGFTTFYRP
+left = AG, right =GG, stop_counter = 0
+sequence:
+CCAACATCCGCCATCCTATCGGAGCTGAAGGAGCGCGGCGTTTCGCGGTCACGGCGCACCGTCGTGTCGCGTCTCGTGTCGCTCGGCGTGGTGGGGGACGCTCGCGAGTGCCGCAAGCCGCGTCGGGCCGATAAATCGAACCGTGAGTTGAAAAACCAGGGGTTCACAACCTTTTATAGACCAGGGA
+sequence:
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSNRELKNQGFTTFYRPG
+left = AG, right =CC, stop_counter = 0
+sequence:
+CCAACATCCGCCATCCTATCGGAGCTGAAGGAGCGCGGCGTTTCGCGGTCACGGCGCACCGTCGTGTCGCGTCTCGTGTCGCTCGGCGTGGTGGGGGACGCTCGCGAGTGCCGCAAGCCGCGTCGGGCCGATAAATCGAACCGTGAGTTGAAAAACCAGGGGTTCACAACCTTTTATAGACCAGGGACCA
+sequence:
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSNRELKNQGFTTFYRPGT
+left = AG, right =CT, stop_counter = 0
+sequence:
+CCAACATCCGCCATCCTATCGGAGCTGAAGGAGCGCGGCGTTTCGCGGTCACGGCGCACCGTCGTGTCGCGTCTCGTGTCGCTCGGCGTGGTGGGGGACGCTCGCGAGTGCCGCAAGCCGCGTCGGGCCGATAAATCGAACCGTGAGTTGAAAAACCAGGGGTTCACAACCTTTTATAGACCAGGGACCACTT
+sequence:
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSNRELKNQGFTTFYRPGTT
+left = AG, right =TT, stop_counter = 0
+sequence:
+CCAACATCCGCCATCCTATCGGAGCTGAAGGAGCGCGGCGTTTCGCGGTCACGGCGCACCGTCGTGTCGCGTCTCGTGTCGCTCGGCGTGGTGGGGGACGCTCGCGAGTGCCGCAAGCCGCGTCGGGCCGATAAATCGAACCGTGAGTTGAAAAACCAGGGGTTCACAACCTTTTATAGACCAGGGACCACTTTTA
+sequence:
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSNRELKNQGFTTFYRPGTTF
+left = AG, right =TA, stop_counter = 0
+sequence:
+CCAACATCCGCCATCCTATCGGAGCTGAAGGAGCGCGGCGTTTCGCGGTCACGGCGCACCGTCGTGTCGCGTCTCGTGTCGCTCGGCGTGGTGGGGGACGCTCGCGAGTGCCGCAAGCCGCGTCGGGCCGATAAATCGAACCGTGAGTTGAAAAACCAGGGGTTCACAACCTTTTATAGACCAGGGACCACTTTTATAT
+sequence:
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSNRELKNQGFTTFYRPGTTFI
+left = AG, right =TT, stop_counter = 0
+sequence:
+CCAACATCCGCCATCCTATCGGAGCTGAAGGAGCGCGGCGTTTCGCGGTCACGGCGCACCGTCGTGTCGCGTCTCGTGTCGCTCGGCGTGGTGGGGGACGCTCGCGAGTGCCGCAAGCCGCGTCGGGCCGATAAATCGAACCGTGAGTTGAAAAACCAGGGGTTCACAACCTTTTATAGACCAGGGACCACTTTTATATTTG
+sequence:
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSNRELKNQGFTTFYRPGTTFIF
+left = AG, right =TC, stop_counter = 0
+sequence:
+CCAACATCCGCCATCCTATCGGAGCTGAAGGAGCGCGGCGTTTCGCGGTCACGGCGCACCGTCGTGTCGCGTCTCGTGTCGCTCGGCGTGGTGGGGGACGCTCGCGAGTGCCGCAAGCCGCGTCGGGCCGATAAATCGAACCGTGAGTTGAAAAACCAGGGGTTCACAACCTTTTATAGACCAGGGACCACTTTTATATTTGTCT
+sequence:
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSNRELKNQGFTTFYRPGTTFIFV
+left = AG, right =TG, stop_counter = 0
+sequence:
+CCAACATCCGCCATCCTATCGGAGCTGAAGGAGCGCGGCGTTTCGCGGTCACGGCGCACCGTCGTGTCGCGTCTCGTGTCGCTCGGCGTGGTGGGGGACGCTCGCGAGTGCCGCAAGCCGCGTCGGGCCGATAAATCGAACCGTGAGTTGAAAAACCAGGGGTTCACAACCTTTTATAGACCAGGGACCACTTTTATATTTGTCTTGT
+sequence:
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSNRELKNQGFTTFYRPGTTFIFVL
+left = AG, right =TA, stop_counter = 0
+sequence:
+CCAACATCCGCCATCCTATCGGAGCTGAAGGAGCGCGGCGTTTCGCGGTCACGGCGCACCGTCGTGTCGCGTCTCGTGTCGCTCGGCGTGGTGGGGGACGCTCGCGAGTGCCGCAAGCCGCGTCGGGCCGATAAATCGAACCGTGAGTTGAAAAACCAGGGGTTCACAACCTTTTATAGACCAGGGACCACTTTTATATTTGTCTTGTTAA
+sequence:
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSNRELKNQGFTTFYRPGTTFIFVLL
+left = AG, right =Ct, stop_counter = 0
+sequence:
+CCAACATCCGCCATCCTATCGGAGCTGAAGGAGCGCGGCGTTTCGCGGTCACGGCGCACCGTCGTGTCGCGTCTCGTGTCGCTCGGCGTGGTGGGGGACGCTCGCGAGTGCCGCAAGCCGCGTCGGGCCGATAAATCGAACCGTGAGTTGAAAAACCAGGGGTTCACAACCTTTTATAGACCAGGGACCACTTTTATATTTGTCTTGTTAACtt
+sequence:
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSNRELKNQGFTTFYRPGTTFIFVLLT
+left = AG, right =gc, stop_counter = 0
+sequence:
+CCAACATCCGCCATCCTATCGGAGCTGAAGGAGCGCGGCGTTTCGCGGTCACGGCGCACCGTCGTGTCGCGTCTCGTGTCGCTCGGCGTGGTGGGGGACGCTCGCGAGTGCCGCAAGCCGCGTCGGGCCGATAAATCGAACCGTGAGTTGAAAAACCAGGGGTTCACAACCTTTTATAGACCAGGGACCACTTTTATATTTGTCTTGTTAACttgct
+sequence:
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSNRELKNQGFTTFYRPGTTFIFVLLTC
+left = AG, right =at, stop_counter = 0
+sequence:
+CCAACATCCGCCATCCTATCGGAGCTGAAGGAGCGCGGCGTTTCGCGGTCACGGCGCACCGTCGTGTCGCGTCTCGTGTCGCTCGGCGTGGTGGGGGACGCTCGCGAGTGCCGCAAGCCGCGTCGGGCCGATAAATCGAACCGTGAGTTGAAAAACCAGGGGTTCACAACCTTTTATAGACCAGGGACCACTTTTATATTTGTCTTGTTAACttgctata
+sequence:
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSNRELKNQGFTTFYRPGTTFIFVLLTCY
+left = AG, right =gt, stop_counter = 0
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSNRELKNQGFTTFYRPGTTFIFVLLTCY
+[[2, 1]]
+start_coordinate : 2085436,stop_coordinate : 2085218
+46517 46738 Y N
+Lysandra_coridon,HG992141.1,2085217,2085438,1,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,73,73,Y,N
+
+Lysandra_coridon
+Processing Exon_19
+Lysandra_coridon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+65
+[[2, 1]]
+reached here
+Before splice: 55158,55352
+after splice: 55158,55352
+sequence:
+GCAGGTTCATCGGAATCATCGAGCTCAGAGGACGAGAGTGACAACTCCTCTAAACCCGCCAAGCCCGCTAAACCAGTTAAACAAGCAAACAAACATAAGCCGGCCAAACAAACTAACCGCAGGACCAAACCCAAGAAGGTAGAGTTGAGTGCGAACGAGATTGCTAAGTTACTCGTGCGGGCCGTCGACGATG
+sequence:
+AGSSESSSSEDESDNSSKPAKPAKPVKQANKHKPAKQTNRRTKPKKVELSANEIAKLLVRAVDD
+left = TT, right =GT, stop_counter = 0
+sequence:
+TAAGCAGGTTCATCGGAATCATCGAGCTCAGAGGACGAGAGTGACAACTCCTCTAAACCCGCCAAGCCCGCTAAACCAGTTAAACAAGCAAACAAACATAAGCCGGCCAAACAAACTAACCGCAGGACCAAACCCAAGAAGGTAGAGTTGAGTGCGAACGAGATTGCTAAGTTACTCGTGCGGGCCGTCGACGATG
+sequence:
+*AGSSESSSSEDESDNSSKPAKPAKPVKQANKHKPAKQTNRRTKPKKVELSANEIAKLLVRAVDD
+left = AG, right =GT, stop_counter = 1
+GSSESSSSEDESDNSSKPAKPAKPVKQANKHKPAKQTNRRTKPKKVELSANEIAKLLVRAVDD
+[[2, 1]]
+start_coordinate : 2081936,stop_coordinate : 2081748
+55161 55352 Y N
+Lysandra_coridon,HG992141.1,2081747,2081938,1,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19,1,63,63,Y,N
+
+Lysandra_coridon
+Processing Exon_20
+Lysandra_coridon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+65
+[[2, 0]]
+reached here
+Before splice: 51871,52067
+after splice: 51871,52067
+sequence:
+TACACGGAAGCTCTAGAATGGCTGGCGGAGAATTTAGAAGAGGTAGCCCTAGACCAAGAGGCAGAGGGCTTCGATCCCACAGCTGAGGGCACGCCCATCGTGCCCATAGCGCGAGCCTGTGTGGAGGCCATGGACAGTAAGACGTTTCAGGAAGTTTTGAGGAGTGTTGGTGCAATGCCCCCATTCGATGAGCAG
+sequence:
+YTEALEWLAENLEEVALDQEAEGFDPTAEGTPIVPIARACVEAMDSKTFQEVLRSVGAMPPFDEQ
+left = AG, right =GT, stop_counter = 0
+YTEALEWLAENLEEVALDQEAEGFDPTAEGTPIVPIARACVEAMDSKTFQEVLRSVGAMPPFDEQ
+[[2, 0]]
+start_coordinate : 2080082,stop_coordinate : 2079888
+51871 52067 Y N
+Lysandra_coridon,HG992141.1,2079888,2080084,1,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,1,65,65,Y,N
+
+Lysandra_coridon
+Processing Exon_21
+Lysandra_coridon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+169
+[[0, 1]]
+reached here
+Before splice: 57948,58392
+after splice: 57948,58392
+sequence:
+GAAACTTACTGGAGGATTCCTGGAGATCTTCACTTCGAAACGATCAGGAAGCGACGAGAGATCATTGTCAAAGCGATTAACAAGGAGCTCATAATCGATTCCAATGAGAACGACGATCGAGTCGAAAATGGAAAGGAATCGAGTGACGACGATGATTTGTTTGACAACTTGCGTAAGATGCGGGACGCTAATACTACGGAAGCTCCCAATACTAGAGAAACTCCTAATAATTCCATTAGTAATACCGCTCCTAACACTCCTAATATTAATCGCAAGCGAAGTCGCAGCGCGACCTCCGAGGACGACAACAGTCGCGACAAAATGCCCAAAATCGATGAGGTTGAGGAaaacgatgatgatgatatcCTGTCTTTCGCCAAAAAAACTCTTCAGACAGATCTGCCCGATACTGAAGATATACTGAGCGGCCTACCTGAACATGACT
+sequence:
+ETYWRIPGDLHFETIRKRREIIVKAINKELIIDSNENDDRVENGKESSDDDDLFDNLRKMRDANTTEAPNTRETPNNSISNTAPNTPNINRKRSRSATSEDDNSRDKMPKIDEVEENDDDDILSFAKKTLQTDLPDTEDILSGLPEHD
+left = AG, right =Cg, stop_counter = 0
+sequence:
+GAAACTTACTGGAGGATTCCTGGAGATCTTCACTTCGAAACGATCAGGAAGCGACGAGAGATCATTGTCAAAGCGATTAACAAGGAGCTCATAATCGATTCCAATGAGAACGACGATCGAGTCGAAAATGGAAAGGAATCGAGTGACGACGATGATTTGTTTGACAACTTGCGTAAGATGCGGGACGCTAATACTACGGAAGCTCCCAATACTAGAGAAACTCCTAATAATTCCATTAGTAATACCGCTCCTAACACTCCTAATATTAATCGCAAGCGAAGTCGCAGCGCGACCTCCGAGGACGACAACAGTCGCGACAAAATGCCCAAAATCGATGAGGTTGAGGAaaacgatgatgatgatatcCTGTCTTTCGCCAAAAAAACTCTTCAGACAGATCTGCCCGATACTGAAGATATACTGAGCGGCCTACCTGAACATGACTCga
+sequence:
+ETYWRIPGDLHFETIRKRREIIVKAINKELIIDSNENDDRVENGKESSDDDDLFDNLRKMRDANTTEAPNTRETPNNSISNTAPNTPNINRKRSRSATSEDDNSRDKMPKIDEVEENDDDDILSFAKKTLQTDLPDTEDILSGLPEHDS
+left = AG, right =gt, stop_counter = 0
+ETYWRIPGDLHFETIRKRREIIVKAINKELIIDSNENDDRVENGKESSDDDDLFDNLRKMRDANTTEAPNTRETPNNSISNTAPNTPNINRKRSRSATSEDDNSRDKMPKIDEVEENDDDDILSFAKKTLQTDLPDTEDILSGLPEHDS
+[[0, 1]]
+start_coordinate : 2074007,stop_coordinate : 2073561
+57948 58395 Y N
+Lysandra_coridon,HG992141.1,2073560,2074007,1,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,149,149,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Lysandra_coridon
+Processing Exon_2
+0 query coordinate
+Lysandra_coridon_coordinates_Danaus_plexippus.csv
+61
+[[1, 0]]
+reached here
+Before splice: 348,531
+after splice: 348,531
+sequence:
+CTTATTGTTAACCTCACAAATCCTGCACTTCTACTGTATAGAGAGGAAGTGCCTACAGAAAAAGCAGCCAGACATAACTACTTGCAAATATTATCTCATCTACAATCCTATAAAGAAGAAACTTTTACGAAAGTTGATACATGGCAGGTTTTTGCCAAGAAATTGGCAAAGACGTTAGAAATA
+sequence:
+LIVNLTNPALLLYREEVPTEKAARHNYLQILSHLQSYKEETFTKVDTWQVFAKKLAKTLEI
+left = AG, right =GT, stop_counter = 0
+LIVNLTNPALLLYREEVPTEKAARHNYLQILSHLQSYKEETFTKVDTWQVFAKKLAKTLEI
+[[1, 0]]
+start_coordinate : 2131606,stop_coordinate : 2131424
+348 531 Y N
+Lysandra_coridon,HG992141.1,2131424,2131607,1,N,Aricia_agestis_XM_042115370.1_Frame_1_rightoh_0_query_Exon_2,1,61,61,Y,N
+
+Lysandra_coridon
+Processing Exon_3
+Lysandra_coridon_coordinates_Aricia_agestis.csv
+1 query coordinate
+45
+[[0, 0]]
+reached here
+Before splice: 1566,1700
+after splice: 1566,1700
+sequence:
+gACTGGTCAGAAAGAGATGAAGATACAGGTCTCATAATTGAGAGGATACTTATTTTAATAAGAAATGTTCTACATGTTCCTGCTGACTTAGACAAAGAGAAAAGGCCCGAAAATGATGCCAGTGTACATGACCAG
+sequence:
+DWSERDEDTGLIIERILILIRNVLHVPADLDKEKRPENDASVHDQ
+left = ag, right =GT, stop_counter = 0
+DWSERDEDTGLIIERILILIRNVLHVPADLDKEKRPENDASVHDQ
+[[0, 0]]
+start_coordinate : 2130389,stop_coordinate : 2130255
+1566 1700 Y N
+Lysandra_coridon,HG992141.1,2130255,2130389,1,N,Aricia_agestis_XM_042115370.1_Frame_0_rightoh_0_query_Exon_3,1,45,45,Y,N
+
+Lysandra_coridon
+Processing Exon_4
+Lysandra_coridon_coordinates_Aricia_agestis.csv
+1 query coordinate
+85
+[[0, 2]]
+reached here
+Before splice: 1966,2222
+after splice: 1966,2222
+sequence:
+GTATTGTGGGCATTGAACCACTCTGGTATATTAGACATAATTCTTTATATGTCTTCAGAGAAtgagaaacaatattttatgcatattcTCGAGATAATATCTCACCTACTTCGAGAACAGAATCCAACAAGTCTCGCAGATGCGGCATTACAAAGAAGTGTTGATGAGAAACTGAAAGATGAACAGGAACTTCTCATGATGAGGATGAAAGAAAATAAGGAGAGAATTAACAAAGTGAAACAGTATTCAGGTTCAAG
+sequence:
+VLWALNHSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLKDEQELLMMRMKENKERINKVKQYSGS
+left = AG, right =GT, stop_counter = 0
+VLWALNHSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLKDEQELLMMRMKENKERINKVKQYSGS
+[[0, 2]]
+start_coordinate : 2129989,stop_coordinate : 2129735
+1966 2222 Y N
+Lysandra_coridon,HG992141.1,2129733,2129989,1,N,Aricia_agestis_XM_042115370.1_Frame_0_rightoh_2_query_Exon_4,1,85,85,Y,N
+
+Lysandra_coridon
+Processing Exon_5
+Lysandra_coridon_coordinates_Aricia_agestis.csv
+1 query coordinate
+65
+[[1, 2]]
+reached here
+Before splice: 2865,3062
+after splice: 2865,3062
+sequence:
+CATTCAAGATTTGGTGGGACTTATGTTATACAGAATATGAAGTCAATATCTGATAATGAGTTGATCAGTCTGAAACCATTGAACAAAATATCCAATTTTAACTTTAATGGTAGTAAAACATCAAAATTTATGAAACCTAAAAACAGGCGGCCAGTGGAAAGTGGTATGATGGAAAGAAGATCAGCCTTTGCTGTgag
+sequence:
+HSRFGGTYVIQNMKSISDNELISLKPLNKISNFNFNGSKTSKFMKPKNRRPVESGMMERRSAFAV
+left = AG, right =gt, stop_counter = 0
+HSRFGGTYVIQNMKSISDNELISLKPLNKISNFNFNGSKTSKFMKPKNRRPVESGMMERRSAFAV
+[[1, 2]]
+start_coordinate : 2129089,stop_coordinate : 2128895
+2865 3062 Y N
+Lysandra_coridon,HG992141.1,2128893,2129090,1,N,Aricia_agestis_XM_042115370.1_Frame_1_rightoh_2_query_Exon_5,1,65,65,Y,N
+
+Lysandra_coridon
+Processing Exon_6
+Lysandra_coridon_coordinates_Aricia_agestis.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 3172,3354
+after splice: 3172,3354
+sequence:
+TTGTTTCTAAAGGAGTTTTGTATAGAATTTCTAAATAGCTCATACAATCCAATGATGCACTATGTGAAGGATGTTCTTGTAAGAGCTAAAGCACAGCAGAATGATGAGTCTTATTATCTCTGGGCAATGAAATTTTTCATGGAGTTCAATAGAGGACACAATTTCCAAGTTGGACTTGTCAG
+sequence:
+LFLKEFCIEFLNSSYNPMMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+left = AG, right =GT, stop_counter = 0
+LFLKEFCIEFLNSSYNPMMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+[[1, 2]]
+start_coordinate : 2128782,stop_coordinate : 2128603
+3172 3354 Y N
+Lysandra_coridon,HG992141.1,2128601,2128783,1,N,Aricia_agestis_XM_042115370.1_Frame_1_rightoh_2_query_Exon_6,1,60,60,Y,N
+
+Lysandra_coridon
+Processing Exon_7
+Lysandra_coridon_coordinates_Aricia_agestis.csv
+1 query coordinate
+95
+[[1, 2]]
+reached here
+Before splice: 4653,4940
+after splice: 4653,4940
+sequence:
+GAGACGATGTCGGTGCCGATGTTTCATTACGTGCAGCAGCAGATGGAAAAATACTTCGACATGATCAAAGTCGAGAAGAAAAAGTTCTCCGTGTGGGTGCGACGCCTGCACCTCGCACTGCGCGCCTACAAGGAACTTTTGCACACCCTACTCGCTATGGACAAGTGCACAGAGAGCACCGTAAGGGACTCCGCCAAAGTTCTTAAGAGCAATATATTCTACGTGCTCGAGTATAGGGAGTTCATACTATCGATTATACTGAACTACGATGATAATAAGATGCCGAG
+sequence:
+ETMSVPMFHYVQQQMEKYFDMIKVEKKKFSVWVRRLHLALRAYKELLHTLLAMDKCTESTVRDSAKVLKSNIFYVLEYREFILSIILNYDDNKMP
+left = AG, right =GT, stop_counter = 0
+ETMSVPMFHYVQQQMEKYFDMIKVEKKKFSVWVRRLHLALRAYKELLHTLLAMDKCTESTVRDSAKVLKSNIFYVLEYREFILSIILNYDDNKMP
+[[1, 2]]
+start_coordinate : 2127301,stop_coordinate : 2127017
+4653 4940 Y N
+Lysandra_coridon,HG992141.1,2127015,2127302,1,N,Aricia_agestis_XM_042115370.1_Frame_1_rightoh_2_query_Exon_7,1,95,95,Y,N
+
+Lysandra_coridon
+Processing Exon_8
+Lysandra_coridon_coordinates_Aricia_agestis.csv
+1 query coordinate
+39
+[[1, 1]]
+reached here
+Before splice: 7572,7690
+after splice: 7572,7690
+sequence:
+TCATATCTCGTGGATCTAGTGGAGACTGTCCATCTCTTCCTCAAGATGCTGGAGCACTACTGCAAGAAAACTGGACTCGTCGTGCAAAAGAAAGTGAGGAAGAAAGCCAAACCTAAAA
+sequence:
+SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKAKPK
+left = AG, right =GT, stop_counter = 0
+SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKAKPK
+[[1, 1]]
+start_coordinate : 2124382,stop_coordinate : 2124266
+7572 7690 Y N
+Lysandra_coridon,HG992141.1,2124265,2124383,1,N,Aricia_agestis_XM_042115370.1_Frame_1_rightoh_1_query_Exon_8,1,39,39,Y,N
+
+Lysandra_coridon
+Processing Exon_9
+Lysandra_coridon_coordinates_Aricia_agestis.csv
+1 query coordinate
+52
+[[2, 2]]
+reached here
+Before splice: 13932,14091
+after splice: 13932,14091
+sequence:
+AAAACAGCTCGAGCCCCTCCTGTGTCAAAACCGAAGCCAACGAAGGAGGTTCCCATGGAGCAGGTGGAGCATCATCTGAGCGAGGCGCTGGCTGCCCCGGCGGATGAGTTCCCGCCGCCCTTCGACGCCGCCTCAGACGTGCCTATTGAGGAACAGAG
+sequence:
+KTARAPPVSKPKPTKEVPMEQVEHHLSEALAAPADEFPPPFDAASDVPIEEQ
+left = AG, right =GT, stop_counter = 0
+KTARAPPVSKPKPTKEVPMEQVEHHLSEALAAPADEFPPPFDAASDVPIEEQ
+[[2, 2]]
+start_coordinate : 2118021,stop_coordinate : 2117866
+13932 14091 Y N
+Lysandra_coridon,HG992141.1,2117864,2118023,1,N,Aricia_agestis_XM_042115370.1_Frame_2_rightoh_2_query_Exon_9,1,52,52,Y,N
+
+Lysandra_coridon
+Processing Exon_10
+Lysandra_coridon_coordinates_Aricia_agestis.csv
+1 query coordinate
+26
+[[1, 2]]
+reached here
+Before splice: 19839,19919
+after splice: 19839,19919
+sequence:
+gGAGACTGCATGAAGAAGATCCAGACACTCATGCGTGATGAGAAGTACGCAGAAGCTGTCAGTCTATTCCGCGCTGCCAG
+sequence:
+GDCMKKIQTLMRDEKYAEAVSLFRAA
+left = ag, right =GT, stop_counter = 0
+GDCMKKIQTLMRDEKYAEAVSLFRAA
+[[1, 2]]
+start_coordinate : 2112115,stop_coordinate : 2112038
+19839 19919 Y N
+Lysandra_coridon,HG992141.1,2112036,2112116,1,N,Aricia_agestis_XM_042115370.1_Frame_1_rightoh_2_query_Exon_10,1,26,26,Y,N
+
+Lysandra_coridon
+Processing Exon_11
+Lysandra_coridon_coordinates_Aricia_agestis.csv
+1 query coordinate
+34
+[[1, 1]]
+reached here
+Before splice: 21978,22081
+after splice: 21978,22081
+sequence:
+GAAGTGTGGCCCGAGGAAGGGGTATTCGGTTCCCCCGGTATACCTGAACATGAAGAACTGGACATGCTCAAGACCGTTTATAGCGCAGACCTGGGTGTAGAGA
+sequence:
+EVWPEEGVFGSPGIPEHEELDMLKTVYSADLGVE
+left = AG, right =TG, stop_counter = 0
+sequence:
+GAAGTGTGGCCCGAGGAAGGGGTATTCGGTTCCCCCGGTATACCTGAACATGAAGAACTGGACATGCTCAAGACCGTTTATAGCGCAGACCTGGGTGTAGAGATGA
+sequence:
+EVWPEEGVFGSPGIPEHEELDMLKTVYSADLGVEM
+left = AG, right =AA, stop_counter = 0
+sequence:
+GAAGTGTGGCCCGAGGAAGGGGTATTCGGTTCCCCCGGTATACCTGAACATGAAGAACTGGACATGCTCAAGACCGTTTATAGCGCAGACCTGGGTGTAGAGATGAAAG
+sequence:
+EVWPEEGVFGSPGIPEHEELDMLKTVYSADLGVEMK
+left = AG, right =GT, stop_counter = 0
+EVWPEEGVFGSPGIPEHEELDMLKTVYSADLGVEMK
+[[1, 1]]
+start_coordinate : 2109976,stop_coordinate : 2109869
+21978 22087 Y N
+Lysandra_coridon,HG992141.1,2109868,2109977,1,N,Aricia_agestis_XM_042115370.1_Frame_1_rightoh_1_query_Exon_11,1,36,36,Y,N
+
+Lysandra_coridon
+Processing Exon_12
+Lysandra_coridon_coordinates_Aricia_agestis.csv
+1 query coordinate
+13
+[[2, 1]]
+reached here
+Before splice: 23927,23968
+after splice: 23927,23968
+sequence:
+GACCAGGAGGAGGCTCATGAGAATTCCGAGTACAGCGCGG
+sequence:
+DQEEAHENSEYSA
+left = AG, right =GT, stop_counter = 0
+DQEEAHENSEYSA
+[[2, 1]]
+start_coordinate : 2108026,stop_coordinate : 2107988
+23927 23968 Y N
+Lysandra_coridon,HG992141.1,2107987,2108028,1,N,Aricia_agestis_XM_042115370.1_Frame_2_rightoh_1_query_Exon_12,1,13,13,Y,N
+
+Lysandra_coridon
+Processing Exon_13
+Lysandra_coridon_coordinates_Aricia_agestis.csv
+1 query coordinate
+26
+[[2, 2]]
+reached here
+Before splice: 27611,27692
+after splice: 27611,27692
+sequence:
+GAAGAAGacgaggaagaagaagaagaaagaaCAACGGCCGTCGTGGAAACTGATTTCGATTTTCAAGACTTCGTACAAAG
+sequence:
+EEDEEEEEERTTAVVETDFDFQDFVQ
+left = AG, right =GT, stop_counter = 0
+EEDEEEEEERTTAVVETDFDFQDFVQ
+[[2, 2]]
+start_coordinate : 2104342,stop_coordinate : 2104265
+27611 27692 Y N
+Lysandra_coridon,HG992141.1,2104263,2104344,1,N,Aricia_agestis_XM_042115370.1_Frame_2_rightoh_2_query_Exon_13,1,26,26,Y,N
+
+Lysandra_coridon
+Processing Exon_14
+Lysandra_coridon_coordinates_Aricia_agestis.csv
+1 query coordinate
+66
+[[1, 0]]
+reached here
+Before splice: 28640,28838
+after splice: 28640,28838
+sequence:
+TTCTGCCACCCTCGAGTTGTGAGCGCGTGCGCAGCTCTCCTGGAGCGCTTCGACCAGAACCTACCTCACACCAACCACTGCATCGTCAAGATGCTGCACCGCGTGGCCTGGGACTGCAAGCGCCCCGCCATGATGTTCCAAGCCACTCTGTTTGTTACCTTCCAGAAGATTCTCGCCCACCCCATCTCGCATTTCAAG
+sequence:
+FCHPRVVSACAALLERFDQNLPHTNHCIVKMLHRVAWDCKRPAMMFQATLFVTFQKILAHPISHFK
+left = AG, right =GT, stop_counter = 0
+FCHPRVVSACAALLERFDQNLPHTNHCIVKMLHRVAWDCKRPAMMFQATLFVTFQKILAHPISHFK
+[[1, 0]]
+start_coordinate : 2103314,stop_coordinate : 2103117
+28640 28838 Y N
+Lysandra_coridon,HG992141.1,2103117,2103315,1,N,Aricia_agestis_XM_042115370.1_Frame_1_rightoh_0_query_Exon_14,1,66,66,Y,N
+
+Lysandra_coridon
+Processing Exon_15
+Lysandra_coridon_coordinates_Aricia_agestis.csv
+1 query coordinate
+49
+[[0, 2]]
+reached here
+Before splice: 29245,29393
+after splice: 29245,29393
+sequence:
+GAGCTGGAGAAGTTTGCGATATTTATAATAAGGAAATTCGCGGAGATCGCCGCCGCCAACGGTAAAGTTTTCATCGAGCTGCTATTCTGGAAGAACTCGAAAGACTCCGTGGAGATCGAGCTCGGATACGACCTCTACAACGATCAAAG
+sequence:
+ELEKFAIFIIRKFAEIAAANGKVFIELLFWKNSKDSVEIELGYDLYNDQ
+left = AG, right =GT, stop_counter = 0
+ELEKFAIFIIRKFAEIAAANGKVFIELLFWKNSKDSVEIELGYDLYNDQ
+[[0, 2]]
+start_coordinate : 2102710,stop_coordinate : 2102564
+29245 29393 Y N
+Lysandra_coridon,HG992141.1,2102562,2102710,1,N,Aricia_agestis_XM_042115370.1_Frame_0_rightoh_2_query_Exon_15,1,49,49,Y,N
+
+Lysandra_coridon
+Processing Exon_16
+Lysandra_coridon_coordinates_Aricia_agestis.csv
+1 query coordinate
+31
+[[1, 1]]
+reached here
+Before splice: 34232,34326
+after splice: 34232,34326
+sequence:
+GATAAGGCGGGCAAGGGCGCCTGGACCCCGGAACAGGAAGAGGAACTCCGCTCCTTGTATATGGAAAATCAATCCAACCCGCAGACCAACCAGG
+sequence:
+DKAGKGAWTPEQEEELRSLYMENQSNPQTNQ
+left = AG, right =GT, stop_counter = 0
+DKAGKGAWTPEQEEELRSLYMENQSNPQTNQ
+[[1, 1]]
+start_coordinate : 2097722,stop_coordinate : 2097630
+34232 34326 Y N
+Lysandra_coridon,HG992141.1,2097629,2097723,1,N,Aricia_agestis_XM_042115370.1_Frame_1_rightoh_1_query_Exon_16,1,31,31,Y,N
+
+Lysandra_coridon
+Processing Exon_17
+Lysandra_coridon_coordinates_Aricia_agestis.csv
+1 query coordinate
+66
+[[2, 1]]
+reached here
+Before splice: 44756,44956
+after splice: 44756,44956
+sequence:
+GTAATTGACTGGATCCTGGACAACCTGATCGACCAGACGCGAACTCGGCGCAGCGTCATCAAGAAACTGAAGGAGTTGGGGTTGATTTTCCGCGCGCCGACAAAACGCGCCAACCGCGAGAGGAAGGACAAGGGCACATTCACCGAGGAAGACGATAATCTGTTGAAGGAGTTGTGGCAGCAACACGCCGAATCACCAG
+sequence:
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFRAPTKRANRERKDKGTFTEEDDNLLKELWQQHAESP
+left = AG, right =GT, stop_counter = 0
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFRAPTKRANRERKDKGTFTEEDDNLLKELWQQHAESP
+[[2, 1]]
+start_coordinate : 2087197,stop_coordinate : 2087000
+44756 44956 Y N
+Lysandra_coridon,HG992141.1,2086999,2087199,1,N,Aricia_agestis_XM_042115370.1_Frame_2_rightoh_1_query_Exon_17,1,66,66,Y,N
+
+Lysandra_coridon
+Processing Exon_18
+Lysandra_coridon_coordinates_Aricia_agestis.csv
+1 query coordinate
+47
+[[2, 1]]
+reached here
+Before splice: 46517,46660
+after splice: 46517,46660
+sequence:
+CCAACATCCGCCATCCTATCGGAGCTGAAGGAGCGCGGCGTTTCGCGGTCACGGCGCACCGTCGTGTCGCGTCTCGTGTCGCTCGGCGTGGTGGGGGACGCTCGCGAGTGCCGCAAGCCGCGTCGGGCCGATAAATCGAACC
+sequence:
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSN
+left = AG, right =GT, stop_counter = 0
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSN
+[[2, 1]]
+start_coordinate : 2085436,stop_coordinate : 2085296
+46517 46660 Y N
+Lysandra_coridon,HG992141.1,2085295,2085438,1,N,Aricia_agestis_XM_042115370.1_Frame_2_rightoh_1_query_Exon_18,1,47,47,Y,N
+
+Lysandra_coridon
+Processing Exon_19
+Lysandra_coridon_coordinates_Aricia_agestis.csv
+1 query coordinate
+62
+[[2, 1]]
+reached here
+Before splice: 50020,50208
+after splice: 50020,50208
+sequence:
+TCATCGGAATCATCGAGCTCAGAGGACGAGAGTGACAACTCCTCTAAACCCGCCAAGCCCGCTAAACCAGTTAAACAAGCAAACAAACATAAGCCGGCCAAACAAACTAACCGCAGGACCAAACCCAAGAAGGTAGAGTTGAGTGCGAACGAGATTGCTAAGTTACTCGTGCGGGCCGTCGACGATg
+sequence:
+SSESSSSEDESDNSSKPAKPAKPVKQANKHKPAKQTNRRTKPKKVELSANEIAKLLVRAVDD
+left = ag, right =gt, stop_counter = 0
+SSESSSSEDESDNSSKPAKPAKPVKQANKHKPAKQTNRRTKPKKVELSANEIAKLLVRAVDD
+[[2, 1]]
+start_coordinate : 2081933,stop_coordinate : 2081748
+50020 50208 Y N
+Lysandra_coridon,HG992141.1,2081747,2081935,1,N,Aricia_agestis_XM_042115370.1_Frame_2_rightoh_1_query_Exon_19,1,62,62,Y,N
+
+Lysandra_coridon
+Processing Exon_20
+Lysandra_coridon_coordinates_Aricia_agestis.csv
+1 query coordinate
+65
+[[2, 0]]
+reached here
+Before splice: 51871,52067
+after splice: 51871,52067
+sequence:
+TACACGGAAGCTCTAGAATGGCTGGCGGAGAATTTAGAAGAGGTAGCCCTAGACCAAGAGGCAGAGGGCTTCGATCCCACAGCTGAGGGCACGCCCATCGTGCCCATAGCGCGAGCCTGTGTGGAGGCCATGGACAGTAAGACGTTTCAGGAAGTTTTGAGGAGTGTTGGTGCAATGCCCCCATTCGATGAGCAG
+sequence:
+YTEALEWLAENLEEVALDQEAEGFDPTAEGTPIVPIARACVEAMDSKTFQEVLRSVGAMPPFDEQ
+left = AG, right =GT, stop_counter = 0
+YTEALEWLAENLEEVALDQEAEGFDPTAEGTPIVPIARACVEAMDSKTFQEVLRSVGAMPPFDEQ
+[[2, 0]]
+start_coordinate : 2080082,stop_coordinate : 2079888
+51871 52067 Y N
+Lysandra_coridon,HG992141.1,2079888,2080084,1,N,Aricia_agestis_XM_042115370.1_Frame_2_rightoh_0_query_Exon_20,1,65,65,Y,N
+
+Lysandra_coridon
+Processing Exon_21
+Lysandra_coridon_coordinates_Aricia_agestis.csv
+1 query coordinate
+150
+[[0, 1]]
+reached here
+Before splice: 57948,58392
+after splice: 57948,58392
+sequence:
+GAAACTTACTGGAGGATTCCTGGAGATCTTCACTTCGAAACGATCAGGAAGCGACGAGAGATCATTGTCAAAGCGATTAACAAGGAGCTCATAATCGATTCCAATGAGAACGACGATCGAGTCGAAAATGGAAAGGAATCGAGTGACGACGATGATTTGTTTGACAACTTGCGTAAGATGCGGGACGCTAATACTACGGAAGCTCCCAATACTAGAGAAACTCCTAATAATTCCATTAGTAATACCGCTCCTAACACTCCTAATATTAATCGCAAGCGAAGTCGCAGCGCGACCTCCGAGGACGACAACAGTCGCGACAAAATGCCCAAAATCGATGAGGTTGAGGAaaacgatgatgatgatatcCTGTCTTTCGCCAAAAAAACTCTTCAGACAGATCTGCCCGATACTGAAGATATACTGAGCGGCCTACCTGAACATGACT
+sequence:
+ETYWRIPGDLHFETIRKRREIIVKAINKELIIDSNENDDRVENGKESSDDDDLFDNLRKMRDANTTEAPNTRETPNNSISNTAPNTPNINRKRSRSATSEDDNSRDKMPKIDEVEENDDDDILSFAKKTLQTDLPDTEDILSGLPEHD
+left = AG, right =Cg, stop_counter = 0
+sequence:
+GAAACTTACTGGAGGATTCCTGGAGATCTTCACTTCGAAACGATCAGGAAGCGACGAGAGATCATTGTCAAAGCGATTAACAAGGAGCTCATAATCGATTCCAATGAGAACGACGATCGAGTCGAAAATGGAAAGGAATCGAGTGACGACGATGATTTGTTTGACAACTTGCGTAAGATGCGGGACGCTAATACTACGGAAGCTCCCAATACTAGAGAAACTCCTAATAATTCCATTAGTAATACCGCTCCTAACACTCCTAATATTAATCGCAAGCGAAGTCGCAGCGCGACCTCCGAGGACGACAACAGTCGCGACAAAATGCCCAAAATCGATGAGGTTGAGGAaaacgatgatgatgatatcCTGTCTTTCGCCAAAAAAACTCTTCAGACAGATCTGCCCGATACTGAAGATATACTGAGCGGCCTACCTGAACATGACTCga
+sequence:
+ETYWRIPGDLHFETIRKRREIIVKAINKELIIDSNENDDRVENGKESSDDDDLFDNLRKMRDANTTEAPNTRETPNNSISNTAPNTPNINRKRSRSATSEDDNSRDKMPKIDEVEENDDDDILSFAKKTLQTDLPDTEDILSGLPEHDS
+left = AG, right =gt, stop_counter = 0
+ETYWRIPGDLHFETIRKRREIIVKAINKELIIDSNENDDRVENGKESSDDDDLFDNLRKMRDANTTEAPNTRETPNNSISNTAPNTPNINRKRSRSATSEDDNSRDKMPKIDEVEENDDDDILSFAKKTLQTDLPDTEDILSGLPEHDS
+[[0, 1]]
+start_coordinate : 2074007,stop_coordinate : 2073561
+57948 58395 Y N
+Lysandra_coridon,HG992141.1,2073560,2074007,1,N,Aricia_agestis_XM_042115370.1_Frame_0_rightoh_1_query_Exon_21,1,149,149,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Lysandra_coridon
+Processing Exon_2
+0 query coordinate
+Lysandra_coridon_coordinates_Aricia_agestis.csv
+61
+[[1, 0]]
+reached here
+Before splice: 348,531
+after splice: 348,531
+sequence:
+CTTATTGTTAACCTCACAAATCCTGCACTTCTACTGTATAGAGAGGAAGTGCCTACAGAAAAAGCAGCCAGACATAACTACTTGCAAATATTATCTCATCTACAATCCTATAAAGAAGAAACTTTTACGAAAGTTGATACATGGCAGGTTTTTGCCAAGAAATTGGCAAAGACGTTAGAAATA
+sequence:
+LIVNLTNPALLLYREEVPTEKAARHNYLQILSHLQSYKEETFTKVDTWQVFAKKLAKTLEI
+left = AG, right =GT, stop_counter = 0
+LIVNLTNPALLLYREEVPTEKAARHNYLQILSHLQSYKEETFTKVDTWQVFAKKLAKTLEI
+[[1, 0]]
+start_coordinate : 2131606,stop_coordinate : 2131424
+348 531 Y N
+Lysandra_coridon,HG992141.1,2131424,2131607,1,N,Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_0_query_Exon_2,1,61,61,Y,N
+
+Lysandra_coridon
+Processing Exon_3
+Lysandra_coridon_coordinates_Maniola_jurtina.csv
+1 query coordinate
+45
+[[0, 0]]
+reached here
+Before splice: 1566,1700
+after splice: 1566,1700
+sequence:
+gACTGGTCAGAAAGAGATGAAGATACAGGTCTCATAATTGAGAGGATACTTATTTTAATAAGAAATGTTCTACATGTTCCTGCTGACTTAGACAAAGAGAAAAGGCCCGAAAATGATGCCAGTGTACATGACCAG
+sequence:
+DWSERDEDTGLIIERILILIRNVLHVPADLDKEKRPENDASVHDQ
+left = ag, right =GT, stop_counter = 0
+DWSERDEDTGLIIERILILIRNVLHVPADLDKEKRPENDASVHDQ
+[[0, 0]]
+start_coordinate : 2130389,stop_coordinate : 2130255
+1566 1700 Y N
+Lysandra_coridon,HG992141.1,2130255,2130389,1,N,Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_0_query_Exon_3,1,45,45,Y,N
+
+Lysandra_coridon
+Processing Exon_4
+Lysandra_coridon_coordinates_Maniola_jurtina.csv
+1 query coordinate
+85
+[[0, 2]]
+reached here
+Before splice: 1966,2222
+after splice: 1966,2222
+sequence:
+GTATTGTGGGCATTGAACCACTCTGGTATATTAGACATAATTCTTTATATGTCTTCAGAGAAtgagaaacaatattttatgcatattcTCGAGATAATATCTCACCTACTTCGAGAACAGAATCCAACAAGTCTCGCAGATGCGGCATTACAAAGAAGTGTTGATGAGAAACTGAAAGATGAACAGGAACTTCTCATGATGAGGATGAAAGAAAATAAGGAGAGAATTAACAAAGTGAAACAGTATTCAGGTTCAAG
+sequence:
+VLWALNHSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLKDEQELLMMRMKENKERINKVKQYSGS
+left = AG, right =GT, stop_counter = 0
+VLWALNHSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLKDEQELLMMRMKENKERINKVKQYSGS
+[[0, 2]]
+start_coordinate : 2129989,stop_coordinate : 2129735
+1966 2222 Y N
+Lysandra_coridon,HG992141.1,2129733,2129989,1,N,Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_2_query_Exon_4,1,85,85,Y,N
+
+Lysandra_coridon
+Processing Exon_5
+Lysandra_coridon_coordinates_Maniola_jurtina.csv
+1 query coordinate
+65
+[[1, 2]]
+reached here
+Before splice: 2865,3062
+after splice: 2865,3062
+sequence:
+CATTCAAGATTTGGTGGGACTTATGTTATACAGAATATGAAGTCAATATCTGATAATGAGTTGATCAGTCTGAAACCATTGAACAAAATATCCAATTTTAACTTTAATGGTAGTAAAACATCAAAATTTATGAAACCTAAAAACAGGCGGCCAGTGGAAAGTGGTATGATGGAAAGAAGATCAGCCTTTGCTGTgag
+sequence:
+HSRFGGTYVIQNMKSISDNELISLKPLNKISNFNFNGSKTSKFMKPKNRRPVESGMMERRSAFAV
+left = AG, right =gt, stop_counter = 0
+HSRFGGTYVIQNMKSISDNELISLKPLNKISNFNFNGSKTSKFMKPKNRRPVESGMMERRSAFAV
+[[1, 2]]
+start_coordinate : 2129089,stop_coordinate : 2128895
+2865 3062 Y N
+Lysandra_coridon,HG992141.1,2128893,2129090,1,N,Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_5,1,65,65,Y,N
+
+Lysandra_coridon
+Processing Exon_6
+Lysandra_coridon_coordinates_Maniola_jurtina.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 3172,3354
+after splice: 3172,3354
+sequence:
+TTGTTTCTAAAGGAGTTTTGTATAGAATTTCTAAATAGCTCATACAATCCAATGATGCACTATGTGAAGGATGTTCTTGTAAGAGCTAAAGCACAGCAGAATGATGAGTCTTATTATCTCTGGGCAATGAAATTTTTCATGGAGTTCAATAGAGGACACAATTTCCAAGTTGGACTTGTCAG
+sequence:
+LFLKEFCIEFLNSSYNPMMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+left = AG, right =GT, stop_counter = 0
+LFLKEFCIEFLNSSYNPMMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+[[1, 2]]
+start_coordinate : 2128782,stop_coordinate : 2128603
+3172 3354 Y N
+Lysandra_coridon,HG992141.1,2128601,2128783,1,N,Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_6,1,60,60,Y,N
+
+Lysandra_coridon
+Processing Exon_7
+Lysandra_coridon_coordinates_Maniola_jurtina.csv
+1 query coordinate
+95
+[[1, 2]]
+reached here
+Before splice: 4653,4940
+after splice: 4653,4940
+sequence:
+GAGACGATGTCGGTGCCGATGTTTCATTACGTGCAGCAGCAGATGGAAAAATACTTCGACATGATCAAAGTCGAGAAGAAAAAGTTCTCCGTGTGGGTGCGACGCCTGCACCTCGCACTGCGCGCCTACAAGGAACTTTTGCACACCCTACTCGCTATGGACAAGTGCACAGAGAGCACCGTAAGGGACTCCGCCAAAGTTCTTAAGAGCAATATATTCTACGTGCTCGAGTATAGGGAGTTCATACTATCGATTATACTGAACTACGATGATAATAAGATGCCGAG
+sequence:
+ETMSVPMFHYVQQQMEKYFDMIKVEKKKFSVWVRRLHLALRAYKELLHTLLAMDKCTESTVRDSAKVLKSNIFYVLEYREFILSIILNYDDNKMP
+left = AG, right =GT, stop_counter = 0
+ETMSVPMFHYVQQQMEKYFDMIKVEKKKFSVWVRRLHLALRAYKELLHTLLAMDKCTESTVRDSAKVLKSNIFYVLEYREFILSIILNYDDNKMP
+[[1, 2]]
+start_coordinate : 2127301,stop_coordinate : 2127017
+4653 4940 Y N
+Lysandra_coridon,HG992141.1,2127015,2127302,1,N,Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_7,1,95,95,Y,N
+
+Lysandra_coridon
+Processing Exon_8
+Lysandra_coridon_coordinates_Maniola_jurtina.csv
+1 query coordinate
+40
+[[1, 1]]
+reached here
+Before splice: 7572,7693
+after splice: 7572,7693
+sequence:
+TCATATCTCGTGGATCTAGTGGAGACTGTCCATCTCTTCCTCAAGATGCTGGAGCACTACTGCAAGAAAACTGGACTCGTCGTGCAAAAGAAAGTGAGGAAGAAAGCCAAACCTAAAAGTA
+sequence:
+SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKAKPKS
+left = AG, right =AG, stop_counter = 0
+sequence:
+TCATATCTCGTGGATCTAGTGGAGACTGTCCATCTCTTCCTCAAGATGCTGGAGCACTACTGCAAGAAAACTGGACTCGTCGTGCAAAAGAAAGTGAGGAAGAAAGCCAAACCTAAAAGTAAGT
+sequence:
+SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKAKPKSK
+left = AG, right =AA, stop_counter = 0
+sequence:
+TCATATCTCGTGGATCTAGTGGAGACTGTCCATCTCTTCCTCAAGATGCTGGAGCACTACTGCAAGAAAACTGGACTCGTCGTGCAAAAGAAAGTGAGGAAGAAAGCCAAACCTAAAAGTAAGTAAA
+sequence:
+SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKAKPKSK*
+left = AG, right =GT, stop_counter = 1
+SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKAKPK
+[[1, 1]]
+start_coordinate : 2124382,stop_coordinate : 2124266
+7572 7690 Y N
+Lysandra_coridon,HG992141.1,2124265,2124383,1,N,Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_1_query_Exon_8,1,39,39,Y,N
+
+Lysandra_coridon
+Processing Exon_9
+Lysandra_coridon_coordinates_Maniola_jurtina.csv
+1 query coordinate
+46
+[[2, 2]]
+reached here
+Before splice: 13950,14091
+after splice: 13950,14091
+sequence:
+CCTGTGTCAAAACCGAAGCCAACGAAGGAGGTTCCCATGGAGCAGGTGGAGCATCATCTGAGCGAGGCGCTGGCTGCCCCGGCGGATGAGTTCCCGCCGCCCTTCGACGCCGCCTCAGACGTGCCTATTGAGGAACAGAG
+sequence:
+PVSKPKPTKEVPMEQVEHHLSEALAAPADEFPPPFDAASDVPIEEQ
+left = CC, right =GT, stop_counter = 0
+sequence:
+CCTCCTGTGTCAAAACCGAAGCCAACGAAGGAGGTTCCCATGGAGCAGGTGGAGCATCATCTGAGCGAGGCGCTGGCTGCCCCGGCGGATGAGTTCCCGCCGCCCTTCGACGCCGCCTCAGACGTGCCTATTGAGGAACAGAG
+sequence:
+PPVSKPKPTKEVPMEQVEHHLSEALAAPADEFPPPFDAASDVPIEEQ
+left = AG, right =GT, stop_counter = 0
+PPVSKPKPTKEVPMEQVEHHLSEALAAPADEFPPPFDAASDVPIEEQ
+[[2, 2]]
+start_coordinate : 2118006,stop_coordinate : 2117866
+13947 14091 Y N
+Lysandra_coridon,HG992141.1,2117864,2118008,1,N,Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_2_query_Exon_9,1,47,47,Y,N
+
+Lysandra_coridon
+Processing Exon_10
+Lysandra_coridon_coordinates_Maniola_jurtina.csv
+1 query coordinate
+26
+[[1, 2]]
+reached here
+Before splice: 19839,19919
+after splice: 19839,19919
+sequence:
+gGAGACTGCATGAAGAAGATCCAGACACTCATGCGTGATGAGAAGTACGCAGAAGCTGTCAGTCTATTCCGCGCTGCCAG
+sequence:
+GDCMKKIQTLMRDEKYAEAVSLFRAA
+left = ag, right =GT, stop_counter = 0
+GDCMKKIQTLMRDEKYAEAVSLFRAA
+[[1, 2]]
+start_coordinate : 2112115,stop_coordinate : 2112038
+19839 19919 Y N
+Lysandra_coridon,HG992141.1,2112036,2112116,1,N,Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_10,1,26,26,Y,N
+
+Lysandra_coridon
+Processing Exon_11
+Lysandra_coridon_coordinates_Maniola_jurtina.csv
+1 query coordinate
+36
+[[1, 1]]
+reached here
+Before splice: 21978,22087
+after splice: 21978,22087
+sequence:
+GAAGTGTGGCCCGAGGAAGGGGTATTCGGTTCCCCCGGTATACCTGAACATGAAGAACTGGACATGCTCAAGACCGTTTATAGCGCAGACCTGGGTGTAGAGATGAAAG
+sequence:
+EVWPEEGVFGSPGIPEHEELDMLKTVYSADLGVEMK
+left = AG, right =GT, stop_counter = 0
+EVWPEEGVFGSPGIPEHEELDMLKTVYSADLGVEMK
+[[1, 1]]
+start_coordinate : 2109976,stop_coordinate : 2109869
+21978 22087 Y N
+Lysandra_coridon,HG992141.1,2109868,2109977,1,N,Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_1_query_Exon_11,1,36,36,Y,N
+
+Lysandra_coridon
+Processing Exon_12
+Lysandra_coridon_coordinates_Maniola_jurtina.csv
+1 query coordinate
+43
+[[2, 1]]
+reached here
+Before splice: 23834,23965
+after splice: 23834,23965
+sequence:
+CATTTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACAGCG
+sequence:
+HFLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEYS
+left = TT, right =CG, stop_counter = 0
+sequence:
+TGACATTTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACAGCGCGG
+sequence:
+*HFLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEYSA
+left = AC, right =GC, stop_counter = 1
+sequence:
+CATTTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACAGCG
+sequence:
+HFLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEYS
+left = TT, right =CG, stop_counter = 1
+sequence:
+TGACATTTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACAGCGCGG
+sequence:
+*HFLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEYSA
+left = TT, right =AC, stop_counter = 2
+sequence:
+TTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACA
+sequence:
+FLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEY
+left = AC, right =GC, stop_counter = 2
+sequence:
+CATTTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACAGCG
+sequence:
+HFLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEYS
+left = TT, right =CG, stop_counter = 2
+sequence:
+TGACATTTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACAGCGCGG
+sequence:
+*HFLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEYSA
+left = CC, right =AG, stop_counter = 3
+sequence:
+CTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGT
+sequence:
+LKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSE
+left = TT, right =AC, stop_counter = 3
+sequence:
+TTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACA
+sequence:
+FLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEY
+left = AC, right =GC, stop_counter = 3
+sequence:
+CATTTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACAGCG
+sequence:
+HFLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEYS
+left = TT, right =CG, stop_counter = 3
+sequence:
+TGACATTTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACAGCGCGG
+sequence:
+*HFLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEYSA
+left = AA, right =CC, stop_counter = 4
+sequence:
+AAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCG
+sequence:
+KYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENS
+left = CC, right =AG, stop_counter = 4
+sequence:
+CTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGT
+sequence:
+LKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSE
+left = TT, right =AC, stop_counter = 4
+sequence:
+TTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACA
+sequence:
+FLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEY
+left = AC, right =GC, stop_counter = 4
+sequence:
+CATTTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACAGCG
+sequence:
+HFLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEYS
+left = TT, right =CG, stop_counter = 4
+sequence:
+TGACATTTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACAGCGCGG
+sequence:
+*HFLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEYSA
+left = AT, right =AT, stop_counter = 5
+sequence:
+TACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATT
+sequence:
+YFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHEN
+left = AA, right =CC, stop_counter = 5
+sequence:
+AAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCG
+sequence:
+KYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENS
+left = CC, right =AG, stop_counter = 5
+sequence:
+CTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGT
+sequence:
+LKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSE
+left = TT, right =AC, stop_counter = 5
+sequence:
+TTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACA
+sequence:
+FLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEY
+left = AC, right =GC, stop_counter = 5
+sequence:
+CATTTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACAGCG
+sequence:
+HFLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEYS
+left = TT, right =CG, stop_counter = 5
+sequence:
+TGACATTTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACAGCGCGG
+sequence:
+*HFLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEYSA
+left = CT, right =AG, stop_counter = 6
+sequence:
+TTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGA
+sequence:
+FLKLMFKTISTKLIHIWFLNQYNIADDQEEAHE
+left = AT, right =AT, stop_counter = 6
+sequence:
+TACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATT
+sequence:
+YFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHEN
+left = AA, right =CC, stop_counter = 6
+sequence:
+AAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCG
+sequence:
+KYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENS
+left = CC, right =AG, stop_counter = 6
+sequence:
+CTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGT
+sequence:
+LKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSE
+left = TT, right =AC, stop_counter = 6
+sequence:
+TTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACA
+sequence:
+FLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEY
+left = AC, right =GC, stop_counter = 6
+sequence:
+CATTTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACAGCG
+sequence:
+HFLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEYS
+left = TT, right =CG, stop_counter = 6
+sequence:
+TGACATTTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACAGCGCGG
+sequence:
+*HFLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEYSA
+left = CT, right =AT, stop_counter = 7
+sequence:
+TTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATG
+sequence:
+LKLMFKTISTKLIHIWFLNQYNIADDQEEAH
+left = CT, right =AG, stop_counter = 7
+sequence:
+TTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGA
+sequence:
+FLKLMFKTISTKLIHIWFLNQYNIADDQEEAHE
+left = AT, right =AT, stop_counter = 7
+sequence:
+TACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATT
+sequence:
+YFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHEN
+left = AA, right =CC, stop_counter = 7
+sequence:
+AAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCG
+sequence:
+KYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENS
+left = CC, right =AG, stop_counter = 7
+sequence:
+CTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGT
+sequence:
+LKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSE
+left = TT, right =AC, stop_counter = 7
+sequence:
+TTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACA
+sequence:
+FLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEY
+left = AC, right =GC, stop_counter = 7
+sequence:
+CATTTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACAGCG
+sequence:
+HFLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEYS
+left = TT, right =CG, stop_counter = 7
+sequence:
+TGACATTTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACAGCGCGG
+sequence:
+*HFLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEYSA
+left = AA, right =CT, stop_counter = 8
+sequence:
+AAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTC
+sequence:
+KLMFKTISTKLIHIWFLNQYNIADDQEEA
+left = CT, right =AT, stop_counter = 8
+sequence:
+TTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATG
+sequence:
+LKLMFKTISTKLIHIWFLNQYNIADDQEEAH
+left = CT, right =AG, stop_counter = 8
+sequence:
+TTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGA
+sequence:
+FLKLMFKTISTKLIHIWFLNQYNIADDQEEAHE
+left = AT, right =AT, stop_counter = 8
+sequence:
+TACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATT
+sequence:
+YFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHEN
+left = AA, right =CC, stop_counter = 8
+sequence:
+AAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCG
+sequence:
+KYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENS
+left = CC, right =AG, stop_counter = 8
+sequence:
+CTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGT
+sequence:
+LKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSE
+left = TT, right =AC, stop_counter = 8
+sequence:
+TTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACA
+sequence:
+FLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEY
+left = AC, right =GC, stop_counter = 8
+sequence:
+CATTTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACAGCG
+sequence:
+HFLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEYS
+left = TT, right =CG, stop_counter = 8
+sequence:
+TGACATTTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACAGCGCGG
+sequence:
+*HFLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEYSA
+left = AT, right =AG, stop_counter = 9
+sequence:
+TTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGG
+sequence:
+LMFKTISTKLIHIWFLNQYNIADDQEE
+left = AA, right =CT, stop_counter = 9
+sequence:
+AAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTC
+sequence:
+KLMFKTISTKLIHIWFLNQYNIADDQEEA
+left = CT, right =AT, stop_counter = 9
+sequence:
+TTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATG
+sequence:
+LKLMFKTISTKLIHIWFLNQYNIADDQEEAH
+left = CT, right =AG, stop_counter = 9
+sequence:
+TTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGA
+sequence:
+FLKLMFKTISTKLIHIWFLNQYNIADDQEEAHE
+left = AT, right =AT, stop_counter = 9
+sequence:
+TACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATT
+sequence:
+YFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHEN
+left = AA, right =CC, stop_counter = 9
+sequence:
+AAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCG
+sequence:
+KYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENS
+left = CC, right =AG, stop_counter = 9
+sequence:
+CTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGT
+sequence:
+LKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSE
+left = TT, right =AC, stop_counter = 9
+sequence:
+TTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACA
+sequence:
+FLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEY
+left = AC, right =GC, stop_counter = 9
+sequence:
+CATTTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACAGCG
+sequence:
+HFLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEYS
+left = TT, right =CG, stop_counter = 9
+sequence:
+TGACATTTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACAGCGCGG
+sequence:
+*HFLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEYSA
+left = AA, right =AG, stop_counter = 10
+sequence:
+ATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGG
+sequence:
+MFKTISTKLIHIWFLNQYNIADDQE
+left = AT, right =AG, stop_counter = 10
+sequence:
+TTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGG
+sequence:
+LMFKTISTKLIHIWFLNQYNIADDQEE
+left = AA, right =CT, stop_counter = 10
+sequence:
+AAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTC
+sequence:
+KLMFKTISTKLIHIWFLNQYNIADDQEEA
+left = CT, right =AT, stop_counter = 10
+sequence:
+TTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATG
+sequence:
+LKLMFKTISTKLIHIWFLNQYNIADDQEEAH
+left = CT, right =AG, stop_counter = 10
+sequence:
+TTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGA
+sequence:
+FLKLMFKTISTKLIHIWFLNQYNIADDQEEAHE
+left = AT, right =AT, stop_counter = 10
+sequence:
+TACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATT
+sequence:
+YFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHEN
+left = AA, right =CC, stop_counter = 10
+sequence:
+AAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCG
+sequence:
+KYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENS
+left = CC, right =AG, stop_counter = 10
+sequence:
+CTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGT
+sequence:
+LKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSE
+left = TT, right =AC, stop_counter = 10
+sequence:
+TTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACA
+sequence:
+FLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEY
+left = AC, right =GC, stop_counter = 10
+sequence:
+CATTTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACAGCG
+sequence:
+HFLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEYS
+left = TT, right =CG, stop_counter = 10
+sequence:
+TGACATTTCCTAAAATACTTCTTAAAATTAATGTTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGGAGGAGGCTCATGAGAATTCCGAGTACAGCGCGG
+sequence:
+*HFLKYFLKLMFKTISTKLIHIWFLNQYNIADDQEEAHENSEYSA
+left = GT, right =AG, stop_counter = 11
+sequence:
+TTCAAAACAATTAGTACTAAGTTAATCCATATTTGGTTTCTAAATCAATACAATATTGCAGATGACCAGG
+sequence:
+FKTISTKLIHIWFLNQYNIADDQ
+left = AA, right =AG, stop_counter = 11
+FKTISTKLIHIWFLNQYNIADDQ
+[[2, 1]]
+start_coordinate : 2108089,stop_coordinate : 2108021
+23864 23935 Y N
+Lysandra_coridon,HG992141.1,2108020,2108091,1,N,Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_12,1,23,23,Y,N
+
+Lysandra_coridon
+Processing Exon_13
+Lysandra_coridon_coordinates_Maniola_jurtina.csv
+1 query coordinate
+23
+[[2, 2]]
+reached here
+Before splice: 27620,27692
+after splice: 27620,27692
+sequence:
+gaggaagaagaagaagaaagaaCAACGGCCGTCGTGGAAACTGATTTCGATTTTCAAGACTTCGTACAAAG
+sequence:
+EEEEEERTTAVVETDFDFQDFVQ
+left = AG, right =GT, stop_counter = 0
+EEEEEERTTAVVETDFDFQDFVQ
+[[2, 2]]
+start_coordinate : 2104333,stop_coordinate : 2104265
+27620 27692 Y N
+Lysandra_coridon,HG992141.1,2104263,2104335,1,N,Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_2_query_Exon_13,1,23,23,Y,N
+
+Lysandra_coridon
+Processing Exon_14
+Lysandra_coridon_coordinates_Maniola_jurtina.csv
+1 query coordinate
+66
+[[1, 0]]
+reached here
+Before splice: 28640,28838
+after splice: 28640,28838
+sequence:
+TTCTGCCACCCTCGAGTTGTGAGCGCGTGCGCAGCTCTCCTGGAGCGCTTCGACCAGAACCTACCTCACACCAACCACTGCATCGTCAAGATGCTGCACCGCGTGGCCTGGGACTGCAAGCGCCCCGCCATGATGTTCCAAGCCACTCTGTTTGTTACCTTCCAGAAGATTCTCGCCCACCCCATCTCGCATTTCAAG
+sequence:
+FCHPRVVSACAALLERFDQNLPHTNHCIVKMLHRVAWDCKRPAMMFQATLFVTFQKILAHPISHFK
+left = AG, right =GT, stop_counter = 0
+FCHPRVVSACAALLERFDQNLPHTNHCIVKMLHRVAWDCKRPAMMFQATLFVTFQKILAHPISHFK
+[[1, 0]]
+start_coordinate : 2103314,stop_coordinate : 2103117
+28640 28838 Y N
+Lysandra_coridon,HG992141.1,2103117,2103315,1,N,Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_0_query_Exon_14,1,66,66,Y,N
+
+Lysandra_coridon
+Processing Exon_15
+Lysandra_coridon_coordinates_Maniola_jurtina.csv
+1 query coordinate
+49
+[[0, 2]]
+reached here
+Before splice: 29245,29393
+after splice: 29245,29393
+sequence:
+GAGCTGGAGAAGTTTGCGATATTTATAATAAGGAAATTCGCGGAGATCGCCGCCGCCAACGGTAAAGTTTTCATCGAGCTGCTATTCTGGAAGAACTCGAAAGACTCCGTGGAGATCGAGCTCGGATACGACCTCTACAACGATCAAAG
+sequence:
+ELEKFAIFIIRKFAEIAAANGKVFIELLFWKNSKDSVEIELGYDLYNDQ
+left = AG, right =GT, stop_counter = 0
+ELEKFAIFIIRKFAEIAAANGKVFIELLFWKNSKDSVEIELGYDLYNDQ
+[[0, 2]]
+start_coordinate : 2102710,stop_coordinate : 2102564
+29245 29393 Y N
+Lysandra_coridon,HG992141.1,2102562,2102710,1,N,Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_2_query_Exon_15,1,49,49,Y,N
+
+Lysandra_coridon
+Processing Exon_16
+Lysandra_coridon_coordinates_Maniola_jurtina.csv
+1 query coordinate
+31
+[[1, 1]]
+reached here
+Before splice: 34232,34326
+after splice: 34232,34326
+sequence:
+GATAAGGCGGGCAAGGGCGCCTGGACCCCGGAACAGGAAGAGGAACTCCGCTCCTTGTATATGGAAAATCAATCCAACCCGCAGACCAACCAGG
+sequence:
+DKAGKGAWTPEQEEELRSLYMENQSNPQTNQ
+left = AG, right =GT, stop_counter = 0
+DKAGKGAWTPEQEEELRSLYMENQSNPQTNQ
+[[1, 1]]
+start_coordinate : 2097722,stop_coordinate : 2097630
+34232 34326 Y N
+Lysandra_coridon,HG992141.1,2097629,2097723,1,N,Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_1_query_Exon_16,1,31,31,Y,N
+
+Lysandra_coridon
+Processing Exon_17
+Lysandra_coridon_coordinates_Maniola_jurtina.csv
+1 query coordinate
+68
+[[2, 1]]
+reached here
+Before splice: 44756,44956
+after splice: 44756,44956
+sequence:
+GTAATTGACTGGATCCTGGACAACCTGATCGACCAGACGCGAACTCGGCGCAGCGTCATCAAGAAACTGAAGGAGTTGGGGTTGATTTTCCGCGCGCCGACAAAACGCGCCAACCGCGAGAGGAAGGACAAGGGCACATTCACCGAGGAAGACGATAATCTGTTGAAGGAGTTGTGGCAGCAACACGCCGAATCACCAG
+sequence:
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFRAPTKRANRERKDKGTFTEEDDNLLKELWQQHAESP
+left = AG, right =GT, stop_counter = 0
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFRAPTKRANRERKDKGTFTEEDDNLLKELWQQHAESP
+[[2, 1]]
+start_coordinate : 2087197,stop_coordinate : 2087000
+44756 44956 Y N
+Lysandra_coridon,HG992141.1,2086999,2087199,1,N,Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_17,1,66,66,Y,N
+
+Lysandra_coridon
+Processing Exon_18
+Lysandra_coridon_coordinates_Maniola_jurtina.csv
+1 query coordinate
+54
+[[2, 1]]
+reached here
+Before splice: 46517,46660
+after splice: 46517,46660
+sequence:
+CCAACATCCGCCATCCTATCGGAGCTGAAGGAGCGCGGCGTTTCGCGGTCACGGCGCACCGTCGTGTCGCGTCTCGTGTCGCTCGGCGTGGTGGGGGACGCTCGCGAGTGCCGCAAGCCGCGTCGGGCCGATAAATCGAACC
+sequence:
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSN
+left = AG, right =GT, stop_counter = 0
+PTSAILSELKERGVSRSRRTVVSRLVSLGVVGDARECRKPRRADKSN
+[[2, 1]]
+start_coordinate : 2085436,stop_coordinate : 2085296
+46517 46660 Y N
+Lysandra_coridon,HG992141.1,2085295,2085438,1,N,Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_18,1,47,47,Y,N
+
+Lysandra_coridon
+Processing Exon_19
+Lysandra_coridon_coordinates_Maniola_jurtina.csv
+1 query coordinate
+66
+[[2, 1]]
+reached here
+Before splice: 55158,55352
+after splice: 55158,55352
+sequence:
+GCAGGTTCATCGGAATCATCGAGCTCAGAGGACGAGAGTGACAACTCCTCTAAACCCGCCAAGCCCGCTAAACCAGTTAAACAAGCAAACAAACATAAGCCGGCCAAACAAACTAACCGCAGGACCAAACCCAAGAAGGTAGAGTTGAGTGCGAACGAGATTGCTAAGTTACTCGTGCGGGCCGTCGACGATG
+sequence:
+AGSSESSSSEDESDNSSKPAKPAKPVKQANKHKPAKQTNRRTKPKKVELSANEIAKLLVRAVDD
+left = TT, right =GT, stop_counter = 0
+sequence:
+TAAGCAGGTTCATCGGAATCATCGAGCTCAGAGGACGAGAGTGACAACTCCTCTAAACCCGCCAAGCCCGCTAAACCAGTTAAACAAGCAAACAAACATAAGCCGGCCAAACAAACTAACCGCAGGACCAAACCCAAGAAGGTAGAGTTGAGTGCGAACGAGATTGCTAAGTTACTCGTGCGGGCCGTCGACGATG
+sequence:
+*AGSSESSSSEDESDNSSKPAKPAKPVKQANKHKPAKQTNRRTKPKKVELSANEIAKLLVRAVDD
+left = AG, right =GT, stop_counter = 1
+GSSESSSSEDESDNSSKPAKPAKPVKQANKHKPAKQTNRRTKPKKVELSANEIAKLLVRAVDD
+[[2, 1]]
+start_coordinate : 2081936,stop_coordinate : 2081748
+55161 55352 Y N
+Lysandra_coridon,HG992141.1,2081747,2081938,1,N,Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_19,1,63,63,Y,N
+
+Lysandra_coridon
+Processing Exon_20
+Lysandra_coridon_coordinates_Maniola_jurtina.csv
+1 query coordinate
+65
+[[2, 0]]
+reached here
+Before splice: 51871,52067
+after splice: 51871,52067
+sequence:
+TACACGGAAGCTCTAGAATGGCTGGCGGAGAATTTAGAAGAGGTAGCCCTAGACCAAGAGGCAGAGGGCTTCGATCCCACAGCTGAGGGCACGCCCATCGTGCCCATAGCGCGAGCCTGTGTGGAGGCCATGGACAGTAAGACGTTTCAGGAAGTTTTGAGGAGTGTTGGTGCAATGCCCCCATTCGATGAGCAG
+sequence:
+YTEALEWLAENLEEVALDQEAEGFDPTAEGTPIVPIARACVEAMDSKTFQEVLRSVGAMPPFDEQ
+left = AG, right =GT, stop_counter = 0
+YTEALEWLAENLEEVALDQEAEGFDPTAEGTPIVPIARACVEAMDSKTFQEVLRSVGAMPPFDEQ
+[[2, 0]]
+start_coordinate : 2080082,stop_coordinate : 2079888
+51871 52067 Y N
+Lysandra_coridon,HG992141.1,2079888,2080084,1,N,Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_0_query_Exon_20,1,65,65,Y,N
+
+Lysandra_coridon
+Processing Exon_21
+Lysandra_coridon_coordinates_Maniola_jurtina.csv
+1 query coordinate
+167
+[[0, 1]]
+reached here
+Before splice: 57948,58392
+after splice: 57948,58392
+sequence:
+GAAACTTACTGGAGGATTCCTGGAGATCTTCACTTCGAAACGATCAGGAAGCGACGAGAGATCATTGTCAAAGCGATTAACAAGGAGCTCATAATCGATTCCAATGAGAACGACGATCGAGTCGAAAATGGAAAGGAATCGAGTGACGACGATGATTTGTTTGACAACTTGCGTAAGATGCGGGACGCTAATACTACGGAAGCTCCCAATACTAGAGAAACTCCTAATAATTCCATTAGTAATACCGCTCCTAACACTCCTAATATTAATCGCAAGCGAAGTCGCAGCGCGACCTCCGAGGACGACAACAGTCGCGACAAAATGCCCAAAATCGATGAGGTTGAGGAaaacgatgatgatgatatcCTGTCTTTCGCCAAAAAAACTCTTCAGACAGATCTGCCCGATACTGAAGATATACTGAGCGGCCTACCTGAACATGACT
+sequence:
+ETYWRIPGDLHFETIRKRREIIVKAINKELIIDSNENDDRVENGKESSDDDDLFDNLRKMRDANTTEAPNTRETPNNSISNTAPNTPNINRKRSRSATSEDDNSRDKMPKIDEVEENDDDDILSFAKKTLQTDLPDTEDILSGLPEHD
+left = AG, right =Cg, stop_counter = 0
+sequence:
+GAAACTTACTGGAGGATTCCTGGAGATCTTCACTTCGAAACGATCAGGAAGCGACGAGAGATCATTGTCAAAGCGATTAACAAGGAGCTCATAATCGATTCCAATGAGAACGACGATCGAGTCGAAAATGGAAAGGAATCGAGTGACGACGATGATTTGTTTGACAACTTGCGTAAGATGCGGGACGCTAATACTACGGAAGCTCCCAATACTAGAGAAACTCCTAATAATTCCATTAGTAATACCGCTCCTAACACTCCTAATATTAATCGCAAGCGAAGTCGCAGCGCGACCTCCGAGGACGACAACAGTCGCGACAAAATGCCCAAAATCGATGAGGTTGAGGAaaacgatgatgatgatatcCTGTCTTTCGCCAAAAAAACTCTTCAGACAGATCTGCCCGATACTGAAGATATACTGAGCGGCCTACCTGAACATGACTCga
+sequence:
+ETYWRIPGDLHFETIRKRREIIVKAINKELIIDSNENDDRVENGKESSDDDDLFDNLRKMRDANTTEAPNTRETPNNSISNTAPNTPNINRKRSRSATSEDDNSRDKMPKIDEVEENDDDDILSFAKKTLQTDLPDTEDILSGLPEHDS
+left = AG, right =gt, stop_counter = 0
+ETYWRIPGDLHFETIRKRREIIVKAINKELIIDSNENDDRVENGKESSDDDDLFDNLRKMRDANTTEAPNTRETPNNSISNTAPNTPNINRKRSRSATSEDDNSRDKMPKIDEVEENDDDDILSFAKKTLQTDLPDTEDILSGLPEHDS
+[[0, 1]]
+start_coordinate : 2074007,stop_coordinate : 2073561
+57948 58395 Y N
+Lysandra_coridon,HG992141.1,2073560,2074007,1,N,Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_1_query_Exon_21,1,149,149,Y,N
+
+Lysandra_coridon,Exon_12

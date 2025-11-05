@@ -1,0 +1,720 @@
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23913515,23913640,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_2,1,42,42
+
+1
+4
+5
+Glaucopsyche_alexis,FR990042.1,23872528,23872619,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_2_query_Exon_1,1,29,29
+
+Glaucopsyche_alexis,FR990042.1,23921369,23921705,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_0_query_Exon_5,1,112,112
+
+Getting Gene
+min = set862_frame2, 0.299
+5 top scores:
+[['set862_frame2', 0.299], ['set608_frame2', 1.651], ['set846_frame1', 1.708], ['set842_frame1', 1.719], ['set829_frame1', 1.725]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_862_frame2.fa.txt
+14 56
+Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_2
+SVPAYELTVEAAGAVAVACAQANTASAQHHQHHEHRKRTSSR
+14 56
+set862_frame2
+SVPAYELTVEAAGAVAAACAQANTASAQ-HQHHDHRKRTSTK
+Original query = SVPAYELTVEAAGAVAVACAQANTASAQHHQHHEHRKRTSSR
+New query = SVPAYELTVEAAGAVAAACAQANTASAQ-HQHHDHRKRTSTK
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990062.1,8395581,8395766,0,Y,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_3,11,45,62
+
+1
+5
+Glaucopsyche_alexis,FR990042.1,23872528,23872619,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_2_query_Exon_1,1,29,29
+
+Glaucopsyche_alexis,FR990042.1,23921369,23921705,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_0_query_Exon_5,1,112,112
+
+Getting Gene
+min = set862_frame2, 1.708
+5 top scores:
+[['set862_frame2', 1.708], ['set846_frame1', 1.747], ['set825_frame0', 1.801], ['set357_frame2', 1.807], ['set1048_frame2', 1.814]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_862_frame2.fa.txt
+12 73
+set862_frame2
+CSSVPAYELTVEAAGAVAAACAQANTA----SAQHQHHDHRKRTSTKL-------------
+Original query = CVSSDGYELSSCEAGLSAPPAHPAPPAHPAPPAHPAHPAHSAHPAGPLPQPASATRKRKPSS
+New query = CSSVPAYELTVEAAGAVAAACAQANTA----SAQHQHHDHRKRTSTKL-------------
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23921144,23921215,0,Y,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_4,1,23,23
+
+2
+6
+Glaucopsyche_alexis,FR990042.1,23913515,23913640,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_2,1,42,42
+
+Glaucopsyche_alexis,FR990042.1,23921825,23921942,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_1_query_Exon_6,1,39,39
+
+Getting Gene
+min = set182_frame1, 0.056
+5 top scores:
+[['set182_frame1', 0.056], ['set95_frame2', 1.485], ['set133_frame2', 1.526], ['set97_frame2', 1.645], ['set121_frame2', 1.677]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_182_frame1.fa.txt
+3 26
+Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_4
+KSGSVYDDDTTEDSSSSRTVSDK
+3 26
+set182_frame1
+KSGSVYDDDTTEDSSSSRTLSDK
+Original query = KSGSVYDDDTTEDSSSSRTVSDK
+New query = KSGSVYDDDTTEDSSSSRTLSDK
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23921369,23921705,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_0_query_Exon_5,1,112,112
+
+3
+2
+7
+Glaucopsyche_alexis,FR990042.1,23913515,23913640,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_2,1,42,42
+
+Glaucopsyche_alexis,FR990042.1,23922050,23922262,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_1_query_Exon_7,1,71,71
+
+Getting Gene
+min = set187_frame1, 0.029
+5 top scores:
+[['set56_frame1', 1.895], ['set187_frame1', 0.029], ['set27_frame2', 1.854], ['set68_frame2', 1.899], ['set72_frame2', 1.896]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_187_frame1.fa.txt
+4 116
+Aricia_agestis_XM_042130624.1_Frame_1_rightoh_0_query_Exon_5
+QNHSEIEKRRRDKMNTYISELSAMIPMCGAMSRKLDKLTVLRMAVQHLRSVRGALSAGPLTARPIPAFISETELNSLVLHAAKDCFLMVVGCDRGRLIYVSASVTQMLYYEQ
+4 116
+set187_frame1
+QNHSEIEKRRRDKMNTYISELSAMIPMCGAMSRKLDKLTVLRMAVQHLRSVRGALSAGPLTARPIPAFVSETELNSLVLHAAKDCFLMVVGCDRGRLLYVSASVTRMLYYEQ
+Original query = QNHSEIEKRRRDKMNTYISELSAMIPMCGAMSRKLDKLTVLRMAVQHLRSVRGALSAGPLTARPIPAFISETELNSLVLHAAKDCFLMVVGCDRGRLIYVSASVTQMLYYEQ
+New query = QNHSEIEKRRRDKMNTYISELSAMIPMCGAMSRKLDKLTVLRMAVQHLRSVRGALSAGPLTARPIPAFVSETELNSLVLHAAKDCFLMVVGCDRGRLLYVSASVTRMLYYEQ
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23921825,23921942,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_1_query_Exon_6,1,39,39
+
+4
+3
+2
+8
+Glaucopsyche_alexis,FR990042.1,23913515,23913640,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_2,1,42,42
+
+Glaucopsyche_alexis,FR990042.1,23924642,23924849,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_2_query_Exon_8,1,67,67
+
+Getting Gene
+min = set197_frame0, 0.066
+5 top scores:
+[['set197_frame0', 0.066], ['set133_frame2', 1.668], ['set191_frame2', 1.676], ['set218_frame2', 1.713], ['set17_frame2', 1.735]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_197_frame0.fa.txt
+26 65
+Aricia_agestis_XM_042130624.1_Frame_0_rightoh_1_query_Exon_6
+TELLGQSLFDILHPKDVAKVKEQLSSSDLSPRERLIDAK
+26 65
+set197_frame0
+SELVGQSLFDILHPKDVAKVKEQLSSSDLSPRERLIDAK
+Original query = TELLGQSLFDILHPKDVAKVKEQLSSSDLSPRERLIDAK
+New query = SELVGQSLFDILHPKDVAKVKEQLSSSDLSPRERLIDAK
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23922050,23922262,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_1_query_Exon_7,1,71,71
+
+5
+9
+Glaucopsyche_alexis,FR990042.1,23921369,23921705,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_0_query_Exon_5,1,112,112
+
+Glaucopsyche_alexis,FR990042.1,23925167,23925370,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_9,1,67,67
+
+Getting Gene
+min = set14_frame2, 0.406
+5 top scores:
+[['set14_frame2', 0.406], ['set12_frame0', 1.837], ['set69_frame2', 1.85], ['set79_frame0', 1.864], ['set1_frame1', 1.852]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_14_frame2.fa.txt
+12 83
+Aricia_agestis_XM_042130624.1_Frame_2_rightoh_1_query_Exon_7
+MLPVKADVIAGASRFCPGARRSFFCRIKCKPNAFASVASSAQSNVKDESEPTAKLRKKQGPEKKYCVVQCT
+12 83
+set14_frame2
+MLPVKPDVVAGASRLCPGARRSFFCRIKCKVSA-ANTATVSQSTIKEESEPTAKLRKKQAPEKKYCVVQCT
+Original query = MLPVKADVIAGASRFCPGARRSFFCRIKCKPNAFASVASSAQSNVKDESEPTAKLRKKQGPEKKYCVVQCT
+New query = MLPVKPDVVAGASRLCPGARRSFFCRIKCKVSA-ANTATVSQSTIKEESEPTAKLRKKQAPEKKYCVVQCT
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23924642,23924849,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_2_query_Exon_8,1,67,67
+
+6
+10
+Glaucopsyche_alexis,FR990042.1,23921825,23921942,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_1_query_Exon_6,1,39,39
+
+Glaucopsyche_alexis,FR990042.1,23925630,23925742,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_1_query_Exon_10,1,36,37
+
+Getting Gene
+min = set56_frame2, 0.608
+5 top scores:
+[['set56_frame2', 0.608], ['set10_frame2', 1.81], ['set43_frame0', 1.805], ['set70_frame0', 1.818], ['set74_frame0', 1.839]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_56_frame2.fa.txt
+23 92
+Aricia_agestis_XM_042130624.1_Frame_2_rightoh_2_query_Exon_8
+YMKSWVTSNLSEGRSSDAGSGNS--DMPCMTVGQNLNDISLNNNSGPLLRPLQYISRHATDGKFLFVDQ
+23 92
+set56_frame2
+YMKPWEPPNLSEGRSSDAGSGNSECNLPGTALGRNLNDIS-QNSTGPPIRPLQYISRHATDGKFLFVDQ
+Original query = YMKSWVTSNLSEGRSSDAGSGNSDMPCMTVGQNLNDISLNNNSGPLLRPLQYISRHATDGKFLFVDQ
+New query = YMKPWEPPNLSEGRSSDAGSGNSECNLPGTALGRNLNDIS-QNSTGPPIRPLQYISRHATDGKFLFVDQ
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23925167,23925370,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_9,1,67,67
+
+7
+11
+Glaucopsyche_alexis,FR990042.1,23922050,23922262,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_1_query_Exon_7,1,71,71
+
+Glaucopsyche_alexis,FR990042.1,23932218,23932411,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_0_query_Exon_11,1,63,64
+
+Getting Gene
+min = set67_frame1, 0.079
+5 top scores:
+[['set67_frame1', 0.079], ['set136_frame1', 1.766], ['set77_frame2', 1.766], ['set6_frame2', 1.841], ['set199_frame1', 1.843]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_67_frame1.fa.txt
+27 94
+Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_9
+VTLALGFLPQELLGSSLYEYVSGPELGAVARTHKASLLRRDPLRTPPYNFRRKDGAYVRIQTHFKPF
+27 94
+set67_frame1
+VTLALGFLPQELLGSSLYEYVSGPELSAVARTHKASLLQRNPLRTPPYNFRRKDGAYVRIQTHFKPF
+Original query = VTLALGFLPQELLGSSLYEYVSGPELGAVARTHKASLLRRDPLRTPPYNFRRKDGAYVRIQTHFKPF
+New query = VTLALGFLPQELLGSSLYEYVSGPELSAVARTHKASLLQRNPLRTPPYNFRRKDGAYVRIQTHFKPF
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23925630,23925742,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_1_query_Exon_10,1,36,37
+
+8
+12
+Glaucopsyche_alexis,FR990042.1,23924642,23924849,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_2_query_Exon_8,1,67,67
+
+Glaucopsyche_alexis,FR990042.1,23937491,23937733,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_0_query_Exon_12,2,79,79
+
+Getting Gene
+min = set19_frame2, 0.449
+5 top scores:
+[['set19_frame2', 0.449], ['set204_frame1', 1.681], ['set26_frame2', 1.722], ['set191_frame0', 1.743], ['set200_frame0', 1.747]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_19_frame2.fa.txt
+21 58
+Aricia_agestis_XM_042130624.1_Frame_1_rightoh_1_query_Exon_10
+NPWTKDVECLVANNIVVTDLQKQLCEEDCRRFNVFKD
+21 58
+set19_frame2
+NPWTKDIECLVANNTVVTDLQKQLPNDDCHHFGVFKQ
+Original query = NPWTKDVECLVANNIVVTDLQKQLCEEDCRRFNVFKD
+New query = NPWTKDIECLVANNTVVTDLQKQLPNDDCHHFGVFKQ
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23932218,23932411,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_0_query_Exon_11,1,63,64
+
+9
+12
+Glaucopsyche_alexis,FR990042.1,23925167,23925370,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_9,1,67,67
+
+Glaucopsyche_alexis,FR990042.1,23937491,23937733,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_0_query_Exon_12,2,79,79
+
+Getting Gene
+min = set105_frame0, 0.166
+5 top scores:
+[['set105_frame0', 0.166], ['set53_frame2', 1.771], ['set253_frame1', 1.792], ['set183_frame1', 1.806], ['set255_frame2', 1.82]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_105_frame0.fa.txt
+34 98
+Aricia_agestis_XM_042130624.1_Frame_2_rightoh_0_query_Exon_11
+GAAYGDSRSAVSEADLEMQRLIDSQVESHKIGSTIAEEALRRTSRDPSPELPVDLLQDAVFSQG
+34 98
+set105_frame0
+GALYGDSQSAVSEADLEMQRLIDSQVESHKIGSTIAEEALRRTSRDQSPELPVDLLQDAVFNQQ
+Original query = GAAYGDSRSAVSEADLEMQRLIDSQVESHKIGSTIAEEALRRTSRDPSPELPVDLLQDAVFSQG
+New query = GALYGDSQSAVSEADLEMQRLIDSQVESHKIGSTIAEEALRRTSRDQSPELPVDLLQDAVFNQQ
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23937491,23937733,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_0_query_Exon_12,2,79,79
+
+10
+12
+Glaucopsyche_alexis,FR990042.1,23925630,23925742,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_1_query_Exon_10,1,36,37
+
+Glaucopsyche_alexis,FR990042.1,23937491,23937733,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_0_query_Exon_12,2,79,79
+
+Getting Gene
+min = set202_frame2, 0.262
+5 top scores:
+[['set202_frame2', 0.262], ['set51_frame1', 1.818], ['set39_frame2', 1.838], ['set8_frame2', 1.856], ['set179_frame0', 1.856]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_202_frame2.fa.txt
+9 34
+set202_frame2
+TTFDNILGMDSSYQVRNNVPLSAAG
+Original query = ATFDNILSAESSFQVRNNVPLSAAANSPSPELRASPQPPSPSLDGNGEAAMAVIMSLLEADAGLGGPVNFASLPWPLP*
+New query = TTFDNILGMDSSYQVRNNVPLSAAG
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23913515,23913640,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_2,1,42,42
+
+1
+4
+5
+Glaucopsyche_alexis,FR990042.1,23872528,23872619,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_2_query_Exon_1,1,29,29
+
+Glaucopsyche_alexis,FR990042.1,23921369,23921705,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_0_query_Exon_5,1,112,112
+
+Getting Gene
+min = set862_frame2, 1.622
+5 top scores:
+[['set862_frame2', 1.622], ['set809_frame2', 1.717], ['set873_frame0', 1.78], ['set802_frame2', 1.78], ['set664_frame2', 1.802]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_862_frame2.fa.txt
+13 65
+Danaus_plexippus_XM_061526053.1_Frame_1_rightoh_2_query_Exon_2
+ASSTSYELTVGAGAGAGPGACDDMAGAGAVLSLQPHAPHNPPPDPRKRKNQQ
+13 65
+set862_frame2
+SSVPAYELTVEA-AGAVAAACAQANTASA-----QHQHH----DHRKRTSTK
+Original query = GSNASSTSYELTVGAGAGAGPGACDDMAGAGAVLSLQPHAPHNPPPDPRKRKNQQ
+New query = SSVPAYELTVEA-AGAVAAACAQANTASA-----QHQHH----DHRKRTSTK
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990062.1,8395581,8395766,0,Y,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_3,11,45,62
+
+1
+5
+Glaucopsyche_alexis,FR990042.1,23872528,23872619,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_2_query_Exon_1,1,29,29
+
+Glaucopsyche_alexis,FR990042.1,23921369,23921705,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_0_query_Exon_5,1,112,112
+
+Getting Gene
+min = set159_frame0, 1.648
+5 top scores:
+[['set159_frame0', 1.648], ['set873_frame0', 1.649], ['set23_frame1', 1.651], ['set846_frame1', 1.662], ['set809_frame2', 1.665]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_159_frame0.fa.txt
+72 157
+Danaus_plexippus_XM_061526053.1_Frame_1_rightoh_2_query_Exon_3
+CSSDGYGLVCEVPMSGHAAVVPQIATTNRK--------------------------------------------------RKPSS
+72 157
+set159_frame0
+TCYDPYILVSLLPLSFLPSIPPLTFNVAKQLSMGHFSPPRETRRDGWRTTSPPFWIIKYNKNLKYMYSTKVLNIFPLSGTRNTSS
+Original query = CSSDGYGLVCEVPMSGHAAVVPQIATTNRKRKPSS
+New query = TCYDPYILVSLLPLSFLPSIPPLTFNVAKQLSMGHFSPPRETRRDGWRTTSPPFWIIKYNKNLKYMYSTKVLNIFPLSGTRNTSS
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23921144,23921215,0,Y,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_4,1,23,23
+
+2
+6
+Glaucopsyche_alexis,FR990042.1,23913515,23913640,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_2,1,42,42
+
+Glaucopsyche_alexis,FR990042.1,23921825,23921942,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_1_query_Exon_6,1,39,39
+
+Getting Gene
+min = set182_frame1, 0.93
+5 top scores:
+[['set182_frame1', 0.93], ['set175_frame1', 1.583], ['set95_frame2', 1.641], ['set97_frame2', 1.651], ['set173_frame2', 1.664]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_182_frame1.fa.txt
+3 26
+Danaus_plexippus_XM_061526053.1_Frame_1_rightoh_2_query_Exon_4
+GTASAYDDDGSEDTRSRSTVPDK
+3 26
+set182_frame1
+KSGSVYDDDTTEDSSSSRTLSDK
+Original query = GTASAYDDDGSEDTRSRSTVPDK
+New query = KSGSVYDDDTTEDSSSSRTLSDK
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23921369,23921705,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_0_query_Exon_5,1,112,112
+
+3
+2
+7
+Glaucopsyche_alexis,FR990042.1,23913515,23913640,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_2,1,42,42
+
+Glaucopsyche_alexis,FR990042.1,23922050,23922262,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_1_query_Exon_7,1,71,71
+
+Getting Gene
+min = set187_frame1, 0.158
+5 top scores:
+[['set56_frame1', 1.898], ['set187_frame1', 0.158], ['set27_frame2', 1.877], ['set68_frame2', 1.901], ['set72_frame2', 1.903]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_187_frame1.fa.txt
+4 116
+Danaus_plexippus_XM_061526053.1_Frame_1_rightoh_0_query_Exon_5
+QNHSEIEKRRRDKMNTYISELSSMVPMCGAMARKLDKLTVLRMAVQHLRSVRGALSAGPLTVRPRPAFLSETELNALVLQAARDCFLMVVGCDRGRLLYVSASVSRMLNYDQ
+4 116
+set187_frame1
+QNHSEIEKRRRDKMNTYISELSAMIPMCGAMSRKLDKLTVLRMAVQHLRSVRGALSAGPLTARPIPAFVSETELNSLVLHAAKDCFLMVVGCDRGRLLYVSASVTRMLYYEQ
+Original query = QNHSEIEKRRRDKMNTYISELSSMVPMCGAMARKLDKLTVLRMAVQHLRSVRGALSAGPLTVRPRPAFLSETELNALVLQAARDCFLMVVGCDRGRLLYVSASVSRMLNYDQ
+New query = QNHSEIEKRRRDKMNTYISELSAMIPMCGAMSRKLDKLTVLRMAVQHLRSVRGALSAGPLTARPIPAFVSETELNSLVLHAAKDCFLMVVGCDRGRLLYVSASVTRMLYYEQ
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23921825,23921942,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_1_query_Exon_6,1,39,39
+
+4
+3
+2
+8
+Glaucopsyche_alexis,FR990042.1,23913515,23913640,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_2,1,42,42
+
+Glaucopsyche_alexis,FR990042.1,23924642,23924849,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_2_query_Exon_8,1,67,67
+
+Getting Gene
+min = set197_frame0, 0.104
+5 top scores:
+[['set197_frame0', 0.104], ['set88_frame1', 1.647], ['set191_frame2', 1.673], ['set68_frame2', 1.724], ['set133_frame2', 1.729]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_197_frame0.fa.txt
+26 65
+Danaus_plexippus_XM_061526053.1_Frame_0_rightoh_1_query_Exon_6
+SELIGQSLFDMLHPKDVGKVKEQLSSSDLSPRERLIDAK
+26 65
+set197_frame0
+SELVGQSLFDILHPKDVAKVKEQLSSSDLSPRERLIDAK
+Original query = SELIGQSLFDMLHPKDVGKVKEQLSSSDLSPRERLIDAK
+New query = SELVGQSLFDILHPKDVAKVKEQLSSSDLSPRERLIDAK
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23922050,23922262,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_1_query_Exon_7,1,71,71
+
+5
+9
+Glaucopsyche_alexis,FR990042.1,23921369,23921705,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_0_query_Exon_5,1,112,112
+
+Glaucopsyche_alexis,FR990042.1,23925167,23925370,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_9,1,67,67
+
+Getting Gene
+min = set14_frame2, 0.849
+5 top scores:
+[['set14_frame2', 0.849], ['set28_frame2', 1.801], ['set80_frame1', 1.879], ['set79_frame0', 1.85], ['set1_frame1', 1.817]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_14_frame2.fa.txt
+12 95
+Danaus_plexippus_XM_061526053.1_Frame_2_rightoh_1_query_Exon_7
+MLPLKPDVVADASRLCPGARRSFFCRIKCRTEPSQASQSSQSSQACQPCTNTQPSEVKEE-EPNSKMKKKQAHEKKYCVVQCT
+12 95
+set14_frame2
+MLPVKPDVVAGASRLCPGARRSFFCRIKCKVSAANTATVSQST-------------IKEESEPTAKLRKKQAPEKKYCVVQCT
+Original query = MLPLKPDVVADASRLCPGARRSFFCRIKCRTEPSQASQSSQSSQACQPCTNTQPSEVKEEEPNSKMKKKQAHEKKYCVVQCT
+New query = MLPVKPDVVAGASRLCPGARRSFFCRIKCKVSAANTATVSQST-------------IKEESEPTAKLRKKQAPEKKYCVVQCT
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23924642,23924849,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_2_query_Exon_8,1,67,67
+
+6
+10
+Glaucopsyche_alexis,FR990042.1,23921825,23921942,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_1_query_Exon_6,1,39,39
+
+Glaucopsyche_alexis,FR990042.1,23925630,23925742,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_1_query_Exon_10,1,36,37
+
+Getting Gene
+min = set56_frame2, 1.002
+5 top scores:
+[['set56_frame2', 1.002], ['set74_frame2', 1.782], ['set70_frame0', 1.867], ['set74_frame0', 1.875], ['set61_frame1', 1.866]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_56_frame2.fa.txt
+23 93
+Danaus_plexippus_XM_061526053.1_Frame_2_rightoh_2_query_Exon_8
+YLKSWAPAEMSDGCCTDAGSEEESCNLSCLVAVGRALADLAQHPDSAPQTRYLQYISRHAPDGKFLFVDQ
+23 93
+set56_frame2
+YMKPWEPPNLSEGRSSDAGSGNSECNLPG-TALGRNLNDISQN-STGPPIRPLQYISRHATDGKFLFVDQ
+Original query = YLKSWAPAEMSDGCCTDAGSEEESCNLSCLVAVGRALADLAQHPDSAPQTRYLQYISRHAPDGKFLFVDQ
+New query = YMKPWEPPNLSEGRSSDAGSGNSECNLPG-TALGRNLNDISQN-STGPPIRPLQYISRHATDGKFLFVDQ
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23925167,23925370,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_9,1,67,67
+
+7
+11
+Glaucopsyche_alexis,FR990042.1,23922050,23922262,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_1_query_Exon_7,1,71,71
+
+Glaucopsyche_alexis,FR990042.1,23932218,23932411,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_0_query_Exon_11,1,63,64
+
+Getting Gene
+min = set67_frame1, 0.376
+5 top scores:
+[['set67_frame1', 0.376], ['set136_frame1', 1.799], ['set68_frame0', 1.794], ['set77_frame2', 1.799], ['set165_frame0', 1.841]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_67_frame1.fa.txt
+27 94
+Danaus_plexippus_XM_061526053.1_Frame_1_rightoh_2_query_Exon_9
+VTIALGFLPQELLGTSMYEYILAPELGSVARIHKAALLRRDSLRTPPYCFRKKDGTYVRIQTHFKPF
+27 94
+set67_frame1
+VTLALGFLPQELLGSSLYEYVSGPELSAVARTHKASLLQRNPLRTPPYNFRRKDGAYVRIQTHFKPF
+Original query = VTIALGFLPQELLGTSMYEYILAPELGSVARIHKAALLRRDSLRTPPYCFRKKDGTYVRIQTHFKPF
+New query = VTLALGFLPQELLGSSLYEYVSGPELSAVARTHKASLLQRNPLRTPPYNFRRKDGAYVRIQTHFKPF
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23925630,23925742,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_1_query_Exon_10,1,36,37
+
+8
+12
+Glaucopsyche_alexis,FR990042.1,23924642,23924849,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_2_query_Exon_8,1,67,67
+
+Glaucopsyche_alexis,FR990042.1,23937491,23937733,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_0_query_Exon_12,2,79,79
+
+Getting Gene
+min = set19_frame2, 0.838
+5 top scores:
+[['set19_frame2', 0.838], ['set233_frame1', 1.653], ['set156_frame2', 1.664], ['set79_frame1', 1.729], ['set223_frame2', 1.737]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_19_frame2.fa.txt
+21 57
+Danaus_plexippus_XM_061526053.1_Frame_1_rightoh_1_query_Exon_10
+NPWTKDVESLVANNTVVVGNRVQPPPEDCSQYDIYK
+21 57
+set19_frame2
+NPWTKDIECLVANNTVVTDLQKQLPNDDCHHFGVFK
+Original query = NPWTKDVESLVANNTVVVGNRVQPPPEDCSQYDIYKI
+New query = NPWTKDIECLVANNTVVTDLQKQLPNDDCHHFGVFK
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23932218,23932411,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_0_query_Exon_11,1,63,64
+
+9
+12
+Glaucopsyche_alexis,FR990042.1,23925167,23925370,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_9,1,67,67
+
+Glaucopsyche_alexis,FR990042.1,23937491,23937733,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_0_query_Exon_12,2,79,79
+
+Getting Gene
+min = set105_frame0, 0.544
+5 top scores:
+[['set105_frame0', 0.544], ['set250_frame1', 1.78], ['set53_frame2', 1.786], ['set91_frame2', 1.799], ['set13_frame2', 1.801]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_105_frame0.fa.txt
+39 98
+Danaus_plexippus_XM_061526053.1_Frame_2_rightoh_0_query_Exon_11
+DMDRPLSEADVEMQRLIDSQVESHKIGSTIAEEALRRSSSDFS-DLTSDLLQDAVFSQQ
+39 98
+set105_frame0
+DSQSAVSEADLEMQRLIDSQVESHKIGSTIAEEALRRTSRDQSPELPVDLLQDAVFNQQ
+Original query = DMDRPLSEADVEMQRLIDSQVESHKIGSTIAEEALRRSSSDFSDLTSDLLQDAVFSQQ
+New query = DSQSAVSEADLEMQRLIDSQVESHKIGSTIAEEALRRTSRDQSPELPVDLLQDAVFNQQ
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23937491,23937733,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_0_query_Exon_12,2,79,79
+
+10
+12
+Glaucopsyche_alexis,FR990042.1,23925630,23925742,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_1_query_Exon_10,1,36,37
+
+Glaucopsyche_alexis,FR990042.1,23937491,23937733,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_0_query_Exon_12,2,79,79
+
+Getting Gene
+min = set202_frame2, 0.814
+5 top scores:
+[['set202_frame2', 0.814], ['set66_frame0', 1.823], ['set60_frame2', 1.877], ['set8_frame1', 1.823], ['set40_frame1', 1.866]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_202_frame2.fa.txt
+8 96
+set202_frame2
+QTTFDNILGMDSSY--QVRNNVPLSAAGAES-SPSPELCASPQPPSP-----TIDGNGEAAMAVIMSLLEADAGLGGPVNFASLPWPL
+Original query = SSLVDNILGGEVNYSNQVRNNVPLSAAGGSSPSPEAELPLSPLPVSPPLPPLGLDGNGEAAMAVIMSLLEADAGLGGPVNISGLPWPLP*
+New query = QTTFDNILGMDSSY--QVRNNVPLSAAGAES-SPSPELCASPQPPSP-----TIDGNGEAAMAVIMSLLEADAGLGGPVNFASLPWPL
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23913515,23913640,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_2,1,42,42
+
+1
+4
+5
+Glaucopsyche_alexis,FR990042.1,23872528,23872619,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_2_query_Exon_1,1,29,29
+
+Glaucopsyche_alexis,FR990042.1,23921369,23921705,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_0_query_Exon_5,1,112,112
+
+Getting Gene
+min = set862_frame2, 1.532
+5 top scores:
+[['set862_frame2', 1.532], ['set943_frame0', 1.753], ['set809_frame2', 1.754], ['set329_frame1', 1.8], ['set806_frame2', 1.807]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_862_frame2.fa.txt
+13 3
+set862_frame2
+
+Original query = PHANGTPAYELTLGAGVADESAAGCAESAGGTAHPPLPDHPDQPPHDPRKRRNSHN
+New query = 
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990062.1,8395581,8395766,0,Y,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_3,11,45,62
+
+1
+5
+Glaucopsyche_alexis,FR990042.1,23872528,23872619,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_2_query_Exon_1,1,29,29
+
+Glaucopsyche_alexis,FR990042.1,23921369,23921705,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_0_query_Exon_5,1,112,112
+
+Getting Gene
+min = set480_frame1, 1.58
+5 top scores:
+[['set480_frame1', 1.58], ['set606_frame1', 1.668], ['set170_frame2', 1.668], ['set704_frame2', 1.681], ['set385_frame2', 1.709]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_480_frame1.fa.txt
+10 3
+set480_frame1
+
+Original query = RGACSEADSEGCYPTEHPEHPYACQQQPSQGVRKRNNLQ
+New query = 
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23921144,23921215,0,Y,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_4,1,23,23
+
+2
+6
+Glaucopsyche_alexis,FR990042.1,23913515,23913640,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_2,1,42,42
+
+Glaucopsyche_alexis,FR990042.1,23921825,23921942,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_1_query_Exon_6,1,39,39
+
+Getting Gene
+min = set182_frame1, 0.873
+5 top scores:
+[['set182_frame1', 0.873], ['set188_frame1', 1.62], ['set138_frame2', 1.627], ['set173_frame2', 1.668], ['set2_frame2', 1.69]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_182_frame1.fa.txt
+0 26
+Maniola_jurtina_XM_045928647.1_Frame_1_rightoh_2_query_Exon_4
+C---ASSTYDDDGNEDTRSIRSVSDK
+0 26
+set182_frame1
+YYSKSGSVYDDDTTEDSSSSRTLSDK
+Original query = CASSTYDDDGNEDTRSIRSVSDK
+New query = YYSKSGSVYDDDTTEDSSSSRTLSDK
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23921369,23921705,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_0_query_Exon_5,1,112,112
+
+3
+2
+7
+Glaucopsyche_alexis,FR990042.1,23913515,23913640,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_2,1,42,42
+
+Glaucopsyche_alexis,FR990042.1,23922050,23922262,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_1_query_Exon_7,1,71,71
+
+Getting Gene
+min = set187_frame1, 0.147
+5 top scores:
+[['set56_frame1', 1.898], ['set187_frame1', 0.147], ['set27_frame2', 1.864], ['set68_frame2', 1.888], ['set72_frame2', 1.898]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_187_frame1.fa.txt
+4 116
+Maniola_jurtina_XM_045928647.1_Frame_1_rightoh_0_query_Exon_5
+QNHSEIEKRRRDKMNTYISELSSMVPMCGAMARKLDKLTVLRMAVQHLRSVRGALSAGPLTARPRPAFLSERELNALVLQAAKDCFLMVVGCDRGRLLYVSASVTRLLHYDQ
+4 116
+set187_frame1
+QNHSEIEKRRRDKMNTYISELSAMIPMCGAMSRKLDKLTVLRMAVQHLRSVRGALSAGPLTARPIPAFVSETELNSLVLHAAKDCFLMVVGCDRGRLLYVSASVTRMLYYEQ
+Original query = QNHSEIEKRRRDKMNTYISELSSMVPMCGAMARKLDKLTVLRMAVQHLRSVRGALSAGPLTARPRPAFLSERELNALVLQAAKDCFLMVVGCDRGRLLYVSASVTRLLHYDQ
+New query = QNHSEIEKRRRDKMNTYISELSAMIPMCGAMSRKLDKLTVLRMAVQHLRSVRGALSAGPLTARPIPAFVSETELNSLVLHAAKDCFLMVVGCDRGRLLYVSASVTRMLYYEQ
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23921825,23921942,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_1_query_Exon_6,1,39,39
+
+4
+3
+2
+8
+Glaucopsyche_alexis,FR990042.1,23913515,23913640,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_2,1,42,42
+
+Glaucopsyche_alexis,FR990042.1,23924642,23924849,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_2_query_Exon_8,1,67,67
+
+Getting Gene
+min = set197_frame0, 0.033
+5 top scores:
+[['set197_frame0', 0.033], ['set133_frame2', 1.668], ['set191_frame2', 1.675], ['set218_frame2', 1.712], ['set17_frame2', 1.734]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_197_frame0.fa.txt
+26 65
+Maniola_jurtina_XM_045928647.1_Frame_0_rightoh_1_query_Exon_6
+SELLGQSLFDILHPKDVAKVKEQLSSSDLSPRERLIDAK
+26 65
+set197_frame0
+SELVGQSLFDILHPKDVAKVKEQLSSSDLSPRERLIDAK
+Original query = SELLGQSLFDILHPKDVAKVKEQLSSSDLSPRERLIDAK
+New query = SELVGQSLFDILHPKDVAKVKEQLSSSDLSPRERLIDAK
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23922050,23922262,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_1_query_Exon_7,1,71,71
+
+5
+9
+Glaucopsyche_alexis,FR990042.1,23921369,23921705,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_0_query_Exon_5,1,112,112
+
+Glaucopsyche_alexis,FR990042.1,23925167,23925370,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_9,1,67,67
+
+Getting Gene
+min = set14_frame2, 0.618
+5 top scores:
+[['set14_frame2', 0.618], ['set28_frame2', 1.73], ['set80_frame1', 1.85], ['set79_frame0', 1.86], ['set1_frame1', 1.845]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_14_frame2.fa.txt
+12 87
+Maniola_jurtina_XM_045928647.1_Frame_2_rightoh_1_query_Exon_7
+MLPVKTDVIAGTSRLCPGARRSFFCRIKCRASAEPASSSTVTSSTPSQVKEEAEPNAKPRKKQA-EKKYCVVQCT
+12 87
+set14_frame2
+MLPVKPDVVAGASRLCPGARRSFFCRIKCKVSA--ANTATVSQST---IKEESEPTAKLRKKQAPEKKYCVVQCT
+Original query = MLPVKTDVIAGTSRLCPGARRSFFCRIKCRASAEPASSSTVTSSTPSQVKEEAEPNAKPRKKQAEKKYCVVQCT
+New query = MLPVKPDVVAGASRLCPGARRSFFCRIKCKVSA--ANTATVSQST---IKEESEPTAKLRKKQAPEKKYCVVQCT
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23924642,23924849,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_2_query_Exon_8,1,67,67
+
+6
+10
+Glaucopsyche_alexis,FR990042.1,23921825,23921942,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_1_query_Exon_6,1,39,39
+
+Glaucopsyche_alexis,FR990042.1,23925630,23925742,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_1_query_Exon_10,1,36,37
+
+Getting Gene
+min = set19_frame2, 1.13
+5 top scores:
+[['set19_frame2', 1.13], ['set56_frame2', 1.143], ['set74_frame2', 1.75], ['set74_frame0', 1.839], ['set61_frame1', 1.867]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_19_frame2.fa.txt
+9 80
+Maniola_jurtina_XM_045928647.1_Frame_2_rightoh_2_query_Exon_8
+YLKSWAPAEMCDTGNSSDSIPDDGETCNLSCLVAVGRALSDLAP-QSTPAPHARFLQYISRHATDGKFLFV
+9 80
+set19_frame2
+YLKSWAPVEISE-ASGIDTGPDDGDACNLSCLVAVGRALNDLTPSQLTSATPTRNVNNFAPKQNDTKYGYT
+Original query = YLKSWAPAEMCDTGNSSDSIPDDGETCNLSCLVAVGRALSDLAPQSTPAPHARFLQYISRHATDGKFLFVDQ
+New query = YLKSWAPVEISE-ASGIDTGPDDGDACNLSCLVAVGRALNDLTPSQLTSATPTRNVNNFAPKQNDTKYGYT
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23925167,23925370,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_9,1,67,67
+
+7
+11
+Glaucopsyche_alexis,FR990042.1,23922050,23922262,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_1_query_Exon_7,1,71,71
+
+Glaucopsyche_alexis,FR990042.1,23932218,23932411,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_0_query_Exon_11,1,63,64
+
+Getting Gene
+min = set67_frame1, 0.365
+5 top scores:
+[['set67_frame1', 0.365], ['set53_frame1', 1.778], ['set165_frame0', 1.792], ['set1_frame2', 1.808], ['set6_frame2', 1.827]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_67_frame1.fa.txt
+27 94
+Maniola_jurtina_XM_045928647.1_Frame_1_rightoh_2_query_Exon_9
+VTLALGFLPQELLGTSLYEHVSALELGAVARTHKAALLRKDALRTPPYCFKRKDGTYARIQTHFKPF
+27 94
+set67_frame1
+VTLALGFLPQELLGSSLYEYVSGPELSAVARTHKASLLQRNPLRTPPYNFRRKDGAYVRIQTHFKPF
+Original query = VTLALGFLPQELLGTSLYEHVSALELGAVARTHKAALLRKDALRTPPYCFKRKDGTYARIQTHFKPF
+New query = VTLALGFLPQELLGSSLYEYVSGPELSAVARTHKASLLQRNPLRTPPYNFRRKDGAYVRIQTHFKPF
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23925630,23925742,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_1_query_Exon_10,1,36,37
+
+8
+12
+Glaucopsyche_alexis,FR990042.1,23924642,23924849,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_2_query_Exon_8,1,67,67
+
+Glaucopsyche_alexis,FR990042.1,23937491,23937733,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_0_query_Exon_12,2,79,79
+
+Getting Gene
+min = set19_frame2, 0.793
+5 top scores:
+[['set19_frame2', 0.793], ['set91_frame1', 1.703], ['set199_frame2', 1.72], ['set155_frame2', 1.747], ['set252_frame2', 1.761]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_19_frame2.fa.txt
+21 58
+Maniola_jurtina_XM_045928647.1_Frame_1_rightoh_1_query_Exon_10
+NPWTKDVECLVANNTVVTHEWAEPALDDCQHYDMYNQ
+21 58
+set19_frame2
+NPWTKDIECLVANNTVVTDLQKQLPNDDCHHFGVFKQ
+Original query = NPWTKDVECLVANNTVVTHEWAEPALDDCQHYDMYNQ
+New query = NPWTKDIECLVANNTVVTDLQKQLPNDDCHHFGVFKQ
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23932218,23932411,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_0_query_Exon_11,1,63,64
+
+9
+12
+Glaucopsyche_alexis,FR990042.1,23925167,23925370,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_9,1,67,67
+
+Glaucopsyche_alexis,FR990042.1,23937491,23937733,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_0_query_Exon_12,2,79,79
+
+Getting Gene
+min = set105_frame0, 0.514
+5 top scores:
+[['set105_frame0', 0.514], ['set133_frame1', 1.779], ['set52_frame2', 1.808], ['set253_frame1', 1.816], ['set255_frame2', 1.821]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_105_frame0.fa.txt
+39 98
+Maniola_jurtina_XM_045928647.1_Frame_2_rightoh_0_query_Exon_11
+DLDSRLSEADVEMQRLIDSQIESHKIGSTIAEEALRRSSTEFSPELPADLLQDAVFNQQ
+39 98
+set105_frame0
+DSQSAVSEADLEMQRLIDSQVESHKIGSTIAEEALRRTSRDQSPELPVDLLQDAVFNQQ
+Original query = EPFCDDLDSRLSEADVEMQRLIDSQIESHKIGSTIAEEALRRSSTEFSPELPADLLQDAVFNQQ
+New query = DSQSAVSEADLEMQRLIDSQVESHKIGSTIAEEALRRTSRDQSPELPVDLLQDAVFNQQ
+Scaffold = FR990042.1, start = 23872528, end = 23872619
+Glaucopsyche_alexis,FR990042.1,23937491,23937733,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_0_query_Exon_12,2,79,79
+
+10
+12
+Glaucopsyche_alexis,FR990042.1,23925630,23925742,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_1_query_Exon_10,1,36,37
+
+Glaucopsyche_alexis,FR990042.1,23937491,23937733,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_0_query_Exon_12,2,79,79
+
+Getting Gene
+min = set202_frame2, 0.78
+5 top scores:
+[['set202_frame2', 0.78], ['set59_frame2', 1.864], ['set170_frame2', 1.877], ['set8_frame1', 1.865], ['set40_frame1', 1.841]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Glaucopsyche_alexis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_202_frame2.fa.txt
+9 1
+set202_frame2
+
+Original query = PSLVDNLLGGDTVNYDSQVRNNVPLSAAGAEGSPPPEINNLPSASPPPTSPPLPSLGLDGNGEAAMAVIMSLLEADAGLGGPVSFSGLPWPLP*
+New query = 

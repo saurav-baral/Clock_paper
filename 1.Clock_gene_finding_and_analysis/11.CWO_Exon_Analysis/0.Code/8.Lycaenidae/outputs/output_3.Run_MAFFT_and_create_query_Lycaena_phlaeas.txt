@@ -1,0 +1,456 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = HG995173.1, start = 2456361, end = 2456413
+Lycaena_phlaeas,HG995173.1,2488258,2488375,0,N,Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+1
+4
+Lycaena_phlaeas,HG995173.1,2456361,2456413,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Lycaena_phlaeas,HG995173.1,2491005,2491166,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,5,53,53
+
+Getting Gene
+min = set673_frame2, 0.626
+5 top scores:
+[['set673_frame2', 0.626], ['set266_frame1', 1.702], ['set782_frame1', 1.715], ['set405_frame2', 1.721], ['set692_frame2', 1.727]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Lycaena_phlaeas/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_673_frame2.fa.txt
+12 52
+Maniola_jurtina_XM_045908966.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGR-TGEPLSFAPPSEDEAEYPAGAYLKKGKVSR
+12 52
+set673_frame2
+YNSNDGFGRPASEQIHFAAPSEDEGEYPAG-YLKKGKVSR
+Original query = YNSNDGFGRTGEPLSFAPPSEDEAEYPAGAYLKKGKVSR
+New query = YNSNDGFGRPASEQIHFAAPSEDEGEYPAG-YLKKGKVSR
+Scaffold = HG995173.1, start = 2456361, end = 2456413
+Lycaena_phlaeas,HG995173.1,2489459,2489642,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Lycaena_phlaeas,HG995173.1,2456361,2456413,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Lycaena_phlaeas,HG995173.1,2492243,2492440,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+Getting Gene
+min = set692_frame2, 0.056
+5 top scores:
+[['set692_frame2', 0.056], ['set673_frame2', 1.747], ['set657_frame1', 1.78], ['set411_frame2', 1.787], ['set310_frame2', 1.801]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Lycaena_phlaeas/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_692_frame2.fa.txt
+6 67
+Maniola_jurtina_XM_045908966.1_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPAEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+6 67
+set692_frame2
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQERVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPAEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQERVN
+Scaffold = HG995173.1, start = 2456361, end = 2456413
+Lycaena_phlaeas,HG995173.1,2491005,2491166,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,5,53,53
+
+2
+6
+Lycaena_phlaeas,HG995173.1,2488258,2488375,0,N,Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+Lycaena_phlaeas,HG995173.1,2493152,2493336,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,4,56,56
+
+Getting Gene
+min = set51_frame1, 0.295
+5 top scores:
+[['set51_frame1', 0.295], ['set75_frame1', 1.794], ['set105_frame2', 1.803], ['set4_frame2', 1.85], ['set1_frame1', 1.812]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Lycaena_phlaeas/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_51_frame1.fa.txt
+59 113
+Maniola_jurtina_XM_045908966.1_Frame_2_rightoh_1_query_Exon_4
+AERQAGEE-FRAGYQEAVAEAVRFLVEVQGFGPGDGLCVQLASHMQRHCDAVTK
+59 113
+set51_frame1
+AERQVAEEPYRVGYQEAVAEAVRFLVEVQGFGPGDGLCVQLASHLQRHCEIVTK
+Original query = AERQAGEEFRAGYQEAVAEAVRFLVEVQGFGPGDGLCVQLASHMQRHCDAVTK
+New query = AERQVAEEPYRVGYQEAVAEAVRFLVEVQGFGPGDGLCVQLASHLQRHCEIVTK
+Scaffold = HG995173.1, start = 2456361, end = 2456413
+Lycaena_phlaeas,HG995173.1,2492243,2492440,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+3
+7
+Lycaena_phlaeas,HG995173.1,2489459,2489642,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Lycaena_phlaeas,HG995173.1,2493623,2493751,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7,1,43,43
+
+Getting Gene
+min = set58_frame2, 1.047
+5 top scores:
+[['set58_frame2', 1.047], ['set66_frame2', 1.836], ['set56_frame0', 1.849], ['set57_frame0', 1.775], ['set8_frame1', 1.897]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Lycaena_phlaeas/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_58_frame2.fa.txt
+8 74
+Maniola_jurtina_XM_045908966.1_Frame_2_rightoh_1_query_Exon_5
+AMTRSDKSRSSNPGSSSETTSSSSSSHGFAVK-VIQRPELPPAFPVESYEQERPAAGPQYPMECER
+8 74
+set58_frame2
+SRTVPREKPRSHLGSSSETASSSSSSHGYAMKGVIQRPEPPPAFSAEPYEPERQPE-LTYHMECDR
+Original query = DAMTRSDKSRSSNPGSSSETTSSSSSSHGFAVKVIQRPELPPAFPVESYEQERPAAGPQYPMECER
+New query = SRTVPREKPRSHLGSSSETASSSSSSHGYAMKGVIQRPEPPPAFSAEPYEPERQPE-LTYHMECDR
+Scaffold = HG995173.1, start = 2456361, end = 2456413
+Lycaena_phlaeas,HG995173.1,2493152,2493336,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,4,56,56
+
+4
+8
+Lycaena_phlaeas,HG995173.1,2491005,2491166,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,5,53,53
+
+Lycaena_phlaeas,HG995173.1,2494590,2494677,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set36_frame1, 0.579
+5 top scores:
+[['set36_frame1', 0.579], ['set14_frame2', 1.817], ['set68_frame0', 1.827], ['set26_frame2', 1.84], ['set28_frame1', 1.749]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Lycaena_phlaeas/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_36_frame1.fa.txt
+113 174
+Maniola_jurtina_XM_045908966.1_Frame_2_rightoh_0_query_Exon_6
+QNLAAP--EAESQEPLPLDGRIKRE-ALRKVRKIEHSDDYLHSYKFKNSIERRFSRSQDTE
+113 174
+set36_frame1
+QQLIIPVESLPSDEPLPLDGRHKREPTLRKVRKPDHADDYLHSYKFKNSIERRFSRSQDSE
+Original query = QNLAAPEAESQEPLPLDGRIKREALRKVRKIEHSDDYLHSYKFKNSIERRFSRSQDTE
+New query = QQLIIPVESLPSDEPLPLDGRHKREPTLRKVRKPDHADDYLHSYKFKNSIERRFSRSQDSE
+Scaffold = HG995173.1, start = 2456361, end = 2456413
+Lycaena_phlaeas,HG995173.1,2493623,2493751,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7,1,43,43
+
+5
+8
+Lycaena_phlaeas,HG995173.1,2492243,2492440,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+Lycaena_phlaeas,HG995173.1,2494590,2494677,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set31_frame0, 1.286
+5 top scores:
+[['set1_frame2', 1.759], ['set55_frame1', 1.791], ['set31_frame0', 1.286], ['set9_frame2', 1.799], ['set28_frame1', 1.714]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Lycaena_phlaeas/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_31_frame0.fa.txt
+0 51
+Maniola_jurtina_XM_045908966.1_Frame_0_rightoh_0_query_Exon_7
+AADCPPHNGVNGATHGKPYAHKRRRAVKPAP-SAPTSASTSTE---DTSPQ
+0 51
+set31_frame0
+VA--------ENSTRNARAFTKRRRATKPVPASASASTSGSTEDARDTSPQ
+Original query = AADCPPHNGVNGATHGKPYAHKRRRAVKPAPSAPTSASTSTEDTSPQ
+New query = VA--------ENSTRNARAFTKRRRATKPVPASASASTSGSTEDARDTSPQ
+Scaffold = HG995173.1, start = 2456361, end = 2456413
+Lycaena_phlaeas,HG995173.1,2494590,2494677,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+6
+8
+Lycaena_phlaeas,HG995173.1,2493152,2493336,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,4,56,56
+
+Lycaena_phlaeas,HG995173.1,2494590,2494677,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set28_frame1, 0.705
+5 top scores:
+[['set28_frame1', 0.705], ['set12_frame1', 1.676], ['set16_frame2', 1.701], ['set1_frame2', 1.756], ['set29_frame0', 1.766]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Lycaena_phlaeas/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_28_frame1.fa.txt
+11 40
+set28_frame1
+DTSSESTHHHQYEK-PMPQQYVPVFALNA
+Original query = DTSSESPHNHHYDKPPPPTQYVPVFALNSL
+New query = DTSSESTHHHQYEK-PMPQQYVPVFALNA
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = HG995173.1, start = 2456361, end = 2456413
+Lycaena_phlaeas,HG995173.1,2488258,2488375,0,N,Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+1
+4
+Lycaena_phlaeas,HG995173.1,2456361,2456413,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Lycaena_phlaeas,HG995173.1,2491005,2491166,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,5,53,53
+
+Getting Gene
+min = set673_frame2, 0.569
+5 top scores:
+[['set673_frame2', 0.569], ['set675_frame2', 1.684], ['set244_frame2', 1.718], ['set405_frame2', 1.728], ['set692_frame2', 1.733]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Lycaena_phlaeas/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_673_frame2.fa.txt
+12 52
+Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRPG--EVHYAPPSEDEAEYPQGAYLKKGKVSR
+12 52
+set673_frame2
+YNSNDGFGRPASEQIHFAAPSEDEGEYPAG-YLKKGKVSR
+Original query = YNSNDGFGRPGEVHYAPPSEDEAEYPQGAYLKKGKVSR
+New query = YNSNDGFGRPASEQIHFAAPSEDEGEYPAG-YLKKGKVSR
+Scaffold = HG995173.1, start = 2456361, end = 2456413
+Lycaena_phlaeas,HG995173.1,2489459,2489642,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Lycaena_phlaeas,HG995173.1,2456361,2456413,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Lycaena_phlaeas,HG995173.1,2492243,2492440,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+Getting Gene
+min = set692_frame2, 0.044
+5 top scores:
+[['set692_frame2', 0.044], ['set657_frame1', 1.767], ['set673_frame2', 1.777], ['set219_frame2', 1.795], ['set489_frame1', 1.805]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Lycaena_phlaeas/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_692_frame2.fa.txt
+6 67
+Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHIKFLQDRVN
+6 67
+set692_frame2
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQERVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHIKFLQDRVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQERVN
+Scaffold = HG995173.1, start = 2456361, end = 2456413
+Lycaena_phlaeas,HG995173.1,2491005,2491166,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,5,53,53
+
+2
+6
+Lycaena_phlaeas,HG995173.1,2488258,2488375,0,N,Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+Lycaena_phlaeas,HG995173.1,2493152,2493336,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,4,56,56
+
+Getting Gene
+min = set51_frame1, 0.3
+5 top scores:
+[['set51_frame1', 0.3], ['set105_frame2', 1.764], ['set21_frame2', 1.821], ['set4_frame2', 1.84], ['set1_frame1', 1.819]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Lycaena_phlaeas/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_51_frame1.fa.txt
+59 113
+Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4
+AEGQ-APEPYRVGYQEAVGEAVRFLVEVQGFGPADGLCVQMAAHLQRHCEIVTK
+59 113
+set51_frame1
+AERQVAEEPYRVGYQEAVAEAVRFLVEVQGFGPGDGLCVQLASHLQRHCEIVTK
+Original query = AEGQAPEPYRVGYQEAVGEAVRFLVEVQGFGPADGLCVQMAAHLQRHCEIVTK
+New query = AERQVAEEPYRVGYQEAVAEAVRFLVEVQGFGPGDGLCVQLASHLQRHCEIVTK
+Scaffold = HG995173.1, start = 2456361, end = 2456413
+Lycaena_phlaeas,HG995173.1,2492243,2492440,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+3
+7
+Lycaena_phlaeas,HG995173.1,2489459,2489642,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Lycaena_phlaeas,HG995173.1,2493623,2493751,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7,1,43,43
+
+Getting Gene
+min = set58_frame2, 0.641
+5 top scores:
+[['set58_frame2', 0.641], ['set66_frame2', 1.834], ['set56_frame0', 1.861], ['set57_frame0', 1.796], ['set8_frame1', 1.856]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Lycaena_phlaeas/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_58_frame2.fa.txt
+8 74
+Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5
+NGSVPREKIRSHIGGSSSETASSSSSSHGYVMKGVIQRPEPPPF--SEPYEPE-HPADMYQMECDR
+8 74
+set58_frame2
+SRTVPREKPRSHL-GSSSETASSSSSSHGYAMKGVIQRPEPPPAFSAEPYEPERQPELTYHMECDR
+Original query = NGSVPREKIRSHIGGSSSETASSSSSSHGYVMKGVIQRPEPPPFSEPYEPEHPADMYQMECDR
+New query = SRTVPREKPRSHL-GSSSETASSSSSSHGYAMKGVIQRPEPPPAFSAEPYEPERQPELTYHMECDR
+Scaffold = HG995173.1, start = 2456361, end = 2456413
+Lycaena_phlaeas,HG995173.1,2493152,2493336,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,4,56,56
+
+4
+8
+Lycaena_phlaeas,HG995173.1,2491005,2491166,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,5,53,53
+
+Lycaena_phlaeas,HG995173.1,2494590,2494677,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set36_frame1, 0.558
+5 top scores:
+[['set36_frame1', 0.558], ['set51_frame1', 1.806], ['set57_frame0', 1.823], ['set68_frame0', 1.807], ['set34_frame2', 1.849]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Lycaena_phlaeas/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_36_frame1.fa.txt
+116 174
+Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6
+LLPVD-LPADEPLPLD-RHKRD--LRKVRKPDH-DDYLHSYKFKNSIERRFSRSQDSE
+116 174
+set36_frame1
+IIPVESLPSDEPLPLDGRHKREPTLRKVRKPDHADDYLHSYKFKNSIERRFSRSQDSE
+Original query = PVPLLPVDLPADEPLPLDRHKRDLRKVRKPDHDDYLHSYKFKNSIERRFSRSQDSE
+New query = IIPVESLPSDEPLPLDGRHKREPTLRKVRKPDHADDYLHSYKFKNSIERRFSRSQDSE
+Scaffold = HG995173.1, start = 2456361, end = 2456413
+Lycaena_phlaeas,HG995173.1,2493623,2493751,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7,1,43,43
+
+5
+8
+Lycaena_phlaeas,HG995173.1,2492243,2492440,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+Lycaena_phlaeas,HG995173.1,2494590,2494677,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set31_frame0, 0.277
+5 top scores:
+[['set2_frame0', 1.643], ['set1_frame2', 1.676], ['set41_frame1', 1.759], ['set31_frame0', 0.277], ['set55_frame1', 1.769]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Lycaena_phlaeas/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_31_frame0.fa.txt
+0 43
+Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7
+AAENGTRGPRAFTKRRRANKPVPASTSASTSGSTEDARDTSPQ
+0 43
+set31_frame0
+VAENSTRNARAFTKRRRATKPVPASASASTSGSTEDARDTSPQ
+Original query = AAENGTRGPRAFTKRRRANKPVPASTSASTSGSTEDARDTSPQ
+New query = VAENSTRNARAFTKRRRATKPVPASASASTSGSTEDARDTSPQ
+Scaffold = HG995173.1, start = 2456361, end = 2456413
+Lycaena_phlaeas,HG995173.1,2494590,2494677,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+6
+8
+Lycaena_phlaeas,HG995173.1,2493152,2493336,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,4,56,56
+
+Lycaena_phlaeas,HG995173.1,2494590,2494677,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set28_frame1, 0.476
+5 top scores:
+[['set28_frame1', 0.476], ['set16_frame2', 1.557], ['set26_frame1', 1.745], ['set23_frame0', 1.655], ['set29_frame0', 1.766]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Lycaena_phlaeas/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_28_frame1.fa.txt
+11 41
+set28_frame1
+DTSSESTHHHQYEKPMP--QQYVPVFALNA
+Original query = DTSSESPHHHQYEKPLPTAQQLVPVFALNAI
+New query = DTSSESTHHHQYEKPMP--QQYVPVFALNA
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = HG995173.1, start = 2456361, end = 2456413
+Lycaena_phlaeas,HG995173.1,2488258,2488375,0,N,Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+1
+4
+Lycaena_phlaeas,HG995173.1,2456361,2456413,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Lycaena_phlaeas,HG995173.1,2491005,2491166,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,5,53,53
+
+Getting Gene
+min = set673_frame2, 0.761
+5 top scores:
+[['set673_frame2', 0.761], ['set692_frame2', 1.7], ['set393_frame2', 1.731], ['set23_frame0', 1.724], ['set652_frame2', 1.731]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Lycaena_phlaeas/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_673_frame2.fa.txt
+13 59
+Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2
+YSNEEFAR---EPLSFAPPSEDEAEYPPGY-KKGKVSRASHTEYAR
+13 59
+set673_frame2
+NSNDGFGRPASEQIHFAAPSEDEGEYPAGYLKKGKVSRASYTEYAR
+Original query = YSNEEFAREPLSFAPPSEDEAEYPPGYKKGKVSRASHTEYAR
+New query = NSNDGFGRPASEQIHFAAPSEDEGEYPAGYLKKGKVSRASYTEYAR
+Scaffold = HG995173.1, start = 2456361, end = 2456413
+Lycaena_phlaeas,HG995173.1,2489459,2489642,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Lycaena_phlaeas,HG995173.1,2456361,2456413,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Lycaena_phlaeas,HG995173.1,2492243,2492440,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+Getting Gene
+min = set692_frame2, 0.091
+5 top scores:
+[['set692_frame2', 0.091], ['set673_frame2', 1.774], ['set742_frame0', 1.788], ['set219_frame2', 1.797], ['set411_frame2', 1.799]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Lycaena_phlaeas/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_692_frame2.fa.txt
+6 67
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+6 67
+set692_frame2
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQERVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQERVN
+Scaffold = HG995173.1, start = 2456361, end = 2456413
+Lycaena_phlaeas,HG995173.1,2491005,2491166,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,5,53,53
+
+2
+6
+Lycaena_phlaeas,HG995173.1,2488258,2488375,0,N,Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+Lycaena_phlaeas,HG995173.1,2493152,2493336,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,4,56,56
+
+Getting Gene
+min = set51_frame1, 1.175
+5 top scores:
+[['set51_frame1', 1.175], ['set46_frame0', 1.799], ['set50_frame0', 1.767], ['set105_frame2', 1.813], ['set75_frame0', 1.796]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Lycaena_phlaeas/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_51_frame1.fa.txt
+55 113
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4
+LERGSE-------FLAGYQRAGAEAVRF-VELQ--GSRDGLADQLAAHLHSHADMMAK
+55 113
+set51_frame1
+LLTAAERQVAEEPYRVGYQEAVAEAVRFLVEVQGFGPGDGLCVQLASHLQRHCEIVTK
+Original query = LERGSEFLAGYQRAGAEAVRFVELQGSRDGLADQLAAHLHSHADMMAK
+New query = LLTAAERQVAEEPYRVGYQEAVAEAVRFLVEVQGFGPGDGLCVQLASHLQRHCEIVTK
+Scaffold = HG995173.1, start = 2456361, end = 2456413
+Lycaena_phlaeas,HG995173.1,2492243,2492440,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+3
+7
+Lycaena_phlaeas,HG995173.1,2489459,2489642,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Lycaena_phlaeas,HG995173.1,2493623,2493751,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7,1,43,43
+
+Getting Gene
+min = set58_frame2, 0.954
+5 top scores:
+[['set58_frame2', 0.954], ['set82_frame1', 1.752], ['set85_frame1', 1.759], ['set8_frame1', 1.817], ['set66_frame2', 1.83]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Lycaena_phlaeas/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_58_frame2.fa.txt
+14 73
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5
+HEKRVYPNSSSETTSSSSSSQGFAVK-VIQRPEPPPAF-PEPYEPDRQ---EHFADCER
+14 73
+set58_frame2
+EKPRSHLGSSSETASSSSSSHGYAMKGVIQRPEPPPAFSAEPYEPERQPELTYHMECDR
+Original query = AVHEKRVYPNSSSETTSSSSSSQGFAVKVIQRPEPPPAFPEPYEPDRQEHFADCER
+New query = EKPRSHLGSSSETASSSSSSHGYAMKGVIQRPEPPPAFSAEPYEPERQPELTYHMECDR
+Scaffold = HG995173.1, start = 2456361, end = 2456413
+Lycaena_phlaeas,HG995173.1,2493152,2493336,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,4,56,56
+
+4
+8
+Lycaena_phlaeas,HG995173.1,2491005,2491166,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,5,53,53
+
+Lycaena_phlaeas,HG995173.1,2494590,2494677,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set36_frame1, 0.666
+5 top scores:
+[['set51_frame1', 1.787], ['set25_frame2', 1.838], ['set68_frame0', 1.811], ['set28_frame1', 1.813], ['set36_frame1', 0.666]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Lycaena_phlaeas/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_36_frame1.fa.txt
+109 174
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6
+SVHQPAVMEPLEG----EPLPLDGRVKKEVTLRKIRKPEH-EDYLHSYKFKNSIERRFSRSQDSE
+109 174
+set36_frame1
+PVAVQQLIIPVESLPSDEPLPLDGRHKREPTLRKVRKPDHADDYLHSYKFKNSIERRFSRSQDSE
+Original query = SVHQPAVMEPLEGEPLPLDGRVKKEVTLRKIRKPEHEDYLHSYKFKNSIERRFSRSQDSE
+New query = PVAVQQLIIPVESLPSDEPLPLDGRHKREPTLRKVRKPDHADDYLHSYKFKNSIERRFSRSQDSE
+Scaffold = HG995173.1, start = 2456361, end = 2456413
+Lycaena_phlaeas,HG995173.1,2493623,2493751,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7,1,43,43
+
+5
+8
+Lycaena_phlaeas,HG995173.1,2492243,2492440,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+Lycaena_phlaeas,HG995173.1,2494590,2494677,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set31_frame0, 0.853
+5 top scores:
+[['set28_frame1', 1.64], ['set1_frame2', 1.704], ['set22_frame0', 1.764], ['set31_frame0', 0.853], ['set25_frame1', 1.774]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Lycaena_phlaeas/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_31_frame0.fa.txt
+0 45
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7
+GDAWSAGPTAKAYNHKRRRPTKPAPPSTSTSASGSTEEARDTSPQ
+0 45
+set31_frame0
+-VAENSTRNARAFT-KRRRATKPVPASASASTSGSTEDARDTSPQ
+Original query = GDAWSAGPTAKAYNHKRRRPTKPAPPSTSTSASGSTEEARDTSPQ
+New query = -VAENSTRNARAFT-KRRRATKPVPASASASTSGSTEDARDTSPQ
+Scaffold = HG995173.1, start = 2456361, end = 2456413
+Lycaena_phlaeas,HG995173.1,2494590,2494677,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+6
+8
+Lycaena_phlaeas,HG995173.1,2493152,2493336,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,4,56,56
+
+Lycaena_phlaeas,HG995173.1,2494590,2494677,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set28_frame1, 0.765
+5 top scores:
+[['set28_frame1', 0.765], ['set12_frame1', 1.701], ['set26_frame1', 1.701], ['set1_frame2', 1.738], ['set16_frame2', 1.763]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Lycaena_phlaeas/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_28_frame1.fa.txt
+11 40
+set28_frame1
+DTSSESTHHHQYEK-PMPQQYVPVFALNA
+Original query = DTCSDSPHHHSFDKPPPPAQYVPVFALNAL
+New query = DTSSESTHHHQYEK-PMPQQYVPVFALNA

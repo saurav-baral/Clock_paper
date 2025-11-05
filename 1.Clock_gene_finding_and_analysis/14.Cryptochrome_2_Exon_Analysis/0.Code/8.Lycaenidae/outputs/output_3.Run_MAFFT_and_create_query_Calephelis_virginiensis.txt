@@ -1,0 +1,465 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = NJDC01003184.1, start = 63603, end = 64009
+Calephelis_virginiensis,NJDC01003184.1,66870,67121,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+5
+Calephelis_virginiensis,NJDC01003184.1,63603,64009,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_1,23,86,86
+
+Calephelis_virginiensis,NJDC01003184.1,80448,80673,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set79_frame1, 0.139
+5 top scores:
+[['set79_frame1', 0.139], ['set299_frame1', 1.854], ['set300_frame1', 1.867], ['set290_frame1', 1.871], ['set172_frame2', 1.871]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_virginiensis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_79_frame1.fa.txt
+11 94
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDKNLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIQVTSRVSHTLYKLD
+11 94
+set79_frame1
+FLLQCLEDLDNSLRKLNSRLFVVRGQPADALPKLFREWGTTTLSFEEDPEPYGRVRDQNIMTKCREVGITVTTRVSHTLYKLD
+Original query = FLLQCLEDLDKNLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIQVTSRVSHTLYKLD
+New query = FLLQCLEDLDNSLRKLNSRLFVVRGQPADALPKLFREWGTTTLSFEEDPEPYGRVRDQNIMTKCREVGITVTTRVSHTLYKLD
+Scaffold = NJDC01003184.1, start = 63603, end = 64009
+Calephelis_virginiensis,NJDC01032306.1,589,773,0,Y,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Calephelis_virginiensis,NJDC01003184.1,63603,64009,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_1,23,86,86
+
+Calephelis_virginiensis,NJDC01003184.1,80448,80673,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set243_frame2, 1.738
+5 top scores:
+[['set243_frame2', 1.738], ['set128_frame1', 1.766], ['set300_frame1', 1.778], ['set290_frame1', 1.8], ['set98_frame2', 1.803]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_virginiensis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_243_frame2.fa.txt
+34 44
+set243_frame2
+FLEKIQANLP
+Original query = IIEKNGGKAPLTYHQFQALIASMPPPPSAEPTISLETLNRAVTPISDNHDERFGVPTLEEL
+New query = FLEKIQANLP
+Scaffold = NJDC01003184.1, start = 63603, end = 64009
+Calephelis_virginiensis,NJDC01003184.1,79215,79386,0,Y,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Calephelis_virginiensis,NJDC01003184.1,66870,67121,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Calephelis_virginiensis,NJDC01003184.1,82576,82716,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set209_frame2, 0.283
+5 top scores:
+[['set209_frame2', 0.283], ['set262_frame2', 1.783], ['set20_frame2', 1.815], ['set72_frame2', 1.817], ['set179_frame2', 1.819]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_virginiensis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_209_frame2.fa.txt
+7 63
+Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4
+FDTEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPESLLSSQTGLSPYL
+7 63
+set209_frame2
+FYTEGLKPPVWVGGESEALVRLERHLERKAWVATFGCPKMTPQSLLASKTGLSPYF
+Original query = FDTEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPESLLSSQTGLSPYL
+New query = FYTEGLKPPVWVGGESEALVRLERHLERKAWVATFGCPKMTPQSLLASKTGLSPYF
+Scaffold = NJDC01003184.1, start = 63603, end = 64009
+Calephelis_virginiensis,NJDC01003184.1,80448,80673,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+2
+7
+Calephelis_virginiensis,NJDC01003184.1,66870,67121,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Calephelis_virginiensis,NJDC01003184.1,84614,84765,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set222_frame1, 0.2
+5 top scores:
+[['set222_frame1', 0.2], ['set288_frame1', 1.824], ['set179_frame2', 1.837], ['set77_frame0', 1.839], ['set221_frame1', 1.842]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_virginiensis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_222_frame1.fa.txt
+31 106
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAN
+31 106
+set222_frame1
+FGCLSARLFYCQLTELYEKVKRARPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+Original query = FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAN
+New query = FGCLSARLFYCQLTELYEKVKRARPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+Scaffold = NJDC01003184.1, start = 63603, end = 64009
+Calephelis_virginiensis,NJDC01003184.1,82576,82716,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+3
+2
+8
+Calephelis_virginiensis,NJDC01003184.1,66870,67121,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Calephelis_virginiensis,NJDC01003184.1,86343,86545,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set275_frame1, 0.085
+5 top scores:
+[['set275_frame1', 0.085], ['set9_frame1', 1.768], ['set209_frame1', 1.768], ['set224_frame1', 1.796], ['set323_frame1', 1.808]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_virginiensis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_275_frame1.fa.txt
+0 47
+Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6
+GQTGFPWIDAIMIQLRNDGWIHHLARHAVACFLTRGDLWISWEEGMK
+0 47
+set275_frame1
+GETGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GQTGFPWIDAIMIQLRNDGWIHHLARHAVACFLTRGDLWISWEEGMK
+New query = GETGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = NJDC01003184.1, start = 63603, end = 64009
+Calephelis_virginiensis,NJDC01003184.1,84614,84765,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Calephelis_virginiensis,NJDC01003184.1,80448,80673,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Calephelis_virginiensis,NJDC01003184.1,86343,86545,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set103_frame2, 0.0
+5 top scores:
+[['set103_frame2', 0.0], ['set25_frame2', 1.795], ['set124_frame1', 1.82], ['set52_frame0', 1.837], ['set82_frame2', 1.847]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_virginiensis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_103_frame2.fa.txt
+0 50
+Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+0 50
+set103_frame2
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = NJDC01003184.1, start = 63603, end = 64009
+Calephelis_virginiensis,NJDC01003184.1,86343,86545,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Calephelis_virginiensis,NJDC01003184.1,82576,82716,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Calephelis_virginiensis,NJDC01003184.1,86343,86545,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set71_frame0, 0.419
+5 top scores:
+[['set1_frame0', 1.835], ['set14_frame0', 1.787], ['set71_frame0', 0.419], ['set73_frame2', 1.843], ['set48_frame1', 1.865]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_virginiensis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_71_frame0.fa.txt
+3 69
+set71_frame0
+KYIPVLKNMPTQYIHEPWVAPESVQQAAHCVVGQHYPLPMVDHAKASQINIERIKQVYTQLVKYRP
+Original query = KYIPVLKNMPTRYIHEPWVCPEEIQKSIRCIIGKDYPMPIVDHTKASEINLERIKQVYAQLAKFKPQ
+New query = KYIPVLKNMPTQYIHEPWVAPESVQQAAHCVVGQHYPLPMVDHAKASQINIERIKQVYTQLVKYRP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = NJDC01003184.1, start = 63603, end = 64009
+Calephelis_virginiensis,NJDC01003184.1,66870,67121,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+5
+Calephelis_virginiensis,NJDC01003184.1,63603,64009,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_1,23,86,86
+
+Calephelis_virginiensis,NJDC01003184.1,80448,80673,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set79_frame1, 0.146
+5 top scores:
+[['set79_frame1', 0.146], ['set299_frame1', 1.838], ['set108_frame0', 1.849], ['set273_frame2', 1.851], ['set125_frame2', 1.878]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_virginiensis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_79_frame1.fa.txt
+11 94
+Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDNSLKKLNSRLFVVRGQPADALPKLFREWGTTFLTFEEDPEPYGRVRDQNITTKCQEVGISVVSRVSHTLYKLD
+11 94
+set79_frame1
+FLLQCLEDLDNSLRKLNSRLFVVRGQPADALPKLFREWGTTTLSFEEDPEPYGRVRDQNIMTKCREVGITVTTRVSHTLYKLD
+Original query = FLLQCLEDLDNSLKKLNSRLFVVRGQPADALPKLFREWGTTFLTFEEDPEPYGRVRDQNITTKCQEVGISVVSRVSHTLYKLD
+New query = FLLQCLEDLDNSLRKLNSRLFVVRGQPADALPKLFREWGTTTLSFEEDPEPYGRVRDQNIMTKCREVGITVTTRVSHTLYKLD
+Scaffold = NJDC01003184.1, start = 63603, end = 64009
+Calephelis_virginiensis,NJDC01032306.1,589,773,0,Y,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Calephelis_virginiensis,NJDC01003184.1,63603,64009,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_1,23,86,86
+
+Calephelis_virginiensis,NJDC01003184.1,80448,80673,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set1_frame0, 1.749
+5 top scores:
+[['set1_frame0', 1.749], ['set290_frame1', 1.777], ['set98_frame2', 1.807], ['set243_frame2', 1.811], ['set139_frame2', 1.828]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_virginiensis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_1_frame0.fa.txt
+58 113
+Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3
+IIERNGGKAPLTYHQFQALIASMPPPPAAESTITKQTLNGAMTPILQDHDDRFGV
+58 113
+set1_frame0
+IIRNPPAKSPVT----------IPPPPK--------------TGVIRDPNEKHTV
+Original query = IIERNGGKAPLTYHQFQALIASMPPPPAAESTITKQTLNGAMTPILQDHDDRFGVPTLEEL
+New query = IIRNPPAKSPVT----------IPPPPK--------------TGVIRDPNEKHTV
+Scaffold = NJDC01003184.1, start = 63603, end = 64009
+Calephelis_virginiensis,NJDC01003184.1,79215,79386,0,Y,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Calephelis_virginiensis,NJDC01003184.1,66870,67121,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Calephelis_virginiensis,NJDC01003184.1,82576,82716,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set209_frame2, 0.274
+5 top scores:
+[['set209_frame2', 0.274], ['set72_frame2', 1.771], ['set262_frame2', 1.79], ['set104_frame2', 1.824], ['set291_frame2', 1.825]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_virginiensis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_209_frame2.fa.txt
+7 63
+Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4
+FDTENLKPPIWIGGENEALARLERHLERKAWVATFGRPKMTPQSLLASSTGLSPYL
+7 63
+set209_frame2
+FYTEGLKPPVWVGGESEALVRLERHLERKAWVATFGCPKMTPQSLLASKTGLSPYF
+Original query = FDTENLKPPIWIGGENEALARLERHLERKAWVATFGRPKMTPQSLLASSTGLSPYL
+New query = FYTEGLKPPVWVGGESEALVRLERHLERKAWVATFGCPKMTPQSLLASKTGLSPYF
+Scaffold = NJDC01003184.1, start = 63603, end = 64009
+Calephelis_virginiensis,NJDC01003184.1,80448,80673,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+2
+7
+Calephelis_virginiensis,NJDC01003184.1,66870,67121,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Calephelis_virginiensis,NJDC01003184.1,84614,84765,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set222_frame1, 0.128
+5 top scores:
+[['set222_frame1', 0.128], ['set179_frame2', 1.829], ['set221_frame1', 1.832], ['set288_frame1', 1.839], ['set20_frame2', 1.839]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_virginiensis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_222_frame1.fa.txt
+31 106
+Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYFQLTELYKRVKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+31 106
+set222_frame1
+FGCLSARLFYCQLTELYEKVKRARPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+Original query = FGCLSTRLFYFQLTELYKRVKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+New query = FGCLSARLFYCQLTELYEKVKRARPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+Scaffold = NJDC01003184.1, start = 63603, end = 64009
+Calephelis_virginiensis,NJDC01003184.1,82576,82716,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+3
+2
+8
+Calephelis_virginiensis,NJDC01003184.1,66870,67121,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Calephelis_virginiensis,NJDC01003184.1,86343,86545,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set275_frame1, 0.024
+5 top scores:
+[['set275_frame1', 0.024], ['set209_frame1', 1.751], ['set224_frame1', 1.796], ['set215_frame1', 1.801], ['set187_frame2', 1.802]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_virginiensis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_275_frame1.fa.txt
+0 47
+Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6
+GQTGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMK
+0 47
+set275_frame1
+GETGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GQTGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMK
+New query = GETGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = NJDC01003184.1, start = 63603, end = 64009
+Calephelis_virginiensis,NJDC01003184.1,84614,84765,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Calephelis_virginiensis,NJDC01003184.1,80448,80673,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Calephelis_virginiensis,NJDC01003184.1,86343,86545,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set103_frame2, 0.0
+5 top scores:
+[['set103_frame2', 0.0], ['set25_frame2', 1.795], ['set124_frame1', 1.82], ['set52_frame0', 1.837], ['set82_frame2', 1.847]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_virginiensis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_103_frame2.fa.txt
+0 50
+Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+0 50
+set103_frame2
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = NJDC01003184.1, start = 63603, end = 64009
+Calephelis_virginiensis,NJDC01003184.1,86343,86545,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Calephelis_virginiensis,NJDC01003184.1,82576,82716,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Calephelis_virginiensis,NJDC01003184.1,86343,86545,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set71_frame0, 0.315
+5 top scores:
+[['set73_frame2', 1.74], ['set14_frame0', 1.813], ['set71_frame0', 0.315], ['set4_frame2', 1.843], ['set48_frame1', 1.89]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_virginiensis/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_71_frame0.fa.txt
+3 69
+set71_frame0
+KYIPVLKNMPTQYIHEPWVAPESVQQAAHCVVGQHYPLPMVDHAKASQINIERIKQVYTQLVKYRP
+Original query = KYIPALKNMPAKYIHEPWVAPQPVQEAAQCIIGRDYPLPMVDHAKASKINIERIKQVYEQLAKYKPQ
+New query = KYIPVLKNMPTQYIHEPWVAPESVQQAAHCVVGQHYPLPMVDHAKASQINIERIKQVYTQLVKYRP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = NJDC01003184.1, start = 63603, end = 64009
+Calephelis_virginiensis,NJDC01003184.1,66870,67121,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+5
+Calephelis_virginiensis,NJDC01003184.1,63603,64009,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_1,23,86,86
+
+Calephelis_virginiensis,NJDC01003184.1,80448,80673,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set79_frame1, 0.111
+5 top scores:
+[['set79_frame1', 0.111], ['set299_frame1', 1.856], ['set243_frame2', 1.857], ['set136_frame0', 1.873], ['set172_frame2', 1.877]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_virginiensis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_79_frame1.fa.txt
+11 94
+Maniola_jurtina_XM_045904525.1_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDSSLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGISVTSRVSHTLYKLD
+11 94
+set79_frame1
+FLLQCLEDLDNSLRKLNSRLFVVRGQPADALPKLFREWGTTTLSFEEDPEPYGRVRDQNIMTKCREVGITVTTRVSHTLYKLD
+Original query = FLLQCLEDLDSSLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGISVTSRVSHTLYKLD
+New query = FLLQCLEDLDNSLRKLNSRLFVVRGQPADALPKLFREWGTTTLSFEEDPEPYGRVRDQNIMTKCREVGITVTTRVSHTLYKLD
+Scaffold = NJDC01003184.1, start = 63603, end = 64009
+Calephelis_virginiensis,NJDC01032306.1,589,773,0,Y,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Calephelis_virginiensis,NJDC01003184.1,63603,64009,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_1,23,86,86
+
+Calephelis_virginiensis,NJDC01003184.1,80448,80673,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set1_frame0, 1.75
+5 top scores:
+[['set1_frame0', 1.75], ['set243_frame2', 1.764], ['set98_frame2', 1.807], ['set233_frame2', 1.832], ['set111_frame0', 1.829]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_virginiensis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_1_frame0.fa.txt
+19 91
+Maniola_jurtina_XM_045904525.1_Frame_1_rightoh_1_query_Exon_3
+IERNGGKAPLTYHQFQ------ALIASMPPP------------PPAEASITVQTLNGAVTPIADDHDDRFGV
+19 91
+set1_frame0
+VARNSARNPAPRSSTQRNPSPKIAAPKNPPPRNLASRNPIIRNPPAKSPVTIPP--PPKTGVIRDPNEKHTV
+Original query = IIERNGGKAPLTYHQFQALIASMPPPPPAEASITVQTLNGAVTPIADDHDDRFGVPSLEEL
+New query = VARNSARNPAPRSSTQRNPSPKIAAPKNPPPRNLASRNPIIRNPPAKSPVTIPP--PPKTGVIRDPNEKHTV
+Scaffold = NJDC01003184.1, start = 63603, end = 64009
+Calephelis_virginiensis,NJDC01003184.1,79215,79386,0,Y,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Calephelis_virginiensis,NJDC01003184.1,66870,67121,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Calephelis_virginiensis,NJDC01003184.1,82576,82716,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set209_frame2, 0.257
+5 top scores:
+[['set209_frame2', 0.257], ['set262_frame2', 1.781], ['set20_frame2', 1.808], ['set179_frame2', 1.819], ['set283_frame2', 1.834]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_virginiensis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_209_frame2.fa.txt
+7 63
+Maniola_jurtina_XM_045904525.1_Frame_2_rightoh_2_query_Exon_4
+FETEGLKPPIWVGGENEGLLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+7 63
+set209_frame2
+FYTEGLKPPVWVGGESEALVRLERHLERKAWVATFGCPKMTPQSLLASKTGLSPYF
+Original query = FETEGLKPPIWVGGENEGLLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+New query = FYTEGLKPPVWVGGESEALVRLERHLERKAWVATFGCPKMTPQSLLASKTGLSPYF
+Scaffold = NJDC01003184.1, start = 63603, end = 64009
+Calephelis_virginiensis,NJDC01003184.1,80448,80673,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+2
+7
+Calephelis_virginiensis,NJDC01003184.1,66870,67121,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Calephelis_virginiensis,NJDC01003184.1,84614,84765,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set222_frame1, 0.173
+5 top scores:
+[['set222_frame1', 0.173], ['set29_frame0', 1.815], ['set179_frame2', 1.82], ['set20_frame2', 1.839], ['set288_frame1', 1.848]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_virginiensis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_222_frame1.fa.txt
+31 106
+Maniola_jurtina_XM_045904525.1_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLTELYKRVKQVRPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQDALAKWAS
+31 106
+set222_frame1
+FGCLSARLFYCQLTELYEKVKRARPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+Original query = FGCLSTRLFYYQLTELYKRVKQVRPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQDALAKWAS
+New query = FGCLSARLFYCQLTELYEKVKRARPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+Scaffold = NJDC01003184.1, start = 63603, end = 64009
+Calephelis_virginiensis,NJDC01003184.1,82576,82716,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+3
+2
+8
+Calephelis_virginiensis,NJDC01003184.1,66870,67121,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Calephelis_virginiensis,NJDC01003184.1,86343,86545,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set275_frame1, 0.053
+5 top scores:
+[['set275_frame1', 0.053], ['set209_frame1', 1.751], ['set224_frame1', 1.767], ['set323_frame1', 1.795], ['set209_frame2', 1.796]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_virginiensis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_275_frame1.fa.txt
+0 47
+Maniola_jurtina_XM_045904525.1_Frame_0_rightoh_0_query_Exon_6
+GKTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+0 47
+set275_frame1
+GETGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GKTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+New query = GETGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = NJDC01003184.1, start = 63603, end = 64009
+Calephelis_virginiensis,NJDC01003184.1,84614,84765,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Calephelis_virginiensis,NJDC01003184.1,80448,80673,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Calephelis_virginiensis,NJDC01003184.1,86343,86545,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set103_frame2, 0.0
+5 top scores:
+[['set103_frame2', 0.0], ['set25_frame2', 1.795], ['set124_frame1', 1.82], ['set52_frame0', 1.837], ['set82_frame2', 1.847]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_virginiensis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_103_frame2.fa.txt
+0 50
+Maniola_jurtina_XM_045904525.1_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+0 50
+set103_frame2
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = NJDC01003184.1, start = 63603, end = 64009
+Calephelis_virginiensis,NJDC01003184.1,86343,86545,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Calephelis_virginiensis,NJDC01003184.1,82576,82716,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Calephelis_virginiensis,NJDC01003184.1,86343,86545,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set71_frame0, 0.46
+5 top scores:
+[['set73_frame2', 1.815], ['set14_frame0', 1.828], ['set71_frame0', 0.46], ['set27_frame1', 1.857], ['set48_frame1', 1.86]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Calephelis_virginiensis/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_71_frame0.fa.txt
+3 69
+set71_frame0
+KYIPVLKNMPTQYIHEPWVAPESVQQAAHCVVGQHYPLPMVDHAKASQINIERIKQVYTQLVKYRP
+Original query = KYIPALKNMPTRYIHEPWQAPAAVQEAARCLVGRDYPMPIVDHHKASQTNIERIKQVYAQLAKFKPP
+New query = KYIPVLKNMPTQYIHEPWVAPESVQQAAHCVVGQHYPLPMVDHAKASQINIERIKQVYTQLVKYRP

@@ -1,0 +1,629 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Hipparchia_semele
+Processing Exon_2
+0 query coordinate
+Period_gene_genomic_sequence_individual_exon
+48
+[[2, 1]]
+reached here
+Before splice: 3371,3517
+after splice: 3371,3517
+sequence:
+ACGAAAGTGGTGGGCTACAACCGCATGCGCTACCTGCTGGAAGCTCTGGACGACCTGGACAGCCAGTTCAAGAAGTACGGCGGCAGGCTCCATATGATCAAAGGCAAACCTGACGTTGTGTTCCGACGCCTGTGGGAGGAGTTTG
+sequence:
+TKVVGYNRMRYLLEALDDLDSQFKKYGGRLHMIKGKPDVVFRRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALDDLDSQFKKYGGRLHMIKGKPDVVFRRLWEEF
+[[2, 1]]
+start_coordinate : 2294976,stop_coordinate : 2294833
+3371 3517 Y N
+Hipparchia_semele,,2294832,2294978,1,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Hipparchia_semele
+Processing Exon_3
+Hipparchia_semele_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 4055,4242
+after splice: 4055,4242
+sequence:
+ATCCGCAAGATTTGCTTCGAGCAGGACTGCGAGCCGATATGGCGCGCTAGGGACGAGTGTGTCAAGAACCTCTGCCGCGAGATAGGGGTGAAGTGTCTCGAGAACGTCTCTCACACGCTGTGGGAGCCTGACGTCATCATCCGCGCCAACGGGGGCATCCCCCCGCTCACGTACCAGATGTTTCTG
+sequence:
+IRKICFEQDCEPIWRARDECVKNLCREIGVKCLENVSHTLWEPDVIIRANGGIPPLTYQMFL
+left = ag, right =GT, stop_counter = 0
+IRKICFEQDCEPIWRARDECVKNLCREIGVKCLENVSHTLWEPDVIIRANGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 2294292,stop_coordinate : 2294107
+4055 4242 Y N
+Hipparchia_semele,,2294107,2294294,1,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Hipparchia_semele
+Processing Exon_4
+Hipparchia_semele_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 5056,5172
+after splice: 5056,5172
+sequence:
+CACACCGTGGATATAATCGGCAACCCGCCGCGACCCGTCGACACCGCGGACTTGATGGGAGTCAACTTTGTGTCGCTTCCTGATAGCTTCTATAAGGAGTTTACCGTGTACGATAAG
+sequence:
+HTVDIIGNPPRPVDTADLMGVNFVSLPDSFYKEFTVYDK
+left = AG, right =GT, stop_counter = 0
+HTVDIIGNPPRPVDTADLMGVNFVSLPDSFYKEFTVYDK
+[[0, 0]]
+start_coordinate : 2293293,stop_coordinate : 2293177
+5056 5172 Y N
+Hipparchia_semele,,2293177,2293293,1,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Hipparchia_semele
+Processing Exon_5
+Hipparchia_semele_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+43
+[[0, 2]]
+reached here
+Before splice: 5855,5985
+after splice: 5855,5985
+sequence:
+GCCCCGAAACCCGAGGACTTCGGAATTTTTCTGGAAAACGAGGACATCCGGATGATCCGCTGGGTGGGCGGCGAGACTGCCGCGCTGGGGCAGATGCAGAGCCGCCTCGCCGTCGAGTATGAGACGTTCTG
+sequence:
+APKPEDFGIFLENEDIRMIRWVGGETAALGQMQSRLAVEYETF
+left = AG, right =Ca, stop_counter = 0
+sequence:
+GCCCCGAAACCCGAGGACTTCGGAATTTTTCTGGAAAACGAGGACATCCGGATGATCCGCTGGGTGGGCGGCGAGACTGCCGCGCTGGGGCAGATGCAGAGCCGCCTCGCCGTCGAGTATGAGACGTTCTGCag
+sequence:
+APKPEDFGIFLENEDIRMIRWVGGETAALGQMQSRLAVEYETFC
+left = AG, right =gt, stop_counter = 0
+APKPEDFGIFLENEDIRMIRWVGGETAALGQMQSRLAVEYETFC
+[[0, 2]]
+start_coordinate : 2292494,stop_coordinate : 2292363
+5855 5988 Y N
+Hipparchia_semele,,2292361,2292494,1,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Hipparchia_semele
+Processing Exon_6
+Hipparchia_semele_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 6662,6757
+after splice: 6662,6757
+sequence:
+GGCTCGTACCTGCCAACGCACGGTAACCCGGATCTCCTCAGCCGGCCGATATCGCTAAGCCCTGCACTGCGCTTCGGCTGCTTGTCTGTGCGAcg
+sequence:
+GSYLPTHGNPDLLSRPISLSPALRFGCLSVR
+left = ag, right =gt, stop_counter = 0
+GSYLPTHGNPDLLSRPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 2291686,stop_coordinate : 2291594
+6662 6757 Y N
+Hipparchia_semele,,2291592,2291687,1,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Hipparchia_semele
+Processing Exon_7
+Hipparchia_semele_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 7498,7571
+after splice: 7498,7571
+sequence:
+TTCTACTGGTGCCTGCAAGACTTGTTTCAACAAGTGCATCAGGGACGTGTCGCCTCCAGTCAGTTTATTACTG
+sequence:
+FYWCLQDLFQQVHQGRVASSQFIT
+left = ag, right =GT, stop_counter = 0
+FYWCLQDLFQQVHQGRVASSQFIT
+[[1, 1]]
+start_coordinate : 2290850,stop_coordinate : 2290779
+7498 7571 Y N
+Hipparchia_semele,,2290778,2290851,1,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Hipparchia_semele
+Processing Exon_8
+Hipparchia_semele_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 8052,8178
+after splice: 8052,8178
+sequence:
+CAGCTGATCTGGCGCGAGTACTTCTACACGATGAGCGTGAACAACCCTCGGTACGCGCAGATGGCCGGCAACCCCATCTGCTTGGACATCCCGTGGAAGGAACCAGAAGGAGACGAGTTGGAAAG
+sequence:
+QLIWREYFYTMSVNNPRYAQMAGNPICLDIPWKEPEGDELE
+left = AG, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPRYAQMAGNPICLDIPWKEPEGDELE
+[[2, 2]]
+start_coordinate : 2290295,stop_coordinate : 2290173
+8052 8178 Y N
+Hipparchia_semele,,2290171,2290297,1,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Hipparchia_semele
+Processing Exon_9
+Hipparchia_semele_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 9204,9386
+after splice: 9204,9386
+sequence:
+TGGAAGGAGGGTCTGACGGGGTTCCCGTTCGTGGACGCGGCGATGCGCCAGCTGCGCACGGAGGGCTGGCTGCACCACGCCGTGCGCAACACGGTCGCGTCGTTCCTCACGCGCGGCACGCTGTGGCTGTCCTGGGAGCACGGCCTGCAGCACTTCCTCAAGTACTTGCTCGATGCCGACTG
+sequence:
+WKEGLTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WKEGLTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 2289144,stop_coordinate : 2288965
+9204 9386 Y N
+Hipparchia_semele,,2288963,2289145,1,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Hipparchia_semele
+Processing Exon_10
+Hipparchia_semele_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 10679,10846
+after splice: 10679,10846
+sequence:
+TCAGTGTGCGCGGGCAACTGGATGTGGGTGTCGTCCAGCGCGTTCGAGGCGCTGCTGGACTCGAGCGAGTGCGTGTGCCCGGTGCGCCTCGGCCGCCGCCTCGAGCCCTCGGGCCACTACGTGCGCAGATACGTGCCCGAGCTGGCCAAGATGCCCGTCGAATACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSSECVCPVRLGRRLEPSGHYVRRYVPELAKMPVEY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSSECVCPVRLGRRLEPSGHYVRRYVPELAKMPVEY
+[[1, 2]]
+start_coordinate : 2287669,stop_coordinate : 2287505
+10679 10846 Y N
+Hipparchia_semele,,2287503,2287670,1,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Hipparchia_semele
+Processing Exon_11
+Hipparchia_semele_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 11304,11424
+after splice: 11304,11424
+sequence:
+TACGAGCCGTGGCGCGCGCCGCTGGACGTGCAGCAGAAGGCGGACTGCGTCATCGGCCGCGACTACCCCGCGCCCGTGGTCGACCACCGCGCCGCCGCGCACCGCAACCGCAGCGCCATG
+sequence:
+YEPWRAPLDVQQKADCVIGRDYPAPVVDHRAAAHRNRSAM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACGAGCCGTGGCGCGCGCCGCTGGACGTGCAGCAGAAGGCGGACTGCGTCATCGGCCGCGACTACCCCGCGCCCGTGGTCGACCACCGCGCCGCCGCGCACCGCAACCGCAGCGCCATGCAG
+sequence:
+YEPWRAPLDVQQKADCVIGRDYPAPVVDHRAAAHRNRSAMQ
+left = AG, right =GT, stop_counter = 0
+YEPWRAPLDVQQKADCVIGRDYPAPVVDHRAAAHRNRSAMQ
+[[1, 0]]
+start_coordinate : 2287044,stop_coordinate : 2286922
+11304 11427 Y N
+Hipparchia_semele,,2286922,2287045,1,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Hipparchia_semele
+Processing Exon_2
+0 query coordinate
+Hipparchia_semele_coordinates_Bicyclus_anynana.csv
+48
+[[2, 1]]
+reached here
+Before splice: 3371,3517
+after splice: 3371,3517
+sequence:
+ACGAAAGTGGTGGGCTACAACCGCATGCGCTACCTGCTGGAAGCTCTGGACGACCTGGACAGCCAGTTCAAGAAGTACGGCGGCAGGCTCCATATGATCAAAGGCAAACCTGACGTTGTGTTCCGACGCCTGTGGGAGGAGTTTG
+sequence:
+TKVVGYNRMRYLLEALDDLDSQFKKYGGRLHMIKGKPDVVFRRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALDDLDSQFKKYGGRLHMIKGKPDVVFRRLWEEF
+[[2, 1]]
+start_coordinate : 2294976,stop_coordinate : 2294833
+3371 3517 Y N
+Hipparchia_semele,,2294832,2294978,1,N,Maniola_jurtina_XM_045915831.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Hipparchia_semele
+Processing Exon_3
+Hipparchia_semele_coordinates_Maniola_jurtina.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 4055,4242
+after splice: 4055,4242
+sequence:
+ATCCGCAAGATTTGCTTCGAGCAGGACTGCGAGCCGATATGGCGCGCTAGGGACGAGTGTGTCAAGAACCTCTGCCGCGAGATAGGGGTGAAGTGTCTCGAGAACGTCTCTCACACGCTGTGGGAGCCTGACGTCATCATCCGCGCCAACGGGGGCATCCCCCCGCTCACGTACCAGATGTTTCTG
+sequence:
+IRKICFEQDCEPIWRARDECVKNLCREIGVKCLENVSHTLWEPDVIIRANGGIPPLTYQMFL
+left = ag, right =GT, stop_counter = 0
+IRKICFEQDCEPIWRARDECVKNLCREIGVKCLENVSHTLWEPDVIIRANGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 2294292,stop_coordinate : 2294107
+4055 4242 Y N
+Hipparchia_semele,,2294107,2294294,1,N,Maniola_jurtina_XM_045915831.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Hipparchia_semele
+Processing Exon_4
+Hipparchia_semele_coordinates_Maniola_jurtina.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 5056,5172
+after splice: 5056,5172
+sequence:
+CACACCGTGGATATAATCGGCAACCCGCCGCGACCCGTCGACACCGCGGACTTGATGGGAGTCAACTTTGTGTCGCTTCCTGATAGCTTCTATAAGGAGTTTACCGTGTACGATAAG
+sequence:
+HTVDIIGNPPRPVDTADLMGVNFVSLPDSFYKEFTVYDK
+left = AG, right =GT, stop_counter = 0
+HTVDIIGNPPRPVDTADLMGVNFVSLPDSFYKEFTVYDK
+[[0, 0]]
+start_coordinate : 2293293,stop_coordinate : 2293177
+5056 5172 Y N
+Hipparchia_semele,,2293177,2293293,1,N,Maniola_jurtina_XM_045915831.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Hipparchia_semele
+Processing Exon_5
+Hipparchia_semele_coordinates_Maniola_jurtina.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 5855,5988
+after splice: 5855,5988
+sequence:
+GCCCCGAAACCCGAGGACTTCGGAATTTTTCTGGAAAACGAGGACATCCGGATGATCCGCTGGGTGGGCGGCGAGACTGCCGCGCTGGGGCAGATGCAGAGCCGCCTCGCCGTCGAGTATGAGACGTTCTGCag
+sequence:
+APKPEDFGIFLENEDIRMIRWVGGETAALGQMQSRLAVEYETFC
+left = AG, right =gt, stop_counter = 0
+APKPEDFGIFLENEDIRMIRWVGGETAALGQMQSRLAVEYETFC
+[[0, 2]]
+start_coordinate : 2292494,stop_coordinate : 2292363
+5855 5988 Y N
+Hipparchia_semele,,2292361,2292494,1,N,Maniola_jurtina_XM_045915831.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Hipparchia_semele
+Processing Exon_6
+Hipparchia_semele_coordinates_Maniola_jurtina.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 6662,6757
+after splice: 6662,6757
+sequence:
+GGCTCGTACCTGCCAACGCACGGTAACCCGGATCTCCTCAGCCGGCCGATATCGCTAAGCCCTGCACTGCGCTTCGGCTGCTTGTCTGTGCGAcg
+sequence:
+GSYLPTHGNPDLLSRPISLSPALRFGCLSVR
+left = ag, right =gt, stop_counter = 0
+GSYLPTHGNPDLLSRPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 2291686,stop_coordinate : 2291594
+6662 6757 Y N
+Hipparchia_semele,,2291592,2291687,1,N,Maniola_jurtina_XM_045915831.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Hipparchia_semele
+Processing Exon_7
+Hipparchia_semele_coordinates_Maniola_jurtina.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 7498,7571
+after splice: 7498,7571
+sequence:
+TTCTACTGGTGCCTGCAAGACTTGTTTCAACAAGTGCATCAGGGACGTGTCGCCTCCAGTCAGTTTATTACTG
+sequence:
+FYWCLQDLFQQVHQGRVASSQFIT
+left = ag, right =GT, stop_counter = 0
+FYWCLQDLFQQVHQGRVASSQFIT
+[[1, 1]]
+start_coordinate : 2290850,stop_coordinate : 2290779
+7498 7571 Y N
+Hipparchia_semele,,2290778,2290851,1,N,Maniola_jurtina_XM_045915831.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Hipparchia_semele
+Processing Exon_8
+Hipparchia_semele_coordinates_Maniola_jurtina.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 8052,8178
+after splice: 8052,8178
+sequence:
+CAGCTGATCTGGCGCGAGTACTTCTACACGATGAGCGTGAACAACCCTCGGTACGCGCAGATGGCCGGCAACCCCATCTGCTTGGACATCCCGTGGAAGGAACCAGAAGGAGACGAGTTGGAAAG
+sequence:
+QLIWREYFYTMSVNNPRYAQMAGNPICLDIPWKEPEGDELE
+left = AG, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPRYAQMAGNPICLDIPWKEPEGDELE
+[[2, 2]]
+start_coordinate : 2290295,stop_coordinate : 2290173
+8052 8178 Y N
+Hipparchia_semele,,2290171,2290297,1,N,Maniola_jurtina_XM_045915831.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Hipparchia_semele
+Processing Exon_9
+Hipparchia_semele_coordinates_Maniola_jurtina.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 9204,9386
+after splice: 9204,9386
+sequence:
+TGGAAGGAGGGTCTGACGGGGTTCCCGTTCGTGGACGCGGCGATGCGCCAGCTGCGCACGGAGGGCTGGCTGCACCACGCCGTGCGCAACACGGTCGCGTCGTTCCTCACGCGCGGCACGCTGTGGCTGTCCTGGGAGCACGGCCTGCAGCACTTCCTCAAGTACTTGCTCGATGCCGACTG
+sequence:
+WKEGLTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WKEGLTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 2289144,stop_coordinate : 2288965
+9204 9386 Y N
+Hipparchia_semele,,2288963,2289145,1,N,Maniola_jurtina_XM_045915831.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Hipparchia_semele
+Processing Exon_10
+Hipparchia_semele_coordinates_Maniola_jurtina.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 10679,10846
+after splice: 10679,10846
+sequence:
+TCAGTGTGCGCGGGCAACTGGATGTGGGTGTCGTCCAGCGCGTTCGAGGCGCTGCTGGACTCGAGCGAGTGCGTGTGCCCGGTGCGCCTCGGCCGCCGCCTCGAGCCCTCGGGCCACTACGTGCGCAGATACGTGCCCGAGCTGGCCAAGATGCCCGTCGAATACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSSECVCPVRLGRRLEPSGHYVRRYVPELAKMPVEY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSSECVCPVRLGRRLEPSGHYVRRYVPELAKMPVEY
+[[1, 2]]
+start_coordinate : 2287669,stop_coordinate : 2287505
+10679 10846 Y N
+Hipparchia_semele,,2287503,2287670,1,N,Maniola_jurtina_XM_045915831.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Hipparchia_semele
+Processing Exon_11
+Hipparchia_semele_coordinates_Maniola_jurtina.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 11304,11424
+after splice: 11304,11424
+sequence:
+TACGAGCCGTGGCGCGCGCCGCTGGACGTGCAGCAGAAGGCGGACTGCGTCATCGGCCGCGACTACCCCGCGCCCGTGGTCGACCACCGCGCCGCCGCGCACCGCAACCGCAGCGCCATG
+sequence:
+YEPWRAPLDVQQKADCVIGRDYPAPVVDHRAAAHRNRSAM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACGAGCCGTGGCGCGCGCCGCTGGACGTGCAGCAGAAGGCGGACTGCGTCATCGGCCGCGACTACCCCGCGCCCGTGGTCGACCACCGCGCCGCCGCGCACCGCAACCGCAGCGCCATGCAG
+sequence:
+YEPWRAPLDVQQKADCVIGRDYPAPVVDHRAAAHRNRSAMQ
+left = AG, right =GT, stop_counter = 0
+YEPWRAPLDVQQKADCVIGRDYPAPVVDHRAAAHRNRSAMQ
+[[1, 0]]
+start_coordinate : 2287044,stop_coordinate : 2286922
+11304 11427 Y N
+Hipparchia_semele,,2286922,2287045,1,N,Maniola_jurtina_XM_045915831.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Hipparchia_semele
+Processing Exon_2
+0 query coordinate
+Hipparchia_semele_coordinates_Maniola_jurtina.csv
+48
+[[2, 1]]
+reached here
+Before splice: 3371,3517
+after splice: 3371,3517
+sequence:
+ACGAAAGTGGTGGGCTACAACCGCATGCGCTACCTGCTGGAAGCTCTGGACGACCTGGACAGCCAGTTCAAGAAGTACGGCGGCAGGCTCCATATGATCAAAGGCAAACCTGACGTTGTGTTCCGACGCCTGTGGGAGGAGTTTG
+sequence:
+TKVVGYNRMRYLLEALDDLDSQFKKYGGRLHMIKGKPDVVFRRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALDDLDSQFKKYGGRLHMIKGKPDVVFRRLWEEF
+[[2, 1]]
+start_coordinate : 2294976,stop_coordinate : 2294833
+3371 3517 Y N
+Hipparchia_semele,,2294832,2294978,1,N,Pararge_aegeria_XM_039898346.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Hipparchia_semele
+Processing Exon_3
+Hipparchia_semele_coordinates_Pararge_aegeria.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 4055,4242
+after splice: 4055,4242
+sequence:
+ATCCGCAAGATTTGCTTCGAGCAGGACTGCGAGCCGATATGGCGCGCTAGGGACGAGTGTGTCAAGAACCTCTGCCGCGAGATAGGGGTGAAGTGTCTCGAGAACGTCTCTCACACGCTGTGGGAGCCTGACGTCATCATCCGCGCCAACGGGGGCATCCCCCCGCTCACGTACCAGATGTTTCTG
+sequence:
+IRKICFEQDCEPIWRARDECVKNLCREIGVKCLENVSHTLWEPDVIIRANGGIPPLTYQMFL
+left = ag, right =GT, stop_counter = 0
+IRKICFEQDCEPIWRARDECVKNLCREIGVKCLENVSHTLWEPDVIIRANGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 2294292,stop_coordinate : 2294107
+4055 4242 Y N
+Hipparchia_semele,,2294107,2294294,1,N,Pararge_aegeria_XM_039898346.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Hipparchia_semele
+Processing Exon_4
+Hipparchia_semele_coordinates_Pararge_aegeria.csv
+1 query coordinate
+38
+[[0, 0]]
+reached here
+Before splice: 5056,5169
+after splice: 5056,5169
+sequence:
+CACACCGTGGATATAATCGGCAACCCGCCGCGACCCGTCGACACCGCGGACTTGATGGGAGTCAACTTTGTGTCGCTTCCTGATAGCTTCTATAAGGAGTTTACCGTGTACGAT
+sequence:
+HTVDIIGNPPRPVDTADLMGVNFVSLPDSFYKEFTVYD
+left = AG, right =AA, stop_counter = 0
+sequence:
+CACACCGTGGATATAATCGGCAACCCGCCGCGACCCGTCGACACCGCGGACTTGATGGGAGTCAACTTTGTGTCGCTTCCTGATAGCTTCTATAAGGAGTTTACCGTGTACGATAAG
+sequence:
+HTVDIIGNPPRPVDTADLMGVNFVSLPDSFYKEFTVYDK
+left = AG, right =GT, stop_counter = 0
+HTVDIIGNPPRPVDTADLMGVNFVSLPDSFYKEFTVYDK
+[[0, 0]]
+start_coordinate : 2293293,stop_coordinate : 2293177
+5056 5172 Y N
+Hipparchia_semele,,2293177,2293293,1,N,Pararge_aegeria_XM_039898346.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Hipparchia_semele
+Processing Exon_5
+Hipparchia_semele_coordinates_Pararge_aegeria.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 5855,5988
+after splice: 5855,5988
+sequence:
+GCCCCGAAACCCGAGGACTTCGGAATTTTTCTGGAAAACGAGGACATCCGGATGATCCGCTGGGTGGGCGGCGAGACTGCCGCGCTGGGGCAGATGCAGAGCCGCCTCGCCGTCGAGTATGAGACGTTCTGCag
+sequence:
+APKPEDFGIFLENEDIRMIRWVGGETAALGQMQSRLAVEYETFC
+left = AG, right =gt, stop_counter = 0
+APKPEDFGIFLENEDIRMIRWVGGETAALGQMQSRLAVEYETFC
+[[0, 2]]
+start_coordinate : 2292494,stop_coordinate : 2292363
+5855 5988 Y N
+Hipparchia_semele,,2292361,2292494,1,N,Pararge_aegeria_XM_039898346.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Hipparchia_semele
+Processing Exon_6
+Hipparchia_semele_coordinates_Pararge_aegeria.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 6662,6757
+after splice: 6662,6757
+sequence:
+GGCTCGTACCTGCCAACGCACGGTAACCCGGATCTCCTCAGCCGGCCGATATCGCTAAGCCCTGCACTGCGCTTCGGCTGCTTGTCTGTGCGAcg
+sequence:
+GSYLPTHGNPDLLSRPISLSPALRFGCLSVR
+left = ag, right =gt, stop_counter = 0
+GSYLPTHGNPDLLSRPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 2291686,stop_coordinate : 2291594
+6662 6757 Y N
+Hipparchia_semele,,2291592,2291687,1,N,Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Hipparchia_semele
+Processing Exon_7
+Hipparchia_semele_coordinates_Pararge_aegeria.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 7498,7571
+after splice: 7498,7571
+sequence:
+TTCTACTGGTGCCTGCAAGACTTGTTTCAACAAGTGCATCAGGGACGTGTCGCCTCCAGTCAGTTTATTACTG
+sequence:
+FYWCLQDLFQQVHQGRVASSQFIT
+left = ag, right =GT, stop_counter = 0
+FYWCLQDLFQQVHQGRVASSQFIT
+[[1, 1]]
+start_coordinate : 2290850,stop_coordinate : 2290779
+7498 7571 Y N
+Hipparchia_semele,,2290778,2290851,1,N,Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Hipparchia_semele
+Processing Exon_8
+Hipparchia_semele_coordinates_Pararge_aegeria.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 8052,8178
+after splice: 8052,8178
+sequence:
+CAGCTGATCTGGCGCGAGTACTTCTACACGATGAGCGTGAACAACCCTCGGTACGCGCAGATGGCCGGCAACCCCATCTGCTTGGACATCCCGTGGAAGGAACCAGAAGGAGACGAGTTGGAAAG
+sequence:
+QLIWREYFYTMSVNNPRYAQMAGNPICLDIPWKEPEGDELE
+left = AG, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPRYAQMAGNPICLDIPWKEPEGDELE
+[[2, 2]]
+start_coordinate : 2290295,stop_coordinate : 2290173
+8052 8178 Y N
+Hipparchia_semele,,2290171,2290297,1,N,Pararge_aegeria_XM_039898346.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Hipparchia_semele
+Processing Exon_9
+Hipparchia_semele_coordinates_Pararge_aegeria.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 9204,9386
+after splice: 9204,9386
+sequence:
+TGGAAGGAGGGTCTGACGGGGTTCCCGTTCGTGGACGCGGCGATGCGCCAGCTGCGCACGGAGGGCTGGCTGCACCACGCCGTGCGCAACACGGTCGCGTCGTTCCTCACGCGCGGCACGCTGTGGCTGTCCTGGGAGCACGGCCTGCAGCACTTCCTCAAGTACTTGCTCGATGCCGACTG
+sequence:
+WKEGLTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WKEGLTGFPFVDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 2289144,stop_coordinate : 2288965
+9204 9386 Y N
+Hipparchia_semele,,2288963,2289145,1,N,Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Hipparchia_semele
+Processing Exon_10
+Hipparchia_semele_coordinates_Pararge_aegeria.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 10679,10846
+after splice: 10679,10846
+sequence:
+TCAGTGTGCGCGGGCAACTGGATGTGGGTGTCGTCCAGCGCGTTCGAGGCGCTGCTGGACTCGAGCGAGTGCGTGTGCCCGGTGCGCCTCGGCCGCCGCCTCGAGCCCTCGGGCCACTACGTGCGCAGATACGTGCCCGAGCTGGCCAAGATGCCCGTCGAATACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSSECVCPVRLGRRLEPSGHYVRRYVPELAKMPVEY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSSECVCPVRLGRRLEPSGHYVRRYVPELAKMPVEY
+[[1, 2]]
+start_coordinate : 2287669,stop_coordinate : 2287505
+10679 10846 Y N
+Hipparchia_semele,,2287503,2287670,1,N,Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Hipparchia_semele
+Processing Exon_11
+Hipparchia_semele_coordinates_Pararge_aegeria.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 11304,11424
+after splice: 11304,11424
+sequence:
+TACGAGCCGTGGCGCGCGCCGCTGGACGTGCAGCAGAAGGCGGACTGCGTCATCGGCCGCGACTACCCCGCGCCCGTGGTCGACCACCGCGCCGCCGCGCACCGCAACCGCAGCGCCATG
+sequence:
+YEPWRAPLDVQQKADCVIGRDYPAPVVDHRAAAHRNRSAM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACGAGCCGTGGCGCGCGCCGCTGGACGTGCAGCAGAAGGCGGACTGCGTCATCGGCCGCGACTACCCCGCGCCCGTGGTCGACCACCGCGCCGCCGCGCACCGCAACCGCAGCGCCATGCAG
+sequence:
+YEPWRAPLDVQQKADCVIGRDYPAPVVDHRAAAHRNRSAMQ
+left = AG, right =GT, stop_counter = 0
+YEPWRAPLDVQQKADCVIGRDYPAPVVDHRAAAHRNRSAMQ
+[[1, 0]]
+start_coordinate : 2287044,stop_coordinate : 2286922
+11304 11427 Y N
+Hipparchia_semele,,2286922,2287045,1,N,Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+

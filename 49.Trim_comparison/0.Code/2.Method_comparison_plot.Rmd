@@ -1,0 +1,30 @@
+---
+title: "Trim_plot"
+output: html_document
+date: "2025-03-12"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document.
+
+```{r}
+library(ggplot2)
+library(cowplot)
+
+setwd("G:/My Drive/Circadian Rhythm Genes Project/49.Trim_comparison")
+trim_table = read.table("trim_comparison_long.csv",sep = ",", header = T)
+
+plot = ggplot(data = trim_table, aes(x =  factor(Condition, levels = c("Untrimmed", "ClipKIT","Trimal")), y = Length, col = Condition)) + geom_boxplot () + coord_cartesian(ylim = c(10, 5000)) + geom_jitter(width = 0.07, alpha = 0.2)+
+  labs(title = "Trimming Methods Comparison",
+       x = "Trim Tools", y = "Alignment Length")  +
+  theme_cowplot(12)
+  
+pdf("Method Comparison Plot.pdf",width = 8, height = 5)
+plot
+dev.off()
+```

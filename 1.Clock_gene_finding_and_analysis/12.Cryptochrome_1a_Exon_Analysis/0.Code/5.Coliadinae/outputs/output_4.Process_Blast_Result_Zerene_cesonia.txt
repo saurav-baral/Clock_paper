@@ -1,0 +1,624 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Zerene_cesonia
+Processing Exon_2
+0 query coordinate
+Period_gene_genomic_sequence_individual_exon
+48
+[[2, 1]]
+reached here
+Before splice: 561,707
+after splice: 561,707
+sequence:
+ACAAAAGTGGTAGGGTACAACCGTATGCGCTATCTCTTGGAAGCACTAGATGACCTAGATCGTCAGTTCAGGCAGTATGGAGGGAGGCTTCTGATGATCAAAGGGAAACCTGCGGACGTGATTCGGAGATTGTGGGAGGAATTTG
+sequence:
+TKVVGYNRMRYLLEALDDLDRQFRQYGGRLLMIKGKPADVIRRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALDDLDRQFRQYGGRLLMIKGKPADVIRRLWEEF
+[[2, 1]]
+start_coordinate : 9047679,stop_coordinate : 9047536
+561 707 Y N
+Zerene_cesonia,,9047535,9047681,1,N,Colias_croceus_XM_045641425.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Zerene_cesonia
+Processing Exon_3
+Zerene_cesonia_coordinates_Colias_croceus.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 2081,2268
+after splice: 2081,2268
+sequence:
+ATAAGCAAGCTATGCTTCGAGCAAGACTGCGAGCCGATATGGCGTGCCCGGGACGAGAGCGTGCGCGCCGTGTGCCGCCAGATCGGCGTGCGGTGCCGCGAGCGGGTGTCGCACACGCTGTGGGACCCGGACACCATCGTGAGGGTCAACGGGGGGATACCGCCGCTCACCTATCAGATGTTCTTG
+sequence:
+ISKLCFEQDCEPIWRARDESVRAVCRQIGVRCRERVSHTLWDPDTIVRVNGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+ISKLCFEQDCEPIWRARDESVRAVCRQIGVRCRERVSHTLWDPDTIVRVNGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 9046159,stop_coordinate : 9045974
+2081 2268 Y N
+Zerene_cesonia,,9045974,9046161,1,N,Colias_croceus_XM_045641425.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Zerene_cesonia
+Processing Exon_4
+Zerene_cesonia_coordinates_Colias_croceus.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 2684,2800
+after splice: 2684,2800
+sequence:
+CATACTGTAGCTATAATTGGTGATCCGCCGCGACCCGTAGATGATGTGGACCTGCGCAAGGTCAACTTTGGAGTGTTGCCTGATTCATTTTACAAtgaatttgttgtttttgacaag
+sequence:
+HTVAIIGDPPRPVDDVDLRKVNFGVLPDSFYNEFVVFDK
+left = AG, right =gt, stop_counter = 0
+HTVAIIGDPPRPVDDVDLRKVNFGVLPDSFYNEFVVFDK
+[[0, 0]]
+start_coordinate : 9045558,stop_coordinate : 9045442
+2684 2800 Y N
+Zerene_cesonia,,9045442,9045558,1,N,Colias_croceus_XM_045641425.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Zerene_cesonia
+Processing Exon_5
+Zerene_cesonia_coordinates_Colias_croceus.csv
+1 query coordinate
+43
+[[0, 2]]
+reached here
+Before splice: 3131,3261
+after splice: 3131,3261
+sequence:
+ACTCCAAAACCAGAAGACCTGGGTGTGTTCCTGGAGAAGGAGGACATCCGTATGATCCGCTGGGTGGGAGGGGAGAGGGCGGCGCTGCAGCAGGCGGACCAGAGACTGGCGGTCGAACACGAGACCTTTTG
+sequence:
+TPKPEDLGVFLEKEDIRMIRWVGGERAALQQADQRLAVEHETF
+left = AG, right =CA, stop_counter = 0
+sequence:
+ACTCCAAAACCAGAAGACCTGGGTGTGTTCCTGGAGAAGGAGGACATCCGTATGATCCGCTGGGTGGGAGGGGAGAGGGCGGCGCTGCAGCAGGCGGACCAGAGACTGGCGGTCGAACACGAGACCTTTTGCAA
+sequence:
+TPKPEDLGVFLEKEDIRMIRWVGGERAALQQADQRLAVEHETFC
+left = AG, right =GT, stop_counter = 0
+TPKPEDLGVFLEKEDIRMIRWVGGERAALQQADQRLAVEHETFC
+[[0, 2]]
+start_coordinate : 9045111,stop_coordinate : 9044980
+3131 3264 Y N
+Zerene_cesonia,,9044978,9045111,1,N,Colias_croceus_XM_045641425.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Zerene_cesonia
+Processing Exon_6
+Zerene_cesonia_coordinates_Colias_croceus.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 3611,3706
+after splice: 3611,3706
+sequence:
+GGTTcatatctgccaacccacgGCAGTCCGGACTTGTTGGGACCTCCCATATCGCTGAGTCCAGCTTTGCGGTTTGGATGCTTATCGGTGAGGAG
+sequence:
+GSYLPTHGSPDLLGPPISLSPALRFGCLSVR
+left = AG, right =GT, stop_counter = 0
+GSYLPTHGSPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 9044630,stop_coordinate : 9044538
+3611 3706 Y N
+Zerene_cesonia,,9044536,9044631,1,N,Colias_croceus_XM_045641425.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Zerene_cesonia
+Processing Exon_7
+Zerene_cesonia_coordinates_Colias_croceus.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 3880,3953
+after splice: 3880,3953
+sequence:
+TTTTACTGGGCGGTACAAGATCTGTTTCAGAAAGTGCACCAGGGTCGTGTATCGTCAACTCATTTTATTACGG
+sequence:
+FYWAVQDLFQKVHQGRVSSTHFIT
+left = AG, right =GT, stop_counter = 0
+FYWAVQDLFQKVHQGRVSSTHFIT
+[[1, 1]]
+start_coordinate : 9044361,stop_coordinate : 9044290
+3880 3953 Y N
+Zerene_cesonia,,9044289,9044362,1,N,Colias_croceus_XM_045641425.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Zerene_cesonia
+Processing Exon_8
+Zerene_cesonia_coordinates_Colias_croceus.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 4069,4195
+after splice: 4069,4195
+sequence:
+CAGCTAATCTGGCGCGAATACTTCTACACGATGAGCGTGAACAACCCCCGCTACGGGCAGATGGAGGGCAACCCCATCTGCCTCGACATCCCCTGGAAGCAACCGCAGGGTGACCACCTCGAGAG
+sequence:
+QLIWREYFYTMSVNNPRYGQMEGNPICLDIPWKQPQGDHLE
+left = AG, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPRYGQMEGNPICLDIPWKQPQGDHLE
+[[2, 2]]
+start_coordinate : 9044171,stop_coordinate : 9044049
+4069 4195 Y N
+Zerene_cesonia,,9044047,9044173,1,N,Colias_croceus_XM_045641425.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Zerene_cesonia
+Processing Exon_9
+Zerene_cesonia_coordinates_Colias_croceus.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 4480,4662
+after splice: 4480,4662
+sequence:
+TGGAAAGAAGGTCGTACGGGATTTCCATTCGTGGACGCAGCCATGCGGCAGCTGCTGGCTGAGGGCTGGCTGCACCACGCGTTGCGTAACACCGTCGCGTCATTCCTCACGCGCGGCACTCTGTGGCTCTCTTGGGAGCACGGCTTGAAGCATTTCTTGAAGTATCTGCTGGACGCAGATTG
+sequence:
+WKEGRTGFPFVDAAMRQLLAEGWLHHALRNTVASFLTRGTLWLSWEHGLKHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WKEGRTGFPFVDAAMRQLLAEGWLHHALRNTVASFLTRGTLWLSWEHGLKHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 9043761,stop_coordinate : 9043582
+4480 4662 Y N
+Zerene_cesonia,,9043580,9043762,1,N,Colias_croceus_XM_045641425.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Zerene_cesonia
+Processing Exon_10
+Zerene_cesonia_coordinates_Colias_croceus.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 4920,5087
+after splice: 4920,5087
+sequence:
+TCGGTGTGCGCGGGCAACTGGATGTGGGTGTCGTCGAGCGCGTTCGAGGCGCTGCTGGACTCGGGCGAGTGCGCGTGCCCCGTGCGGCTCGGCCTGCGCCTCGAGCCCAGCGGCCGCTACGTGCGCCGCTACGTGCCCGAGCTGACGCACATGCCGGACGCCTACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGLRLEPSGRYVRRYVPELTHMPDAY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGLRLEPSGRYVRRYVPELTHMPDAY
+[[1, 2]]
+start_coordinate : 9043321,stop_coordinate : 9043157
+4920 5087 Y N
+Zerene_cesonia,,9043155,9043322,1,N,Colias_croceus_XM_045641425.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Zerene_cesonia
+Processing Exon_11
+Zerene_cesonia_coordinates_Colias_croceus.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 5466,5586
+after splice: 5466,5586
+sequence:
+TACGAGCCGTGGAAGGCCCCGCTGGAGGTGCAGCAGCGCGCGGGCTGCGTGATCGGGCGCGACTACCCGCCGCCCATCCTCGACCACCTCGGCGCCGCCGACAGGAACCGCGCCGCCATG
+sequence:
+YEPWKAPLEVQQRAGCVIGRDYPPPILDHLGAADRNRAAM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACGAGCCGTGGAAGGCCCCGCTGGAGGTGCAGCAGCGCGCGGGCTGCGTGATCGGGCGCGACTACCCGCCGCCCATCCTCGACCACCTCGGCGCCGCCGACAGGAACCGCGCCGCCATGCAG
+sequence:
+YEPWKAPLEVQQRAGCVIGRDYPPPILDHLGAADRNRAAMQ
+left = AG, right =GT, stop_counter = 0
+YEPWKAPLEVQQRAGCVIGRDYPPPILDHLGAADRNRAAMQ
+[[1, 0]]
+start_coordinate : 9042775,stop_coordinate : 9042653
+5466 5589 Y N
+Zerene_cesonia,,9042653,9042776,1,N,Colias_croceus_XM_045641425.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Zerene_cesonia
+Processing Exon_2
+0 query coordinate
+Zerene_cesonia_coordinates_Colias_croceus.csv
+48
+[[2, 1]]
+reached here
+Before splice: 561,707
+after splice: 561,707
+sequence:
+ACAAAAGTGGTAGGGTACAACCGTATGCGCTATCTCTTGGAAGCACTAGATGACCTAGATCGTCAGTTCAGGCAGTATGGAGGGAGGCTTCTGATGATCAAAGGGAAACCTGCGGACGTGATTCGGAGATTGTGGGAGGAATTTG
+sequence:
+TKVVGYNRMRYLLEALDDLDRQFRQYGGRLLMIKGKPADVIRRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALDDLDRQFRQYGGRLLMIKGKPADVIRRLWEEF
+[[2, 1]]
+start_coordinate : 9047679,stop_coordinate : 9047536
+561 707 Y N
+Zerene_cesonia,,9047535,9047681,1,N,Leptidea_sinapis_XM_050828385.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Zerene_cesonia
+Processing Exon_3
+Zerene_cesonia_coordinates_Leptidea_sinapis.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 2081,2268
+after splice: 2081,2268
+sequence:
+ATAAGCAAGCTATGCTTCGAGCAAGACTGCGAGCCGATATGGCGTGCCCGGGACGAGAGCGTGCGCGCCGTGTGCCGCCAGATCGGCGTGCGGTGCCGCGAGCGGGTGTCGCACACGCTGTGGGACCCGGACACCATCGTGAGGGTCAACGGGGGGATACCGCCGCTCACCTATCAGATGTTCTTG
+sequence:
+ISKLCFEQDCEPIWRARDESVRAVCRQIGVRCRERVSHTLWDPDTIVRVNGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+ISKLCFEQDCEPIWRARDESVRAVCRQIGVRCRERVSHTLWDPDTIVRVNGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 9046159,stop_coordinate : 9045974
+2081 2268 Y N
+Zerene_cesonia,,9045974,9046161,1,N,Leptidea_sinapis_XM_050828385.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Zerene_cesonia
+Processing Exon_4
+Zerene_cesonia_coordinates_Leptidea_sinapis.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 2684,2800
+after splice: 2684,2800
+sequence:
+CATACTGTAGCTATAATTGGTGATCCGCCGCGACCCGTAGATGATGTGGACCTGCGCAAGGTCAACTTTGGAGTGTTGCCTGATTCATTTTACAAtgaatttgttgtttttgacaag
+sequence:
+HTVAIIGDPPRPVDDVDLRKVNFGVLPDSFYNEFVVFDK
+left = AG, right =gt, stop_counter = 0
+HTVAIIGDPPRPVDDVDLRKVNFGVLPDSFYNEFVVFDK
+[[0, 0]]
+start_coordinate : 9045558,stop_coordinate : 9045442
+2684 2800 Y N
+Zerene_cesonia,,9045442,9045558,1,N,Leptidea_sinapis_XM_050828385.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Zerene_cesonia
+Processing Exon_5
+Zerene_cesonia_coordinates_Leptidea_sinapis.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 3131,3264
+after splice: 3131,3264
+sequence:
+ACTCCAAAACCAGAAGACCTGGGTGTGTTCCTGGAGAAGGAGGACATCCGTATGATCCGCTGGGTGGGAGGGGAGAGGGCGGCGCTGCAGCAGGCGGACCAGAGACTGGCGGTCGAACACGAGACCTTTTGCAA
+sequence:
+TPKPEDLGVFLEKEDIRMIRWVGGERAALQQADQRLAVEHETFC
+left = AG, right =GT, stop_counter = 0
+TPKPEDLGVFLEKEDIRMIRWVGGERAALQQADQRLAVEHETFC
+[[0, 2]]
+start_coordinate : 9045111,stop_coordinate : 9044980
+3131 3264 Y N
+Zerene_cesonia,,9044978,9045111,1,N,Leptidea_sinapis_XM_050828385.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Zerene_cesonia
+Processing Exon_6
+Zerene_cesonia_coordinates_Leptidea_sinapis.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 3611,3706
+after splice: 3611,3706
+sequence:
+GGTTcatatctgccaacccacgGCAGTCCGGACTTGTTGGGACCTCCCATATCGCTGAGTCCAGCTTTGCGGTTTGGATGCTTATCGGTGAGGAG
+sequence:
+GSYLPTHGSPDLLGPPISLSPALRFGCLSVR
+left = AG, right =GT, stop_counter = 0
+GSYLPTHGSPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 9044630,stop_coordinate : 9044538
+3611 3706 Y N
+Zerene_cesonia,,9044536,9044631,1,N,Leptidea_sinapis_XM_050828385.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Zerene_cesonia
+Processing Exon_7
+Zerene_cesonia_coordinates_Leptidea_sinapis.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 3880,3953
+after splice: 3880,3953
+sequence:
+TTTTACTGGGCGGTACAAGATCTGTTTCAGAAAGTGCACCAGGGTCGTGTATCGTCAACTCATTTTATTACGG
+sequence:
+FYWAVQDLFQKVHQGRVSSTHFIT
+left = AG, right =GT, stop_counter = 0
+FYWAVQDLFQKVHQGRVSSTHFIT
+[[1, 1]]
+start_coordinate : 9044361,stop_coordinate : 9044290
+3880 3953 Y N
+Zerene_cesonia,,9044289,9044362,1,N,Leptidea_sinapis_XM_050828385.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Zerene_cesonia
+Processing Exon_8
+Zerene_cesonia_coordinates_Leptidea_sinapis.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 4069,4195
+after splice: 4069,4195
+sequence:
+CAGCTAATCTGGCGCGAATACTTCTACACGATGAGCGTGAACAACCCCCGCTACGGGCAGATGGAGGGCAACCCCATCTGCCTCGACATCCCCTGGAAGCAACCGCAGGGTGACCACCTCGAGAG
+sequence:
+QLIWREYFYTMSVNNPRYGQMEGNPICLDIPWKQPQGDHLE
+left = AG, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPRYGQMEGNPICLDIPWKQPQGDHLE
+[[2, 2]]
+start_coordinate : 9044171,stop_coordinate : 9044049
+4069 4195 Y N
+Zerene_cesonia,,9044047,9044173,1,N,Leptidea_sinapis_XM_050828385.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Zerene_cesonia
+Processing Exon_9
+Zerene_cesonia_coordinates_Leptidea_sinapis.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 4480,4662
+after splice: 4480,4662
+sequence:
+TGGAAAGAAGGTCGTACGGGATTTCCATTCGTGGACGCAGCCATGCGGCAGCTGCTGGCTGAGGGCTGGCTGCACCACGCGTTGCGTAACACCGTCGCGTCATTCCTCACGCGCGGCACTCTGTGGCTCTCTTGGGAGCACGGCTTGAAGCATTTCTTGAAGTATCTGCTGGACGCAGATTG
+sequence:
+WKEGRTGFPFVDAAMRQLLAEGWLHHALRNTVASFLTRGTLWLSWEHGLKHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WKEGRTGFPFVDAAMRQLLAEGWLHHALRNTVASFLTRGTLWLSWEHGLKHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 9043761,stop_coordinate : 9043582
+4480 4662 Y N
+Zerene_cesonia,,9043580,9043762,1,N,Leptidea_sinapis_XM_050828385.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Zerene_cesonia
+Processing Exon_10
+Zerene_cesonia_coordinates_Leptidea_sinapis.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 4920,5087
+after splice: 4920,5087
+sequence:
+TCGGTGTGCGCGGGCAACTGGATGTGGGTGTCGTCGAGCGCGTTCGAGGCGCTGCTGGACTCGGGCGAGTGCGCGTGCCCCGTGCGGCTCGGCCTGCGCCTCGAGCCCAGCGGCCGCTACGTGCGCCGCTACGTGCCCGAGCTGACGCACATGCCGGACGCCTACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGLRLEPSGRYVRRYVPELTHMPDAY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGLRLEPSGRYVRRYVPELTHMPDAY
+[[1, 2]]
+start_coordinate : 9043321,stop_coordinate : 9043157
+4920 5087 Y N
+Zerene_cesonia,,9043155,9043322,1,N,Leptidea_sinapis_XM_050828385.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Zerene_cesonia
+Processing Exon_11
+Zerene_cesonia_coordinates_Leptidea_sinapis.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 5466,5586
+after splice: 5466,5586
+sequence:
+TACGAGCCGTGGAAGGCCCCGCTGGAGGTGCAGCAGCGCGCGGGCTGCGTGATCGGGCGCGACTACCCGCCGCCCATCCTCGACCACCTCGGCGCCGCCGACAGGAACCGCGCCGCCATG
+sequence:
+YEPWKAPLEVQQRAGCVIGRDYPPPILDHLGAADRNRAAM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACGAGCCGTGGAAGGCCCCGCTGGAGGTGCAGCAGCGCGCGGGCTGCGTGATCGGGCGCGACTACCCGCCGCCCATCCTCGACCACCTCGGCGCCGCCGACAGGAACCGCGCCGCCATGCAG
+sequence:
+YEPWKAPLEVQQRAGCVIGRDYPPPILDHLGAADRNRAAMQ
+left = AG, right =GT, stop_counter = 0
+YEPWKAPLEVQQRAGCVIGRDYPPPILDHLGAADRNRAAMQ
+[[1, 0]]
+start_coordinate : 9042775,stop_coordinate : 9042653
+5466 5589 Y N
+Zerene_cesonia,,9042653,9042776,1,N,Leptidea_sinapis_XM_050828385.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Zerene_cesonia
+Processing Exon_2
+0 query coordinate
+Zerene_cesonia_coordinates_Leptidea_sinapis.csv
+48
+[[2, 1]]
+reached here
+Before splice: 561,707
+after splice: 561,707
+sequence:
+ACAAAAGTGGTAGGGTACAACCGTATGCGCTATCTCTTGGAAGCACTAGATGACCTAGATCGTCAGTTCAGGCAGTATGGAGGGAGGCTTCTGATGATCAAAGGGAAACCTGCGGACGTGATTCGGAGATTGTGGGAGGAATTTG
+sequence:
+TKVVGYNRMRYLLEALDDLDRQFRQYGGRLLMIKGKPADVIRRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALDDLDRQFRQYGGRLLMIKGKPADVIRRLWEEF
+[[2, 1]]
+start_coordinate : 9047679,stop_coordinate : 9047536
+561 707 Y N
+Zerene_cesonia,,9047535,9047681,1,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Zerene_cesonia
+Processing Exon_3
+Zerene_cesonia_coordinates_Zerene_cesonia.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 2081,2268
+after splice: 2081,2268
+sequence:
+ATAAGCAAGCTATGCTTCGAGCAAGACTGCGAGCCGATATGGCGTGCCCGGGACGAGAGCGTGCGCGCCGTGTGCCGCCAGATCGGCGTGCGGTGCCGCGAGCGGGTGTCGCACACGCTGTGGGACCCGGACACCATCGTGAGGGTCAACGGGGGGATACCGCCGCTCACCTATCAGATGTTCTTG
+sequence:
+ISKLCFEQDCEPIWRARDESVRAVCRQIGVRCRERVSHTLWDPDTIVRVNGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+ISKLCFEQDCEPIWRARDESVRAVCRQIGVRCRERVSHTLWDPDTIVRVNGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 9046159,stop_coordinate : 9045974
+2081 2268 Y N
+Zerene_cesonia,,9045974,9046161,1,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Zerene_cesonia
+Processing Exon_4
+Zerene_cesonia_coordinates_Zerene_cesonia.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 2684,2800
+after splice: 2684,2800
+sequence:
+CATACTGTAGCTATAATTGGTGATCCGCCGCGACCCGTAGATGATGTGGACCTGCGCAAGGTCAACTTTGGAGTGTTGCCTGATTCATTTTACAAtgaatttgttgtttttgacaag
+sequence:
+HTVAIIGDPPRPVDDVDLRKVNFGVLPDSFYNEFVVFDK
+left = AG, right =gt, stop_counter = 0
+HTVAIIGDPPRPVDDVDLRKVNFGVLPDSFYNEFVVFDK
+[[0, 0]]
+start_coordinate : 9045558,stop_coordinate : 9045442
+2684 2800 Y N
+Zerene_cesonia,,9045442,9045558,1,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Zerene_cesonia
+Processing Exon_5
+Zerene_cesonia_coordinates_Zerene_cesonia.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 3131,3264
+after splice: 3131,3264
+sequence:
+ACTCCAAAACCAGAAGACCTGGGTGTGTTCCTGGAGAAGGAGGACATCCGTATGATCCGCTGGGTGGGAGGGGAGAGGGCGGCGCTGCAGCAGGCGGACCAGAGACTGGCGGTCGAACACGAGACCTTTTGCAA
+sequence:
+TPKPEDLGVFLEKEDIRMIRWVGGERAALQQADQRLAVEHETFC
+left = AG, right =GT, stop_counter = 0
+TPKPEDLGVFLEKEDIRMIRWVGGERAALQQADQRLAVEHETFC
+[[0, 2]]
+start_coordinate : 9045111,stop_coordinate : 9044980
+3131 3264 Y N
+Zerene_cesonia,,9044978,9045111,1,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Zerene_cesonia
+Processing Exon_6
+Zerene_cesonia_coordinates_Zerene_cesonia.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 3611,3706
+after splice: 3611,3706
+sequence:
+GGTTcatatctgccaacccacgGCAGTCCGGACTTGTTGGGACCTCCCATATCGCTGAGTCCAGCTTTGCGGTTTGGATGCTTATCGGTGAGGAG
+sequence:
+GSYLPTHGSPDLLGPPISLSPALRFGCLSVR
+left = AG, right =GT, stop_counter = 0
+GSYLPTHGSPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 9044630,stop_coordinate : 9044538
+3611 3706 Y N
+Zerene_cesonia,,9044536,9044631,1,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Zerene_cesonia
+Processing Exon_7
+Zerene_cesonia_coordinates_Zerene_cesonia.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 3880,3953
+after splice: 3880,3953
+sequence:
+TTTTACTGGGCGGTACAAGATCTGTTTCAGAAAGTGCACCAGGGTCGTGTATCGTCAACTCATTTTATTACGG
+sequence:
+FYWAVQDLFQKVHQGRVSSTHFIT
+left = AG, right =GT, stop_counter = 0
+FYWAVQDLFQKVHQGRVSSTHFIT
+[[1, 1]]
+start_coordinate : 9044361,stop_coordinate : 9044290
+3880 3953 Y N
+Zerene_cesonia,,9044289,9044362,1,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Zerene_cesonia
+Processing Exon_8
+Zerene_cesonia_coordinates_Zerene_cesonia.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 4069,4195
+after splice: 4069,4195
+sequence:
+CAGCTAATCTGGCGCGAATACTTCTACACGATGAGCGTGAACAACCCCCGCTACGGGCAGATGGAGGGCAACCCCATCTGCCTCGACATCCCCTGGAAGCAACCGCAGGGTGACCACCTCGAGAG
+sequence:
+QLIWREYFYTMSVNNPRYGQMEGNPICLDIPWKQPQGDHLE
+left = AG, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPRYGQMEGNPICLDIPWKQPQGDHLE
+[[2, 2]]
+start_coordinate : 9044171,stop_coordinate : 9044049
+4069 4195 Y N
+Zerene_cesonia,,9044047,9044173,1,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Zerene_cesonia
+Processing Exon_9
+Zerene_cesonia_coordinates_Zerene_cesonia.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 4480,4662
+after splice: 4480,4662
+sequence:
+TGGAAAGAAGGTCGTACGGGATTTCCATTCGTGGACGCAGCCATGCGGCAGCTGCTGGCTGAGGGCTGGCTGCACCACGCGTTGCGTAACACCGTCGCGTCATTCCTCACGCGCGGCACTCTGTGGCTCTCTTGGGAGCACGGCTTGAAGCATTTCTTGAAGTATCTGCTGGACGCAGATTG
+sequence:
+WKEGRTGFPFVDAAMRQLLAEGWLHHALRNTVASFLTRGTLWLSWEHGLKHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WKEGRTGFPFVDAAMRQLLAEGWLHHALRNTVASFLTRGTLWLSWEHGLKHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 9043761,stop_coordinate : 9043582
+4480 4662 Y N
+Zerene_cesonia,,9043580,9043762,1,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Zerene_cesonia
+Processing Exon_10
+Zerene_cesonia_coordinates_Zerene_cesonia.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 4920,5087
+after splice: 4920,5087
+sequence:
+TCGGTGTGCGCGGGCAACTGGATGTGGGTGTCGTCGAGCGCGTTCGAGGCGCTGCTGGACTCGGGCGAGTGCGCGTGCCCCGTGCGGCTCGGCCTGCGCCTCGAGCCCAGCGGCCGCTACGTGCGCCGCTACGTGCCCGAGCTGACGCACATGCCGGACGCCTACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGLRLEPSGRYVRRYVPELTHMPDAY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGLRLEPSGRYVRRYVPELTHMPDAY
+[[1, 2]]
+start_coordinate : 9043321,stop_coordinate : 9043157
+4920 5087 Y N
+Zerene_cesonia,,9043155,9043322,1,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Zerene_cesonia
+Processing Exon_11
+Zerene_cesonia_coordinates_Zerene_cesonia.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 5466,5586
+after splice: 5466,5586
+sequence:
+TACGAGCCGTGGAAGGCCCCGCTGGAGGTGCAGCAGCGCGCGGGCTGCGTGATCGGGCGCGACTACCCGCCGCCCATCCTCGACCACCTCGGCGCCGCCGACAGGAACCGCGCCGCCATG
+sequence:
+YEPWKAPLEVQQRAGCVIGRDYPPPILDHLGAADRNRAAM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACGAGCCGTGGAAGGCCCCGCTGGAGGTGCAGCAGCGCGCGGGCTGCGTGATCGGGCGCGACTACCCGCCGCCCATCCTCGACCACCTCGGCGCCGCCGACAGGAACCGCGCCGCCATGCAG
+sequence:
+YEPWKAPLEVQQRAGCVIGRDYPPPILDHLGAADRNRAAMQ
+left = AG, right =GT, stop_counter = 0
+YEPWKAPLEVQQRAGCVIGRDYPPPILDHLGAADRNRAAMQ
+[[1, 0]]
+start_coordinate : 9042775,stop_coordinate : 9042653
+5466 5589 Y N
+Zerene_cesonia,,9042653,9042776,1,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+

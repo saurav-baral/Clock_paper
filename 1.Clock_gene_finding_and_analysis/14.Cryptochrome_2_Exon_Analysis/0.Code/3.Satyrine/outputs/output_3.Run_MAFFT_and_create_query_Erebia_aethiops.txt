@@ -1,0 +1,459 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = OV281084.1, start = 20503656, end = 20504005
+Erebia_aethiops,OV281084.1,20503333,20503584,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Erebia_aethiops,OV281084.1,20503656,20504005,1,N,Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_2_query_Exon_1,1,115,115
+
+Erebia_aethiops,OV281084.1,20496361,20496532,1,N,Bicyclus_anynana_XM_024084404.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set8_frame2, 0.032
+5 top scores:
+[['set8_frame2', 0.032], ['set70_frame2', 1.842], ['set53_frame2', 1.862], ['set63_frame2', 1.873], ['set41_frame1', 1.888]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/3.Satyrine/1.Blast_result/Erebia_aethiops/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_8_frame2.fa.txt
+5 88
+Maniola_jurtina_XM_045904525.1_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDSSLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGISVTSRVSHTLYKLD
+5 88
+set8_frame2
+FLLQCLEDLDRSLKKINSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGISVTSRVSHTLYKLD
+Original query = FLLQCLEDLDSSLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGISVTSRVSHTLYKLD
+New query = FLLQCLEDLDRSLKKINSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGISVTSRVSHTLYKLD
+Scaffold = OV281084.1, start = 20503656, end = 20504005
+Erebia_aethiops,OV281084.1,20502967,20503151,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Erebia_aethiops,OV281084.1,20503656,20504005,1,N,Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_2_query_Exon_1,1,115,115
+
+Erebia_aethiops,OV281084.1,20495497,20495722,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set9_frame0, 0.111
+5 top scores:
+[['set59_frame1', 1.784], ['set9_frame0', 0.111], ['set53_frame2', 1.797], ['set111_frame2', 1.823], ['set156_frame2', 1.829]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/3.Satyrine/1.Blast_result/Erebia_aethiops/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_9_frame0.fa.txt
+22 83
+Maniola_jurtina_XM_045904525.1_Frame_1_rightoh_1_query_Exon_3
+IIERNGGKAPLTYHQFQALIASMPPPPPAEASITVQTLNGAVTPIADDHDDRFGVPSLEEL
+22 83
+set9_frame0
+IIERNGGKAPLTYHQFQALIASMPPPPPAEDAITVQTLNGAVTPISGDHDDRFGVPSLEEL
+Original query = IIERNGGKAPLTYHQFQALIASMPPPPPAEASITVQTLNGAVTPIADDHDDRFGVPSLEEL
+New query = IIERNGGKAPLTYHQFQALIASMPPPPPAEDAITVQTLNGAVTPISGDHDDRFGVPSLEEL
+Scaffold = OV281084.1, start = 20503656, end = 20504005
+Erebia_aethiops,OV281084.1,20496361,20496532,1,N,Bicyclus_anynana_XM_024084404.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Erebia_aethiops,OV281084.1,20503333,20503584,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Erebia_aethiops,OV281084.1,20494757,20494897,1,N,Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set149_frame1, 0.094
+5 top scores:
+[['set149_frame1', 0.094], ['set71_frame2', 1.786], ['set79_frame2', 1.794], ['set183_frame2', 1.827], ['set10_frame2', 1.839]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/3.Satyrine/1.Blast_result/Erebia_aethiops/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_149_frame1.fa.txt
+8 64
+Maniola_jurtina_XM_045904525.1_Frame_2_rightoh_2_query_Exon_4
+FETEGLKPPIWVGGENEGLLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+8 64
+set149_frame1
+FETDGLNPPVWVGGEKEGLLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+Original query = FETEGLKPPIWVGGENEGLLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+New query = FETDGLNPPVWVGGEKEGLLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+Scaffold = OV281084.1, start = 20503656, end = 20504005
+Erebia_aethiops,OV281084.1,20495497,20495722,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Erebia_aethiops,OV281084.1,20502967,20503151,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Erebia_aethiops,OV281084.1,20493323,20493474,1,N,Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set157_frame2, 0.0
+5 top scores:
+[['set157_frame2', 0.0], ['set87_frame1', 1.851], ['set182_frame2', 1.854], ['set56_frame0', 1.852], ['set136_frame0', 1.812]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/3.Satyrine/1.Blast_result/Erebia_aethiops/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_157_frame2.fa.txt
+13 88
+Maniola_jurtina_XM_045904525.1_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLTELYKRVKQVRPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQDALAKWAS
+13 88
+set157_frame2
+FGCLSTRLFYYQLTELYKRVKQVRPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQDALAKWAS
+Original query = FGCLSTRLFYYQLTELYKRVKQVRPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQDALAKWAS
+New query = FGCLSTRLFYYQLTELYKRVKQVRPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQDALAKWAS
+Scaffold = OV281084.1, start = 20503656, end = 20504005
+Erebia_aethiops,OV281084.1,20494757,20494897,1,N,Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Erebia_aethiops,OV281084.1,20496361,20496532,1,N,Bicyclus_anynana_XM_024084404.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Erebia_aethiops,OV281084.1,20492857,20493059,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_1_query_Exon_8,1,66,67
+
+Getting Gene
+min = set39_frame0, 0.019
+5 top scores:
+[['set18_frame0', 1.802], ['set1_frame2', 1.806], ['set39_frame0', 0.019], ['set59_frame1', 1.825], ['set36_frame2', 1.827]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/3.Satyrine/1.Blast_result/Erebia_aethiops/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_39_frame0.fa.txt
+9 56
+Maniola_jurtina_XM_045904525.1_Frame_0_rightoh_0_query_Exon_6
+GKTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+9 56
+set39_frame0
+GKTGFPWIDAIMIQLREEGWIHHLSRHAVACFLTRGDLWISWEEGMK
+Original query = GKTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+New query = GKTGFPWIDAIMIQLREEGWIHHLSRHAVACFLTRGDLWISWEEGMK
+Scaffold = OV281084.1, start = 20503656, end = 20504005
+Erebia_aethiops,OV281084.1,20493323,20493474,1,N,Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Erebia_aethiops,OV281084.1,20495497,20495722,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Erebia_aethiops,OV281084.1,20492857,20493059,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_1_query_Exon_8,1,66,67
+
+Getting Gene
+min = set47_frame1, 0.0
+5 top scores:
+[['set47_frame1', 0.0], ['set8_frame2', 1.799], ['set36_frame2', 1.833], ['set33_frame0', 1.851], ['set16_frame2', 1.864]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/3.Satyrine/1.Blast_result/Erebia_aethiops/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_47_frame1.fa.txt
+92 142
+Maniola_jurtina_XM_045904525.1_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+92 142
+set47_frame1
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = OV281084.1, start = 20503656, end = 20504005
+Erebia_aethiops,OV281084.1,20492857,20493059,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_1_query_Exon_8,1,66,67
+
+6
+8
+Erebia_aethiops,OV281084.1,20494757,20494897,1,N,Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Erebia_aethiops,OV281084.1,20492857,20493059,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_1_query_Exon_8,1,66,67
+
+Getting Gene
+min = set35_frame0, 0.063
+5 top scores:
+[['set10_frame2', 1.791], ['set17_frame0', 1.874], ['set35_frame0', 0.063], ['set7_frame1', 1.801], ['set28_frame1', 1.824]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/3.Satyrine/1.Blast_result/Erebia_aethiops/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_35_frame0.fa.txt
+19 85
+set35_frame0
+KYIPALKNMPTRYIHEPWQAPEAVQEAAQCIVGRDYPMPIVDHHKASQTNIERIKQVYAQLAKFKP
+Original query = KYIPALKNMPTRYIHEPWQAPAAVQEAARCLVGRDYPMPIVDHHKASQTNIERIKQVYAQLAKFKPP
+New query = KYIPALKNMPTRYIHEPWQAPEAVQEAAQCIVGRDYPMPIVDHHKASQTNIERIKQVYAQLAKFKP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = OV281084.1, start = 20503656, end = 20504005
+Erebia_aethiops,OV281084.1,20503333,20503584,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Erebia_aethiops,OV281084.1,20503656,20504005,1,N,Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_2_query_Exon_1,1,115,115
+
+Erebia_aethiops,OV281084.1,20496361,20496532,1,N,Bicyclus_anynana_XM_024084404.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set8_frame2, 0.11
+5 top scores:
+[['set8_frame2', 0.11], ['set70_frame2', 1.824], ['set53_frame2', 1.86], ['set51_frame0', 1.871], ['set63_frame2', 1.871]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/3.Satyrine/1.Blast_result/Erebia_aethiops/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_8_frame2.fa.txt
+5 88
+Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDDSLKKLNSRLYVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCRDVGISVTSKVSHTLYQLD
+5 88
+set8_frame2
+FLLQCLEDLDRSLKKINSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGISVTSRVSHTLYKLD
+Original query = FLLQCLEDLDDSLKKLNSRLYVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCRDVGISVTSKVSHTLYQLD
+New query = FLLQCLEDLDRSLKKINSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGISVTSRVSHTLYKLD
+Scaffold = OV281084.1, start = 20503656, end = 20504005
+Erebia_aethiops,OV281084.1,20502967,20503151,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Erebia_aethiops,OV281084.1,20503656,20504005,1,N,Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_2_query_Exon_1,1,115,115
+
+Erebia_aethiops,OV281084.1,20495497,20495722,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set9_frame0, 0.226
+5 top scores:
+[['set1_frame0', 1.794], ['set9_frame0', 0.226], ['set150_frame2', 1.803], ['set23_frame0', 1.827], ['set180_frame1', 1.829]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/3.Satyrine/1.Blast_result/Erebia_aethiops/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_9_frame0.fa.txt
+22 83
+Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_1_query_Exon_3
+IIERNGGKAPLTYHQFQALIASMPPPPAAEETITMATLNGAITPVADDHDDRFGVPTLEEL
+22 83
+set9_frame0
+IIERNGGKAPLTYHQFQALIASMPPPPPAEDAITVQTLNGAVTPISGDHDDRFGVPSLEEL
+Original query = IIERNGGKAPLTYHQFQALIASMPPPPAAEETITMATLNGAITPVADDHDDRFGVPTLEEL
+New query = IIERNGGKAPLTYHQFQALIASMPPPPPAEDAITVQTLNGAVTPISGDHDDRFGVPSLEEL
+Scaffold = OV281084.1, start = 20503656, end = 20504005
+Erebia_aethiops,OV281084.1,20496361,20496532,1,N,Bicyclus_anynana_XM_024084404.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Erebia_aethiops,OV281084.1,20503333,20503584,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Erebia_aethiops,OV281084.1,20494757,20494897,1,N,Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set149_frame1, 0.111
+5 top scores:
+[['set149_frame1', 0.111], ['set71_frame2', 1.786], ['set183_frame2', 1.802], ['set127_frame2', 1.846], ['set179_frame2', 1.852]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/3.Satyrine/1.Blast_result/Erebia_aethiops/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_149_frame1.fa.txt
+8 64
+Bicyclus_anynana_XM_024084404.2_Frame_2_rightoh_2_query_Exon_4
+FETDGLQDPVWIGGEKEGLLRLERHLERKAWVASFGRPKMTPQSLMASQTGLSPYL
+8 64
+set149_frame1
+FETDGLNPPVWVGGEKEGLLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+Original query = FETDGLQDPVWIGGEKEGLLRLERHLERKAWVASFGRPKMTPQSLMASQTGLSPYL
+New query = FETDGLNPPVWVGGEKEGLLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+Scaffold = OV281084.1, start = 20503656, end = 20504005
+Erebia_aethiops,OV281084.1,20495497,20495722,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Erebia_aethiops,OV281084.1,20502967,20503151,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Erebia_aethiops,OV281084.1,20493323,20493474,1,N,Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set157_frame2, 0.115
+5 top scores:
+[['set157_frame2', 0.115], ['set203_frame2', 1.849], ['set182_frame2', 1.858], ['set56_frame0', 1.835], ['set136_frame0', 1.842]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/3.Satyrine/1.Blast_result/Erebia_aethiops/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_157_frame2.fa.txt
+13 88
+Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLSDLYQRVKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNDDALAKWAS
+13 88
+set157_frame2
+FGCLSTRLFYYQLTELYKRVKQVRPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQDALAKWAS
+Original query = FGCLSTRLFYYQLSDLYQRVKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNDDALAKWAS
+New query = FGCLSTRLFYYQLTELYKRVKQVRPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQDALAKWAS
+Scaffold = OV281084.1, start = 20503656, end = 20504005
+Erebia_aethiops,OV281084.1,20494757,20494897,1,N,Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Erebia_aethiops,OV281084.1,20496361,20496532,1,N,Bicyclus_anynana_XM_024084404.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Erebia_aethiops,OV281084.1,20492857,20493059,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_1_query_Exon_8,1,66,67
+
+Getting Gene
+min = set39_frame0, 0.038
+5 top scores:
+[['set18_frame0', 1.802], ['set1_frame2', 1.806], ['set39_frame0', 0.038], ['set29_frame2', 1.817], ['set36_frame2', 1.827]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/3.Satyrine/1.Blast_result/Erebia_aethiops/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_39_frame0.fa.txt
+9 56
+Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_0_query_Exon_6
+GKSGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+9 56
+set39_frame0
+GKTGFPWIDAIMIQLREEGWIHHLSRHAVACFLTRGDLWISWEEGMK
+Original query = GKSGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+New query = GKTGFPWIDAIMIQLREEGWIHHLSRHAVACFLTRGDLWISWEEGMK
+Scaffold = OV281084.1, start = 20503656, end = 20504005
+Erebia_aethiops,OV281084.1,20493323,20493474,1,N,Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Erebia_aethiops,OV281084.1,20495497,20495722,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Erebia_aethiops,OV281084.1,20492857,20493059,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_1_query_Exon_8,1,66,67
+
+Getting Gene
+min = set47_frame1, 0.0
+5 top scores:
+[['set47_frame1', 0.0], ['set8_frame2', 1.799], ['set36_frame2', 1.833], ['set33_frame0', 1.851], ['set16_frame2', 1.864]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/3.Satyrine/1.Blast_result/Erebia_aethiops/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_47_frame1.fa.txt
+92 142
+Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+92 142
+set47_frame1
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = OV281084.1, start = 20503656, end = 20504005
+Erebia_aethiops,OV281084.1,20492857,20493059,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_1_query_Exon_8,1,66,67
+
+6
+8
+Erebia_aethiops,OV281084.1,20494757,20494897,1,N,Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Erebia_aethiops,OV281084.1,20492857,20493059,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_1_query_Exon_8,1,66,67
+
+Getting Gene
+min = set35_frame0, 0.276
+5 top scores:
+[['set10_frame2', 1.777], ['set17_frame0', 1.861], ['set35_frame0', 0.276], ['set7_frame1', 1.87], ['set28_frame1', 1.813]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/3.Satyrine/1.Blast_result/Erebia_aethiops/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_35_frame0.fa.txt
+19 85
+set35_frame0
+KYIPALKNMPTRYIHEPWQAPEAVQEAAQCIVGRDYPMPIVDHHKASQTNIERIKQVYAQLAKFKP
+Original query = KYIPALKSMPVEYVHEPWMAPEAVQAAAQCVVGRDYPLPIIDHNKASAVNIERMKQVYAQLAKFKPQ
+New query = KYIPALKNMPTRYIHEPWQAPEAVQEAAQCIVGRDYPMPIVDHHKASQTNIERIKQVYAQLAKFKP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = OV281084.1, start = 20503656, end = 20504005
+Erebia_aethiops,OV281084.1,20503333,20503584,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Erebia_aethiops,OV281084.1,20503656,20504005,1,N,Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_2_query_Exon_1,1,115,115
+
+Erebia_aethiops,OV281084.1,20496361,20496532,1,N,Bicyclus_anynana_XM_024084404.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set8_frame2, 0.131
+5 top scores:
+[['set8_frame2', 0.131], ['set70_frame2', 1.831], ['set53_frame2', 1.858], ['set63_frame2', 1.868], ['set41_frame1', 1.899]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/3.Satyrine/1.Blast_result/Erebia_aethiops/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_8_frame2.fa.txt
+5 88
+Pararge_aegeria_XM_039909560.1_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDNSLKELNSRLYVVRGQPADALPKLFREWGTTALTFEEDPEPFGRVRDHNIIAKCREVGITVTSRVSHTLYKLD
+5 88
+set8_frame2
+FLLQCLEDLDRSLKKINSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGISVTSRVSHTLYKLD
+Original query = FLLQCLEDLDNSLKELNSRLYVVRGQPADALPKLFREWGTTALTFEEDPEPFGRVRDHNIIAKCREVGITVTSRVSHTLYKLD
+New query = FLLQCLEDLDRSLKKINSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGISVTSRVSHTLYKLD
+Scaffold = OV281084.1, start = 20503656, end = 20504005
+Erebia_aethiops,OV281084.1,20502967,20503151,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Erebia_aethiops,OV281084.1,20503656,20504005,1,N,Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_2_query_Exon_1,1,115,115
+
+Erebia_aethiops,OV281084.1,20495497,20495722,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set9_frame0, 0.369
+5 top scores:
+[['set1_frame0', 1.762], ['set9_frame0', 0.369], ['set59_frame1', 1.78], ['set57_frame1', 1.814], ['set180_frame1', 1.826]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/3.Satyrine/1.Blast_result/Erebia_aethiops/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_9_frame0.fa.txt
+22 83
+Pararge_aegeria_XM_039909560.1_Frame_1_rightoh_1_query_Exon_3
+IIDRNGGKAPLTYHQFQALVASMPPPPLAVETVTKHTINGAVTPISEDHDLRFGVPTLEEL
+22 83
+set9_frame0
+IIERNGGKAPLTYHQFQALIASMPPPPPAEDAITVQTLNGAVTPISGDHDDRFGVPSLEEL
+Original query = IIDRNGGKAPLTYHQFQALVASMPPPPLAVETVTKHTINGAVTPISEDHDLRFGVPTLEEL
+New query = IIERNGGKAPLTYHQFQALIASMPPPPPAEDAITVQTLNGAVTPISGDHDDRFGVPSLEEL
+Scaffold = OV281084.1, start = 20503656, end = 20504005
+Erebia_aethiops,OV281084.1,20496361,20496532,1,N,Bicyclus_anynana_XM_024084404.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Erebia_aethiops,OV281084.1,20503333,20503584,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Erebia_aethiops,OV281084.1,20494757,20494897,1,N,Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set149_frame1, 0.297
+5 top scores:
+[['set149_frame1', 0.297], ['set7_frame2', 1.774], ['set143_frame2', 1.791], ['set79_frame2', 1.846], ['set183_frame2', 1.847]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/3.Satyrine/1.Blast_result/Erebia_aethiops/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_149_frame1.fa.txt
+8 64
+Pararge_aegeria_XM_039909560.1_Frame_2_rightoh_2_query_Exon_4
+FETEDLKPPLWIGGETEGLTRLERHLERKAWVATFGPPKMTPQSLLASETGLSPYL
+8 64
+set149_frame1
+FETDGLNPPVWVGGEKEGLLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+Original query = FETEDLKPPLWIGGETEGLTRLERHLERKAWVATFGPPKMTPQSLLASETGLSPYL
+New query = FETDGLNPPVWVGGEKEGLLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+Scaffold = OV281084.1, start = 20503656, end = 20504005
+Erebia_aethiops,OV281084.1,20495497,20495722,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Erebia_aethiops,OV281084.1,20502967,20503151,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Erebia_aethiops,OV281084.1,20493323,20493474,1,N,Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set157_frame2, 0.211
+5 top scores:
+[['set157_frame2', 0.211], ['set203_frame2', 1.81], ['set182_frame2', 1.857], ['set56_frame0', 1.815], ['set136_frame0', 1.812]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/3.Satyrine/1.Blast_result/Erebia_aethiops/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_157_frame2.fa.txt
+13 88
+Pararge_aegeria_XM_039909560.1_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRRFYYELTELYKRVKHERPPLSLHGQILWREFFYCAATRNPNFDRMQGNPICVQIPWECNQDALAKWAN
+13 88
+set157_frame2
+FGCLSTRLFYYQLTELYKRVKQVRPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQDALAKWAS
+Original query = FGCLSTRRFYYELTELYKRVKHERPPLSLHGQILWREFFYCAATRNPNFDRMQGNPICVQIPWECNQDALAKWAN
+New query = FGCLSTRLFYYQLTELYKRVKQVRPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQDALAKWAS
+Scaffold = OV281084.1, start = 20503656, end = 20504005
+Erebia_aethiops,OV281084.1,20494757,20494897,1,N,Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Erebia_aethiops,OV281084.1,20496361,20496532,1,N,Bicyclus_anynana_XM_024084404.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Erebia_aethiops,OV281084.1,20492857,20493059,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_1_query_Exon_8,1,66,67
+
+Getting Gene
+min = set39_frame0, 0.116
+5 top scores:
+[['set18_frame0', 1.762], ['set1_frame2', 1.801], ['set39_frame0', 0.116], ['set36_frame2', 1.821], ['set29_frame2', 1.836]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/3.Satyrine/1.Blast_result/Erebia_aethiops/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_39_frame0.fa.txt
+9 56
+Pararge_aegeria_XM_039909560.1_Frame_0_rightoh_0_query_Exon_6
+GQSGFPWIDAIMIQLKEEGWIHHLARHAVACFLTRGNLWISWEEGMK
+9 56
+set39_frame0
+GKTGFPWIDAIMIQLREEGWIHHLSRHAVACFLTRGDLWISWEEGMK
+Original query = GQSGFPWIDAIMIQLKEEGWIHHLARHAVACFLTRGNLWISWEEGMK
+New query = GKTGFPWIDAIMIQLREEGWIHHLSRHAVACFLTRGDLWISWEEGMK
+Scaffold = OV281084.1, start = 20503656, end = 20504005
+Erebia_aethiops,OV281084.1,20493323,20493474,1,N,Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Erebia_aethiops,OV281084.1,20495497,20495722,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Erebia_aethiops,OV281084.1,20492857,20493059,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_1_query_Exon_8,1,66,67
+
+Getting Gene
+min = set47_frame1, 0.026
+5 top scores:
+[['set47_frame1', 0.026], ['set8_frame2', 1.799], ['set24_frame2', 1.823], ['set36_frame2', 1.831], ['set37_frame0', 1.854]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/3.Satyrine/1.Blast_result/Erebia_aethiops/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_47_frame1.fa.txt
+92 142
+Pararge_aegeria_XM_039909560.1_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFIHCYCPVRFGRKTDPNGDFI
+92 142
+set47_frame1
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFIHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = OV281084.1, start = 20503656, end = 20504005
+Erebia_aethiops,OV281084.1,20492857,20493059,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_1_query_Exon_8,1,66,67
+
+6
+8
+Erebia_aethiops,OV281084.1,20494757,20494897,1,N,Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Erebia_aethiops,OV281084.1,20492857,20493059,1,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_1_query_Exon_8,1,66,67
+
+Getting Gene
+min = set35_frame0, 0.408
+5 top scores:
+[['set10_frame2', 1.808], ['set17_frame0', 1.874], ['set35_frame0', 0.408], ['set7_frame1', 1.871], ['set28_frame1', 1.832]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/3.Satyrine/1.Blast_result/Erebia_aethiops/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_35_frame0.fa.txt
+19 85
+Pararge_aegeria_XM_039909560.1_Frame_1_rightoh_1_query_Exon_8
+KYLPVLKGMPTQYIHEPWLAPEDVQATANCIVGRDYPLPIIDHHKASKTNVKRMKQVYTQLAKYMP
+19 85
+set35_frame0
+KYIPALKNMPTRYIHEPWQAPEAVQEAAQCIVGRDYPMPIVDHHKASQTNIERIKQVYAQLAKFKP
+Original query = KYLPVLKGMPTQYIHEPWLAPEDVQATANCIVGRDYPLPIIDHHKASKTNVKRMKQVYTQLAKYMP
+New query = KYIPALKNMPTRYIHEPWQAPEAVQEAAQCIVGRDYPMPIVDHHKASQTNIERIKQVYAQLAKFKP

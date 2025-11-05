@@ -1,0 +1,1320 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18334302,18334485,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Melinaea_marsaeus_rileyi,OU911085.1,18333979,18334232,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Melinaea_marsaeus_rileyi,OU911085.1,18334935,18335191,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set2_frame0, 0.171
+5 top scores:
+[['set34_frame2', 1.785], ['set2_frame0', 0.171], ['set16_frame1', 1.83], ['set33_frame1', 1.872], ['set28_frame2', 1.802]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_2_frame0.fa.txt
+22 83
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPVERNDRHNYLQILSHLQSYKEDAFTKVENWQVFAKKLGKVLEI
+22 83
+set2_frame0
+LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQSYKEDAFTKVDTWHIFAKKLGKVLEI
+Original query = LIVNLTNPALLLYREEVPVERNDRHNYLQILSHLQSYKEDAFTKVENWQVFAKKLGKVLEI
+New query = LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQSYKEDAFTKVDTWHIFAKKLGKVLEI
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18334647,18334781,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Melinaea_marsaeus_rileyi,OU911085.1,18333979,18334232,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Melinaea_marsaeus_rileyi,OU911085.1,18335436,18335633,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set28_frame2, 0.027
+5 top scores:
+[['set28_frame2', 0.027], ['set2_frame0', 1.735], ['set34_frame2', 1.771], ['set26_frame0', 1.76], ['set16_frame1', 1.82]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_28_frame2.fa.txt
+0 45
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+0 45
+set28_frame2
+DWSDRDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Original query = DWSERDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+New query = DWSDRDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18334935,18335191,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Melinaea_marsaeus_rileyi,OU911085.1,18334302,18334485,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Melinaea_marsaeus_rileyi,OU911085.1,18338179,18338361,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set21_frame0, 0.115
+5 top scores:
+[['set21_frame0', 0.115], ['set1_frame1', 1.874], ['set25_frame1', 1.847], ['set93_frame2', 1.843]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_21_frame0.fa.txt
+7 92
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPSSLADAALQRSVDEKVRDDQELLMIRMTENKDRMNKIRHYSST
+7 92
+set21_frame0
+VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLADSALQRSVDEKLRDDQQLLTLRMTENKDRMNKIKHYSAT
+Original query = VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPSSLADAALQRSVDEKVRDDQELLMIRMTENKDRMNKIRHYSST
+New query = VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLADSALQRSVDEKLRDDQQLLTLRMTENKDRMNKIKHYSAT
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18335436,18335633,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Melinaea_marsaeus_rileyi,OU911085.1,18334647,18334781,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Melinaea_marsaeus_rileyi,OU911085.1,18338669,18338953,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set23_frame1, 0.156
+5 top scores:
+[['set79_frame1', 1.808], ['set7_frame0', 1.842], ['set46_frame0', 1.856], ['set79_frame0', 1.83], ['set23_frame1', 0.156]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_23_frame1.fa.txt
+11 76
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVQNMKSISDNELICLKPLNKISNLDFNGSKKQKLVKPKNRRPTESGTMERRSAFAI
+11 76
+set23_frame1
+HSRFGGTYVVQNMKSISDNELISLKPLNKISNLDFNGSRKSRLVRPKNRRPVESGTMERRSAFAI
+Original query = HSRFGGTYVVQNMKSISDNELICLKPLNKISNLDFNGSKKQKLVKPKNRRPTESGTMERRSAFAI
+New query = HSRFGGTYVVQNMKSISDNELISLKPLNKISNLDFNGSRKSRLVRPKNRRPVESGTMERRSAFAI
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18338179,18338361,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+Melinaea_marsaeus_rileyi,OU911085.1,18334935,18335191,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Melinaea_marsaeus_rileyi,OU911085.1,18339021,18339139,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8,1,39,39
+
+Getting Gene
+min = set74_frame2, 0.303
+5 top scores:
+[['set74_frame2', 0.303], ['set51_frame1', 1.803], ['set75_frame2', 1.816], ['set71_frame2', 1.834], ['set73_frame0', 1.797]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_74_frame2.fa.txt
+13 73
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNVLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRAHDFQVGFV
+13 73
+set74_frame2
+LFLKEFCIEFLNSAYNPLMRHVRDVLARAAAQQHDDSYYLWAVKFFMEFNRGHDFQVGLV
+Original query = LFLKEFCIEFLNSSYNVLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRAHDFQVGFV
+New query = LFLKEFCIEFLNSAYNPLMRHVRDVLARAAAQQHDDSYYLWAVKFFMEFNRGHDFQVGLV
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18338669,18338953,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Melinaea_marsaeus_rileyi,OU911085.1,18335436,18335633,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Melinaea_marsaeus_rileyi,OU911085.1,18341933,18342080,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,40,48
+
+Getting Gene
+min = set65_frame0, 0.464
+5 top scores:
+[['set65_frame0', 0.464], ['set119_frame0', 1.829], ['set96_frame1', 1.857], ['set84_frame2', 1.889]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_65_frame0.fa.txt
+7 102
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQMEKYYDMISVEKKKFTNWVRRLHLALRAYKELLHTLLAMDASKDHTVRESAKVLKSNIFYVLEYREFILSMYLNYDENKMP
+7 102
+set65_frame0
+ETMSVPMFHYVQQQTEKYYDMIKVERKKFSNWVRRLHLAVRAYKELLLSVVRMEQG-SAELRDAAKVFKTNIFYVLEYREFVLSIFLNYDENKMP
+Original query = ETMSVPMFHYVQQQMEKYYDMISVEKKKFTNWVRRLHLALRAYKELLHTLLAMDASKDHTVRESAKVLKSNIFYVLEYREFILSMYLNYDENKMP
+New query = ETMSVPMFHYVQQQTEKYYDMIKVERKKFSNWVRRLHLAVRAYKELLLSVVRMEQG-SAELRDAAKVFKTNIFYVLEYREFVLSIFLNYDENKMP
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18339021,18339139,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8,1,39,39
+
+6
+10
+Melinaea_marsaeus_rileyi,OU911085.1,18338179,18338361,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Melinaea_marsaeus_rileyi,OU911085.1,18342422,18342502,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set10_frame0, 0.161
+5 top scores:
+[['set40_frame0', 1.702], ['set91_frame2', 1.704], ['set85_frame1', 1.717], ['set83_frame2', 1.761], ['set10_frame0', 0.161]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_10_frame0.fa.txt
+31 70
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLVETVHLFLKMLEHYCKRTGLVVQKKVRKKTKAK
+31 70
+set10_frame0
+SYLVDLIETVHLFLKMLEHYCKKTGLVVQKKVRKKSNVK
+Original query = SYLVDLVETVHLFLKMLEHYCKRTGLVVQKKVRKKTKAK
+New query = SYLVDLIETVHLFLKMLEHYCKKTGLVVQKKVRKKSNVK
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18341933,18342080,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,40,48
+
+7
+11
+Melinaea_marsaeus_rileyi,OU911085.1,18338669,18338953,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Melinaea_marsaeus_rileyi,OU911085.1,18342822,18342931,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Getting Gene
+min = set60_frame2, 1.159
+5 top scores:
+[['set60_frame2', 1.159], ['set72_frame1', 1.792], ['set45_frame0', 1.808], ['set33_frame2', 1.811], ['set54_frame2', 1.835]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_60_frame2.fa.txt
+14 61
+set60_frame2
+RKPKPRARVPSPPSWEELRPQLSAVLSSGCALRPPPCDFADAHDDLQ
+Original query = QKPKIKPKVIELSPWEEIRPQLAAVLSSGVEHYLPPFDAASETPIDQQ
+New query = RKPKPRARVPSPPSWEELRPQLSAVLSSGCALRPPPCDFADAHDDLQ
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18342422,18342502,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+12
+13
+Melinaea_marsaeus_rileyi,OU911085.1,18339021,18339139,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8,1,39,39
+
+Melinaea_marsaeus_rileyi,OU911085.1,18345357,18345423,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+Getting Gene
+min = set79_frame0, 0.75
+5 top scores:
+[['set79_frame0', 0.75], ['set126_frame0', 1.579], ['set56_frame1', 1.583], ['set72_frame1', 1.642], ['set77_frame1', 1.655]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_79_frame0.fa.txt
+16 42
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQRLMRDHKYEDVIGTFRAA
+16 42
+set79_frame0
+ERCMKNIQQWMRRHEYEQAVGALRAA
+Original query = EDCMKKIQRLMRDHKYEDVIGTFRAA
+New query = ERCMKNIQQWMRRHEYEQAVGALRAA
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18342822,18342931,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+9
+13
+Melinaea_marsaeus_rileyi,OU911085.1,18341933,18342080,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,40,48
+
+Melinaea_marsaeus_rileyi,OU911085.1,18345357,18345423,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+Getting Gene
+min = set16_frame2, 0.603
+5 top scores:
+[['set16_frame2', 0.603], ['set20_frame1', 1.669], ['set57_frame1', 1.747], ['set39_frame2', 1.777], ['set21_frame2', 1.782]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_16_frame2.fa.txt
+21 57
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEDGIFGVSGMPEDEELDMLETIYNTDLGLDYE
+21 57
+set16_frame2
+EVWPEGGVFGADGMREEEELDMLQSVYAADLGLDAR
+Original query = EVWPEDGIFGVSGMPEDEELDMLETIYNTDLGLDYE
+New query = EVWPEGGVFGADGMREEEELDMLQSVYAADLGLDAR
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,0,0,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_12,0,0,14
+
+10
+14
+Melinaea_marsaeus_rileyi,OU911085.1,18342422,18342502,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Melinaea_marsaeus_rileyi,OU911085.1,18345484,18345682,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set12_frame1, 1.314
+5 top scores:
+[['set12_frame1', 1.314], ['set50_frame1', 1.51], ['set11_frame2', 1.529], ['set15_frame2', 1.539], ['set53_frame2', 1.609]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_12_frame1.fa.txt
+38 51
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_12
+QHEDAQEYSEDED
+38 51
+set12_frame1
+EDEEIHGNSEDEE
+Original query = AQHEDAQEYSEDED
+New query = EDEEIHGNSEDEE
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18345357,18345423,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+11
+15
+Melinaea_marsaeus_rileyi,OU911085.1,18342822,18342931,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Melinaea_marsaeus_rileyi,OU911085.1,18347856,18348004,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set45_frame2, 0.33
+5 top scores:
+[['set45_frame2', 0.33], ['set7_frame0', 1.498], ['set50_frame1', 1.601], ['set57_frame1', 1.607], ['set94_frame2', 1.611]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_45_frame2.fa.txt
+15 36
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13
+EDEEQGSAIVETDFDFQDFVL
+15 36
+set45_frame2
+EDEDRTTAVVETDFDFQDFVL
+Original query = EDEEQGSAIVETDFDFQDFVL
+New query = EDEDRTTAVVETDFDFQDFVL
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18345484,18345682,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Melinaea_marsaeus_rileyi,OU911085.1,18342822,18342931,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Melinaea_marsaeus_rileyi,OU911085.1,18349140,18349234,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,2,31,31
+
+Getting Gene
+min = set47_frame2, 0.569
+5 top scores:
+[['set47_frame2', 0.569], ['set127_frame2', 1.783], ['set38_frame2', 1.83], ['set60_frame0', 1.846], ['set73_frame0', 1.805]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_47_frame2.fa.txt
+10 76
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14
+FCHPKIVSACVCLLERYDKNRSHTNHCIVKMLHRIAFDCNRPAMMFQATLFLTFQKILHNPMPHLK
+10 76
+set47_frame2
+FCSYRVVSSCASVLERYESNPPHANHCALKMLHRVAVDCCRPAMLFQATLFLTFQKILHNPLAHFK
+Original query = FCHPKIVSACVCLLERYDKNRSHTNHCIVKMLHRIAFDCNRPAMMFQATLFLTFQKILHNPMPHLK
+New query = FCSYRVVSSCASVLERYESNPPHANHCALKMLHRVAVDCCRPAMLFQATLFLTFQKILHNPLAHFK
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18347856,18348004,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+17
+Melinaea_marsaeus_rileyi,OU911085.1,18345357,18345423,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+Melinaea_marsaeus_rileyi,OU911085.1,18349359,18349565,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Getting Gene
+min = set47_frame0, 0.298
+5 top scores:
+[['set70_frame1', 1.762], ['set3_frame2', 1.766], ['set43_frame0', 1.761], ['set10_frame1', 1.802], ['set47_frame0', 0.298]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_47_frame0.fa.txt
+4 53
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFAIFILRKFADIASKSGKVFIELLFWKNSKDAVEIEHGYNLYNDP
+4 53
+set47_frame0
+ELEKFAIFILRKFTEVASKSSKAFIELLFWKSSKDAVEIQHGYDVYEDP
+Original query = ELEKFAIFILRKFADIASKSGKVFIELLFWKNSKDAVEIEHGYNLYNDP
+New query = ELEKFAIFILRKFTEVASKSSKAFIELLFWKSSKDAVEIQHGYDVYEDP
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18349140,18349234,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,2,31,31
+
+14
+18
+Melinaea_marsaeus_rileyi,OU911085.1,18345484,18345682,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Melinaea_marsaeus_rileyi,OU911085.1,18350303,18350437,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,41,44
+
+Getting Gene
+min = set74_frame0, 0.568
+5 top scores:
+[['set74_frame0', 0.568], ['set86_frame1', 1.637], ['set84_frame2', 1.701], ['set1_frame2', 1.739], ['set13_frame2', 1.741]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_74_frame0.fa.txt
+1 32
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16
+DKLGKASWSEEQEDELRNLYMENQTNPQTDQ
+1 32
+set74_frame0
+SKVGSGGWSEEQQDELRALYDENQSNPATDQ
+Original query = DKLGKASWSEEQEDELRNLYMENQTNPQTDQ
+New query = SKVGSGGWSEEQQDELRALYDENQSNPATDQ
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18349359,18349565,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+15
+19
+Melinaea_marsaeus_rileyi,OU911085.1,18347856,18348004,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Melinaea_marsaeus_rileyi,OU911085.1,18350523,18350720,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19,1,61,61
+
+Getting Gene
+min = set35_frame2, 0.459
+5 top scores:
+[['set35_frame2', 0.459], ['set53_frame2', 1.793], ['set40_frame0', 1.769], ['set2_frame1', 1.82], ['set16_frame1', 1.854]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_35_frame2.fa.txt
+2 70
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFNAPTKKSNKARTEKVTKDFTEEEDKLLTELWTQNAESQ
+2 70
+set35_frame2
+VIDWILENLIDQTRTRRSVIKKLREMGLVFNAPTKRSNRERREKLPTHFSEEENQALTELWTQHGASE
+Original query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFNAPTKKSNKARTEKVTKDFTEEEDKLLTELWTQNAESQ
+New query = VIDWILENLIDQTRTRRSVIKKLREMGLVFNAPTKRSNRERREKLPTHFSEEENQALTELWTQHGASE
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18350303,18350437,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,41,44
+
+16
+20
+Melinaea_marsaeus_rileyi,OU911085.1,18349140,18349234,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,2,31,31
+
+Melinaea_marsaeus_rileyi,OU911085.1,18350972,18351168,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set21_frame1, 0.801
+5 top scores:
+[['set21_frame1', 0.801], ['set6_frame2', 1.604], ['set24_frame2', 1.717], ['set36_frame1', 1.793], ['set1_frame2', 1.801]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_21_frame1.fa.txt
+12 56
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18
+PMSVIMERMPRNRSKRTFVERLLRLGLIDDKKQCRKKSIKNISG
+12 56
+set21_frame1
+PMSAIVAGMPRSRPRRHYVERLVELGLVVDRKQCRRKRTRNKTN
+Original query = PMSVIMERMPRNRSKRTFVERLLRLGLIDDKKQCRKKSIKNISG
+New query = PMSAIVAGMPRSRPRRHYVERLVELGLVVDRKQCRRKRTRNKTN
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18350523,18350720,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19,1,61,61
+
+17
+21
+Melinaea_marsaeus_rileyi,OU911085.1,18349359,18349565,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Melinaea_marsaeus_rileyi,OU911085.1,18351311,18351764,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,139,154
+
+Getting Gene
+min = set19_frame2, 0.976
+5 top scores:
+[['set19_frame2', 0.976], ['set34_frame2', 1.703], ['set33_frame1', 1.82], ['set34_frame0', 1.801], ['set35_frame0', 1.838]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_19_frame2.fa.txt
+17 82
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19
+NSSDSESSKSEDE-DAPPKRPTIKIKSKKNLTKSKQSNKKSA---ESLELSANEIAELLVQAVEN
+17 82
+set19_frame2
+NSSDSELSKSDSEGHSTPAPPSLKTKAKKKLTKRKETNKQSAVSVESRERSAREVAALLLRAVHG
+Original query = NSSDSESSKSEDEDAPPKRPTIKIKSKKNLTKSKQSNKKSAESLELSANEIAELLVQAVEN
+New query = NSSDSELSKSDSEGHSTPAPPSLKTKAKKKLTKRKETNKQSAVSVESRERSAREVAALLLRAVHG
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18350972,18351168,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+18
+21
+Melinaea_marsaeus_rileyi,OU911085.1,18350303,18350437,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,41,44
+
+Melinaea_marsaeus_rileyi,OU911085.1,18351311,18351764,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,139,154
+
+Getting Gene
+min = set16_frame2, 0.37
+5 top scores:
+[['set16_frame2', 0.37], ['set21_frame0', 1.785], ['set30_frame2', 1.849], ['set15_frame1', 1.867], ['set19_frame2', 1.868]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_16_frame2.fa.txt
+1 66
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20
+HTEALNWLSENLEEVALDQEAEGFDPTSEGTPLVPISRESVQAIQDDLFRRVLKSLGIVPPVDEQ
+1 66
+set16_frame2
+YTEALNWLSENLEEVALDQEAEGFDPSAEGTPLVPITRGCVQAMRDELFTRVLRSVGMVPPDNEQ
+Original query = HTEALNWLSENLEEVALDQEAEGFDPTSEGTPLVPISRESVQAIQDDLFRRVLKSLGIVPPVDEQ
+New query = YTEALNWLSENLEEVALDQEAEGFDPSAEGTPLVPITRGCVQAMRDELFTRVLRSVGMVPPDNEQ
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18351311,18351764,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,139,154
+
+19
+21
+Melinaea_marsaeus_rileyi,OU911085.1,18350523,18350720,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19,1,61,61
+
+Melinaea_marsaeus_rileyi,OU911085.1,18351311,18351764,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,139,154
+
+Getting Gene
+min = set16_frame2, 1.247
+5 top scores:
+[['set16_frame2', 1.247]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_16_frame2.fa.txt
+0 109
+set16_frame2
+ETYWRIPSSLHHHTIRTRRDIINRAVNGELITDHTGAP-TEKDKEDSIDERDGSIASTERHKENNIDERDSTSDDELFDNLRKITNNAH--DDNIQNKRRKRTRSDRSQ
+Original query = ETYWRIPSSLHYETIRKRREIITKAVNKELIIDNRAAPETKKDNNDNGNNGNHNINDESDASDDDLFDNLRKIAKKSSETDNNPKSKNRKRTRSFESDDENKKKQRKDNIKDKDDENENENKDSDDDLLSFVKNTLHTELPDTEDILNALPEHS
+New query = ETYWRIPSSLHHHTIRTRRDIINRAVNGELITDHTGAP-TEKDKEDSIDERDGSIASTERHKENNIDERDSTSDDELFDNLRKITNNAH--DDNIQNKRRKRTRSDRSQ
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18334302,18334485,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Melinaea_marsaeus_rileyi,OU911085.1,18333979,18334232,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Melinaea_marsaeus_rileyi,OU911085.1,18334935,18335191,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set2_frame0, 0.197
+5 top scores:
+[['set34_frame2', 1.806], ['set2_frame0', 0.197], ['set16_frame1', 1.82], ['set33_frame1', 1.855], ['set28_frame2', 1.794]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_2_frame0.fa.txt
+22 83
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_0_query_Exon_2
+LLVNLTNPALLLYREEVPVDRTARHNYLQILTHLQSYKEEAFTKVETWQVFARKLAKILEI
+22 83
+set2_frame0
+LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQSYKEDAFTKVDTWHIFAKKLGKVLEI
+Original query = LLVNLTNPALLLYREEVPVDRTARHNYLQILTHLQSYKEEAFTKVETWQVFARKLAKILEI
+New query = LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQSYKEDAFTKVDTWHIFAKKLGKVLEI
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18334647,18334781,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Melinaea_marsaeus_rileyi,OU911085.1,18333979,18334232,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Melinaea_marsaeus_rileyi,OU911085.1,18335436,18335633,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set28_frame2, 0.038
+5 top scores:
+[['set28_frame2', 0.038], ['set2_frame0', 1.736], ['set34_frame2', 1.771], ['set26_frame0', 1.749], ['set16_frame1', 1.82]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_28_frame2.fa.txt
+0 45
+Nymphalis_io_XM_050487249.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+0 45
+set28_frame2
+DWSDRDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+New query = DWSDRDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18334935,18335191,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Melinaea_marsaeus_rileyi,OU911085.1,18334302,18334485,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Melinaea_marsaeus_rileyi,OU911085.1,18338179,18338361,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set21_frame0, 0.137
+5 top scores:
+[['set21_frame0', 0.137], ['set1_frame1', 1.873], ['set25_frame1', 1.854], ['set93_frame2', 1.849]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_21_frame0.fa.txt
+7 92
+Nymphalis_io_XM_050487249.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLRDEQELLTMRMTETKERMNKVKMYSST
+7 92
+set21_frame0
+VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLADSALQRSVDEKLRDDQQLLTLRMTENKDRMNKIKHYSAT
+Original query = VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLRDEQELLTMRMTETKERMNKVKMYSST
+New query = VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLADSALQRSVDEKLRDDQQLLTLRMTENKDRMNKIKHYSAT
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18335436,18335633,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Melinaea_marsaeus_rileyi,OU911085.1,18334647,18334781,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Melinaea_marsaeus_rileyi,OU911085.1,18338669,18338953,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set23_frame1, 0.262
+5 top scores:
+[['set8_frame2', 1.808], ['set7_frame0', 1.823], ['set79_frame1', 1.831], ['set40_frame2', 1.833], ['set23_frame1', 0.262]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_23_frame1.fa.txt
+11 76
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVRNMKSISENELISFKPLNKISGFDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+11 76
+set23_frame1
+HSRFGGTYVVQNMKSISDNELISLKPLNKISNLDFNGSRKSRLVRPKNRRPVESGTMERRSAFAI
+Original query = HSRFGGTYVVRNMKSISENELISFKPLNKISGFDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+New query = HSRFGGTYVVQNMKSISDNELISLKPLNKISNLDFNGSRKSRLVRPKNRRPVESGTMERRSAFAI
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18338179,18338361,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+Melinaea_marsaeus_rileyi,OU911085.1,18334935,18335191,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Melinaea_marsaeus_rileyi,OU911085.1,18339021,18339139,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8,1,39,39
+
+Getting Gene
+min = set74_frame2, 0.232
+5 top scores:
+[['set74_frame2', 0.232], ['set71_frame2', 1.809], ['set75_frame2', 1.813], ['set77_frame1', 1.841], ['set73_frame0', 1.754]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_74_frame2.fa.txt
+13 73
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHDFQVGLV
+13 73
+set74_frame2
+LFLKEFCIEFLNSAYNPLMRHVRDVLARAAAQQHDDSYYLWAVKFFMEFNRGHDFQVGLV
+Original query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHDFQVGLV
+New query = LFLKEFCIEFLNSAYNPLMRHVRDVLARAAAQQHDDSYYLWAVKFFMEFNRGHDFQVGLV
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18338669,18338953,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Melinaea_marsaeus_rileyi,OU911085.1,18335436,18335633,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Melinaea_marsaeus_rileyi,OU911085.1,18341933,18342080,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,40,48
+
+Getting Gene
+min = set65_frame0, 0.555
+5 top scores:
+[['set65_frame0', 0.555], ['set119_frame0', 1.882], ['set96_frame1', 1.853], ['set84_frame2', 1.853]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_65_frame0.fa.txt
+7 101
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPTFHYVQQQMEKYTDMIKVEKKKFPVWVRRLHLALRAYAELLRSLRALQRAPGAAREAARVLQSNVFYVPEYRELVLAMFLNYDENKMP
+7 101
+set65_frame0
+ETMSVPMFHYVQQQTEKYYDMIKVERKKFSNWVRRLHLAVRAYKELLLSVVRMEQGSAELRDAAKVFKTNIFYVLEYREFVLSIFLNYDENKMP
+Original query = ETMSVPTFHYVQQQMEKYTDMIKVEKKKFPVWVRRLHLALRAYAELLRSLRALQRAPGAAREAARVLQSNVFYVPEYRELVLAMFLNYDENKMP
+New query = ETMSVPMFHYVQQQTEKYYDMIKVERKKFSNWVRRLHLAVRAYKELLLSVVRMEQGSAELRDAAKVFKTNIFYVLEYREFVLSIFLNYDENKMP
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18339021,18339139,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8,1,39,39
+
+6
+10
+Melinaea_marsaeus_rileyi,OU911085.1,18338179,18338361,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Melinaea_marsaeus_rileyi,OU911085.1,18342422,18342502,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set10_frame0, 0.354
+5 top scores:
+[['set13_frame0', 1.695], ['set40_frame0', 1.727], ['set60_frame0', 1.741], ['set91_frame2', 1.741], ['set10_frame0', 0.354]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_10_frame0.fa.txt
+31 70
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLVETEHLFLKMLEHFCKNTGLVVQKKVRKKGKPK
+31 70
+set10_frame0
+SYLVDLIETVHLFLKMLEHYCKKTGLVVQKKVRKKSNVK
+Original query = SYLVDLVETEHLFLKMLEHFCKNTGLVVQKKVRKKGKPK
+New query = SYLVDLIETVHLFLKMLEHYCKKTGLVVQKKVRKKSNVK
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18341933,18342080,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,40,48
+
+7
+11
+Melinaea_marsaeus_rileyi,OU911085.1,18338669,18338953,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Melinaea_marsaeus_rileyi,OU911085.1,18342822,18342931,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Getting Gene
+min = set60_frame2, 1.231
+5 top scores:
+[['set60_frame2', 1.231], ['set80_frame1', 1.768], ['set45_frame0', 1.812], ['set54_frame2', 1.817], ['set98_frame0', 1.842]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_60_frame2.fa.txt
+13 60
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_2_query_Exon_9
+PRPPKPKE--VETPQWEEVRPQVAAVLAARVAELPPPFDAAADTPID
+13 60
+set60_frame2
+ERKPKPRARVPSPPSWEELRPQLSAVLSSGCALRPPPCDFA-DAHDD
+Original query = QKPRPPKPKEVETPQWEEVRPQVAAVLAARVAELPPPFDAAADTPIDQQ
+New query = ERKPKPRARVPSPPSWEELRPQLSAVLSSGCALRPPPCDFA-DAHDD
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18342422,18342502,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+12
+13
+Melinaea_marsaeus_rileyi,OU911085.1,18339021,18339139,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8,1,39,39
+
+Melinaea_marsaeus_rileyi,OU911085.1,18345357,18345423,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+Getting Gene
+min = set79_frame0, 0.618
+5 top scores:
+[['set79_frame0', 0.618], ['set77_frame1', 1.609], ['set37_frame2', 1.648], ['set30_frame1', 1.672], ['set80_frame1', 1.675]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_79_frame0.fa.txt
+16 42
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRDHKYEGAVGTLRAA
+16 42
+set79_frame0
+ERCMKNIQQWMRRHEYEQAVGALRAA
+Original query = EDCMKKIQKLMRDHKYEGAVGTLRAA
+New query = ERCMKNIQQWMRRHEYEQAVGALRAA
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18342822,18342931,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+9
+13
+Melinaea_marsaeus_rileyi,OU911085.1,18341933,18342080,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,40,48
+
+Melinaea_marsaeus_rileyi,OU911085.1,18345357,18345423,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+Getting Gene
+min = set16_frame2, 0.632
+5 top scores:
+[['set16_frame2', 0.632], ['set65_frame0', 1.703], ['set22_frame2', 1.722], ['set39_frame2', 1.754], ['set21_frame2', 1.768]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_16_frame2.fa.txt
+21 56
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGDTGITEDEELDMLETIYNTDLGVEA
+21 56
+set16_frame2
+EVWPEGGVFGADGMREEEELDMLQSVYAADLGLDA
+Original query = EVWPEEGIFGDTGITEDEELDMLETIYNTDLGVEA
+New query = EVWPEGGVFGADGMREEEELDMLQSVYAADLGLDA
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,0,0,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_12,0,0,14
+
+10
+14
+Melinaea_marsaeus_rileyi,OU911085.1,18342422,18342502,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Melinaea_marsaeus_rileyi,OU911085.1,18345484,18345682,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set12_frame1, 1.212
+5 top scores:
+[['set12_frame1', 1.212], ['set14_frame2', 1.492], ['set6_frame2', 1.554], ['set19_frame2', 1.595], ['set21_frame2', 1.625]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_12_frame1.fa.txt
+35 52
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_1_query_Exon_12
+TTINEEEVEENSAYEDD
+35 52
+set12_frame1
+SEIEDEEIHGNSEDEEN
+Original query = TTINEEEVEENSAYEDD
+New query = SEIEDEEIHGNSEDEEN
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18345357,18345423,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+11
+15
+Melinaea_marsaeus_rileyi,OU911085.1,18342822,18342931,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Melinaea_marsaeus_rileyi,OU911085.1,18347856,18348004,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set45_frame2, 0.365
+5 top scores:
+[['set45_frame2', 0.365], ['set38_frame2', 1.54], ['set87_frame2', 1.619], ['set90_frame2', 1.646], ['set88_frame2', 1.688]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_45_frame2.fa.txt
+12 36
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_2_query_Exon_13
+EEGEEEERTTSVVETDFDFQDFVL
+12 36
+set45_frame2
+EGEEDEDRTTAVVETDFDFQDFVL
+Original query = EEGEEEERTTSVVETDFDFQDFVL
+New query = EGEEDEDRTTAVVETDFDFQDFVL
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18345484,18345682,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Melinaea_marsaeus_rileyi,OU911085.1,18342822,18342931,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Melinaea_marsaeus_rileyi,OU911085.1,18349140,18349234,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,2,31,31
+
+Getting Gene
+min = set47_frame2, 0.965
+5 top scores:
+[['set47_frame2', 0.965], ['set127_frame2', 1.804], ['set6_frame1', 1.844], ['set60_frame0', 1.826], ['set73_frame0', 1.813]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_47_frame2.fa.txt
+10 76
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_0_query_Exon_14
+FCQPHVVRACAALWARCDVT-ARAARCALKLLHRIACDCNRPAMMFQASLFLTFQKILNKRSPQLK
+10 76
+set47_frame2
+FCSYRVVSSCASVLERYESNPPHANHCALKMLHRVAVDCCRPAMLFQATLFLTFQKILHNPLAHFK
+Original query = FCQPHVVRACAALWARCDVTARAARCALKLLHRIACDCNRPAMMFQASLFLTFQKILNKRSPQLK
+New query = FCSYRVVSSCASVLERYESNPPHANHCALKMLHRVAVDCCRPAMLFQATLFLTFQKILHNPLAHFK
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18347856,18348004,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+17
+Melinaea_marsaeus_rileyi,OU911085.1,18345357,18345423,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+Melinaea_marsaeus_rileyi,OU911085.1,18349359,18349565,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Getting Gene
+min = set47_frame0, 0.352
+5 top scores:
+[['set61_frame0', 1.77], ['set3_frame2', 1.781], ['set43_frame0', 1.761], ['set56_frame1', 1.806], ['set47_frame0', 0.352]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_47_frame0.fa.txt
+4 52
+Nymphalis_io_XM_050487249.1_Frame_0_rightoh_2_query_Exon_15
+EMEKFAIFILRKFTEIASKNGKVFIELLFWKNSKESVEIEHGYDLYRD
+4 52
+set47_frame0
+ELEKFAIFILRKFTEVASKSSKAFIELLFWKSSKDAVEIQHGYDVYED
+Original query = EMEKFAIFILRKFTEIASKNGKVFIELLFWKNSKESVEIEHGYDLYRDQ
+New query = ELEKFAIFILRKFTEVASKSSKAFIELLFWKSSKDAVEIQHGYDVYED
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18349140,18349234,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,2,31,31
+
+14
+18
+Melinaea_marsaeus_rileyi,OU911085.1,18345484,18345682,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Melinaea_marsaeus_rileyi,OU911085.1,18350303,18350437,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,41,44
+
+Getting Gene
+min = set74_frame0, 0.854
+5 top scores:
+[['set74_frame0', 0.854], ['set86_frame1', 1.628], ['set13_frame2', 1.63], ['set59_frame2', 1.705], ['set84_frame2', 1.758]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_74_frame0.fa.txt
+1 32
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_1_query_Exon_16
+DKPGRGLWTEEQEEELRSLYMENMARPENDQ
+1 32
+set74_frame0
+SKVGSGGWSEEQQDELRALYDENQSNPATDQ
+Original query = DKPGRGLWTEEQEEELRSLYMENMARPENDQ
+New query = SKVGSGGWSEEQQDELRALYDENQSNPATDQ
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18349359,18349565,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+15
+19
+Melinaea_marsaeus_rileyi,OU911085.1,18347856,18348004,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Melinaea_marsaeus_rileyi,OU911085.1,18350523,18350720,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19,1,61,61
+
+Getting Gene
+min = set35_frame2, 0.551
+5 top scores:
+[['set35_frame2', 0.551], ['set53_frame2', 1.764], ['set40_frame0', 1.755], ['set2_frame1', 1.83], ['set16_frame1', 1.825]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_35_frame2.fa.txt
+2 70
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRSVIKKLKDLGLIFKAPTKKSNRERQEKVSKEFNEEEDNLLAELWKQYKDSP
+2 70
+set35_frame2
+VIDWILENLIDQTRTRRSVIKKLREMGLVFNAPTKRSNRERREKLPTHFSEEENQALTELWTQHGASE
+Original query = VIDWILDNLIDQTRTRRSVIKKLKDLGLIFKAPTKKSNRERQEKVSKEFNEEEDNLLAELWKQYKDSP
+New query = VIDWILENLIDQTRTRRSVIKKLREMGLVFNAPTKRSNRERREKLPTHFSEEENQALTELWTQHGASE
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18350303,18350437,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,41,44
+
+16
+20
+Melinaea_marsaeus_rileyi,OU911085.1,18349140,18349234,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,2,31,31
+
+Melinaea_marsaeus_rileyi,OU911085.1,18350972,18351168,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set21_frame1, 0.91
+5 top scores:
+[['set21_frame1', 0.91], ['set6_frame2', 1.504], ['set24_frame2', 1.752], ['set20_frame0', 1.826], ['set19_frame1', 1.841]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_21_frame1.fa.txt
+12 61
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_1_query_Exon_18
+PMGLIIARMPRKRSKRSFVDRLLELGLVQDKSQCRKRRQRNAKSAGDDG
+12 61
+set21_frame1
+PMSAIVAGMPRSRPRRHYVERLVELGLVVDRKQCRRKRTRN-KTNGEDY
+Original query = PMGLIIARMPRKRSKRSFVDRLLELGLVQDKSQCRKRRQRNAKSAGDDGDKSN
+New query = PMSAIVAGMPRSRPRRHYVERLVELGLVVDRKQCRRKRTRN-KTNGEDY
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18350523,18350720,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19,1,61,61
+
+17
+21
+Melinaea_marsaeus_rileyi,OU911085.1,18349359,18349565,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Melinaea_marsaeus_rileyi,OU911085.1,18351311,18351764,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,139,154
+
+Getting Gene
+min = set19_frame2, 1.227
+5 top scores:
+[['set19_frame2', 1.227], ['set34_frame2', 1.728], ['set36_frame1', 1.813], ['set34_frame0', 1.821], ['set35_frame0', 1.8]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_19_frame2.fa.txt
+17 80
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_1_query_Exon_19
+SSSESEHSSSDGDDNVRPQTAAVNVKHKKPLKKRAENKKKSA----RVELSASEIAKLLIEAV
+17 80
+set19_frame2
+NSSDSELSKSDSEGHSTPAPPSLKTKAKKKLTKRKETNKQSAVSVESRERSAREVAALLLRAV
+Original query = SSSESEHSSSDGDDNVRPQTAAVNVKHKKPLKKRAENKKKSARVELSASEIAKLLIEAVDS
+New query = NSSDSELSKSDSEGHSTPAPPSLKTKAKKKLTKRKETNKQSAVSVESRERSAREVAALLLRAV
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18350972,18351168,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+18
+21
+Melinaea_marsaeus_rileyi,OU911085.1,18350303,18350437,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,41,44
+
+Melinaea_marsaeus_rileyi,OU911085.1,18351311,18351764,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,139,154
+
+Getting Gene
+min = set16_frame2, 0.499
+5 top scores:
+[['set16_frame2', 0.499], ['set21_frame0', 1.822], ['set14_frame1', 1.83], ['set15_frame1', 1.858], ['set30_frame2', 1.862]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_16_frame2.fa.txt
+1 66
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_0_query_Exon_20
+LTEALKWLAENLEEVALDQEAEGFDPTSEGTPLVPISSESVEAMDNPLFMKVLKSVGIAPPSDEQ
+1 66
+set16_frame2
+YTEALNWLSENLEEVALDQEAEGFDPSAEGTPLVPITRGCVQAMRDELFTRVLRSVGMVPPDNEQ
+Original query = LTEALKWLAENLEEVALDQEAEGFDPTSEGTPLVPISSESVEAMDNPLFMKVLKSVGIAPPSDEQ
+New query = YTEALNWLSENLEEVALDQEAEGFDPSAEGTPLVPITRGCVQAMRDELFTRVLRSVGMVPPDNEQ
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18351311,18351764,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,139,154
+
+19
+21
+Melinaea_marsaeus_rileyi,OU911085.1,18350523,18350720,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19,1,61,61
+
+Melinaea_marsaeus_rileyi,OU911085.1,18351311,18351764,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,139,154
+
+Getting Gene
+min = set16_frame2, 1.22
+5 top scores:
+[['set11_frame0', 1.885], ['set16_frame2', 1.22]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_16_frame2.fa.txt
+0 154
+Nymphalis_io_XM_050487249.1_Frame_0_rightoh_1_query_Exon_21
+ETYWRIPSSIHYDTIRKRREIVIKAVNKELIVDSTNNNAEGIQE----------------KNNPKDE--SSDDDDLFDNLRKMRDVSPYKSNTPSRSVSNN-RKRNRSLSSDEENNRKMQKIDEDDDEEDILSFAKKTLQRADPPADPPADHSD
+0 154
+set16_frame2
+ETYWRIPSSLHHHTIRTRRDIINRAVNGELITDHTGAPTEKDKEDSIDERDGSIASTERHKENNIDERDSTSDDELFDNLRKI------TNNAHDDNIQNKRRKRTRSDRSQGDQHTPMERIEEEEEEEDILSFAKKTLH-----TDGQRDGGQ
+Original query = ETYWRIPSSIHYDTIRKRREIVIKAVNKELIVDSTNNNAEGIQEKNNPKDESSDDDDLFDNLRKMRDVSPYKSNTPSRSVSNNRKRNRSLSSDEENNRKMQKIDEDDDEEDILSFAKKTLQRADPPADPPADHSDS
+New query = ETYWRIPSSLHHHTIRTRRDIINRAVNGELITDHTGAPTEKDKEDSIDERDGSIASTERHKENNIDERDSTSDDELFDNLRKI------TNNAHDDNIQNKRRKRTRSDRSQGDQHTPMERIEEEEEEEDILSFAKKTLH-----TDGQRDGGQ
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18334302,18334485,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Melinaea_marsaeus_rileyi,OU911085.1,18333979,18334232,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Melinaea_marsaeus_rileyi,OU911085.1,18334935,18335191,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set2_frame0, 0.178
+5 top scores:
+[['set34_frame2', 1.834], ['set2_frame0', 0.178], ['set16_frame1', 1.848], ['set33_frame1', 1.83], ['set28_frame2', 1.802]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_2_frame0.fa.txt
+22 83
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_0_query_Exon_2
+LLVNLTNPALLLYREEVPVERTARHNYLQILTHLQSYKEEAFIKVETWQVFAKKLAKILEI
+22 83
+set2_frame0
+LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQSYKEDAFTKVDTWHIFAKKLGKVLEI
+Original query = LLVNLTNPALLLYREEVPVERTARHNYLQILTHLQSYKEEAFIKVETWQVFAKKLAKILEI
+New query = LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQSYKEDAFTKVDTWHIFAKKLGKVLEI
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18334647,18334781,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Melinaea_marsaeus_rileyi,OU911085.1,18333979,18334232,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Melinaea_marsaeus_rileyi,OU911085.1,18335436,18335633,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set28_frame2, 0.038
+5 top scores:
+[['set28_frame2', 0.038], ['set2_frame0', 1.736], ['set34_frame2', 1.771], ['set26_frame0', 1.749], ['set16_frame1', 1.82]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_28_frame2.fa.txt
+0 45
+Vanessa_tameamea_XM_026628490.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+0 45
+set28_frame2
+DWSDRDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+New query = DWSDRDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18334935,18335191,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Melinaea_marsaeus_rileyi,OU911085.1,18334302,18334485,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Melinaea_marsaeus_rileyi,OU911085.1,18338179,18338361,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set21_frame0, 0.146
+5 top scores:
+[['set21_frame0', 0.146], ['set1_frame1', 1.872], ['set25_frame1', 1.855], ['set93_frame2', 1.849]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_21_frame0.fa.txt
+7 92
+Vanessa_tameamea_XM_026628490.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIVLYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLTMRMAETKERMNKVKMYSST
+7 92
+set21_frame0
+VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLADSALQRSVDEKLRDDQQLLTLRMTENKDRMNKIKHYSAT
+Original query = VLWALNQAGILDIVLYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLTMRMAETKERMNKVKMYSST
+New query = VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLADSALQRSVDEKLRDDQQLLTLRMTENKDRMNKIKHYSAT
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18335436,18335633,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Melinaea_marsaeus_rileyi,OU911085.1,18334647,18334781,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Melinaea_marsaeus_rileyi,OU911085.1,18338669,18338953,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set23_frame1, 0.148
+5 top scores:
+[['set79_frame1', 1.83], ['set40_frame2', 1.842], ['set46_frame0', 1.845], ['set79_frame0', 1.862], ['set23_frame1', 0.148]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_23_frame1.fa.txt
+11 76
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVIQNMKSISENELISLKPLNKISNLDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+11 76
+set23_frame1
+HSRFGGTYVVQNMKSISDNELISLKPLNKISNLDFNGSRKSRLVRPKNRRPVESGTMERRSAFAI
+Original query = HSRFGGTYVIQNMKSISENELISLKPLNKISNLDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+New query = HSRFGGTYVVQNMKSISDNELISLKPLNKISNLDFNGSRKSRLVRPKNRRPVESGTMERRSAFAI
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18338179,18338361,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+Melinaea_marsaeus_rileyi,OU911085.1,18334935,18335191,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Melinaea_marsaeus_rileyi,OU911085.1,18339021,18339139,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8,1,39,39
+
+Getting Gene
+min = set74_frame2, 0.259
+5 top scores:
+[['set74_frame2', 0.259], ['set75_frame2', 1.813], ['set51_frame1', 1.828], ['set77_frame1', 1.854], ['set73_frame0', 1.735]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_74_frame2.fa.txt
+13 73
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNPMMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHDFQIGLV
+13 73
+set74_frame2
+LFLKEFCIEFLNSAYNPLMRHVRDVLARAAAQQHDDSYYLWAVKFFMEFNRGHDFQVGLV
+Original query = LFLKEFCIEFLNSSYNPMMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHDFQIGLV
+New query = LFLKEFCIEFLNSAYNPLMRHVRDVLARAAAQQHDDSYYLWAVKFFMEFNRGHDFQVGLV
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18338669,18338953,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Melinaea_marsaeus_rileyi,OU911085.1,18335436,18335633,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Melinaea_marsaeus_rileyi,OU911085.1,18341933,18342080,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,40,48
+
+Getting Gene
+min = set65_frame0, 0.676
+5 top scores:
+[['set65_frame0', 0.676], ['set119_frame0', 1.869], ['set96_frame1', 1.863], ['set84_frame2', 1.864]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_65_frame0.fa.txt
+7 101
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_2_query_Exon_7
+ETLSVPTFHFVQQQMEKYSDMIKVERKRFPVWVRRLHVALRAFRELLQSLRVARGAAAAVRDAARALQAALLYAPEYREFVLALLLAYDENKMP
+7 101
+set65_frame0
+ETMSVPMFHYVQQQTEKYYDMIKVERKKFSNWVRRLHLAVRAYKELLLSVVRMEQGSAELRDAAKVFKTNIFYVLEYREFVLSIFLNYDENKMP
+Original query = ETLSVPTFHFVQQQMEKYSDMIKVERKRFPVWVRRLHVALRAFRELLQSLRVARGAAAAVRDAARALQAALLYAPEYREFVLALLLAYDENKMP
+New query = ETMSVPMFHYVQQQTEKYYDMIKVERKKFSNWVRRLHLAVRAYKELLLSVVRMEQGSAELRDAAKVFKTNIFYVLEYREFVLSIFLNYDENKMP
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18339021,18339139,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8,1,39,39
+
+6
+10
+Melinaea_marsaeus_rileyi,OU911085.1,18338179,18338361,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Melinaea_marsaeus_rileyi,OU911085.1,18342422,18342502,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set10_frame0, 0.426
+5 top scores:
+[['set40_frame0', 1.671], ['set6_frame0', 1.718], ['set78_frame1', 1.723], ['set12_frame2', 1.731], ['set10_frame0', 0.426]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_10_frame0.fa.txt
+31 70
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_1_query_Exon_8
+SYLADLVETEHLFLKLLEEFCKNTGLVVQKKVRKKGKSK
+31 70
+set10_frame0
+SYLVDLIETVHLFLKMLEHYCKKTGLVVQKKVRKKSNVK
+Original query = SYLADLVETEHLFLKLLEEFCKNTGLVVQKKVRKKGKSK
+New query = SYLVDLIETVHLFLKMLEHYCKKTGLVVQKKVRKKSNVK
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18341933,18342080,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,40,48
+
+7
+11
+Melinaea_marsaeus_rileyi,OU911085.1,18338669,18338953,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Melinaea_marsaeus_rileyi,OU911085.1,18342822,18342931,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Getting Gene
+min = set60_frame2, 1.259
+5 top scores:
+[['set60_frame2', 1.259], ['set54_frame2', 1.807], ['set75_frame2', 1.848], ['set71_frame2', 1.858], ['set98_frame0', 1.803]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_60_frame2.fa.txt
+13 25
+set60_frame2
+ERKPKPRARVPS
+Original query = QKPRAPKPKRVETAQWEEVRPQVAAVLRAGVEEYPPPFDAASDTPIDQQ
+New query = ERKPKPRARVPS
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18342422,18342502,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+12
+13
+Melinaea_marsaeus_rileyi,OU911085.1,18339021,18339139,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8,1,39,39
+
+Melinaea_marsaeus_rileyi,OU911085.1,18345357,18345423,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+Getting Gene
+min = set79_frame0, 0.633
+5 top scores:
+[['set79_frame0', 0.633], ['set126_frame0', 1.607], ['set2_frame1', 1.609], ['set77_frame1', 1.611], ['set72_frame1', 1.624]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_79_frame0.fa.txt
+16 42
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRDHKYEGAVGMLRAA
+16 42
+set79_frame0
+ERCMKNIQQWMRRHEYEQAVGALRAA
+Original query = EDCMKKIQKLMRDHKYEGAVGMLRAA
+New query = ERCMKNIQQWMRRHEYEQAVGALRAA
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18342822,18342931,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+9
+13
+Melinaea_marsaeus_rileyi,OU911085.1,18341933,18342080,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,40,48
+
+Melinaea_marsaeus_rileyi,OU911085.1,18345357,18345423,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+Getting Gene
+min = set16_frame2, 0.588
+5 top scores:
+[['set16_frame2', 0.588], ['set65_frame0', 1.699], ['set57_frame1', 1.715], ['set22_frame0', 1.768], ['set21_frame2', 1.768]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_16_frame2.fa.txt
+21 56
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGVDGVTEDEELDMLETIYNTDLGVEE
+21 56
+set16_frame2
+EVWPEGGVFGADGMREEEELDMLQSVYAADLGLDA
+Original query = EVWPEEGIFGVDGVTEDEELDMLETIYNTDLGVEE
+New query = EVWPEGGVFGADGMREEEELDMLQSVYAADLGLDA
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,0,0,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_12,0,0,14
+
+10
+14
+Melinaea_marsaeus_rileyi,OU911085.1,18342422,18342502,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Melinaea_marsaeus_rileyi,OU911085.1,18345484,18345682,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set12_frame1, 1.284
+5 top scores:
+[['set12_frame1', 1.284], ['set1_frame1', 1.589], ['set49_frame1', 1.602], ['set6_frame2', 1.61], ['set14_frame2', 1.61]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_12_frame1.fa.txt
+35 52
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_1_query_Exon_12
+AYINEEEAQENSQYEDD
+35 52
+set12_frame1
+SEIEDEEIHGNSEDEEN
+Original query = AYINEEEAQENSQYEDD
+New query = SEIEDEEIHGNSEDEEN
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18345357,18345423,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+11
+15
+Melinaea_marsaeus_rileyi,OU911085.1,18342822,18342931,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Melinaea_marsaeus_rileyi,OU911085.1,18347856,18348004,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set45_frame2, 0.101
+5 top scores:
+[['set45_frame2', 0.101], ['set36_frame1', 1.478], ['set38_frame2', 1.533], ['set90_frame2', 1.6], ['set71_frame2', 1.649]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_45_frame2.fa.txt
+14 36
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_2_query_Exon_13
+EEEEDRTTSVVETDFDFQDFVL
+14 36
+set45_frame2
+EEDEDRTTAVVETDFDFQDFVL
+Original query = EEEEDRTTSVVETDFDFQDFVL
+New query = EEDEDRTTAVVETDFDFQDFVL
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18345484,18345682,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Melinaea_marsaeus_rileyi,OU911085.1,18342822,18342931,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Melinaea_marsaeus_rileyi,OU911085.1,18349140,18349234,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,2,31,31
+
+Getting Gene
+min = set47_frame2, 0.77
+5 top scores:
+[['set47_frame2', 0.77], ['set127_frame2', 1.78], ['set50_frame1', 1.82], ['set60_frame0', 1.844], ['set103_frame1', 1.853]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_47_frame2.fa.txt
+10 76
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_0_query_Exon_14
+FCHPRVVSACAGVLAR-EAGGARAAHCALKLLHRVAWDCARPAMLFQASLFLVFQRILDRPAPHRE
+10 76
+set47_frame2
+FCSYRVVSSCASVLERYESNPPHANHCALKMLHRVAVDCCRPAMLFQATLFLTFQKILHNPLAHFK
+Original query = FCHPRVVSACAGVLAREAGGARAAHCALKLLHRVAWDCARPAMLFQASLFLVFQRILDRPAPHRE
+New query = FCSYRVVSSCASVLERYESNPPHANHCALKMLHRVAVDCCRPAMLFQATLFLTFQKILHNPLAHFK
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18347856,18348004,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+17
+Melinaea_marsaeus_rileyi,OU911085.1,18345357,18345423,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+Melinaea_marsaeus_rileyi,OU911085.1,18349359,18349565,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Getting Gene
+min = set47_frame0, 0.275
+5 top scores:
+[['set3_frame2', 1.756], ['set10_frame1', 1.787], ['set43_frame0', 1.743], ['set70_frame1', 1.788], ['set47_frame0', 0.275]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_47_frame0.fa.txt
+4 52
+Vanessa_tameamea_XM_026628490.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFAIFILRKFTEIASKSNKVFIELLFWKNSKDSVEIEHGYDLYHD
+4 52
+set47_frame0
+ELEKFAIFILRKFTEVASKSSKAFIELLFWKSSKDAVEIQHGYDVYED
+Original query = ELEKFAIFILRKFTEIASKSNKVFIELLFWKNSKDSVEIEHGYDLYHDQ
+New query = ELEKFAIFILRKFTEVASKSSKAFIELLFWKSSKDAVEIQHGYDVYED
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18349140,18349234,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,2,31,31
+
+14
+18
+Melinaea_marsaeus_rileyi,OU911085.1,18345484,18345682,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Melinaea_marsaeus_rileyi,OU911085.1,18350303,18350437,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,41,44
+
+Getting Gene
+min = set74_frame0, 0.851
+5 top scores:
+[['set74_frame0', 0.851], ['set52_frame1', 1.614], ['set86_frame1', 1.627], ['set84_frame2', 1.684], ['set59_frame2', 1.698]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_74_frame0.fa.txt
+1 32
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_1_query_Exon_16
+DKPGRAAWTEEQEEELRSLYMENVARPESDQ
+1 32
+set74_frame0
+SKVGSGGWSEEQQDELRALYDENQSNPATDQ
+Original query = DKPGRAAWTEEQEEELRSLYMENVARPESDQ
+New query = SKVGSGGWSEEQQDELRALYDENQSNPATDQ
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18349359,18349565,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+15
+19
+Melinaea_marsaeus_rileyi,OU911085.1,18347856,18348004,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Melinaea_marsaeus_rileyi,OU911085.1,18350523,18350720,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19,1,61,61
+
+Getting Gene
+min = set35_frame2, 0.534
+5 top scores:
+[['set35_frame2', 0.534], ['set53_frame2', 1.763], ['set40_frame0', 1.741], ['set2_frame1', 1.83], ['set16_frame1', 1.854]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_35_frame2.fa.txt
+2 70
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFKAPTKKSNRERQEKVSKEFNEEEDNLLAELWKQYQDSP
+2 70
+set35_frame2
+VIDWILENLIDQTRTRRSVIKKLREMGLVFNAPTKRSNRERREKLPTHFSEEENQALTELWTQHGASE
+Original query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFKAPTKKSNRERQEKVSKEFNEEEDNLLAELWKQYQDSP
+New query = VIDWILENLIDQTRTRRSVIKKLREMGLVFNAPTKRSNRERREKLPTHFSEEENQALTELWTQHGASE
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18350303,18350437,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,41,44
+
+16
+20
+Melinaea_marsaeus_rileyi,OU911085.1,18349140,18349234,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,2,31,31
+
+Melinaea_marsaeus_rileyi,OU911085.1,18350972,18351168,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set21_frame1, 0.977
+5 top scores:
+[['set21_frame1', 0.977], ['set6_frame2', 1.539], ['set24_frame2', 1.792], ['set20_frame0', 1.825], ['set33_frame0', 1.869]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_21_frame1.fa.txt
+12 64
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_1_query_Exon_18
+PMGLITARMPRKRSKRSFVERMLELGIIQDKNQCRKRRQRKTKSSGDDGDKL
+12 64
+set21_frame1
+PMSAIVAGMPRSRPRRHYVERLVELGLVVDRKQCRRKRTR-NKTNGEDYQFL
+Original query = PMGLITARMPRKRSKRSFVERMLELGIIQDKNQCRKRRQRKTKSSGDDGDKLN
+New query = PMSAIVAGMPRSRPRRHYVERLVELGLVVDRKQCRRKRTR-NKTNGEDYQFL
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18350523,18350720,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19,1,61,61
+
+17
+21
+Melinaea_marsaeus_rileyi,OU911085.1,18349359,18349565,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Melinaea_marsaeus_rileyi,OU911085.1,18351311,18351764,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,139,154
+
+Getting Gene
+min = set19_frame2, 1.278
+5 top scores:
+[['set19_frame2', 1.278], ['set34_frame2', 1.711], ['set36_frame1', 1.791], ['set34_frame0', 1.778], ['set35_frame0', 1.742]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_19_frame2.fa.txt
+17 82
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_1_query_Exon_19
+SSSESEHSSSDDENEARPPLRTINVK-RKKPSKKKESSKTK--KAERLELSASEIAKLLIQAVAS
+17 82
+set19_frame2
+NSSDSELSKSDSEGHSTPAPPSLKTKAKKKLTKRKETNKQSAVSVESRERSAREVAALLLRAVHG
+Original query = SSSESEHSSSDDENEARPPLRTINVKRKKPSKKKESSKTKKAERLELSASEIAKLLIQAVAS
+New query = NSSDSELSKSDSEGHSTPAPPSLKTKAKKKLTKRKETNKQSAVSVESRERSAREVAALLLRAVHG
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18350972,18351168,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+18
+21
+Melinaea_marsaeus_rileyi,OU911085.1,18350303,18350437,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,41,44
+
+Melinaea_marsaeus_rileyi,OU911085.1,18351311,18351764,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,139,154
+
+Getting Gene
+min = set16_frame2, 0.521
+5 top scores:
+[['set16_frame2', 0.521], ['set21_frame0', 1.828], ['set14_frame1', 1.833], ['set15_frame1', 1.842], ['set1_frame2', 1.86]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_16_frame2.fa.txt
+1 66
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_0_query_Exon_20
+LSEALKWLAENLEEVALDQEAEGFDPESEGTPLVPISSESVEAMDNPLFVKVLKSIGIAPPSDEQ
+1 66
+set16_frame2
+YTEALNWLSENLEEVALDQEAEGFDPSAEGTPLVPITRGCVQAMRDELFTRVLRSVGMVPPDNEQ
+Original query = LSEALKWLAENLEEVALDQEAEGFDPESEGTPLVPISSESVEAMDNPLFVKVLKSIGIAPPSDEQ
+New query = YTEALNWLSENLEEVALDQEAEGFDPSAEGTPLVPITRGCVQAMRDELFTRVLRSVGMVPPDNEQ
+Scaffold = OU911085.1, start = 18333979, end = 18334232
+Melinaea_marsaeus_rileyi,OU911085.1,18351311,18351764,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,139,154
+
+19
+21
+Melinaea_marsaeus_rileyi,OU911085.1,18350523,18350720,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19,1,61,61
+
+Melinaea_marsaeus_rileyi,OU911085.1,18351311,18351764,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,139,154
+
+Getting Gene
+min = set16_frame2, 1.261
+5 top scores:
+[['set11_frame0', 1.886], ['set16_frame2', 1.261]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Melinaea_marsaeus_rileyi/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_16_frame2.fa.txt
+0 158
+Vanessa_tameamea_XM_026628490.1_Frame_0_rightoh_0_query_Exon_21
+ETYWRIPSSIHYETIRKRREIVMKAVNNELLVDST------NDTNSTENNAGTT------QENN--PKDESSDDEDLFDTLRKMRDVSPQKSSHPTSNILNNRKRNRSLSSDDENNRKMQKIDEDDSEEDILSFAKKTLQRDDLPDTEELPARDSGSG
+0 158
+set16_frame2
+ETYWRIPSSLHHHTIRTRRDIINRAVNGELITDHTGAPTEKDKEDSIDERDGSIASTERHKENNIDERDSTSDDE-LFDNLRKITN-----NAHDDNIQNKRRKRTRSDRSQGDQHTPMERIEEEEEEEDILSFAKKTLHTDGQRD----------GG
+Original query = ETYWRIPSSIHYETIRKRREIVMKAVNNELLVDSTNDTNSTENNAGTTQENNPKDESSDDEDLFDTLRKMRDVSPQKSSHPTSNILNNRKRNRSLSSDDENNRKMQKIDEDDSEEDILSFAKKTLQRDDLPDTEELPARDSGSGN
+New query = ETYWRIPSSLHHHTIRTRRDIINRAVNGELITDHTGAPTEKDKEDSIDERDGSIASTERHKENNIDERDSTSDDE-LFDNLRKITN-----NAHDDNIQNKRRKRTRSDRSQGDQHTPMERIEEEEEEEDILSFAKKTLHTDGQRD----------GG

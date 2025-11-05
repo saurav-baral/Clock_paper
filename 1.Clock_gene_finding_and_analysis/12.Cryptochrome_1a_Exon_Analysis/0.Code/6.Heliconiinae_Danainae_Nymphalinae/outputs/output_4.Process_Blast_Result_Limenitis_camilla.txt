@@ -1,0 +1,624 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Limenitis_camilla
+Processing Exon_2
+0 query coordinate
+Period_gene_genomic_sequence_individual_exon
+48
+[[2, 1]]
+reached here
+Before splice: 1156,1302
+after splice: 1156,1302
+sequence:
+ACGAAGTTGGTGGGGTTCAACCGCATGCGTTATCTCCTTGAAGCTCTGAACGATCTGGATACTCGGTTTAAGAAGTATGGCGGCAAGTTGCTCATGCTGCAGGGGAAACCTGATGTTGTCTTCCAGCGTCTTTGGGAAGAGTTTG
+sequence:
+TKLVGFNRMRYLLEALNDLDTRFKKYGGKLLMLQGKPDVVFQRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKLVGFNRMRYLLEALNDLDTRFKKYGGKLLMLQGKPDVVFQRLWEEF
+[[2, 1]]
+start_coordinate : 12700462,stop_coordinate : 12700605
+1156 1302 Y N
+Limenitis_camilla,,12700460,12700606,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Limenitis_camilla
+Processing Exon_3
+Limenitis_camilla_coordinates_Danaus_plexippus.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 3138,3325
+after splice: 3138,3325
+sequence:
+ATCCGCAGAATATGCTTCGAACAGGATTGCGAGCCAATATGGCGTGAACGCGATGACGCTGTACGTAATATGTGTCGGAGCAACGGTGTCGCCTGTCGGGAAAACGTATCCCACACGCTGTGGGATCCGGATACTGTGATACAGGCTAATGGTGGAATCCCACCGCTTACATATCAAATGTTCTTG
+sequence:
+IRRICFEQDCEPIWRERDDAVRNMCRSNGVACRENVSHTLWDPDTVIQANGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+IRRICFEQDCEPIWRERDDAVRNMCRSNGVACRENVSHTLWDPDTVIQANGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 12702444,stop_coordinate : 12702629
+3138 3325 Y N
+Limenitis_camilla,,12702442,12702629,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Limenitis_camilla
+Processing Exon_4
+Limenitis_camilla_coordinates_Danaus_plexippus.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 4202,4318
+after splice: 4202,4318
+sequence:
+CACACTGTGGCCATCATAGGAGACCCGCCACGCCCAGTCGATGATGTCGATTTGAAAGGAGTCAACTTTGGTTCTTTCCCTGATAGCTTCTACAAGGAATTTACTGTCTATGACAAG
+sequence:
+HTVAIIGDPPRPVDDVDLKGVNFGSFPDSFYKEFTVYDK
+left = AG, right =GT, stop_counter = 0
+HTVAIIGDPPRPVDDVDLKGVNFGSFPDSFYKEFTVYDK
+[[0, 0]]
+start_coordinate : 12703506,stop_coordinate : 12703622
+4202 4318 Y N
+Limenitis_camilla,,12703506,12703622,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Limenitis_camilla
+Processing Exon_5
+Limenitis_camilla_coordinates_Danaus_plexippus.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 4553,4686
+after splice: 4553,4686
+sequence:
+GTTCCCAAACCGGAAGACTTGGGTATATTCCTGGAGAATGAAGATATCCGTATGATCCGTTGGGTTGGAGGCGAGACTTCTGCTCTGACGCAGATGCAGAACCGCCTCACTGTGGAGTATGAAACTTTCTGCAG
+sequence:
+VPKPEDLGIFLENEDIRMIRWVGGETSALTQMQNRLTVEYETFC
+left = AG, right =GT, stop_counter = 0
+VPKPEDLGIFLENEDIRMIRWVGGETSALTQMQNRLTVEYETFC
+[[0, 2]]
+start_coordinate : 12703857,stop_coordinate : 12703988
+4553 4686 Y N
+Limenitis_camilla,,12703857,12703990,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Limenitis_camilla
+Processing Exon_6
+Limenitis_camilla_coordinates_Danaus_plexippus.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 4883,4978
+after splice: 4883,4978
+sequence:
+gGATCTTACCTACCAACGCATGGTAATCCTGATCTGCTTGGACCTCCTATATCTTTGAGCCCAGCTTTGCGGTTTGGTTGTCTCTCTGTCCGCAG
+sequence:
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+left = ag, right =GT, stop_counter = 0
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 12704188,stop_coordinate : 12704280
+4883 4978 Y N
+Limenitis_camilla,,12704187,12704282,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Limenitis_camilla
+Processing Exon_7
+Limenitis_camilla_coordinates_Danaus_plexippus.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 5066,5139
+after splice: 5066,5139
+sequence:
+ttttactgGTGCCTTCAGGACTTGTTCCAACAAGTTAACCAAAGTCAACTTGGGTCTACTCAATTTATTACTG
+sequence:
+FYWCLQDLFQQVNQSQLGSTQFIT
+left = ag, right =GT, stop_counter = 0
+FYWCLQDLFQQVNQSQLGSTQFIT
+[[1, 1]]
+start_coordinate : 12704371,stop_coordinate : 12704442
+5066 5139 Y N
+Limenitis_camilla,,12704370,12704443,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Limenitis_camilla
+Processing Exon_8
+Limenitis_camilla_coordinates_Danaus_plexippus.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 5233,5359
+after splice: 5233,5359
+sequence:
+CAACTTATATGGCGTGAATATTTCTACACGATGAGTGTAACCAATCCAAAATATGGACAAATAGAGGGTAACCCTATCTGCTTGAACATTCCCTGGAAGGAAGCTACCAGTGATGAATTGCAGAG
+sequence:
+QLIWREYFYTMSVTNPKYGQIEGNPICLNIPWKEATSDELQ
+left = ag, right =GT, stop_counter = 0
+QLIWREYFYTMSVTNPKYGQIEGNPICLNIPWKEATSDELQ
+[[2, 2]]
+start_coordinate : 12704539,stop_coordinate : 12704661
+5233 5359 Y N
+Limenitis_camilla,,12704537,12704663,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Limenitis_camilla
+Processing Exon_9
+Limenitis_camilla_coordinates_Danaus_plexippus.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 6081,6263
+after splice: 6081,6263
+sequence:
+tGGAAGGAAGGCCGCACTGGTTTCCCATTCATTGATGCAGCCATGCGTCAGCTACGCAGCGAGGGCTGGTTGCATCATGCTGTCAGGAACACGGTTGCTTCGTTCCTCACTCGTGGAACACTCTGGTTGTCCTGGGAACATGGACTGCAGCACTTCTTGAAGTACTTGCTTGATGCTGATTG
+sequence:
+WKEGRTGFPFIDAAMRQLRSEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+left = ag, right =GT, stop_counter = 0
+WKEGRTGFPFIDAAMRQLRSEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 12705386,stop_coordinate : 12705565
+6081 6263 Y N
+Limenitis_camilla,,12705385,12705567,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Limenitis_camilla
+Processing Exon_10
+Limenitis_camilla_coordinates_Danaus_plexippus.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 6574,6741
+after splice: 6574,6741
+sequence:
+TCGGTATGCGCTGGTAACTGGATGTGGGTCTCATCCAGTGCGTTTGAGGCTTTGTTGGATTCCAGCGAATGCGCCTGCCCTGTTCTCCTGGGCAGGAGACTCGAGCCGTCCGGGCATTATATCAGACGTTACGTGCCTGAATTGGCTAATATGCCTGTGGATTATAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSSECACPVLLGRRLEPSGHYIRRYVPELANMPVDY
+left = ag, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSSECACPVLLGRRLEPSGHYIRRYVPELANMPVDY
+[[1, 2]]
+start_coordinate : 12705879,stop_coordinate : 12706043
+6574 6741 Y N
+Limenitis_camilla,,12705878,12706045,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Limenitis_camilla
+Processing Exon_11
+Limenitis_camilla_coordinates_Danaus_plexippus.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 8111,8231
+after splice: 8111,8231
+sequence:
+TATGAACCGTGGAATGCACCGATCGAAGTGCAGGAGAAGGCAGGTTGTATCATCGGGAAGGACTACCCTGCTCCCCTGGTGGACCACCGCGTCGCCGCGCACCGCAACCGCAGCGTTATG
+sequence:
+YEPWNAPIEVQEKAGCIIGKDYPAPLVDHRVAAHRNRSVM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TATGAACCGTGGAATGCACCGATCGAAGTGCAGGAGAAGGCAGGTTGTATCATCGGGAAGGACTACCCTGCTCCCCTGGTGGACCACCGCGTCGCCGCGCACCGCAACCGCAGCGTTATGCAG
+sequence:
+YEPWNAPIEVQEKAGCIIGKDYPAPLVDHRVAAHRNRSVMQ
+left = AG, right =GT, stop_counter = 0
+YEPWNAPIEVQEKAGCIIGKDYPAPLVDHRVAAHRNRSVMQ
+[[1, 0]]
+start_coordinate : 12707416,stop_coordinate : 12707538
+8111 8234 Y N
+Limenitis_camilla,,12707415,12707538,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Limenitis_camilla
+Processing Exon_2
+0 query coordinate
+Limenitis_camilla_coordinates_Danaus_plexippus.csv
+48
+[[2, 1]]
+reached here
+Before splice: 1156,1302
+after splice: 1156,1302
+sequence:
+ACGAAGTTGGTGGGGTTCAACCGCATGCGTTATCTCCTTGAAGCTCTGAACGATCTGGATACTCGGTTTAAGAAGTATGGCGGCAAGTTGCTCATGCTGCAGGGGAAACCTGATGTTGTCTTCCAGCGTCTTTGGGAAGAGTTTG
+sequence:
+TKLVGFNRMRYLLEALNDLDTRFKKYGGKLLMLQGKPDVVFQRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKLVGFNRMRYLLEALNDLDTRFKKYGGKLLMLQGKPDVVFQRLWEEF
+[[2, 1]]
+start_coordinate : 12700462,stop_coordinate : 12700605
+1156 1302 Y N
+Limenitis_camilla,,12700460,12700606,0,N,Nymphalis_io_XM_050489987.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Limenitis_camilla
+Processing Exon_3
+Limenitis_camilla_coordinates_Nymphalis_io.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 3138,3325
+after splice: 3138,3325
+sequence:
+ATCCGCAGAATATGCTTCGAACAGGATTGCGAGCCAATATGGCGTGAACGCGATGACGCTGTACGTAATATGTGTCGGAGCAACGGTGTCGCCTGTCGGGAAAACGTATCCCACACGCTGTGGGATCCGGATACTGTGATACAGGCTAATGGTGGAATCCCACCGCTTACATATCAAATGTTCTTG
+sequence:
+IRRICFEQDCEPIWRERDDAVRNMCRSNGVACRENVSHTLWDPDTVIQANGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+IRRICFEQDCEPIWRERDDAVRNMCRSNGVACRENVSHTLWDPDTVIQANGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 12702444,stop_coordinate : 12702629
+3138 3325 Y N
+Limenitis_camilla,,12702442,12702629,0,N,Nymphalis_io_XM_050489987.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Limenitis_camilla
+Processing Exon_4
+Limenitis_camilla_coordinates_Nymphalis_io.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 4202,4318
+after splice: 4202,4318
+sequence:
+CACACTGTGGCCATCATAGGAGACCCGCCACGCCCAGTCGATGATGTCGATTTGAAAGGAGTCAACTTTGGTTCTTTCCCTGATAGCTTCTACAAGGAATTTACTGTCTATGACAAG
+sequence:
+HTVAIIGDPPRPVDDVDLKGVNFGSFPDSFYKEFTVYDK
+left = AG, right =GT, stop_counter = 0
+HTVAIIGDPPRPVDDVDLKGVNFGSFPDSFYKEFTVYDK
+[[0, 0]]
+start_coordinate : 12703506,stop_coordinate : 12703622
+4202 4318 Y N
+Limenitis_camilla,,12703506,12703622,0,N,Nymphalis_io_XM_050489987.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Limenitis_camilla
+Processing Exon_5
+Limenitis_camilla_coordinates_Nymphalis_io.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 4553,4686
+after splice: 4553,4686
+sequence:
+GTTCCCAAACCGGAAGACTTGGGTATATTCCTGGAGAATGAAGATATCCGTATGATCCGTTGGGTTGGAGGCGAGACTTCTGCTCTGACGCAGATGCAGAACCGCCTCACTGTGGAGTATGAAACTTTCTGCAG
+sequence:
+VPKPEDLGIFLENEDIRMIRWVGGETSALTQMQNRLTVEYETFC
+left = AG, right =GT, stop_counter = 0
+VPKPEDLGIFLENEDIRMIRWVGGETSALTQMQNRLTVEYETFC
+[[0, 2]]
+start_coordinate : 12703857,stop_coordinate : 12703988
+4553 4686 Y N
+Limenitis_camilla,,12703857,12703990,0,N,Nymphalis_io_XM_050489987.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Limenitis_camilla
+Processing Exon_6
+Limenitis_camilla_coordinates_Nymphalis_io.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 4883,4978
+after splice: 4883,4978
+sequence:
+gGATCTTACCTACCAACGCATGGTAATCCTGATCTGCTTGGACCTCCTATATCTTTGAGCCCAGCTTTGCGGTTTGGTTGTCTCTCTGTCCGCAG
+sequence:
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+left = ag, right =GT, stop_counter = 0
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 12704188,stop_coordinate : 12704280
+4883 4978 Y N
+Limenitis_camilla,,12704187,12704282,0,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Limenitis_camilla
+Processing Exon_7
+Limenitis_camilla_coordinates_Nymphalis_io.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 5066,5139
+after splice: 5066,5139
+sequence:
+ttttactgGTGCCTTCAGGACTTGTTCCAACAAGTTAACCAAAGTCAACTTGGGTCTACTCAATTTATTACTG
+sequence:
+FYWCLQDLFQQVNQSQLGSTQFIT
+left = ag, right =GT, stop_counter = 0
+FYWCLQDLFQQVNQSQLGSTQFIT
+[[1, 1]]
+start_coordinate : 12704371,stop_coordinate : 12704442
+5066 5139 Y N
+Limenitis_camilla,,12704370,12704443,0,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Limenitis_camilla
+Processing Exon_8
+Limenitis_camilla_coordinates_Nymphalis_io.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 5233,5359
+after splice: 5233,5359
+sequence:
+CAACTTATATGGCGTGAATATTTCTACACGATGAGTGTAACCAATCCAAAATATGGACAAATAGAGGGTAACCCTATCTGCTTGAACATTCCCTGGAAGGAAGCTACCAGTGATGAATTGCAGAG
+sequence:
+QLIWREYFYTMSVTNPKYGQIEGNPICLNIPWKEATSDELQ
+left = ag, right =GT, stop_counter = 0
+QLIWREYFYTMSVTNPKYGQIEGNPICLNIPWKEATSDELQ
+[[2, 2]]
+start_coordinate : 12704539,stop_coordinate : 12704661
+5233 5359 Y N
+Limenitis_camilla,,12704537,12704663,0,N,Nymphalis_io_XM_050489987.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Limenitis_camilla
+Processing Exon_9
+Limenitis_camilla_coordinates_Nymphalis_io.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 6081,6263
+after splice: 6081,6263
+sequence:
+tGGAAGGAAGGCCGCACTGGTTTCCCATTCATTGATGCAGCCATGCGTCAGCTACGCAGCGAGGGCTGGTTGCATCATGCTGTCAGGAACACGGTTGCTTCGTTCCTCACTCGTGGAACACTCTGGTTGTCCTGGGAACATGGACTGCAGCACTTCTTGAAGTACTTGCTTGATGCTGATTG
+sequence:
+WKEGRTGFPFIDAAMRQLRSEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+left = ag, right =GT, stop_counter = 0
+WKEGRTGFPFIDAAMRQLRSEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 12705386,stop_coordinate : 12705565
+6081 6263 Y N
+Limenitis_camilla,,12705385,12705567,0,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Limenitis_camilla
+Processing Exon_10
+Limenitis_camilla_coordinates_Nymphalis_io.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 6574,6741
+after splice: 6574,6741
+sequence:
+TCGGTATGCGCTGGTAACTGGATGTGGGTCTCATCCAGTGCGTTTGAGGCTTTGTTGGATTCCAGCGAATGCGCCTGCCCTGTTCTCCTGGGCAGGAGACTCGAGCCGTCCGGGCATTATATCAGACGTTACGTGCCTGAATTGGCTAATATGCCTGTGGATTATAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSSECACPVLLGRRLEPSGHYIRRYVPELANMPVDY
+left = ag, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSSECACPVLLGRRLEPSGHYIRRYVPELANMPVDY
+[[1, 2]]
+start_coordinate : 12705879,stop_coordinate : 12706043
+6574 6741 Y N
+Limenitis_camilla,,12705878,12706045,0,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Limenitis_camilla
+Processing Exon_11
+Limenitis_camilla_coordinates_Nymphalis_io.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 8111,8231
+after splice: 8111,8231
+sequence:
+TATGAACCGTGGAATGCACCGATCGAAGTGCAGGAGAAGGCAGGTTGTATCATCGGGAAGGACTACCCTGCTCCCCTGGTGGACCACCGCGTCGCCGCGCACCGCAACCGCAGCGTTATG
+sequence:
+YEPWNAPIEVQEKAGCIIGKDYPAPLVDHRVAAHRNRSVM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TATGAACCGTGGAATGCACCGATCGAAGTGCAGGAGAAGGCAGGTTGTATCATCGGGAAGGACTACCCTGCTCCCCTGGTGGACCACCGCGTCGCCGCGCACCGCAACCGCAGCGTTATGCAG
+sequence:
+YEPWNAPIEVQEKAGCIIGKDYPAPLVDHRVAAHRNRSVMQ
+left = AG, right =GT, stop_counter = 0
+YEPWNAPIEVQEKAGCIIGKDYPAPLVDHRVAAHRNRSVMQ
+[[1, 0]]
+start_coordinate : 12707416,stop_coordinate : 12707538
+8111 8234 Y N
+Limenitis_camilla,,12707415,12707538,0,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Limenitis_camilla
+Processing Exon_2
+0 query coordinate
+Limenitis_camilla_coordinates_Nymphalis_io.csv
+47
+[[2, 1]]
+reached here
+Before splice: 1156,1299
+after splice: 1156,1299
+sequence:
+ACGAAGTTGGTGGGGTTCAACCGCATGCGTTATCTCCTTGAAGCTCTGAACGATCTGGATACTCGGTTTAAGAAGTATGGCGGCAAGTTGCTCATGCTGCAGGGGAAACCTGATGTTGTCTTCCAGCGTCTTTGGGAAGAGT
+sequence:
+TKLVGFNRMRYLLEALNDLDTRFKKYGGKLLMLQGKPDVVFQRLWEE
+left = AG, right =TT, stop_counter = 0
+sequence:
+ACGAAGTTGGTGGGGTTCAACCGCATGCGTTATCTCCTTGAAGCTCTGAACGATCTGGATACTCGGTTTAAGAAGTATGGCGGCAAGTTGCTCATGCTGCAGGGGAAACCTGATGTTGTCTTCCAGCGTCTTTGGGAAGAGTTTG
+sequence:
+TKLVGFNRMRYLLEALNDLDTRFKKYGGKLLMLQGKPDVVFQRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKLVGFNRMRYLLEALNDLDTRFKKYGGKLLMLQGKPDVVFQRLWEEF
+[[2, 1]]
+start_coordinate : 12700462,stop_coordinate : 12700605
+1156 1302 Y N
+Limenitis_camilla,,12700460,12700606,0,N,Vanessa_tameamea_XM_026643186.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Limenitis_camilla
+Processing Exon_3
+Limenitis_camilla_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 3138,3325
+after splice: 3138,3325
+sequence:
+ATCCGCAGAATATGCTTCGAACAGGATTGCGAGCCAATATGGCGTGAACGCGATGACGCTGTACGTAATATGTGTCGGAGCAACGGTGTCGCCTGTCGGGAAAACGTATCCCACACGCTGTGGGATCCGGATACTGTGATACAGGCTAATGGTGGAATCCCACCGCTTACATATCAAATGTTCTTG
+sequence:
+IRRICFEQDCEPIWRERDDAVRNMCRSNGVACRENVSHTLWDPDTVIQANGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+IRRICFEQDCEPIWRERDDAVRNMCRSNGVACRENVSHTLWDPDTVIQANGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 12702444,stop_coordinate : 12702629
+3138 3325 Y N
+Limenitis_camilla,,12702442,12702629,0,N,Vanessa_tameamea_XM_026643186.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Limenitis_camilla
+Processing Exon_4
+Limenitis_camilla_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 4202,4318
+after splice: 4202,4318
+sequence:
+CACACTGTGGCCATCATAGGAGACCCGCCACGCCCAGTCGATGATGTCGATTTGAAAGGAGTCAACTTTGGTTCTTTCCCTGATAGCTTCTACAAGGAATTTACTGTCTATGACAAG
+sequence:
+HTVAIIGDPPRPVDDVDLKGVNFGSFPDSFYKEFTVYDK
+left = AG, right =GT, stop_counter = 0
+HTVAIIGDPPRPVDDVDLKGVNFGSFPDSFYKEFTVYDK
+[[0, 0]]
+start_coordinate : 12703506,stop_coordinate : 12703622
+4202 4318 Y N
+Limenitis_camilla,,12703506,12703622,0,N,Vanessa_tameamea_XM_026643186.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Limenitis_camilla
+Processing Exon_5
+Limenitis_camilla_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 4553,4686
+after splice: 4553,4686
+sequence:
+GTTCCCAAACCGGAAGACTTGGGTATATTCCTGGAGAATGAAGATATCCGTATGATCCGTTGGGTTGGAGGCGAGACTTCTGCTCTGACGCAGATGCAGAACCGCCTCACTGTGGAGTATGAAACTTTCTGCAG
+sequence:
+VPKPEDLGIFLENEDIRMIRWVGGETSALTQMQNRLTVEYETFC
+left = AG, right =GT, stop_counter = 0
+VPKPEDLGIFLENEDIRMIRWVGGETSALTQMQNRLTVEYETFC
+[[0, 2]]
+start_coordinate : 12703857,stop_coordinate : 12703988
+4553 4686 Y N
+Limenitis_camilla,,12703857,12703990,0,N,Vanessa_tameamea_XM_026643186.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Limenitis_camilla
+Processing Exon_6
+Limenitis_camilla_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 4883,4978
+after splice: 4883,4978
+sequence:
+gGATCTTACCTACCAACGCATGGTAATCCTGATCTGCTTGGACCTCCTATATCTTTGAGCCCAGCTTTGCGGTTTGGTTGTCTCTCTGTCCGCAG
+sequence:
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+left = ag, right =GT, stop_counter = 0
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 12704188,stop_coordinate : 12704280
+4883 4978 Y N
+Limenitis_camilla,,12704187,12704282,0,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Limenitis_camilla
+Processing Exon_7
+Limenitis_camilla_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 5066,5139
+after splice: 5066,5139
+sequence:
+ttttactgGTGCCTTCAGGACTTGTTCCAACAAGTTAACCAAAGTCAACTTGGGTCTACTCAATTTATTACTG
+sequence:
+FYWCLQDLFQQVNQSQLGSTQFIT
+left = ag, right =GT, stop_counter = 0
+FYWCLQDLFQQVNQSQLGSTQFIT
+[[1, 1]]
+start_coordinate : 12704371,stop_coordinate : 12704442
+5066 5139 Y N
+Limenitis_camilla,,12704370,12704443,0,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Limenitis_camilla
+Processing Exon_8
+Limenitis_camilla_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 5233,5359
+after splice: 5233,5359
+sequence:
+CAACTTATATGGCGTGAATATTTCTACACGATGAGTGTAACCAATCCAAAATATGGACAAATAGAGGGTAACCCTATCTGCTTGAACATTCCCTGGAAGGAAGCTACCAGTGATGAATTGCAGAG
+sequence:
+QLIWREYFYTMSVTNPKYGQIEGNPICLNIPWKEATSDELQ
+left = ag, right =GT, stop_counter = 0
+QLIWREYFYTMSVTNPKYGQIEGNPICLNIPWKEATSDELQ
+[[2, 2]]
+start_coordinate : 12704539,stop_coordinate : 12704661
+5233 5359 Y N
+Limenitis_camilla,,12704537,12704663,0,N,Vanessa_tameamea_XM_026643186.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Limenitis_camilla
+Processing Exon_9
+Limenitis_camilla_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 6081,6263
+after splice: 6081,6263
+sequence:
+tGGAAGGAAGGCCGCACTGGTTTCCCATTCATTGATGCAGCCATGCGTCAGCTACGCAGCGAGGGCTGGTTGCATCATGCTGTCAGGAACACGGTTGCTTCGTTCCTCACTCGTGGAACACTCTGGTTGTCCTGGGAACATGGACTGCAGCACTTCTTGAAGTACTTGCTTGATGCTGATTG
+sequence:
+WKEGRTGFPFIDAAMRQLRSEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+left = ag, right =GT, stop_counter = 0
+WKEGRTGFPFIDAAMRQLRSEGWLHHAVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 12705386,stop_coordinate : 12705565
+6081 6263 Y N
+Limenitis_camilla,,12705385,12705567,0,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Limenitis_camilla
+Processing Exon_10
+Limenitis_camilla_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 6574,6741
+after splice: 6574,6741
+sequence:
+TCGGTATGCGCTGGTAACTGGATGTGGGTCTCATCCAGTGCGTTTGAGGCTTTGTTGGATTCCAGCGAATGCGCCTGCCCTGTTCTCCTGGGCAGGAGACTCGAGCCGTCCGGGCATTATATCAGACGTTACGTGCCTGAATTGGCTAATATGCCTGTGGATTATAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSSECACPVLLGRRLEPSGHYIRRYVPELANMPVDY
+left = ag, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSSECACPVLLGRRLEPSGHYIRRYVPELANMPVDY
+[[1, 2]]
+start_coordinate : 12705879,stop_coordinate : 12706043
+6574 6741 Y N
+Limenitis_camilla,,12705878,12706045,0,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Limenitis_camilla
+Processing Exon_11
+Limenitis_camilla_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 8111,8231
+after splice: 8111,8231
+sequence:
+TATGAACCGTGGAATGCACCGATCGAAGTGCAGGAGAAGGCAGGTTGTATCATCGGGAAGGACTACCCTGCTCCCCTGGTGGACCACCGCGTCGCCGCGCACCGCAACCGCAGCGTTATG
+sequence:
+YEPWNAPIEVQEKAGCIIGKDYPAPLVDHRVAAHRNRSVM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TATGAACCGTGGAATGCACCGATCGAAGTGCAGGAGAAGGCAGGTTGTATCATCGGGAAGGACTACCCTGCTCCCCTGGTGGACCACCGCGTCGCCGCGCACCGCAACCGCAGCGTTATGCAG
+sequence:
+YEPWNAPIEVQEKAGCIIGKDYPAPLVDHRVAAHRNRSVMQ
+left = AG, right =GT, stop_counter = 0
+YEPWNAPIEVQEKAGCIIGKDYPAPLVDHRVAAHRNRSVMQ
+[[1, 0]]
+start_coordinate : 12707416,stop_coordinate : 12707538
+8111 8234 Y N
+Limenitis_camilla,,12707415,12707538,0,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+

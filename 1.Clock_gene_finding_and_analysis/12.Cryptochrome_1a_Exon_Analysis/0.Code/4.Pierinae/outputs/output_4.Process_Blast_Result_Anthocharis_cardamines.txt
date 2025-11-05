@@ -1,0 +1,624 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Anthocharis_cardamines
+Processing Exon_2
+0 query coordinate
+Period_gene_genomic_sequence_individual_exon
+48
+[[2, 1]]
+reached here
+Before splice: 659,805
+after splice: 659,805
+sequence:
+ACAAAACTAGTTGGTTACAACCGCATGCGTTACCTCCTGGAAGCGCTGGAGGACCTTGACAATCAGTTCCGCCAATATGGCGGCCGCCTGCACATGATCAAGGGGAAACCAGCTGATGTGTTCAGGAGGCTCTGGGAGGAGTTTG
+sequence:
+TKLVGYNRMRYLLEALEDLDNQFRQYGGRLHMIKGKPADVFRRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKLVGYNRMRYLLEALEDLDNQFRQYGGRLHMIKGKPADVFRRLWEEF
+[[2, 1]]
+start_coordinate : 799389,stop_coordinate : 799532
+659 805 Y N
+Anthocharis_cardamines,,799387,799533,0,N,Pararge_aegeria_XM_039898346.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Anthocharis_cardamines
+Processing Exon_3
+Anthocharis_cardamines_coordinates_Pararge_aegeria.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 1179,1366
+after splice: 1179,1366
+sequence:
+ATCAGCAAGCTCTGTTTCGAGCAAGACTGCGAGCCAATCTGGCGGGAGCGCGATGACAGCGTCCGCTCCGCCTGCAGGGAGGTCGGCGTGGAATGTCGCGAGTTCGTGTCGCACACTCTGTGGGACCCGGAGAACGTGATACGAGTCAACGGGGGCATCCCGCCGCTGACCTATCAGATGTTCTTG
+sequence:
+ISKLCFEQDCEPIWRERDDSVRSACREVGVECREFVSHTLWDPENVIRVNGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+ISKLCFEQDCEPIWRERDDSVRSACREVGVECREFVSHTLWDPENVIRVNGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 799909,stop_coordinate : 800094
+1179 1366 Y N
+Anthocharis_cardamines,,799907,800094,0,N,Pararge_aegeria_XM_039898346.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Anthocharis_cardamines
+Processing Exon_4
+Anthocharis_cardamines_coordinates_Pararge_aegeria.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 3721,3837
+after splice: 3721,3837
+sequence:
+CACACAGTGGCCATAATTGGAGACCCGCCGCGACCTGTGGATGACGCGGACCTGCGGACAGTCAACTTTGGAGTTCTGCCGGATTCATTCTACAAGGAGTTCGTGGTTTTCGATAAG
+sequence:
+HTVAIIGDPPRPVDDADLRTVNFGVLPDSFYKEFVVFDK
+left = aG, right =GT, stop_counter = 0
+HTVAIIGDPPRPVDDADLRTVNFGVLPDSFYKEFVVFDK
+[[0, 0]]
+start_coordinate : 802449,stop_coordinate : 802565
+3721 3837 Y N
+Anthocharis_cardamines,,802449,802565,0,N,Pararge_aegeria_XM_039898346.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Anthocharis_cardamines
+Processing Exon_5
+Anthocharis_cardamines_coordinates_Pararge_aegeria.csv
+1 query coordinate
+43
+[[0, 2]]
+reached here
+Before splice: 4505,4635
+after splice: 4505,4635
+sequence:
+ACACCGAAGCCGGAGGACTTGGGGGTGTTTCTCGAGAATGAGGACATCAGGATGATCCGCTGGGTGGGCGGGGAGCGCGCCGCTCTCAAGCAGATGGAGCAGAGGCTCGCCGTGGAACACGACACCTTCCG
+sequence:
+TPKPEDLGVFLENEDIRMIRWVGGERAALKQMEQRLAVEHDTF
+left = AG, right =CA, stop_counter = 0
+sequence:
+ACACCGAAGCCGGAGGACTTGGGGGTGTTTCTCGAGAATGAGGACATCAGGATGATCCGCTGGGTGGGCGGGGAGCGCGCCGCTCTCAAGCAGATGGAGCAGAGGCTCGCCGTGGAACACGACACCTTCCGCAA
+sequence:
+TPKPEDLGVFLENEDIRMIRWVGGERAALKQMEQRLAVEHDTFR
+left = AG, right =GT, stop_counter = 0
+TPKPEDLGVFLENEDIRMIRWVGGERAALKQMEQRLAVEHDTFR
+[[0, 2]]
+start_coordinate : 803233,stop_coordinate : 803364
+4505 4638 Y N
+Anthocharis_cardamines,,803233,803366,0,N,Pararge_aegeria_XM_039898346.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Anthocharis_cardamines
+Processing Exon_6
+Anthocharis_cardamines_coordinates_Pararge_aegeria.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 4914,5009
+after splice: 4914,5009
+sequence:
+GGATCTTATCTTCCGACCCACGGTAGTCCAGACCTCTTGGGACCGCCCATATCACTTAGTCCAGCTCTGCGATTTGGTTGTCTGTCTGTGAGAAA
+sequence:
+GSYLPTHGSPDLLGPPISLSPALRFGCLSVR
+left = AG, right =GT, stop_counter = 0
+GSYLPTHGSPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 803643,stop_coordinate : 803735
+4914 5009 Y N
+Anthocharis_cardamines,,803642,803737,0,N,Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Anthocharis_cardamines
+Processing Exon_7
+Anthocharis_cardamines_coordinates_Pararge_aegeria.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 5698,5771
+after splice: 5698,5771
+sequence:
+TTCTACTGGTCACTGCAAGATCTCTTCCAGAAAGTGCATCAGGGTCGATTGCCGTCTAGTCAGTTTATTACGG
+sequence:
+FYWSLQDLFQKVHQGRLPSSQFIT
+left = AG, right =gt, stop_counter = 0
+FYWSLQDLFQKVHQGRLPSSQFIT
+[[1, 1]]
+start_coordinate : 804427,stop_coordinate : 804498
+5698 5771 Y N
+Anthocharis_cardamines,,804426,804499,0,N,Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Anthocharis_cardamines
+Processing Exon_8
+Anthocharis_cardamines_coordinates_Pararge_aegeria.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 6168,6294
+after splice: 6168,6294
+sequence:
+CAACTAATATGGCGCGAGTATTTCTACACGATGAGCGTGAACAACCCTCGCTACGCGCAGATGGAGGGCAACCCCATCTGTTTGGATATACCCTGGAGGTCGCCGGAGGGAGATGAGCTAGAGAG
+sequence:
+QLIWREYFYTMSVNNPRYAQMEGNPICLDIPWRSPEGDELE
+left = ag, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPRYAQMEGNPICLDIPWRSPEGDELE
+[[2, 2]]
+start_coordinate : 804898,stop_coordinate : 805020
+6168 6294 Y N
+Anthocharis_cardamines,,804896,805022,0,N,Pararge_aegeria_XM_039898346.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Anthocharis_cardamines
+Processing Exon_9
+Anthocharis_cardamines_coordinates_Pararge_aegeria.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 8214,8396
+after splice: 8214,8396
+sequence:
+TGGAAGGAGGGCCGCACCGGGTTCCCGTTCGTGGACGCGGCCATGCGGCAGCTGCGCGCGGAGGGCTGGCTGCACCACGCGCTGCGCAACACCGTGGCCTCGTTCCTCACGCGCGGCACGCTGTGGCTCTCCTGGGAGCACGGCCTCCGACACTTCCTCCAGTACCTGCTCGACGCTGACTG
+sequence:
+WKEGRTGFPFVDAAMRQLRAEGWLHHALRNTVASFLTRGTLWLSWEHGLRHFLQYLLDAD
+left = AG, right =GT, stop_counter = 0
+WKEGRTGFPFVDAAMRQLRAEGWLHHALRNTVASFLTRGTLWLSWEHGLRHFLQYLLDAD
+[[1, 2]]
+start_coordinate : 806943,stop_coordinate : 807122
+8214 8396 Y N
+Anthocharis_cardamines,,806942,807124,0,N,Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Anthocharis_cardamines
+Processing Exon_10
+Anthocharis_cardamines_coordinates_Pararge_aegeria.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 8835,9002
+after splice: 8835,9002
+sequence:
+TCGGTGTGCGCGGGCAACTGGATGTGGGTGTCGTCGAGCGCGTTCGAGGGGCTGCTGGACGCGGGCGAGTGCGCCTGCCCCGCGCGGCTCGGGCGGCGGCTGGGGCCCGGCGGGCGGTACGTGCGGCGGTACGTGCCCGAGCTGACCGACATGCCCGCCGAGTACAT
+sequence:
+SVCAGNWMWVSSSAFEGLLDAGECACPARLGRRLGPGGRYVRRYVPELTDMPAEY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEGLLDAGECACPARLGRRLGPGGRYVRRYVPELTDMPAEY
+[[1, 2]]
+start_coordinate : 807564,stop_coordinate : 807728
+8835 9002 Y N
+Anthocharis_cardamines,,807563,807730,0,N,Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Anthocharis_cardamines
+Processing Exon_11
+Anthocharis_cardamines_coordinates_Pararge_aegeria.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 10722,10842
+after splice: 10722,10842
+sequence:
+TACGAGCCCTGGAAGGCACCGCTGGAGGTGCAACAGCGCGCGGGGTGCGTGGTGGGGCGCGACTACCCGCTGCCCATCGTCGACCATCTGGAGGCTGCCGTCAGAAACCGCACTGCTATG
+sequence:
+YEPWKAPLEVQQRAGCVVGRDYPLPIVDHLEAAVRNRTAM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACGAGCCCTGGAAGGCACCGCTGGAGGTGCAACAGCGCGCGGGGTGCGTGGTGGGGCGCGACTACCCGCTGCCCATCGTCGACCATCTGGAGGCTGCCGTCAGAAACCGCACTGCTATGCAG
+sequence:
+YEPWKAPLEVQQRAGCVVGRDYPLPIVDHLEAAVRNRTAMQ
+left = AG, right =GT, stop_counter = 0
+YEPWKAPLEVQQRAGCVVGRDYPLPIVDHLEAAVRNRTAMQ
+[[1, 0]]
+start_coordinate : 809451,stop_coordinate : 809573
+10722 10845 Y N
+Anthocharis_cardamines,,809450,809573,0,N,Pararge_aegeria_XM_039898346.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Anthocharis_cardamines
+Processing Exon_2
+0 query coordinate
+Anthocharis_cardamines_coordinates_Pararge_aegeria.csv
+48
+[[2, 1]]
+reached here
+Before splice: 659,805
+after splice: 659,805
+sequence:
+ACAAAACTAGTTGGTTACAACCGCATGCGTTACCTCCTGGAAGCGCTGGAGGACCTTGACAATCAGTTCCGCCAATATGGCGGCCGCCTGCACATGATCAAGGGGAAACCAGCTGATGTGTTCAGGAGGCTCTGGGAGGAGTTTG
+sequence:
+TKLVGYNRMRYLLEALEDLDNQFRQYGGRLHMIKGKPADVFRRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKLVGYNRMRYLLEALEDLDNQFRQYGGRLHMIKGKPADVFRRLWEEF
+[[2, 1]]
+start_coordinate : 799389,stop_coordinate : 799532
+659 805 Y N
+Anthocharis_cardamines,,799387,799533,0,N,Pieris_napi_XM_047649107.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Anthocharis_cardamines
+Processing Exon_3
+Anthocharis_cardamines_coordinates_Pieris_napi.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 1179,1366
+after splice: 1179,1366
+sequence:
+ATCAGCAAGCTCTGTTTCGAGCAAGACTGCGAGCCAATCTGGCGGGAGCGCGATGACAGCGTCCGCTCCGCCTGCAGGGAGGTCGGCGTGGAATGTCGCGAGTTCGTGTCGCACACTCTGTGGGACCCGGAGAACGTGATACGAGTCAACGGGGGCATCCCGCCGCTGACCTATCAGATGTTCTTG
+sequence:
+ISKLCFEQDCEPIWRERDDSVRSACREVGVECREFVSHTLWDPENVIRVNGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+ISKLCFEQDCEPIWRERDDSVRSACREVGVECREFVSHTLWDPENVIRVNGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 799909,stop_coordinate : 800094
+1179 1366 Y N
+Anthocharis_cardamines,,799907,800094,0,N,Pieris_napi_XM_047649107.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Anthocharis_cardamines
+Processing Exon_4
+Anthocharis_cardamines_coordinates_Pieris_napi.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 3721,3837
+after splice: 3721,3837
+sequence:
+CACACAGTGGCCATAATTGGAGACCCGCCGCGACCTGTGGATGACGCGGACCTGCGGACAGTCAACTTTGGAGTTCTGCCGGATTCATTCTACAAGGAGTTCGTGGTTTTCGATAAG
+sequence:
+HTVAIIGDPPRPVDDADLRTVNFGVLPDSFYKEFVVFDK
+left = aG, right =GT, stop_counter = 0
+HTVAIIGDPPRPVDDADLRTVNFGVLPDSFYKEFVVFDK
+[[0, 0]]
+start_coordinate : 802449,stop_coordinate : 802565
+3721 3837 Y N
+Anthocharis_cardamines,,802449,802565,0,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Anthocharis_cardamines
+Processing Exon_5
+Anthocharis_cardamines_coordinates_Pieris_napi.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 4505,4638
+after splice: 4505,4638
+sequence:
+ACACCGAAGCCGGAGGACTTGGGGGTGTTTCTCGAGAATGAGGACATCAGGATGATCCGCTGGGTGGGCGGGGAGCGCGCCGCTCTCAAGCAGATGGAGCAGAGGCTCGCCGTGGAACACGACACCTTCCGCAA
+sequence:
+TPKPEDLGVFLENEDIRMIRWVGGERAALKQMEQRLAVEHDTFR
+left = AG, right =GT, stop_counter = 0
+TPKPEDLGVFLENEDIRMIRWVGGERAALKQMEQRLAVEHDTFR
+[[0, 2]]
+start_coordinate : 803233,stop_coordinate : 803364
+4505 4638 Y N
+Anthocharis_cardamines,,803233,803366,0,N,Pieris_napi_XM_047649107.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Anthocharis_cardamines
+Processing Exon_6
+Anthocharis_cardamines_coordinates_Pieris_napi.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 4914,5009
+after splice: 4914,5009
+sequence:
+GGATCTTATCTTCCGACCCACGGTAGTCCAGACCTCTTGGGACCGCCCATATCACTTAGTCCAGCTCTGCGATTTGGTTGTCTGTCTGTGAGAAA
+sequence:
+GSYLPTHGSPDLLGPPISLSPALRFGCLSVR
+left = AG, right =GT, stop_counter = 0
+GSYLPTHGSPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 803643,stop_coordinate : 803735
+4914 5009 Y N
+Anthocharis_cardamines,,803642,803737,0,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Anthocharis_cardamines
+Processing Exon_7
+Anthocharis_cardamines_coordinates_Pieris_napi.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 5698,5771
+after splice: 5698,5771
+sequence:
+TTCTACTGGTCACTGCAAGATCTCTTCCAGAAAGTGCATCAGGGTCGATTGCCGTCTAGTCAGTTTATTACGG
+sequence:
+FYWSLQDLFQKVHQGRLPSSQFIT
+left = AG, right =gt, stop_counter = 0
+FYWSLQDLFQKVHQGRLPSSQFIT
+[[1, 1]]
+start_coordinate : 804427,stop_coordinate : 804498
+5698 5771 Y N
+Anthocharis_cardamines,,804426,804499,0,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Anthocharis_cardamines
+Processing Exon_8
+Anthocharis_cardamines_coordinates_Pieris_napi.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 6168,6294
+after splice: 6168,6294
+sequence:
+CAACTAATATGGCGCGAGTATTTCTACACGATGAGCGTGAACAACCCTCGCTACGCGCAGATGGAGGGCAACCCCATCTGTTTGGATATACCCTGGAGGTCGCCGGAGGGAGATGAGCTAGAGAG
+sequence:
+QLIWREYFYTMSVNNPRYAQMEGNPICLDIPWRSPEGDELE
+left = ag, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPRYAQMEGNPICLDIPWRSPEGDELE
+[[2, 2]]
+start_coordinate : 804898,stop_coordinate : 805020
+6168 6294 Y N
+Anthocharis_cardamines,,804896,805022,0,N,Pieris_napi_XM_047649107.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Anthocharis_cardamines
+Processing Exon_9
+Anthocharis_cardamines_coordinates_Pieris_napi.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 8214,8396
+after splice: 8214,8396
+sequence:
+TGGAAGGAGGGCCGCACCGGGTTCCCGTTCGTGGACGCGGCCATGCGGCAGCTGCGCGCGGAGGGCTGGCTGCACCACGCGCTGCGCAACACCGTGGCCTCGTTCCTCACGCGCGGCACGCTGTGGCTCTCCTGGGAGCACGGCCTCCGACACTTCCTCCAGTACCTGCTCGACGCTGACTG
+sequence:
+WKEGRTGFPFVDAAMRQLRAEGWLHHALRNTVASFLTRGTLWLSWEHGLRHFLQYLLDAD
+left = AG, right =GT, stop_counter = 0
+WKEGRTGFPFVDAAMRQLRAEGWLHHALRNTVASFLTRGTLWLSWEHGLRHFLQYLLDAD
+[[1, 2]]
+start_coordinate : 806943,stop_coordinate : 807122
+8214 8396 Y N
+Anthocharis_cardamines,,806942,807124,0,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Anthocharis_cardamines
+Processing Exon_10
+Anthocharis_cardamines_coordinates_Pieris_napi.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 8835,9002
+after splice: 8835,9002
+sequence:
+TCGGTGTGCGCGGGCAACTGGATGTGGGTGTCGTCGAGCGCGTTCGAGGGGCTGCTGGACGCGGGCGAGTGCGCCTGCCCCGCGCGGCTCGGGCGGCGGCTGGGGCCCGGCGGGCGGTACGTGCGGCGGTACGTGCCCGAGCTGACCGACATGCCCGCCGAGTACAT
+sequence:
+SVCAGNWMWVSSSAFEGLLDAGECACPARLGRRLGPGGRYVRRYVPELTDMPAEY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEGLLDAGECACPARLGRRLGPGGRYVRRYVPELTDMPAEY
+[[1, 2]]
+start_coordinate : 807564,stop_coordinate : 807728
+8835 9002 Y N
+Anthocharis_cardamines,,807563,807730,0,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Anthocharis_cardamines
+Processing Exon_11
+Anthocharis_cardamines_coordinates_Pieris_napi.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 10722,10842
+after splice: 10722,10842
+sequence:
+TACGAGCCCTGGAAGGCACCGCTGGAGGTGCAACAGCGCGCGGGGTGCGTGGTGGGGCGCGACTACCCGCTGCCCATCGTCGACCATCTGGAGGCTGCCGTCAGAAACCGCACTGCTATG
+sequence:
+YEPWKAPLEVQQRAGCVVGRDYPLPIVDHLEAAVRNRTAM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACGAGCCCTGGAAGGCACCGCTGGAGGTGCAACAGCGCGCGGGGTGCGTGGTGGGGCGCGACTACCCGCTGCCCATCGTCGACCATCTGGAGGCTGCCGTCAGAAACCGCACTGCTATGCAG
+sequence:
+YEPWKAPLEVQQRAGCVVGRDYPLPIVDHLEAAVRNRTAMQ
+left = AG, right =GT, stop_counter = 0
+YEPWKAPLEVQQRAGCVVGRDYPLPIVDHLEAAVRNRTAMQ
+[[1, 0]]
+start_coordinate : 809451,stop_coordinate : 809573
+10722 10845 Y N
+Anthocharis_cardamines,,809450,809573,0,N,Pieris_napi_XM_047649107.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Anthocharis_cardamines
+Processing Exon_2
+0 query coordinate
+Anthocharis_cardamines_coordinates_Pieris_napi.csv
+48
+[[2, 1]]
+reached here
+Before splice: 659,805
+after splice: 659,805
+sequence:
+ACAAAACTAGTTGGTTACAACCGCATGCGTTACCTCCTGGAAGCGCTGGAGGACCTTGACAATCAGTTCCGCCAATATGGCGGCCGCCTGCACATGATCAAGGGGAAACCAGCTGATGTGTTCAGGAGGCTCTGGGAGGAGTTTG
+sequence:
+TKLVGYNRMRYLLEALEDLDNQFRQYGGRLHMIKGKPADVFRRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKLVGYNRMRYLLEALEDLDNQFRQYGGRLHMIKGKPADVFRRLWEEF
+[[2, 1]]
+start_coordinate : 799389,stop_coordinate : 799532
+659 805 Y N
+Anthocharis_cardamines,,799387,799533,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Anthocharis_cardamines
+Processing Exon_3
+Anthocharis_cardamines_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 1179,1366
+after splice: 1179,1366
+sequence:
+ATCAGCAAGCTCTGTTTCGAGCAAGACTGCGAGCCAATCTGGCGGGAGCGCGATGACAGCGTCCGCTCCGCCTGCAGGGAGGTCGGCGTGGAATGTCGCGAGTTCGTGTCGCACACTCTGTGGGACCCGGAGAACGTGATACGAGTCAACGGGGGCATCCCGCCGCTGACCTATCAGATGTTCTTG
+sequence:
+ISKLCFEQDCEPIWRERDDSVRSACREVGVECREFVSHTLWDPENVIRVNGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+ISKLCFEQDCEPIWRERDDSVRSACREVGVECREFVSHTLWDPENVIRVNGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 799909,stop_coordinate : 800094
+1179 1366 Y N
+Anthocharis_cardamines,,799907,800094,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Anthocharis_cardamines
+Processing Exon_4
+Anthocharis_cardamines_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 3721,3837
+after splice: 3721,3837
+sequence:
+CACACAGTGGCCATAATTGGAGACCCGCCGCGACCTGTGGATGACGCGGACCTGCGGACAGTCAACTTTGGAGTTCTGCCGGATTCATTCTACAAGGAGTTCGTGGTTTTCGATAAG
+sequence:
+HTVAIIGDPPRPVDDADLRTVNFGVLPDSFYKEFVVFDK
+left = aG, right =GT, stop_counter = 0
+HTVAIIGDPPRPVDDADLRTVNFGVLPDSFYKEFVVFDK
+[[0, 0]]
+start_coordinate : 802449,stop_coordinate : 802565
+3721 3837 Y N
+Anthocharis_cardamines,,802449,802565,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Anthocharis_cardamines
+Processing Exon_5
+Anthocharis_cardamines_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 4505,4638
+after splice: 4505,4638
+sequence:
+ACACCGAAGCCGGAGGACTTGGGGGTGTTTCTCGAGAATGAGGACATCAGGATGATCCGCTGGGTGGGCGGGGAGCGCGCCGCTCTCAAGCAGATGGAGCAGAGGCTCGCCGTGGAACACGACACCTTCCGCAA
+sequence:
+TPKPEDLGVFLENEDIRMIRWVGGERAALKQMEQRLAVEHDTFR
+left = AG, right =GT, stop_counter = 0
+TPKPEDLGVFLENEDIRMIRWVGGERAALKQMEQRLAVEHDTFR
+[[0, 2]]
+start_coordinate : 803233,stop_coordinate : 803364
+4505 4638 Y N
+Anthocharis_cardamines,,803233,803366,0,N,Bicyclus_anynana_XM_052884451.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Anthocharis_cardamines
+Processing Exon_6
+Anthocharis_cardamines_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 4914,5009
+after splice: 4914,5009
+sequence:
+GGATCTTATCTTCCGACCCACGGTAGTCCAGACCTCTTGGGACCGCCCATATCACTTAGTCCAGCTCTGCGATTTGGTTGTCTGTCTGTGAGAAA
+sequence:
+GSYLPTHGSPDLLGPPISLSPALRFGCLSVR
+left = AG, right =GT, stop_counter = 0
+GSYLPTHGSPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 803643,stop_coordinate : 803735
+4914 5009 Y N
+Anthocharis_cardamines,,803642,803737,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Anthocharis_cardamines
+Processing Exon_7
+Anthocharis_cardamines_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 5698,5771
+after splice: 5698,5771
+sequence:
+TTCTACTGGTCACTGCAAGATCTCTTCCAGAAAGTGCATCAGGGTCGATTGCCGTCTAGTCAGTTTATTACGG
+sequence:
+FYWSLQDLFQKVHQGRLPSSQFIT
+left = AG, right =gt, stop_counter = 0
+FYWSLQDLFQKVHQGRLPSSQFIT
+[[1, 1]]
+start_coordinate : 804427,stop_coordinate : 804498
+5698 5771 Y N
+Anthocharis_cardamines,,804426,804499,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Anthocharis_cardamines
+Processing Exon_8
+Anthocharis_cardamines_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 6168,6294
+after splice: 6168,6294
+sequence:
+CAACTAATATGGCGCGAGTATTTCTACACGATGAGCGTGAACAACCCTCGCTACGCGCAGATGGAGGGCAACCCCATCTGTTTGGATATACCCTGGAGGTCGCCGGAGGGAGATGAGCTAGAGAG
+sequence:
+QLIWREYFYTMSVNNPRYAQMEGNPICLDIPWRSPEGDELE
+left = ag, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPRYAQMEGNPICLDIPWRSPEGDELE
+[[2, 2]]
+start_coordinate : 804898,stop_coordinate : 805020
+6168 6294 Y N
+Anthocharis_cardamines,,804896,805022,0,N,Bicyclus_anynana_XM_052884451.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Anthocharis_cardamines
+Processing Exon_9
+Anthocharis_cardamines_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 8214,8396
+after splice: 8214,8396
+sequence:
+TGGAAGGAGGGCCGCACCGGGTTCCCGTTCGTGGACGCGGCCATGCGGCAGCTGCGCGCGGAGGGCTGGCTGCACCACGCGCTGCGCAACACCGTGGCCTCGTTCCTCACGCGCGGCACGCTGTGGCTCTCCTGGGAGCACGGCCTCCGACACTTCCTCCAGTACCTGCTCGACGCTGACTG
+sequence:
+WKEGRTGFPFVDAAMRQLRAEGWLHHALRNTVASFLTRGTLWLSWEHGLRHFLQYLLDAD
+left = AG, right =GT, stop_counter = 0
+WKEGRTGFPFVDAAMRQLRAEGWLHHALRNTVASFLTRGTLWLSWEHGLRHFLQYLLDAD
+[[1, 2]]
+start_coordinate : 806943,stop_coordinate : 807122
+8214 8396 Y N
+Anthocharis_cardamines,,806942,807124,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Anthocharis_cardamines
+Processing Exon_10
+Anthocharis_cardamines_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 8835,9002
+after splice: 8835,9002
+sequence:
+TCGGTGTGCGCGGGCAACTGGATGTGGGTGTCGTCGAGCGCGTTCGAGGGGCTGCTGGACGCGGGCGAGTGCGCCTGCCCCGCGCGGCTCGGGCGGCGGCTGGGGCCCGGCGGGCGGTACGTGCGGCGGTACGTGCCCGAGCTGACCGACATGCCCGCCGAGTACAT
+sequence:
+SVCAGNWMWVSSSAFEGLLDAGECACPARLGRRLGPGGRYVRRYVPELTDMPAEY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEGLLDAGECACPARLGRRLGPGGRYVRRYVPELTDMPAEY
+[[1, 2]]
+start_coordinate : 807564,stop_coordinate : 807728
+8835 9002 Y N
+Anthocharis_cardamines,,807563,807730,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Anthocharis_cardamines
+Processing Exon_11
+Anthocharis_cardamines_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 10722,10842
+after splice: 10722,10842
+sequence:
+TACGAGCCCTGGAAGGCACCGCTGGAGGTGCAACAGCGCGCGGGGTGCGTGGTGGGGCGCGACTACCCGCTGCCCATCGTCGACCATCTGGAGGCTGCCGTCAGAAACCGCACTGCTATG
+sequence:
+YEPWKAPLEVQQRAGCVVGRDYPLPIVDHLEAAVRNRTAM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACGAGCCCTGGAAGGCACCGCTGGAGGTGCAACAGCGCGCGGGGTGCGTGGTGGGGCGCGACTACCCGCTGCCCATCGTCGACCATCTGGAGGCTGCCGTCAGAAACCGCACTGCTATGCAG
+sequence:
+YEPWKAPLEVQQRAGCVVGRDYPLPIVDHLEAAVRNRTAMQ
+left = AG, right =GT, stop_counter = 0
+YEPWKAPLEVQQRAGCVVGRDYPLPIVDHLEAAVRNRTAMQ
+[[1, 0]]
+start_coordinate : 809451,stop_coordinate : 809573
+10722 10845 Y N
+Anthocharis_cardamines,,809450,809573,0,N,Bicyclus_anynana_XM_052884451.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+

@@ -1,0 +1,83 @@
+Scaffold = JAOTAV010028830.1, start = 6804, end = 6892
+Cyclargus_thomasi,JAOTAV010032496.1,3771,3896,0,Y,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_2,3,42,42
+
+1
+4
+Cyclargus_thomasi,JAOTAV010028830.1,6804,6892,1,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_2_query_Exon_1,1,29,29
+
+Cyclargus_thomasi,JAOTAV010032496.1,5515,5586,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_4,1,23,23
+
+Getting Gene
+min = set1_frame1, 1.792
+5 top scores:
+[['set1_frame1', 1.792], ['set26_frame2', 1.806], ['set16_frame1', 1.826], ['set29_frame1', 1.873], ['set1_frame2', 1.886]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Cyclargus_thomasi/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_1_frame1.fa.txt
+0 41
+Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_2
+SVPAYELTVEAAGAVAVACAQANTASAQHHQHHEHRKRTSS
+0 41
+set1_frame1
+----WRAKISASTTITSRCTIYST-------HPTSTIRLDS
+Original query = SVPAYELTVEAAGAVAVACAQANTASAQHHQHHEHRKRTSSR
+New query = ----WRAKISASTTITSRCTIYST-------HPTSTIRLDS
+Scaffold = JAOTAV010028830.1, start = 6804, end = 6892
+Cyclargus_thomasi,JAOTAV010032496.1,0,0,0,Y,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_3,0,0,62
+
+1
+5
+Cyclargus_thomasi,JAOTAV010028830.1,6804,6892,1,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_2_query_Exon_1,1,29,29
+
+Cyclargus_thomasi,JAOTAV010032496.1,5879,6215,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_0_query_Exon_5,1,112,112
+
+Getting Gene
+min = set7_frame2, 1.913
+5 top scores:
+[['set7_frame2', 1.913]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Cyclargus_thomasi/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_7_frame2.fa.txt
+0 76
+Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_3
+CVSSDGYELSSCE----------------AGLSAPPAHPAPPAHPAPPAHPAHPAHSAHPAGPLPQPASATRKRKP
+0 76
+set7_frame2
+FFVLK-YKVTYLEFNFDIYMTLHIMWFFVVGIYLTNRYRFIRFSRGKPV------------------ARVTLFGKP
+Original query = CVSSDGYELSSCEAGLSAPPAHPAPPAHPAPPAHPAHPAHSAHPAGPLPQPASATRKRKPSS
+New query = FFVLK-YKVTYLEFNFDIYMTLHIMWFFVVGIYLTNRYRFIRFSRGKPV------------------ARVTLFGKP
+Scaffold = JAOTAV010028830.1, start = 6804, end = 6892
+Cyclargus_thomasi,JAOTAV010032496.1,5515,5586,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_4,1,23,23
+
+2
+1
+6
+Cyclargus_thomasi,JAOTAV010028830.1,6804,6892,1,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_2_query_Exon_1,1,29,29
+
+Cyclargus_thomasi,JAOTAV010032496.1,6322,6439,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_1_query_Exon_6,1,39,39
+
+Getting Gene
+min = set1_frame1, 1.642
+5 top scores:
+[['set1_frame2', 1.761], ['set2_frame2', 1.767], ['set7_frame1', 1.791], ['set7_frame2', 1.81], ['set1_frame1', 1.642]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Cyclargus_thomasi/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_1_frame1.fa.txt
+0 23
+Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_4
+KSGSVYDDDTTEDSSSSRTVSDK
+0 23
+set1_frame1
+WRAKI---------SASTTITSR
+Original query = KSGSVYDDDTTEDSSSSRTVSDK
+New query = WRAKI---------SASTTITSR
+Scaffold = JAOTAV010028830.1, start = 6804, end = 6892
+Cyclargus_thomasi,JAOTAV010032496.1,5879,6215,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_0_query_Exon_5,1,112,112
+
+3
+2
+1
+7
+Cyclargus_thomasi,JAOTAV010028830.1,6804,6892,1,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_2_query_Exon_1,1,29,29
+
+Cyclargus_thomasi,JAOTAV010032496.1,6521,6745,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_1_query_Exon_7,1,71,71
+
+Getting Gene
+min = , 99
+5 top scores:
+[]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/10.Cycle_Exon_Analysis/8.Lycaenidae/1.Blast_result/Cyclargus_thomasi/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_5/for_alignment/

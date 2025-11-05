@@ -1,0 +1,616 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4697155,4697275,0,N,Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2,1,46,46
+
+1
+4
+Luehdorfia_chinensis,JAHVAK010000646.1,4655307,4655359,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_2_query_Exon_1,1,16,16
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4698736,4698903,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,7,55,55
+
+Getting Gene
+min = set840_frame2, 0.784
+5 top scores:
+[['set840_frame2', 0.784], ['set396_frame2', 1.665], ['set605_frame2', 1.689], ['set797_frame2', 1.719], ['set356_frame2', 1.748]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_840_frame2.fa.txt
+37 84
+Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2
+YSNEEFAR---EPLSFAPPSEDEAEYPPG--YKKGKVSRASHTEYAR
+37 84
+set840_frame2
+NSNDGFGRVSGEQLNFAAPSEDEAEYPAGAYLKKGKVSRASRTEYAR
+Original query = YSNEEFAREPLSFAPPSEDEAEYPPGYKKGKVSRASHTEYAR
+New query = NSNDGFGRVSGEQLNFAAPSEDEAEYPAGAYLKKGKVSRASRTEYAR
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4697692,4697875,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Luehdorfia_chinensis,JAHVAK010000646.1,4655307,4655359,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_2_query_Exon_1,1,16,16
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4699689,4699874,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+Getting Gene
+min = set833_frame1, 0.099
+5 top scores:
+[['set833_frame1', 0.099], ['set840_frame2', 1.786], ['set850_frame1', 1.79], ['set699_frame2', 1.796], ['set115_frame2', 1.807]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_833_frame1.fa.txt
+7 68
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+7 68
+set833_frame1
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQERIN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQERIN
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4698736,4698903,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,7,55,55
+
+2
+6
+7
+Luehdorfia_chinensis,JAHVAK010000646.1,4697155,4697275,0,N,Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2,1,46,46
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4702163,4702297,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set24_frame2, 1.207
+5 top scores:
+[['set24_frame2', 1.207], ['set47_frame2', 1.714], ['set52_frame1', 1.766], ['set9_frame2', 1.793], ['set71_frame2', 1.802]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_24_frame2.fa.txt
+6 58
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4
+ER---GSEFLAGYQRAGAEAVRFV-ELQG-SRDGLADQLAAHLHSHADMMAK
+6 58
+set24_frame2
+ERQAGEEHFRAGYQEAVGEAIRYLAEAQGFPADGLCAQLATHLQRHCEIITK
+Original query = LERGSEFLAGYQRAGAEAVRFVELQGSRDGLADQLAAHLHSHADMMAK
+New query = ERQAGEEHFRAGYQEAVGEAIRYLAEAQGFPADGLCAQLATHLQRHCEIITK
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4699689,4699874,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+3
+7
+Luehdorfia_chinensis,JAHVAK010000646.1,4697692,4697875,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4702163,4702297,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set42_frame1, 1.206
+5 top scores:
+[['set42_frame1', 1.206], ['set87_frame1', 1.701], ['set18_frame0', 1.792], ['set16_frame2', 1.793], ['set30_frame2', 1.794]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_42_frame1.fa.txt
+18 72
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5
+AVHEKRVYPNSSSETTSSSSSSQGFAVK--VIQRPEPPPAF-PEPYEPDRQEHF
+18 72
+set42_frame1
+ATRDKARSIGSSSETASSSGSSVNYAVKPGVIQPPPCPPAYTPEHYEPPPDRPF
+Original query = AVHEKRVYPNSSSETTSSSSSSQGFAVKVIQRPEPPPAFPEPYEPDRQEHFADCER
+New query = ATRDKARSIGSSSETASSSGSSVNYAVKPGVIQPPPCPPAYTPEHYEPPPDRPF
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4701176,4701390,0,Y,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_0_query_Exon_6,29,71,71
+
+4
+8
+Luehdorfia_chinensis,JAHVAK010000646.1,4698736,4698903,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,7,55,55
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4703080,4703176,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set31_frame0, 0.974
+5 top scores:
+[['set31_frame0', 0.974], ['set20_frame1', 1.736], ['set77_frame2', 1.755], ['set20_frame2', 1.811], ['set62_frame2', 1.819]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_31_frame0.fa.txt
+0 76
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6
+SVHQPAVMEPL--------------EGE--PLPLDGRVKKEVTLRKIRKPEHEDYLHSYKFKNSIERRFSRSQDSE
+0 76
+set31_frame0
+LV----MTCPLNAVCRFAVTAGRIAEGAAPPQAADARHKREAALRKLRKPD-LDFMHSYKFKNSIERRFSRSQDSE
+Original query = SVHQPAVMEPLEGEPLPLDGRVKKEVTLRKIRKPEHEDYLHSYKFKNSIERRFSRSQDSE
+New query = LV----MTCPLNAVCRFAVTAGRIAEGAAPPQAADARHKREAALRKLRKPD-LDFMHSYKFKNSIERRFSRSQDSE
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4702163,4702297,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+5
+8
+Luehdorfia_chinensis,JAHVAK010000646.1,4699689,4699874,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4703080,4703176,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set46_frame2, 0.919
+5 top scores:
+[['set46_frame2', 0.919], ['set58_frame0', 1.666], ['set22_frame1', 1.718], ['set55_frame2', 1.728], ['set1_frame2', 1.735]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_46_frame2.fa.txt
+14 58
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7
+DAWSAGPTAKAYNHKRRRPTKPAPPSTSTSASGSTEEARDTSPQ
+14 58
+set46_frame2
+ETQARAVHNKAYSHKRRRAARPA-PAASTSASASTEDARDTSPQ
+Original query = GDAWSAGPTAKAYNHKRRRPTKPAPPSTSTSASGSTEEARDTSPQ
+New query = ETQARAVHNKAYSHKRRRAARPA-PAASTSASASTEDARDTSPQ
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4703080,4703176,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+6
+5
+8
+Luehdorfia_chinensis,JAHVAK010000646.1,4699689,4699874,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4703080,4703176,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set53_frame1, 0.548
+5 top scores:
+[['set53_frame1', 0.548], ['set2_frame1', 1.591], ['set1_frame2', 1.619], ['set46_frame2', 1.635], ['set44_frame1', 1.692]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_53_frame1.fa.txt
+14 28
+set53_frame1
+DTSSESPHHHQFDQ
+Original query = DTCSDSPHHHSFDKPPPPAQYVPVFALNAL
+New query = DTSSESPHHHQFDQ
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4697155,4697275,0,N,Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2,1,46,46
+
+1
+4
+Luehdorfia_chinensis,JAHVAK010000646.1,4655307,4655359,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_2_query_Exon_1,1,16,16
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4698736,4698903,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,7,55,55
+
+Getting Gene
+min = set840_frame2, 0.97
+5 top scores:
+[['set840_frame2', 0.97], ['set493_frame2', 1.699], ['set766_frame2', 1.733], ['set606_frame1', 1.766], ['set720_frame2', 1.772]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Papilio_polytes/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_840_frame2.fa.txt
+36 85
+Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRAGAGGAGGAGAGEQLAFAAPSEDEADF---ATYKKGKVLR
+36 85
+set840_frame2
+YNSNDGFGRV---------SGEQLNFAAPSEDEAEYPAGAYLKKGKVSR
+Original query = YNSNDGFGRAGAGGAGGAGAGEQLAFAAPSEDEADFATYKKGKVLR
+New query = YNSNDGFGRV---------SGEQLNFAAPSEDEAEYPAGAYLKKGKVSR
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4697692,4697875,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Luehdorfia_chinensis,JAHVAK010000646.1,4655307,4655359,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_2_query_Exon_1,1,16,16
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4699689,4699874,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+Getting Gene
+min = set833_frame1, 0.036
+5 top scores:
+[['set833_frame1', 0.036], ['set840_frame2', 1.779], ['set850_frame1', 1.789], ['set699_frame2', 1.795], ['set245_frame2', 1.799]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Papilio_polytes/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_833_frame1.fa.txt
+7 68
+Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+7 68
+set833_frame1
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQERIN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQERIN
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4698736,4698903,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,7,55,55
+
+2
+6
+7
+Luehdorfia_chinensis,JAHVAK010000646.1,4697155,4697275,0,N,Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2,1,46,46
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4702163,4702297,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set24_frame2, 0.496
+5 top scores:
+[['set24_frame2', 0.496], ['set71_frame2', 1.812], ['set72_frame0', 1.836], ['set23_frame0', 1.837], ['set32_frame0', 1.744]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Papilio_polytes/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_24_frame2.fa.txt
+3 58
+Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4
+SEVQPGAGEGHYRAGYQEAVGEALRYLSEAHGYPADGLCAQLATHLQRHCDHVTK
+3 58
+set24_frame2
+TASERQAGEEHFRAGYQEAVGEAIRYLAEAQGFPADGLCAQLATHLQRHCEIITK
+Original query = SEVQPGAGEGHYRAGYQEAVGEALRYLSEAHGYPADGLCAQLATHLQRHCDHVTK
+New query = TASERQAGEEHFRAGYQEAVGEAIRYLAEAQGFPADGLCAQLATHLQRHCEIITK
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4699689,4699874,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+3
+7
+Luehdorfia_chinensis,JAHVAK010000646.1,4697692,4697875,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4702163,4702297,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set42_frame1, 0.946
+5 top scores:
+[['set42_frame1', 0.946], ['set87_frame1', 1.714], ['set18_frame0', 1.754], ['set63_frame2', 1.78], ['set28_frame0', 1.783]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Papilio_polytes/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_42_frame1.fa.txt
+17 78
+Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5
+DGSRDKGRSLGSSSETASSSSSSLGYSKA----QAAPRAPPYAPDVYDATTDGPYNMDCDR
+17 78
+set42_frame1
+DATRDKARSIGSSSETASSSGSSVNYAVKPGVIQPPPCPPAYTPEHYEPPPDRPFPMDCER
+Original query = DGSRDKGRSLGSSSETASSSSSSLGYSKAQAAPRAPPYAPDVYDATTDGPYNMDCDR
+New query = DATRDKARSIGSSSETASSSGSSVNYAVKPGVIQPPPCPPAYTPEHYEPPPDRPFPMDCER
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4701176,4701390,0,Y,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_0_query_Exon_6,29,71,71
+
+4
+8
+Luehdorfia_chinensis,JAHVAK010000646.1,4698736,4698903,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,7,55,55
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4703080,4703176,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set31_frame0, 1.187
+5 top scores:
+[['set31_frame0', 1.187], ['set10_frame0', 1.802], ['set48_frame2', 1.805], ['set13_frame0', 1.84], ['set62_frame2', 1.853]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Papilio_polytes/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_31_frame0.fa.txt
+0 74
+Papilio_polytes_XM_013278899.1_Frame_2_rightoh_0_query_Exon_6
+V---GPVENGSAMSAVNGHAGGAPGAGGASGAGGAGGKREALRKPRKPEHDDFIHSYKFKNSIERRFSRSQDTE
+0 74
+set31_frame0
+LVMTCPLNAVCRFAVTAGRI--AEGAAPPQAADARHKREAALRKLRKPDL-DFMHSYKFKNSIERRFSRSQDSE
+Original query = VGPVENGSAMSAVNGHAGGAPGAGGASGAGGAGGKREALRKPRKPEHDDFIHSYKFKNSIERRFSRSQDTE
+New query = LVMTCPLNAVCRFAVTAGRI--AEGAAPPQAADARHKREAALRKLRKPDL-DFMHSYKFKNSIERRFSRSQDSE
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4702163,4702297,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+5
+8
+Luehdorfia_chinensis,JAHVAK010000646.1,4699689,4699874,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4703080,4703176,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set46_frame2, 0.216
+5 top scores:
+[['set46_frame2', 0.216], ['set43_frame0', 1.673], ['set2_frame2', 1.697], ['set1_frame2', 1.698], ['set4_frame1', 1.751]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Papilio_polytes/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_46_frame2.fa.txt
+12 57
+Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7
+AVESQTRVVNGKAYSHKRRRAARPAPAASTSASASTEEARDTSPQ
+12 57
+set46_frame2
+AVETQARAVHNKAYSHKRRRAARPAPAASTSASASTEDARDTSPQ
+Original query = AVESQTRVVNGKAYSHKRRRAARPAPAASTSASASTEEARDTSPQ
+New query = AVETQARAVHNKAYSHKRRRAARPAPAASTSASASTEDARDTSPQ
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4703080,4703176,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+6
+5
+8
+Luehdorfia_chinensis,JAHVAK010000646.1,4699689,4699874,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4703080,4703176,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set53_frame1, 0.724
+5 top scores:
+[['set53_frame1', 0.724], ['set25_frame1', 1.663], ['set1_frame2', 1.683], ['set46_frame2', 1.684], ['set7_frame2', 1.719]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Papilio_polytes/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_53_frame1.fa.txt
+14 50
+set53_frame1
+DTSSESPHHHQFDQF-----EKPPPTQYVPVFALNS
+Original query = DTSSESPHRHVYEQFGQYEYEKPPPAHYVPVFALNTL
+New query = DTSSESPHHHQFDQF-----EKPPPTQYVPVFALNS
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4697155,4697275,0,N,Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2,1,46,46
+
+1
+4
+Luehdorfia_chinensis,JAHVAK010000646.1,4655307,4655359,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_2_query_Exon_1,1,16,16
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4698736,4698903,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,7,55,55
+
+Getting Gene
+min = set840_frame2, 0.418
+5 top scores:
+[['set840_frame2', 0.418], ['set340_frame2', 1.693], ['set167_frame1', 1.725], ['set65_frame2', 1.727], ['set441_frame2', 1.737]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_840_frame2.fa.txt
+36 76
+Zerene_cesonia_XM_038354443.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRAGGEQINFAVRSEDEGEYP-GAYMKKGKVSR
+36 76
+set840_frame2
+YNSNDGFGRVSGEQLNFAAPSEDEAEYPAGAYLKKGKVSR
+Original query = YNSNDGFGRAGGEQINFAVRSEDEGEYPGAYMKKGKVSR
+New query = YNSNDGFGRVSGEQLNFAAPSEDEAEYPAGAYLKKGKVSR
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4697692,4697875,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Luehdorfia_chinensis,JAHVAK010000646.1,4655307,4655359,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_2_query_Exon_1,1,16,16
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4699689,4699874,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+Getting Gene
+min = set833_frame1, 0.008
+5 top scores:
+[['set833_frame1', 0.008], ['set840_frame2', 1.779], ['set850_frame1', 1.784], ['set699_frame2', 1.794], ['set245_frame2', 1.799]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_833_frame1.fa.txt
+7 68
+Zerene_cesonia_XM_038354443.1_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQERVN
+7 68
+set833_frame1
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQERIN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQERVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQERIN
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4698736,4698903,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,7,55,55
+
+2
+6
+7
+Luehdorfia_chinensis,JAHVAK010000646.1,4697155,4697275,0,N,Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2,1,46,46
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4702163,4702297,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set24_frame2, 0.635
+5 top scores:
+[['set24_frame2', 0.635], ['set33_frame0', 1.807], ['set51_frame1', 1.809], ['set57_frame1', 1.818], ['set96_frame1', 1.835]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_24_frame2.fa.txt
+5 59
+Zerene_cesonia_XM_038354443.1_Frame_2_rightoh_1_query_Exon_4
+AERQAVED-FKAGYGDALGEAVRFLVEVQGFGPADGLCVQLAAHLQRHCDVVTK
+5 59
+set24_frame2
+SERQAGEEHFRAGYQEAVGEAIRYLAEAQGF-PADGLCAQLATHLQRHCEIITK
+Original query = AERQAVEDFKAGYGDALGEAVRFLVEVQGFGPADGLCVQLAAHLQRHCDVVTK
+New query = SERQAGEEHFRAGYQEAVGEAIRYLAEAQGF-PADGLCAQLATHLQRHCEIITK
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4699689,4699874,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+3
+7
+Luehdorfia_chinensis,JAHVAK010000646.1,4697692,4697875,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4702163,4702297,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set42_frame1, 1.147
+5 top scores:
+[['set42_frame1', 1.147], ['set87_frame1', 1.717], ['set63_frame2', 1.803], ['set27_frame0', 1.824], ['set28_frame0', 1.762]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_42_frame1.fa.txt
+20 81
+Zerene_cesonia_XM_038354443.1_Frame_2_rightoh_1_query_Exon_5
+RDKARSHPGSSSETTSSSSSSHSYAVK-GVIQQPEPPPAFPREPFEPERTVEPSYPMECDR
+20 81
+set42_frame1
+RDKARS-IGSSSETASSSGSSVNYAVKPGVIQPPPCPPAYTPEHYEPPP--DRPFPMDCER
+Original query = ETLPRDKARSHPGSSSETTSSSSSSHSYAVKGVIQQPEPPPAFPREPFEPERTVEPSYPMECDR
+New query = RDKARS-IGSSSETASSSGSSVNYAVKPGVIQPPPCPPAYTPEHYEPPP--DRPFPMDCER
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4701176,4701390,0,Y,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_0_query_Exon_6,29,71,71
+
+4
+8
+Luehdorfia_chinensis,JAHVAK010000646.1,4698736,4698903,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,7,55,55
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4703080,4703176,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set31_frame0, 0.973
+5 top scores:
+[['set31_frame0', 0.973], ['set20_frame1', 1.746], ['set65_frame1', 1.766], ['set62_frame2', 1.778], ['set20_frame2', 1.839]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_31_frame0.fa.txt
+0 74
+Zerene_cesonia_XM_038354443.1_Frame_2_rightoh_0_query_Exon_6
+LVAPAPLVS-----------TEAAEPEPLPLDGRLKREPTLRKIRKPEHGEDYLHSYKFKNSIERRFSRSQDSE
+0 74
+set31_frame0
+LVMTCPLNAVCRFAVTAGRIAEGAAP-PQAADARHKREAALRKLRKPD--LDFMHSYKFKNSIERRFSRSQDSE
+Original query = LVAPAPLVSTEAAEPEPLPLDGRLKREPTLRKIRKPEHGEDYLHSYKFKNSIERRFSRSQDSE
+New query = LVMTCPLNAVCRFAVTAGRIAEGAAP-PQAADARHKREAALRKLRKPD--LDFMHSYKFKNSIERRFSRSQDSE
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4702163,4702297,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+5
+8
+Luehdorfia_chinensis,JAHVAK010000646.1,4699689,4699874,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4703080,4703176,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set46_frame2, 0.815
+5 top scores:
+[['set46_frame2', 0.815], ['set41_frame1', 1.765], ['set1_frame2', 1.78], ['set43_frame0', 1.749], ['set58_frame0', 1.775]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_46_frame2.fa.txt
+0 59
+Zerene_cesonia_XM_038354443.1_Frame_0_rightoh_0_query_Exon_7
+SKCLTKH---SHKHAGQAGAHA-HTKAYSHKRRRAAKPAPSTSTSASGSTEDARDTSPQ
+0 59
+set46_frame2
+N--IEKNERVNYQQAVETQARAVHNKAYSHKRRRAARPAPAASTSASASTEDARDTSPQ
+Original query = SKCLTKHSHKHAGQAGAHAHTKAYSHKRRRAAKPAPSTSTSASGSTEDARDTSPQ
+New query = N--IEKNERVNYQQAVETQARAVHNKAYSHKRRRAARPAPAASTSASASTEDARDTSPQ
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4703080,4703176,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+6
+5
+8
+Luehdorfia_chinensis,JAHVAK010000646.1,4699689,4699874,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4703080,4703176,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set53_frame1, 0.396
+5 top scores:
+[['set53_frame1', 0.396], ['set1_frame2', 1.599], ['set5_frame0', 1.658], ['set29_frame2', 1.659], ['set46_frame2', 1.664]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_53_frame1.fa.txt
+14 28
+set53_frame1
+DTSSESPHHHQFDQ
+Original query = DTSSESPHHHQYDKPPPPTQFVPVFALNAL
+New query = DTSSESPHHHQFDQ
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4697155,4697275,0,N,Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2,1,46,46
+
+1
+4
+Luehdorfia_chinensis,JAHVAK010000646.1,4655307,4655359,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_2_query_Exon_1,1,16,16
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4698736,4698903,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,7,55,55
+
+Getting Gene
+min = set840_frame2, 0.91
+5 top scores:
+[['set840_frame2', 0.91], ['set766_frame2', 1.713], ['set516_frame2', 1.742], ['set671_frame1', 1.762], ['set115_frame2', 1.768]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_840_frame2.fa.txt
+36 84
+Papilio_machaon_XM_014501859.2_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRVASGGGNAVAGEQLAFAAPSEDEADF---ANYKKGKVLR
+36 84
+set840_frame2
+YNSNDGFGR--------VSGEQLNFAAPSEDEAEYPAGAYLKKGKVSR
+Original query = YNSNDGFGRVASGGGNAVAGEQLAFAAPSEDEADFANYKKGKVLR
+New query = YNSNDGFGR--------VSGEQLNFAAPSEDEAEYPAGAYLKKGKVSR
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4697692,4697875,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Luehdorfia_chinensis,JAHVAK010000646.1,4655307,4655359,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_2_query_Exon_1,1,16,16
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4699689,4699874,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+Getting Gene
+min = set833_frame1, 0.06
+5 top scores:
+[['set833_frame1', 0.06], ['set840_frame2', 1.784], ['set850_frame1', 1.789], ['set699_frame2', 1.795], ['set314_frame2', 1.799]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_833_frame1.fa.txt
+7 68
+Papilio_machaon_XM_014501859.2_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVN
+7 68
+set833_frame1
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQERIN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQERIN
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4698736,4698903,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,7,55,55
+
+2
+6
+7
+Luehdorfia_chinensis,JAHVAK010000646.1,4697155,4697275,0,N,Papilio_polytes_XM_013278899.1_Frame_1_rightoh_0_query_Exon_2,1,46,46
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4702163,4702297,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set24_frame2, 0.472
+5 top scores:
+[['set24_frame2', 0.472], ['set71_frame2', 1.793], ['set35_frame0', 1.817], ['set47_frame2', 1.842], ['set32_frame0', 1.741]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_24_frame2.fa.txt
+5 60
+Papilio_machaon_XM_014501859.2_Frame_2_rightoh_1_query_Exon_4
+SEVQAGSGEGHYRAGYQEAVGEALRYLSEAHGYPADGLCAQLATHLQRHCDHITK
+5 60
+set24_frame2
+SERQA--GEEHFRAGYQEAVGEAIRYLAEAQGFPADGLCAQLATHLQRHCEIITK
+Original query = SEVQAGSGEGHYRAGYQEAVGEALRYLSEAHGYPADGLCAQLATHLQRHCDHITK
+New query = SERQA--GEEHFRAGYQEAVGEAIRYLAEAQGFPADGLCAQLATHLQRHCEIITK
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4699689,4699874,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+3
+7
+Luehdorfia_chinensis,JAHVAK010000646.1,4697692,4697875,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4702163,4702297,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set42_frame1, 0.849
+5 top scores:
+[['set42_frame1', 0.849], ['set70_frame1', 1.707], ['set87_frame1', 1.749], ['set63_frame2', 1.81], ['set28_frame0', 1.772]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_42_frame1.fa.txt
+17 78
+Papilio_machaon_XM_014501859.2_Frame_2_rightoh_1_query_Exon_5
+DNSRDKGRSLGSASETASSSSSSLGY----GKAQPPPRPPPYAPDLYDANNDGPYNMDCDR
+17 78
+set42_frame1
+DATRDKARSIGSSSETASSSGSSVNYAVKPGVIQPPPCPPAYTPEHYEPPPDRPFPMDCER
+Original query = DNSRDKGRSLGSASETASSSSSSLGYGKAQPPPRPPPYAPDLYDANNDGPYNMDCDR
+New query = DATRDKARSIGSSSETASSSGSSVNYAVKPGVIQPPPCPPAYTPEHYEPPPDRPFPMDCER
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4701176,4701390,0,Y,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_0_query_Exon_6,29,71,71
+
+4
+8
+Luehdorfia_chinensis,JAHVAK010000646.1,4698736,4698903,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_4,7,55,55
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4703080,4703176,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set31_frame0, 1.084
+5 top scores:
+[['set31_frame0', 1.084], ['set65_frame1', 1.804], ['set62_frame2', 1.814], ['set13_frame0', 1.823], ['set24_frame2', 1.827]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_31_frame0.fa.txt
+11 75
+Papilio_machaon_XM_014501859.2_Frame_2_rightoh_0_query_Exon_6
+RGAVENGRATSPVCGEEGEGAGEGTGDKRETLRKMRKPDHDDYIHSYKFKNSIERRFSRSQDSE
+11 75
+set31_frame0
+RFAVTAGRIAE---GAAPPQAADARHKREAALRKLRKPDL-DFMHSYKFKNSIERRFSRSQDSE
+Original query = RGAVENGRATSPVCGEEGEGAGEGTGDKRETLRKMRKPDHDDYIHSYKFKNSIERRFSRSQDSE
+New query = RFAVTAGRIAE---GAAPPQAADARHKREAALRKLRKPDL-DFMHSYKFKNSIERRFSRSQDSE
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4702163,4702297,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+5
+8
+Luehdorfia_chinensis,JAHVAK010000646.1,4699689,4699874,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4703080,4703176,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set46_frame2, 0.68
+5 top scores:
+[['set46_frame2', 0.68], ['set29_frame2', 1.619], ['set1_frame2', 1.728], ['set55_frame2', 1.732], ['set43_frame0', 1.718]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_46_frame2.fa.txt
+12 65
+Papilio_machaon_XM_014501859.2_Frame_0_rightoh_0_query_Exon_7
+AAESQARAANGKPYSHKRRRPARPAPAASTSASISTSTSASASTEEARDTSPQ
+12 65
+set46_frame2
+AVETQARAVHNKAYSHKRRRAARPAPAA--------STSASASTEDARDTSPQ
+Original query = AAESQARAANGKPYSHKRRRPARPAPAASTSASISTSTSASASTEEARDTSPQ
+New query = AVETQARAVHNKAYSHKRRRAARPAPAA--------STSASASTEDARDTSPQ
+Scaffold = JAHVAK010000646.1, start = 4655307, end = 4655359
+Luehdorfia_chinensis,JAHVAK010000646.1,4703080,4703176,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+6
+5
+8
+Luehdorfia_chinensis,JAHVAK010000646.1,4699689,4699874,0,N,Papilio_polytes_XM_013278899.1_Frame_2_rightoh_1_query_Exon_5,1,57,57
+
+Luehdorfia_chinensis,JAHVAK010000646.1,4703080,4703176,0,N,Papilio_polytes_XM_013278899.1_Frame_0_rightoh_1_query_Exon_8,1,37,37
+
+Getting Gene
+min = set53_frame1, 0.336
+5 top scores:
+[['set53_frame1', 0.336], ['set1_frame2', 1.543], ['set25_frame1', 1.636], ['set55_frame2', 1.646], ['set29_frame2', 1.689]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/7.Papilionidae/1.Blast_result/Luehdorfia_chinensis/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_53_frame1.fa.txt
+14 45
+set53_frame1
+DTSSESPHHHQFDQFEKPPPTQYVPVFALNS
+Original query = DTSSESPHRHQYEQYEKPPQAQFVPVFALNSL
+New query = DTSSESPHHHQFDQFEKPPPTQYVPVFALNS

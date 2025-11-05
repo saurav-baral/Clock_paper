@@ -1,0 +1,456 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = NC_053187.1, start = 17062881, end = 17062933
+Pararge_aegeria,NC_053187.1,17033383,17033503,1,N,Bicyclus_anynana_XM_024084267.2_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+1
+4
+Pararge_aegeria,NC_053187.1,17062881,17062933,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_2_query_Exon_1,2,18,18
+
+Pararge_aegeria,NC_053187.1,17027555,17027716,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+Getting Gene
+min = set631_frame1, 0.546
+5 top scores:
+[['set631_frame1', 0.546], ['set85_frame1', 1.694], ['set235_frame2', 1.71], ['set258_frame2', 1.711], ['set346_frame2', 1.721]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/3.Satyrine/1.Blast_result/Pararge_aegeria/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_631_frame1.fa.txt
+41 81
+Bicyclus_anynana_XM_024084267.2_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRG--EAHGYAPPSEDEAEYPPGAYLKKGKVSR
+41 81
+set631_frame1
+YNSNDEFGRGGEQLNFAAPPSDDEADYPPGAYLKKGKVSR
+Original query = YNSNDGFGRGEAHGYAPPSEDEAEYPPGAYLKKGKVSR
+New query = YNSNDEFGRGGEQLNFAAPPSDDEADYPPGAYLKKGKVSR
+Scaffold = NC_053187.1, start = 17062881, end = 17062933
+Pararge_aegeria,NC_053187.1,17031469,17031652,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Pararge_aegeria,NC_053187.1,17062881,17062933,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_2_query_Exon_1,2,18,18
+
+Pararge_aegeria,NC_053187.1,17027044,17027238,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_1_query_Exon_5,1,64,64
+
+Getting Gene
+min = set671_frame0, 0.02
+5 top scores:
+[['set671_frame0', 0.02], ['set631_frame1', 1.741], ['set773_frame1', 1.751], ['set584_frame2', 1.754], ['set673_frame2', 1.788]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/3.Satyrine/1.Blast_result/Pararge_aegeria/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_671_frame0.fa.txt
+2 63
+Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+2 63
+set671_frame0
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPDYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPDYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = NC_053187.1, start = 17062881, end = 17062933
+Pararge_aegeria,NC_053187.1,17027555,17027716,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+2
+6
+Pararge_aegeria,NC_053187.1,17033383,17033503,1,N,Bicyclus_anynana_XM_024084267.2_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+Pararge_aegeria,NC_053187.1,17026414,17026583,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_0_query_Exon_6,1,56,56
+
+Getting Gene
+min = set114_frame2, 0.261
+5 top scores:
+[['set114_frame2', 0.261], ['set143_frame1', 1.774], ['set77_frame2', 1.777], ['set2_frame2', 1.799], ['set7_frame2', 1.811]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/3.Satyrine/1.Blast_result/Pararge_aegeria/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_114_frame2.fa.txt
+19 72
+Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_1_query_Exon_4
+AERQASDEFRGGYQEAVAEAVRFLVDVQGFSPADGLCVQLATHLQRHCDGVTK
+19 72
+set114_frame2
+AERQAGEEFRSGYQEAVAEAVRFLVEVQGFSPSDGLCVQLASHLQRHCEVVTK
+Original query = AERQASDEFRGGYQEAVAEAVRFLVDVQGFSPADGLCVQLATHLQRHCDGVTK
+New query = AERQAGEEFRSGYQEAVAEAVRFLVEVQGFSPSDGLCVQLASHLQRHCEVVTK
+Scaffold = NC_053187.1, start = 17062881, end = 17062933
+Pararge_aegeria,NC_053187.1,17027044,17027238,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_1_query_Exon_5,1,64,64
+
+3
+7
+Pararge_aegeria,NC_053187.1,17031469,17031652,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Pararge_aegeria,NC_053187.1,17025773,17025928,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_0_query_Exon_7,1,49,49
+
+Getting Gene
+min = set71_frame0, 0.439
+5 top scores:
+[['set71_frame0', 0.439], ['set91_frame0', 1.714], ['set57_frame2', 1.837], ['set102_frame2', 1.845], ['set92_frame1', 1.871]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/3.Satyrine/1.Blast_result/Pararge_aegeria/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_71_frame0.fa.txt
+84 148
+Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_1_query_Exon_5
+DVMLREKTRTHPGTSSSETTSSSSSSHGYAVKVIQRPELPPAFVPEPYEQDPPSGQHYPMECER
+84 148
+set71_frame0
+DAMLREKTRSNPGTSSSETTSSSSSSQGFAVKVIQRPEVPPAFQPEPYEQELSTGPSYPTECER
+Original query = DVMLREKTRTHPGTSSSETTSSSSSSHGYAVKVIQRPELPPAFVPEPYEQDPPSGQHYPMECER
+New query = DAMLREKTRSNPGTSSSETTSSSSSSQGFAVKVIQRPEVPPAFQPEPYEQELSTGPSYPTECER
+Scaffold = NC_053187.1, start = 17062881, end = 17062933
+Pararge_aegeria,NC_053187.1,17026414,17026583,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_0_query_Exon_6,1,56,56
+
+4
+8
+Pararge_aegeria,NC_053187.1,17027555,17027716,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+Pararge_aegeria,NC_053187.1,17025014,17025104,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set25_frame1, 0.593
+5 top scores:
+[['set25_frame1', 0.593], ['set25_frame0', 1.758], ['set33_frame0', 1.774], ['set1_frame1', 1.763], ['set8_frame1', 1.749]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/3.Satyrine/1.Blast_result/Pararge_aegeria/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_25_frame1.fa.txt
+9 66
+Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_0_query_Exon_6
+QNQVPAEGATEPLQLDGR-ARDALRKVRKLDHNDDYLHSYKFKNSIERRFSRSQDTE
+9 66
+set25_frame1
+QNPPEAESA-EPLQLDGRFKREALRKVRKLDHSEHYLHSYKFKNSIERRFSRSLDTE
+Original query = QNQVPAEGATEPLQLDGRARDALRKVRKLDHNDDYLHSYKFKNSIERRFSRSQDTE
+New query = QNPPEAESA-EPLQLDGRFKREALRKVRKLDHSEHYLHSYKFKNSIERRFSRSLDTE
+Scaffold = NC_053187.1, start = 17062881, end = 17062933
+Pararge_aegeria,NC_053187.1,17025773,17025928,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_0_query_Exon_7,1,49,49
+
+5
+8
+Pararge_aegeria,NC_053187.1,17027044,17027238,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_1_query_Exon_5,1,64,64
+
+Pararge_aegeria,NC_053187.1,17025014,17025104,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set21_frame2, 0.541
+5 top scores:
+[['set21_frame2', 0.541], ['set18_frame2', 1.797], ['set33_frame0', 1.834], ['set29_frame2', 1.858], ['set30_frame0', 1.906]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/3.Satyrine/1.Blast_result/Pararge_aegeria/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_21_frame2.fa.txt
+10 62
+Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_0_query_Exon_7
+MTDAAAHNGTNGAPHGKMLKRRRALKPAPP---SASTSASTSTEDAPDTSPQ
+10 62
+set21_frame2
+VKDSTPPNGVNGASHGKLLKRRRAIKPAPPASTSASTSASTSTEDARDTSPQ
+Original query = MTDAAAHNGTNGAPHGKMLKRRRALKPAPPSASTSASTSTEDAPDTSPQ
+New query = VKDSTPPNGVNGASHGKLLKRRRAIKPAPPASTSASTSASTSTEDARDTSPQ
+Scaffold = NC_053187.1, start = 17062881, end = 17062933
+Pararge_aegeria,NC_053187.1,17025014,17025104,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+6
+8
+Pararge_aegeria,NC_053187.1,17026414,17026583,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_0_query_Exon_6,1,56,56
+
+Pararge_aegeria,NC_053187.1,17025014,17025104,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set38_frame0, 0.241
+5 top scores:
+[['set38_frame0', 0.241], ['set9_frame2', 1.568], ['set8_frame1', 1.684], ['set16_frame1', 1.694], ['set1_frame2', 1.737]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/3.Satyrine/1.Blast_result/Pararge_aegeria/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_38_frame0.fa.txt
+6 35
+set38_frame0
+DTSSESPHHHQYDKPQLPTQYVPVFALNS
+Original query = DTSSESPHNHHYDKPQPPTQYVPVFALNSL
+New query = DTSSESPHHHQYDKPQLPTQYVPVFALNS
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = NC_053187.1, start = 17062881, end = 17062933
+Pararge_aegeria,NC_053187.1,17033383,17033503,1,N,Bicyclus_anynana_XM_024084267.2_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+1
+4
+Pararge_aegeria,NC_053187.1,17062881,17062933,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_2_query_Exon_1,2,18,18
+
+Pararge_aegeria,NC_053187.1,17027555,17027716,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+Getting Gene
+min = set631_frame1, 0.455
+5 top scores:
+[['set631_frame1', 0.455], ['set701_frame1', 1.668], ['set87_frame2', 1.732], ['set346_frame2', 1.746], ['set389_frame2', 1.746]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/3.Satyrine/1.Blast_result/Pararge_aegeria/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_631_frame1.fa.txt
+41 81
+Maniola_jurtina_XM_045908966.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRTGEPLSF-APPSEDEAEYPAGAYLKKGKVSR
+41 81
+set631_frame1
+YNSNDEFGRGGEQLNFAAPPSDDEADYPPGAYLKKGKVSR
+Original query = YNSNDGFGRTGEPLSFAPPSEDEAEYPAGAYLKKGKVSR
+New query = YNSNDEFGRGGEQLNFAAPPSDDEADYPPGAYLKKGKVSR
+Scaffold = NC_053187.1, start = 17062881, end = 17062933
+Pararge_aegeria,NC_053187.1,17031469,17031652,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Pararge_aegeria,NC_053187.1,17062881,17062933,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_2_query_Exon_1,2,18,18
+
+Pararge_aegeria,NC_053187.1,17027044,17027238,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_1_query_Exon_5,1,64,64
+
+Getting Gene
+min = set671_frame0, 0.048
+5 top scores:
+[['set671_frame0', 0.048], ['set631_frame1', 1.726], ['set584_frame2', 1.755], ['set673_frame2', 1.779], ['set70_frame2', 1.793]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/3.Satyrine/1.Blast_result/Pararge_aegeria/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_671_frame0.fa.txt
+2 63
+Maniola_jurtina_XM_045908966.1_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPAEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+2 63
+set671_frame0
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPDYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPAEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPDYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = NC_053187.1, start = 17062881, end = 17062933
+Pararge_aegeria,NC_053187.1,17027555,17027716,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+2
+6
+Pararge_aegeria,NC_053187.1,17033383,17033503,1,N,Bicyclus_anynana_XM_024084267.2_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+Pararge_aegeria,NC_053187.1,17026414,17026583,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_0_query_Exon_6,1,56,56
+
+Getting Gene
+min = set114_frame2, 0.174
+5 top scores:
+[['set114_frame2', 0.174], ['set143_frame1', 1.805], ['set131_frame2', 1.825], ['set30_frame0', 1.822], ['set30_frame2', 1.838]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/3.Satyrine/1.Blast_result/Pararge_aegeria/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_114_frame2.fa.txt
+19 72
+Maniola_jurtina_XM_045908966.1_Frame_2_rightoh_1_query_Exon_4
+AERQAGEEFRAGYQEAVAEAVRFLVEVQGFGPGDGLCVQLASHMQRHCDAVTK
+19 72
+set114_frame2
+AERQAGEEFRSGYQEAVAEAVRFLVEVQGFSPSDGLCVQLASHLQRHCEVVTK
+Original query = AERQAGEEFRAGYQEAVAEAVRFLVEVQGFGPGDGLCVQLASHMQRHCDAVTK
+New query = AERQAGEEFRSGYQEAVAEAVRFLVEVQGFSPSDGLCVQLASHLQRHCEVVTK
+Scaffold = NC_053187.1, start = 17062881, end = 17062933
+Pararge_aegeria,NC_053187.1,17027044,17027238,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_1_query_Exon_5,1,64,64
+
+3
+7
+Pararge_aegeria,NC_053187.1,17031469,17031652,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Pararge_aegeria,NC_053187.1,17025773,17025928,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_0_query_Exon_7,1,49,49
+
+Getting Gene
+min = set71_frame0, 0.732
+5 top scores:
+[['set71_frame0', 0.732], ['set91_frame0', 1.704], ['set92_frame1', 1.821], ['set102_frame2', 1.827], ['set116_frame1', 1.853]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/3.Satyrine/1.Blast_result/Pararge_aegeria/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_71_frame0.fa.txt
+84 150
+Maniola_jurtina_XM_045908966.1_Frame_2_rightoh_1_query_Exon_5
+DAMTRSDKSRSSNPGSSSETTSSSSSSHGFAVKVIQRPELPPAFPVESYEQERPAAGPQYPMECER
+84 150
+set71_frame0
+DAMLR-EKTRSNPGTSSSETTSSSSSSQGFAVKVIQRPEVPPAFQPEPYEQEL-STGPSYPTECER
+Original query = DAMTRSDKSRSSNPGSSSETTSSSSSSHGFAVKVIQRPELPPAFPVESYEQERPAAGPQYPMECER
+New query = DAMLR-EKTRSNPGTSSSETTSSSSSSQGFAVKVIQRPEVPPAFQPEPYEQEL-STGPSYPTECER
+Scaffold = NC_053187.1, start = 17062881, end = 17062933
+Pararge_aegeria,NC_053187.1,17026414,17026583,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_0_query_Exon_6,1,56,56
+
+4
+8
+Pararge_aegeria,NC_053187.1,17027555,17027716,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+Pararge_aegeria,NC_053187.1,17025014,17025104,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set25_frame1, 0.441
+5 top scores:
+[['set25_frame1', 0.441], ['set25_frame0', 1.794], ['set33_frame0', 1.778], ['set1_frame1', 1.759], ['set8_frame1', 1.774]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/3.Satyrine/1.Blast_result/Pararge_aegeria/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_25_frame1.fa.txt
+11 65
+Maniola_jurtina_XM_045908966.1_Frame_2_rightoh_0_query_Exon_6
+APEAESQEPLPLDGRIKREALRKVRKIEHSDDYLHSYKFKNSIERRFSRSQDTE
+11 65
+set25_frame1
+PPEAESAEPLQLDGRFKREALRKVRKLDHSEHYLHSYKFKNSIERRFSRSLDTE
+Original query = QNLAAPEAESQEPLPLDGRIKREALRKVRKIEHSDDYLHSYKFKNSIERRFSRSQDTE
+New query = PPEAESAEPLQLDGRFKREALRKVRKLDHSEHYLHSYKFKNSIERRFSRSLDTE
+Scaffold = NC_053187.1, start = 17062881, end = 17062933
+Pararge_aegeria,NC_053187.1,17025773,17025928,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_0_query_Exon_7,1,49,49
+
+5
+8
+Pararge_aegeria,NC_053187.1,17027044,17027238,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_1_query_Exon_5,1,64,64
+
+Pararge_aegeria,NC_053187.1,17025014,17025104,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set21_frame2, 0.9
+5 top scores:
+[['set21_frame2', 0.9], ['set14_frame2', 1.758], ['set17_frame2', 1.761], ['set19_frame2', 1.818], ['set26_frame0', 1.79]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/3.Satyrine/1.Blast_result/Pararge_aegeria/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_21_frame2.fa.txt
+10 64
+Maniola_jurtina_XM_045908966.1_Frame_0_rightoh_0_query_Exon_7
+AADCPPHNGVNGATHGKPYAHKRRRAVKPAP----SAPTSASTSTE---DTSPQ
+10 64
+set21_frame2
+VKDSTPPNGVNGASHGK--LLKRRRAIKPAPPASTSASTSASTSTEDARDTSPQ
+Original query = AADCPPHNGVNGATHGKPYAHKRRRAVKPAPSAPTSASTSTEDTSPQ
+New query = VKDSTPPNGVNGASHGK--LLKRRRAIKPAPPASTSASTSASTSTEDARDTSPQ
+Scaffold = NC_053187.1, start = 17062881, end = 17062933
+Pararge_aegeria,NC_053187.1,17025014,17025104,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+6
+8
+Pararge_aegeria,NC_053187.1,17026414,17026583,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_0_query_Exon_6,1,56,56
+
+Pararge_aegeria,NC_053187.1,17025014,17025104,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set38_frame0, 0.335
+5 top scores:
+[['set38_frame0', 0.335], ['set9_frame2', 1.589], ['set8_frame1', 1.687], ['set16_frame1', 1.697], ['set17_frame2', 1.724]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/3.Satyrine/1.Blast_result/Pararge_aegeria/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_38_frame0.fa.txt
+6 35
+set38_frame0
+DTSSESPHHHQYDKPQLPTQYVPVFALNS
+Original query = DTSSESPHNHHYDKPPPPTQYVPVFALNSL
+New query = DTSSESPHHHQYDKPQLPTQYVPVFALNS
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = NC_053187.1, start = 17062881, end = 17062933
+Pararge_aegeria,NC_053187.1,17033383,17033503,1,N,Bicyclus_anynana_XM_024084267.2_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+1
+4
+Pararge_aegeria,NC_053187.1,17062881,17062933,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_2_query_Exon_1,2,18,18
+
+Pararge_aegeria,NC_053187.1,17027555,17027716,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+Getting Gene
+min = set631_frame1, 0.0
+5 top scores:
+[['set631_frame1', 0.0], ['set701_frame1', 1.715], ['set673_frame2', 1.72], ['set463_frame1', 1.746], ['set14_frame2', 1.751]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/3.Satyrine/1.Blast_result/Pararge_aegeria/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_631_frame1.fa.txt
+41 81
+Pararge_aegeria_XM_039892779.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDEFGRGGEQLNFAAPPSDDEADYPPGAYLKKGKVSR
+41 81
+set631_frame1
+YNSNDEFGRGGEQLNFAAPPSDDEADYPPGAYLKKGKVSR
+Original query = YNSNDEFGRGGEQLNFAAPPSDDEADYPPGAYLKKGKVSR
+New query = YNSNDEFGRGGEQLNFAAPPSDDEADYPPGAYLKKGKVSR
+Scaffold = NC_053187.1, start = 17062881, end = 17062933
+Pararge_aegeria,NC_053187.1,17031469,17031652,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Pararge_aegeria,NC_053187.1,17062881,17062933,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_2_query_Exon_1,2,18,18
+
+Pararge_aegeria,NC_053187.1,17027044,17027238,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_1_query_Exon_5,1,64,64
+
+Getting Gene
+min = set671_frame0, 0.0
+5 top scores:
+[['set671_frame0', 0.0], ['set631_frame1', 1.75], ['set773_frame1', 1.76], ['set584_frame2', 1.763], ['set673_frame2', 1.788]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/3.Satyrine/1.Blast_result/Pararge_aegeria/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_671_frame0.fa.txt
+2 63
+Pararge_aegeria_XM_039892779.1_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPDYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+2 63
+set671_frame0
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPDYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPDYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPDYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = NC_053187.1, start = 17062881, end = 17062933
+Pararge_aegeria,NC_053187.1,17027555,17027716,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+2
+6
+Pararge_aegeria,NC_053187.1,17033383,17033503,1,N,Bicyclus_anynana_XM_024084267.2_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+Pararge_aegeria,NC_053187.1,17026414,17026583,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_0_query_Exon_6,1,56,56
+
+Getting Gene
+min = set114_frame2, 0.0
+5 top scores:
+[['set114_frame2', 0.0], ['set7_frame2', 1.788], ['set30_frame2', 1.798], ['set2_frame2', 1.806], ['set131_frame2', 1.807]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/3.Satyrine/1.Blast_result/Pararge_aegeria/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_114_frame2.fa.txt
+19 72
+Pararge_aegeria_XM_039892779.1_Frame_2_rightoh_1_query_Exon_4
+AERQAGEEFRSGYQEAVAEAVRFLVEVQGFSPSDGLCVQLASHLQRHCEVVTK
+19 72
+set114_frame2
+AERQAGEEFRSGYQEAVAEAVRFLVEVQGFSPSDGLCVQLASHLQRHCEVVTK
+Original query = AERQAGEEFRSGYQEAVAEAVRFLVEVQGFSPSDGLCVQLASHLQRHCEVVTK
+New query = AERQAGEEFRSGYQEAVAEAVRFLVEVQGFSPSDGLCVQLASHLQRHCEVVTK
+Scaffold = NC_053187.1, start = 17062881, end = 17062933
+Pararge_aegeria,NC_053187.1,17027044,17027238,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_1_query_Exon_5,1,64,64
+
+3
+7
+Pararge_aegeria,NC_053187.1,17031469,17031652,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Pararge_aegeria,NC_053187.1,17025773,17025928,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_0_query_Exon_7,1,49,49
+
+Getting Gene
+min = set71_frame0, 0.0
+5 top scores:
+[['set71_frame0', 0.0], ['set91_frame0', 1.698], ['set85_frame2', 1.824], ['set102_frame2', 1.832], ['set116_frame1', 1.852]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/3.Satyrine/1.Blast_result/Pararge_aegeria/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_71_frame0.fa.txt
+84 148
+Pararge_aegeria_XM_039892779.1_Frame_2_rightoh_1_query_Exon_5
+DAMLREKTRSNPGTSSSETTSSSSSSQGFAVKVIQRPEVPPAFQPEPYEQELSTGPSYPTECER
+84 148
+set71_frame0
+DAMLREKTRSNPGTSSSETTSSSSSSQGFAVKVIQRPEVPPAFQPEPYEQELSTGPSYPTECER
+Original query = DAMLREKTRSNPGTSSSETTSSSSSSQGFAVKVIQRPEVPPAFQPEPYEQELSTGPSYPTECER
+New query = DAMLREKTRSNPGTSSSETTSSSSSSQGFAVKVIQRPEVPPAFQPEPYEQELSTGPSYPTECER
+Scaffold = NC_053187.1, start = 17062881, end = 17062933
+Pararge_aegeria,NC_053187.1,17026414,17026583,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_0_query_Exon_6,1,56,56
+
+4
+8
+Pararge_aegeria,NC_053187.1,17027555,17027716,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+Pararge_aegeria,NC_053187.1,17025014,17025104,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set25_frame1, 0.0
+5 top scores:
+[['set25_frame1', 0.0], ['set33_frame1', 1.807], ['set33_frame0', 1.799], ['set1_frame1', 1.765], ['set8_frame1', 1.675]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/3.Satyrine/1.Blast_result/Pararge_aegeria/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_25_frame1.fa.txt
+9 65
+Pararge_aegeria_XM_039892779.1_Frame_2_rightoh_0_query_Exon_6
+QNPPEAESAEPLQLDGRFKREALRKVRKLDHSEHYLHSYKFKNSIERRFSRSLDTE
+9 65
+set25_frame1
+QNPPEAESAEPLQLDGRFKREALRKVRKLDHSEHYLHSYKFKNSIERRFSRSLDTE
+Original query = QNPPEAESAEPLQLDGRFKREALRKVRKLDHSEHYLHSYKFKNSIERRFSRSLDTE
+New query = QNPPEAESAEPLQLDGRFKREALRKVRKLDHSEHYLHSYKFKNSIERRFSRSLDTE
+Scaffold = NC_053187.1, start = 17062881, end = 17062933
+Pararge_aegeria,NC_053187.1,17025773,17025928,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_0_query_Exon_7,1,49,49
+
+5
+8
+Pararge_aegeria,NC_053187.1,17027044,17027238,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_1_query_Exon_5,1,64,64
+
+Pararge_aegeria,NC_053187.1,17025014,17025104,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set21_frame2, 0.0
+5 top scores:
+[['set21_frame2', 0.0], ['set18_frame0', 1.801], ['set21_frame0', 1.842], ['set33_frame0', 1.849], ['set30_frame0', 1.882]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/3.Satyrine/1.Blast_result/Pararge_aegeria/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_21_frame2.fa.txt
+10 62
+Pararge_aegeria_XM_039892779.1_Frame_0_rightoh_0_query_Exon_7
+VKDSTPPNGVNGASHGKLLKRRRAIKPAPPASTSASTSASTSTEDARDTSPQ
+10 62
+set21_frame2
+VKDSTPPNGVNGASHGKLLKRRRAIKPAPPASTSASTSASTSTEDARDTSPQ
+Original query = VKDSTPPNGVNGASHGKLLKRRRAIKPAPPASTSASTSASTSTEDARDTSPQ
+New query = VKDSTPPNGVNGASHGKLLKRRRAIKPAPPASTSASTSASTSTEDARDTSPQ
+Scaffold = NC_053187.1, start = 17062881, end = 17062933
+Pararge_aegeria,NC_053187.1,17025014,17025104,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+6
+8
+Pararge_aegeria,NC_053187.1,17026414,17026583,1,N,Bicyclus_anynana_XM_024084267.2_Frame_2_rightoh_0_query_Exon_6,1,56,56
+
+Pararge_aegeria,NC_053187.1,17025014,17025104,1,N,Bicyclus_anynana_XM_024084267.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set38_frame0, 0.0
+5 top scores:
+[['set38_frame0', 0.0], ['set4_frame1', 1.656], ['set9_frame2', 1.666], ['set2_frame2', 1.721], ['set20_frame0', 1.724]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/3.Satyrine/1.Blast_result/Pararge_aegeria/Period_gene_genomic_sequence_individual_exon_Pararge_aegeria/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_38_frame0.fa.txt
+6 35
+set38_frame0
+DTSSESPHHHQYDKPQLPTQYVPVFALNS
+Original query = DTSSESPHHHQYDKPQLPTQYVPVFALNSL
+New query = DTSSESPHHHQYDKPQLPTQYVPVFALNS

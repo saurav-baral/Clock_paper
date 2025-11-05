@@ -1,0 +1,474 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = OX638254.1, start = 16097567, end = 16097619
+Brenthis_hecate,OX638254.1,16123222,16123354,0,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+1
+4
+Brenthis_hecate,OX638254.1,16097567,16097619,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Brenthis_hecate,OX638254.1,16125250,16125405,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,4,48,48
+
+Getting Gene
+min = set655_frame0, 0.751
+5 top scores:
+[['set655_frame0', 0.751], ['set587_frame1', 1.677], ['set265_frame2', 1.716], ['set509_frame2', 1.752], ['set474_frame1', 1.758]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Brenthis_hecate/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_655_frame0.fa.txt
+0 48
+Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2
+Y----SNEEFARE-PLSFAPPSEDEAEYPPG-YKKGKVSRASHTEYAR
+0 48
+set655_frame0
+LFSYNSNDGFGRAGELNFAAPSEDEAEYASGTYKKGKVSRASHTEYAR
+Original query = YSNEEFAREPLSFAPPSEDEAEYPPGYKKGKVSRASHTEYAR
+New query = LFSYNSNDGFGRAGELNFAAPSEDEAEYASGTYKKGKVSRASHTEYAR
+Scaffold = OX638254.1, start = 16097567, end = 16097619
+Brenthis_hecate,OX638254.1,16124077,16124260,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+6
+7
+Brenthis_hecate,OX638254.1,16097567,16097619,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Brenthis_hecate,OX638254.1,16127427,16127618,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set595_frame2, 0.115
+5 top scores:
+[['set595_frame2', 0.115], ['set591_frame1', 1.791], ['set40_frame2', 1.797], ['set354_frame2', 1.799], ['set509_frame2', 1.807]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Brenthis_hecate/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_595_frame2.fa.txt
+13 74
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+13 74
+set595_frame2
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPTEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPTEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = OX638254.1, start = 16097567, end = 16097619
+Brenthis_hecate,OX638254.1,16125250,16125405,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,4,48,48
+
+2
+6
+7
+Brenthis_hecate,OX638254.1,16123222,16123354,0,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+Brenthis_hecate,OX638254.1,16127427,16127618,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set34_frame2, 1.082
+5 top scores:
+[['set34_frame2', 1.082], ['set57_frame2', 1.684], ['set65_frame2', 1.738], ['set27_frame2', 1.81], ['set58_frame2', 1.822]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Brenthis_hecate/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_34_frame2.fa.txt
+7 58
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4
+LERGSEFLAGYQRAGAEAVRF-VELQ--GSRDGLADQLAAHLHSHADMMAK
+7 58
+set34_frame2
+ERHGAEFRSGYQEAVAEALRFLVEVQGFGPGDGLCVQMASHLQRHCEVVTK
+Original query = LERGSEFLAGYQRAGAEAVRFVELQGSRDGLADQLAAHLHSHADMMAK
+New query = ERHGAEFRSGYQEAVAEALRFLVEVQGFGPGDGLCVQMASHLQRHCEVVTK
+Scaffold = OX638254.1, start = 16097567, end = 16097619
+Brenthis_hecate,OX638254.1,16126108,16126278,0,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,23,44,56
+
+3
+7
+Brenthis_hecate,OX638254.1,16124077,16124260,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Brenthis_hecate,OX638254.1,16127427,16127618,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set43_frame2, 0.861
+5 top scores:
+[['set43_frame2', 0.861], ['set63_frame2', 1.717], ['set49_frame0', 1.768], ['set51_frame0', 1.829], ['set61_frame0', 1.649]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Brenthis_hecate/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_43_frame2.fa.txt
+14 64
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5
+HEKRVYPNSSSETTSSSSSSQGFAVKVIQRPEPPPAFPEPYEPDRQEHFA
+14 64
+set43_frame2
+EKPRSHIGSSSETASSSSSSHGFAVKVIQRPEPPPAFSEPYEERPVEPYS
+Original query = AVHEKRVYPNSSSETTSSSSSSQGFAVKVIQRPEPPPAFPEPYEPDRQEHFADCER
+New query = EKPRSHIGSSSETASSSSSSHGFAVKVIQRPEPPPAFSEPYEERPVEPYS
+Scaffold = OX638254.1, start = 16097567, end = 16097619
+Brenthis_hecate,OX638254.1,16126516,16126697,0,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6,19,60,60
+
+4
+8
+Brenthis_hecate,OX638254.1,16125250,16125405,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,4,48,48
+
+Brenthis_hecate,OX638254.1,16128810,16128894,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set24_frame2, 0.952
+5 top scores:
+[['set24_frame2', 0.952], ['set39_frame2', 1.822], ['set36_frame0', 1.807], ['set1_frame2', 1.836], ['set5_frame1', 1.831]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Brenthis_hecate/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_24_frame2.fa.txt
+15 79
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6
+SVH---QPAVMEPLEGEPLPLDGRVKKEVTLRKIRKPEH-EDYLHSYKFKNSIERRFSRSQDSE
+15 79
+set24_frame2
+SVSMALQCAVGE-------ETDARVSRD-ALRKVRKPEHGDDYLHSYKFKNSIERRFSRSQDSE
+Original query = SVHQPAVMEPLEGEPLPLDGRVKKEVTLRKIRKPEHEDYLHSYKFKNSIERRFSRSQDSE
+New query = SVSMALQCAVGE-------ETDARVSRD-ALRKVRKPEHGDDYLHSYKFKNSIERRFSRSQDSE
+Scaffold = OX638254.1, start = 16097567, end = 16097619
+Brenthis_hecate,OX638254.1,16127427,16127618,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+5
+4
+8
+Brenthis_hecate,OX638254.1,16125250,16125405,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,4,48,48
+
+Brenthis_hecate,OX638254.1,16128810,16128894,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set39_frame2, 0.907
+5 top scores:
+[['set39_frame2', 0.907], ['set67_frame1', 1.766], ['set24_frame0', 1.78], ['set26_frame0', 1.792], ['set36_frame0', 1.721]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Brenthis_hecate/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_39_frame2.fa.txt
+6 71
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7
+GDAWSAGPTAKAYNHKRRRPTKPAPPSTST--------------------SASGSTEEARDTSPQ
+6 71
+set39_frame2
+ADPRSAAP-HKAYSHKRRRAAKPASTSASTSTSTSNSNSASNSASNSASNSASGSTEEARDTSPQ
+Original query = GDAWSAGPTAKAYNHKRRRPTKPAPPSTSTSASGSTEEARDTSPQ
+New query = ADPRSAAP-HKAYSHKRRRAAKPASTSASTSTSTSNSNSASNSASNSASNSASGSTEEARDTSPQ
+Scaffold = OX638254.1, start = 16097567, end = 16097619
+Brenthis_hecate,OX638254.1,16128810,16128894,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+6
+5
+4
+8
+Brenthis_hecate,OX638254.1,16125250,16125405,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,4,48,48
+
+Brenthis_hecate,OX638254.1,16128810,16128894,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set67_frame2, 0.805
+5 top scores:
+[['set67_frame2', 0.805], ['set39_frame2', 1.713], ['set16_frame0', 1.689], ['set44_frame1', 1.717], ['set20_frame0', 1.705]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Brenthis_hecate/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_67_frame2.fa.txt
+8 37
+set67_frame2
+ELSRSSPHQHQYDK--PPAQYVPVFALNA
+Original query = DTCSDSPHHHSFDKPPPPAQYVPVFALNAL
+New query = ELSRSSPHQHQYDK--PPAQYVPVFALNA
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = OX638254.1, start = 16097567, end = 16097619
+Brenthis_hecate,OX638254.1,16123222,16123354,0,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+1
+4
+Brenthis_hecate,OX638254.1,16097567,16097619,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Brenthis_hecate,OX638254.1,16125250,16125405,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,4,48,48
+
+Getting Gene
+min = set655_frame0, 0.427
+5 top scores:
+[['set655_frame0', 0.427], ['set304_frame2', 1.657], ['set595_frame2', 1.676], ['set9_frame2', 1.716], ['set415_frame2', 1.72]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Brenthis_hecate/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_655_frame0.fa.txt
+3 41
+Nymphalis_io_XM_050486679.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRAGELNFAAPSEDEAEYPPAVFLKKGKVSR
+3 41
+set655_frame0
+YNSNDGFGRAGELNFAAPSEDEAEYASGTY-KKGKVSR
+Original query = YNSNDGFGRAGELNFAAPSEDEAEYPPAVFLKKGKVSR
+New query = YNSNDGFGRAGELNFAAPSEDEAEYASGTY-KKGKVSR
+Scaffold = OX638254.1, start = 16097567, end = 16097619
+Brenthis_hecate,OX638254.1,16124077,16124260,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+6
+7
+Brenthis_hecate,OX638254.1,16097567,16097619,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Brenthis_hecate,OX638254.1,16127427,16127618,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set595_frame2, 0.052
+5 top scores:
+[['set595_frame2', 0.052], ['set202_frame1', 1.774], ['set698_frame0', 1.78], ['set591_frame1', 1.789], ['set40_frame2', 1.797]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Brenthis_hecate/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_595_frame2.fa.txt
+13 74
+Nymphalis_io_XM_050486679.1_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+13 74
+set595_frame2
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPTEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPTEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = OX638254.1, start = 16097567, end = 16097619
+Brenthis_hecate,OX638254.1,16125250,16125405,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,4,48,48
+
+2
+6
+7
+Brenthis_hecate,OX638254.1,16123222,16123354,0,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+Brenthis_hecate,OX638254.1,16127427,16127618,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set34_frame2, 0.385
+5 top scores:
+[['set34_frame2', 0.385], ['set57_frame2', 1.757], ['set63_frame2', 1.805], ['set72_frame2', 1.805], ['set74_frame0', 1.825]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Brenthis_hecate/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_34_frame2.fa.txt
+6 59
+Nymphalis_io_XM_050486679.1_Frame_2_rightoh_1_query_Exon_4
+AERQAGDDYRAGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEFVTK
+6 59
+set34_frame2
+AERH-GAEFRSGYQEAVAEALRFLVEVQGFGPGDGLCVQMASHLQRHCEVVTK
+Original query = AERQAGDDYRAGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEFVTK
+New query = AERH-GAEFRSGYQEAVAEALRFLVEVQGFGPGDGLCVQMASHLQRHCEVVTK
+Scaffold = OX638254.1, start = 16097567, end = 16097619
+Brenthis_hecate,OX638254.1,16126108,16126278,0,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,23,44,56
+
+3
+7
+Brenthis_hecate,OX638254.1,16124077,16124260,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Brenthis_hecate,OX638254.1,16127427,16127618,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set43_frame2, 0.683
+5 top scores:
+[['set43_frame2', 0.683], ['set63_frame2', 1.731], ['set51_frame0', 1.821], ['set61_frame0', 1.717], ['set48_frame2', 1.859]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Brenthis_hecate/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_43_frame2.fa.txt
+12 70
+Nymphalis_io_XM_050486679.1_Frame_2_rightoh_1_query_Exon_5
+TRDKPRSHPGSSSETASSSSSSHGFGVKVIQRPELPPFPAETYDHERQEPPYAMECDR
+12 70
+set43_frame2
+TREKPRSHIGSSSETASSSSSSHGFAVKVIQRPEPPPAFSEPYE-ERPVEPYSMECDR
+Original query = EHTRDKPRSHPGSSSETASSSSSSHGFGVKVIQRPELPPFPAETYDHERQEPPYAMECDR
+New query = TREKPRSHIGSSSETASSSSSSHGFAVKVIQRPEPPPAFSEPYE-ERPVEPYSMECDR
+Scaffold = OX638254.1, start = 16097567, end = 16097619
+Brenthis_hecate,OX638254.1,16126516,16126697,0,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6,19,60,60
+
+4
+8
+Brenthis_hecate,OX638254.1,16125250,16125405,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,4,48,48
+
+Brenthis_hecate,OX638254.1,16128810,16128894,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set24_frame2, 0.818
+5 top scores:
+[['set24_frame2', 0.818], ['set19_frame2', 1.82], ['set36_frame0', 1.802], ['set39_frame2', 1.839], ['set5_frame1', 1.846]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Brenthis_hecate/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_24_frame2.fa.txt
+15 73
+Nymphalis_io_XM_050486679.1_Frame_2_rightoh_0_query_Exon_6
+SVLPAAETDAPDAPLDGRLKKEPALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDTE
+15 73
+set24_frame2
+SVSMALQC-AVGEETDARVSRD-ALRKVRKPEHGDDYLHSYKFKNSIERRFSRSQDSE
+Original query = SVLPAAETDAPDAPLDGRLKKEPALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDTE
+New query = SVSMALQC-AVGEETDARVSRD-ALRKVRKPEHGDDYLHSYKFKNSIERRFSRSQDSE
+Scaffold = OX638254.1, start = 16097567, end = 16097619
+Brenthis_hecate,OX638254.1,16127427,16127618,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+5
+4
+8
+Brenthis_hecate,OX638254.1,16125250,16125405,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,4,48,48
+
+Brenthis_hecate,OX638254.1,16128810,16128894,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set39_frame2, 0.948
+5 top scores:
+[['set39_frame2', 0.948], ['set19_frame2', 1.7], ['set24_frame0', 1.737], ['set54_frame1', 1.755], ['set36_frame0', 1.737]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Brenthis_hecate/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_39_frame2.fa.txt
+0 70
+Nymphalis_io_XM_050486679.1_Frame_0_rightoh_0_query_Exon_7
+TAE---GAGRGAAHGKLYSHKRRRQAKPAA-----------------PESTSASTSASASTEDAQDTSPQ
+0 70
+set39_frame2
+TFSRQVADPRSAAPHKAYSHKRRRAAKPASTSASTSTSTSNSNSASNSASNSASNSASGSTEEARDTSPQ
+Original query = TAEGAGRGAAHGKLYSHKRRRQAKPAAPESTSASTSASASTEDAQDTSPQ
+New query = TFSRQVADPRSAAPHKAYSHKRRRAAKPASTSASTSTSTSNSNSASNSASNSASNSASGSTEEARDTSPQ
+Scaffold = OX638254.1, start = 16097567, end = 16097619
+Brenthis_hecate,OX638254.1,16128810,16128894,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+6
+5
+4
+8
+Brenthis_hecate,OX638254.1,16125250,16125405,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,4,48,48
+
+Brenthis_hecate,OX638254.1,16128810,16128894,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set67_frame2, 0.71
+5 top scores:
+[['set67_frame2', 0.71], ['set19_frame2', 1.579], ['set16_frame0', 1.664], ['set39_frame2', 1.702], ['set20_frame0', 1.705]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Brenthis_hecate/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_67_frame2.fa.txt
+8 37
+set67_frame2
+ELSRSSPHQHQYDK--PPAQYVPVFALNA
+Original query = DTSSDSPHHHQYDKPPPPTQYVPVFALNSL
+New query = ELSRSSPHQHQYDK--PPAQYVPVFALNA
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = OX638254.1, start = 16097567, end = 16097619
+Brenthis_hecate,OX638254.1,16123222,16123354,0,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+1
+4
+Brenthis_hecate,OX638254.1,16097567,16097619,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Brenthis_hecate,OX638254.1,16125250,16125405,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,4,48,48
+
+Getting Gene
+min = set655_frame0, 0.436
+5 top scores:
+[['set655_frame0', 0.436], ['set595_frame2', 1.635], ['set551_frame2', 1.706], ['set271_frame1', 1.707], ['set417_frame1', 1.716]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Brenthis_hecate/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_655_frame0.fa.txt
+3 41
+Vanessa_tameamea_XM_026630430.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRAGELNFAAPSEDEADYPPAAYLKKGKVSR
+3 41
+set655_frame0
+YNSNDGFGRAGELNFAAPSEDEAEYASGTY-KKGKVSR
+Original query = YNSNDGFGRAGELNFAAPSEDEADYPPAAYLKKGKVSR
+New query = YNSNDGFGRAGELNFAAPSEDEAEYASGTY-KKGKVSR
+Scaffold = OX638254.1, start = 16097567, end = 16097619
+Brenthis_hecate,OX638254.1,16124077,16124260,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+6
+7
+Brenthis_hecate,OX638254.1,16097567,16097619,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Brenthis_hecate,OX638254.1,16127427,16127618,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set595_frame2, 0.096
+5 top scores:
+[['set595_frame2', 0.096], ['set591_frame1', 1.8], ['set354_frame2', 1.812], ['set417_frame0', 1.801], ['set655_frame2', 1.819]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Brenthis_hecate/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_595_frame2.fa.txt
+10 74
+Vanessa_tameamea_XM_026630430.1_Frame_0_rightoh_1_query_Exon_3
+LLQQDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+10 74
+set595_frame2
+FLQQDPMSHRIIEKRRRDRMNNCLADLSRLIPTEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = VLLQQDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+New query = FLQQDPMSHRIIEKRRRDRMNNCLADLSRLIPTEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = OX638254.1, start = 16097567, end = 16097619
+Brenthis_hecate,OX638254.1,16125250,16125405,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,4,48,48
+
+2
+6
+7
+Brenthis_hecate,OX638254.1,16123222,16123354,0,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+Brenthis_hecate,OX638254.1,16127427,16127618,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set34_frame2, 0.355
+5 top scores:
+[['set34_frame2', 0.355], ['set57_frame2', 1.761], ['set72_frame2', 1.831], ['set63_frame2', 1.835], ['set74_frame0', 1.81]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Brenthis_hecate/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_34_frame2.fa.txt
+6 59
+Vanessa_tameamea_XM_026630430.1_Frame_2_rightoh_1_query_Exon_4
+AERQAGDDYRTGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEIVTK
+6 59
+set34_frame2
+AERH-GAEFRSGYQEAVAEALRFLVEVQGFGPGDGLCVQMASHLQRHCEVVTK
+Original query = AERQAGDDYRTGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEIVTK
+New query = AERH-GAEFRSGYQEAVAEALRFLVEVQGFGPGDGLCVQMASHLQRHCEVVTK
+Scaffold = OX638254.1, start = 16097567, end = 16097619
+Brenthis_hecate,OX638254.1,16126108,16126278,0,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,23,44,56
+
+3
+7
+Brenthis_hecate,OX638254.1,16124077,16124260,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Brenthis_hecate,OX638254.1,16127427,16127618,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+Getting Gene
+min = set43_frame2, 0.683
+5 top scores:
+[['set43_frame2', 0.683], ['set63_frame2', 1.731], ['set51_frame0', 1.821], ['set61_frame0', 1.717], ['set48_frame2', 1.859]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Brenthis_hecate/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_43_frame2.fa.txt
+12 70
+Vanessa_tameamea_XM_026630430.1_Frame_2_rightoh_1_query_Exon_5
+TRDKPRSHPGSSSETASSSSSSHGFGVKVIQRPELPPFPAETYDHERQEPPYAMECDR
+12 70
+set43_frame2
+TREKPRSHIGSSSETASSSSSSHGFAVKVIQRPEPPPAFSEPYE-ERPVEPYSMECDR
+Original query = EHTRDKPRSHPGSSSETASSSSSSHGFGVKVIQRPELPPFPAETYDHERQEPPYAMECDR
+New query = TREKPRSHIGSSSETASSSSSSHGFAVKVIQRPEPPPAFSEPYE-ERPVEPYSMECDR
+Scaffold = OX638254.1, start = 16097567, end = 16097619
+Brenthis_hecate,OX638254.1,16126516,16126697,0,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6,19,60,60
+
+4
+8
+Brenthis_hecate,OX638254.1,16125250,16125405,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,4,48,48
+
+Brenthis_hecate,OX638254.1,16128810,16128894,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set24_frame2, 0.847
+5 top scores:
+[['set24_frame2', 0.847], ['set19_frame2', 1.804], ['set36_frame0', 1.766], ['set39_frame2', 1.822], ['set5_frame1', 1.863]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Brenthis_hecate/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_24_frame2.fa.txt
+12 72
+Vanessa_tameamea_XM_026630430.1_Frame_2_rightoh_0_query_Exon_6
+LLPAAEADAPRAPRAPLDGRLKREAALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDTE
+12 72
+set24_frame2
+FIFSVSMALQCAVGEETDARVSRD-ALRKVRKPEHGDDYLHSYKFKNSIERRFSRSQDSE
+Original query = SLLPAAEADAPRAPRAPLDGRLKREAALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDTE
+New query = FIFSVSMALQCAVGEETDARVSRD-ALRKVRKPEHGDDYLHSYKFKNSIERRFSRSQDSE
+Scaffold = OX638254.1, start = 16097567, end = 16097619
+Brenthis_hecate,OX638254.1,16127427,16127618,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,1,45,45
+
+5
+4
+8
+Brenthis_hecate,OX638254.1,16125250,16125405,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,4,48,48
+
+Brenthis_hecate,OX638254.1,16128810,16128894,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set39_frame2, 0.919
+5 top scores:
+[['set39_frame2', 0.919], ['set32_frame2', 1.719], ['set24_frame0', 1.711], ['set67_frame1', 1.755], ['set36_frame0', 1.695]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Brenthis_hecate/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_39_frame2.fa.txt
+7 70
+Vanessa_tameamea_XM_026630430.1_Frame_0_rightoh_0_query_Exon_7
+SAEGAAHGKLYSHKRRRQAKPCA-------------PPSTSASASASTSASASTEDAQDTSPQ
+7 70
+set39_frame2
+DPRSAAPHKAYSHKRRRAAKPASTSASTSTSTSNSNSASNSASNSASNSASGSTEEARDTSPQ
+Original query = SAEGAAHGKLYSHKRRRQAKPCAPPSTSASASASTSASASTEDAQDTSPQ
+New query = DPRSAAPHKAYSHKRRRAAKPASTSASTSTSTSNSNSASNSASNSASNSASGSTEEARDTSPQ
+Scaffold = OX638254.1, start = 16097567, end = 16097619
+Brenthis_hecate,OX638254.1,16128810,16128894,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+6
+5
+4
+8
+Brenthis_hecate,OX638254.1,16125250,16125405,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,4,48,48
+
+Brenthis_hecate,OX638254.1,16128810,16128894,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set67_frame2, 0.71
+5 top scores:
+[['set67_frame2', 0.71], ['set19_frame2', 1.579], ['set16_frame0', 1.664], ['set39_frame2', 1.702], ['set20_frame0', 1.705]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Brenthis_hecate/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_67_frame2.fa.txt
+8 37
+set67_frame2
+ELSRSSPHQHQYDK--PPAQYVPVFALNA
+Original query = DTSSDSPHHHQYDKPPPPTQYVPVFALNSL
+New query = ELSRSSPHQHQYDK--PPAQYVPVFALNA

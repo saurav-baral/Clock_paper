@@ -1,0 +1,114 @@
+---
+title: "plotting"
+author: "Wheat"
+date: "2024-10-28"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+Here I am going to import a csv file and plot
+
+```{r cars}
+# setwd("C:/Users/Saurav Baral/Desktop/Busco_related/20.RERConverge/")
+library(tidyverse)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+data <- read.csv("correlation_2Apr2025.csv.csv") %>%
+  rename(genes=X) %>%
+  mutate(adjusted_p_value.fdr = p.adjust(P, method = "fdr"))
+head(data)
+```
+
+# Using ChatGPT:
+
+## Query:
+
+how do I make a histogram plot of values from a column, and then add a red line at a specific value on the X axis? in R ggplot?
+
+```{r}
+ggplot(data, aes(x = P)) +
+  geom_histogram(binwidth = 0.02, fill = "skyblue", color = "black")   # Histogram
+
+```
+
+```{r}
+# Set the value where you want the red line to appear
+line_x <- 0.2247112
+
+# Create the histogram and add a vertical line
+ggplot(data, aes(x = Rho)) +
+  geom_histogram(binwidth = 0.05, fill = "skyblue", color = "black") +  # Histogram
+  geom_vline(xintercept = line_x, color = "red", linetype = "dashed", size = 1) +  # Vertical line
+  labs(title = "Histogram with Vertical Line", x = "Values", y = "Frequency") +
+  theme_minimal()  # Optional, sets a minimal theme
+```
+
+```{r}
+library(ggExtra)
+
+p <- data %>% 
+  ggplot(aes(x=Rho,y=-log10(P),color=P)) + 
+  # xlim(0, 1000) +  # Set x limits from 0 to 6
+  # ylim(0, 1000) +  # Set y limits from 0 to 6
+  geom_point() 
+
+
+ggMarginal(p, type = "histogram")
+
+```
+
+```{r}
+data %>% 
+  ggplot(aes(x=Rho,y=-log10(P),color=P)) + 
+  # xlim(0, 1000) +  # Set x limits from 0 to 6
+  # ylim(0, 1000) +  # Set y limits from 0 to 6
+  geom_point(aes(color =P < 0.005)) +  # Color based on condition
+  scale_color_manual(values = c("TRUE" = "red", "FALSE" = "black")) + 
+  geom_text(
+    data = subset(data, P < 0.005),  # Only label points with p < 0.05
+    aes(label = genes),  # Label with gene names
+    vjust = -0.5,  # Position text slightly above points
+    size = 3,  # Adjust text size
+    color = "black"  # Set label color
+  ) +
+  labs(title = "Scatter Plot with Gene Labels", x = "Rho", y = "-log10(P-value)") +
+  theme_minimal()
+
+```
+
+```{r}
+
+library(ggrepel)
+
+p3 <- data %>% 
+  ggplot(aes(x=Rho,y=-log10(P),color=P)) + 
+  # xlim(0, 1000) +  # Set x limits from 0 to 6
+  # ylim(0, 1000) +  # Set y limits from 0 to 6
+  geom_point(aes(color =P < 0.005)) +  # Color based on condition
+  scale_color_manual(values = c("TRUE" = "red", "FALSE" = "black")) + 
+  geom_text_repel(
+    data = subset(data, P < 0.005),  # Only label points with p < 0.05
+    aes(label = genes),  # Label with gene names
+    vjust = -0.5,  # Position text slightly above points
+    size = 3,  # Adjust text size
+    color = "black"  # Set label color
+  ) +
+  labs(title = "Scatter Plot with Gene Labels", x = "Rho", y = "-log10(P-value)") +
+  theme_minimal()
+
+ggMarginal(p3, type = "histogram")
+
+
+```

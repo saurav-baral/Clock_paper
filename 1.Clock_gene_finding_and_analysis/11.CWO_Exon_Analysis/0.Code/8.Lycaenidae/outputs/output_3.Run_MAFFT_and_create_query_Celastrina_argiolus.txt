@@ -1,0 +1,453 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = LR994586.1, start = 4714604, end = 4714656
+Celastrina_argiolus,LR994586.1,4728874,4728991,0,N,Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+1
+4
+Celastrina_argiolus,LR994586.1,4714604,4714656,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Celastrina_argiolus,LR994586.1,4731858,4732019,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+Getting Gene
+min = set310_frame0, 0.276
+5 top scores:
+[['set310_frame0', 0.276], ['set362_frame1', 1.713], ['set270_frame2', 1.724], ['set73_frame2', 1.756], ['set245_frame2', 1.771]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Celastrina_argiolus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_310_frame0.fa.txt
+5 44
+Maniola_jurtina_XM_045908966.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRTGEPLSFAPPSEDEAEYPAGAYLKKGKVSR
+5 44
+set310_frame0
+YNSNDGFGRPGEAVHYAPPSEDEAEYPQGAYLKKGKVSR
+Original query = YNSNDGFGRTGEPLSFAPPSEDEAEYPAGAYLKKGKVSR
+New query = YNSNDGFGRPGEAVHYAPPSEDEAEYPQGAYLKKGKVSR
+Scaffold = LR994586.1, start = 4714604, end = 4714656
+Celastrina_argiolus,LR994586.1,4729616,4729799,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Celastrina_argiolus,LR994586.1,4714604,4714656,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Celastrina_argiolus,LR994586.1,4732344,4732535,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+Getting Gene
+min = set326_frame0, 0.044
+5 top scores:
+[['set326_frame0', 0.044], ['set241_frame1', 1.757], ['set190_frame2', 1.757], ['set231_frame1', 1.798], ['set270_frame2', 1.809]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Celastrina_argiolus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_326_frame0.fa.txt
+6 67
+Maniola_jurtina_XM_045908966.1_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPAEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+6 67
+set326_frame0
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHIKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPAEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHIKFLQDRVN
+Scaffold = LR994586.1, start = 4714604, end = 4714656
+Celastrina_argiolus,LR994586.1,4731858,4732019,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+2
+6
+Celastrina_argiolus,LR994586.1,4728874,4728991,0,N,Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+Celastrina_argiolus,LR994586.1,4733007,4733176,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,1,56,56
+
+Getting Gene
+min = set62_frame1, 0.441
+5 top scores:
+[['set62_frame1', 0.441], ['set69_frame2', 1.822], ['set84_frame2', 1.83], ['set1_frame1', 1.818], ['set17_frame1', 1.84]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Celastrina_argiolus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_62_frame1.fa.txt
+19 72
+Maniola_jurtina_XM_045908966.1_Frame_2_rightoh_1_query_Exon_4
+AERQAGEEFRAGYQEAVAEAVRFLVEVQGFGPGDGLCVQLASHMQRHCDAVTK
+19 72
+set62_frame1
+AEGQATEPFRVGYQEAVGEAVRFLVEVQGFGPADGMCVEMAAHLQRRCEIVTK
+Original query = AERQAGEEFRAGYQEAVAEAVRFLVEVQGFGPGDGLCVQLASHMQRHCDAVTK
+New query = AEGQATEPFRVGYQEAVGEAVRFLVEVQGFGPADGMCVEMAAHLQRRCEIVTK
+Scaffold = LR994586.1, start = 4714604, end = 4714656
+Celastrina_argiolus,LR994586.1,4732344,4732535,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+3
+7
+Celastrina_argiolus,LR994586.1,4729616,4729799,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Celastrina_argiolus,LR994586.1,4734036,4734164,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7,1,43,43
+
+Getting Gene
+min = set54_frame0, 1.154
+5 top scores:
+[['set101_frame2', 1.814], ['set14_frame0', 1.867], ['set70_frame2', 1.879], ['set54_frame0', 1.154], ['set65_frame0', 1.864]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Celastrina_argiolus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_54_frame0.fa.txt
+0 71
+Maniola_jurtina_XM_045908966.1_Frame_2_rightoh_1_query_Exon_5
+DAM----TRSDKSRSSNPGSSSETTSSSSSSHGFAVK-VIQRPELPPAFPVESYEQERPAAGPQYPMECER
+0 71
+set54_frame0
+LKFAAKGTPREMIRSHIGGSSSETASSSSSSQGYVMKGVIQRPE-PPPFP-DIYEPERPAE--MYHMECDR
+Original query = DAMTRSDKSRSSNPGSSSETTSSSSSSHGFAVKVIQRPELPPAFPVESYEQERPAAGPQYPMECER
+New query = LKFAAKGTPREMIRSHIGGSSSETASSSSSSQGYVMKGVIQRPE-PPPFP-DIYEPERPAE--MYHMECDR
+Scaffold = LR994586.1, start = 4714604, end = 4714656
+Celastrina_argiolus,LR994586.1,4733007,4733176,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,1,56,56
+
+4
+8
+Celastrina_argiolus,LR994586.1,4731858,4732019,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+Celastrina_argiolus,LR994586.1,4735081,4735174,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set20_frame2, 0.843
+5 top scores:
+[['set20_frame2', 0.843], ['set1_frame2', 1.814], ['set9_frame2', 1.834], ['set6_frame1', 1.866], ['set8_frame1', 1.843]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Celastrina_argiolus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_20_frame2.fa.txt
+15 90
+Maniola_jurtina_XM_045908966.1_Frame_2_rightoh_0_query_Exon_6
+PEAE----------------------SQEPLPLDGRIKREALRKVRKIEHSDDYLHSYKFKNSIERRFSRSQDTE
+15 90
+set20_frame2
+PECSLYTDVLFAFFLVPVQMLPVDLPTDEPLPLD-RHKRD-LRKVRKPDH-DDYLHSYKFKNSIERRFSRSQDSE
+Original query = QNLAAPEAESQEPLPLDGRIKREALRKVRKIEHSDDYLHSYKFKNSIERRFSRSQDTE
+New query = PECSLYTDVLFAFFLVPVQMLPVDLPTDEPLPLD-RHKRD-LRKVRKPDH-DDYLHSYKFKNSIERRFSRSQDSE
+Scaffold = LR994586.1, start = 4714604, end = 4714656
+Celastrina_argiolus,LR994586.1,4734036,4734164,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7,1,43,43
+
+5
+8
+Celastrina_argiolus,LR994586.1,4732344,4732535,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+Celastrina_argiolus,LR994586.1,4735081,4735174,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set40_frame0, 1.391
+5 top scores:
+[['set4_frame0', 1.704], ['set1_frame2', 1.777], ['set9_frame0', 1.701], ['set7_frame1', 1.807], ['set40_frame0', 1.391]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Celastrina_argiolus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_40_frame0.fa.txt
+6 58
+Maniola_jurtina_XM_045908966.1_Frame_0_rightoh_0_query_Exon_7
+AADCPPHNGVNGATHGKPYAHKRRRAVKPAPSAPTSASTS-----TEDTSPQ
+6 58
+set40_frame0
+AAE-------NGSRGARAFT-KRRRANKPVP-ASTSASTSGSTEDARDTSPQ
+Original query = AADCPPHNGVNGATHGKPYAHKRRRAVKPAPSAPTSASTSTEDTSPQ
+New query = AAE-------NGSRGARAFT-KRRRANKPVP-ASTSASTSGSTEDARDTSPQ
+Scaffold = LR994586.1, start = 4714604, end = 4714656
+Celastrina_argiolus,LR994586.1,4735081,4735174,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+6
+8
+Celastrina_argiolus,LR994586.1,4733007,4733176,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,1,56,56
+
+Celastrina_argiolus,LR994586.1,4735081,4735174,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set37_frame1, 0.767
+5 top scores:
+[['set37_frame1', 0.767], ['set1_frame2', 1.703], ['set34_frame1', 1.717], ['set32_frame2', 1.743], ['set32_frame0', 1.769]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Celastrina_argiolus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_37_frame1.fa.txt
+15 30
+set37_frame1
+DTSSESPHHHQYEKP
+Original query = DTSSESPHNHHYDKPPPPTQYVPVFALNSL
+New query = DTSSESPHHHQYEKP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = LR994586.1, start = 4714604, end = 4714656
+Celastrina_argiolus,LR994586.1,4728874,4728991,0,N,Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+1
+4
+Celastrina_argiolus,LR994586.1,4714604,4714656,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Celastrina_argiolus,LR994586.1,4731858,4732019,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+Getting Gene
+min = set310_frame0, 0.118
+5 top scores:
+[['set310_frame0', 0.118], ['set270_frame2', 1.695], ['set27_frame1', 1.737], ['set246_frame2', 1.74], ['set378_frame2', 1.772]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Celastrina_argiolus/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_310_frame0.fa.txt
+5 44
+Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRPGE-VHYAPPSEDEAEYPQGAYLKKGKVSR
+5 44
+set310_frame0
+YNSNDGFGRPGEAVHYAPPSEDEAEYPQGAYLKKGKVSR
+Original query = YNSNDGFGRPGEVHYAPPSEDEAEYPQGAYLKKGKVSR
+New query = YNSNDGFGRPGEAVHYAPPSEDEAEYPQGAYLKKGKVSR
+Scaffold = LR994586.1, start = 4714604, end = 4714656
+Celastrina_argiolus,LR994586.1,4729616,4729799,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Celastrina_argiolus,LR994586.1,4714604,4714656,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Celastrina_argiolus,LR994586.1,4732344,4732535,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+Getting Gene
+min = set326_frame0, 0.0
+5 top scores:
+[['set326_frame0', 0.0], ['set190_frame2', 1.764], ['set241_frame1', 1.793], ['set145_frame1', 1.809], ['set231_frame1', 1.811]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Celastrina_argiolus/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_326_frame0.fa.txt
+6 67
+Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHIKFLQDRVN
+6 67
+set326_frame0
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHIKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHIKFLQDRVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHIKFLQDRVN
+Scaffold = LR994586.1, start = 4714604, end = 4714656
+Celastrina_argiolus,LR994586.1,4731858,4732019,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+2
+6
+Celastrina_argiolus,LR994586.1,4728874,4728991,0,N,Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+Celastrina_argiolus,LR994586.1,4733007,4733176,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,1,56,56
+
+Getting Gene
+min = set62_frame1, 0.172
+5 top scores:
+[['set62_frame1', 0.172], ['set81_frame1', 1.807], ['set69_frame2', 1.831], ['set1_frame1', 1.82], ['set17_frame1', 1.824]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Celastrina_argiolus/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_62_frame1.fa.txt
+19 72
+Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4
+AEGQAPEPYRVGYQEAVGEAVRFLVEVQGFGPADGLCVQMAAHLQRHCEIVTK
+19 72
+set62_frame1
+AEGQATEPFRVGYQEAVGEAVRFLVEVQGFGPADGMCVEMAAHLQRRCEIVTK
+Original query = AEGQAPEPYRVGYQEAVGEAVRFLVEVQGFGPADGLCVQMAAHLQRHCEIVTK
+New query = AEGQATEPFRVGYQEAVGEAVRFLVEVQGFGPADGMCVEMAAHLQRRCEIVTK
+Scaffold = LR994586.1, start = 4714604, end = 4714656
+Celastrina_argiolus,LR994586.1,4732344,4732535,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+3
+7
+Celastrina_argiolus,LR994586.1,4729616,4729799,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Celastrina_argiolus,LR994586.1,4734036,4734164,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7,1,43,43
+
+Getting Gene
+min = set54_frame0, 0.377
+5 top scores:
+[['set101_frame2', 1.817], ['set93_frame2', 1.848], ['set46_frame0', 1.883], ['set54_frame0', 0.377], ['set65_frame0', 1.825]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Celastrina_argiolus/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_54_frame0.fa.txt
+4 67
+Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5
+NGSVPREKIRSHIGGSSSETASSSSSSHGYVMKGVIQRPEPPPFSEPYEPEHPADMYQMECDR
+4 67
+set54_frame0
+AKGTPREMIRSHIGGSSSETASSSSSSQGYVMKGVIQRPEPPPFPDIYEPERPAEMYHMECDR
+Original query = NGSVPREKIRSHIGGSSSETASSSSSSHGYVMKGVIQRPEPPPFSEPYEPEHPADMYQMECDR
+New query = AKGTPREMIRSHIGGSSSETASSSSSSQGYVMKGVIQRPEPPPFPDIYEPERPAEMYHMECDR
+Scaffold = LR994586.1, start = 4714604, end = 4714656
+Celastrina_argiolus,LR994586.1,4733007,4733176,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,1,56,56
+
+4
+8
+Celastrina_argiolus,LR994586.1,4731858,4732019,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+Celastrina_argiolus,LR994586.1,4735081,4735174,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set20_frame2, 0.091
+5 top scores:
+[['set20_frame2', 0.091], ['set55_frame1', 1.832], ['set9_frame2', 1.856], ['set49_frame2', 1.861], ['set6_frame1', 1.813]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Celastrina_argiolus/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_20_frame2.fa.txt
+31 87
+Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6
+PVPLLPVDLPADEPLPLDRHKRDLRKVRKPDHDDYLHSYKFKNSIERRFSRSQDSE
+31 87
+set20_frame2
+PVQMLPVDLPTDEPLPLDRHKRDLRKVRKPDHDDYLHSYKFKNSIERRFSRSQDSE
+Original query = PVPLLPVDLPADEPLPLDRHKRDLRKVRKPDHDDYLHSYKFKNSIERRFSRSQDSE
+New query = PVQMLPVDLPTDEPLPLDRHKRDLRKVRKPDHDDYLHSYKFKNSIERRFSRSQDSE
+Scaffold = LR994586.1, start = 4714604, end = 4714656
+Celastrina_argiolus,LR994586.1,4734036,4734164,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7,1,43,43
+
+5
+8
+Celastrina_argiolus,LR994586.1,4732344,4732535,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+Celastrina_argiolus,LR994586.1,4735081,4735174,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set40_frame0, 0.098
+5 top scores:
+[['set30_frame1', 1.718], ['set1_frame2', 1.723], ['set9_frame0', 1.686], ['set35_frame2', 1.776], ['set40_frame0', 0.098]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Celastrina_argiolus/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_40_frame0.fa.txt
+6 49
+Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7
+AAENGTRGPRAFTKRRRANKPVPASTSASTSGSTEDARDTSPQ
+6 49
+set40_frame0
+AAENGSRGARAFTKRRRANKPVPASTSASTSGSTEDARDTSPQ
+Original query = AAENGTRGPRAFTKRRRANKPVPASTSASTSGSTEDARDTSPQ
+New query = AAENGSRGARAFTKRRRANKPVPASTSASTSGSTEDARDTSPQ
+Scaffold = LR994586.1, start = 4714604, end = 4714656
+Celastrina_argiolus,LR994586.1,4735081,4735174,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+6
+8
+Celastrina_argiolus,LR994586.1,4733007,4733176,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,1,56,56
+
+Celastrina_argiolus,LR994586.1,4735081,4735174,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set37_frame1, 0.16
+5 top scores:
+[['set37_frame1', 0.16], ['set32_frame2', 1.705], ['set1_frame2', 1.748], ['set9_frame2', 1.777], ['set32_frame0', 1.729]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Celastrina_argiolus/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_37_frame1.fa.txt
+15 45
+set37_frame1
+DTSSESPHHHQYEKPLASAQQLVPVFALNS
+Original query = DTSSESPHHHQYEKPLPTAQQLVPVFALNAI
+New query = DTSSESPHHHQYEKPLASAQQLVPVFALNS
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = LR994586.1, start = 4714604, end = 4714656
+Celastrina_argiolus,LR994586.1,4728874,4728991,0,N,Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+1
+4
+Celastrina_argiolus,LR994586.1,4714604,4714656,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Celastrina_argiolus,LR994586.1,4731858,4732019,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+Getting Gene
+min = set310_frame0, 0.989
+5 top scores:
+[['set310_frame0', 0.989], ['set326_frame0', 1.7], ['set93_frame2', 1.708], ['set151_frame2', 1.73], ['set258_frame2', 1.75]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Celastrina_argiolus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_310_frame0.fa.txt
+7 34
+set310_frame0
+SNDGFGRPGEAVHYAPPSEDEAEYPQG
+Original query = YSNEEFAREPLSFAPPSEDEAEYPPGYKKGKVSRASHTEYAR
+New query = SNDGFGRPGEAVHYAPPSEDEAEYPQG
+Scaffold = LR994586.1, start = 4714604, end = 4714656
+Celastrina_argiolus,LR994586.1,4729616,4729799,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Celastrina_argiolus,LR994586.1,4714604,4714656,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Celastrina_argiolus,LR994586.1,4732344,4732535,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+Getting Gene
+min = set326_frame0, 0.079
+5 top scores:
+[['set326_frame0', 0.079], ['set190_frame2', 1.765], ['set241_frame1', 1.793], ['set145_frame1', 1.811], ['set231_frame1', 1.811]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Celastrina_argiolus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_326_frame0.fa.txt
+6 67
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+6 67
+set326_frame0
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHIKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHIKFLQDRVN
+Scaffold = LR994586.1, start = 4714604, end = 4714656
+Celastrina_argiolus,LR994586.1,4731858,4732019,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+2
+6
+Celastrina_argiolus,LR994586.1,4728874,4728991,0,N,Aricia_agestis_XM_042120213.1_Frame_1_rightoh_0_query_Exon_2,1,38,38
+
+Celastrina_argiolus,LR994586.1,4733007,4733176,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,1,56,56
+
+Getting Gene
+min = set62_frame1, 1.27
+5 top scores:
+[['set62_frame1', 1.27], ['set81_frame1', 1.771], ['set31_frame2', 1.785], ['set69_frame2', 1.795], ['set70_frame2', 1.815]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Celastrina_argiolus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_62_frame1.fa.txt
+24 72
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4
+GSEFLAGYQRAGAEAVRF-VELQ--GSRDGLADQLAAHLHSHADMMAK
+24 72
+set62_frame1
+TEPFRVGYQEAVGEAVRFLVEVQGFGPADGMCVEMAAHLQRRCEIVTK
+Original query = LERGSEFLAGYQRAGAEAVRFVELQGSRDGLADQLAAHLHSHADMMAK
+New query = TEPFRVGYQEAVGEAVRFLVEVQGFGPADGMCVEMAAHLQRRCEIVTK
+Scaffold = LR994586.1, start = 4714604, end = 4714656
+Celastrina_argiolus,LR994586.1,4732344,4732535,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+3
+7
+Celastrina_argiolus,LR994586.1,4729616,4729799,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Celastrina_argiolus,LR994586.1,4734036,4734164,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7,1,43,43
+
+Getting Gene
+min = set54_frame0, 1.069
+5 top scores:
+[['set110_frame1', 1.733], ['set101_frame2', 1.763], ['set93_frame2', 1.832], ['set54_frame0', 1.069], ['set65_frame0', 1.807]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Celastrina_argiolus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_54_frame0.fa.txt
+0 68
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5
+AVHEKRVYP---------NSSSETTSSSSSSQGFAVK-VIQRPEPPPAFPEPYEPDR--QEHFADCER
+0 68
+set54_frame0
+LKFAAKGTPREMIRSHIGGSSSETASSSSSSQGYVMKGVIQRPEPPP-FPDIYEPERPAEMYHMECDR
+Original query = AVHEKRVYPNSSSETTSSSSSSQGFAVKVIQRPEPPPAFPEPYEPDRQEHFADCER
+New query = LKFAAKGTPREMIRSHIGGSSSETASSSSSSQGYVMKGVIQRPEPPP-FPDIYEPERPAEMYHMECDR
+Scaffold = LR994586.1, start = 4714604, end = 4714656
+Celastrina_argiolus,LR994586.1,4733007,4733176,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,1,56,56
+
+4
+8
+Celastrina_argiolus,LR994586.1,4731858,4732019,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_4,1,53,53
+
+Celastrina_argiolus,LR994586.1,4735081,4735174,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set20_frame2, 0.786
+5 top scores:
+[['set20_frame2', 0.786], ['set49_frame2', 1.831], ['set54_frame0', 1.895], ['set6_frame1', 1.833], ['set8_frame1', 1.857]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Celastrina_argiolus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_20_frame2.fa.txt
+31 90
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6
+PAVMEPLE---GEPLPLDGRVKKEVTLRKIRKPEHEDYLHSYKFKNSIERRFSRSQDSE
+31 90
+set20_frame2
+PVQMLPVDLPTDEPLPLD---RHKRDLRKVRKPDHDDYLHSYKFKNSIERRFSRSQDSE
+Original query = SVHQPAVMEPLEGEPLPLDGRVKKEVTLRKIRKPEHEDYLHSYKFKNSIERRFSRSQDSE
+New query = PVQMLPVDLPTDEPLPLD---RHKRDLRKVRKPDHDDYLHSYKFKNSIERRFSRSQDSE
+Scaffold = LR994586.1, start = 4714604, end = 4714656
+Celastrina_argiolus,LR994586.1,4734036,4734164,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_0_query_Exon_7,1,43,43
+
+5
+8
+Celastrina_argiolus,LR994586.1,4732344,4732535,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_1_query_Exon_5,3,63,63
+
+Celastrina_argiolus,LR994586.1,4735081,4735174,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set40_frame0, 0.974
+5 top scores:
+[['set4_frame0', 1.683], ['set1_frame2', 1.751], ['set9_frame0', 1.65], ['set45_frame0', 1.78], ['set40_frame0', 0.974]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Celastrina_argiolus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_40_frame0.fa.txt
+6 50
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7
+DAWSAGPTAKAYNHKRRRPTKPAPPSTSTSASGSTEEARDTSPQ
+6 50
+set40_frame0
+AAENGSRGARAFT-KRRRANKPVPASTSASTSGSTEDARDTSPQ
+Original query = GDAWSAGPTAKAYNHKRRRPTKPAPPSTSTSASGSTEEARDTSPQ
+New query = AAENGSRGARAFT-KRRRANKPVPASTSASTSGSTEDARDTSPQ
+Scaffold = LR994586.1, start = 4714604, end = 4714656
+Celastrina_argiolus,LR994586.1,4735081,4735174,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+6
+8
+Celastrina_argiolus,LR994586.1,4733007,4733176,0,N,Aricia_agestis_XM_042120213.1_Frame_2_rightoh_0_query_Exon_6,1,56,56
+
+Celastrina_argiolus,LR994586.1,4735081,4735174,0,N,Aricia_agestis_XM_042120213.1_Frame_0_rightoh_1_query_Exon_8,1,31,31
+
+Getting Gene
+min = set37_frame1, 0.856
+5 top scores:
+[['set37_frame1', 0.856], ['set1_frame2', 1.708], ['set32_frame2', 1.727], ['set13_frame2', 1.753], ['set32_frame0', 1.773]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/8.Lycaenidae/1.Blast_result/Celastrina_argiolus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_37_frame1.fa.txt
+15 34
+set37_frame1
+DTSSESPHHHQYEKPLASA
+Original query = DTCSDSPHHHSFDKPPPPAQYVPVFALNAL
+New query = DTSSESPHHHQYEKPLASA

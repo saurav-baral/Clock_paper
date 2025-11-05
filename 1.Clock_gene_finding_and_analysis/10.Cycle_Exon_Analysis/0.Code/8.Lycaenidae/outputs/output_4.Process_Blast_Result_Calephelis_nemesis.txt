@@ -1,0 +1,1737 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12']
+Calephelis_nemesis
+Processing Exon_2
+Calephelis_nemesis_coordinates_Aricia_agestis.csv
+1 query coordinate
+41
+[[1, 2]]
+reached here
+Before splice: 8182,8262
+after splice: 8182,8262
+sequence:
+CAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTCCTG
+sequence:
+QLGPDQLSYQKGSSTPWSCTPRRTAS
+left = TC, right =AT, stop_counter = 0
+sequence:
+TCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTCCTGATG
+sequence:
+SQLGPDQLSYQKGSSTPWSCTPRRTAS*
+left = CA, right =CT, stop_counter = 1
+sequence:
+CAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTCCTG
+sequence:
+QLGPDQLSYQKGSSTPWSCTPRRTAS
+left = TC, right =AT, stop_counter = 1
+sequence:
+TCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTCCTGATG
+sequence:
+SQLGPDQLSYQKGSSTPWSCTPRRTAS*
+left = CT, right =TT, stop_counter = 2
+sequence:
+CTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTC
+sequence:
+LGPDQLSYQKGSSTPWSCTPRRTA
+left = CA, right =CT, stop_counter = 2
+sequence:
+CAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTCCTG
+sequence:
+QLGPDQLSYQKGSSTPWSCTPRRTAS
+left = TC, right =AT, stop_counter = 2
+sequence:
+TCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTCCTGATG
+sequence:
+SQLGPDQLSYQKGSSTPWSCTPRRTAS*
+left = GG, right =TG, stop_counter = 3
+sequence:
+GGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGC
+sequence:
+GPDQLSYQKGSSTPWSCTPRRT
+left = CT, right =TT, stop_counter = 3
+sequence:
+CTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTC
+sequence:
+LGPDQLSYQKGSSTPWSCTPRRTA
+left = CA, right =CT, stop_counter = 3
+sequence:
+CAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTCCTG
+sequence:
+QLGPDQLSYQKGSSTPWSCTPRRTAS
+left = TC, right =AT, stop_counter = 3
+sequence:
+TCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTCCTGATG
+sequence:
+SQLGPDQLSYQKGSSTPWSCTPRRTAS*
+left = CC, right =GA, stop_counter = 4
+sequence:
+CCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGAC
+sequence:
+PDQLSYQKGSSTPWSCTPRR
+left = GG, right =TG, stop_counter = 4
+sequence:
+GGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGC
+sequence:
+GPDQLSYQKGSSTPWSCTPRRT
+left = CT, right =TT, stop_counter = 4
+sequence:
+CTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTC
+sequence:
+LGPDQLSYQKGSSTPWSCTPRRTA
+left = CA, right =CT, stop_counter = 4
+sequence:
+CAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTCCTG
+sequence:
+QLGPDQLSYQKGSSTPWSCTPRRTAS
+left = TC, right =AT, stop_counter = 4
+sequence:
+TCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTCCTGATG
+sequence:
+SQLGPDQLSYQKGSSTPWSCTPRRTAS*
+left = GA, right =CA, stop_counter = 5
+sequence:
+GACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAG
+sequence:
+DQLSYQKGSSTPWSCTPR
+left = CC, right =GA, stop_counter = 5
+sequence:
+CCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGAC
+sequence:
+PDQLSYQKGSSTPWSCTPRR
+left = GG, right =TG, stop_counter = 5
+sequence:
+GGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGC
+sequence:
+GPDQLSYQKGSSTPWSCTPRRT
+left = CT, right =TT, stop_counter = 5
+sequence:
+CTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTC
+sequence:
+LGPDQLSYQKGSSTPWSCTPRRTA
+left = CA, right =CT, stop_counter = 5
+sequence:
+CAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTCCTG
+sequence:
+QLGPDQLSYQKGSSTPWSCTPRRTAS
+left = TC, right =AT, stop_counter = 5
+sequence:
+TCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTCCTGATG
+sequence:
+SQLGPDQLSYQKGSSTPWSCTPRRTAS*
+left = CA, right =GC, stop_counter = 6
+sequence:
+CAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCG
+sequence:
+QLSYQKGSSTPWSCTP
+left = GA, right =CA, stop_counter = 6
+sequence:
+GACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAG
+sequence:
+DQLSYQKGSSTPWSCTPR
+left = CC, right =GA, stop_counter = 6
+sequence:
+CCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGAC
+sequence:
+PDQLSYQKGSSTPWSCTPRR
+left = GG, right =TG, stop_counter = 6
+sequence:
+GGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGC
+sequence:
+GPDQLSYQKGSSTPWSCTPRRT
+left = CT, right =TT, stop_counter = 6
+sequence:
+CTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTC
+sequence:
+LGPDQLSYQKGSSTPWSCTPRRTA
+left = CA, right =CT, stop_counter = 6
+sequence:
+CAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTCCTG
+sequence:
+QLGPDQLSYQKGSSTPWSCTPRRTAS
+left = TC, right =AT, stop_counter = 6
+sequence:
+TCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTCCTGATG
+sequence:
+SQLGPDQLSYQKGSSTPWSCTPRRTAS*
+left = CT, right =GC, stop_counter = 7
+sequence:
+CTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCC
+sequence:
+LSYQKGSSTPWSCT
+left = CA, right =GC, stop_counter = 7
+sequence:
+CAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCG
+sequence:
+QLSYQKGSSTPWSCTP
+left = GA, right =CA, stop_counter = 7
+sequence:
+GACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAG
+sequence:
+DQLSYQKGSSTPWSCTPR
+left = CC, right =GA, stop_counter = 7
+sequence:
+CCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGAC
+sequence:
+PDQLSYQKGSSTPWSCTPRR
+left = GG, right =TG, stop_counter = 7
+sequence:
+GGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGC
+sequence:
+GPDQLSYQKGSSTPWSCTPRRT
+left = CT, right =TT, stop_counter = 7
+sequence:
+CTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTC
+sequence:
+LGPDQLSYQKGSSTPWSCTPRRTA
+left = CA, right =CT, stop_counter = 7
+sequence:
+CAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTCCTG
+sequence:
+QLGPDQLSYQKGSSTPWSCTPRRTAS
+left = TC, right =AT, stop_counter = 7
+sequence:
+TCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTCCTGATG
+sequence:
+SQLGPDQLSYQKGSSTPWSCTPRRTAS*
+left = TC, right =CA, stop_counter = 8
+sequence:
+TCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCAC
+sequence:
+SYQKGSSTPWSC
+left = CT, right =GC, stop_counter = 8
+sequence:
+CTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCC
+sequence:
+LSYQKGSSTPWSCT
+left = CA, right =GC, stop_counter = 8
+sequence:
+CAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCG
+sequence:
+QLSYQKGSSTPWSCTP
+left = GA, right =CA, stop_counter = 8
+sequence:
+GACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAG
+sequence:
+DQLSYQKGSSTPWSCTPR
+left = CC, right =GA, stop_counter = 8
+sequence:
+CCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGAC
+sequence:
+PDQLSYQKGSSTPWSCTPRR
+left = GG, right =TG, stop_counter = 8
+sequence:
+GGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGC
+sequence:
+GPDQLSYQKGSSTPWSCTPRRT
+left = CT, right =TT, stop_counter = 8
+sequence:
+CTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTC
+sequence:
+LGPDQLSYQKGSSTPWSCTPRRTA
+left = CA, right =CT, stop_counter = 8
+sequence:
+CAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTCCTG
+sequence:
+QLGPDQLSYQKGSSTPWSCTPRRTAS
+left = TC, right =AT, stop_counter = 8
+sequence:
+TCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTCCTGATG
+sequence:
+SQLGPDQLSYQKGSSTPWSCTPRRTAS*
+left = TA, right =TT, stop_counter = 9
+sequence:
+TATCAGAAAGGGAGCTCAACTCCCTGGTCTTG
+sequence:
+YQKGSSTPWS
+left = TC, right =CA, stop_counter = 9
+sequence:
+TCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCAC
+sequence:
+SYQKGSSTPWSC
+left = CT, right =GC, stop_counter = 9
+sequence:
+CTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCC
+sequence:
+LSYQKGSSTPWSCT
+left = CA, right =GC, stop_counter = 9
+sequence:
+CAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCG
+sequence:
+QLSYQKGSSTPWSCTP
+left = GA, right =CA, stop_counter = 9
+sequence:
+GACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAG
+sequence:
+DQLSYQKGSSTPWSCTPR
+left = CC, right =GA, stop_counter = 9
+sequence:
+CCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGAC
+sequence:
+PDQLSYQKGSSTPWSCTPRR
+left = GG, right =TG, stop_counter = 9
+sequence:
+GGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGC
+sequence:
+GPDQLSYQKGSSTPWSCTPRRT
+left = CT, right =TT, stop_counter = 9
+sequence:
+CTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTC
+sequence:
+LGPDQLSYQKGSSTPWSCTPRRTA
+left = CA, right =CT, stop_counter = 9
+sequence:
+CAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTCCTG
+sequence:
+QLGPDQLSYQKGSSTPWSCTPRRTAS
+left = TC, right =AT, stop_counter = 9
+sequence:
+TCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTCCTGATG
+sequence:
+SQLGPDQLSYQKGSSTPWSCTPRRTAS*
+left = CA, right =GT, stop_counter = 10
+sequence:
+CAGAAAGGGAGCTCAACTCCCTG
+sequence:
+QKGSSTP
+left = TA, right =GT, stop_counter = 10
+sequence:
+TATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+YQKGSSTP
+left = TC, right =GT, stop_counter = 10
+sequence:
+TCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+SYQKGSSTP
+left = CT, right =GT, stop_counter = 10
+sequence:
+CTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+LSYQKGSSTP
+left = CA, right =GT, stop_counter = 10
+sequence:
+CAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+QLSYQKGSSTP
+left = GA, right =GT, stop_counter = 10
+sequence:
+GACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+DQLSYQKGSSTP
+left = CC, right =GT, stop_counter = 10
+sequence:
+CCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+PDQLSYQKGSSTP
+left = GG, right =GT, stop_counter = 10
+sequence:
+GGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+GPDQLSYQKGSSTP
+left = CT, right =GT, stop_counter = 10
+sequence:
+CTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+LGPDQLSYQKGSSTP
+left = CA, right =GT, stop_counter = 10
+sequence:
+CAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+QLGPDQLSYQKGSSTP
+left = TC, right =GT, stop_counter = 10
+sequence:
+TCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+SQLGPDQLSYQKGSSTP
+left = CA, right =GT, stop_counter = 10
+sequence:
+CATTCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+HSQLGPDQLSYQKGSSTP
+left = GA, right =GT, stop_counter = 10
+sequence:
+GACCATTCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+DHSQLGPDQLSYQKGSSTP
+left = CT, right =GT, stop_counter = 10
+sequence:
+CTGGACCATTCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+LDHSQLGPDQLSYQKGSSTP
+left = CC, right =GT, stop_counter = 10
+sequence:
+CCTCTGGACCATTCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+PLDHSQLGPDQLSYQKGSSTP
+left = TC, right =GT, stop_counter = 10
+sequence:
+TCTCCTCTGGACCATTCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+SPLDHSQLGPDQLSYQKGSSTP
+left = CT, right =GT, stop_counter = 10
+sequence:
+CTCTCTCCTCTGGACCATTCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+LSPLDHSQLGPDQLSYQKGSSTP
+left = GA, right =GT, stop_counter = 10
+sequence:
+GAGCTCTCTCCTCTGGACCATTCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+ELSPLDHSQLGPDQLSYQKGSSTP
+left = GG, right =GT, stop_counter = 10
+sequence:
+GGGGAGCTCTCTCCTCTGGACCATTCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+GELSPLDHSQLGPDQLSYQKGSSTP
+left = TG, right =GT, stop_counter = 10
+sequence:
+TGCGGGGAGCTCTCTCCTCTGGACCATTCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+CGELSPLDHSQLGPDQLSYQKGSSTP
+left = CA, right =GT, stop_counter = 10
+sequence:
+CACTGCGGGGAGCTCTCTCCTCTGGACCATTCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+HCGELSPLDHSQLGPDQLSYQKGSSTP
+left = GC, right =GT, stop_counter = 10
+sequence:
+GCTCACTGCGGGGAGCTCTCTCCTCTGGACCATTCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+AHCGELSPLDHSQLGPDQLSYQKGSSTP
+left = TA, right =GT, stop_counter = 10
+sequence:
+TACGCTCACTGCGGGGAGCTCTCTCCTCTGGACCATTCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+YAHCGELSPLDHSQLGPDQLSYQKGSSTP
+left = AC, right =GT, stop_counter = 10
+sequence:
+ACTTACGCTCACTGCGGGGAGCTCTCTCCTCTGGACCATTCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+TYAHCGELSPLDHSQLGPDQLSYQKGSSTP
+left = AA, right =GT, stop_counter = 10
+sequence:
+AACACTTACGCTCACTGCGGGGAGCTCTCTCCTCTGGACCATTCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+NTYAHCGELSPLDHSQLGPDQLSYQKGSSTP
+left = TG, right =GT, stop_counter = 10
+sequence:
+TGCAACACTTACGCTCACTGCGGGGAGCTCTCTCCTCTGGACCATTCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+CNTYAHCGELSPLDHSQLGPDQLSYQKGSSTP
+left = CG, right =GT, stop_counter = 10
+sequence:
+CGGTGCAACACTTACGCTCACTGCGGGGAGCTCTCTCCTCTGGACCATTCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+RCNTYAHCGELSPLDHSQLGPDQLSYQKGSSTP
+left = TG, right =GT, stop_counter = 10
+sequence:
+TGGCGGTGCAACACTTACGCTCACTGCGGGGAGCTCTCTCCTCTGGACCATTCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+WRCNTYAHCGELSPLDHSQLGPDQLSYQKGSSTP
+left = GG, right =GT, stop_counter = 10
+sequence:
+GGATGGCGGTGCAACACTTACGCTCACTGCGGGGAGCTCTCTCCTCTGGACCATTCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+GWRCNTYAHCGELSPLDHSQLGPDQLSYQKGSSTP
+left = TG, right =GT, stop_counter = 10
+sequence:
+TGAGGATGGCGGTGCAACACTTACGCTCACTGCGGGGAGCTCTCTCCTCTGGACCATTCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTG
+sequence:
+*GWRCNTYAHCGELSPLDHSQLGPDQLSYQKGSSTP
+left = AA, right =GT, stop_counter = 11
+sequence:
+AAAGGGAGCTCAACTCCCTG
+sequence:
+KGSSTP
+left = CA, right =GT, stop_counter = 11
+KGSSTP
+[[1, 2]]
+start_coordinate : 0,stop_coordinate : 0
+Error in Blast
+Calephelis_nemesis
+Processing Exon_3
+Calephelis_nemesis_coordinates_Aricia_agestis.csv
+1 query coordinate
+22
+[[1, 2]]
+reached here
+Before splice: 7008,7073
+after splice: 7008,7073
+sequence:
+ACAAGCAGCACATACGATGACGATGGTACCGAAGATGGTTCAGTTCGCTCCATGCctgataaaaa
+sequence:
+TSSTYDDDGTEDGSVRSMPDK
+left = GG, right =gt, stop_counter = 0
+sequence:
+GGAACAAGCAGCACATACGATGACGATGGTACCGAAGATGGTTCAGTTCGCTCCATGCctgataaaaa
+sequence:
+GTSSTYDDDGTEDGSVRSMPDK
+left = AG, right =gt, stop_counter = 0
+GTSSTYDDDGTEDGSVRSMPDK
+[[1, 2]]
+start_coordinate : 245716,stop_coordinate : 245781
+7005 7073 Y N
+Calephelis_nemesis,NJDD01001239.1,245715,245783,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_3,1,22,22,Y,N
+
+Calephelis_nemesis
+Processing Exon_4
+Calephelis_nemesis_coordinates_Aricia_agestis.csv
+1 query coordinate
+112
+[[1, 0]]
+reached here
+Before splice: 8001,8337
+after splice: 8001,8337
+sequence:
+CAAAACCACAGTGAAATTGAAAAGCGTCGACGTGATAAGATGAACACGTATATATCAGAGCTGAGCTCTATGATCCCCATGTGCGGTGCCATGTCGCGTAAGTTGGATAAGTTGACGGTGTTGAGGATGGCGGTGCAACACTTACGCTCACTGCGGGGAGCTCTCTCCTCTGGACCATTCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTCCTGATGGTAGTTGGATGTGATCGGGGACGTCTGCTCTATGTCTCCGATTCTGTCACTAAGATGCTGACATATGAACAG
+sequence:
+QNHSEIEKRRRDKMNTYISELSSMIPMCGAMSRKLDKLTVLRMAVQHLRSLRGALSSGPFTARPRPAFLSERELNSLVLHAAQDCFLMVVGCDRGRLLYVSDSVTKMLTYEQ
+left = AG, right =GT, stop_counter = 0
+QNHSEIEKRRRDKMNTYISELSSMIPMCGAMSRKLDKLTVLRMAVQHLRSLRGALSSGPFTARPRPAFLSERELNSLVLHAAQDCFLMVVGCDRGRLLYVSDSVTKMLTYEQ
+[[1, 0]]
+start_coordinate : 246712,stop_coordinate : 247047
+8001 8337 Y N
+Calephelis_nemesis,NJDD01001239.1,246711,247047,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_0_query_Exon_4,1,112,112,Y,N
+
+Calephelis_nemesis
+Processing Exon_5
+Calephelis_nemesis_coordinates_Aricia_agestis.csv
+1 query coordinate
+39
+[[0, 1]]
+reached here
+Before splice: 9162,9279
+after splice: 9162,9279
+sequence:
+tCTGAACTACTCGGCCAAAGTTTGTTTGATATTCTGCATCCAAAAGACGTAGCAAAGGTTAAGGAGCAACTGTCCTCCTCGGATTTGAGTCCACGAGAAAGACTGATAGATGCCAAAA
+sequence:
+SELLGQSLFDILHPKDVAKVKEQLSSSDLSPRERLIDAK
+left = ag, right =GT, stop_counter = 0
+SELLGQSLFDILHPKDVAKVKEQLSSSDLSPRERLIDAK
+[[0, 1]]
+start_coordinate : 247872,stop_coordinate : 247988
+9162 9279 Y N
+Calephelis_nemesis,NJDD01001239.1,247872,247989,0,N,Aricia_agestis_XM_042130624.1_Frame_0_rightoh_1_query_Exon_5,1,39,39,Y,N
+
+Calephelis_nemesis
+Processing Exon_6
+Calephelis_nemesis_coordinates_Aricia_agestis.csv
+1 query coordinate
+75
+[[2, 1]]
+reached here
+Before splice: 11250,11474
+after splice: 11250,11474
+sequence:
+ATGTTACCAGTAAAGGCTGACATGGTAGCCGGTGCTTCGAGACTCTGTCCAGGGGCCCGAAGATCCTTCTTCTGCCGCATCAAGTGCAAGCCATCTTTTATTAATTCGGAAAACTCCAATTCAACAGTCCACTCCTCGTCTAGTGTTAAAGAAGAGTCTGAACCAACAGTAAAAATGCGCAAAAAACAACACCAGAAGAAATACTGTGTGGTGCAATATACag
+sequence:
+MLPVKADMVAGASRLCPGARRSFFCRIKCKPSFINSENSNSTVHSSSSVKEESEPTVKMRKKQHQKKYCVVQYT
+left = AG, right =gt, stop_counter = 0
+MLPVKADMVAGASRLCPGARRSFFCRIKCKPSFINSENSNSTVHSSSSVKEESEPTVKMRKKQHQKKYCVVQYT
+[[2, 1]]
+start_coordinate : 249962,stop_coordinate : 250183
+11250 11474 Y N
+Calephelis_nemesis,NJDD01001239.1,249960,250184,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_1_query_Exon_6,1,74,74,Y,N
+
+Calephelis_nemesis
+Processing Exon_7
+Calephelis_nemesis_coordinates_Aricia_agestis.csv
+1 query coordinate
+62
+[[2, 2]]
+reached here
+Before splice: 12244,12421
+after splice: 12244,12421
+sequence:
+TATCTCAAATCGTGGGCTCCAGTGGAGATATCGAGTGCCGGTCTCTCTGAAGAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCCACACCCGAAACCTTCAGTACACGTCCAGACATGC
+sequence:
+YLKSWAPVEISSAGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNLQYTSRH
+left = AG, right =TA, stop_counter = 0
+sequence:
+TATCTCAAATCGTGGGCTCCAGTGGAGATATCGAGTGCCGGTCTCTCTGAAGAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCCACACCCGAAACCTTCAGTACACGTCCAGACATGCTAC
+sequence:
+YLKSWAPVEISSAGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNLQYTSRHA
+left = AG, right =AG, stop_counter = 0
+sequence:
+TATCTCAAATCGTGGGCTCCAGTGGAGATATCGAGTGCCGGTCTCTCTGAAGAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCCACACCCGAAACCTTCAGTACACGTCCAGACATGCTACAGA
+sequence:
+YLKSWAPVEISSAGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNLQYTSRHAT
+left = AG, right =TG, stop_counter = 0
+sequence:
+TATCTCAAATCGTGGGCTCCAGTGGAGATATCGAGTGCCGGTCTCTCTGAAGAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCCACACCCGAAACCTTCAGTACACGTCCAGACATGCTACAGATGG
+sequence:
+YLKSWAPVEISSAGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNLQYTSRHATD
+left = AG, right =TA, stop_counter = 0
+sequence:
+TATCTCAAATCGTGGGCTCCAGTGGAGATATCGAGTGCCGGTCTCTCTGAAGAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCCACACCCGAAACCTTCAGTACACGTCCAGACATGCTACAGATGGTAA
+sequence:
+YLKSWAPVEISSAGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNLQYTSRHATDG
+left = AG, right =AT, stop_counter = 0
+sequence:
+TATCTCAAATCGTGGGCTCCAGTGGAGATATCGAGTGCCGGTCTCTCTGAAGAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCCACACCCGAAACCTTCAGTACACGTCCAGACATGCTACAGATGGTAAATT
+sequence:
+YLKSWAPVEISSAGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNLQYTSRHATDGK
+left = AG, right =CC, stop_counter = 0
+sequence:
+TATCTCAAATCGTGGGCTCCAGTGGAGATATCGAGTGCCGGTCTCTCTGAAGAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCCACACCCGAAACCTTCAGTACACGTCCAGACATGCTACAGATGGTAAATTCCT
+sequence:
+YLKSWAPVEISSAGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNLQYTSRHATDGKF
+left = AG, right =GT, stop_counter = 0
+YLKSWAPVEISSAGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNLQYTSRHATDGKF
+[[2, 2]]
+start_coordinate : 250956,stop_coordinate : 251147
+12244 12439 Y N
+Calephelis_nemesis,NJDD01001239.1,250954,251149,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_2_query_Exon_7,1,64,64,Y,N
+
+Calephelis_nemesis
+Processing Exon_8
+Calephelis_nemesis_coordinates_Aricia_agestis.csv
+1 query coordinate
+30
+[[1, 1]]
+reached here
+Before splice: 12296,12387
+after splice: 12296,12387
+sequence:
+GAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCC
+sequence:
+ENDACHMSCLVAVGRALNDLAPQQPSESHT
+left = GA, right =AC, stop_counter = 0
+sequence:
+GAAGAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCCACA
+sequence:
+EENDACHMSCLVAVGRALNDLAPQQPSESHTH
+left = TC, right =CC, stop_counter = 0
+sequence:
+TCTGAAGAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCCACACCC
+sequence:
+SEENDACHMSCLVAVGRALNDLAPQQPSESHTHT
+left = CT, right =GA, stop_counter = 0
+sequence:
+CTCTCTGAAGAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCCACACCCGAA
+sequence:
+LSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTR
+left = GG, right =AC, stop_counter = 0
+sequence:
+GGTCTCTCTGAAGAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCCACACCCGAAACC
+sequence:
+GLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRN
+left = GC, right =TT, stop_counter = 0
+sequence:
+GCCGGTCTCTCTGAAGAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCCACACCCGAAACCTTC
+sequence:
+AGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNL
+left = AG, right =AG, stop_counter = 0
+sequence:
+GCCGGTCTCTCTGAAGAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCCACACCCGAAACCTTCAGT
+sequence:
+AGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNLQ
+left = AG, right =AC, stop_counter = 0
+sequence:
+GCCGGTCTCTCTGAAGAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCCACACCCGAAACCTTCAGTACA
+sequence:
+AGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNLQY
+left = AG, right =CG, stop_counter = 0
+sequence:
+GCCGGTCTCTCTGAAGAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCCACACCCGAAACCTTCAGTACACGT
+sequence:
+AGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNLQYT
+left = AG, right =CC, stop_counter = 0
+sequence:
+GCCGGTCTCTCTGAAGAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCCACACCCGAAACCTTCAGTACACGTCCA
+sequence:
+AGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNLQYTS
+left = AG, right =GA, stop_counter = 0
+sequence:
+GCCGGTCTCTCTGAAGAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCCACACCCGAAACCTTCAGTACACGTCCAGAC
+sequence:
+AGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNLQYTSR
+left = AG, right =AT, stop_counter = 0
+sequence:
+GCCGGTCTCTCTGAAGAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCCACACCCGAAACCTTCAGTACACGTCCAGACATG
+sequence:
+AGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNLQYTSRH
+left = AG, right =CT, stop_counter = 0
+sequence:
+GCCGGTCTCTCTGAAGAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCCACACCCGAAACCTTCAGTACACGTCCAGACATGCTA
+sequence:
+AGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNLQYTSRHA
+left = AG, right =CA, stop_counter = 0
+sequence:
+GCCGGTCTCTCTGAAGAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCCACACCCGAAACCTTCAGTACACGTCCAGACATGCTACAG
+sequence:
+AGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNLQYTSRHAT
+left = AG, right =AT, stop_counter = 0
+sequence:
+GCCGGTCTCTCTGAAGAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCCACACCCGAAACCTTCAGTACACGTCCAGACATGCTACAGATG
+sequence:
+AGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNLQYTSRHATD
+left = AG, right =GT, stop_counter = 0
+AGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNLQYTSRHATD
+[[1, 1]]
+start_coordinate : 250992,stop_coordinate : 251138
+12281 12429 Y N
+Calephelis_nemesis,NJDD01001239.1,250991,251139,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_1_query_Exon_8,1,49,49,Y,N
+
+Calephelis_nemesis
+Processing Exon_9
+Calephelis_nemesis_coordinates_Aricia_agestis.csv
+1 query coordinate
+69
+[[2, 2]]
+reached here
+Before splice: 12244,12454
+after splice: 12244,12454
+sequence:
+TATCTCAAATCGTGGGCTCCAGTGGAGATATCGAGTGCCGGTCTCTCTGAAGAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCCACACCCGAAACCTTCAGTACACGTCCAGACATGCTACAGATGGTAAATTCCTGTTCGTCGACCAGAG
+sequence:
+YLKSWAPVEISSAGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNLQYTSRHATDGKFLFVDQ
+left = AG, right =GT, stop_counter = 0
+YLKSWAPVEISSAGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNLQYTSRHATDGKFLFVDQ
+[[2, 2]]
+start_coordinate : 250956,stop_coordinate : 251162
+12244 12454 Y N
+Calephelis_nemesis,NJDD01001239.1,250954,251164,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_2_query_Exon_9,1,69,69,Y,N
+
+Calephelis_nemesis
+Processing Exon_10
+Calephelis_nemesis_coordinates_Aricia_agestis.csv
+1 query coordinate
+67
+[[1, 2]]
+reached here
+Before splice: 13898,14101
+after splice: 13898,14101
+sequence:
+GTAACTTTAGCTCTAGGTTTCTTGCCGCAAGAACTGCTTGGTACAAGCTTGTATGAATATGTGAACGGGCCGGAACTAGGGGCGATAGTGAGAGCACATAAGGCTGCTTTACTACGAAAAGATGCTTTAAGAACACCACAGTATTGTTTTCGGCGTAAAGACGGTACATATGCCCGAATACAGACACATTTTAAACCGTTcag
+sequence:
+VTLALGFLPQELLGTSLYEYVNGPELGAIVRAHKAALLRKDALRTPQYCFRRKDGTYARIQTHFKPF
+left = AG, right =gt, stop_counter = 0
+VTLALGFLPQELLGTSLYEYVNGPELGAIVRAHKAALLRKDALRTPQYCFRRKDGTYARIQTHFKPF
+[[1, 2]]
+start_coordinate : 252609,stop_coordinate : 252809
+13898 14101 Y N
+Calephelis_nemesis,NJDD01001239.1,252608,252811,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_2_query_Exon_10,1,67,67,Y,N
+
+Calephelis_nemesis
+Processing Exon_11
+Calephelis_nemesis_coordinates_Aricia_agestis.csv
+1 query coordinate
+37
+[[1, 1]]
+reached here
+Before splice: 14737,14849
+after splice: 14737,14849
+sequence:
+AATCCATGGACCAAAGATGTGGAGTGCCTTGTAGCTAATAACACGGTTGTGACTGATATGCATAAGTCTGAAAATTCTCCTGATGACTGTCAGTATGATGTTTACAAACAAG
+sequence:
+NPWTKDVECLVANNTVVTDMHKSENSPDDCQYDVYKQ
+left = ag, right =GT, stop_counter = 0
+NPWTKDVECLVANNTVVTDMHKSENSPDDCQYDVYKQ
+[[1, 1]]
+start_coordinate : 253448,stop_coordinate : 253558
+14737 14849 Y N
+Calephelis_nemesis,NJDD01001239.1,253447,253559,0,N,Aricia_agestis_XM_042130624.1_Frame_1_rightoh_1_query_Exon_11,1,37,37,Y,N
+
+Calephelis_nemesis
+Processing Exon_12
+Calephelis_nemesis_coordinates_Aricia_agestis.csv
+1 query coordinate
+7
+[[2, 0]]
+reached here
+Before splice: 15529,15551
+after splice: 15529,15551
+sequence:
+TCTACAATAGGTGGATCTTCC
+sequence:
+STIGGSS
+left = TT, right =GG, stop_counter = 0
+sequence:
+TAATCTACAATAGGTGGATCTTCCGGA
+sequence:
+*STIGGSSG
+left = AT, right =TC, stop_counter = 1
+sequence:
+TCTACAATAGGTGGATCTTCC
+sequence:
+STIGGSS
+left = TT, right =GG, stop_counter = 1
+sequence:
+TAATCTACAATAGGTGGATCTTCCGGA
+sequence:
+*STIGGSSG
+left = TA, right =TC, stop_counter = 2
+sequence:
+ACAATAGGTGGATCT
+sequence:
+TIGGS
+left = AT, right =TC, stop_counter = 2
+sequence:
+TCTACAATAGGTGGATCTTCC
+sequence:
+STIGGSS
+left = TT, right =GG, stop_counter = 2
+sequence:
+TAATCTACAATAGGTGGATCTTCCGGA
+sequence:
+*STIGGSSG
+left = AA, right =GG, stop_counter = 3
+sequence:
+ATAGGTGGA
+sequence:
+IGG
+left = TA, right =TC, stop_counter = 3
+sequence:
+ACAATAGGTGGATCT
+sequence:
+TIGGS
+left = AT, right =TC, stop_counter = 3
+sequence:
+TCTACAATAGGTGGATCTTCC
+sequence:
+STIGGSS
+left = TT, right =GG, stop_counter = 3
+sequence:
+TAATCTACAATAGGTGGATCTTCCGGA
+sequence:
+*STIGGSSG
+left = AG, right =GG, stop_counter = 4
+sequence:
+
+sequence:
+
+left = AG, right =GG, stop_counter = 4
+sequence:
+GGA
+sequence:
+G
+left = AG, right =TC, stop_counter = 4
+sequence:
+GGATCT
+sequence:
+GS
+left = AG, right =TC, stop_counter = 4
+sequence:
+GGATCTTCC
+sequence:
+GSS
+left = AG, right =GG, stop_counter = 4
+sequence:
+GGATCTTCCGGA
+sequence:
+GSSG
+left = AG, right =AT, stop_counter = 4
+sequence:
+GGATCTTCCGGAATG
+sequence:
+GSSGM
+left = AG, right =CC, stop_counter = 4
+sequence:
+GGATCTTCCGGAATGCCG
+sequence:
+GSSGMP
+left = AG, right =GA, stop_counter = 4
+sequence:
+GGATCTTCCGGAATGCCGGAG
+sequence:
+GSSGMPE
+left = AG, right =GA, stop_counter = 4
+sequence:
+GGATCTTCCGGAATGCCGGAGGAA
+sequence:
+GSSGMPEE
+left = AG, right =AT, stop_counter = 4
+sequence:
+GGATCTTCCGGAATGCCGGAGGAAATT
+sequence:
+GSSGMPEEI
+left = AG, right =GA, stop_counter = 4
+sequence:
+GGATCTTCCGGAATGCCGGAGGAAATTGAC
+sequence:
+GSSGMPEEID
+left = AG, right =AG, stop_counter = 4
+sequence:
+GGATCTTCCGGAATGCCGGAGGAAATTGACAGC
+sequence:
+GSSGMPEEIDS
+left = AG, right =GC, stop_counter = 4
+sequence:
+GGATCTTCCGGAATGCCGGAGGAAATTGACAGCGCT
+sequence:
+GSSGMPEEIDSA
+left = AG, right =TT, stop_counter = 4
+sequence:
+GGATCTTCCGGAATGCCGGAGGAAATTGACAGCGCTTTG
+sequence:
+GSSGMPEEIDSAL
+left = AG, right =TC, stop_counter = 4
+sequence:
+GGATCTTCCGGAATGCCGGAGGAAATTGACAGCGCTTTGTCA
+sequence:
+GSSGMPEEIDSALS
+left = AG, right =GA, stop_counter = 4
+sequence:
+GGATCTTCCGGAATGCCGGAGGAAATTGACAGCGCTTTGTCAGAC
+sequence:
+GSSGMPEEIDSALSD
+left = AG, right =GT, stop_counter = 4
+GSSGMPEEIDSALSD
+[[2, 0]]
+start_coordinate : 254253,stop_coordinate : 254297
+15541 15587 Y N
+Calephelis_nemesis,NJDD01001239.1,254251,254297,0,N,Aricia_agestis_XM_042130624.1_Frame_2_rightoh_0_query_Exon_12,1,15,15,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12']
+Calephelis_nemesis
+Processing Exon_2
+0 query coordinate
+Calephelis_nemesis_coordinates_Aricia_agestis.csv
+25
+[[1, 2]]
+reached here
+Before splice: 7129,7191
+after splice: 7129,7191
+sequence:
+GTGGAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtgaatt
+sequence:
+VEFYFLNFLNNKNRLCSLCE
+left = TA, right =tt, stop_counter = 0
+sequence:
+TAGGTGGAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtgaatttta
+sequence:
+*VEFYFLNFLNNKNRLCSLCEF
+left = GT, right =at, stop_counter = 1
+sequence:
+GTGGAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtgaatt
+sequence:
+VEFYFLNFLNNKNRLCSLCE
+left = TA, right =tt, stop_counter = 1
+sequence:
+TAGGTGGAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtgaatttta
+sequence:
+*VEFYFLNFLNNKNRLCSLCEF
+left = GA, right =tg, stop_counter = 2
+sequence:
+GAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtga
+sequence:
+EFYFLNFLNNKNRLCSLC
+left = GT, right =at, stop_counter = 2
+sequence:
+GTGGAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtgaatt
+sequence:
+VEFYFLNFLNNKNRLCSLCE
+left = TA, right =tt, stop_counter = 2
+sequence:
+TAGGTGGAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtgaatttta
+sequence:
+*VEFYFLNFLNNKNRLCSLCEF
+left = TT, right =at, stop_counter = 3
+sequence:
+TTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatg
+sequence:
+FYFLNFLNNKNRLCSL
+left = GA, right =tg, stop_counter = 3
+sequence:
+GAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtga
+sequence:
+EFYFLNFLNNKNRLCSLC
+left = GT, right =at, stop_counter = 3
+sequence:
+GTGGAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtgaatt
+sequence:
+VEFYFLNFLNNKNRLCSLCE
+left = TA, right =tt, stop_counter = 3
+sequence:
+TAGGTGGAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtgaatttta
+sequence:
+*VEFYFLNFLNNKNRLCSLCEF
+left = ta, right =TT, stop_counter = 4
+sequence:
+tattttttgaactttttaaataataaaaatcgccTATGTAGTTt
+sequence:
+YFLNFLNNKNRLCS
+left = TT, right =at, stop_counter = 4
+sequence:
+TTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatg
+sequence:
+FYFLNFLNNKNRLCSL
+left = GA, right =tg, stop_counter = 4
+sequence:
+GAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtga
+sequence:
+EFYFLNFLNNKNRLCSLC
+left = GT, right =at, stop_counter = 4
+sequence:
+GTGGAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtgaatt
+sequence:
+VEFYFLNFLNNKNRLCSLCE
+left = TA, right =tt, stop_counter = 4
+sequence:
+TAGGTGGAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtgaatttta
+sequence:
+*VEFYFLNFLNNKNRLCSLCEF
+left = tt, right =TA, stop_counter = 5
+sequence:
+tttttgaactttttaaataataaaaatcgccTATGTAG
+sequence:
+FLNFLNNKNRLC
+left = ta, right =TT, stop_counter = 5
+sequence:
+tattttttgaactttttaaataataaaaatcgccTATGTAGTTt
+sequence:
+YFLNFLNNKNRLCS
+left = TT, right =at, stop_counter = 5
+sequence:
+TTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatg
+sequence:
+FYFLNFLNNKNRLCSL
+left = GA, right =tg, stop_counter = 5
+sequence:
+GAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtga
+sequence:
+EFYFLNFLNNKNRLCSLC
+left = GT, right =at, stop_counter = 5
+sequence:
+GTGGAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtgaatt
+sequence:
+VEFYFLNFLNNKNRLCSLCE
+left = TA, right =tt, stop_counter = 5
+sequence:
+TAGGTGGAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtgaatttta
+sequence:
+*VEFYFLNFLNNKNRLCSLCEF
+left = tt, right =AT, stop_counter = 6
+sequence:
+ttgaactttttaaataataaaaatcgccTATG
+sequence:
+LNFLNNKNRL
+left = tt, right =TA, stop_counter = 6
+sequence:
+tttttgaactttttaaataataaaaatcgccTATGTAG
+sequence:
+FLNFLNNKNRLC
+left = ta, right =TT, stop_counter = 6
+sequence:
+tattttttgaactttttaaataataaaaatcgccTATGTAGTTt
+sequence:
+YFLNFLNNKNRLCS
+left = TT, right =at, stop_counter = 6
+sequence:
+TTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatg
+sequence:
+FYFLNFLNNKNRLCSL
+left = GA, right =tg, stop_counter = 6
+sequence:
+GAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtga
+sequence:
+EFYFLNFLNNKNRLCSLC
+left = GT, right =at, stop_counter = 6
+sequence:
+GTGGAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtgaatt
+sequence:
+VEFYFLNFLNNKNRLCSLCE
+left = TA, right =tt, stop_counter = 6
+sequence:
+TAGGTGGAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtgaatttta
+sequence:
+*VEFYFLNFLNNKNRLCSLCEF
+left = aa, right =cc, stop_counter = 7
+sequence:
+aactttttaaataataaaaatcgccT
+sequence:
+NFLNNKNR
+left = tt, right =AT, stop_counter = 7
+sequence:
+ttgaactttttaaataataaaaatcgccTATG
+sequence:
+LNFLNNKNRL
+left = tt, right =TA, stop_counter = 7
+sequence:
+tttttgaactttttaaataataaaaatcgccTATGTAG
+sequence:
+FLNFLNNKNRLC
+left = ta, right =TT, stop_counter = 7
+sequence:
+tattttttgaactttttaaataataaaaatcgccTATGTAGTTt
+sequence:
+YFLNFLNNKNRLCS
+left = TT, right =at, stop_counter = 7
+sequence:
+TTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatg
+sequence:
+FYFLNFLNNKNRLCSL
+left = GA, right =tg, stop_counter = 7
+sequence:
+GAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtga
+sequence:
+EFYFLNFLNNKNRLCSLC
+left = GT, right =at, stop_counter = 7
+sequence:
+GTGGAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtgaatt
+sequence:
+VEFYFLNFLNNKNRLCSLCE
+left = TA, right =tt, stop_counter = 7
+sequence:
+TAGGTGGAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtgaatttta
+sequence:
+*VEFYFLNFLNNKNRLCSLCEF
+left = tt, right =tc, stop_counter = 8
+sequence:
+tttttaaataataaaaatcg
+sequence:
+FLNNKN
+left = aa, right =cc, stop_counter = 8
+sequence:
+aactttttaaataataaaaatcgccT
+sequence:
+NFLNNKNR
+left = tt, right =AT, stop_counter = 8
+sequence:
+ttgaactttttaaataataaaaatcgccTATG
+sequence:
+LNFLNNKNRL
+left = tt, right =TA, stop_counter = 8
+sequence:
+tttttgaactttttaaataataaaaatcgccTATGTAG
+sequence:
+FLNFLNNKNRLC
+left = ta, right =TT, stop_counter = 8
+sequence:
+tattttttgaactttttaaataataaaaatcgccTATGTAGTTt
+sequence:
+YFLNFLNNKNRLCS
+left = TT, right =at, stop_counter = 8
+sequence:
+TTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatg
+sequence:
+FYFLNFLNNKNRLCSL
+left = GA, right =tg, stop_counter = 8
+sequence:
+GAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtga
+sequence:
+EFYFLNFLNNKNRLCSLC
+left = GT, right =at, stop_counter = 8
+sequence:
+GTGGAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtgaatt
+sequence:
+VEFYFLNFLNNKNRLCSLCE
+left = TA, right =tt, stop_counter = 8
+sequence:
+TAGGTGGAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtgaatttta
+sequence:
+*VEFYFLNFLNNKNRLCSLCEF
+left = tt, right =aa, stop_counter = 9
+sequence:
+ttaaataataaaaa
+sequence:
+LNNK
+left = tt, right =tc, stop_counter = 9
+sequence:
+tttttaaataataaaaatcg
+sequence:
+FLNNKN
+left = aa, right =cc, stop_counter = 9
+sequence:
+aactttttaaataataaaaatcgccT
+sequence:
+NFLNNKNR
+left = tt, right =AT, stop_counter = 9
+sequence:
+ttgaactttttaaataataaaaatcgccTATG
+sequence:
+LNFLNNKNRL
+left = tt, right =TA, stop_counter = 9
+sequence:
+tttttgaactttttaaataataaaaatcgccTATGTAG
+sequence:
+FLNFLNNKNRLC
+left = ta, right =TT, stop_counter = 9
+sequence:
+tattttttgaactttttaaataataaaaatcgccTATGTAGTTt
+sequence:
+YFLNFLNNKNRLCS
+left = TT, right =at, stop_counter = 9
+sequence:
+TTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatg
+sequence:
+FYFLNFLNNKNRLCSL
+left = GA, right =tg, stop_counter = 9
+sequence:
+GAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtga
+sequence:
+EFYFLNFLNNKNRLCSLC
+left = GT, right =at, stop_counter = 9
+sequence:
+GTGGAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtgaatt
+sequence:
+VEFYFLNFLNNKNRLCSLCE
+left = TA, right =tt, stop_counter = 9
+sequence:
+TAGGTGGAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtgaatttta
+sequence:
+*VEFYFLNFLNNKNRLCSLCEF
+left = aa, right =ta, stop_counter = 10
+sequence:
+aataataa
+sequence:
+NN
+left = tt, right =aa, stop_counter = 10
+sequence:
+ttaaataataaaaa
+sequence:
+LNNK
+left = tt, right =tc, stop_counter = 10
+sequence:
+tttttaaataataaaaatcg
+sequence:
+FLNNKN
+left = aa, right =cc, stop_counter = 10
+sequence:
+aactttttaaataataaaaatcgccT
+sequence:
+NFLNNKNR
+left = tt, right =AT, stop_counter = 10
+sequence:
+ttgaactttttaaataataaaaatcgccTATG
+sequence:
+LNFLNNKNRL
+left = tt, right =TA, stop_counter = 10
+sequence:
+tttttgaactttttaaataataaaaatcgccTATGTAG
+sequence:
+FLNFLNNKNRLC
+left = ta, right =TT, stop_counter = 10
+sequence:
+tattttttgaactttttaaataataaaaatcgccTATGTAGTTt
+sequence:
+YFLNFLNNKNRLCS
+left = TT, right =at, stop_counter = 10
+sequence:
+TTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatg
+sequence:
+FYFLNFLNNKNRLCSL
+left = GA, right =tg, stop_counter = 10
+sequence:
+GAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtga
+sequence:
+EFYFLNFLNNKNRLCSLC
+left = GT, right =at, stop_counter = 10
+sequence:
+GTGGAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtgaatt
+sequence:
+VEFYFLNFLNNKNRLCSLCE
+left = TA, right =tt, stop_counter = 10
+sequence:
+TAGGTGGAATTctattttttgaactttttaaataataaaaatcgccTATGTAGTTtatgtgaatttta
+sequence:
+*VEFYFLNFLNNKNRLCSLCEF
+left = aa, right =ta, stop_counter = 11
+sequence:
+aa
+sequence:
+
+left = aa, right =ta, stop_counter = 11
+
+[[1, 2]]
+start_coordinate : 0,stop_coordinate : 0
+Error in Blast
+Calephelis_nemesis
+Processing Exon_3
+Calephelis_nemesis_coordinates_Danaus_plexippus.csv
+1 query coordinate
+23
+[[1, 2]]
+reached here
+Before splice: 7005,7073
+after splice: 7005,7073
+sequence:
+GGAACAAGCAGCACATACGATGACGATGGTACCGAAGATGGTTCAGTTCGCTCCATGCctgataaaaa
+sequence:
+GTSSTYDDDGTEDGSVRSMPDK
+left = AG, right =gt, stop_counter = 0
+GTSSTYDDDGTEDGSVRSMPDK
+[[1, 2]]
+start_coordinate : 245716,stop_coordinate : 245781
+7005 7073 Y N
+Calephelis_nemesis,NJDD01001239.1,245715,245783,0,N,Danaus_plexippus_XM_061526053.1_Frame_1_rightoh_2_query_Exon_3,1,22,22,Y,N
+
+Calephelis_nemesis
+Processing Exon_4
+Calephelis_nemesis_coordinates_Danaus_plexippus.csv
+1 query coordinate
+112
+[[1, 0]]
+reached here
+Before splice: 8001,8337
+after splice: 8001,8337
+sequence:
+CAAAACCACAGTGAAATTGAAAAGCGTCGACGTGATAAGATGAACACGTATATATCAGAGCTGAGCTCTATGATCCCCATGTGCGGTGCCATGTCGCGTAAGTTGGATAAGTTGACGGTGTTGAGGATGGCGGTGCAACACTTACGCTCACTGCGGGGAGCTCTCTCCTCTGGACCATTCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTCCTGATGGTAGTTGGATGTGATCGGGGACGTCTGCTCTATGTCTCCGATTCTGTCACTAAGATGCTGACATATGAACAG
+sequence:
+QNHSEIEKRRRDKMNTYISELSSMIPMCGAMSRKLDKLTVLRMAVQHLRSLRGALSSGPFTARPRPAFLSERELNSLVLHAAQDCFLMVVGCDRGRLLYVSDSVTKMLTYEQ
+left = AG, right =GT, stop_counter = 0
+QNHSEIEKRRRDKMNTYISELSSMIPMCGAMSRKLDKLTVLRMAVQHLRSLRGALSSGPFTARPRPAFLSERELNSLVLHAAQDCFLMVVGCDRGRLLYVSDSVTKMLTYEQ
+[[1, 0]]
+start_coordinate : 246712,stop_coordinate : 247047
+8001 8337 Y N
+Calephelis_nemesis,NJDD01001239.1,246711,247047,0,N,Danaus_plexippus_XM_061526053.1_Frame_1_rightoh_0_query_Exon_4,1,112,112,Y,N
+
+Calephelis_nemesis
+Processing Exon_5
+Calephelis_nemesis_coordinates_Danaus_plexippus.csv
+1 query coordinate
+39
+[[0, 1]]
+reached here
+Before splice: 9162,9279
+after splice: 9162,9279
+sequence:
+tCTGAACTACTCGGCCAAAGTTTGTTTGATATTCTGCATCCAAAAGACGTAGCAAAGGTTAAGGAGCAACTGTCCTCCTCGGATTTGAGTCCACGAGAAAGACTGATAGATGCCAAAA
+sequence:
+SELLGQSLFDILHPKDVAKVKEQLSSSDLSPRERLIDAK
+left = ag, right =GT, stop_counter = 0
+SELLGQSLFDILHPKDVAKVKEQLSSSDLSPRERLIDAK
+[[0, 1]]
+start_coordinate : 247872,stop_coordinate : 247988
+9162 9279 Y N
+Calephelis_nemesis,NJDD01001239.1,247872,247989,0,N,Danaus_plexippus_XM_061526053.1_Frame_0_rightoh_1_query_Exon_5,1,39,39,Y,N
+
+Calephelis_nemesis
+Processing Exon_6
+Calephelis_nemesis_coordinates_Danaus_plexippus.csv
+1 query coordinate
+83
+[[2, 1]]
+reached here
+Before splice: 11250,11474
+after splice: 11250,11474
+sequence:
+ATGTTACCAGTAAAGGCTGACATGGTAGCCGGTGCTTCGAGACTCTGTCCAGGGGCCCGAAGATCCTTCTTCTGCCGCATCAAGTGCAAGCCATCTTTTATTAATTCGGAAAACTCCAATTCAACAGTCCACTCCTCGTCTAGTGTTAAAGAAGAGTCTGAACCAACAGTAAAAATGCGCAAAAAACAACACCAGAAGAAATACTGTGTGGTGCAATATACag
+sequence:
+MLPVKADMVAGASRLCPGARRSFFCRIKCKPSFINSENSNSTVHSSSSVKEESEPTVKMRKKQHQKKYCVVQYT
+left = AG, right =gt, stop_counter = 0
+MLPVKADMVAGASRLCPGARRSFFCRIKCKPSFINSENSNSTVHSSSSVKEESEPTVKMRKKQHQKKYCVVQYT
+[[2, 1]]
+start_coordinate : 249962,stop_coordinate : 250183
+11250 11474 Y N
+Calephelis_nemesis,NJDD01001239.1,249960,250184,0,N,Danaus_plexippus_XM_061526053.1_Frame_2_rightoh_1_query_Exon_6,1,74,74,Y,N
+
+Calephelis_nemesis
+Processing Exon_7
+Calephelis_nemesis_coordinates_Danaus_plexippus.csv
+1 query coordinate
+83
+[[2, 1]]
+reached here
+Before splice: 11250,11474
+after splice: 11250,11474
+sequence:
+ATGTTACCAGTAAAGGCTGACATGGTAGCCGGTGCTTCGAGACTCTGTCCAGGGGCCCGAAGATCCTTCTTCTGCCGCATCAAGTGCAAGCCATCTTTTATTAATTCGGAAAACTCCAATTCAACAGTCCACTCCTCGTCTAGTGTTAAAGAAGAGTCTGAACCAACAGTAAAAATGCGCAAAAAACAACACCAGAAGAAATACTGTGTGGTGCAATATACag
+sequence:
+MLPVKADMVAGASRLCPGARRSFFCRIKCKPSFINSENSNSTVHSSSSVKEESEPTVKMRKKQHQKKYCVVQYT
+left = AG, right =gt, stop_counter = 0
+MLPVKADMVAGASRLCPGARRSFFCRIKCKPSFINSENSNSTVHSSSSVKEESEPTVKMRKKQHQKKYCVVQYT
+[[2, 1]]
+start_coordinate : 249962,stop_coordinate : 250183
+11250 11474 Y N
+Calephelis_nemesis,NJDD01001239.1,249960,250184,0,N,Danaus_plexippus_XM_061526053.1_Frame_2_rightoh_1_query_Exon_7,1,74,74,Y,N
+
+Calephelis_nemesis
+Processing Exon_8
+Calephelis_nemesis_coordinates_Danaus_plexippus.csv
+1 query coordinate
+83
+[[2, 1]]
+reached here
+Before splice: 11250,11474
+after splice: 11250,11474
+sequence:
+ATGTTACCAGTAAAGGCTGACATGGTAGCCGGTGCTTCGAGACTCTGTCCAGGGGCCCGAAGATCCTTCTTCTGCCGCATCAAGTGCAAGCCATCTTTTATTAATTCGGAAAACTCCAATTCAACAGTCCACTCCTCGTCTAGTGTTAAAGAAGAGTCTGAACCAACAGTAAAAATGCGCAAAAAACAACACCAGAAGAAATACTGTGTGGTGCAATATACag
+sequence:
+MLPVKADMVAGASRLCPGARRSFFCRIKCKPSFINSENSNSTVHSSSSVKEESEPTVKMRKKQHQKKYCVVQYT
+left = AG, right =gt, stop_counter = 0
+MLPVKADMVAGASRLCPGARRSFFCRIKCKPSFINSENSNSTVHSSSSVKEESEPTVKMRKKQHQKKYCVVQYT
+[[2, 1]]
+start_coordinate : 249962,stop_coordinate : 250183
+11250 11474 Y N
+Calephelis_nemesis,NJDD01001239.1,249960,250184,0,N,Danaus_plexippus_XM_061526053.1_Frame_2_rightoh_1_query_Exon_8,1,74,74,Y,N
+
+Calephelis_nemesis
+Processing Exon_9
+Calephelis_nemesis_coordinates_Danaus_plexippus.csv
+1 query coordinate
+72
+[[2, 2]]
+reached here
+Before splice: 12244,12454
+after splice: 12244,12454
+sequence:
+TATCTCAAATCGTGGGCTCCAGTGGAGATATCGAGTGCCGGTCTCTCTGAAGAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCCACACCCGAAACCTTCAGTACACGTCCAGACATGCTACAGATGGTAAATTCCTGTTCGTCGACCAGAG
+sequence:
+YLKSWAPVEISSAGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNLQYTSRHATDGKFLFVDQ
+left = AG, right =GT, stop_counter = 0
+YLKSWAPVEISSAGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNLQYTSRHATDGKFLFVDQ
+[[2, 2]]
+start_coordinate : 250956,stop_coordinate : 251162
+12244 12454 Y N
+Calephelis_nemesis,NJDD01001239.1,250954,251164,0,N,Danaus_plexippus_XM_061526053.1_Frame_2_rightoh_2_query_Exon_9,1,69,69,Y,N
+
+Calephelis_nemesis
+Processing Exon_10
+Calephelis_nemesis_coordinates_Danaus_plexippus.csv
+1 query coordinate
+67
+[[1, 2]]
+reached here
+Before splice: 13898,14101
+after splice: 13898,14101
+sequence:
+GTAACTTTAGCTCTAGGTTTCTTGCCGCAAGAACTGCTTGGTACAAGCTTGTATGAATATGTGAACGGGCCGGAACTAGGGGCGATAGTGAGAGCACATAAGGCTGCTTTACTACGAAAAGATGCTTTAAGAACACCACAGTATTGTTTTCGGCGTAAAGACGGTACATATGCCCGAATACAGACACATTTTAAACCGTTcag
+sequence:
+VTLALGFLPQELLGTSLYEYVNGPELGAIVRAHKAALLRKDALRTPQYCFRRKDGTYARIQTHFKPF
+left = AG, right =gt, stop_counter = 0
+VTLALGFLPQELLGTSLYEYVNGPELGAIVRAHKAALLRKDALRTPQYCFRRKDGTYARIQTHFKPF
+[[1, 2]]
+start_coordinate : 252609,stop_coordinate : 252809
+13898 14101 Y N
+Calephelis_nemesis,NJDD01001239.1,252608,252811,0,N,Danaus_plexippus_XM_061526053.1_Frame_1_rightoh_2_query_Exon_10,1,67,67,Y,N
+
+Calephelis_nemesis
+Processing Exon_11
+Calephelis_nemesis_coordinates_Danaus_plexippus.csv
+1 query coordinate
+37
+[[1, 1]]
+reached here
+Before splice: 14737,14846
+after splice: 14737,14846
+sequence:
+AATCCATGGACCAAAGATGTGGAGTGCCTTGTAGCTAATAACACGGTTGTGACTGATATGCATAAGTCTGAAAATTCTCCTGATGACTGTCAGTATGATGTTTACAAAC
+sequence:
+NPWTKDVECLVANNTVVTDMHKSENSPDDCQYDVYK
+left = ag, right =AA, stop_counter = 0
+sequence:
+AATCCATGGACCAAAGATGTGGAGTGCCTTGTAGCTAATAACACGGTTGTGACTGATATGCATAAGTCTGAAAATTCTCCTGATGACTGTCAGTATGATGTTTACAAACAAG
+sequence:
+NPWTKDVECLVANNTVVTDMHKSENSPDDCQYDVYKQ
+left = ag, right =GT, stop_counter = 0
+NPWTKDVECLVANNTVVTDMHKSENSPDDCQYDVYKQ
+[[1, 1]]
+start_coordinate : 253448,stop_coordinate : 253558
+14737 14849 Y N
+Calephelis_nemesis,NJDD01001239.1,253447,253559,0,N,Danaus_plexippus_XM_061526053.1_Frame_1_rightoh_1_query_Exon_11,1,37,37,Y,N
+
+Calephelis_nemesis
+Processing Exon_12
+Calephelis_nemesis_coordinates_Danaus_plexippus.csv
+1 query coordinate
+43
+[[2, 0]]
+reached here
+Before splice: 15562,15692
+after splice: 15562,15692
+sequence:
+GAAATTGACAGCGCTTTGTCAGACGTTGATGTGGAAATGCAAAGGTTAATAGATTACCGGGTCGAATCCCACAAAATCGGATCCACTATAGCAACTGAAGCTCTAAGGCGATCGTCGCCGCAGACCTCG
+sequence:
+EIDSALSDVDVEMQRLIDYRVESHKIGSTIATEALRRSSPQTS
+left = GG, right =CC, stop_counter = 0
+sequence:
+GAGGAAATTGACAGCGCTTTGTCAGACGTTGATGTGGAAATGCAAAGGTTAATAGATTACCGGGTCGAATCCCACAAAATCGGATCCACTATAGCAACTGAAGCTCTAAGGCGATCGTCGCCGCAGACCTCGCCG
+sequence:
+EEIDSALSDVDVEMQRLIDYRVESHKIGSTIATEALRRSSPQTSP
+left = GC, right =GA, stop_counter = 0
+sequence:
+CCGGAGGAAATTGACAGCGCTTTGTCAGACGTTGATGTGGAAATGCAAAGGTTAATAGATTACCGGGTCGAATCCCACAAAATCGGATCCACTATAGCAACTGAAGCTCTAAGGCGATCGTCGCCGCAGACCTCGCCGGAA
+sequence:
+PEEIDSALSDVDVEMQRLIDYRVESHKIGSTIATEALRRSSPQTSPE
+left = AA, right =CT, stop_counter = 0
+sequence:
+ATGCCGGAGGAAATTGACAGCGCTTTGTCAGACGTTGATGTGGAAATGCAAAGGTTAATAGATTACCGGGTCGAATCCCACAAAATCGGATCCACTATAGCAACTGAAGCTCTAAGGCGATCGTCGCCGCAGACCTCGCCGGAACTA
+sequence:
+MPEEIDSALSDVDVEMQRLIDYRVESHKIGSTIATEALRRSSPQTSPEL
+left = CG, right =CC, stop_counter = 0
+sequence:
+GGAATGCCGGAGGAAATTGACAGCGCTTTGTCAGACGTTGATGTGGAAATGCAAAGGTTAATAGATTACCGGGTCGAATCCCACAAAATCGGATCCACTATAGCAACTGAAGCTCTAAGGCGATCGTCGCCGCAGACCTCGCCGGAACTACCA
+sequence:
+GMPEEIDSALSDVDVEMQRLIDYRVESHKIGSTIATEALRRSSPQTSPELP
+left = TT, right =GT, stop_counter = 0
+sequence:
+TCCGGAATGCCGGAGGAAATTGACAGCGCTTTGTCAGACGTTGATGTGGAAATGCAAAGGTTAATAGATTACCGGGTCGAATCCCACAAAATCGGATCCACTATAGCAACTGAAGCTCTAAGGCGATCGTCGCCGCAGACCTCGCCGGAACTACCA
+sequence:
+SGMPEEIDSALSDVDVEMQRLIDYRVESHKIGSTIATEALRRSSPQTSPELP
+left = AT, right =GT, stop_counter = 0
+sequence:
+TCTTCCGGAATGCCGGAGGAAATTGACAGCGCTTTGTCAGACGTTGATGTGGAAATGCAAAGGTTAATAGATTACCGGGTCGAATCCCACAAAATCGGATCCACTATAGCAACTGAAGCTCTAAGGCGATCGTCGCCGCAGACCTCGCCGGAACTACCA
+sequence:
+SSGMPEEIDSALSDVDVEMQRLIDYRVESHKIGSTIATEALRRSSPQTSPELP
+left = TG, right =GT, stop_counter = 0
+sequence:
+GGATCTTCCGGAATGCCGGAGGAAATTGACAGCGCTTTGTCAGACGTTGATGTGGAAATGCAAAGGTTAATAGATTACCGGGTCGAATCCCACAAAATCGGATCCACTATAGCAACTGAAGCTCTAAGGCGATCGTCGCCGCAGACCTCGCCGGAACTACCA
+sequence:
+GSSGMPEEIDSALSDVDVEMQRLIDYRVESHKIGSTIATEALRRSSPQTSPELP
+left = AG, right =GT, stop_counter = 0
+GSSGMPEEIDSALSDVDVEMQRLIDYRVESHKIGSTIATEALRRSSPQTSPELP
+[[2, 0]]
+start_coordinate : 254253,stop_coordinate : 254414
+15541 15704 Y N
+Calephelis_nemesis,NJDD01001239.1,254251,254414,0,N,Danaus_plexippus_XM_061526053.1_Frame_2_rightoh_0_query_Exon_12,1,54,54,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12']
+Calephelis_nemesis
+Processing Exon_2
+0 query coordinate
+Calephelis_nemesis_coordinates_Danaus_plexippus.csv
+55
+[[1, 2]]
+reached here
+Before splice: 393,452
+after splice: 393,452
+sequence:
+ccttcctcttcaatcactttatcgtttaaaaaaacagcatcaaaatccgttgcgcagtt
+sequence:
+PSSSITLSFKKTASKSVAQ
+left = aa, right =tt, stop_counter = 0
+sequence:
+aaaccttcctcttcaatcactttatcgtttaaaaaaacagcatcaaaatccgttgcgcagtttta
+sequence:
+KPSSSITLSFKKTASKSVAQF
+left = ta, right =aa, stop_counter = 0
+sequence:
+tataaaccttcctcttcaatcactttatcgtttaaaaaaacagcatcaaaatccgttgcgcagttttaaag
+sequence:
+YKPSSSITLSFKKTASKSVAQF*
+left = cc, right =gt, stop_counter = 1
+sequence:
+ccttcctcttcaatcactttatcgtttaaaaaaacagcatcaaaatccgttgcgca
+sequence:
+PSSSITLSFKKTASKSVA
+left = aa, right =gt, stop_counter = 1
+sequence:
+aaaccttcctcttcaatcactttatcgtttaaaaaaacagcatcaaaatccgttgcgca
+sequence:
+KPSSSITLSFKKTASKSVA
+left = ta, right =gt, stop_counter = 1
+sequence:
+tataaaccttcctcttcaatcactttatcgtttaaaaaaacagcatcaaaatccgttgcgca
+sequence:
+YKPSSSITLSFKKTASKSVA
+left = ac, right =gt, stop_counter = 1
+sequence:
+acatataaaccttcctcttcaatcactttatcgtttaaaaaaacagcatcaaaatccgttgcgca
+sequence:
+TYKPSSSITLSFKKTASKSVA
+left = tt, right =gt, stop_counter = 1
+sequence:
+tttacatataaaccttcctcttcaatcactttatcgtttaaaaaaacagcatcaaaatccgttgcgca
+sequence:
+FTYKPSSSITLSFKKTASKSVA
+left = aa, right =gt, stop_counter = 1
+sequence:
+aaatttacatataaaccttcctcttcaatcactttatcgtttaaaaaaacagcatcaaaatccgttgcgca
+sequence:
+KFTYKPSSSITLSFKKTASKSVA
+left = at, right =gt, stop_counter = 1
+sequence:
+ataaaatttacatataaaccttcctcttcaatcactttatcgtttaaaaaaacagcatcaaaatccgttgcgca
+sequence:
+IKFTYKPSSSITLSFKKTASKSVA
+left = ag, right =gt, stop_counter = 1
+IKFTYKPSSSITLSFKKTASKSVA
+[[1, 2]]
+start_coordinate : 239086,stop_coordinate : 239157
+375 449 Y N
+Calephelis_nemesis,NJDD01001239.1,239085,239159,0,N,Maniola_jurtina_XM_045928647.1_Frame_1_rightoh_2_query_Exon_2,1,24,24,Y,N
+
+Calephelis_nemesis
+Processing Exon_3
+Calephelis_nemesis_coordinates_Maniola_jurtina.csv
+1 query coordinate
+22
+[[1, 2]]
+reached here
+Before splice: 7008,7073
+after splice: 7008,7073
+sequence:
+ACAAGCAGCACATACGATGACGATGGTACCGAAGATGGTTCAGTTCGCTCCATGCctgataaaaa
+sequence:
+TSSTYDDDGTEDGSVRSMPDK
+left = GG, right =gt, stop_counter = 0
+sequence:
+GGAACAAGCAGCACATACGATGACGATGGTACCGAAGATGGTTCAGTTCGCTCCATGCctgataaaaa
+sequence:
+GTSSTYDDDGTEDGSVRSMPDK
+left = AG, right =gt, stop_counter = 0
+GTSSTYDDDGTEDGSVRSMPDK
+[[1, 2]]
+start_coordinate : 245716,stop_coordinate : 245781
+7005 7073 Y N
+Calephelis_nemesis,NJDD01001239.1,245715,245783,0,N,Maniola_jurtina_XM_045928647.1_Frame_1_rightoh_2_query_Exon_3,1,22,22,Y,N
+
+Calephelis_nemesis
+Processing Exon_4
+Calephelis_nemesis_coordinates_Maniola_jurtina.csv
+1 query coordinate
+112
+[[1, 0]]
+reached here
+Before splice: 8001,8337
+after splice: 8001,8337
+sequence:
+CAAAACCACAGTGAAATTGAAAAGCGTCGACGTGATAAGATGAACACGTATATATCAGAGCTGAGCTCTATGATCCCCATGTGCGGTGCCATGTCGCGTAAGTTGGATAAGTTGACGGTGTTGAGGATGGCGGTGCAACACTTACGCTCACTGCGGGGAGCTCTCTCCTCTGGACCATTCACAGCTCGGCCCAGACCAGCTTTCCTATCAGAAAGGGAGCTCAACTCCCTGGTCTTGCACGCCGCGCAGGACTGCTTCCTGATGGTAGTTGGATGTGATCGGGGACGTCTGCTCTATGTCTCCGATTCTGTCACTAAGATGCTGACATATGAACAG
+sequence:
+QNHSEIEKRRRDKMNTYISELSSMIPMCGAMSRKLDKLTVLRMAVQHLRSLRGALSSGPFTARPRPAFLSERELNSLVLHAAQDCFLMVVGCDRGRLLYVSDSVTKMLTYEQ
+left = AG, right =GT, stop_counter = 0
+QNHSEIEKRRRDKMNTYISELSSMIPMCGAMSRKLDKLTVLRMAVQHLRSLRGALSSGPFTARPRPAFLSERELNSLVLHAAQDCFLMVVGCDRGRLLYVSDSVTKMLTYEQ
+[[1, 0]]
+start_coordinate : 246712,stop_coordinate : 247047
+8001 8337 Y N
+Calephelis_nemesis,NJDD01001239.1,246711,247047,0,N,Maniola_jurtina_XM_045928647.1_Frame_1_rightoh_0_query_Exon_4,1,112,112,Y,N
+
+Calephelis_nemesis
+Processing Exon_5
+Calephelis_nemesis_coordinates_Maniola_jurtina.csv
+1 query coordinate
+39
+[[0, 1]]
+reached here
+Before splice: 9162,9279
+after splice: 9162,9279
+sequence:
+tCTGAACTACTCGGCCAAAGTTTGTTTGATATTCTGCATCCAAAAGACGTAGCAAAGGTTAAGGAGCAACTGTCCTCCTCGGATTTGAGTCCACGAGAAAGACTGATAGATGCCAAAA
+sequence:
+SELLGQSLFDILHPKDVAKVKEQLSSSDLSPRERLIDAK
+left = ag, right =GT, stop_counter = 0
+SELLGQSLFDILHPKDVAKVKEQLSSSDLSPRERLIDAK
+[[0, 1]]
+start_coordinate : 247872,stop_coordinate : 247988
+9162 9279 Y N
+Calephelis_nemesis,NJDD01001239.1,247872,247989,0,N,Maniola_jurtina_XM_045928647.1_Frame_0_rightoh_1_query_Exon_5,1,39,39,Y,N
+
+Calephelis_nemesis
+Processing Exon_6
+Calephelis_nemesis_coordinates_Maniola_jurtina.csv
+1 query coordinate
+74
+[[2, 1]]
+reached here
+Before splice: 11250,11474
+after splice: 11250,11474
+sequence:
+ATGTTACCAGTAAAGGCTGACATGGTAGCCGGTGCTTCGAGACTCTGTCCAGGGGCCCGAAGATCCTTCTTCTGCCGCATCAAGTGCAAGCCATCTTTTATTAATTCGGAAAACTCCAATTCAACAGTCCACTCCTCGTCTAGTGTTAAAGAAGAGTCTGAACCAACAGTAAAAATGCGCAAAAAACAACACCAGAAGAAATACTGTGTGGTGCAATATACag
+sequence:
+MLPVKADMVAGASRLCPGARRSFFCRIKCKPSFINSENSNSTVHSSSSVKEESEPTVKMRKKQHQKKYCVVQYT
+left = AG, right =gt, stop_counter = 0
+MLPVKADMVAGASRLCPGARRSFFCRIKCKPSFINSENSNSTVHSSSSVKEESEPTVKMRKKQHQKKYCVVQYT
+[[2, 1]]
+start_coordinate : 249962,stop_coordinate : 250183
+11250 11474 Y N
+Calephelis_nemesis,NJDD01001239.1,249960,250184,0,N,Maniola_jurtina_XM_045928647.1_Frame_2_rightoh_1_query_Exon_6,1,74,74,Y,N
+
+Calephelis_nemesis
+Processing Exon_7
+Calephelis_nemesis_coordinates_Maniola_jurtina.csv
+1 query coordinate
+74
+[[2, 1]]
+reached here
+Before splice: 11250,11474
+after splice: 11250,11474
+sequence:
+ATGTTACCAGTAAAGGCTGACATGGTAGCCGGTGCTTCGAGACTCTGTCCAGGGGCCCGAAGATCCTTCTTCTGCCGCATCAAGTGCAAGCCATCTTTTATTAATTCGGAAAACTCCAATTCAACAGTCCACTCCTCGTCTAGTGTTAAAGAAGAGTCTGAACCAACAGTAAAAATGCGCAAAAAACAACACCAGAAGAAATACTGTGTGGTGCAATATACag
+sequence:
+MLPVKADMVAGASRLCPGARRSFFCRIKCKPSFINSENSNSTVHSSSSVKEESEPTVKMRKKQHQKKYCVVQYT
+left = AG, right =gt, stop_counter = 0
+MLPVKADMVAGASRLCPGARRSFFCRIKCKPSFINSENSNSTVHSSSSVKEESEPTVKMRKKQHQKKYCVVQYT
+[[2, 1]]
+start_coordinate : 249962,stop_coordinate : 250183
+11250 11474 Y N
+Calephelis_nemesis,NJDD01001239.1,249960,250184,0,N,Maniola_jurtina_XM_045928647.1_Frame_2_rightoh_1_query_Exon_7,1,74,74,Y,N
+
+Calephelis_nemesis
+Processing Exon_8
+Calephelis_nemesis_coordinates_Maniola_jurtina.csv
+1 query coordinate
+74
+[[2, 1]]
+reached here
+Before splice: 11250,11474
+after splice: 11250,11474
+sequence:
+ATGTTACCAGTAAAGGCTGACATGGTAGCCGGTGCTTCGAGACTCTGTCCAGGGGCCCGAAGATCCTTCTTCTGCCGCATCAAGTGCAAGCCATCTTTTATTAATTCGGAAAACTCCAATTCAACAGTCCACTCCTCGTCTAGTGTTAAAGAAGAGTCTGAACCAACAGTAAAAATGCGCAAAAAACAACACCAGAAGAAATACTGTGTGGTGCAATATACag
+sequence:
+MLPVKADMVAGASRLCPGARRSFFCRIKCKPSFINSENSNSTVHSSSSVKEESEPTVKMRKKQHQKKYCVVQYT
+left = AG, right =gt, stop_counter = 0
+MLPVKADMVAGASRLCPGARRSFFCRIKCKPSFINSENSNSTVHSSSSVKEESEPTVKMRKKQHQKKYCVVQYT
+[[2, 1]]
+start_coordinate : 249962,stop_coordinate : 250183
+11250 11474 Y N
+Calephelis_nemesis,NJDD01001239.1,249960,250184,0,N,Maniola_jurtina_XM_045928647.1_Frame_2_rightoh_1_query_Exon_8,1,74,74,Y,N
+
+Calephelis_nemesis
+Processing Exon_9
+Calephelis_nemesis_coordinates_Maniola_jurtina.csv
+1 query coordinate
+74
+[[2, 2]]
+reached here
+Before splice: 12244,12454
+after splice: 12244,12454
+sequence:
+TATCTCAAATCGTGGGCTCCAGTGGAGATATCGAGTGCCGGTCTCTCTGAAGAGAACGACGCCTGTCACATGTCGTGTTTAGTCGCAGTTGGCCGAGCCCTCAACGACCTAGCGCCCCAGCAACCCTCAGAGTCTCATACCCACACCCGAAACCTTCAGTACACGTCCAGACATGCTACAGATGGTAAATTCCTGTTCGTCGACCAGAG
+sequence:
+YLKSWAPVEISSAGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNLQYTSRHATDGKFLFVDQ
+left = AG, right =GT, stop_counter = 0
+YLKSWAPVEISSAGLSEENDACHMSCLVAVGRALNDLAPQQPSESHTHTRNLQYTSRHATDGKFLFVDQ
+[[2, 2]]
+start_coordinate : 250956,stop_coordinate : 251162
+12244 12454 Y N
+Calephelis_nemesis,NJDD01001239.1,250954,251164,0,N,Maniola_jurtina_XM_045928647.1_Frame_2_rightoh_2_query_Exon_9,1,69,69,Y,N
+
+Calephelis_nemesis
+Processing Exon_10
+Calephelis_nemesis_coordinates_Maniola_jurtina.csv
+1 query coordinate
+67
+[[1, 2]]
+reached here
+Before splice: 13898,14101
+after splice: 13898,14101
+sequence:
+GTAACTTTAGCTCTAGGTTTCTTGCCGCAAGAACTGCTTGGTACAAGCTTGTATGAATATGTGAACGGGCCGGAACTAGGGGCGATAGTGAGAGCACATAAGGCTGCTTTACTACGAAAAGATGCTTTAAGAACACCACAGTATTGTTTTCGGCGTAAAGACGGTACATATGCCCGAATACAGACACATTTTAAACCGTTcag
+sequence:
+VTLALGFLPQELLGTSLYEYVNGPELGAIVRAHKAALLRKDALRTPQYCFRRKDGTYARIQTHFKPF
+left = AG, right =gt, stop_counter = 0
+VTLALGFLPQELLGTSLYEYVNGPELGAIVRAHKAALLRKDALRTPQYCFRRKDGTYARIQTHFKPF
+[[1, 2]]
+start_coordinate : 252609,stop_coordinate : 252809
+13898 14101 Y N
+Calephelis_nemesis,NJDD01001239.1,252608,252811,0,N,Maniola_jurtina_XM_045928647.1_Frame_1_rightoh_2_query_Exon_10,1,67,67,Y,N
+
+Calephelis_nemesis
+Processing Exon_11
+Calephelis_nemesis_coordinates_Maniola_jurtina.csv
+1 query coordinate
+38
+[[1, 1]]
+reached here
+Before splice: 14737,14849
+after splice: 14737,14849
+sequence:
+AATCCATGGACCAAAGATGTGGAGTGCCTTGTAGCTAATAACACGGTTGTGACTGATATGCATAAGTCTGAAAATTCTCCTGATGACTGTCAGTATGATGTTTACAAACAAG
+sequence:
+NPWTKDVECLVANNTVVTDMHKSENSPDDCQYDVYKQ
+left = ag, right =GT, stop_counter = 0
+NPWTKDVECLVANNTVVTDMHKSENSPDDCQYDVYKQ
+[[1, 1]]
+start_coordinate : 253448,stop_coordinate : 253558
+14737 14849 Y N
+Calephelis_nemesis,NJDD01001239.1,253447,253559,0,N,Maniola_jurtina_XM_045928647.1_Frame_1_rightoh_1_query_Exon_11,1,37,37,Y,N
+
+Calephelis_nemesis
+Processing Exon_12
+Calephelis_nemesis_coordinates_Maniola_jurtina.csv
+1 query coordinate
+Query_error
+Calephelis_nemesis,Exon_2
+Calephelis_nemesis,Exon_2
+Calephelis_nemesis,Exon_12

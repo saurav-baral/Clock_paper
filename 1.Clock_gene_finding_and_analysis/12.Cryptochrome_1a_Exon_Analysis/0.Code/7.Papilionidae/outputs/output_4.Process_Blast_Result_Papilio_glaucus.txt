@@ -1,0 +1,3029 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Papilio_glaucus
+Processing Exon_2
+0 query coordinate
+Period_gene_genomic_sequence_individual_exon
+48
+[[2, 1]]
+reached here
+Before splice: 680,826
+after splice: 680,826
+sequence:
+ACGAAAGTGGTCGGGTACAATCGCATGCGCTACCTCCTTGAGGCTCTGGAGGACTTGGACAATCAGTTCAAGAAGTATGGCGGTCGTCTCATCACGATGAAAGGCACGCCCCACGTCATCTTCAGGCGCCTGTGGGAGGAGTTTG
+sequence:
+TKVVGYNRMRYLLEALEDLDNQFKKYGGRLITMKGTPHVIFRRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALEDLDNQFKKYGGRLITMKGTPHVIFRRLWEEF
+[[2, 1]]
+start_coordinate : 113,stop_coordinate : 256
+680 826 Y N
+Papilio_glaucus,,111,257,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Papilio_glaucus
+Processing Exon_3
+Papilio_glaucus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 1540,1727
+after splice: 1540,1727
+sequence:
+ATAAGGAAGCTCTGCTTCGAGCAGGATTGCGAGCCTGTGTGGCGTCAGCGCGACGACTTGGTGAAGGCGGCTTGCCGGGAGACCGGTGTGGTCTGCCGGGAATACGTCTCCCATACCCTGTGGGAGCCCGATACTGTGATCAAATACAACGGGGGAATACCCCCGCTCACCTACCAAATGTTTCTG
+sequence:
+IRKLCFEQDCEPVWRQRDDLVKAACRETGVVCREYVSHTLWEPDTVIKYNGGIPPLTYQMFL
+left = ag, right =GT, stop_counter = 0
+IRKLCFEQDCEPVWRQRDDLVKAACRETGVVCREYVSHTLWEPDTVIKYNGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 956,stop_coordinate : 1141
+1540 1727 Y N
+Papilio_glaucus,,954,1141,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Papilio_glaucus
+Processing Exon_4
+Papilio_glaucus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 2131,2247
+after splice: 2131,2247
+sequence:
+CATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGACGTGGACCTCACGGGGGTCAATTTCGGCGTACTGCCCGATTGCTTCTACAGAGAGTTCACGGTCTTCGAAAAA
+sequence:
+HTVSTIGDPPRPVGDVDLTGVNFGVLPDCFYREFTVFEK
+left = AG, right =GT, stop_counter = 0
+HTVSTIGDPPRPVGDVDLTGVNFGVLPDCFYREFTVFEK
+[[0, 0]]
+start_coordinate : 261388,stop_coordinate : 261272
+2131 2247 Y N
+Papilio_glaucus,,261272,261388,1,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Papilio_glaucus
+Processing Exon_5
+Papilio_glaucus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+18
+[[0, 2]]
+reached here
+Before splice: 1590,1645
+after splice: 1590,1645
+sequence:
+CGCGACGACTTGGTGAAGGCGGCTTGCCGGGAGACCGGTGTGGTCTGCCGGGAATA
+sequence:
+RDDLVKAACRETGVVCRE
+left = AG, right =CG, stop_counter = 0
+sequence:
+CGCGACGACTTGGTGAAGGCGGCTTGCCGGGAGACCGGTGTGGTCTGCCGGGAATACGT
+sequence:
+RDDLVKAACRETGVVCREY
+left = AG, right =CT, stop_counter = 0
+sequence:
+CGCGACGACTTGGTGAAGGCGGCTTGCCGGGAGACCGGTGTGGTCTGCCGGGAATACGTCTC
+sequence:
+RDDLVKAACRETGVVCREYV
+left = AG, right =CC, stop_counter = 0
+sequence:
+CGCGACGACTTGGTGAAGGCGGCTTGCCGGGAGACCGGTGTGGTCTGCCGGGAATACGTCTCCCA
+sequence:
+RDDLVKAACRETGVVCREYVS
+left = AG, right =TA, stop_counter = 0
+sequence:
+CGCGACGACTTGGTGAAGGCGGCTTGCCGGGAGACCGGTGTGGTCTGCCGGGAATACGTCTCCCATAC
+sequence:
+RDDLVKAACRETGVVCREYVSH
+left = AG, right =CC, stop_counter = 0
+sequence:
+CGCGACGACTTGGTGAAGGCGGCTTGCCGGGAGACCGGTGTGGTCTGCCGGGAATACGTCTCCCATACCCT
+sequence:
+RDDLVKAACRETGVVCREYVSHT
+left = AG, right =GT, stop_counter = 0
+RDDLVKAACRETGVVCREYVSHT
+[[0, 2]]
+start_coordinate : 261929,stop_coordinate : 261861
+1590 1660 Y N
+Papilio_glaucus,,261859,261929,1,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,1,23,23,Y,N
+
+Papilio_glaucus
+Processing Exon_6
+Papilio_glaucus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+40
+[[1, 2]]
+reached here
+Before splice: 1846,1911
+after splice: 1846,1911
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGCgtcatcttt
+sequence:
+FHYFTDTKFIKNILSLRKASS
+left = ta, right =tt, stop_counter = 0
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGCgtcatcttttta
+sequence:
+*FHYFTDTKFIKNILSLRKASSF
+left = tt, right =tt, stop_counter = 1
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGCgtcatcttt
+sequence:
+FHYFTDTKFIKNILSLRKASS
+left = ta, right =tt, stop_counter = 1
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGCgtcatcttttta
+sequence:
+*FHYFTDTKFIKNILSLRKASSF
+left = ca, right =at, stop_counter = 2
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGCgtcatc
+sequence:
+HYFTDTKFIKNILSLRKAS
+left = tt, right =tt, stop_counter = 2
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGCgtcatcttt
+sequence:
+FHYFTDTKFIKNILSLRKASS
+left = ta, right =tt, stop_counter = 2
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGCgtcatcttttta
+sequence:
+*FHYFTDTKFIKNILSLRKASSF
+left = ta, right =gt, stop_counter = 3
+sequence:
+tactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+YFTDTKFIKNILSLRK
+left = ca, right =gt, stop_counter = 3
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+HYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 3
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FHYFTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 3
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+*FHYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 4
+sequence:
+tttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 4
+sequence:
+tactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+YFTDTKFIKNILSLRK
+left = ca, right =gt, stop_counter = 4
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+HYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 4
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FHYFTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 4
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+*FHYFTDTKFIKNILSLRK
+left = ac, right =gt, stop_counter = 5
+sequence:
+accGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 5
+sequence:
+tttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 5
+sequence:
+tactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+YFTDTKFIKNILSLRK
+left = ca, right =gt, stop_counter = 5
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+HYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 5
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FHYFTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 5
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+*FHYFTDTKFIKNILSLRK
+left = GA, right =gt, stop_counter = 6
+sequence:
+GATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+DTKFIKNILSLRK
+left = ac, right =gt, stop_counter = 6
+sequence:
+accGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 6
+sequence:
+tttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 6
+sequence:
+tactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+YFTDTKFIKNILSLRK
+left = ca, right =gt, stop_counter = 6
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+HYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 6
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FHYFTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 6
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+*FHYFTDTKFIKNILSLRK
+left = AC, right =gt, stop_counter = 7
+sequence:
+ACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TKFIKNILSLRK
+left = GA, right =gt, stop_counter = 7
+sequence:
+GATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+DTKFIKNILSLRK
+left = ac, right =gt, stop_counter = 7
+sequence:
+accGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 7
+sequence:
+tttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 7
+sequence:
+tactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+YFTDTKFIKNILSLRK
+left = ca, right =gt, stop_counter = 7
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+HYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 7
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FHYFTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 7
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+*FHYFTDTKFIKNILSLRK
+left = aa, right =gt, stop_counter = 8
+sequence:
+aagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+KFIKNILSLRK
+left = AC, right =gt, stop_counter = 8
+sequence:
+ACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TKFIKNILSLRK
+left = GA, right =gt, stop_counter = 8
+sequence:
+GATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+DTKFIKNILSLRK
+left = ac, right =gt, stop_counter = 8
+sequence:
+accGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 8
+sequence:
+tttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 8
+sequence:
+tactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+YFTDTKFIKNILSLRK
+left = ca, right =gt, stop_counter = 8
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+HYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 8
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FHYFTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 8
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+*FHYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 9
+sequence:
+tttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FIKNILSLRK
+left = aa, right =gt, stop_counter = 9
+sequence:
+aagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+KFIKNILSLRK
+left = AC, right =gt, stop_counter = 9
+sequence:
+ACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TKFIKNILSLRK
+left = GA, right =gt, stop_counter = 9
+sequence:
+GATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+DTKFIKNILSLRK
+left = ac, right =gt, stop_counter = 9
+sequence:
+accGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 9
+sequence:
+tttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 9
+sequence:
+tactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+YFTDTKFIKNILSLRK
+left = ca, right =gt, stop_counter = 9
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+HYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 9
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FHYFTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 9
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+*FHYFTDTKFIKNILSLRK
+left = at, right =gt, stop_counter = 10
+sequence:
+ataaaaaacatattaagtttGAGAAAAGC
+sequence:
+IKNILSLRK
+left = tt, right =gt, stop_counter = 10
+sequence:
+tttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FIKNILSLRK
+left = aa, right =gt, stop_counter = 10
+sequence:
+aagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+KFIKNILSLRK
+left = AC, right =gt, stop_counter = 10
+sequence:
+ACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TKFIKNILSLRK
+left = GA, right =gt, stop_counter = 10
+sequence:
+GATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+DTKFIKNILSLRK
+left = ac, right =gt, stop_counter = 10
+sequence:
+accGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 10
+sequence:
+tttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 10
+sequence:
+tactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+YFTDTKFIKNILSLRK
+left = ca, right =gt, stop_counter = 10
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+HYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 10
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FHYFTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 10
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+*FHYFTDTKFIKNILSLRK
+left = aa, right =gt, stop_counter = 11
+sequence:
+aaaaacatattaagtttGAGAAAAGC
+sequence:
+KNILSLRK
+left = at, right =gt, stop_counter = 11
+KNILSLRK
+[[1, 2]]
+start_coordinate : 0,stop_coordinate : 0
+Error in Blast
+Papilio_glaucus
+Processing Exon_7
+Papilio_glaucus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 3600,3673
+after splice: 3600,3673
+sequence:
+TTCTATTGGGCTGTTCAAGACTTGTTCGAGCAGGTGCACCAGGGCCGCCTCTCTGCCAGTCAGATTATAACTG
+sequence:
+FYWAVQDLFEQVHQGRLSASQIIT
+left = AG, right =GT, stop_counter = 0
+FYWAVQDLFEQVHQGRLSASQIIT
+[[1, 1]]
+start_coordinate : 259918,stop_coordinate : 259847
+3600 3673 Y N
+Papilio_glaucus,,259846,259919,1,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Papilio_glaucus
+Processing Exon_8
+Papilio_glaucus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+37
+[[2, 2]]
+reached here
+Before splice: 3057,3126
+after splice: 3057,3126
+sequence:
+GCTCGTACCTCCCCANNNNACGGCAACCCGGACCTCCTGGGCCCACCGATATCGCTAAGCCCGGCGCT
+sequence:
+ARTSPXXGNPDLLGPPISLSPA
+left = AG, right =GC, stop_counter = 0
+sequence:
+GCTCGTACCTCCCCANNNNACGGCAACCCGGACCTCCTGGGCCCACCGATATCGCTAAGCCCGGCGCTGCG
+sequence:
+ARTSPXXGNPDLLGPPISLSPAL
+left = AG, right =CT, stop_counter = 0
+sequence:
+GCTCGTACCTCCCCANNNNACGGCAACCCGGACCTCCTGGGCCCACCGATATCGCTAAGCCCGGCGCTGCGCTT
+sequence:
+ARTSPXXGNPDLLGPPISLSPALR
+left = AG, right =CG, stop_counter = 0
+sequence:
+GCTCGTACCTCCCCANNNNACGGCAACCCGGACCTCCTGGGCCCACCGATATCGCTAAGCCCGGCGCTGCGCTTCGG
+sequence:
+ARTSPXXGNPDLLGPPISLSPALRF
+left = AG, right =AT, stop_counter = 0
+sequence:
+GCTCGTACCTCCCCANNNNACGGCAACCCGGACCTCCTGGGCCCACCGATATCGCTAAGCCCGGCGCTGCGCTTCGGATG
+sequence:
+ARTSPXXGNPDLLGPPISLSPALRFG
+left = AG, right =CC, stop_counter = 0
+sequence:
+GCTCGTACCTCCCCANNNNACGGCAACCCGGACCTCCTGGGCCCACCGATATCGCTAAGCCCGGCGCTGCGCTTCGGATGCCT
+sequence:
+ARTSPXXGNPDLLGPPISLSPALRFGC
+left = AG, right =GT, stop_counter = 0
+ARTSPXXGNPDLLGPPISLSPALRFGC
+[[2, 2]]
+start_coordinate : 260460,stop_coordinate : 260380
+3057 3141 Y N
+Papilio_glaucus,,260378,260462,1,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,27,27,Y,N
+
+Papilio_glaucus
+Processing Exon_9
+Papilio_glaucus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 5373,5555
+after splice: 5373,5555
+sequence:
+TGGATAGAAGGCCGCACGGGTTTCCCGTTCATAGACGCGGCGATGCGGCAGCTGCGTACCGAGGGCTGGCTGCACCACGTGCTCCGGAACACGGTGGCCTCGTTCCTGACCCGCGGAACCTTGTGGATCTCCTGGGAGCACGGCTTGAAGCACTTCCTCAAGTACCTGCTCGATGCTGACTG
+sequence:
+WIEGRTGFPFIDAAMRQLRTEGWLHHVLRNTVASFLTRGTLWISWEHGLKHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WIEGRTGFPFIDAAMRQLRTEGWLHHVLRNTVASFLTRGTLWISWEHGLKHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 1234,stop_coordinate : 1413
+5373 5555 Y N
+Papilio_glaucus,,1233,1415,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Papilio_glaucus
+Processing Exon_10
+Papilio_glaucus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 5945,6112
+after splice: 5945,6112
+sequence:
+TCCGTGTGCGCGGGCAACTGGATGTGGGTGTCGTCGAGCGCGTTCGAGGCGCTGCTGGACTCGAGCGATTGCGCGTGCCCCGTGCGGCTCGGGCTCCGGCTCGACCCAAGCGGCGAGTACGTGCGCCGCTACGTGCCCGAGCTGGGGCAAATGCCCGTGCAGTACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSSDCACPVRLGLRLDPSGEYVRRYVPELGQMPVQY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSSDCACPVRLGLRLDPSGEYVRRYVPELGQMPVQY
+[[1, 2]]
+start_coordinate : 257573,stop_coordinate : 257409
+5945 6112 Y N
+Papilio_glaucus,,257407,257574,1,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Papilio_glaucus
+Processing Exon_11
+Papilio_glaucus_coordinates_Danaus_plexippus.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 7449,7569
+after splice: 7449,7569
+sequence:
+TACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGCGGCTGCCAACCGGAACAGGAATGCTATG
+sequence:
+YEPWKAPIDVQERANCIIGKDYPAPMVDHLAAANRNRNAM
+left = AG, right =AA, stop_counter = 0
+sequence:
+TACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGCGGCTGCCAACCGGAACAGGAATGCTATGAAG
+sequence:
+YEPWKAPIDVQERANCIIGKDYPAPMVDHLAAANRNRNAMK
+left = AG, right =GT, stop_counter = 0
+YEPWKAPIDVQERANCIIGKDYPAPMVDHLAAANRNRNAMK
+[[1, 0]]
+start_coordinate : 256069,stop_coordinate : 255947
+7449 7572 Y N
+Papilio_glaucus,,255947,256070,1,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Papilio_glaucus
+Processing Exon_2
+0 query coordinate
+Papilio_glaucus_coordinates_Danaus_plexippus.csv
+48
+[[2, 1]]
+reached here
+Before splice: 680,826
+after splice: 680,826
+sequence:
+ACGAAAGTGGTCGGGTACAATCGCATGCGCTACCTCCTTGAGGCTCTGGAGGACTTGGACAATCAGTTCAAGAAGTATGGCGGTCGTCTCATCACGATGAAAGGCACGCCCCACGTCATCTTCAGGCGCCTGTGGGAGGAGTTTG
+sequence:
+TKVVGYNRMRYLLEALEDLDNQFKKYGGRLITMKGTPHVIFRRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALEDLDNQFKKYGGRLITMKGTPHVIFRRLWEEF
+[[2, 1]]
+start_coordinate : 113,stop_coordinate : 256
+680 826 Y N
+Papilio_glaucus,,111,257,0,N,Papilio_machaon_XM_014499499.2_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Papilio_glaucus
+Processing Exon_3
+Papilio_glaucus_coordinates_Papilio_machaon.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 1540,1727
+after splice: 1540,1727
+sequence:
+ATAAGGAAGCTCTGCTTCGAGCAGGATTGCGAGCCTGTGTGGCGTCAGCGCGACGACTTGGTGAAGGCGGCTTGCCGGGAGACCGGTGTGGTCTGCCGGGAATACGTCTCCCATACCCTGTGGGAGCCCGATACTGTGATCAAATACAACGGGGGAATACCCCCGCTCACCTACCAAATGTTTCTG
+sequence:
+IRKLCFEQDCEPVWRQRDDLVKAACRETGVVCREYVSHTLWEPDTVIKYNGGIPPLTYQMFL
+left = ag, right =GT, stop_counter = 0
+IRKLCFEQDCEPVWRQRDDLVKAACRETGVVCREYVSHTLWEPDTVIKYNGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 956,stop_coordinate : 1141
+1540 1727 Y N
+Papilio_glaucus,,954,1141,0,N,Papilio_machaon_XM_014499499.2_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Papilio_glaucus
+Processing Exon_4
+Papilio_glaucus_coordinates_Papilio_machaon.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 2131,2247
+after splice: 2131,2247
+sequence:
+CATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGACGTGGACCTCACGGGGGTCAATTTCGGCGTACTGCCCGATTGCTTCTACAGAGAGTTCACGGTCTTCGAAAAA
+sequence:
+HTVSTIGDPPRPVGDVDLTGVNFGVLPDCFYREFTVFEK
+left = AG, right =GT, stop_counter = 0
+HTVSTIGDPPRPVGDVDLTGVNFGVLPDCFYREFTVFEK
+[[0, 0]]
+start_coordinate : 261388,stop_coordinate : 261272
+2131 2247 Y N
+Papilio_glaucus,,261272,261388,1,N,Papilio_machaon_XM_014499499.2_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Papilio_glaucus
+Processing Exon_5
+Papilio_glaucus_coordinates_Papilio_machaon.csv
+1 query coordinate
+40
+[[0, 2]]
+reached here
+Before splice: 1638,1729
+after splice: 1638,1729
+sequence:
+CGGGAATACGTCTCCCATACCCTGTGGGAGCCCGATACTGTGATCAAATACAACGGGGGAATACCCCCGCTCACCTACCAAATGTTTCTGGT
+sequence:
+REYVSHTLWEPDTVIKYNGGIPPLTYQMFL
+left = GC, right =CA, stop_counter = 0
+sequence:
+TGCCGGGAATACGTCTCCCATACCCTGTGGGAGCCCGATACTGTGATCAAATACAACGGGGGAATACCCCCGCTCACCTACCAAATGTTTCTGGTCAG
+sequence:
+CREYVSHTLWEPDTVIKYNGGIPPLTYQMFLV
+left = TC, right =TT, stop_counter = 0
+sequence:
+GTCTGCCGGGAATACGTCTCCCATACCCTGTGGGAGCCCGATACTGTGATCAAATACAACGGGGGAATACCCCCGCTCACCTACCAAATGTTTCTGGTCAGTTT
+sequence:
+VCREYVSHTLWEPDTVIKYNGGIPPLTYQMFLVS
+left = TG, right =GT, stop_counter = 0
+sequence:
+GTGGTCTGCCGGGAATACGTCTCCCATACCCTGTGGGAGCCCGATACTGTGATCAAATACAACGGGGGAATACCCCCGCTCACCTACCAAATGTTTCTGGTCAGTTT
+sequence:
+VVCREYVSHTLWEPDTVIKYNGGIPPLTYQMFLVS
+left = GT, right =GT, stop_counter = 0
+sequence:
+GGTGTGGTCTGCCGGGAATACGTCTCCCATACCCTGTGGGAGCCCGATACTGTGATCAAATACAACGGGGGAATACCCCCGCTCACCTACCAAATGTTTCTGGTCAGTTT
+sequence:
+GVVCREYVSHTLWEPDTVIKYNGGIPPLTYQMFLVS
+left = CC, right =GT, stop_counter = 0
+sequence:
+ACCGGTGTGGTCTGCCGGGAATACGTCTCCCATACCCTGTGGGAGCCCGATACTGTGATCAAATACAACGGGGGAATACCCCCGCTCACCTACCAAATGTTTCTGGTCAGTTT
+sequence:
+TGVVCREYVSHTLWEPDTVIKYNGGIPPLTYQMFLVS
+left = AG, right =GT, stop_counter = 0
+TGVVCREYVSHTLWEPDTVIKYNGGIPPLTYQMFLVS
+[[0, 2]]
+start_coordinate : 261896,stop_coordinate : 261786
+1623 1735 Y N
+Papilio_glaucus,,261784,261896,1,N,Papilio_machaon_XM_014499499.2_Frame_0_rightoh_2_query_Exon_5,1,37,37,Y,N
+
+Papilio_glaucus
+Processing Exon_6
+Papilio_glaucus_coordinates_Papilio_machaon.csv
+1 query coordinate
+40
+[[1, 2]]
+reached here
+Before splice: 1846,1911
+after splice: 1846,1911
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGCgtcatcttt
+sequence:
+FHYFTDTKFIKNILSLRKASS
+left = ta, right =tt, stop_counter = 0
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGCgtcatcttttta
+sequence:
+*FHYFTDTKFIKNILSLRKASSF
+left = tt, right =tt, stop_counter = 1
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGCgtcatcttt
+sequence:
+FHYFTDTKFIKNILSLRKASS
+left = ta, right =tt, stop_counter = 1
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGCgtcatcttttta
+sequence:
+*FHYFTDTKFIKNILSLRKASSF
+left = ca, right =at, stop_counter = 2
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGCgtcatc
+sequence:
+HYFTDTKFIKNILSLRKAS
+left = tt, right =tt, stop_counter = 2
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGCgtcatcttt
+sequence:
+FHYFTDTKFIKNILSLRKASS
+left = ta, right =tt, stop_counter = 2
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGCgtcatcttttta
+sequence:
+*FHYFTDTKFIKNILSLRKASSF
+left = ta, right =gt, stop_counter = 3
+sequence:
+tactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+YFTDTKFIKNILSLRK
+left = ca, right =gt, stop_counter = 3
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+HYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 3
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FHYFTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 3
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+*FHYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 4
+sequence:
+tttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 4
+sequence:
+tactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+YFTDTKFIKNILSLRK
+left = ca, right =gt, stop_counter = 4
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+HYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 4
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FHYFTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 4
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+*FHYFTDTKFIKNILSLRK
+left = ac, right =gt, stop_counter = 5
+sequence:
+accGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 5
+sequence:
+tttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 5
+sequence:
+tactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+YFTDTKFIKNILSLRK
+left = ca, right =gt, stop_counter = 5
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+HYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 5
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FHYFTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 5
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+*FHYFTDTKFIKNILSLRK
+left = GA, right =gt, stop_counter = 6
+sequence:
+GATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+DTKFIKNILSLRK
+left = ac, right =gt, stop_counter = 6
+sequence:
+accGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 6
+sequence:
+tttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 6
+sequence:
+tactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+YFTDTKFIKNILSLRK
+left = ca, right =gt, stop_counter = 6
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+HYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 6
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FHYFTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 6
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+*FHYFTDTKFIKNILSLRK
+left = AC, right =gt, stop_counter = 7
+sequence:
+ACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TKFIKNILSLRK
+left = GA, right =gt, stop_counter = 7
+sequence:
+GATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+DTKFIKNILSLRK
+left = ac, right =gt, stop_counter = 7
+sequence:
+accGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 7
+sequence:
+tttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 7
+sequence:
+tactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+YFTDTKFIKNILSLRK
+left = ca, right =gt, stop_counter = 7
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+HYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 7
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FHYFTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 7
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+*FHYFTDTKFIKNILSLRK
+left = aa, right =gt, stop_counter = 8
+sequence:
+aagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+KFIKNILSLRK
+left = AC, right =gt, stop_counter = 8
+sequence:
+ACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TKFIKNILSLRK
+left = GA, right =gt, stop_counter = 8
+sequence:
+GATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+DTKFIKNILSLRK
+left = ac, right =gt, stop_counter = 8
+sequence:
+accGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 8
+sequence:
+tttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 8
+sequence:
+tactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+YFTDTKFIKNILSLRK
+left = ca, right =gt, stop_counter = 8
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+HYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 8
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FHYFTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 8
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+*FHYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 9
+sequence:
+tttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FIKNILSLRK
+left = aa, right =gt, stop_counter = 9
+sequence:
+aagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+KFIKNILSLRK
+left = AC, right =gt, stop_counter = 9
+sequence:
+ACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TKFIKNILSLRK
+left = GA, right =gt, stop_counter = 9
+sequence:
+GATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+DTKFIKNILSLRK
+left = ac, right =gt, stop_counter = 9
+sequence:
+accGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 9
+sequence:
+tttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 9
+sequence:
+tactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+YFTDTKFIKNILSLRK
+left = ca, right =gt, stop_counter = 9
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+HYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 9
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FHYFTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 9
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+*FHYFTDTKFIKNILSLRK
+left = at, right =gt, stop_counter = 10
+sequence:
+ataaaaaacatattaagtttGAGAAAAGC
+sequence:
+IKNILSLRK
+left = tt, right =gt, stop_counter = 10
+sequence:
+tttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FIKNILSLRK
+left = aa, right =gt, stop_counter = 10
+sequence:
+aagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+KFIKNILSLRK
+left = AC, right =gt, stop_counter = 10
+sequence:
+ACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TKFIKNILSLRK
+left = GA, right =gt, stop_counter = 10
+sequence:
+GATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+DTKFIKNILSLRK
+left = ac, right =gt, stop_counter = 10
+sequence:
+accGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 10
+sequence:
+tttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 10
+sequence:
+tactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+YFTDTKFIKNILSLRK
+left = ca, right =gt, stop_counter = 10
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+HYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 10
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FHYFTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 10
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+*FHYFTDTKFIKNILSLRK
+left = aa, right =gt, stop_counter = 11
+sequence:
+aaaaacatattaagtttGAGAAAAGC
+sequence:
+KNILSLRK
+left = at, right =gt, stop_counter = 11
+KNILSLRK
+[[1, 2]]
+start_coordinate : 0,stop_coordinate : 0
+Error in Blast
+Papilio_glaucus
+Processing Exon_7
+Papilio_glaucus_coordinates_Papilio_machaon.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 3600,3673
+after splice: 3600,3673
+sequence:
+TTCTATTGGGCTGTTCAAGACTTGTTCGAGCAGGTGCACCAGGGCCGCCTCTCTGCCAGTCAGATTATAACTG
+sequence:
+FYWAVQDLFEQVHQGRLSASQIIT
+left = AG, right =GT, stop_counter = 0
+FYWAVQDLFEQVHQGRLSASQIIT
+[[1, 1]]
+start_coordinate : 259918,stop_coordinate : 259847
+3600 3673 Y N
+Papilio_glaucus,,259846,259919,1,N,Papilio_machaon_XM_014499499.2_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Papilio_glaucus
+Processing Exon_8
+Papilio_glaucus_coordinates_Papilio_machaon.csv
+1 query coordinate
+11
+[[2, 2]]
+reached here
+Before splice: 6449,6485
+after splice: 6449,6485
+sequence:
+cattttctCTTAgcattaccgcgtttgtcgttcaG
+sequence:
+HFLLALPRLSF
+left = tt, right =GA, stop_counter = 0
+sequence:
+tgacattttctCTTAgcattaccgcgtttgtcgttcaGGAA
+sequence:
+*HFLLALPRLSFR
+left = ac, right =ca, stop_counter = 1
+sequence:
+cattttctCTTAgcattaccgcgtttgtcgttcaG
+sequence:
+HFLLALPRLSF
+left = tt, right =GA, stop_counter = 1
+sequence:
+tgacattttctCTTAgcattaccgcgtttgtcgttcaGGAA
+sequence:
+*HFLLALPRLSFR
+left = tt, right =gt, stop_counter = 2
+sequence:
+tttctCTTAgcattaccgcgtttgtc
+sequence:
+FLLALPRL
+left = ac, right =gt, stop_counter = 2
+sequence:
+cattttctCTTAgcattaccgcgtttgtc
+sequence:
+HFLLALPRL
+left = tt, right =gt, stop_counter = 2
+sequence:
+tgacattttctCTTAgcattaccgcgtttgtc
+sequence:
+*HFLLALPRL
+left = tc, right =gt, stop_counter = 3
+sequence:
+ctCTTAgcattaccgcgtttgtc
+sequence:
+LLALPRL
+left = tt, right =gt, stop_counter = 3
+sequence:
+tttctCTTAgcattaccgcgtttgtc
+sequence:
+FLLALPRL
+left = ac, right =gt, stop_counter = 3
+sequence:
+cattttctCTTAgcattaccgcgtttgtc
+sequence:
+HFLLALPRL
+left = tt, right =gt, stop_counter = 3
+sequence:
+tgacattttctCTTAgcattaccgcgtttgtc
+sequence:
+*HFLLALPRL
+left = CT, right =gt, stop_counter = 4
+sequence:
+TTAgcattaccgcgtttgtc
+sequence:
+LALPRL
+left = tc, right =gt, stop_counter = 4
+sequence:
+ctCTTAgcattaccgcgtttgtc
+sequence:
+LLALPRL
+left = tt, right =gt, stop_counter = 4
+sequence:
+tttctCTTAgcattaccgcgtttgtc
+sequence:
+FLLALPRL
+left = ac, right =gt, stop_counter = 4
+sequence:
+cattttctCTTAgcattaccgcgtttgtc
+sequence:
+HFLLALPRL
+left = tt, right =gt, stop_counter = 4
+sequence:
+tgacattttctCTTAgcattaccgcgtttgtc
+sequence:
+*HFLLALPRL
+left = Ag, right =gt, stop_counter = 5
+LPRL
+[[2, 2]]
+start_coordinate : 0,stop_coordinate : 0
+Error in Blast
+Papilio_glaucus
+Processing Exon_9
+Papilio_glaucus_coordinates_Papilio_machaon.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 5373,5555
+after splice: 5373,5555
+sequence:
+TGGATAGAAGGCCGCACGGGTTTCCCGTTCATAGACGCGGCGATGCGGCAGCTGCGTACCGAGGGCTGGCTGCACCACGTGCTCCGGAACACGGTGGCCTCGTTCCTGACCCGCGGAACCTTGTGGATCTCCTGGGAGCACGGCTTGAAGCACTTCCTCAAGTACCTGCTCGATGCTGACTG
+sequence:
+WIEGRTGFPFIDAAMRQLRTEGWLHHVLRNTVASFLTRGTLWISWEHGLKHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WIEGRTGFPFIDAAMRQLRTEGWLHHVLRNTVASFLTRGTLWISWEHGLKHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 1234,stop_coordinate : 1413
+5373 5555 Y N
+Papilio_glaucus,,1233,1415,0,N,Papilio_machaon_XM_014499499.2_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Papilio_glaucus
+Processing Exon_10
+Papilio_glaucus_coordinates_Papilio_machaon.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 5945,6112
+after splice: 5945,6112
+sequence:
+TCCGTGTGCGCGGGCAACTGGATGTGGGTGTCGTCGAGCGCGTTCGAGGCGCTGCTGGACTCGAGCGATTGCGCGTGCCCCGTGCGGCTCGGGCTCCGGCTCGACCCAAGCGGCGAGTACGTGCGCCGCTACGTGCCCGAGCTGGGGCAAATGCCCGTGCAGTACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSSDCACPVRLGLRLDPSGEYVRRYVPELGQMPVQY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSSDCACPVRLGLRLDPSGEYVRRYVPELGQMPVQY
+[[1, 2]]
+start_coordinate : 257573,stop_coordinate : 257409
+5945 6112 Y N
+Papilio_glaucus,,257407,257574,1,N,Papilio_machaon_XM_014499499.2_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Papilio_glaucus
+Processing Exon_11
+Papilio_glaucus_coordinates_Papilio_machaon.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 7449,7569
+after splice: 7449,7569
+sequence:
+TACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGCGGCTGCCAACCGGAACAGGAATGCTATG
+sequence:
+YEPWKAPIDVQERANCIIGKDYPAPMVDHLAAANRNRNAM
+left = AG, right =AA, stop_counter = 0
+sequence:
+TACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGCGGCTGCCAACCGGAACAGGAATGCTATGAAG
+sequence:
+YEPWKAPIDVQERANCIIGKDYPAPMVDHLAAANRNRNAMK
+left = AG, right =GT, stop_counter = 0
+YEPWKAPIDVQERANCIIGKDYPAPMVDHLAAANRNRNAMK
+[[1, 0]]
+start_coordinate : 256069,stop_coordinate : 255947
+7449 7572 Y N
+Papilio_glaucus,,255947,256070,1,N,Papilio_machaon_XM_014499499.2_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Papilio_glaucus
+Processing Exon_2
+0 query coordinate
+Papilio_glaucus_coordinates_Papilio_machaon.csv
+48
+[[2, 1]]
+reached here
+Before splice: 680,826
+after splice: 680,826
+sequence:
+ACGAAAGTGGTCGGGTACAATCGCATGCGCTACCTCCTTGAGGCTCTGGAGGACTTGGACAATCAGTTCAAGAAGTATGGCGGTCGTCTCATCACGATGAAAGGCACGCCCCACGTCATCTTCAGGCGCCTGTGGGAGGAGTTTG
+sequence:
+TKVVGYNRMRYLLEALEDLDNQFKKYGGRLITMKGTPHVIFRRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALEDLDNQFKKYGGRLITMKGTPHVIFRRLWEEF
+[[2, 1]]
+start_coordinate : 113,stop_coordinate : 256
+680 826 Y N
+Papilio_glaucus,,111,257,0,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Papilio_glaucus
+Processing Exon_3
+Papilio_glaucus_coordinates_Papilio_xuthus.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 1540,1727
+after splice: 1540,1727
+sequence:
+ATAAGGAAGCTCTGCTTCGAGCAGGATTGCGAGCCTGTGTGGCGTCAGCGCGACGACTTGGTGAAGGCGGCTTGCCGGGAGACCGGTGTGGTCTGCCGGGAATACGTCTCCCATACCCTGTGGGAGCCCGATACTGTGATCAAATACAACGGGGGAATACCCCCGCTCACCTACCAAATGTTTCTG
+sequence:
+IRKLCFEQDCEPVWRQRDDLVKAACRETGVVCREYVSHTLWEPDTVIKYNGGIPPLTYQMFL
+left = ag, right =GT, stop_counter = 0
+IRKLCFEQDCEPVWRQRDDLVKAACRETGVVCREYVSHTLWEPDTVIKYNGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 956,stop_coordinate : 1141
+1540 1727 Y N
+Papilio_glaucus,,954,1141,0,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Papilio_glaucus
+Processing Exon_4
+Papilio_glaucus_coordinates_Papilio_xuthus.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 2131,2247
+after splice: 2131,2247
+sequence:
+CATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGACGTGGACCTCACGGGGGTCAATTTCGGCGTACTGCCCGATTGCTTCTACAGAGAGTTCACGGTCTTCGAAAAA
+sequence:
+HTVSTIGDPPRPVGDVDLTGVNFGVLPDCFYREFTVFEK
+left = AG, right =GT, stop_counter = 0
+HTVSTIGDPPRPVGDVDLTGVNFGVLPDCFYREFTVFEK
+[[0, 0]]
+start_coordinate : 261388,stop_coordinate : 261272
+2131 2247 Y N
+Papilio_glaucus,,261272,261388,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Papilio_glaucus
+Processing Exon_5
+Papilio_glaucus_coordinates_Papilio_xuthus.csv
+1 query coordinate
+56
+[[0, 2]]
+reached here
+Before splice: 1590,1729
+after splice: 1590,1729
+sequence:
+CGCGACGACTTGGTGAAGGCGGCTTGCCGGGAGACCGGTGTGGTCTGCCGGGAATACGTCTCCCATACCCTGTGGGAGCCCGATACTGTGATCAAATACAACGGGGGAATACCCCCGCTCACCTACCAAATGTTTCTGGT
+sequence:
+RDDLVKAACRETGVVCREYVSHTLWEPDTVIKYNGGIPPLTYQMFL
+left = AG, right =CA, stop_counter = 0
+sequence:
+CGCGACGACTTGGTGAAGGCGGCTTGCCGGGAGACCGGTGTGGTCTGCCGGGAATACGTCTCCCATACCCTGTGGGAGCCCGATACTGTGATCAAATACAACGGGGGAATACCCCCGCTCACCTACCAAATGTTTCTGGTCAG
+sequence:
+RDDLVKAACRETGVVCREYVSHTLWEPDTVIKYNGGIPPLTYQMFLV
+left = AG, right =TT, stop_counter = 0
+sequence:
+CGCGACGACTTGGTGAAGGCGGCTTGCCGGGAGACCGGTGTGGTCTGCCGGGAATACGTCTCCCATACCCTGTGGGAGCCCGATACTGTGATCAAATACAACGGGGGAATACCCCCGCTCACCTACCAAATGTTTCTGGTCAGTTT
+sequence:
+RDDLVKAACRETGVVCREYVSHTLWEPDTVIKYNGGIPPLTYQMFLVS
+left = AG, right =GT, stop_counter = 0
+RDDLVKAACRETGVVCREYVSHTLWEPDTVIKYNGGIPPLTYQMFLVS
+[[0, 2]]
+start_coordinate : 1004,stop_coordinate : 1147
+1590 1735 Y N
+Papilio_glaucus,,1004,1149,0,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_2_query_Exon_5,1,48,48,Y,N
+
+Papilio_glaucus
+Processing Exon_6
+Papilio_glaucus_coordinates_Papilio_xuthus.csv
+1 query coordinate
+40
+[[1, 2]]
+reached here
+Before splice: 1846,1911
+after splice: 1846,1911
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGCgtcatcttt
+sequence:
+FHYFTDTKFIKNILSLRKASS
+left = ta, right =tt, stop_counter = 0
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGCgtcatcttttta
+sequence:
+*FHYFTDTKFIKNILSLRKASSF
+left = tt, right =tt, stop_counter = 1
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGCgtcatcttt
+sequence:
+FHYFTDTKFIKNILSLRKASS
+left = ta, right =tt, stop_counter = 1
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGCgtcatcttttta
+sequence:
+*FHYFTDTKFIKNILSLRKASSF
+left = ca, right =at, stop_counter = 2
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGCgtcatc
+sequence:
+HYFTDTKFIKNILSLRKAS
+left = tt, right =tt, stop_counter = 2
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGCgtcatcttt
+sequence:
+FHYFTDTKFIKNILSLRKASS
+left = ta, right =tt, stop_counter = 2
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGCgtcatcttttta
+sequence:
+*FHYFTDTKFIKNILSLRKASSF
+left = ta, right =gt, stop_counter = 3
+sequence:
+tactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+YFTDTKFIKNILSLRK
+left = ca, right =gt, stop_counter = 3
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+HYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 3
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FHYFTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 3
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+*FHYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 4
+sequence:
+tttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 4
+sequence:
+tactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+YFTDTKFIKNILSLRK
+left = ca, right =gt, stop_counter = 4
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+HYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 4
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FHYFTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 4
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+*FHYFTDTKFIKNILSLRK
+left = ac, right =gt, stop_counter = 5
+sequence:
+accGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 5
+sequence:
+tttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 5
+sequence:
+tactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+YFTDTKFIKNILSLRK
+left = ca, right =gt, stop_counter = 5
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+HYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 5
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FHYFTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 5
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+*FHYFTDTKFIKNILSLRK
+left = GA, right =gt, stop_counter = 6
+sequence:
+GATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+DTKFIKNILSLRK
+left = ac, right =gt, stop_counter = 6
+sequence:
+accGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 6
+sequence:
+tttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 6
+sequence:
+tactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+YFTDTKFIKNILSLRK
+left = ca, right =gt, stop_counter = 6
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+HYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 6
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FHYFTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 6
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+*FHYFTDTKFIKNILSLRK
+left = AC, right =gt, stop_counter = 7
+sequence:
+ACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TKFIKNILSLRK
+left = GA, right =gt, stop_counter = 7
+sequence:
+GATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+DTKFIKNILSLRK
+left = ac, right =gt, stop_counter = 7
+sequence:
+accGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 7
+sequence:
+tttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 7
+sequence:
+tactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+YFTDTKFIKNILSLRK
+left = ca, right =gt, stop_counter = 7
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+HYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 7
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FHYFTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 7
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+*FHYFTDTKFIKNILSLRK
+left = aa, right =gt, stop_counter = 8
+sequence:
+aagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+KFIKNILSLRK
+left = AC, right =gt, stop_counter = 8
+sequence:
+ACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TKFIKNILSLRK
+left = GA, right =gt, stop_counter = 8
+sequence:
+GATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+DTKFIKNILSLRK
+left = ac, right =gt, stop_counter = 8
+sequence:
+accGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 8
+sequence:
+tttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 8
+sequence:
+tactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+YFTDTKFIKNILSLRK
+left = ca, right =gt, stop_counter = 8
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+HYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 8
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FHYFTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 8
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+*FHYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 9
+sequence:
+tttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FIKNILSLRK
+left = aa, right =gt, stop_counter = 9
+sequence:
+aagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+KFIKNILSLRK
+left = AC, right =gt, stop_counter = 9
+sequence:
+ACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TKFIKNILSLRK
+left = GA, right =gt, stop_counter = 9
+sequence:
+GATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+DTKFIKNILSLRK
+left = ac, right =gt, stop_counter = 9
+sequence:
+accGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 9
+sequence:
+tttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 9
+sequence:
+tactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+YFTDTKFIKNILSLRK
+left = ca, right =gt, stop_counter = 9
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+HYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 9
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FHYFTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 9
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+*FHYFTDTKFIKNILSLRK
+left = at, right =gt, stop_counter = 10
+sequence:
+ataaaaaacatattaagtttGAGAAAAGC
+sequence:
+IKNILSLRK
+left = tt, right =gt, stop_counter = 10
+sequence:
+tttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FIKNILSLRK
+left = aa, right =gt, stop_counter = 10
+sequence:
+aagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+KFIKNILSLRK
+left = AC, right =gt, stop_counter = 10
+sequence:
+ACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TKFIKNILSLRK
+left = GA, right =gt, stop_counter = 10
+sequence:
+GATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+DTKFIKNILSLRK
+left = ac, right =gt, stop_counter = 10
+sequence:
+accGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+TDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 10
+sequence:
+tttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 10
+sequence:
+tactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+YFTDTKFIKNILSLRK
+left = ca, right =gt, stop_counter = 10
+sequence:
+cattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+HYFTDTKFIKNILSLRK
+left = tt, right =gt, stop_counter = 10
+sequence:
+tttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+FHYFTDTKFIKNILSLRK
+left = ta, right =gt, stop_counter = 10
+sequence:
+taatttcattactttaccGATACcaagtttataaaaaacatattaagtttGAGAAAAGC
+sequence:
+*FHYFTDTKFIKNILSLRK
+left = aa, right =gt, stop_counter = 11
+sequence:
+aaaaacatattaagtttGAGAAAAGC
+sequence:
+KNILSLRK
+left = at, right =gt, stop_counter = 11
+KNILSLRK
+[[1, 2]]
+start_coordinate : 0,stop_coordinate : 0
+Error in Blast
+Papilio_glaucus
+Processing Exon_7
+Papilio_glaucus_coordinates_Papilio_xuthus.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 3600,3673
+after splice: 3600,3673
+sequence:
+TTCTATTGGGCTGTTCAAGACTTGTTCGAGCAGGTGCACCAGGGCCGCCTCTCTGCCAGTCAGATTATAACTG
+sequence:
+FYWAVQDLFEQVHQGRLSASQIIT
+left = AG, right =GT, stop_counter = 0
+FYWAVQDLFEQVHQGRLSASQIIT
+[[1, 1]]
+start_coordinate : 259918,stop_coordinate : 259847
+3600 3673 Y N
+Papilio_glaucus,,259846,259919,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Papilio_glaucus
+Processing Exon_8
+Papilio_glaucus_coordinates_Papilio_xuthus.csv
+1 query coordinate
+11
+[[2, 2]]
+reached here
+Before splice: 6449,6485
+after splice: 6449,6485
+sequence:
+cattttctCTTAgcattaccgcgtttgtcgttcaG
+sequence:
+HFLLALPRLSF
+left = tt, right =GA, stop_counter = 0
+sequence:
+tgacattttctCTTAgcattaccgcgtttgtcgttcaGGAA
+sequence:
+*HFLLALPRLSFR
+left = ac, right =ca, stop_counter = 1
+sequence:
+cattttctCTTAgcattaccgcgtttgtcgttcaG
+sequence:
+HFLLALPRLSF
+left = tt, right =GA, stop_counter = 1
+sequence:
+tgacattttctCTTAgcattaccgcgtttgtcgttcaGGAA
+sequence:
+*HFLLALPRLSFR
+left = tt, right =gt, stop_counter = 2
+sequence:
+tttctCTTAgcattaccgcgtttgtc
+sequence:
+FLLALPRL
+left = ac, right =gt, stop_counter = 2
+sequence:
+cattttctCTTAgcattaccgcgtttgtc
+sequence:
+HFLLALPRL
+left = tt, right =gt, stop_counter = 2
+sequence:
+tgacattttctCTTAgcattaccgcgtttgtc
+sequence:
+*HFLLALPRL
+left = tc, right =gt, stop_counter = 3
+sequence:
+ctCTTAgcattaccgcgtttgtc
+sequence:
+LLALPRL
+left = tt, right =gt, stop_counter = 3
+sequence:
+tttctCTTAgcattaccgcgtttgtc
+sequence:
+FLLALPRL
+left = ac, right =gt, stop_counter = 3
+sequence:
+cattttctCTTAgcattaccgcgtttgtc
+sequence:
+HFLLALPRL
+left = tt, right =gt, stop_counter = 3
+sequence:
+tgacattttctCTTAgcattaccgcgtttgtc
+sequence:
+*HFLLALPRL
+left = CT, right =gt, stop_counter = 4
+sequence:
+TTAgcattaccgcgtttgtc
+sequence:
+LALPRL
+left = tc, right =gt, stop_counter = 4
+sequence:
+ctCTTAgcattaccgcgtttgtc
+sequence:
+LLALPRL
+left = tt, right =gt, stop_counter = 4
+sequence:
+tttctCTTAgcattaccgcgtttgtc
+sequence:
+FLLALPRL
+left = ac, right =gt, stop_counter = 4
+sequence:
+cattttctCTTAgcattaccgcgtttgtc
+sequence:
+HFLLALPRL
+left = tt, right =gt, stop_counter = 4
+sequence:
+tgacattttctCTTAgcattaccgcgtttgtc
+sequence:
+*HFLLALPRL
+left = Ag, right =gt, stop_counter = 5
+LPRL
+[[2, 2]]
+start_coordinate : 0,stop_coordinate : 0
+Error in Blast
+Papilio_glaucus
+Processing Exon_9
+Papilio_glaucus_coordinates_Papilio_xuthus.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 5373,5555
+after splice: 5373,5555
+sequence:
+TGGATAGAAGGCCGCACGGGTTTCCCGTTCATAGACGCGGCGATGCGGCAGCTGCGTACCGAGGGCTGGCTGCACCACGTGCTCCGGAACACGGTGGCCTCGTTCCTGACCCGCGGAACCTTGTGGATCTCCTGGGAGCACGGCTTGAAGCACTTCCTCAAGTACCTGCTCGATGCTGACTG
+sequence:
+WIEGRTGFPFIDAAMRQLRTEGWLHHVLRNTVASFLTRGTLWISWEHGLKHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WIEGRTGFPFIDAAMRQLRTEGWLHHVLRNTVASFLTRGTLWISWEHGLKHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 1234,stop_coordinate : 1413
+5373 5555 Y N
+Papilio_glaucus,,1233,1415,0,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Papilio_glaucus
+Processing Exon_10
+Papilio_glaucus_coordinates_Papilio_xuthus.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 5945,6112
+after splice: 5945,6112
+sequence:
+TCCGTGTGCGCGGGCAACTGGATGTGGGTGTCGTCGAGCGCGTTCGAGGCGCTGCTGGACTCGAGCGATTGCGCGTGCCCCGTGCGGCTCGGGCTCCGGCTCGACCCAAGCGGCGAGTACGTGCGCCGCTACGTGCCCGAGCTGGGGCAAATGCCCGTGCAGTACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSSDCACPVRLGLRLDPSGEYVRRYVPELGQMPVQY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSSDCACPVRLGLRLDPSGEYVRRYVPELGQMPVQY
+[[1, 2]]
+start_coordinate : 257573,stop_coordinate : 257409
+5945 6112 Y N
+Papilio_glaucus,,257407,257574,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Papilio_glaucus
+Processing Exon_11
+Papilio_glaucus_coordinates_Papilio_xuthus.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 7449,7569
+after splice: 7449,7569
+sequence:
+TACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGCGGCTGCCAACCGGAACAGGAATGCTATG
+sequence:
+YEPWKAPIDVQERANCIIGKDYPAPMVDHLAAANRNRNAM
+left = AG, right =AA, stop_counter = 0
+sequence:
+TACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGCGGCTGCCAACCGGAACAGGAATGCTATGAAG
+sequence:
+YEPWKAPIDVQERANCIIGKDYPAPMVDHLAAANRNRNAMK
+left = AG, right =GT, stop_counter = 0
+YEPWKAPIDVQERANCIIGKDYPAPMVDHLAAANRNRNAMK
+[[1, 0]]
+start_coordinate : 256069,stop_coordinate : 255947
+7449 7572 Y N
+Papilio_glaucus,,255947,256070,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Papilio_glaucus
+Processing Exon_2
+0 query coordinate
+Papilio_glaucus_coordinates_Papilio_xuthus.csv
+48
+[[2, 1]]
+reached here
+Before splice: 680,826
+after splice: 680,826
+sequence:
+ACGAAAGTGGTCGGGTACAATCGCATGCGCTACCTCCTTGAGGCTCTGGAGGACTTGGACAATCAGTTCAAGAAGTATGGCGGTCGTCTCATCACGATGAAAGGCACGCCCCACGTCATCTTCAGGCGCCTGTGGGAGGAGTTTG
+sequence:
+TKVVGYNRMRYLLEALEDLDNQFKKYGGRLITMKGTPHVIFRRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALEDLDNQFKKYGGRLITMKGTPHVIFRRLWEEF
+[[2, 1]]
+start_coordinate : 113,stop_coordinate : 256
+680 826 Y N
+Papilio_glaucus,,111,257,0,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Papilio_glaucus
+Processing Exon_3
+Papilio_glaucus_coordinates_Zerene_cesonia.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 1540,1727
+after splice: 1540,1727
+sequence:
+ATAAGGAAGCTCTGCTTCGAGCAGGATTGCGAGCCTGTGTGGCGTCAGCGCGACGACTTGGTGAAGGCGGCTTGCCGGGAGACCGGTGTGGTCTGCCGGGAATACGTCTCCCATACCCTGTGGGAGCCCGATACTGTGATCAAATACAACGGGGGAATACCCCCGCTCACCTACCAAATGTTTCTG
+sequence:
+IRKLCFEQDCEPVWRQRDDLVKAACRETGVVCREYVSHTLWEPDTVIKYNGGIPPLTYQMFL
+left = ag, right =GT, stop_counter = 0
+IRKLCFEQDCEPVWRQRDDLVKAACRETGVVCREYVSHTLWEPDTVIKYNGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 956,stop_coordinate : 1141
+1540 1727 Y N
+Papilio_glaucus,,954,1141,0,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Papilio_glaucus
+Processing Exon_4
+Papilio_glaucus_coordinates_Zerene_cesonia.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 2131,2247
+after splice: 2131,2247
+sequence:
+CATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGACGTGGACCTCACGGGGGTCAATTTCGGCGTACTGCCCGATTGCTTCTACAGAGAGTTCACGGTCTTCGAAAAA
+sequence:
+HTVSTIGDPPRPVGDVDLTGVNFGVLPDCFYREFTVFEK
+left = AG, right =GT, stop_counter = 0
+HTVSTIGDPPRPVGDVDLTGVNFGVLPDCFYREFTVFEK
+[[0, 0]]
+start_coordinate : 261388,stop_coordinate : 261272
+2131 2247 Y N
+Papilio_glaucus,,261272,261388,1,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Papilio_glaucus
+Processing Exon_5
+Papilio_glaucus_coordinates_Zerene_cesonia.csv
+1 query coordinate
+40
+[[0, 2]]
+reached here
+Before splice: 2114,2175
+after splice: 2114,2175
+sequence:
+TTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+FMFYNSIQCQQSETRPAPSA
+left = AC, right =GT, stop_counter = 0
+sequence:
+TACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+YFMFYNSIQCQQSETRPAPSA
+left = TT, right =GT, stop_counter = 0
+sequence:
+CTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+LYFMFYNSIQCQQSETRPAPSA
+left = CA, right =GT, stop_counter = 0
+sequence:
+ACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+TLYFMFYNSIQCQQSETRPAPSA
+left = TA, right =GT, stop_counter = 0
+sequence:
+ATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+ITLYFMFYNSIQCQQSETRPAPSA
+left = TA, right =GT, stop_counter = 0
+sequence:
+GTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+VITLYFMFYNSIQCQQSETRPAPSA
+left = TG, right =GT, stop_counter = 0
+sequence:
+TTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+LVITLYFMFYNSIQCQQSETRPAPSA
+left = TT, right =GT, stop_counter = 0
+sequence:
+TTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+FLVITLYFMFYNSIQCQQSETRPAPSA
+left = CA, right =GT, stop_counter = 0
+sequence:
+ACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+TFLVITLYFMFYNSIQCQQSETRPAPSA
+left = TG, right =GT, stop_counter = 0
+sequence:
+ATGACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+MTFLVITLYFMFYNSIQCQQSETRPAPSA
+left = GC, right =GT, stop_counter = 0
+sequence:
+TGCATGACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+CMTFLVITLYFMFYNSIQCQQSETRPAPSA
+left = AA, right =GT, stop_counter = 0
+sequence:
+TAATGCATGACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+*CMTFLVITLYFMFYNSIQCQQSETRPAPSA
+left = TC, right =GT, stop_counter = 1
+sequence:
+TTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+FMFYNSIQCQQSETRPAPSA
+left = AC, right =GT, stop_counter = 1
+sequence:
+TACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+YFMFYNSIQCQQSETRPAPSA
+left = TT, right =GT, stop_counter = 1
+sequence:
+CTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+LYFMFYNSIQCQQSETRPAPSA
+left = CA, right =GT, stop_counter = 1
+sequence:
+ACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+TLYFMFYNSIQCQQSETRPAPSA
+left = TA, right =GT, stop_counter = 1
+sequence:
+ATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+ITLYFMFYNSIQCQQSETRPAPSA
+left = TA, right =GT, stop_counter = 1
+sequence:
+GTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+VITLYFMFYNSIQCQQSETRPAPSA
+left = TG, right =GT, stop_counter = 1
+sequence:
+TTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+LVITLYFMFYNSIQCQQSETRPAPSA
+left = TT, right =GT, stop_counter = 1
+sequence:
+TTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+FLVITLYFMFYNSIQCQQSETRPAPSA
+left = CA, right =GT, stop_counter = 1
+sequence:
+ACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+TFLVITLYFMFYNSIQCQQSETRPAPSA
+left = TG, right =GT, stop_counter = 1
+sequence:
+ATGACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+MTFLVITLYFMFYNSIQCQQSETRPAPSA
+left = GC, right =GT, stop_counter = 1
+sequence:
+TGCATGACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+CMTFLVITLYFMFYNSIQCQQSETRPAPSA
+left = AA, right =GT, stop_counter = 1
+sequence:
+TAATGCATGACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+*CMTFLVITLYFMFYNSIQCQQSETRPAPSA
+left = TG, right =GT, stop_counter = 2
+sequence:
+ATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+MFYNSIQCQQSETRPAPSA
+left = TC, right =GT, stop_counter = 2
+sequence:
+TTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+FMFYNSIQCQQSETRPAPSA
+left = AC, right =GT, stop_counter = 2
+sequence:
+TACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+YFMFYNSIQCQQSETRPAPSA
+left = TT, right =GT, stop_counter = 2
+sequence:
+CTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+LYFMFYNSIQCQQSETRPAPSA
+left = CA, right =GT, stop_counter = 2
+sequence:
+ACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+TLYFMFYNSIQCQQSETRPAPSA
+left = TA, right =GT, stop_counter = 2
+sequence:
+ATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+ITLYFMFYNSIQCQQSETRPAPSA
+left = TA, right =GT, stop_counter = 2
+sequence:
+GTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+VITLYFMFYNSIQCQQSETRPAPSA
+left = TG, right =GT, stop_counter = 2
+sequence:
+TTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+LVITLYFMFYNSIQCQQSETRPAPSA
+left = TT, right =GT, stop_counter = 2
+sequence:
+TTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+FLVITLYFMFYNSIQCQQSETRPAPSA
+left = CA, right =GT, stop_counter = 2
+sequence:
+ACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+TFLVITLYFMFYNSIQCQQSETRPAPSA
+left = TG, right =GT, stop_counter = 2
+sequence:
+ATGACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+MTFLVITLYFMFYNSIQCQQSETRPAPSA
+left = GC, right =GT, stop_counter = 2
+sequence:
+TGCATGACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+CMTFLVITLYFMFYNSIQCQQSETRPAPSA
+left = AA, right =GT, stop_counter = 2
+sequence:
+TAATGCATGACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+*CMTFLVITLYFMFYNSIQCQQSETRPAPSA
+left = TT, right =GT, stop_counter = 3
+sequence:
+TTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+FYNSIQCQQSETRPAPSA
+left = TG, right =GT, stop_counter = 3
+sequence:
+ATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+MFYNSIQCQQSETRPAPSA
+left = TC, right =GT, stop_counter = 3
+sequence:
+TTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+FMFYNSIQCQQSETRPAPSA
+left = AC, right =GT, stop_counter = 3
+sequence:
+TACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+YFMFYNSIQCQQSETRPAPSA
+left = TT, right =GT, stop_counter = 3
+sequence:
+CTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+LYFMFYNSIQCQQSETRPAPSA
+left = CA, right =GT, stop_counter = 3
+sequence:
+ACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+TLYFMFYNSIQCQQSETRPAPSA
+left = TA, right =GT, stop_counter = 3
+sequence:
+ATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+ITLYFMFYNSIQCQQSETRPAPSA
+left = TA, right =GT, stop_counter = 3
+sequence:
+GTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+VITLYFMFYNSIQCQQSETRPAPSA
+left = TG, right =GT, stop_counter = 3
+sequence:
+TTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+LVITLYFMFYNSIQCQQSETRPAPSA
+left = TT, right =GT, stop_counter = 3
+sequence:
+TTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+FLVITLYFMFYNSIQCQQSETRPAPSA
+left = CA, right =GT, stop_counter = 3
+sequence:
+ACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+TFLVITLYFMFYNSIQCQQSETRPAPSA
+left = TG, right =GT, stop_counter = 3
+sequence:
+ATGACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+MTFLVITLYFMFYNSIQCQQSETRPAPSA
+left = GC, right =GT, stop_counter = 3
+sequence:
+TGCATGACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+CMTFLVITLYFMFYNSIQCQQSETRPAPSA
+left = AA, right =GT, stop_counter = 3
+sequence:
+TAATGCATGACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+*CMTFLVITLYFMFYNSIQCQQSETRPAPSA
+left = AC, right =GT, stop_counter = 4
+sequence:
+TACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+YNSIQCQQSETRPAPSA
+left = TT, right =GT, stop_counter = 4
+sequence:
+TTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+FYNSIQCQQSETRPAPSA
+left = TG, right =GT, stop_counter = 4
+sequence:
+ATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+MFYNSIQCQQSETRPAPSA
+left = TC, right =GT, stop_counter = 4
+sequence:
+TTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+FMFYNSIQCQQSETRPAPSA
+left = AC, right =GT, stop_counter = 4
+sequence:
+TACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+YFMFYNSIQCQQSETRPAPSA
+left = TT, right =GT, stop_counter = 4
+sequence:
+CTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+LYFMFYNSIQCQQSETRPAPSA
+left = CA, right =GT, stop_counter = 4
+sequence:
+ACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+TLYFMFYNSIQCQQSETRPAPSA
+left = TA, right =GT, stop_counter = 4
+sequence:
+ATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+ITLYFMFYNSIQCQQSETRPAPSA
+left = TA, right =GT, stop_counter = 4
+sequence:
+GTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+VITLYFMFYNSIQCQQSETRPAPSA
+left = TG, right =GT, stop_counter = 4
+sequence:
+TTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+LVITLYFMFYNSIQCQQSETRPAPSA
+left = TT, right =GT, stop_counter = 4
+sequence:
+TTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+FLVITLYFMFYNSIQCQQSETRPAPSA
+left = CA, right =GT, stop_counter = 4
+sequence:
+ACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+TFLVITLYFMFYNSIQCQQSETRPAPSA
+left = TG, right =GT, stop_counter = 4
+sequence:
+ATGACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+MTFLVITLYFMFYNSIQCQQSETRPAPSA
+left = GC, right =GT, stop_counter = 4
+sequence:
+TGCATGACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+CMTFLVITLYFMFYNSIQCQQSETRPAPSA
+left = AA, right =GT, stop_counter = 4
+sequence:
+TAATGCATGACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+*CMTFLVITLYFMFYNSIQCQQSETRPAPSA
+left = AC, right =GT, stop_counter = 5
+sequence:
+AACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+NSIQCQQSETRPAPSA
+left = AC, right =GT, stop_counter = 5
+sequence:
+TACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+YNSIQCQQSETRPAPSA
+left = TT, right =GT, stop_counter = 5
+sequence:
+TTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+FYNSIQCQQSETRPAPSA
+left = TG, right =GT, stop_counter = 5
+sequence:
+ATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+MFYNSIQCQQSETRPAPSA
+left = TC, right =GT, stop_counter = 5
+sequence:
+TTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+FMFYNSIQCQQSETRPAPSA
+left = AC, right =GT, stop_counter = 5
+sequence:
+TACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+YFMFYNSIQCQQSETRPAPSA
+left = TT, right =GT, stop_counter = 5
+sequence:
+CTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+LYFMFYNSIQCQQSETRPAPSA
+left = CA, right =GT, stop_counter = 5
+sequence:
+ACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+TLYFMFYNSIQCQQSETRPAPSA
+left = TA, right =GT, stop_counter = 5
+sequence:
+ATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+ITLYFMFYNSIQCQQSETRPAPSA
+left = TA, right =GT, stop_counter = 5
+sequence:
+GTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+VITLYFMFYNSIQCQQSETRPAPSA
+left = TG, right =GT, stop_counter = 5
+sequence:
+TTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+LVITLYFMFYNSIQCQQSETRPAPSA
+left = TT, right =GT, stop_counter = 5
+sequence:
+TTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+FLVITLYFMFYNSIQCQQSETRPAPSA
+left = CA, right =GT, stop_counter = 5
+sequence:
+ACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+TFLVITLYFMFYNSIQCQQSETRPAPSA
+left = TG, right =GT, stop_counter = 5
+sequence:
+ATGACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+MTFLVITLYFMFYNSIQCQQSETRPAPSA
+left = GC, right =GT, stop_counter = 5
+sequence:
+TGCATGACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+CMTFLVITLYFMFYNSIQCQQSETRPAPSA
+left = AA, right =GT, stop_counter = 5
+sequence:
+TAATGCATGACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+*CMTFLVITLYFMFYNSIQCQQSETRPAPSA
+left = GC, right =GT, stop_counter = 6
+sequence:
+AGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+SIQCQQSETRPAPSA
+left = AC, right =GT, stop_counter = 6
+sequence:
+AACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+NSIQCQQSETRPAPSA
+left = AC, right =GT, stop_counter = 6
+sequence:
+TACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+YNSIQCQQSETRPAPSA
+left = TT, right =GT, stop_counter = 6
+sequence:
+TTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+FYNSIQCQQSETRPAPSA
+left = TG, right =GT, stop_counter = 6
+sequence:
+ATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+MFYNSIQCQQSETRPAPSA
+left = TC, right =GT, stop_counter = 6
+sequence:
+TTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+FMFYNSIQCQQSETRPAPSA
+left = AC, right =GT, stop_counter = 6
+sequence:
+TACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+YFMFYNSIQCQQSETRPAPSA
+left = TT, right =GT, stop_counter = 6
+sequence:
+CTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+LYFMFYNSIQCQQSETRPAPSA
+left = CA, right =GT, stop_counter = 6
+sequence:
+ACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+TLYFMFYNSIQCQQSETRPAPSA
+left = TA, right =GT, stop_counter = 6
+sequence:
+ATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+ITLYFMFYNSIQCQQSETRPAPSA
+left = TA, right =GT, stop_counter = 6
+sequence:
+GTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+VITLYFMFYNSIQCQQSETRPAPSA
+left = TG, right =GT, stop_counter = 6
+sequence:
+TTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+LVITLYFMFYNSIQCQQSETRPAPSA
+left = TT, right =GT, stop_counter = 6
+sequence:
+TTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+FLVITLYFMFYNSIQCQQSETRPAPSA
+left = CA, right =GT, stop_counter = 6
+sequence:
+ACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+TFLVITLYFMFYNSIQCQQSETRPAPSA
+left = TG, right =GT, stop_counter = 6
+sequence:
+ATGACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+MTFLVITLYFMFYNSIQCQQSETRPAPSA
+left = GC, right =GT, stop_counter = 6
+sequence:
+TGCATGACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+CMTFLVITLYFMFYNSIQCQQSETRPAPSA
+left = AA, right =GT, stop_counter = 6
+sequence:
+TAATGCATGACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+*CMTFLVITLYFMFYNSIQCQQSETRPAPSA
+left = TA, right =GT, stop_counter = 7
+sequence:
+ATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+IQCQQSETRPAPSA
+left = GC, right =GT, stop_counter = 7
+sequence:
+AGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+SIQCQQSETRPAPSA
+left = AC, right =GT, stop_counter = 7
+sequence:
+AACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+NSIQCQQSETRPAPSA
+left = AC, right =GT, stop_counter = 7
+sequence:
+TACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+YNSIQCQQSETRPAPSA
+left = TT, right =GT, stop_counter = 7
+sequence:
+TTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+FYNSIQCQQSETRPAPSA
+left = TG, right =GT, stop_counter = 7
+sequence:
+ATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+MFYNSIQCQQSETRPAPSA
+left = TC, right =GT, stop_counter = 7
+sequence:
+TTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+FMFYNSIQCQQSETRPAPSA
+left = AC, right =GT, stop_counter = 7
+sequence:
+TACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+YFMFYNSIQCQQSETRPAPSA
+left = TT, right =GT, stop_counter = 7
+sequence:
+CTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+LYFMFYNSIQCQQSETRPAPSA
+left = CA, right =GT, stop_counter = 7
+sequence:
+ACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+TLYFMFYNSIQCQQSETRPAPSA
+left = TA, right =GT, stop_counter = 7
+sequence:
+ATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+ITLYFMFYNSIQCQQSETRPAPSA
+left = TA, right =GT, stop_counter = 7
+sequence:
+GTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+VITLYFMFYNSIQCQQSETRPAPSA
+left = TG, right =GT, stop_counter = 7
+sequence:
+TTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+LVITLYFMFYNSIQCQQSETRPAPSA
+left = TT, right =GT, stop_counter = 7
+sequence:
+TTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+FLVITLYFMFYNSIQCQQSETRPAPSA
+left = CA, right =GT, stop_counter = 7
+sequence:
+ACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+TFLVITLYFMFYNSIQCQQSETRPAPSA
+left = TG, right =GT, stop_counter = 7
+sequence:
+ATGACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+MTFLVITLYFMFYNSIQCQQSETRPAPSA
+left = GC, right =GT, stop_counter = 7
+sequence:
+TGCATGACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+CMTFLVITLYFMFYNSIQCQQSETRPAPSA
+left = AA, right =GT, stop_counter = 7
+sequence:
+TAATGCATGACATTTTTGGTAATAACACTTTACTTCATGTTTTACAACAGCATACAGTGTCAACAATCGGAGACCCGCCCCGCCCCGTCGGCGAC
+sequence:
+*CMTFLVITLYFMFYNSIQCQQSETRPAPSA
+left = AG, right =GT, stop_counter = 8
+CQQSETRPAPSA
+[[0, 2]]
+start_coordinate : 261381,stop_coordinate : 261346
+2138 2175 Y N
+Papilio_glaucus,,261344,261381,1,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_2_query_Exon_5,1,12,12,Y,N
+
+Papilio_glaucus
+Processing Exon_6
+Papilio_glaucus_coordinates_Zerene_cesonia.csv
+1 query coordinate
+28
+[[1, 2]]
+reached here
+Before splice: 1911,1964
+after splice: 1911,1964
+sequence:
+ttaaaaattatcatattactGTTTCCTTTAACTAGATTTTGCACATTTTGTAG
+sequence:
+LKIIILLFPLTRFCTFC
+left = tt, right =AT, stop_counter = 0
+sequence:
+tttttaaaaattatcatattactGTTTCCTTTAACTAGATTTTGCACATTTTGTAGATT
+sequence:
+FLKIIILLFPLTRFCTFCR
+left = at, right =Ta, stop_counter = 0
+sequence:
+atctttttaaaaattatcatattactGTTTCCTTTAACTAGATTTTGCACATTTTGTAGATTTag
+sequence:
+IFLKIIILLFPLTRFCTFCRF
+left = gt, right =aa, stop_counter = 0
+sequence:
+gtcatctttttaaaaattatcatattactGTTTCCTTTAACTAGATTTTGCACATTTTGTAGATTTagaat
+sequence:
+VIFLKIIILLFPLTRFCTFCRFR
+left = AG, right =ta, stop_counter = 0
+sequence:
+gtcatctttttaaaaattatcatattactGTTTCCTTTAACTAGATTTTGCACATTTTGTAGATTTagaattaa
+sequence:
+VIFLKIIILLFPLTRFCTFCRFRI
+left = AG, right =ca, stop_counter = 0
+sequence:
+gtcatctttttaaaaattatcatattactGTTTCCTTTAACTAGATTTTGCACATTTTGTAGATTTagaattaacaa
+sequence:
+VIFLKIIILLFPLTRFCTFCRFRIN
+left = AG, right =tt, stop_counter = 0
+sequence:
+gtcatctttttaaaaattatcatattactGTTTCCTTTAACTAGATTTTGCACATTTTGTAGATTTagaattaacaatta
+sequence:
+VIFLKIIILLFPLTRFCTFCRFRINN
+left = AG, right =ta, stop_counter = 0
+sequence:
+gtcatctttttaaaaattatcatattactGTTTCCTTTAACTAGATTTTGCACATTTTGTAGATTTagaattaacaattataa
+sequence:
+VIFLKIIILLFPLTRFCTFCRFRINNY
+left = AG, right =tt, stop_counter = 0
+sequence:
+gtcatctttttaaaaattatcatattactGTTTCCTTTAACTAGATTTTGCACATTTTGTAGATTTagaattaacaattataattt
+sequence:
+VIFLKIIILLFPLTRFCTFCRFRINNYN
+left = AG, right =aa, stop_counter = 0
+sequence:
+gtcatctttttaaaaattatcatattactGTTTCCTTTAACTAGATTTTGCACATTTTGTAGATTTagaattaacaattataatttaaa
+sequence:
+VIFLKIIILLFPLTRFCTFCRFRINNYNL
+left = AG, right =aa, stop_counter = 0
+sequence:
+gtcatctttttaaaaattatcatattactGTTTCCTTTAACTAGATTTTGCACATTTTGTAGATTTagaattaacaattataatttaaaaag
+sequence:
+VIFLKIIILLFPLTRFCTFCRFRINNYNLK
+left = AG, right =at, stop_counter = 0
+sequence:
+gtcatctttttaaaaattatcatattactGTTTCCTTTAACTAGATTTTGCACATTTTGTAGATTTagaattaacaattataatttaaaaagatt
+sequence:
+VIFLKIIILLFPLTRFCTFCRFRINNYNLKR
+left = AG, right =gt, stop_counter = 0
+VIFLKIIILLFPLTRFCTFCRFRINNYNLKR
+[[1, 2]]
+start_coordinate : 261616,stop_coordinate : 261524
+1902 1997 Y N
+Papilio_glaucus,,261522,261617,1,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Papilio_glaucus
+Processing Exon_7
+Papilio_glaucus_coordinates_Zerene_cesonia.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 3600,3673
+after splice: 3600,3673
+sequence:
+TTCTATTGGGCTGTTCAAGACTTGTTCGAGCAGGTGCACCAGGGCCGCCTCTCTGCCAGTCAGATTATAACTG
+sequence:
+FYWAVQDLFEQVHQGRLSASQIIT
+left = AG, right =GT, stop_counter = 0
+FYWAVQDLFEQVHQGRLSASQIIT
+[[1, 1]]
+start_coordinate : 259918,stop_coordinate : 259847
+3600 3673 Y N
+Papilio_glaucus,,259846,259919,1,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Papilio_glaucus
+Processing Exon_8
+Papilio_glaucus_coordinates_Zerene_cesonia.csv
+1 query coordinate
+58
+[[2, 2]]
+reached here
+Before splice: 7433,7541
+after splice: 7433,7541
+sequence:
+CTATGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGC
+sequence:
+LCCFRYEPWKAPIDVQERANCIIGKDYPAPMVDHL
+left = AT, right =GG, stop_counter = 0
+sequence:
+TAACTATGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGCGGC
+sequence:
+*LCCFRYEPWKAPIDVQERANCIIGKDYPAPMVDHLA
+left = AC, right =GG, stop_counter = 1
+sequence:
+CTATGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGC
+sequence:
+LCCFRYEPWKAPIDVQERANCIIGKDYPAPMVDHL
+left = AT, right =GG, stop_counter = 1
+sequence:
+TAACTATGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGCGGC
+sequence:
+*LCCFRYEPWKAPIDVQERANCIIGKDYPAPMVDHLA
+left = AT, right =CC, stop_counter = 2
+sequence:
+TGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCT
+sequence:
+CCFRYEPWKAPIDVQERANCIIGKDYPAPMVDH
+left = AC, right =GG, stop_counter = 2
+sequence:
+CTATGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGC
+sequence:
+LCCFRYEPWKAPIDVQERANCIIGKDYPAPMVDHL
+left = AT, right =GG, stop_counter = 2
+sequence:
+TAACTATGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGCGGC
+sequence:
+*LCCFRYEPWKAPIDVQERANCIIGKDYPAPMVDHLA
+left = TT, right =CC, stop_counter = 3
+sequence:
+TGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCA
+sequence:
+CFRYEPWKAPIDVQERANCIIGKDYPAPMVD
+left = AT, right =CC, stop_counter = 3
+sequence:
+TGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCT
+sequence:
+CCFRYEPWKAPIDVQERANCIIGKDYPAPMVDH
+left = AC, right =GG, stop_counter = 3
+sequence:
+CTATGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGC
+sequence:
+LCCFRYEPWKAPIDVQERANCIIGKDYPAPMVDHL
+left = AT, right =GG, stop_counter = 3
+sequence:
+TAACTATGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGCGGC
+sequence:
+*LCCFRYEPWKAPIDVQERANCIIGKDYPAPMVDHLA
+left = TT, right =CG, stop_counter = 4
+sequence:
+TTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGA
+sequence:
+FRYEPWKAPIDVQERANCIIGKDYPAPMV
+left = TT, right =CC, stop_counter = 4
+sequence:
+TGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCA
+sequence:
+CFRYEPWKAPIDVQERANCIIGKDYPAPMVD
+left = AT, right =CC, stop_counter = 4
+sequence:
+TGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCT
+sequence:
+CCFRYEPWKAPIDVQERANCIIGKDYPAPMVDH
+left = AC, right =GG, stop_counter = 4
+sequence:
+CTATGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGC
+sequence:
+LCCFRYEPWKAPIDVQERANCIIGKDYPAPMVDHL
+left = AT, right =GG, stop_counter = 4
+sequence:
+TAACTATGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGCGGC
+sequence:
+*LCCFRYEPWKAPIDVQERANCIIGKDYPAPMVDHLA
+left = TA, right =GG, stop_counter = 5
+sequence:
+AGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGT
+sequence:
+RYEPWKAPIDVQERANCIIGKDYPAPM
+left = TT, right =CG, stop_counter = 5
+sequence:
+TTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGA
+sequence:
+FRYEPWKAPIDVQERANCIIGKDYPAPMV
+left = TT, right =CC, stop_counter = 5
+sequence:
+TGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCA
+sequence:
+CFRYEPWKAPIDVQERANCIIGKDYPAPMVD
+left = AT, right =CC, stop_counter = 5
+sequence:
+TGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCT
+sequence:
+CCFRYEPWKAPIDVQERANCIIGKDYPAPMVDH
+left = AC, right =GG, stop_counter = 5
+sequence:
+CTATGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGC
+sequence:
+LCCFRYEPWKAPIDVQERANCIIGKDYPAPMVDHL
+left = AT, right =GG, stop_counter = 5
+sequence:
+TAACTATGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGCGGC
+sequence:
+*LCCFRYEPWKAPIDVQERANCIIGKDYPAPMVDHLA
+left = AT, right =GA, stop_counter = 6
+sequence:
+TACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGAT
+sequence:
+YEPWKAPIDVQERANCIIGKDYPAP
+left = TA, right =GG, stop_counter = 6
+sequence:
+AGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGT
+sequence:
+RYEPWKAPIDVQERANCIIGKDYPAPM
+left = TT, right =CG, stop_counter = 6
+sequence:
+TTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGA
+sequence:
+FRYEPWKAPIDVQERANCIIGKDYPAPMV
+left = TT, right =CC, stop_counter = 6
+sequence:
+TGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCA
+sequence:
+CFRYEPWKAPIDVQERANCIIGKDYPAPMVD
+left = AT, right =CC, stop_counter = 6
+sequence:
+TGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCT
+sequence:
+CCFRYEPWKAPIDVQERANCIIGKDYPAPMVDH
+left = AC, right =GG, stop_counter = 6
+sequence:
+CTATGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGC
+sequence:
+LCCFRYEPWKAPIDVQERANCIIGKDYPAPMVDHL
+left = AT, right =GG, stop_counter = 6
+sequence:
+TAACTATGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGCGGC
+sequence:
+*LCCFRYEPWKAPIDVQERANCIIGKDYPAPMVDHLA
+left = CG, right =GC, stop_counter = 7
+sequence:
+GAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCC
+sequence:
+EPWKAPIDVQERANCIIGKDYPA
+left = AT, right =GA, stop_counter = 7
+sequence:
+TACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGAT
+sequence:
+YEPWKAPIDVQERANCIIGKDYPAP
+left = TA, right =GG, stop_counter = 7
+sequence:
+AGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGT
+sequence:
+RYEPWKAPIDVQERANCIIGKDYPAPM
+left = TT, right =CG, stop_counter = 7
+sequence:
+TTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGA
+sequence:
+FRYEPWKAPIDVQERANCIIGKDYPAPMV
+left = TT, right =CC, stop_counter = 7
+sequence:
+TGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCA
+sequence:
+CFRYEPWKAPIDVQERANCIIGKDYPAPMVD
+left = AT, right =CC, stop_counter = 7
+sequence:
+TGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCT
+sequence:
+CCFRYEPWKAPIDVQERANCIIGKDYPAPMVDH
+left = AC, right =GG, stop_counter = 7
+sequence:
+CTATGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGC
+sequence:
+LCCFRYEPWKAPIDVQERANCIIGKDYPAPMVDHL
+left = AT, right =GG, stop_counter = 7
+sequence:
+TAACTATGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGCGGC
+sequence:
+*LCCFRYEPWKAPIDVQERANCIIGKDYPAPMVDHLA
+left = GC, right =GG, stop_counter = 8
+sequence:
+CCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGC
+sequence:
+PWKAPIDVQERANCIIGKDYP
+left = CG, right =GC, stop_counter = 8
+sequence:
+GAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCC
+sequence:
+EPWKAPIDVQERANCIIGKDYPA
+left = AT, right =GA, stop_counter = 8
+sequence:
+TACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGAT
+sequence:
+YEPWKAPIDVQERANCIIGKDYPAP
+left = TA, right =GG, stop_counter = 8
+sequence:
+AGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGT
+sequence:
+RYEPWKAPIDVQERANCIIGKDYPAPM
+left = TT, right =CG, stop_counter = 8
+sequence:
+TTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGA
+sequence:
+FRYEPWKAPIDVQERANCIIGKDYPAPMV
+left = TT, right =CC, stop_counter = 8
+sequence:
+TGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCA
+sequence:
+CFRYEPWKAPIDVQERANCIIGKDYPAPMVD
+left = AT, right =CC, stop_counter = 8
+sequence:
+TGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCT
+sequence:
+CCFRYEPWKAPIDVQERANCIIGKDYPAPMVDH
+left = AC, right =GG, stop_counter = 8
+sequence:
+CTATGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGC
+sequence:
+LCCFRYEPWKAPIDVQERANCIIGKDYPAPMVDHL
+left = AT, right =GG, stop_counter = 8
+sequence:
+TAACTATGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGCGGC
+sequence:
+*LCCFRYEPWKAPIDVQERANCIIGKDYPAPMVDHLA
+left = GT, right =CC, stop_counter = 9
+sequence:
+TGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCC
+sequence:
+WKAPIDVQERANCIIGKDY
+left = GC, right =GG, stop_counter = 9
+sequence:
+CCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGC
+sequence:
+PWKAPIDVQERANCIIGKDYP
+left = CG, right =GC, stop_counter = 9
+sequence:
+GAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCC
+sequence:
+EPWKAPIDVQERANCIIGKDYPA
+left = AT, right =GA, stop_counter = 9
+sequence:
+TACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGAT
+sequence:
+YEPWKAPIDVQERANCIIGKDYPAP
+left = TA, right =GG, stop_counter = 9
+sequence:
+AGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGT
+sequence:
+RYEPWKAPIDVQERANCIIGKDYPAPM
+left = TT, right =CG, stop_counter = 9
+sequence:
+TTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGA
+sequence:
+FRYEPWKAPIDVQERANCIIGKDYPAPMV
+left = TT, right =CC, stop_counter = 9
+sequence:
+TGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCA
+sequence:
+CFRYEPWKAPIDVQERANCIIGKDYPAPMVD
+left = AT, right =CC, stop_counter = 9
+sequence:
+TGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCT
+sequence:
+CCFRYEPWKAPIDVQERANCIIGKDYPAPMVDH
+left = AC, right =GG, stop_counter = 9
+sequence:
+CTATGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGC
+sequence:
+LCCFRYEPWKAPIDVQERANCIIGKDYPAPMVDHL
+left = AT, right =GG, stop_counter = 9
+sequence:
+TAACTATGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGCGGC
+sequence:
+*LCCFRYEPWKAPIDVQERANCIIGKDYPAPMVDHLA
+left = GA, right =CT, stop_counter = 10
+sequence:
+AAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTA
+sequence:
+KAPIDVQERANCIIGKD
+left = GT, right =CC, stop_counter = 10
+sequence:
+TGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCC
+sequence:
+WKAPIDVQERANCIIGKDY
+left = GC, right =GG, stop_counter = 10
+sequence:
+CCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGC
+sequence:
+PWKAPIDVQERANCIIGKDYP
+left = CG, right =GC, stop_counter = 10
+sequence:
+GAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCC
+sequence:
+EPWKAPIDVQERANCIIGKDYPA
+left = AT, right =GA, stop_counter = 10
+sequence:
+TACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGAT
+sequence:
+YEPWKAPIDVQERANCIIGKDYPAP
+left = TA, right =GG, stop_counter = 10
+sequence:
+AGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGT
+sequence:
+RYEPWKAPIDVQERANCIIGKDYPAPM
+left = TT, right =CG, stop_counter = 10
+sequence:
+TTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGA
+sequence:
+FRYEPWKAPIDVQERANCIIGKDYPAPMV
+left = TT, right =CC, stop_counter = 10
+sequence:
+TGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCA
+sequence:
+CFRYEPWKAPIDVQERANCIIGKDYPAPMVD
+left = AT, right =CC, stop_counter = 10
+sequence:
+TGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCT
+sequence:
+CCFRYEPWKAPIDVQERANCIIGKDYPAPMVDH
+left = AC, right =GG, stop_counter = 10
+sequence:
+CTATGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGC
+sequence:
+LCCFRYEPWKAPIDVQERANCIIGKDYPAPMVDHL
+left = AT, right =GG, stop_counter = 10
+sequence:
+TAACTATGTTGTTTTAGATACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGCGGC
+sequence:
+*LCCFRYEPWKAPIDVQERANCIIGKDYPAPMVDHLA
+left = AG, right =GG, stop_counter = 11
+sequence:
+CCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGA
+sequence:
+PIDVQERANCIIGK
+left = AG, right =CT, stop_counter = 11
+PIDVQERANCIIGK
+[[2, 2]]
+start_coordinate : 256051,stop_coordinate : 256010
+7466 7511 Y N
+Papilio_glaucus,,256008,256053,1,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_2_query_Exon_8,1,14,14,Y,N
+
+Papilio_glaucus
+Processing Exon_9
+Papilio_glaucus_coordinates_Zerene_cesonia.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 5373,5555
+after splice: 5373,5555
+sequence:
+TGGATAGAAGGCCGCACGGGTTTCCCGTTCATAGACGCGGCGATGCGGCAGCTGCGTACCGAGGGCTGGCTGCACCACGTGCTCCGGAACACGGTGGCCTCGTTCCTGACCCGCGGAACCTTGTGGATCTCCTGGGAGCACGGCTTGAAGCACTTCCTCAAGTACCTGCTCGATGCTGACTG
+sequence:
+WIEGRTGFPFIDAAMRQLRTEGWLHHVLRNTVASFLTRGTLWISWEHGLKHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WIEGRTGFPFIDAAMRQLRTEGWLHHVLRNTVASFLTRGTLWISWEHGLKHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 1234,stop_coordinate : 1413
+5373 5555 Y N
+Papilio_glaucus,,1233,1415,0,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Papilio_glaucus
+Processing Exon_10
+Papilio_glaucus_coordinates_Zerene_cesonia.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 5945,6112
+after splice: 5945,6112
+sequence:
+TCCGTGTGCGCGGGCAACTGGATGTGGGTGTCGTCGAGCGCGTTCGAGGCGCTGCTGGACTCGAGCGATTGCGCGTGCCCCGTGCGGCTCGGGCTCCGGCTCGACCCAAGCGGCGAGTACGTGCGCCGCTACGTGCCCGAGCTGGGGCAAATGCCCGTGCAGTACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSSDCACPVRLGLRLDPSGEYVRRYVPELGQMPVQY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSSDCACPVRLGLRLDPSGEYVRRYVPELGQMPVQY
+[[1, 2]]
+start_coordinate : 257573,stop_coordinate : 257409
+5945 6112 Y N
+Papilio_glaucus,,257407,257574,1,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Papilio_glaucus
+Processing Exon_11
+Papilio_glaucus_coordinates_Zerene_cesonia.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 7449,7569
+after splice: 7449,7569
+sequence:
+TACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGCGGCTGCCAACCGGAACAGGAATGCTATG
+sequence:
+YEPWKAPIDVQERANCIIGKDYPAPMVDHLAAANRNRNAM
+left = AG, right =AA, stop_counter = 0
+sequence:
+TACGAGCCGTGGAAAGCTCCCATCGATGTACAAGAGCGTGCCAACTGCATCATCGGCAAGGACTACCCGGCGCCGATGGTCGACCACCTGGCGGCTGCCAACCGGAACAGGAATGCTATGAAG
+sequence:
+YEPWKAPIDVQERANCIIGKDYPAPMVDHLAAANRNRNAMK
+left = AG, right =GT, stop_counter = 0
+YEPWKAPIDVQERANCIIGKDYPAPMVDHLAAANRNRNAMK
+[[1, 0]]
+start_coordinate : 256069,stop_coordinate : 255947
+7449 7572 Y N
+Papilio_glaucus,,255947,256070,1,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+Papilio_glaucus,Exon_6
+Papilio_glaucus,Exon_6
+Papilio_glaucus,Exon_8
+Papilio_glaucus,Exon_6
+Papilio_glaucus,Exon_8

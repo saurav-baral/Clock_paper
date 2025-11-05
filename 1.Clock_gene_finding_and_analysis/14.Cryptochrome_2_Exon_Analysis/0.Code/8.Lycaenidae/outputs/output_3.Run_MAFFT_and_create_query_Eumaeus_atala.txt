@@ -1,0 +1,456 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = JAFELO010000261.1, start = 673085, end = 673311
+Eumaeus_atala,JAFELO010000261.1,674392,674643,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Eumaeus_atala,JAFELO010000261.1,673085,673311,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_1,1,86,86
+
+Eumaeus_atala,JAFELO010000261.1,676801,676972,0,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set27_frame0, 0.269
+5 top scores:
+[['set1_frame0', 1.876], ['set27_frame0', 0.269], ['set38_frame0', 1.882], ['set15_frame1', 1.903], ['set38_frame1', 1.915]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Eumaeus_atala/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_27_frame0.fa.txt
+6 89
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDKNLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIQVTSRVSHTLYKLD
+6 89
+set27_frame0
+FLLQCLQDLDSSLKKLNSRLFVVRGQPADALPKLFREWGTNFLTYEEDPEPYGRVRDQNITTKCHEVGISVVSRVSHTLYNLD
+Original query = FLLQCLEDLDKNLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIQVTSRVSHTLYKLD
+New query = FLLQCLQDLDSSLKKLNSRLFVVRGQPADALPKLFREWGTNFLTYEEDPEPYGRVRDQNITTKCHEVGISVVSRVSHTLYNLD
+Scaffold = JAFELO010000261.1, start = 673085, end = 673311
+Eumaeus_atala,JAFELO010000261.1,675124,675308,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Eumaeus_atala,JAFELO010000261.1,673085,673311,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_1,1,86,86
+
+Eumaeus_atala,JAFELO010000261.1,677195,677420,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set38_frame0, 0.379
+5 top scores:
+[['set74_frame1', 1.757], ['set30_frame2', 1.834], ['set38_frame0', 0.379], ['set32_frame2', 1.845], ['set73_frame0', 1.828]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Eumaeus_atala/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_38_frame0.fa.txt
+20 81
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3
+IIEKNGGKAPLTYHQFQALIASMPPPPSAEPTISLETLNRAVTPISDNHDERFGVPTLEEL
+20 81
+set38_frame0
+IIERNGGKAPLTYHQFQAIIASMPQPAAAESTITLETLNGATTPILSDHDERFGVPTLEEL
+Original query = IIEKNGGKAPLTYHQFQALIASMPPPPSAEPTISLETLNRAVTPISDNHDERFGVPTLEEL
+New query = IIERNGGKAPLTYHQFQAIIASMPQPAAAESTITLETLNGATTPILSDHDERFGVPTLEEL
+Scaffold = JAFELO010000261.1, start = 673085, end = 673311
+Eumaeus_atala,JAFELO010000261.1,676801,676972,0,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Eumaeus_atala,JAFELO010000261.1,674392,674643,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Eumaeus_atala,JAFELO010000261.1,678096,678236,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set48_frame2, 0.154
+5 top scores:
+[['set48_frame2', 0.154], ['set6_frame0', 1.763], ['set64_frame2', 1.806], ['set1_frame1', 1.834], ['set12_frame0', 1.827]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Eumaeus_atala/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_48_frame2.fa.txt
+1 57
+Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4
+FDTEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPESLLSSQTGLSPYL
+1 57
+set48_frame2
+FETEGLRPPVWIGGENEALARLERHLERKAWVATFGRPKMTPQSLMASQTGLSPYL
+Original query = FDTEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPESLLSSQTGLSPYL
+New query = FETEGLRPPVWIGGENEALARLERHLERKAWVATFGRPKMTPQSLMASQTGLSPYL
+Scaffold = JAFELO010000261.1, start = 673085, end = 673311
+Eumaeus_atala,JAFELO010000261.1,677195,677420,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Eumaeus_atala,JAFELO010000261.1,675124,675308,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Eumaeus_atala,JAFELO010000261.1,681191,681342,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set42_frame2, 0.263
+5 top scores:
+[['set55_frame2', 1.852], ['set62_frame2', 1.886], ['set6_frame2', 1.872], ['set39_frame2', 1.844], ['set42_frame2', 0.263]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Eumaeus_atala/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_42_frame2.fa.txt
+28 103
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAN
+28 103
+set42_frame2
+FGCLSTRLFYFQLTELYKKVKGVPPPLSLHGQILWREFFYCAATRNPNFDRMEGNSICVQIPWEKNPEALAKWAS
+Original query = FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAN
+New query = FGCLSTRLFYFQLTELYKKVKGVPPPLSLHGQILWREFFYCAATRNPNFDRMEGNSICVQIPWEKNPEALAKWAS
+Scaffold = JAFELO010000261.1, start = 673085, end = 673311
+Eumaeus_atala,JAFELO010000261.1,678096,678236,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Eumaeus_atala,JAFELO010000261.1,676801,676972,0,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Eumaeus_atala,JAFELO010000261.1,681689,681891,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set17_frame2, 0.114
+5 top scores:
+[['set17_frame2', 0.114], ['set34_frame2', 1.779], ['set10_frame2', 1.801], ['set34_frame0', 1.812], ['set38_frame0', 1.752]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Eumaeus_atala/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_17_frame2.fa.txt
+3 50
+Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6
+GQTGFPWIDAIMIQLRNDGWIHHLARHAVACFLTRGDLWISWEEGMK
+3 50
+set17_frame2
+GQTGFPWIDAIMLQLRLEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GQTGFPWIDAIMIQLRNDGWIHHLARHAVACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDAIMLQLRLEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = JAFELO010000261.1, start = 673085, end = 673311
+Eumaeus_atala,JAFELO010000261.1,681191,681342,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Eumaeus_atala,JAFELO010000261.1,677195,677420,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Eumaeus_atala,JAFELO010000261.1,681689,681891,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set107_frame0, 0.0
+5 top scores:
+[['set14_frame1', 1.735], ['set48_frame2', 1.787], ['set32_frame1', 1.819], ['set75_frame0', 1.772], ['set107_frame0', 0.0]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Eumaeus_atala/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_107_frame0.fa.txt
+0 50
+Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+0 50
+set107_frame0
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = JAFELO010000261.1, start = 673085, end = 673311
+Eumaeus_atala,JAFELO010000261.1,681689,681891,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Eumaeus_atala,JAFELO010000261.1,678096,678236,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Eumaeus_atala,JAFELO010000261.1,681689,681891,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set65_frame0, 0.408
+5 top scores:
+[['set68_frame1', 1.829], ['set8_frame0', 1.868], ['set27_frame2', 1.875], ['set65_frame0', 0.408], ['set16_frame1', 1.828]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Eumaeus_atala/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_65_frame0.fa.txt
+15 81
+set65_frame0
+KYIPALKNMPSQYIHEPWVAPQAVQESAKCIIGKDYPIPMVDHAKISQINIERIKQVYTQLATYKP
+Original query = KYIPVLKNMPTRYIHEPWVCPEEIQKSIRCIIGKDYPMPIVDHTKASEINLERIKQVYAQLAKFKPQ
+New query = KYIPALKNMPSQYIHEPWVAPQAVQESAKCIIGKDYPIPMVDHAKISQINIERIKQVYTQLATYKP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = JAFELO010000261.1, start = 673085, end = 673311
+Eumaeus_atala,JAFELO010000261.1,674392,674643,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Eumaeus_atala,JAFELO010000261.1,673085,673311,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_1,1,86,86
+
+Eumaeus_atala,JAFELO010000261.1,676801,676972,0,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set27_frame0, 0.108
+5 top scores:
+[['set1_frame0', 1.866], ['set27_frame0', 0.108], ['set38_frame0', 1.89], ['set15_frame1', 1.891], ['set38_frame1', 1.915]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Eumaeus_atala/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_27_frame0.fa.txt
+6 89
+Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDNSLKKLNSRLFVVRGQPADALPKLFREWGTTFLTFEEDPEPYGRVRDQNITTKCQEVGISVVSRVSHTLYKLD
+6 89
+set27_frame0
+FLLQCLQDLDSSLKKLNSRLFVVRGQPADALPKLFREWGTNFLTYEEDPEPYGRVRDQNITTKCHEVGISVVSRVSHTLYNLD
+Original query = FLLQCLEDLDNSLKKLNSRLFVVRGQPADALPKLFREWGTTFLTFEEDPEPYGRVRDQNITTKCQEVGISVVSRVSHTLYKLD
+New query = FLLQCLQDLDSSLKKLNSRLFVVRGQPADALPKLFREWGTNFLTYEEDPEPYGRVRDQNITTKCHEVGISVVSRVSHTLYNLD
+Scaffold = JAFELO010000261.1, start = 673085, end = 673311
+Eumaeus_atala,JAFELO010000261.1,675124,675308,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Eumaeus_atala,JAFELO010000261.1,673085,673311,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_1,1,86,86
+
+Eumaeus_atala,JAFELO010000261.1,677195,677420,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set38_frame0, 0.274
+5 top scores:
+[['set38_frame1', 1.781], ['set74_frame1', 1.789], ['set38_frame0', 0.274], ['set30_frame2', 1.82], ['set73_frame0', 1.828]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Eumaeus_atala/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_38_frame0.fa.txt
+20 81
+Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3
+IIERNGGKAPLTYHQFQALIASMPPPPAAESTITKQTLNGAMTPILQDHDDRFGVPTLEEL
+20 81
+set38_frame0
+IIERNGGKAPLTYHQFQAIIASMPQPAAAESTITLETLNGATTPILSDHDERFGVPTLEEL
+Original query = IIERNGGKAPLTYHQFQALIASMPPPPAAESTITKQTLNGAMTPILQDHDDRFGVPTLEEL
+New query = IIERNGGKAPLTYHQFQAIIASMPQPAAAESTITLETLNGATTPILSDHDERFGVPTLEEL
+Scaffold = JAFELO010000261.1, start = 673085, end = 673311
+Eumaeus_atala,JAFELO010000261.1,676801,676972,0,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Eumaeus_atala,JAFELO010000261.1,674392,674643,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Eumaeus_atala,JAFELO010000261.1,678096,678236,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set48_frame2, 0.133
+5 top scores:
+[['set48_frame2', 0.133], ['set6_frame0', 1.756], ['set10_frame2', 1.825], ['set41_frame2', 1.829], ['set64_frame2', 1.833]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Eumaeus_atala/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_48_frame2.fa.txt
+1 57
+Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4
+FDTENLKPPIWIGGENEALARLERHLERKAWVATFGRPKMTPQSLLASSTGLSPYL
+1 57
+set48_frame2
+FETEGLRPPVWIGGENEALARLERHLERKAWVATFGRPKMTPQSLMASQTGLSPYL
+Original query = FDTENLKPPIWIGGENEALARLERHLERKAWVATFGRPKMTPQSLLASSTGLSPYL
+New query = FETEGLRPPVWIGGENEALARLERHLERKAWVATFGRPKMTPQSLMASQTGLSPYL
+Scaffold = JAFELO010000261.1, start = 673085, end = 673311
+Eumaeus_atala,JAFELO010000261.1,677195,677420,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Eumaeus_atala,JAFELO010000261.1,675124,675308,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Eumaeus_atala,JAFELO010000261.1,681191,681342,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set42_frame2, 0.17
+5 top scores:
+[['set55_frame2', 1.849], ['set62_frame2', 1.886], ['set6_frame2', 1.872], ['set39_frame2', 1.837], ['set42_frame2', 0.17]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Eumaeus_atala/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_42_frame2.fa.txt
+28 103
+Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYFQLTELYKRVKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+28 103
+set42_frame2
+FGCLSTRLFYFQLTELYKKVKGVPPPLSLHGQILWREFFYCAATRNPNFDRMEGNSICVQIPWEKNPEALAKWAS
+Original query = FGCLSTRLFYFQLTELYKRVKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALAKWAN
+New query = FGCLSTRLFYFQLTELYKKVKGVPPPLSLHGQILWREFFYCAATRNPNFDRMEGNSICVQIPWEKNPEALAKWAS
+Scaffold = JAFELO010000261.1, start = 673085, end = 673311
+Eumaeus_atala,JAFELO010000261.1,678096,678236,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Eumaeus_atala,JAFELO010000261.1,676801,676972,0,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Eumaeus_atala,JAFELO010000261.1,681689,681891,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set17_frame2, 0.086
+5 top scores:
+[['set17_frame2', 0.086], ['set34_frame2', 1.783], ['set1_frame2', 1.817], ['set34_frame0', 1.812], ['set38_frame0', 1.752]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Eumaeus_atala/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_17_frame2.fa.txt
+3 50
+Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6
+GQTGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMK
+3 50
+set17_frame2
+GQTGFPWIDAIMLQLRLEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GQTGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDAIMLQLRLEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = JAFELO010000261.1, start = 673085, end = 673311
+Eumaeus_atala,JAFELO010000261.1,681191,681342,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Eumaeus_atala,JAFELO010000261.1,677195,677420,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Eumaeus_atala,JAFELO010000261.1,681689,681891,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set107_frame0, 0.0
+5 top scores:
+[['set14_frame1', 1.735], ['set48_frame2', 1.787], ['set32_frame1', 1.819], ['set75_frame0', 1.772], ['set107_frame0', 0.0]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Eumaeus_atala/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_107_frame0.fa.txt
+0 50
+Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+0 50
+set107_frame0
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = JAFELO010000261.1, start = 673085, end = 673311
+Eumaeus_atala,JAFELO010000261.1,681689,681891,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Eumaeus_atala,JAFELO010000261.1,678096,678236,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Eumaeus_atala,JAFELO010000261.1,681689,681891,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set65_frame0, 0.242
+5 top scores:
+[['set68_frame1', 1.821], ['set27_frame2', 1.823], ['set54_frame2', 1.859], ['set65_frame0', 0.242], ['set16_frame1', 1.845]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Eumaeus_atala/Period_gene_genomic_sequence_individual_exon_Aricia_agestis/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_65_frame0.fa.txt
+15 81
+set65_frame0
+KYIPALKNMPSQYIHEPWVAPQAVQESAKCIIGKDYPIPMVDHAKISQINIERIKQVYTQLATYKP
+Original query = KYIPALKNMPAKYIHEPWVAPQPVQEAAQCIIGRDYPLPMVDHAKASKINIERIKQVYEQLAKYKPQ
+New query = KYIPALKNMPSQYIHEPWVAPQAVQESAKCIIGKDYPIPMVDHAKISQINIERIKQVYTQLATYKP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = JAFELO010000261.1, start = 673085, end = 673311
+Eumaeus_atala,JAFELO010000261.1,674392,674643,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Eumaeus_atala,JAFELO010000261.1,673085,673311,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_1,1,86,86
+
+Eumaeus_atala,JAFELO010000261.1,676801,676972,0,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set27_frame0, 0.192
+5 top scores:
+[['set1_frame0', 1.856], ['set27_frame0', 0.192], ['set38_frame0', 1.881], ['set15_frame1', 1.899], ['set38_frame1', 1.915]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Eumaeus_atala/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_27_frame0.fa.txt
+6 89
+Maniola_jurtina_XM_045904525.1_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDSSLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGISVTSRVSHTLYKLD
+6 89
+set27_frame0
+FLLQCLQDLDSSLKKLNSRLFVVRGQPADALPKLFREWGTNFLTYEEDPEPYGRVRDQNITTKCHEVGISVVSRVSHTLYNLD
+Original query = FLLQCLEDLDSSLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGISVTSRVSHTLYKLD
+New query = FLLQCLQDLDSSLKKLNSRLFVVRGQPADALPKLFREWGTNFLTYEEDPEPYGRVRDQNITTKCHEVGISVVSRVSHTLYNLD
+Scaffold = JAFELO010000261.1, start = 673085, end = 673311
+Eumaeus_atala,JAFELO010000261.1,675124,675308,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Eumaeus_atala,JAFELO010000261.1,673085,673311,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_1,1,86,86
+
+Eumaeus_atala,JAFELO010000261.1,677195,677420,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set38_frame0, 0.368
+5 top scores:
+[['set38_frame1', 1.752], ['set74_frame1', 1.798], ['set38_frame0', 0.368], ['set71_frame1', 1.831], ['set73_frame0', 1.828]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Eumaeus_atala/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_38_frame0.fa.txt
+20 81
+Maniola_jurtina_XM_045904525.1_Frame_1_rightoh_1_query_Exon_3
+IIERNGGKAPLTYHQFQALIASMPPPPPAEASITVQTLNGAVTPIADDHDDRFGVPSLEEL
+20 81
+set38_frame0
+IIERNGGKAPLTYHQFQAIIASMPQPAAAESTITLETLNGATTPILSDHDERFGVPTLEEL
+Original query = IIERNGGKAPLTYHQFQALIASMPPPPPAEASITVQTLNGAVTPIADDHDDRFGVPSLEEL
+New query = IIERNGGKAPLTYHQFQAIIASMPQPAAAESTITLETLNGATTPILSDHDERFGVPTLEEL
+Scaffold = JAFELO010000261.1, start = 673085, end = 673311
+Eumaeus_atala,JAFELO010000261.1,676801,676972,0,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Eumaeus_atala,JAFELO010000261.1,674392,674643,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Eumaeus_atala,JAFELO010000261.1,678096,678236,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set48_frame2, 0.133
+5 top scores:
+[['set48_frame2', 0.133], ['set6_frame0', 1.763], ['set64_frame2', 1.806], ['set70_frame1', 1.823], ['set12_frame0', 1.832]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Eumaeus_atala/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_48_frame2.fa.txt
+1 57
+Maniola_jurtina_XM_045904525.1_Frame_2_rightoh_2_query_Exon_4
+FETEGLKPPIWVGGENEGLLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+1 57
+set48_frame2
+FETEGLRPPVWIGGENEALARLERHLERKAWVATFGRPKMTPQSLMASQTGLSPYL
+Original query = FETEGLKPPIWVGGENEGLLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+New query = FETEGLRPPVWIGGENEALARLERHLERKAWVATFGRPKMTPQSLMASQTGLSPYL
+Scaffold = JAFELO010000261.1, start = 673085, end = 673311
+Eumaeus_atala,JAFELO010000261.1,677195,677420,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Eumaeus_atala,JAFELO010000261.1,675124,675308,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Eumaeus_atala,JAFELO010000261.1,681191,681342,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set42_frame2, 0.2
+5 top scores:
+[['set55_frame2', 1.869], ['set85_frame1', 1.864], ['set62_frame2', 1.882], ['set39_frame2', 1.837], ['set42_frame2', 0.2]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Eumaeus_atala/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_42_frame2.fa.txt
+28 103
+Maniola_jurtina_XM_045904525.1_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLTELYKRVKQVRPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQDALAKWAS
+28 103
+set42_frame2
+FGCLSTRLFYFQLTELYKKVKGVPPPLSLHGQILWREFFYCAATRNPNFDRMEGNSICVQIPWEKNPEALAKWAS
+Original query = FGCLSTRLFYYQLTELYKRVKQVRPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQDALAKWAS
+New query = FGCLSTRLFYFQLTELYKKVKGVPPPLSLHGQILWREFFYCAATRNPNFDRMEGNSICVQIPWEKNPEALAKWAS
+Scaffold = JAFELO010000261.1, start = 673085, end = 673311
+Eumaeus_atala,JAFELO010000261.1,678096,678236,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Eumaeus_atala,JAFELO010000261.1,676801,676972,0,N,Aricia_agestis_XM_042118800.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Eumaeus_atala,JAFELO010000261.1,681689,681891,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set17_frame2, 0.096
+5 top scores:
+[['set17_frame2', 0.096], ['set34_frame2', 1.779], ['set81_frame2', 1.806], ['set34_frame0', 1.812], ['set38_frame0', 1.745]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Eumaeus_atala/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_17_frame2.fa.txt
+3 50
+Maniola_jurtina_XM_045904525.1_Frame_0_rightoh_0_query_Exon_6
+GKTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+3 50
+set17_frame2
+GQTGFPWIDAIMLQLRLEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GKTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDAIMLQLRLEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = JAFELO010000261.1, start = 673085, end = 673311
+Eumaeus_atala,JAFELO010000261.1,681191,681342,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Eumaeus_atala,JAFELO010000261.1,677195,677420,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Eumaeus_atala,JAFELO010000261.1,681689,681891,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set107_frame0, 0.0
+5 top scores:
+[['set14_frame1', 1.735], ['set48_frame2', 1.787], ['set32_frame1', 1.819], ['set75_frame0', 1.772], ['set107_frame0', 0.0]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Eumaeus_atala/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_107_frame0.fa.txt
+0 50
+Maniola_jurtina_XM_045904525.1_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+0 50
+set107_frame0
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = JAFELO010000261.1, start = 673085, end = 673311
+Eumaeus_atala,JAFELO010000261.1,681689,681891,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Eumaeus_atala,JAFELO010000261.1,678096,678236,0,N,Aricia_agestis_XM_042118800.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Eumaeus_atala,JAFELO010000261.1,681689,681891,0,N,Aricia_agestis_XM_042118800.1_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set65_frame0, 0.415
+5 top scores:
+[['set27_frame2', 1.829], ['set8_frame0', 1.811], ['set68_frame1', 1.856], ['set65_frame0', 0.415], ['set16_frame1', 1.864]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Eumaeus_atala/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_65_frame0.fa.txt
+15 81
+set65_frame0
+KYIPALKNMPSQYIHEPWVAPQAVQESAKCIIGKDYPIPMVDHAKISQINIERIKQVYTQLATYKP
+Original query = KYIPALKNMPTRYIHEPWQAPAAVQEAARCLVGRDYPMPIVDHHKASQTNIERIKQVYAQLAKFKPP
+New query = KYIPALKNMPSQYIHEPWVAPQAVQESAKCIIGKDYPIPMVDHAKISQINIERIKQVYTQLATYKP

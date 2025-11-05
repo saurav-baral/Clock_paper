@@ -1,0 +1,1795 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5556945,5557128,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Troides_oblongomaculatus,JARDWC010000432.1,5556529,5556782,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Troides_oblongomaculatus,JARDWC010000432.1,5557475,5557731,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set6_frame0, 0.366
+5 top scores:
+[['set1_frame0', 1.83], ['set6_frame0', 0.366], ['set7_frame0', 1.763], ['set34_frame1', 1.806]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_6_frame0.fa.txt
+8 69
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPVERNDRHNYLQILSHLQSYKEDAFTKVENWQVFAKKLGKVLEI
+8 69
+set6_frame0
+LLVNLTNPALLLYREEEPIELTARHNYMQILDHLQNYKEEAFTKVETWQVFSKKLAKILEI
+Original query = LIVNLTNPALLLYREEVPVERNDRHNYLQILSHLQSYKEDAFTKVENWQVFAKKLGKVLEI
+New query = LLVNLTNPALLLYREEEPIELTARHNYMQILDHLQNYKEEAFTKVETWQVFSKKLAKILEI
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5557207,5557341,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Troides_oblongomaculatus,JARDWC010000432.1,5556529,5556782,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Troides_oblongomaculatus,JARDWC010000432.1,5558413,5558610,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set7_frame0, 0.097
+5 top scores:
+[['set34_frame1', 1.738], ['set6_frame0', 1.802], ['set7_frame0', 0.097], ['set9_frame0', 1.806], ['set57_frame2', 1.815]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_7_frame0.fa.txt
+0 45
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+0 45
+set7_frame0
+DWSERDEDTGLIIERILILIRNVIHVPADLDKEKRPENDANIHDQ
+Original query = DWSERDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+New query = DWSERDEDTGLIIERILILIRNVIHVPADLDKEKRPENDANIHDQ
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5557475,5557731,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Troides_oblongomaculatus,JARDWC010000432.1,5556945,5557128,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Troides_oblongomaculatus,JARDWC010000432.1,5558795,5558977,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set19_frame2, 0.301
+5 top scores:
+[['set54_frame0', 1.842], ['set1_frame1', 1.854], ['set19_frame2', 0.301], ['set40_frame2', 1.828]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_19_frame2.fa.txt
+9 94
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPSSLADAALQRSVDEKVRDDQELLMIRMTENKDRMNKIRHYSST
+9 94
+set19_frame2
+VLWALNQSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLANAALQRSMDEKLRDEQELLTIRCKETNDRLNKIKQYSAT
+Original query = VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPSSLADAALQRSVDEKVRDDQELLMIRMTENKDRMNKIRHYSST
+New query = VLWALNQSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLANAALQRSMDEKLRDEQELLTIRCKETNDRLNKIKQYSAT
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5558413,5558610,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Troides_oblongomaculatus,JARDWC010000432.1,5557207,5557341,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Troides_oblongomaculatus,JARDWC010000432.1,5560600,5560887,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set29_frame1, 0.198
+5 top scores:
+[['set1_frame0', 1.813], ['set55_frame0', 1.775], ['set44_frame2', 1.821], ['set29_frame1', 0.198], ['set77_frame2', 1.838]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_29_frame1.fa.txt
+8 73
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVQNMKSISDNELICLKPLNKISNLDFNGSKKQKLVKPKNRRPTESGTMERRSAFAI
+8 73
+set29_frame1
+HSRFGGTYVVQNMKSISDNEIICLKPLNKISSLDFNGSKKSKLVKPKNMRPVESGLLERRSAFAV
+Original query = HSRFGGTYVVQNMKSISDNELICLKPLNKISNLDFNGSKKQKLVKPKNRRPTESGTMERRSAFAI
+New query = HSRFGGTYVVQNMKSISDNEIICLKPLNKISSLDFNGSKKSKLVKPKNMRPVESGLLERRSAFAV
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5558795,5558977,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+9
+Troides_oblongomaculatus,JARDWC010000432.1,5557475,5557731,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Troides_oblongomaculatus,JARDWC010000432.1,5564168,5564324,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+Getting Gene
+min = set35_frame1, 0.124
+5 top scores:
+[['set35_frame1', 0.124], ['set53_frame2', 1.76], ['set137_frame2', 1.77], ['set83_frame0', 1.752], ['set142_frame0', 1.842]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_35_frame1.fa.txt
+28 88
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNVLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRAHDFQVGFV
+28 88
+set35_frame1
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRGHNFQVGLV
+Original query = LFLKEFCIEFLNSSYNVLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRAHDFQVGFV
+New query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRGHNFQVGLV
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5560600,5560887,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Troides_oblongomaculatus,JARDWC010000432.1,5558413,5558610,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Troides_oblongomaculatus,JARDWC010000432.1,5564168,5564324,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+Getting Gene
+min = set62_frame1, 0.195
+5 top scores:
+[['set110_frame0', 1.841], ['set62_frame1', 0.195], ['set121_frame1', 1.872], ['set12_frame2', 1.819]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_62_frame1.fa.txt
+18 113
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQMEKYYDMISVEKKKFTNWVRRLHLALRAYKELLHTLLAMDASKDHTVRESAKVLKSNIFYVLEYREFILSMYLNYDENKMP
+18 113
+set62_frame1
+ETMSVPMFHYVQQQMEKYYDMIKVEKKKFSSWVRRLHLALRAYKELLHTLLAMDKSTDPTVKESAKVLKSNIFYVLEYREFILTTFLNYDDNKMP
+Original query = ETMSVPMFHYVQQQMEKYYDMISVEKKKFTNWVRRLHLALRAYKELLHTLLAMDASKDHTVRESAKVLKSNIFYVLEYREFILSMYLNYDENKMP
+New query = ETMSVPMFHYVQQQMEKYYDMIKVEKKKFSSWVRRLHLALRAYKELLHTLLAMDKSTDPTVKESAKVLKSNIFYVLEYREFILTTFLNYDDNKMP
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5561537,5561655,0,Y,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_8,1,29,39
+
+6
+10
+Troides_oblongomaculatus,JARDWC010000432.1,5558795,5558977,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Troides_oblongomaculatus,JARDWC010000432.1,5564505,5564585,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set57_frame1, 0.084
+5 top scores:
+[['set57_frame1', 0.084], ['set97_frame2', 1.675], ['set63_frame2', 1.726], ['set103_frame1', 1.729], ['set110_frame1', 1.748]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_57_frame1.fa.txt
+8 47
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLVETVHLFLKMLEHYCKRTGLVVQKKVRKKTKAK
+8 47
+set57_frame1
+SYLVDLVETVHLFLKMLEYYCKRTGLVVQKKVRKKSKAK
+Original query = SYLVDLVETVHLFLKMLEHYCKRTGLVVQKKVRKKTKAK
+New query = SYLVDLVETVHLFLKMLEYYCKRTGLVVQKKVRKKSKAK
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5564168,5564324,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+7
+11
+Troides_oblongomaculatus,JARDWC010000432.1,5560600,5560887,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Troides_oblongomaculatus,JARDWC010000432.1,5565012,5565121,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Getting Gene
+min = set67_frame0, 0.666
+5 top scores:
+[['set1_frame1', 1.739], ['set73_frame1', 1.757], ['set53_frame2', 1.764], ['set53_frame0', 1.662], ['set67_frame0', 0.666]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_67_frame0.fa.txt
+10 58
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9
+QKPKIKPKVIELSPWEEIRPQLAAVLSSGVEHYLPPFDAASETPIDQQ
+10 58
+set67_frame0
+QRPKIVP--VEVPPWDELRPQIACVLSVGLEEYPPPFDAASDVPIDEQ
+Original query = QKPKIKPKVIELSPWEEIRPQLAAVLSSGVEHYLPPFDAASETPIDQQ
+New query = QRPKIVP--VEVPPWDELRPQIACVLSVGLEEYPPPFDAASDVPIDEQ
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5564505,5564585,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+7
+12
+13
+14
+Troides_oblongomaculatus,JARDWC010000432.1,5560600,5560887,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Troides_oblongomaculatus,JARDWC010000432.1,5566846,5567044,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set73_frame0, 0.256
+5 top scores:
+[['set73_frame0', 0.256], ['set90_frame0', 1.603], ['set39_frame2', 1.659], ['set100_frame1', 1.677], ['set72_frame2', 1.68]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_73_frame0.fa.txt
+7 33
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQRLMRDHKYEDVIGTFRAA
+7 33
+set73_frame0
+EDCMKKIQKLMREYKYEDAVGTFRAA
+Original query = EDCMKKIQRLMRDHKYEDVIGTFRAA
+New query = EDCMKKIQKLMREYKYEDAVGTFRAA
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5565012,5565121,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+9
+13
+14
+Troides_oblongomaculatus,JARDWC010000432.1,5564168,5564324,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+Troides_oblongomaculatus,JARDWC010000432.1,5566846,5567044,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set19_frame2, 0.433
+5 top scores:
+[['set19_frame2', 0.433], ['set60_frame2', 1.717], ['set27_frame0', 1.771], ['set1_frame2', 1.772], ['set61_frame0', 1.778]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_19_frame2.fa.txt
+19 55
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEDGIFGVSGMPEDEELDMLETIYNTDLGLDYE
+19 55
+set19_frame2
+EVWPEEGIFGVSGIAEDEELDMLQTIYSTDLGVEVN
+Original query = EVWPEDGIFGVSGMPEDEELDMLETIYNTDLGLDYE
+New query = EVWPEEGIFGVSGIAEDEELDMLQTIYSTDLGVEVN
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,0,0,0,Y,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_12,0,0,17
+
+10
+14
+Troides_oblongomaculatus,JARDWC010000432.1,5564505,5564585,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Troides_oblongomaculatus,JARDWC010000432.1,5566846,5567044,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set25_frame0, 1.129
+5 top scores:
+[['set25_frame0', 1.129], ['set65_frame0', 1.391], ['set49_frame2', 1.48], ['set13_frame1', 1.51], ['set53_frame2', 1.553]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_25_frame0.fa.txt
+16 30
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_12
+AQHEDAQEYSEDED
+16 30
+set25_frame0
+ADVPEKQDYSEDDL
+Original query = AQHEDAQEYSEDED
+New query = ADVPEKQDYSEDDL
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5566368,5566437,0,Y,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,6,22,22
+
+11
+15
+Troides_oblongomaculatus,JARDWC010000432.1,5565012,5565121,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Troides_oblongomaculatus,JARDWC010000432.1,5567661,5567809,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set37_frame2, 0.572
+5 top scores:
+[['set37_frame2', 0.572], ['set34_frame1', 1.578], ['set63_frame2', 1.606], ['set42_frame1', 1.678], ['set66_frame2', 1.683]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_37_frame2.fa.txt
+4 25
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13
+EDEEQGSAIVETDFDFQDFVL
+4 25
+set37_frame2
+EEEDTSTAVVETDFDFRDFVQ
+Original query = EDEEQGSAIVETDFDFQDFVL
+New query = EEEDTSTAVVETDFDFRDFVQ
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5566846,5567044,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Troides_oblongomaculatus,JARDWC010000432.1,5565012,5565121,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Troides_oblongomaculatus,JARDWC010000432.1,5568229,5568323,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,29,31
+
+Getting Gene
+min = set55_frame2, 0.465
+5 top scores:
+[['set70_frame2', 1.815], ['set27_frame1', 1.854], ['set60_frame1', 1.871], ['set55_frame2', 0.465], ['set66_frame2', 1.828]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_55_frame2.fa.txt
+4 70
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14
+FCHPKIVSACVCLLERYDKNRSHTNHCIVKMLHRIAFDCNRPAMMFQATLFLTFQKILHNPMPHLK
+4 70
+set55_frame2
+FCHPRVVSACTSLLERYENNLPHTNHCIIKMLHRIAWDCRRPSMMFQATLFLTLQKIFHNSSPPFK
+Original query = FCHPKIVSACVCLLERYDKNRSHTNHCIVKMLHRIAFDCNRPAMMFQATLFLTFQKILHNPMPHLK
+New query = FCHPRVVSACTSLLERYENNLPHTNHCIIKMLHRIAWDCRRPSMMFQATLFLTLQKIFHNSSPPFK
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5567661,5567809,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+12
+11
+17
+Troides_oblongomaculatus,JARDWC010000432.1,5565012,5565121,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Troides_oblongomaculatus,JARDWC010000432.1,5568901,5569110,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,69,69
+
+Getting Gene
+min = set65_frame0, 0.371
+5 top scores:
+[['set7_frame0', 1.74], ['set41_frame2', 1.746], ['set65_frame0', 0.371], ['set91_frame0', 1.775], ['set60_frame1', 1.811]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_65_frame0.fa.txt
+14 62
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFAIFILRKFADIASKSGKVFIELLFWKNSKDAVEIEHGYNLYND
+14 62
+set65_frame0
+ELEKFGLFIFRKFAEIASKNTKVFIELLFWKSSKDAIEVEHGYDLYTD
+Original query = ELEKFAIFILRKFADIASKSGKVFIELLFWKNSKDAVEIEHGYNLYNDP
+New query = ELEKFGLFIFRKFAEIASKNTKVFIELLFWKSSKDAIEVEHGYDLYTD
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5568229,5568323,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,29,31
+
+14
+18
+Troides_oblongomaculatus,JARDWC010000432.1,5566846,5567044,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Troides_oblongomaculatus,JARDWC010000432.1,5570605,5570769,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,53,53
+
+Getting Gene
+min = set25_frame1, 0.603
+5 top scores:
+[['set25_frame1', 0.603], ['set45_frame2', 1.654], ['set77_frame1', 1.718], ['set82_frame1', 1.732], ['set55_frame1', 1.754]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_25_frame1.fa.txt
+7 38
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16
+DKLGKASWSEEQEDELRNLYMENQTNPQTDQ
+7 38
+set25_frame1
+DKMGKGLWTEEQEGELRNLFMENQSNSKTNI
+Original query = DKLGKASWSEEQEDELRNLYMENQTNPQTDQ
+New query = DKMGKGLWTEEQEGELRNLFMENQSNSKTNI
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5568901,5569110,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,69,69
+
+15
+19
+20
+Troides_oblongomaculatus,JARDWC010000432.1,5567661,5567809,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Troides_oblongomaculatus,JARDWC010000432.1,5572580,5572776,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set27_frame0, 0.543
+5 top scores:
+[['set27_frame0', 0.543], ['set96_frame0', 1.737], ['set66_frame0', 1.731], ['set103_frame2', 1.757], ['set73_frame1', 1.804]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_27_frame0.fa.txt
+14 83
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFNAPTKKSNKAR-TEKVTKDFTEEEDKLLTELWTQNAESQ
+14 83
+set27_frame0
+VIDWILENLIDQTRTRRGVIKKLKELGLIFKAPTKRINRERLTERVPKEFSEEEDSMLIDLWKQFADSA
+Original query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFNAPTKKSNKARTEKVTKDFTEEEDKLLTELWTQNAESQ
+New query = VIDWILENLIDQTRTRRGVIKKLKELGLIFKAPTKRINRERLTERVPKEFSEEEDSMLIDLWKQFADSA
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5570605,5570769,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,53,53
+
+16
+20
+Troides_oblongomaculatus,JARDWC010000432.1,5568229,5568323,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,29,31
+
+Troides_oblongomaculatus,JARDWC010000432.1,5572580,5572776,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set53_frame2, 0.773
+5 top scores:
+[['set53_frame2', 0.773], ['set83_frame2', 1.714], ['set45_frame2', 1.769], ['set60_frame2', 1.769], ['set77_frame2', 1.791]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_53_frame2.fa.txt
+6 49
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18
+PMSVIMERMPRNRSKRTFVERLLRLGLIDDKKQCRKKSIKNIS
+6 49
+set53_frame2
+PMGLIIPRMPRKRPRSSFVERLLELDLIQDKKQCRKRKRPNSK
+Original query = PMSVIMERMPRNRSKRTFVERLLRLGLIDDKKQCRKKSIKNISG
+New query = PMGLIIPRMPRKRPRSSFVERLLELDLIQDKKQCRKRKRPNSK
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5572002,5572196,0,Y,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_19,15,62,64
+
+17
+21
+Troides_oblongomaculatus,JARDWC010000432.1,5568901,5569110,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,69,69
+
+Troides_oblongomaculatus,JARDWC010000432.1,5573341,5573773,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+Getting Gene
+min = set82_frame1, 1.093
+5 top scores:
+[['set82_frame1', 1.093], ['set40_frame2', 1.711], ['set48_frame2', 1.799], ['set102_frame0', 1.738], ['set107_frame0', 1.688]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_82_frame1.fa.txt
+11 77
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19
+NSSDSESSKSEDEDA-----PPKRPTIKIKSKKNLTKSKQSNKKSAESLELSANEIAELLVQAVEN
+11 77
+set82_frame1
+NSSVSESSDDSGSDSNITIQPPQKAKKTVKNLKRKSAAR-TNKKSAERNELSASEIAKMLVQAVEN
+Original query = NSSDSESSKSEDEDAPPKRPTIKIKSKKNLTKSKQSNKKSAESLELSANEIAELLVQAVEN
+New query = NSSVSESSDDSGSDSNITIQPPQKAKKTVKNLKRKSAAR-TNKKSAERNELSASEIAKMLVQAVEN
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5572580,5572776,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+18
+21
+Troides_oblongomaculatus,JARDWC010000432.1,5570605,5570769,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,53,53
+
+Troides_oblongomaculatus,JARDWC010000432.1,5573341,5573773,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+Getting Gene
+min = set54_frame0, 0.595
+5 top scores:
+[['set2_frame0', 1.802], ['set54_frame0', 0.595], ['set31_frame2', 1.861], ['set60_frame0', 1.757], ['set37_frame1', 1.854]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_54_frame0.fa.txt
+7 72
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20
+HTEALNWLSENLEEVALDQEAEGFDPTSEGTPLVPISRESVQAIQDDLFRRVLKSLGIVPPVDEQ
+7 72
+set54_frame0
+YTEALRWIAENLEEVALDQEAEGYDPSAEPTPLVPMSEYSVKAMESAMFCKVLKGVGISPPSDEQ
+Original query = HTEALNWLSENLEEVALDQEAEGFDPTSEGTPLVPISRESVQAIQDDLFRRVLKSLGIVPPVDEQ
+New query = YTEALRWIAENLEEVALDQEAEGYDPSAEPTPLVPMSEYSVKAMESAMFCKVLKGVGISPPSDEQ
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5573341,5573773,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+19
+18
+21
+Troides_oblongomaculatus,JARDWC010000432.1,5570605,5570769,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,53,53
+
+Troides_oblongomaculatus,JARDWC010000432.1,5573341,5573773,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+Getting Gene
+min = set60_frame0, 1.082
+5 top scores:
+[['set60_frame0', 1.082]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_60_frame0.fa.txt
+0 154
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21
+ETYWRIPSSLHYETIRKRREIITKAVNKELIIDNRAAPETKKDNNDNGNNGNHNINDESDASDDDLFDNLRKIAKKSSETDNNPKSKNRKRTRSFESDDENKKKQRKDNIKDKDDENENENKDSDDDLLSFVKNTLHTELPDTEDILNALPEHS
+0 154
+set60_frame0
+EVYWRIPSHLHYETIRRRREIILKAVNKELIIDDTAISTTVIPEEEE----NHQKNIES-SDDDDLFDNLRKLRDTKDYDVKNISSKSNSRKRSRSADEGDSKKGKMQKIE------EEKLIYDEDDILSFAKKTLQSDEPNTEDILSNIPIHN
+Original query = ETYWRIPSSLHYETIRKRREIITKAVNKELIIDNRAAPETKKDNNDNGNNGNHNINDESDASDDDLFDNLRKIAKKSSETDNNPKSKNRKRTRSFESDDENKKKQRKDNIKDKDDENENENKDSDDDLLSFVKNTLHTELPDTEDILNALPEHS
+New query = EVYWRIPSHLHYETIRRRREIILKAVNKELIIDDTAISTTVIPEEEE----NHQKNIES-SDDDDLFDNLRKLRDTKDYDVKNISSKSNSRKRSRSADEGDSKKGKMQKIE------EEKLIYDEDDILSFAKKTLQSDEPNTEDILSNIPIHN
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5556945,5557128,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Troides_oblongomaculatus,JARDWC010000432.1,5556529,5556782,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Troides_oblongomaculatus,JARDWC010000432.1,5557475,5557731,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set6_frame0, 0.238
+5 top scores:
+[['set1_frame0', 1.846], ['set6_frame0', 0.238], ['set7_frame0', 1.772], ['set34_frame1', 1.801]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_6_frame0.fa.txt
+8 69
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQNYKEEAFTKVDVWQMFSKKLAKVLEI
+8 69
+set6_frame0
+LLVNLTNPALLLYREEEPIELTARHNYMQILDHLQNYKEEAFTKVETWQVFSKKLAKILEI
+Original query = LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQNYKEEAFTKVDVWQMFSKKLAKVLEI
+New query = LLVNLTNPALLLYREEEPIELTARHNYMQILDHLQNYKEEAFTKVETWQVFSKKLAKILEI
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5557207,5557341,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Troides_oblongomaculatus,JARDWC010000432.1,5556529,5556782,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Troides_oblongomaculatus,JARDWC010000432.1,5558413,5558610,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set7_frame0, 0.086
+5 top scores:
+[['set34_frame1', 1.738], ['set6_frame0', 1.802], ['set7_frame0', 0.086], ['set9_frame0', 1.805], ['set55_frame1', 1.814]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_7_frame0.fa.txt
+0 45
+Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+0 45
+set7_frame0
+DWSERDEDTGLIIERILILIRNVIHVPADLDKEKRPENDANIHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+New query = DWSERDEDTGLIIERILILIRNVIHVPADLDKEKRPENDANIHDQ
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5557475,5557731,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Troides_oblongomaculatus,JARDWC010000432.1,5556945,5557128,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Troides_oblongomaculatus,JARDWC010000432.1,5558795,5558977,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set19_frame2, 0.206
+5 top scores:
+[['set54_frame0', 1.849], ['set1_frame1', 1.846], ['set19_frame2', 0.206], ['set40_frame2', 1.823]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_19_frame2.fa.txt
+9 94
+Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLASAALQRSMDEKVRDEQELLTIRMTETKERQNKIRQFSGT
+9 94
+set19_frame2
+VLWALNQSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLANAALQRSMDEKLRDEQELLTIRCKETNDRLNKIKQYSAT
+Original query = VLWALNQSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLASAALQRSMDEKVRDEQELLTIRMTETKERQNKIRQFSGT
+New query = VLWALNQSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLANAALQRSMDEKLRDEQELLTIRCKETNDRLNKIKQYSAT
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5558413,5558610,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Troides_oblongomaculatus,JARDWC010000432.1,5557207,5557341,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Troides_oblongomaculatus,JARDWC010000432.1,5560600,5560887,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set29_frame1, 0.172
+5 top scores:
+[['set77_frame2', 1.846], ['set55_frame0', 1.826], ['set8_frame1', 1.821], ['set29_frame1', 0.172], ['set90_frame1', 1.863]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_29_frame1.fa.txt
+8 73
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVQNMKSISENEIISLKPLNNISSLDFNGSKKSRLVKPKNRRPVESGTLERRSAFAV
+8 73
+set29_frame1
+HSRFGGTYVVQNMKSISDNEIICLKPLNKISSLDFNGSKKSKLVKPKNMRPVESGLLERRSAFAV
+Original query = HSRFGGTYVVQNMKSISENEIISLKPLNNISSLDFNGSKKSRLVKPKNRRPVESGTLERRSAFAV
+New query = HSRFGGTYVVQNMKSISDNEIICLKPLNKISSLDFNGSKKSKLVKPKNMRPVESGLLERRSAFAV
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5558795,5558977,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+9
+Troides_oblongomaculatus,JARDWC010000432.1,5557475,5557731,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Troides_oblongomaculatus,JARDWC010000432.1,5564168,5564324,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+Getting Gene
+min = set35_frame1, 0.075
+5 top scores:
+[['set35_frame1', 0.075], ['set137_frame2', 1.767], ['set53_frame0', 1.833], ['set83_frame0', 1.745], ['set68_frame1', 1.855]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_35_frame1.fa.txt
+28 88
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRSRAQQNDESYYLWAVKFFMEFNRGHHFQVGLV
+28 88
+set35_frame1
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRGHNFQVGLV
+Original query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRSRAQQNDESYYLWAVKFFMEFNRGHHFQVGLV
+New query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRGHNFQVGLV
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5560600,5560887,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Troides_oblongomaculatus,JARDWC010000432.1,5558413,5558610,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Troides_oblongomaculatus,JARDWC010000432.1,5564168,5564324,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+Getting Gene
+min = set62_frame1, 0.11
+5 top scores:
+[['set110_frame0', 1.842], ['set62_frame1', 0.11], ['set121_frame1', 1.877], ['set12_frame2', 1.841]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_62_frame1.fa.txt
+18 113
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQMEKYYDMIKVEKKKFPAWVRRLHLSLRAYKELLNTLLAMDKSSDPTVKESAKVLKSNIFYVLEYREFILYTFLNYDDNKMP
+18 113
+set62_frame1
+ETMSVPMFHYVQQQMEKYYDMIKVEKKKFSSWVRRLHLALRAYKELLHTLLAMDKSTDPTVKESAKVLKSNIFYVLEYREFILTTFLNYDDNKMP
+Original query = ETMSVPMFHYVQQQMEKYYDMIKVEKKKFPAWVRRLHLSLRAYKELLNTLLAMDKSSDPTVKESAKVLKSNIFYVLEYREFILYTFLNYDDNKMP
+New query = ETMSVPMFHYVQQQMEKYYDMIKVEKKKFSSWVRRLHLALRAYKELLHTLLAMDKSTDPTVKESAKVLKSNIFYVLEYREFILTTFLNYDDNKMP
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5561537,5561655,0,Y,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_8,1,29,39
+
+6
+10
+Troides_oblongomaculatus,JARDWC010000432.1,5558795,5558977,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Troides_oblongomaculatus,JARDWC010000432.1,5564505,5564585,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set57_frame1, 0.052
+5 top scores:
+[['set57_frame1', 0.052], ['set75_frame1', 1.647], ['set103_frame1', 1.674], ['set73_frame2', 1.675], ['set97_frame2', 1.72]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_57_frame1.fa.txt
+8 47
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLVETVHLFLKMLEYYCKKTGLVVQKKVRKKSKSK
+8 47
+set57_frame1
+SYLVDLVETVHLFLKMLEYYCKRTGLVVQKKVRKKSKAK
+Original query = SYLVDLVETVHLFLKMLEYYCKKTGLVVQKKVRKKSKSK
+New query = SYLVDLVETVHLFLKMLEYYCKRTGLVVQKKVRKKSKAK
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5564168,5564324,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+7
+11
+Troides_oblongomaculatus,JARDWC010000432.1,5560600,5560887,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Troides_oblongomaculatus,JARDWC010000432.1,5565012,5565121,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Getting Gene
+min = set67_frame0, 0.587
+5 top scores:
+[['set17_frame0', 1.74], ['set60_frame1', 1.796], ['set29_frame0', 1.798], ['set26_frame2', 1.8], ['set67_frame0', 0.587]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_67_frame0.fa.txt
+5 56
+Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9
+KKLHLQKAKQVAVEVPAWDVLCPQIACVLSAGVNEYPPPFDAASDIPIDQQ
+5 56
+set67_frame0
+QKPRSQRPKIVPVEVPPWDELRPQIACVLSVGLEEYPPPFDAASDVPIDEQ
+Original query = KKLHLQKAKQVAVEVPAWDVLCPQIACVLSAGVNEYPPPFDAASDIPIDQQ
+New query = QKPRSQRPKIVPVEVPPWDELRPQIACVLSVGLEEYPPPFDAASDVPIDEQ
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5564505,5564585,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+7
+12
+13
+14
+Troides_oblongomaculatus,JARDWC010000432.1,5560600,5560887,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Troides_oblongomaculatus,JARDWC010000432.1,5566846,5567044,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set73_frame0, 0.153
+5 top scores:
+[['set73_frame0', 0.153], ['set90_frame0', 1.564], ['set15_frame1', 1.618], ['set57_frame1', 1.642], ['set105_frame1', 1.65]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_73_frame0.fa.txt
+7 33
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRESKFEDAIGTFRAA
+7 33
+set73_frame0
+EDCMKKIQKLMREYKYEDAVGTFRAA
+Original query = EDCMKKIQKLMRESKFEDAIGTFRAA
+New query = EDCMKKIQKLMREYKYEDAVGTFRAA
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5565012,5565121,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+9
+13
+14
+Troides_oblongomaculatus,JARDWC010000432.1,5564168,5564324,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+Troides_oblongomaculatus,JARDWC010000432.1,5566846,5567044,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set19_frame2, 0.083
+5 top scores:
+[['set19_frame2', 0.083], ['set60_frame2', 1.717], ['set45_frame2', 1.773], ['set28_frame0', 1.784], ['set61_frame0', 1.779]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_19_frame2.fa.txt
+19 55
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGVSGIAEDEELEMLQTIYNTDLGVEVN
+19 55
+set19_frame2
+EVWPEEGIFGVSGIAEDEELDMLQTIYSTDLGVEVN
+Original query = EVWPEEGIFGVSGIAEDEELEMLQTIYNTDLGVEVN
+New query = EVWPEEGIFGVSGIAEDEELDMLQTIYSTDLGVEVN
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,0,0,0,Y,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_12,0,0,17
+
+10
+14
+Troides_oblongomaculatus,JARDWC010000432.1,5564505,5564585,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Troides_oblongomaculatus,JARDWC010000432.1,5566846,5567044,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set25_frame0, 0.927
+5 top scores:
+[['set25_frame0', 0.927], ['set65_frame0', 1.381], ['set49_frame2', 1.514], ['set18_frame1', 1.609], ['set54_frame1', 1.633]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_25_frame0.fa.txt
+18 35
+Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_12
+VPEVEDESQDGYDNEED
+18 35
+set25_frame0
+VPEKQDYSEDDLNNEEG
+Original query = VPEVEDESQDGYDNEED
+New query = VPEKQDYSEDDLNNEEG
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5566368,5566437,0,Y,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,6,22,22
+
+11
+15
+Troides_oblongomaculatus,JARDWC010000432.1,5565012,5565121,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Troides_oblongomaculatus,JARDWC010000432.1,5567661,5567809,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set37_frame2, 0.374
+5 top scores:
+[['set37_frame2', 0.374], ['set41_frame2', 1.609], ['set63_frame2', 1.648], ['set66_frame2', 1.666], ['set69_frame2', 1.673]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_37_frame2.fa.txt
+3 25
+Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13
+EEEEANTTSVVETDFDFQDFVQ
+3 25
+set37_frame2
+EEEEDTSTAVVETDFDFRDFVQ
+Original query = EEEEANTTSVVETDFDFQDFVQ
+New query = EEEEDTSTAVVETDFDFRDFVQ
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5566846,5567044,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Troides_oblongomaculatus,JARDWC010000432.1,5565012,5565121,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Troides_oblongomaculatus,JARDWC010000432.1,5568229,5568323,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,29,31
+
+Getting Gene
+min = set55_frame2, 0.392
+5 top scores:
+[['set70_frame2', 1.797], ['set27_frame1', 1.841], ['set60_frame1', 1.901], ['set55_frame2', 0.392], ['set66_frame2', 1.798]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_55_frame2.fa.txt
+4 70
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14
+FCQPRVVSACAYLLERYEKNSAYTNHCIIKMLHRIAWDCKRPSMMFQASMFLTFQKIFHNPLPHFK
+4 70
+set55_frame2
+FCHPRVVSACTSLLERYENNLPHTNHCIIKMLHRIAWDCRRPSMMFQATLFLTLQKIFHNSSPPFK
+Original query = FCQPRVVSACAYLLERYEKNSAYTNHCIIKMLHRIAWDCKRPSMMFQASMFLTFQKIFHNPLPHFK
+New query = FCHPRVVSACTSLLERYENNLPHTNHCIIKMLHRIAWDCRRPSMMFQATLFLTLQKIFHNSSPPFK
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5567661,5567809,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+12
+11
+17
+Troides_oblongomaculatus,JARDWC010000432.1,5565012,5565121,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Troides_oblongomaculatus,JARDWC010000432.1,5568901,5569110,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,69,69
+
+Getting Gene
+min = set65_frame0, 0.156
+5 top scores:
+[['set41_frame2', 1.717], ['set60_frame0', 1.737], ['set65_frame0', 0.156], ['set91_frame0', 1.767], ['set66_frame2', 1.776]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_65_frame0.fa.txt
+14 63
+Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFGLFVFRKFSEVALKNTKVFIELLFWKSSKDAIDIEHGYDLYSDQ
+14 63
+set65_frame0
+ELEKFGLFIFRKFAEIASKNTKVFIELLFWKSSKDAIEVEHGYDLYTDQ
+Original query = ELEKFGLFVFRKFSEVALKNTKVFIELLFWKSSKDAIDIEHGYDLYSDQ
+New query = ELEKFGLFIFRKFAEIASKNTKVFIELLFWKSSKDAIEVEHGYDLYTDQ
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5568229,5568323,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,29,31
+
+14
+18
+Troides_oblongomaculatus,JARDWC010000432.1,5566846,5567044,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Troides_oblongomaculatus,JARDWC010000432.1,5570605,5570769,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,53,53
+
+Getting Gene
+min = set25_frame1, 0.568
+5 top scores:
+[['set25_frame1', 0.568], ['set45_frame2', 1.671], ['set73_frame2', 1.734], ['set81_frame2', 1.744], ['set42_frame2', 1.764]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_25_frame1.fa.txt
+7 38
+Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16
+DKVGKGHWSEEQEDELRNLFMENQTNPTTEK
+7 38
+set25_frame1
+DKMGKGLWTEEQEGELRNLFMENQSNSKTNI
+Original query = DKVGKGHWSEEQEDELRNLFMENQTNPTTEK
+New query = DKMGKGLWTEEQEGELRNLFMENQSNSKTNI
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5568901,5569110,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,69,69
+
+15
+19
+20
+Troides_oblongomaculatus,JARDWC010000432.1,5567661,5567809,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Troides_oblongomaculatus,JARDWC010000432.1,5572580,5572776,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set27_frame0, 0.213
+5 top scores:
+[['set27_frame0', 0.213], ['set66_frame0', 1.747], ['set73_frame1', 1.812], ['set74_frame0', 1.806], ['set125_frame1', 1.817]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_27_frame0.fa.txt
+14 83
+Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRGVIKKLKELGLIFKAPTKRSNKERLKEKVPKEFSEEEDSLLIELWKQYGDSS
+14 83
+set27_frame0
+VIDWILENLIDQTRTRRGVIKKLKELGLIFKAPTKRINRERLTERVPKEFSEEEDSMLIDLWKQFADSA
+Original query = VIDWILDNLIDQTRTRRGVIKKLKELGLIFKAPTKRSNKERLKEKVPKEFSEEEDSLLIELWKQYGDSS
+New query = VIDWILENLIDQTRTRRGVIKKLKELGLIFKAPTKRINRERLTERVPKEFSEEEDSMLIDLWKQFADSA
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5570605,5570769,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,53,53
+
+16
+20
+Troides_oblongomaculatus,JARDWC010000432.1,5568229,5568323,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,29,31
+
+Troides_oblongomaculatus,JARDWC010000432.1,5572580,5572776,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set53_frame2, 0.459
+5 top scores:
+[['set53_frame2', 0.459], ['set11_frame1', 1.757], ['set49_frame2', 1.786], ['set76_frame2', 1.806], ['set83_frame2', 1.809]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_53_frame2.fa.txt
+6 60
+Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18
+PMGIIIPRMPRKRPRRSFVERLLELDLIQDKRQCRQKKQQKSKSDGN-NSDRSD
+6 60
+set53_frame2
+PMGLIIPRMPRKRPRSSFVERLLELDLIQDKKQCRKRKRPNSKSKGNKDNDSSD
+Original query = PMGIIIPRMPRKRPRRSFVERLLELDLIQDKRQCRQKKQQKSKSDGNNSDRSD
+New query = PMGLIIPRMPRKRPRSSFVERLLELDLIQDKKQCRKRKRPNSKSKGNKDNDSSD
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5572002,5572196,0,Y,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_19,15,62,64
+
+17
+21
+Troides_oblongomaculatus,JARDWC010000432.1,5568901,5569110,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,69,69
+
+Troides_oblongomaculatus,JARDWC010000432.1,5573341,5573773,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+Getting Gene
+min = set82_frame1, 0.991
+5 top scores:
+[['set40_frame2', 1.768], ['set70_frame2', 1.77], ['set102_frame0', 1.836], ['set107_frame0', 1.684], ['set82_frame1', 0.991]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_82_frame1.fa.txt
+12 76
+Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_19
+SSSSSESDESDSDSNIRVRSPKIKKNIKKIDKRRTDASSNRKANKTVELSANEIAKLLVQAVNK
+12 76
+set82_frame1
+SSVSESSDDSGSDSNITIQPPQKAKKTVKNLKRKSAARTNKKSAERNELSASEIAKMLVQAVEN
+Original query = SSSSSESDESDSDSNIRVRSPKIKKNIKKIDKRRTDASSNRKANKTVELSANEIAKLLVQAVNK
+New query = SSVSESSDDSGSDSNITIQPPQKAKKTVKNLKRKSAARTNKKSAERNELSASEIAKMLVQAVEN
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5572580,5572776,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+18
+21
+Troides_oblongomaculatus,JARDWC010000432.1,5570605,5570769,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,53,53
+
+Troides_oblongomaculatus,JARDWC010000432.1,5573341,5573773,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+Getting Gene
+min = set54_frame0, 0.415
+5 top scores:
+[['set31_frame2', 1.858], ['set54_frame0', 0.415], ['set9_frame2', 1.864], ['set60_frame0', 1.818], ['set37_frame1', 1.841]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_54_frame0.fa.txt
+7 72
+Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20
+FSEALKWVAENLEEVALDQEAEGYDPSAEGTPLVPISDDSVQAMDNRMFHKVLKGVGILPPADEQ
+7 72
+set54_frame0
+YTEALRWIAENLEEVALDQEAEGYDPSAEPTPLVPMSEYSVKAMESAMFCKVLKGVGISPPSDEQ
+Original query = FSEALKWVAENLEEVALDQEAEGYDPSAEGTPLVPISDDSVQAMDNRMFHKVLKGVGILPPADEQ
+New query = YTEALRWIAENLEEVALDQEAEGYDPSAEPTPLVPMSEYSVKAMESAMFCKVLKGVGISPPSDEQ
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5573341,5573773,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+19
+18
+21
+Troides_oblongomaculatus,JARDWC010000432.1,5570605,5570769,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,53,53
+
+Troides_oblongomaculatus,JARDWC010000432.1,5573341,5573773,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+Getting Gene
+min = set60_frame0, 0.771
+5 top scores:
+[['set60_frame0', 0.771]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_60_frame0.fa.txt
+0 76
+set60_frame0
+EVYWRIPSHLHYETIRRRREIILKAVNKELIIDDTAISTTVIPEEEENHQKNIESSDDDDLFDNLRKLRD--TKDY
+Original query = ETYWRIPSHLHFNTIRKRREIILKAINKELIINDAEISNTITAEESEKNEKEESSDDEDLFDSLRKLRDNNTEEYVNKSNNKTNTRKRSRSSDDEDNGKEKLQRIEEELIEKSDEEDILSFAKKTLQCDDEPDTEDILKSIPKHIS
+New query = EVYWRIPSHLHYETIRRRREIILKAVNKELIIDDTAISTTVIPEEEENHQKNIESSDDDDLFDNLRKLRD--TKDY
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5556945,5557128,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Troides_oblongomaculatus,JARDWC010000432.1,5556529,5556782,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Troides_oblongomaculatus,JARDWC010000432.1,5557475,5557731,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set6_frame0, 0.238
+5 top scores:
+[['set1_frame0', 1.846], ['set6_frame0', 0.238], ['set7_frame0', 1.772], ['set34_frame1', 1.801]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_6_frame0.fa.txt
+8 69
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQNYKEEAFTKVDVWQMFSKKLAKVLEI
+8 69
+set6_frame0
+LLVNLTNPALLLYREEEPIELTARHNYMQILDHLQNYKEEAFTKVETWQVFSKKLAKILEI
+Original query = LIVNLTNPALLLYREEVPVERTARHNYLQILSHLQNYKEEAFTKVDVWQMFSKKLAKVLEI
+New query = LLVNLTNPALLLYREEEPIELTARHNYMQILDHLQNYKEEAFTKVETWQVFSKKLAKILEI
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5557207,5557341,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Troides_oblongomaculatus,JARDWC010000432.1,5556529,5556782,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Troides_oblongomaculatus,JARDWC010000432.1,5558413,5558610,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set7_frame0, 0.086
+5 top scores:
+[['set34_frame1', 1.738], ['set6_frame0', 1.802], ['set7_frame0', 0.086], ['set9_frame0', 1.805], ['set55_frame1', 1.814]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_7_frame0.fa.txt
+0 45
+Papilio_machaon_XM_045678832.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+0 45
+set7_frame0
+DWSERDEDTGLIIERILILIRNVIHVPADLDKEKRPENDANIHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+New query = DWSERDEDTGLIIERILILIRNVIHVPADLDKEKRPENDANIHDQ
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5557475,5557731,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Troides_oblongomaculatus,JARDWC010000432.1,5556945,5557128,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Troides_oblongomaculatus,JARDWC010000432.1,5558795,5558977,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set19_frame2, 0.203
+5 top scores:
+[['set54_frame0', 1.85], ['set1_frame1', 1.848], ['set19_frame2', 0.203], ['set40_frame2', 1.823]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_19_frame2.fa.txt
+9 94
+Papilio_machaon_XM_045678832.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQSGLLDIILYMSSENEKQYFMHILEIISHLLREQNPTSLASAALQRSMDEKVRDEQELLTIRMTETKERQNKIRQYSGT
+9 94
+set19_frame2
+VLWALNQSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLANAALQRSMDEKLRDEQELLTIRCKETNDRLNKIKQYSAT
+Original query = VLWALNQSGLLDIILYMSSENEKQYFMHILEIISHLLREQNPTSLASAALQRSMDEKVRDEQELLTIRMTETKERQNKIRQYSGT
+New query = VLWALNQSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLANAALQRSMDEKLRDEQELLTIRCKETNDRLNKIKQYSAT
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5558413,5558610,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Troides_oblongomaculatus,JARDWC010000432.1,5557207,5557341,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Troides_oblongomaculatus,JARDWC010000432.1,5560600,5560887,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set29_frame1, 0.187
+5 top scores:
+[['set44_frame2', 1.834], ['set55_frame0', 1.817], ['set8_frame1', 1.826], ['set29_frame1', 0.187], ['set90_frame1', 1.839]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_29_frame1.fa.txt
+8 73
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVQNMKSISDNEIISLKPLNNISSLDFNGSKKSRLVKPKHRRPVESGALERRSAFAV
+8 73
+set29_frame1
+HSRFGGTYVVQNMKSISDNEIICLKPLNKISSLDFNGSKKSKLVKPKNMRPVESGLLERRSAFAV
+Original query = HSRFGGTYVVQNMKSISDNEIISLKPLNNISSLDFNGSKKSRLVKPKHRRPVESGALERRSAFAV
+New query = HSRFGGTYVVQNMKSISDNEIICLKPLNKISSLDFNGSKKSKLVKPKNMRPVESGLLERRSAFAV
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5558795,5558977,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+9
+Troides_oblongomaculatus,JARDWC010000432.1,5557475,5557731,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Troides_oblongomaculatus,JARDWC010000432.1,5564168,5564324,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+Getting Gene
+min = set35_frame1, 0.036
+5 top scores:
+[['set35_frame1', 0.036], ['set137_frame2', 1.767], ['set144_frame1', 1.826], ['set83_frame0', 1.744], ['set68_frame1', 1.854]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_35_frame1.fa.txt
+28 88
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRSRAQQNDESYYLWAVKFFMEFNRGHNFQVGLV
+28 88
+set35_frame1
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRGHNFQVGLV
+Original query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRSRAQQNDESYYLWAVKFFMEFNRGHNFQVGLV
+New query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRGHNFQVGLV
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5560600,5560887,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Troides_oblongomaculatus,JARDWC010000432.1,5558413,5558610,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Troides_oblongomaculatus,JARDWC010000432.1,5564168,5564324,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+Getting Gene
+min = set62_frame1, 0.156
+5 top scores:
+[['set110_frame0', 1.868], ['set62_frame1', 0.156], ['set121_frame1', 1.873], ['set12_frame2', 1.837]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_62_frame1.fa.txt
+18 113
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQMEKYYDMIKVEKKKFPAWVRRLHLSLRAYKELLNTLLAMDKSNDSTVKDSAKVLKSNIFYVLEYREFILYTFLNYDDNKMP
+18 113
+set62_frame1
+ETMSVPMFHYVQQQMEKYYDMIKVEKKKFSSWVRRLHLALRAYKELLHTLLAMDKSTDPTVKESAKVLKSNIFYVLEYREFILTTFLNYDDNKMP
+Original query = ETMSVPMFHYVQQQMEKYYDMIKVEKKKFPAWVRRLHLSLRAYKELLNTLLAMDKSNDSTVKDSAKVLKSNIFYVLEYREFILYTFLNYDDNKMP
+New query = ETMSVPMFHYVQQQMEKYYDMIKVEKKKFSSWVRRLHLALRAYKELLHTLLAMDKSTDPTVKESAKVLKSNIFYVLEYREFILTTFLNYDDNKMP
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5561537,5561655,0,Y,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_8,1,29,39
+
+6
+10
+Troides_oblongomaculatus,JARDWC010000432.1,5558795,5558977,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Troides_oblongomaculatus,JARDWC010000432.1,5564505,5564585,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set57_frame1, 0.104
+5 top scores:
+[['set57_frame1', 0.104], ['set75_frame1', 1.648], ['set73_frame2', 1.689], ['set97_frame2', 1.702], ['set29_frame1', 1.749]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_57_frame1.fa.txt
+8 47
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKSKSK
+8 47
+set57_frame1
+SYLVDLVETVHLFLKMLEYYCKRTGLVVQKKVRKKSKAK
+Original query = SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKSKSK
+New query = SYLVDLVETVHLFLKMLEYYCKRTGLVVQKKVRKKSKAK
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5564168,5564324,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+7
+11
+Troides_oblongomaculatus,JARDWC010000432.1,5560600,5560887,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Troides_oblongomaculatus,JARDWC010000432.1,5565012,5565121,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Getting Gene
+min = set67_frame0, 0.515
+5 top scores:
+[['set17_frame0', 1.684], ['set60_frame1', 1.767], ['set26_frame2', 1.811], ['set53_frame0', 1.807], ['set67_frame0', 0.515]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_67_frame0.fa.txt
+5 56
+Papilio_machaon_XM_045678832.1_Frame_2_rightoh_2_query_Exon_9
+KKHQAQKVKHVPVEVPAWDVLCPQIACVLSAGLNEYPPPFDAASDVPIDQQ
+5 56
+set67_frame0
+QKPRSQRPKIVPVEVPPWDELRPQIACVLSVGLEEYPPPFDAASDVPIDEQ
+Original query = KKHQAQKVKHVPVEVPAWDVLCPQIACVLSAGLNEYPPPFDAASDVPIDQQ
+New query = QKPRSQRPKIVPVEVPPWDELRPQIACVLSVGLEEYPPPFDAASDVPIDEQ
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5564505,5564585,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+7
+12
+13
+14
+Troides_oblongomaculatus,JARDWC010000432.1,5560600,5560887,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Troides_oblongomaculatus,JARDWC010000432.1,5566846,5567044,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set73_frame0, 0.153
+5 top scores:
+[['set73_frame0', 0.153], ['set90_frame0', 1.564], ['set15_frame1', 1.618], ['set57_frame1', 1.642], ['set105_frame1', 1.65]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_73_frame0.fa.txt
+7 33
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRESKFEDAIGTFRAA
+7 33
+set73_frame0
+EDCMKKIQKLMREYKYEDAVGTFRAA
+Original query = EDCMKKIQKLMRESKFEDAIGTFRAA
+New query = EDCMKKIQKLMREYKYEDAVGTFRAA
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5565012,5565121,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+9
+13
+14
+Troides_oblongomaculatus,JARDWC010000432.1,5564168,5564324,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+Troides_oblongomaculatus,JARDWC010000432.1,5566846,5567044,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set19_frame2, 0.162
+5 top scores:
+[['set19_frame2', 0.162], ['set60_frame2', 1.681], ['set45_frame2', 1.777], ['set52_frame2', 1.798], ['set61_frame0', 1.783]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_19_frame2.fa.txt
+19 55
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGVSGIPEDEELEMLQTIYNTDLGVEVN
+19 55
+set19_frame2
+EVWPEEGIFGVSGIAEDEELDMLQTIYSTDLGVEVN
+Original query = EVWPEEGIFGVSGIPEDEELEMLQTIYNTDLGVEVN
+New query = EVWPEEGIFGVSGIAEDEELDMLQTIYSTDLGVEVN
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,0,0,0,Y,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_12,0,0,17
+
+10
+14
+Troides_oblongomaculatus,JARDWC010000432.1,5564505,5564585,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Troides_oblongomaculatus,JARDWC010000432.1,5566846,5567044,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set25_frame0, 1.08
+5 top scores:
+[['set25_frame0', 1.08], ['set65_frame0', 1.506], ['set13_frame1', 1.554], ['set49_frame2', 1.597], ['set54_frame1', 1.633]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_25_frame0.fa.txt
+18 35
+Papilio_machaon_XM_045678832.1_Frame_2_rightoh_1_query_Exon_12
+VPEVEDESQDGYDYEEE
+18 35
+set25_frame0
+VPEKQDYSEDDLNNEEG
+Original query = VPEVEDESQDGYDYEEE
+New query = VPEKQDYSEDDLNNEEG
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5566368,5566437,0,Y,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,6,22,22
+
+11
+15
+Troides_oblongomaculatus,JARDWC010000432.1,5565012,5565121,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Troides_oblongomaculatus,JARDWC010000432.1,5567661,5567809,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set37_frame2, 0.44
+5 top scores:
+[['set37_frame2', 0.44], ['set41_frame2', 1.598], ['set18_frame2', 1.649], ['set66_frame2', 1.668], ['set9_frame1', 1.687]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_37_frame2.fa.txt
+3 25
+Papilio_machaon_XM_045678832.1_Frame_2_rightoh_2_query_Exon_13
+EEDEANATSVVETDFDFQDFVQ
+3 25
+set37_frame2
+EEEEDTSTAVVETDFDFRDFVQ
+Original query = EEDEANATSVVETDFDFQDFVQ
+New query = EEEEDTSTAVVETDFDFRDFVQ
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5566846,5567044,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Troides_oblongomaculatus,JARDWC010000432.1,5565012,5565121,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Troides_oblongomaculatus,JARDWC010000432.1,5568229,5568323,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,29,31
+
+Getting Gene
+min = set55_frame2, 0.366
+5 top scores:
+[['set70_frame2', 1.797], ['set27_frame1', 1.841], ['set60_frame1', 1.902], ['set55_frame2', 0.366], ['set66_frame2', 1.798]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_55_frame2.fa.txt
+4 70
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_0_query_Exon_14
+FCHPRVVSACAYLLERYEKNSAYTNHCIIKMLHRIAWDCKRPSMMFQASMFLTFQKIFHNPLPHFK
+4 70
+set55_frame2
+FCHPRVVSACTSLLERYENNLPHTNHCIIKMLHRIAWDCRRPSMMFQATLFLTLQKIFHNSSPPFK
+Original query = FCHPRVVSACAYLLERYEKNSAYTNHCIIKMLHRIAWDCKRPSMMFQASMFLTFQKIFHNPLPHFK
+New query = FCHPRVVSACTSLLERYENNLPHTNHCIIKMLHRIAWDCRRPSMMFQATLFLTLQKIFHNSSPPFK
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5567661,5567809,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+12
+11
+17
+Troides_oblongomaculatus,JARDWC010000432.1,5565012,5565121,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Troides_oblongomaculatus,JARDWC010000432.1,5568901,5569110,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,69,69
+
+Getting Gene
+min = set65_frame0, 0.156
+5 top scores:
+[['set41_frame2', 1.717], ['set60_frame0', 1.737], ['set65_frame0', 0.156], ['set91_frame0', 1.767], ['set66_frame2', 1.776]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_65_frame0.fa.txt
+14 63
+Papilio_machaon_XM_045678832.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFGLFVFRKFSEVALKNTKVFIELLFWKSSKDAIDIEHGYDLYSDQ
+14 63
+set65_frame0
+ELEKFGLFIFRKFAEIASKNTKVFIELLFWKSSKDAIEVEHGYDLYTDQ
+Original query = ELEKFGLFVFRKFSEVALKNTKVFIELLFWKSSKDAIDIEHGYDLYSDQ
+New query = ELEKFGLFIFRKFAEIASKNTKVFIELLFWKSSKDAIEVEHGYDLYTDQ
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5568229,5568323,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,29,31
+
+14
+18
+Troides_oblongomaculatus,JARDWC010000432.1,5566846,5567044,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Troides_oblongomaculatus,JARDWC010000432.1,5570605,5570769,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,53,53
+
+Getting Gene
+min = set25_frame1, 0.568
+5 top scores:
+[['set25_frame1', 0.568], ['set45_frame2', 1.671], ['set73_frame2', 1.734], ['set81_frame2', 1.744], ['set42_frame2', 1.764]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_25_frame1.fa.txt
+7 38
+Papilio_machaon_XM_045678832.1_Frame_1_rightoh_1_query_Exon_16
+DKVGKGHWSEEQEDELRNLFMENQTNPTTEK
+7 38
+set25_frame1
+DKMGKGLWTEEQEGELRNLFMENQSNSKTNI
+Original query = DKVGKGHWSEEQEDELRNLFMENQTNPTTEK
+New query = DKMGKGLWTEEQEGELRNLFMENQSNSKTNI
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5568901,5569110,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,69,69
+
+15
+19
+20
+Troides_oblongomaculatus,JARDWC010000432.1,5567661,5567809,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Troides_oblongomaculatus,JARDWC010000432.1,5572580,5572776,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set27_frame0, 0.291
+5 top scores:
+[['set27_frame0', 0.291], ['set66_frame0', 1.743], ['set125_frame1', 1.778], ['set74_frame0', 1.81], ['set73_frame1', 1.812]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_27_frame0.fa.txt
+14 83
+Papilio_machaon_XM_045678832.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRGVIKKLKELGLIFKAPTKRSTKERFKEKVPKEFSEEEDSLLIELWKQYGDSP
+14 83
+set27_frame0
+VIDWILENLIDQTRTRRGVIKKLKELGLIFKAPTKRINRERLTERVPKEFSEEEDSMLIDLWKQFADSA
+Original query = VIDWILDNLIDQTRTRRGVIKKLKELGLIFKAPTKRSTKERFKEKVPKEFSEEEDSLLIELWKQYGDSP
+New query = VIDWILENLIDQTRTRRGVIKKLKELGLIFKAPTKRINRERLTERVPKEFSEEEDSMLIDLWKQFADSA
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5570605,5570769,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,53,53
+
+16
+20
+Troides_oblongomaculatus,JARDWC010000432.1,5568229,5568323,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,29,31
+
+Troides_oblongomaculatus,JARDWC010000432.1,5572580,5572776,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set53_frame2, 0.461
+5 top scores:
+[['set53_frame2', 0.461], ['set76_frame2', 1.767], ['set49_frame2', 1.792], ['set83_frame2', 1.793], ['set60_frame2', 1.836]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_53_frame2.fa.txt
+6 60
+Papilio_machaon_XM_045678832.1_Frame_2_rightoh_1_query_Exon_18
+PMGVIIPRMPRKRPKRSFVERLLELDLIQDKRQCRKKKQRKSKSDGN-NSDRSD
+6 60
+set53_frame2
+PMGLIIPRMPRKRPRSSFVERLLELDLIQDKKQCRKRKRPNSKSKGNKDNDSSD
+Original query = PMGVIIPRMPRKRPKRSFVERLLELDLIQDKRQCRKKKQRKSKSDGNNSDRSD
+New query = PMGLIIPRMPRKRPRSSFVERLLELDLIQDKKQCRKRKRPNSKSKGNKDNDSSD
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5572002,5572196,0,Y,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_19,15,62,64
+
+17
+21
+Troides_oblongomaculatus,JARDWC010000432.1,5568901,5569110,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,69,69
+
+Troides_oblongomaculatus,JARDWC010000432.1,5573341,5573773,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+Getting Gene
+min = set82_frame1, 0.925
+5 top scores:
+[['set87_frame1', 1.755], ['set40_frame2', 1.767], ['set70_frame2', 1.793], ['set107_frame0', 1.616], ['set82_frame1', 0.925]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_82_frame1.fa.txt
+11 76
+Papilio_machaon_XM_045678832.1_Frame_2_rightoh_1_query_Exon_19
+SSSSSESSDESDSDNNIKVRSPKVKKNIQKIDKRKTDASKNRKANKTIELSANEIAKLLVQAVDN
+11 76
+set82_frame1
+NSSVSESSDDSGSDSNITIQPPQKAKKTVKNLKRKSAARTNKKSAERNELSASEIAKMLVQAVEN
+Original query = SSSSSESSDESDSDNNIKVRSPKVKKNIQKIDKRKTDASKNRKANKTIELSANEIAKLLVQAVDN
+New query = NSSVSESSDDSGSDSNITIQPPQKAKKTVKNLKRKSAARTNKKSAERNELSASEIAKMLVQAVEN
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5572580,5572776,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+18
+21
+Troides_oblongomaculatus,JARDWC010000432.1,5570605,5570769,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,53,53
+
+Troides_oblongomaculatus,JARDWC010000432.1,5573341,5573773,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+Getting Gene
+min = set54_frame0, 0.454
+5 top scores:
+[['set25_frame2', 1.858], ['set54_frame0', 0.454], ['set31_frame2', 1.881], ['set60_frame0', 1.841], ['set37_frame1', 1.842]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_54_frame0.fa.txt
+7 72
+Papilio_machaon_XM_045678832.1_Frame_2_rightoh_0_query_Exon_20
+FGEALKWVAENLEEVALDQEAEGYDPNAEGTPLVPISDDSVQAMENQMFHKVLKGIGLLPPADEQ
+7 72
+set54_frame0
+YTEALRWIAENLEEVALDQEAEGYDPSAEPTPLVPMSEYSVKAMESAMFCKVLKGVGISPPSDEQ
+Original query = FGEALKWVAENLEEVALDQEAEGYDPNAEGTPLVPISDDSVQAMENQMFHKVLKGIGLLPPADEQ
+New query = YTEALRWIAENLEEVALDQEAEGYDPSAEPTPLVPMSEYSVKAMESAMFCKVLKGVGISPPSDEQ
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5573341,5573773,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+19
+18
+21
+Troides_oblongomaculatus,JARDWC010000432.1,5570605,5570769,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,53,53
+
+Troides_oblongomaculatus,JARDWC010000432.1,5573341,5573773,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+Getting Gene
+min = set60_frame0, 0.749
+5 top scores:
+[['set60_frame0', 0.749]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_60_frame0.fa.txt
+0 52
+set60_frame0
+EVYWRIPSHLHYETIRRRREIILKAVNKELIIDDTAISTTVIPEEEENHQKN
+Original query = ETYWRIPSHLHFDTIRKRREIILKAINKELIINDEEITNNIISEESEKNEKEESSDDEDLFDSLRKLRDNNTEEYVNKSMNKTNTRKRSRSSDDEDNGKEKLQRIEEEQIEEKSDEEDILSFAKKTLQCEDEPDTEDILKSIPKHNS
+New query = EVYWRIPSHLHYETIRRRREIILKAVNKELIIDDTAISTTVIPEEEENHQKN
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5556945,5557128,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Troides_oblongomaculatus,JARDWC010000432.1,5556529,5556782,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Troides_oblongomaculatus,JARDWC010000432.1,5557475,5557731,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set6_frame0, 0.212
+5 top scores:
+[['set1_frame0', 1.847], ['set6_frame0', 0.212], ['set7_frame0', 1.75], ['set34_frame1', 1.802]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_6_frame0.fa.txt
+8 69
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPAERSARHNYLQILSHLQSYKEEAFTKVETWQVFSKKLAKILEI
+8 69
+set6_frame0
+LLVNLTNPALLLYREEEPIELTARHNYMQILDHLQNYKEEAFTKVETWQVFSKKLAKILEI
+Original query = LIVNLTNPALLLYREEVPAERSARHNYLQILSHLQSYKEEAFTKVETWQVFSKKLAKILEI
+New query = LLVNLTNPALLLYREEEPIELTARHNYMQILDHLQNYKEEAFTKVETWQVFSKKLAKILEI
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5557207,5557341,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Troides_oblongomaculatus,JARDWC010000432.1,5556529,5556782,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Troides_oblongomaculatus,JARDWC010000432.1,5558413,5558610,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set7_frame0, 0.075
+5 top scores:
+[['set34_frame1', 1.749], ['set6_frame0', 1.802], ['set7_frame0', 0.075], ['set9_frame0', 1.805], ['set57_frame2', 1.815]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_7_frame0.fa.txt
+0 45
+Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+0 45
+set7_frame0
+DWSERDEDTGLIIERILILIRNVIHVPADLDKEKRPENDANIHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+New query = DWSERDEDTGLIIERILILIRNVIHVPADLDKEKRPENDANIHDQ
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5557475,5557731,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Troides_oblongomaculatus,JARDWC010000432.1,5556945,5557128,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Troides_oblongomaculatus,JARDWC010000432.1,5558795,5558977,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set19_frame2, 0.242
+5 top scores:
+[['set54_frame0', 1.849], ['set1_frame1', 1.847], ['set19_frame2', 0.242], ['set40_frame2', 1.835]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_19_frame2.fa.txt
+9 94
+Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMMRMSESKERLNKVKLYSAT
+9 94
+set19_frame2
+VLWALNQSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLANAALQRSMDEKLRDEQELLTIRCKETNDRLNKIKQYSAT
+Original query = VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMMRMSESKERLNKVKLYSAT
+New query = VLWALNQSGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLANAALQRSMDEKLRDEQELLTIRCKETNDRLNKIKQYSAT
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5558413,5558610,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Troides_oblongomaculatus,JARDWC010000432.1,5557207,5557341,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Troides_oblongomaculatus,JARDWC010000432.1,5560600,5560887,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set29_frame1, 0.213
+5 top scores:
+[['set44_frame2', 1.809], ['set55_frame0', 1.817], ['set8_frame1', 1.818], ['set29_frame1', 0.213], ['set77_frame2', 1.848]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_29_frame1.fa.txt
+8 73
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVQNMKSISENQLISLKPLNKISDLDFNGSKKSKLVRPKNRRPVESGFLERRSAFAI
+8 73
+set29_frame1
+HSRFGGTYVVQNMKSISDNEIICLKPLNKISSLDFNGSKKSKLVKPKNMRPVESGLLERRSAFAV
+Original query = HSRFGGTYVVQNMKSISENQLISLKPLNKISDLDFNGSKKSKLVRPKNRRPVESGFLERRSAFAI
+New query = HSRFGGTYVVQNMKSISDNEIICLKPLNKISSLDFNGSKKSKLVKPKNMRPVESGLLERRSAFAV
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5558795,5558977,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+9
+Troides_oblongomaculatus,JARDWC010000432.1,5557475,5557731,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Troides_oblongomaculatus,JARDWC010000432.1,5564168,5564324,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+Getting Gene
+min = set35_frame1, 0.047
+5 top scores:
+[['set35_frame1', 0.047], ['set137_frame2', 1.778], ['set144_frame1', 1.827], ['set83_frame0', 1.725], ['set113_frame2', 1.857]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_35_frame1.fa.txt
+28 88
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNTSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+28 88
+set35_frame1
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRGHNFQVGLV
+Original query = LFLKEFCIEFLNTSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+New query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRGHNFQVGLV
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5560600,5560887,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Troides_oblongomaculatus,JARDWC010000432.1,5558413,5558610,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Troides_oblongomaculatus,JARDWC010000432.1,5564168,5564324,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+Getting Gene
+min = set62_frame1, 0.163
+5 top scores:
+[['set110_frame0', 1.866], ['set62_frame1', 0.163], ['set121_frame1', 1.857], ['set12_frame2', 1.841]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_62_frame1.fa.txt
+18 113
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQLEKYYDMIKIEKKKFAPWVRRLHLSLRAYKELLNTLLAMDKSTDDSVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+18 113
+set62_frame1
+ETMSVPMFHYVQQQMEKYYDMIKVEKKKFSSWVRRLHLALRAYKELLHTLLAMDKSTDPTVKESAKVLKSNIFYVLEYREFILTTFLNYDDNKMP
+Original query = ETMSVPMFHYVQQQLEKYYDMIKIEKKKFAPWVRRLHLSLRAYKELLNTLLAMDKSTDDSVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+New query = ETMSVPMFHYVQQQMEKYYDMIKVEKKKFSSWVRRLHLALRAYKELLHTLLAMDKSTDPTVKESAKVLKSNIFYVLEYREFILTTFLNYDDNKMP
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5561537,5561655,0,Y,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_8,1,29,39
+
+6
+10
+Troides_oblongomaculatus,JARDWC010000432.1,5558795,5558977,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Troides_oblongomaculatus,JARDWC010000432.1,5564505,5564585,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set57_frame1, 0.239
+5 top scores:
+[['set57_frame1', 0.239], ['set73_frame2', 1.706], ['set103_frame1', 1.733], ['set63_frame2', 1.734], ['set97_frame2', 1.738]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_57_frame1.fa.txt
+8 48
+set57_frame1
+SYLVDLVETVHLFLKMLEYYCKRTGLVVQKKVRKKSKAKS
+Original query = SYLVDLIETIHLFLKMLEHYCKKTGLMVQKKVRRKAKTKSK
+New query = SYLVDLVETVHLFLKMLEYYCKRTGLVVQKKVRKKSKAKS
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5564168,5564324,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+7
+11
+Troides_oblongomaculatus,JARDWC010000432.1,5560600,5560887,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Troides_oblongomaculatus,JARDWC010000432.1,5565012,5565121,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Getting Gene
+min = set67_frame0, 0.71
+5 top scores:
+[['set26_frame2', 1.772], ['set39_frame2', 1.827], ['set22_frame2', 1.836], ['set53_frame0', 1.77], ['set67_frame0', 0.71]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_67_frame0.fa.txt
+5 56
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_2_query_Exon_9
+QKSRAAKP--AAAEVAPWEEARLQVAAVLSAGVEHCPPPFDAASDVPIDQQ
+5 56
+set67_frame0
+QKPRSQRPKIVPVEVPPWDELRPQIACVLSVGLEEYPPPFDAASDVPIDEQ
+Original query = QKSRAAKPAAAEVAPWEEARLQVAAVLSAGVEHCPPPFDAASDVPIDQQ
+New query = QKPRSQRPKIVPVEVPPWDELRPQIACVLSVGLEEYPPPFDAASDVPIDEQ
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5564505,5564585,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+7
+12
+13
+14
+Troides_oblongomaculatus,JARDWC010000432.1,5560600,5560887,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Troides_oblongomaculatus,JARDWC010000432.1,5566846,5567044,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set73_frame0, 0.138
+5 top scores:
+[['set73_frame0', 0.138], ['set90_frame0', 1.613], ['set15_frame1', 1.632], ['set39_frame2', 1.648], ['set27_frame2', 1.691]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_73_frame0.fa.txt
+7 33
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRDHKYEDAVGTFRAA
+7 33
+set73_frame0
+EDCMKKIQKLMREYKYEDAVGTFRAA
+Original query = EDCMKKIQKLMRDHKYEDAVGTFRAA
+New query = EDCMKKIQKLMREYKYEDAVGTFRAA
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5565012,5565121,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+9
+13
+14
+Troides_oblongomaculatus,JARDWC010000432.1,5564168,5564324,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_9,1,51,51
+
+Troides_oblongomaculatus,JARDWC010000432.1,5566846,5567044,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set19_frame2, 0.261
+5 top scores:
+[['set19_frame2', 0.261], ['set60_frame2', 1.677], ['set71_frame1', 1.768], ['set45_frame2', 1.772], ['set61_frame0', 1.785]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_19_frame2.fa.txt
+19 55
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGVDGIPEDEELDMLETIYNTDLGVEVT
+19 55
+set19_frame2
+EVWPEEGIFGVSGIAEDEELDMLQTIYSTDLGVEVN
+Original query = EVWPEEGIFGVDGIPEDEELDMLETIYNTDLGVEVT
+New query = EVWPEEGIFGVSGIAEDEELDMLQTIYSTDLGVEVN
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,0,0,0,Y,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_12,0,0,17
+
+10
+14
+Troides_oblongomaculatus,JARDWC010000432.1,5564505,5564585,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Troides_oblongomaculatus,JARDWC010000432.1,5566846,5567044,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set25_frame0, 1.3
+5 top scores:
+[['set25_frame0', 1.3], ['set49_frame2', 1.494], ['set39_frame1', 1.551], ['set54_frame1', 1.592], ['set13_frame1', 1.618]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_25_frame0.fa.txt
+17 35
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_12
+NVPVETQDNSEYD---EE
+17 35
+set25_frame0
+DVP-EKQDYSEDDLNNEE
+Original query = NVPVETQDNSEYDEE
+New query = DVP-EKQDYSEDDLNNEE
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5566368,5566437,0,Y,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_2_query_Exon_13,6,22,22
+
+11
+15
+Troides_oblongomaculatus,JARDWC010000432.1,5565012,5565121,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Troides_oblongomaculatus,JARDWC010000432.1,5567661,5567809,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set37_frame2, 0.457
+5 top scores:
+[['set37_frame2', 0.457], ['set63_frame2', 1.545], ['set41_frame2', 1.628], ['set69_frame2', 1.632], ['set25_frame2', 1.657]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_37_frame2.fa.txt
+2 25
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_2_query_Exon_13
+EENEEEKSTAVVETDFDFQDFVL
+2 25
+set37_frame2
+NEEEEDTSTAVVETDFDFRDFVQ
+Original query = EENEEEKSTAVVETDFDFQDFVL
+New query = NEEEEDTSTAVVETDFDFRDFVQ
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5566846,5567044,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Troides_oblongomaculatus,JARDWC010000432.1,5565012,5565121,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Troides_oblongomaculatus,JARDWC010000432.1,5568229,5568323,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,29,31
+
+Getting Gene
+min = set55_frame2, 0.411
+5 top scores:
+[['set70_frame2', 1.787], ['set27_frame1', 1.858], ['set60_frame1', 1.886], ['set55_frame2', 0.411], ['set66_frame2', 1.845]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_55_frame2.fa.txt
+4 70
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_0_query_Exon_14
+FCHPRVVSACVCLLERYDKNLPHTNHCIVKMLHRIAWDCNRPVMMFQASLFLIFQRILHNPVPHLK
+4 70
+set55_frame2
+FCHPRVVSACTSLLERYENNLPHTNHCIIKMLHRIAWDCRRPSMMFQATLFLTLQKIFHNSSPPFK
+Original query = FCHPRVVSACVCLLERYDKNLPHTNHCIVKMLHRIAWDCNRPVMMFQASLFLIFQRILHNPVPHLK
+New query = FCHPRVVSACTSLLERYENNLPHTNHCIIKMLHRIAWDCRRPSMMFQATLFLTLQKIFHNSSPPFK
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5567661,5567809,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+12
+11
+17
+Troides_oblongomaculatus,JARDWC010000432.1,5565012,5565121,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_11,1,36,36
+
+Troides_oblongomaculatus,JARDWC010000432.1,5568901,5569110,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,69,69
+
+Getting Gene
+min = set65_frame0, 0.383
+5 top scores:
+[['set41_frame2', 1.758], ['set60_frame0', 1.759], ['set65_frame0', 0.383], ['set91_frame0', 1.763], ['set55_frame2', 1.808]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_65_frame0.fa.txt
+14 63
+Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFAVFILRKFSEIASRSGKVFIELLFWKNSKDAVEIEHGYELYNDP
+14 63
+set65_frame0
+ELEKFGLFIFRKFAEIASKNTKVFIELLFWKSSKDAIEVEHGYDLYTDQ
+Original query = ELEKFAVFILRKFSEIASRSGKVFIELLFWKNSKDAVEIEHGYELYNDP
+New query = ELEKFGLFIFRKFAEIASKNTKVFIELLFWKSSKDAIEVEHGYDLYTDQ
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5568229,5568323,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,29,31
+
+14
+18
+Troides_oblongomaculatus,JARDWC010000432.1,5566846,5567044,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Troides_oblongomaculatus,JARDWC010000432.1,5570605,5570769,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,53,53
+
+Getting Gene
+min = set25_frame1, 0.667
+5 top scores:
+[['set25_frame1', 0.667], ['set82_frame1', 1.658], ['set45_frame2', 1.683], ['set35_frame1', 1.743], ['set84_frame2', 1.748]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_25_frame1.fa.txt
+7 38
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_1_query_Exon_16
+DKPGKGAWSEEQEEELRKLYMENQANPETDQ
+7 38
+set25_frame1
+DKMGKGLWTEEQEGELRNLFMENQSNSKTNI
+Original query = DKPGKGAWSEEQEEELRKLYMENQANPETDQ
+New query = DKMGKGLWTEEQEGELRNLFMENQSNSKTNI
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5568901,5569110,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,69,69
+
+15
+19
+20
+Troides_oblongomaculatus,JARDWC010000432.1,5567661,5567809,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Troides_oblongomaculatus,JARDWC010000432.1,5572580,5572776,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set27_frame0, 0.417
+5 top scores:
+[['set27_frame0', 0.417], ['set96_frame0', 1.76], ['set66_frame0', 1.741], ['set73_frame1', 1.793], ['set103_frame2', 1.794]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_27_frame0.fa.txt
+14 83
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILENLIDQTRTRRGVIKKLKELGLVFKAPTKKTNRER-REKVPKDFSEEEDEMLRELWNQYEDTP
+14 83
+set27_frame0
+VIDWILENLIDQTRTRRGVIKKLKELGLIFKAPTKRINRERLTERVPKEFSEEEDSMLIDLWKQFADSA
+Original query = VIDWILENLIDQTRTRRGVIKKLKELGLVFKAPTKKTNRERREKVPKDFSEEEDEMLRELWNQYEDTP
+New query = VIDWILENLIDQTRTRRGVIKKLKELGLIFKAPTKRINRERLTERVPKEFSEEEDSMLIDLWKQFADSA
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5570605,5570769,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,53,53
+
+16
+20
+Troides_oblongomaculatus,JARDWC010000432.1,5568229,5568323,0,N,Papilio_xuthus_XM_013309668.1_Frame_1_rightoh_1_query_Exon_16,1,29,31
+
+Troides_oblongomaculatus,JARDWC010000432.1,5572580,5572776,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+Getting Gene
+min = set53_frame2, 0.683
+5 top scores:
+[['set53_frame2', 0.683], ['set92_frame1', 1.718], ['set83_frame2', 1.758], ['set60_frame2', 1.816], ['set76_frame2', 1.831]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_53_frame2.fa.txt
+6 57
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_18
+PMALILPRMPRKRSKRSFVDRLLELGVIQDRKQCRKKKQRRAKSAADDKSN
+6 57
+set53_frame2
+PMGLIIPRMPRKRPRSSFVERLLELDLIQDKKQCRKRKRPNSKSKGNKDND
+Original query = PMALILPRMPRKRSKRSFVDRLLELGVIQDRKQCRKKKQRRAKSAADDKSN
+New query = PMGLIIPRMPRKRPRSSFVERLLELDLIQDKKQCRKRKRPNSKSKGNKDND
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5572002,5572196,0,Y,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_19,15,62,64
+
+17
+21
+Troides_oblongomaculatus,JARDWC010000432.1,5568901,5569110,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_17,1,69,69
+
+Troides_oblongomaculatus,JARDWC010000432.1,5573341,5573773,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+Getting Gene
+min = set82_frame1, 1.255
+5 top scores:
+[['set40_frame2', 1.771], ['set1_frame2', 1.798], ['set102_frame0', 1.819], ['set107_frame0', 1.701], ['set82_frame1', 1.255]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_82_frame1.fa.txt
+13 79
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_19
+SSSESEASNSDSENDIVSPPAITVKPKKKNKTNAEKKQQIKNKKPVKSAELSANEIAKLLVQAVDE
+13 79
+set82_frame1
+SVSESSDDSGSDSNITIQPPQ---KAKKTVKNLKRKSAARTNKKSAERNELSASEIAKMLVQAVEN
+Original query = SSSESEASNSDSENDIVSPPAITVKPKKKNKTNAEKKQQIKNKKPVKSAELSANEIAKLLVQAVDE
+New query = SVSESSDDSGSDSNITIQPPQ---KAKKTVKNLKRKSAARTNKKSAERNELSASEIAKMLVQAVEN
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5572580,5572776,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_0_query_Exon_20,1,65,65
+
+18
+21
+Troides_oblongomaculatus,JARDWC010000432.1,5570605,5570769,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,53,53
+
+Troides_oblongomaculatus,JARDWC010000432.1,5573341,5573773,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+Getting Gene
+min = set54_frame0, 0.429
+5 top scores:
+[['set31_frame2', 1.849], ['set54_frame0', 0.429], ['set55_frame0', 1.873], ['set60_frame0', 1.8], ['set37_frame1', 1.862]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_54_frame0.fa.txt
+7 72
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_0_query_Exon_20
+YTEGLRWLAENLEEVALDQEAEGFDPTAEGTPLVPISSESVEAMDSALFTTVLKSIGILPPVDEQ
+7 72
+set54_frame0
+YTEALRWIAENLEEVALDQEAEGYDPSAEPTPLVPMSEYSVKAMESAMFCKVLKGVGISPPSDEQ
+Original query = YTEGLRWLAENLEEVALDQEAEGFDPTAEGTPLVPISSESVEAMDSALFTTVLKSIGILPPVDEQ
+New query = YTEALRWIAENLEEVALDQEAEGYDPSAEPTPLVPMSEYSVKAMESAMFCKVLKGVGISPPSDEQ
+Scaffold = JARDWC010000432.1, start = 5556529, end = 5556782
+Troides_oblongomaculatus,JARDWC010000432.1,5573341,5573773,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+19
+18
+21
+Troides_oblongomaculatus,JARDWC010000432.1,5570605,5570769,0,N,Papilio_xuthus_XM_013309668.1_Frame_2_rightoh_1_query_Exon_18,1,53,53
+
+Troides_oblongomaculatus,JARDWC010000432.1,5573341,5573773,0,N,Papilio_xuthus_XM_013309668.1_Frame_0_rightoh_1_query_Exon_21,1,144,146
+
+Getting Gene
+min = set60_frame0, 0.955
+5 top scores:
+[['set60_frame0', 0.955]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_oblongomaculatus/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_60_frame0.fa.txt
+0 166
+Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_1_query_Exon_21
+ETYWRIPSNLHHATIRKRREIIIKAVNKELIIDNANYDQSNKFNNAEEPPKSKAESSDDDDLFDNLRKMRDNIPEKIDAVSNHKSIPNNKNVSNNASVSNGKIESKNRKRSRSIDSDEGNNRKMQRIDE---IEDEDEDILSFAKKTLQTELPDTEDILSGLPQHS
+0 166
+set60_frame0
+EVYWRIPSHLHYETIRRRREIILKAVNKELIIDDTAI-STTVIPEEEENHQKNIESSDDDDLFDNLRKLRD---------------------TKDYDVKNISSKSNSRKRSRSADEGDSKKGKMQKIEEEKLIYDED-DILSFAKKTLQSDEPNTEDILSNIPIHN
+Original query = ETYWRIPSNLHHATIRKRREIIIKAVNKELIIDNANYDQSNKFNNAEEPPKSKAESSDDDDLFDNLRKMRDNIPEKIDAVSNHKSIPNNKNVSNNASVSNGKIESKNRKRSRSIDSDEGNNRKMQRIDEIEDEDEDILSFAKKTLQTELPDTEDILSGLPQHS
+New query = EVYWRIPSHLHYETIRRRREIILKAVNKELIIDDTAI-STTVIPEEEENHQKNIESSDDDDLFDNLRKLRD---------------------TKDYDVKNISSKSNSRKRSRSADEGDSKKGKMQKIEEEKLIYDED-DILSFAKKTLQSDEPNTEDILSNIPIHN

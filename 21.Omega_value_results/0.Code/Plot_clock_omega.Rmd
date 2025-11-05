@@ -1,0 +1,31 @@
+---
+title: "Plot Clock Omega"
+output: html_document
+date: "2024-12-17"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(cowplot)
+```
+
+## R Markdown
+
+This is an R Markdown document.
+
+```{r}
+
+omega_values = read.table("G:/My Drive/Circadian Rhythm Genes Project/21.Omega_value_results/3.Clock_omega/omega_all.csv", header = T, sep = ",")
+omega_values$Gene <- factor(omega_values$Gene, levels = unique(omega_values$Gene))
+ggplot(omega_values, aes(as.factor(Gene),Omega, col = Gene))+
+  geom_boxplot(outlier.shape = NA)+
+  coord_cartesian(ylim = c(0, 1)) +
+  geom_jitter(width = 0.1,size = 2)+
+  labs(x = "Clock Genes", y = "Omega (dN/dS)")+
+  theme_cowplot(12)+
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1), legend.position = "none")
+```

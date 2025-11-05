@@ -1,0 +1,629 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Dryadula_phaetusa
+Processing Exon_2
+0 query coordinate
+Period_gene_genomic_sequence_individual_exon
+48
+[[2, 1]]
+reached here
+Before splice: 4101,4247
+after splice: 4101,4247
+sequence:
+ACCAAAGTAGTGGGGTATAACCGCATGCGTTATCTCCTAGAAGCTCTGAACGATCTTGATGTTCAGTTCAGGAAATATGGCGGGAGATTGCATATGATTAAAGGGAAACCTGACGTTGTATTCAAACGTCTTTGGGAAGAGTTTG
+sequence:
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEEF
+[[2, 1]]
+start_coordinate : 3320740,stop_coordinate : 3320883
+4101 4247 Y N
+Dryadula_phaetusa,,3320738,3320884,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Dryadula_phaetusa
+Processing Exon_3
+Dryadula_phaetusa_coordinates_Danaus_plexippus.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 5301,5488
+after splice: 5301,5488
+sequence:
+ATCCGCAAGATATGCTTCGAACAGGATTGCGAGCCCATATGGCGGGCTCGCGACGAAGGTGTACGAACACTGTGTCGTGAGATTGGGGTCTCGTGTCGGGAACACGTGTCGCACACTCTGTGGGACCCTGACACCGTTATTAGAGCCAACGGTGGTATCCCACCGTTAACGTATCAGATGTTCTTG
+sequence:
+IRKICFEQDCEPIWRARDEGVRTLCREIGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+IRKICFEQDCEPIWRARDEGVRTLCREIGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 3321940,stop_coordinate : 3322125
+5301 5488 Y N
+Dryadula_phaetusa,,3321938,3322125,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Dryadula_phaetusa
+Processing Exon_4
+Dryadula_phaetusa_coordinates_Danaus_plexippus.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 5868,5984
+after splice: 5868,5984
+sequence:
+CATACCGTAGCAATCATTGGGGACCCGCCTCGCCCAGTCGACGATGTTGATCTGAAAGGGATCAATTTTGGAACTCTACCAGAAAGTTTTTACAATGAATTTACTGTATTTGATGAG
+sequence:
+HTVAIIGDPPRPVDDVDLKGINFGTLPESFYNEFTVFDE
+left = AG, right =GT, stop_counter = 0
+HTVAIIGDPPRPVDDVDLKGINFGTLPESFYNEFTVFDE
+[[0, 0]]
+start_coordinate : 3322505,stop_coordinate : 3322621
+5868 5984 Y N
+Dryadula_phaetusa,,3322505,3322621,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Dryadula_phaetusa
+Processing Exon_5
+Dryadula_phaetusa_coordinates_Danaus_plexippus.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 6462,6595
+after splice: 6462,6595
+sequence:
+gcTCCAAAACCTGAAGATTTAGGTGTGTTCCTAGAAAACGAAGATATTCGTATGATACGCTGGGTGGGAGGGGAAACTGCAGCCTTGAACCAAATGCAGAACCGCCTGGCGGTGGAGTATGAAACGTTCTGCAG
+sequence:
+APKPEDLGVFLENEDIRMIRWVGGETAALNQMQNRLAVEYETFC
+left = ag, right =GT, stop_counter = 0
+APKPEDLGVFLENEDIRMIRWVGGETAALNQMQNRLAVEYETFC
+[[0, 2]]
+start_coordinate : 3323099,stop_coordinate : 3323230
+6462 6595 Y N
+Dryadula_phaetusa,,3323099,3323232,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Dryadula_phaetusa
+Processing Exon_6
+Dryadula_phaetusa_coordinates_Danaus_plexippus.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 7339,7434
+after splice: 7339,7434
+sequence:
+GGATCCTATTTGCCAACGCACGGTAATCCGGACTTGCTGGGGCCACCCATATCATTGAGCCCGGCTCTACGATTTGGATGTCTTTCTGTCCGCCG
+sequence:
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+left = AG, right =GT, stop_counter = 0
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 3323977,stop_coordinate : 3324069
+7339 7434 Y N
+Dryadula_phaetusa,,3323976,3324071,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Dryadula_phaetusa
+Processing Exon_7
+Dryadula_phaetusa_coordinates_Danaus_plexippus.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 8086,8159
+after splice: 8086,8159
+sequence:
+ttTTATTGGTGTGTCCAAGATTTATTCCACCAAGTGAACCAAGGACAACTTGCGTCCACTCAGTTTATTACgg
+sequence:
+FYWCVQDLFHQVNQGQLASTQFIT
+left = ag, right =gt, stop_counter = 0
+FYWCVQDLFHQVNQGQLASTQFIT
+[[1, 1]]
+start_coordinate : 3324724,stop_coordinate : 3324795
+8086 8159 Y N
+Dryadula_phaetusa,,3324723,3324796,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Dryadula_phaetusa
+Processing Exon_8
+Dryadula_phaetusa_coordinates_Danaus_plexippus.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 9025,9151
+after splice: 9025,9151
+sequence:
+CAACTTATATGGCGTGAGTATTTCTACACGATGAGCGTGAACAACCCGAACTACGGACAAATGGGTAATAATCCCATATGCCTGAACATCCCATGGAAGGAGCCAGAAGGCGATGAATTGCAAAG
+sequence:
+QLIWREYFYTMSVNNPNYGQMGNNPICLNIPWKEPEGDELQ
+left = ag, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPNYGQMGNNPICLNIPWKEPEGDELQ
+[[2, 2]]
+start_coordinate : 3325664,stop_coordinate : 3325786
+9025 9151 Y N
+Dryadula_phaetusa,,3325662,3325788,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Dryadula_phaetusa
+Processing Exon_9
+Dryadula_phaetusa_coordinates_Danaus_plexippus.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 10667,10849
+after splice: 10667,10849
+sequence:
+TGGCGCGAGGGCCGCACGGGGTTCCCCTTCATCGACGCGGCCATGCGCCAGCTGCGCACGGAGGGCTGGCTGCACCACGCCGTGCGCAACACCGTGGCGTCCTTCCTCACGCGCGGCACGCTGTGGCTGTCCTGGGAGCACGGCCTCAACCACTTCCTCAAGTACCTCTTGGACGCTGACTG
+sequence:
+WREGRTGFPFIDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WREGRTGFPFIDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 3327305,stop_coordinate : 3327484
+10667 10849 Y N
+Dryadula_phaetusa,,3327304,3327486,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Dryadula_phaetusa
+Processing Exon_10
+Dryadula_phaetusa_coordinates_Danaus_plexippus.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 11825,11992
+after splice: 11825,11992
+sequence:
+TCGGTATGCGCGGGCAACTGGATGTGGGTGTCGTCGTCGGCGTTCGAGGCGCTGCTGGACTCGGGCGAGTGCGCGTGTCCGGTGCGCCTCGGGCGCCGCCTCGAGCCCAGCGGACACTACGTGCGCCGCTACGTGCCCGAGCTCGCCAACATGCCCGTCGAGTACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELANMPVEY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELANMPVEY
+[[1, 2]]
+start_coordinate : 3328463,stop_coordinate : 3328627
+11825 11992 Y N
+Dryadula_phaetusa,,3328462,3328629,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Dryadula_phaetusa
+Processing Exon_11
+Dryadula_phaetusa_coordinates_Danaus_plexippus.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 12321,12441
+after splice: 12321,12441
+sequence:
+TACTCGCCGTGGACGGCGCCGCTGGAGGTGCAGGCGCGCGCGCGCTGCGTGGTGGGGCGCGACTACCCGGCGCCCGTCGTGGACcaccgcgccgccgccgcgcgcaaCCGCAGCGCCATG
+sequence:
+YSPWTAPLEVQARARCVVGRDYPAPVVDHRAAAARNRSAM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACTCGCCGTGGACGGCGCCGCTGGAGGTGCAGGCGCGCGCGCGCTGCGTGGTGGGGCGCGACTACCCGGCGCCCGTCGTGGACcaccgcgccgccgccgcgcgcaaCCGCAGCGCCATGCAG
+sequence:
+YSPWTAPLEVQARARCVVGRDYPAPVVDHRAAAARNRSAMQ
+left = AG, right =GT, stop_counter = 0
+YSPWTAPLEVQARARCVVGRDYPAPVVDHRAAAARNRSAMQ
+[[1, 0]]
+start_coordinate : 3328959,stop_coordinate : 3329081
+12321 12444 Y N
+Dryadula_phaetusa,,3328958,3329081,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Dryadula_phaetusa
+Processing Exon_2
+0 query coordinate
+Dryadula_phaetusa_coordinates_Danaus_plexippus.csv
+48
+[[2, 1]]
+reached here
+Before splice: 4101,4247
+after splice: 4101,4247
+sequence:
+ACCAAAGTAGTGGGGTATAACCGCATGCGTTATCTCCTAGAAGCTCTGAACGATCTTGATGTTCAGTTCAGGAAATATGGCGGGAGATTGCATATGATTAAAGGGAAACCTGACGTTGTATTCAAACGTCTTTGGGAAGAGTTTG
+sequence:
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEEF
+[[2, 1]]
+start_coordinate : 3320740,stop_coordinate : 3320883
+4101 4247 Y N
+Dryadula_phaetusa,,3320738,3320884,0,N,Nymphalis_io_XM_050489987.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Dryadula_phaetusa
+Processing Exon_3
+Dryadula_phaetusa_coordinates_Nymphalis_io.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 5301,5488
+after splice: 5301,5488
+sequence:
+ATCCGCAAGATATGCTTCGAACAGGATTGCGAGCCCATATGGCGGGCTCGCGACGAAGGTGTACGAACACTGTGTCGTGAGATTGGGGTCTCGTGTCGGGAACACGTGTCGCACACTCTGTGGGACCCTGACACCGTTATTAGAGCCAACGGTGGTATCCCACCGTTAACGTATCAGATGTTCTTG
+sequence:
+IRKICFEQDCEPIWRARDEGVRTLCREIGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+IRKICFEQDCEPIWRARDEGVRTLCREIGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 3321940,stop_coordinate : 3322125
+5301 5488 Y N
+Dryadula_phaetusa,,3321938,3322125,0,N,Nymphalis_io_XM_050489987.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Dryadula_phaetusa
+Processing Exon_4
+Dryadula_phaetusa_coordinates_Nymphalis_io.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 5868,5984
+after splice: 5868,5984
+sequence:
+CATACCGTAGCAATCATTGGGGACCCGCCTCGCCCAGTCGACGATGTTGATCTGAAAGGGATCAATTTTGGAACTCTACCAGAAAGTTTTTACAATGAATTTACTGTATTTGATGAG
+sequence:
+HTVAIIGDPPRPVDDVDLKGINFGTLPESFYNEFTVFDE
+left = AG, right =GT, stop_counter = 0
+HTVAIIGDPPRPVDDVDLKGINFGTLPESFYNEFTVFDE
+[[0, 0]]
+start_coordinate : 3322505,stop_coordinate : 3322621
+5868 5984 Y N
+Dryadula_phaetusa,,3322505,3322621,0,N,Nymphalis_io_XM_050489987.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Dryadula_phaetusa
+Processing Exon_5
+Dryadula_phaetusa_coordinates_Nymphalis_io.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 6462,6595
+after splice: 6462,6595
+sequence:
+gcTCCAAAACCTGAAGATTTAGGTGTGTTCCTAGAAAACGAAGATATTCGTATGATACGCTGGGTGGGAGGGGAAACTGCAGCCTTGAACCAAATGCAGAACCGCCTGGCGGTGGAGTATGAAACGTTCTGCAG
+sequence:
+APKPEDLGVFLENEDIRMIRWVGGETAALNQMQNRLAVEYETFC
+left = ag, right =GT, stop_counter = 0
+APKPEDLGVFLENEDIRMIRWVGGETAALNQMQNRLAVEYETFC
+[[0, 2]]
+start_coordinate : 3323099,stop_coordinate : 3323230
+6462 6595 Y N
+Dryadula_phaetusa,,3323099,3323232,0,N,Nymphalis_io_XM_050489987.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Dryadula_phaetusa
+Processing Exon_6
+Dryadula_phaetusa_coordinates_Nymphalis_io.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 7339,7434
+after splice: 7339,7434
+sequence:
+GGATCCTATTTGCCAACGCACGGTAATCCGGACTTGCTGGGGCCACCCATATCATTGAGCCCGGCTCTACGATTTGGATGTCTTTCTGTCCGCCG
+sequence:
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+left = AG, right =GT, stop_counter = 0
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 3323977,stop_coordinate : 3324069
+7339 7434 Y N
+Dryadula_phaetusa,,3323976,3324071,0,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Dryadula_phaetusa
+Processing Exon_7
+Dryadula_phaetusa_coordinates_Nymphalis_io.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 8086,8159
+after splice: 8086,8159
+sequence:
+ttTTATTGGTGTGTCCAAGATTTATTCCACCAAGTGAACCAAGGACAACTTGCGTCCACTCAGTTTATTACgg
+sequence:
+FYWCVQDLFHQVNQGQLASTQFIT
+left = ag, right =gt, stop_counter = 0
+FYWCVQDLFHQVNQGQLASTQFIT
+[[1, 1]]
+start_coordinate : 3324724,stop_coordinate : 3324795
+8086 8159 Y N
+Dryadula_phaetusa,,3324723,3324796,0,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Dryadula_phaetusa
+Processing Exon_8
+Dryadula_phaetusa_coordinates_Nymphalis_io.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 9025,9151
+after splice: 9025,9151
+sequence:
+CAACTTATATGGCGTGAGTATTTCTACACGATGAGCGTGAACAACCCGAACTACGGACAAATGGGTAATAATCCCATATGCCTGAACATCCCATGGAAGGAGCCAGAAGGCGATGAATTGCAAAG
+sequence:
+QLIWREYFYTMSVNNPNYGQMGNNPICLNIPWKEPEGDELQ
+left = ag, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPNYGQMGNNPICLNIPWKEPEGDELQ
+[[2, 2]]
+start_coordinate : 3325664,stop_coordinate : 3325786
+9025 9151 Y N
+Dryadula_phaetusa,,3325662,3325788,0,N,Nymphalis_io_XM_050489987.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Dryadula_phaetusa
+Processing Exon_9
+Dryadula_phaetusa_coordinates_Nymphalis_io.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 10667,10849
+after splice: 10667,10849
+sequence:
+TGGCGCGAGGGCCGCACGGGGTTCCCCTTCATCGACGCGGCCATGCGCCAGCTGCGCACGGAGGGCTGGCTGCACCACGCCGTGCGCAACACCGTGGCGTCCTTCCTCACGCGCGGCACGCTGTGGCTGTCCTGGGAGCACGGCCTCAACCACTTCCTCAAGTACCTCTTGGACGCTGACTG
+sequence:
+WREGRTGFPFIDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WREGRTGFPFIDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 3327305,stop_coordinate : 3327484
+10667 10849 Y N
+Dryadula_phaetusa,,3327304,3327486,0,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Dryadula_phaetusa
+Processing Exon_10
+Dryadula_phaetusa_coordinates_Nymphalis_io.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 11825,11992
+after splice: 11825,11992
+sequence:
+TCGGTATGCGCGGGCAACTGGATGTGGGTGTCGTCGTCGGCGTTCGAGGCGCTGCTGGACTCGGGCGAGTGCGCGTGTCCGGTGCGCCTCGGGCGCCGCCTCGAGCCCAGCGGACACTACGTGCGCCGCTACGTGCCCGAGCTCGCCAACATGCCCGTCGAGTACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELANMPVEY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELANMPVEY
+[[1, 2]]
+start_coordinate : 3328463,stop_coordinate : 3328627
+11825 11992 Y N
+Dryadula_phaetusa,,3328462,3328629,0,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Dryadula_phaetusa
+Processing Exon_11
+Dryadula_phaetusa_coordinates_Nymphalis_io.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 12321,12441
+after splice: 12321,12441
+sequence:
+TACTCGCCGTGGACGGCGCCGCTGGAGGTGCAGGCGCGCGCGCGCTGCGTGGTGGGGCGCGACTACCCGGCGCCCGTCGTGGACcaccgcgccgccgccgcgcgcaaCCGCAGCGCCATG
+sequence:
+YSPWTAPLEVQARARCVVGRDYPAPVVDHRAAAARNRSAM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACTCGCCGTGGACGGCGCCGCTGGAGGTGCAGGCGCGCGCGCGCTGCGTGGTGGGGCGCGACTACCCGGCGCCCGTCGTGGACcaccgcgccgccgccgcgcgcaaCCGCAGCGCCATGCAG
+sequence:
+YSPWTAPLEVQARARCVVGRDYPAPVVDHRAAAARNRSAMQ
+left = AG, right =GT, stop_counter = 0
+YSPWTAPLEVQARARCVVGRDYPAPVVDHRAAAARNRSAMQ
+[[1, 0]]
+start_coordinate : 3328959,stop_coordinate : 3329081
+12321 12444 Y N
+Dryadula_phaetusa,,3328958,3329081,0,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Dryadula_phaetusa
+Processing Exon_2
+0 query coordinate
+Dryadula_phaetusa_coordinates_Nymphalis_io.csv
+47
+[[2, 1]]
+reached here
+Before splice: 4101,4244
+after splice: 4101,4244
+sequence:
+ACCAAAGTAGTGGGGTATAACCGCATGCGTTATCTCCTAGAAGCTCTGAACGATCTTGATGTTCAGTTCAGGAAATATGGCGGGAGATTGCATATGATTAAAGGGAAACCTGACGTTGTATTCAAACGTCTTTGGGAAGAGT
+sequence:
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEE
+left = AG, right =TT, stop_counter = 0
+sequence:
+ACCAAAGTAGTGGGGTATAACCGCATGCGTTATCTCCTAGAAGCTCTGAACGATCTTGATGTTCAGTTCAGGAAATATGGCGGGAGATTGCATATGATTAAAGGGAAACCTGACGTTGTATTCAAACGTCTTTGGGAAGAGTTTG
+sequence:
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEEF
+[[2, 1]]
+start_coordinate : 3320740,stop_coordinate : 3320883
+4101 4247 Y N
+Dryadula_phaetusa,,3320738,3320884,0,N,Vanessa_tameamea_XM_026643186.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Dryadula_phaetusa
+Processing Exon_3
+Dryadula_phaetusa_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 5301,5488
+after splice: 5301,5488
+sequence:
+ATCCGCAAGATATGCTTCGAACAGGATTGCGAGCCCATATGGCGGGCTCGCGACGAAGGTGTACGAACACTGTGTCGTGAGATTGGGGTCTCGTGTCGGGAACACGTGTCGCACACTCTGTGGGACCCTGACACCGTTATTAGAGCCAACGGTGGTATCCCACCGTTAACGTATCAGATGTTCTTG
+sequence:
+IRKICFEQDCEPIWRARDEGVRTLCREIGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+IRKICFEQDCEPIWRARDEGVRTLCREIGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 3321940,stop_coordinate : 3322125
+5301 5488 Y N
+Dryadula_phaetusa,,3321938,3322125,0,N,Vanessa_tameamea_XM_026643186.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Dryadula_phaetusa
+Processing Exon_4
+Dryadula_phaetusa_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+38
+[[0, 0]]
+reached here
+Before splice: 5868,5981
+after splice: 5868,5981
+sequence:
+CATACCGTAGCAATCATTGGGGACCCGCCTCGCCCAGTCGACGATGTTGATCTGAAAGGGATCAATTTTGGAACTCTACCAGAAAGTTTTTACAATGAATTTACTGTATTTGAT
+sequence:
+HTVAIIGDPPRPVDDVDLKGINFGTLPESFYNEFTVFD
+left = AG, right =GA, stop_counter = 0
+sequence:
+CATACCGTAGCAATCATTGGGGACCCGCCTCGCCCAGTCGACGATGTTGATCTGAAAGGGATCAATTTTGGAACTCTACCAGAAAGTTTTTACAATGAATTTACTGTATTTGATGAG
+sequence:
+HTVAIIGDPPRPVDDVDLKGINFGTLPESFYNEFTVFDE
+left = AG, right =GT, stop_counter = 0
+HTVAIIGDPPRPVDDVDLKGINFGTLPESFYNEFTVFDE
+[[0, 0]]
+start_coordinate : 3322505,stop_coordinate : 3322621
+5868 5984 Y N
+Dryadula_phaetusa,,3322505,3322621,0,N,Vanessa_tameamea_XM_026643186.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Dryadula_phaetusa
+Processing Exon_5
+Dryadula_phaetusa_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 6462,6595
+after splice: 6462,6595
+sequence:
+gcTCCAAAACCTGAAGATTTAGGTGTGTTCCTAGAAAACGAAGATATTCGTATGATACGCTGGGTGGGAGGGGAAACTGCAGCCTTGAACCAAATGCAGAACCGCCTGGCGGTGGAGTATGAAACGTTCTGCAG
+sequence:
+APKPEDLGVFLENEDIRMIRWVGGETAALNQMQNRLAVEYETFC
+left = ag, right =GT, stop_counter = 0
+APKPEDLGVFLENEDIRMIRWVGGETAALNQMQNRLAVEYETFC
+[[0, 2]]
+start_coordinate : 3323099,stop_coordinate : 3323230
+6462 6595 Y N
+Dryadula_phaetusa,,3323099,3323232,0,N,Vanessa_tameamea_XM_026643186.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Dryadula_phaetusa
+Processing Exon_6
+Dryadula_phaetusa_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 7339,7434
+after splice: 7339,7434
+sequence:
+GGATCCTATTTGCCAACGCACGGTAATCCGGACTTGCTGGGGCCACCCATATCATTGAGCCCGGCTCTACGATTTGGATGTCTTTCTGTCCGCCG
+sequence:
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+left = AG, right =GT, stop_counter = 0
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 3323977,stop_coordinate : 3324069
+7339 7434 Y N
+Dryadula_phaetusa,,3323976,3324071,0,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Dryadula_phaetusa
+Processing Exon_7
+Dryadula_phaetusa_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 8086,8159
+after splice: 8086,8159
+sequence:
+ttTTATTGGTGTGTCCAAGATTTATTCCACCAAGTGAACCAAGGACAACTTGCGTCCACTCAGTTTATTACgg
+sequence:
+FYWCVQDLFHQVNQGQLASTQFIT
+left = ag, right =gt, stop_counter = 0
+FYWCVQDLFHQVNQGQLASTQFIT
+[[1, 1]]
+start_coordinate : 3324724,stop_coordinate : 3324795
+8086 8159 Y N
+Dryadula_phaetusa,,3324723,3324796,0,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Dryadula_phaetusa
+Processing Exon_8
+Dryadula_phaetusa_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 9025,9151
+after splice: 9025,9151
+sequence:
+CAACTTATATGGCGTGAGTATTTCTACACGATGAGCGTGAACAACCCGAACTACGGACAAATGGGTAATAATCCCATATGCCTGAACATCCCATGGAAGGAGCCAGAAGGCGATGAATTGCAAAG
+sequence:
+QLIWREYFYTMSVNNPNYGQMGNNPICLNIPWKEPEGDELQ
+left = ag, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPNYGQMGNNPICLNIPWKEPEGDELQ
+[[2, 2]]
+start_coordinate : 3325664,stop_coordinate : 3325786
+9025 9151 Y N
+Dryadula_phaetusa,,3325662,3325788,0,N,Vanessa_tameamea_XM_026643186.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Dryadula_phaetusa
+Processing Exon_9
+Dryadula_phaetusa_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 10667,10849
+after splice: 10667,10849
+sequence:
+TGGCGCGAGGGCCGCACGGGGTTCCCCTTCATCGACGCGGCCATGCGCCAGCTGCGCACGGAGGGCTGGCTGCACCACGCCGTGCGCAACACCGTGGCGTCCTTCCTCACGCGCGGCACGCTGTGGCTGTCCTGGGAGCACGGCCTCAACCACTTCCTCAAGTACCTCTTGGACGCTGACTG
+sequence:
+WREGRTGFPFIDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WREGRTGFPFIDAAMRQLRTEGWLHHAVRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 3327305,stop_coordinate : 3327484
+10667 10849 Y N
+Dryadula_phaetusa,,3327304,3327486,0,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Dryadula_phaetusa
+Processing Exon_10
+Dryadula_phaetusa_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 11825,11992
+after splice: 11825,11992
+sequence:
+TCGGTATGCGCGGGCAACTGGATGTGGGTGTCGTCGTCGGCGTTCGAGGCGCTGCTGGACTCGGGCGAGTGCGCGTGTCCGGTGCGCCTCGGGCGCCGCCTCGAGCCCAGCGGACACTACGTGCGCCGCTACGTGCCCGAGCTCGCCAACATGCCCGTCGAGTACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELANMPVEY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPSGHYVRRYVPELANMPVEY
+[[1, 2]]
+start_coordinate : 3328463,stop_coordinate : 3328627
+11825 11992 Y N
+Dryadula_phaetusa,,3328462,3328629,0,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Dryadula_phaetusa
+Processing Exon_11
+Dryadula_phaetusa_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 12321,12441
+after splice: 12321,12441
+sequence:
+TACTCGCCGTGGACGGCGCCGCTGGAGGTGCAGGCGCGCGCGCGCTGCGTGGTGGGGCGCGACTACCCGGCGCCCGTCGTGGACcaccgcgccgccgccgcgcgcaaCCGCAGCGCCATG
+sequence:
+YSPWTAPLEVQARARCVVGRDYPAPVVDHRAAAARNRSAM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACTCGCCGTGGACGGCGCCGCTGGAGGTGCAGGCGCGCGCGCGCTGCGTGGTGGGGCGCGACTACCCGGCGCCCGTCGTGGACcaccgcgccgccgccgcgcgcaaCCGCAGCGCCATGCAG
+sequence:
+YSPWTAPLEVQARARCVVGRDYPAPVVDHRAAAARNRSAMQ
+left = AG, right =GT, stop_counter = 0
+YSPWTAPLEVQARARCVVGRDYPAPVVDHRAAAARNRSAMQ
+[[1, 0]]
+start_coordinate : 3328959,stop_coordinate : 3329081
+12321 12444 Y N
+Dryadula_phaetusa,,3328958,3329081,0,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+

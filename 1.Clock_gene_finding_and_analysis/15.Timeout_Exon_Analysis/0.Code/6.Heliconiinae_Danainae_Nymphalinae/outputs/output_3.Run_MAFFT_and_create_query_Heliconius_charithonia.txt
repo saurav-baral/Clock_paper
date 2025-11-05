@@ -1,0 +1,1350 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4041731,4041914,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Heliconius_charithonia,CM060814.1,4041357,4041610,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Heliconius_charithonia,CM060814.1,4042952,4043208,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set4_frame0, 0.236
+5 top scores:
+[['set52_frame2', 1.812], ['set4_frame0', 0.236], ['set5_frame0', 1.799], ['set30_frame1', 1.867], ['set37_frame1', 1.801]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_4_frame0.fa.txt
+12 73
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPVERNDRHNYLQILSHLQSYKEDAFTKVENWQVFAKKLGKVLEI
+12 73
+set4_frame0
+LLVNLTNPALLLYREEVPVERTARHNYLQILSHLQYYKEEAFTKVETWQVFAKKLAKILEI
+Original query = LIVNLTNPALLLYREEVPVERNDRHNYLQILSHLQSYKEDAFTKVENWQVFAKKLGKVLEI
+New query = LLVNLTNPALLLYREEVPVERTARHNYLQILSHLQYYKEEAFTKVETWQVFAKKLAKILEI
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4041993,4042127,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Heliconius_charithonia,CM060814.1,4041357,4041610,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Heliconius_charithonia,CM060814.1,4043292,4043489,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set5_frame0, 0.011
+5 top scores:
+[['set52_frame1', 1.722], ['set52_frame2', 1.765], ['set5_frame0', 0.011], ['set29_frame1', 1.821], ['set30_frame1', 1.842]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_5_frame0.fa.txt
+0 45
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+0 45
+set5_frame0
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Original query = DWSERDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+New query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4042952,4043208,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Heliconius_charithonia,CM060814.1,4041731,4041914,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Heliconius_charithonia,CM060814.1,4043866,4044048,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set40_frame0, 0.158
+5 top scores:
+[['set40_frame0', 0.158], ['set1_frame1', 1.86], ['set39_frame2', 1.822]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_40_frame0.fa.txt
+0 85
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPSSLADAALQRSVDEKVRDDQELLMIRMTENKDRMNKIRHYSST
+0 85
+set40_frame0
+VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLKDDQELLMLRMSESKERMNKVKQYSST
+Original query = VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPSSLADAALQRSVDEKVRDDQELLMIRMTENKDRMNKIRHYSST
+New query = VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLKDDQELLMLRMSESKERMNKVKQYSST
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4043292,4043489,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Heliconius_charithonia,CM060814.1,4041993,4042127,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Heliconius_charithonia,CM060814.1,4044361,4044648,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set31_frame1, 0.13
+5 top scores:
+[['set31_frame1', 0.13], ['set29_frame2', 1.848], ['set49_frame2', 1.832], ['set56_frame2', 1.825]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_31_frame1.fa.txt
+1 66
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVQNMKSISDNELICLKPLNKISNLDFNGSKKQKLVKPKNRRPTESGTMERRSAFAI
+1 66
+set31_frame1
+HSRFGGTYVIQNMKSISDNELICLKPLNKISNLDFNGSKKSKLVRPKNRRPVESGILERRSAFAI
+Original query = HSRFGGTYVVQNMKSISDNELICLKPLNKISNLDFNGSKKQKLVKPKNRRPTESGTMERRSAFAI
+New query = HSRFGGTYVIQNMKSISDNELICLKPLNKISNLDFNGSKKSKLVRPKNRRPVESGILERRSAFAI
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4043866,4044048,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+9
+Heliconius_charithonia,CM060814.1,4042952,4043208,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Heliconius_charithonia,CM060814.1,4045333,4045474,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Getting Gene
+min = set21_frame0, 0.159
+5 top scores:
+[['set54_frame1', 1.757], ['set10_frame2', 1.795], ['set21_frame0', 0.159], ['set28_frame0', 1.767], ['set33_frame0', 1.809]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_21_frame0.fa.txt
+6 66
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNVLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRAHDFQVGFV
+6 66
+set21_frame0
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHHFQVGLV
+Original query = LFLKEFCIEFLNSSYNVLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRAHDFQVGFV
+New query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHHFQVGLV
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4044361,4044648,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Heliconius_charithonia,CM060814.1,4043292,4043489,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Heliconius_charithonia,CM060814.1,4045333,4045474,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Getting Gene
+min = set26_frame2, 0.229
+5 top scores:
+[['set26_frame2', 0.229], ['set31_frame2', 1.825]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_26_frame2.fa.txt
+24 119
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQMEKYYDMISVEKKKFTNWVRRLHLALRAYKELLHTLLAMDASKDHTVRESAKVLKSNIFYVLEYREFILSMYLNYDENKMP
+24 119
+set26_frame2
+ETMSVPMFHYVQQQMEKYYDMIKVEKKKFSTWVRRLHLALRAYKELLNTLLAMDKSNDTMVKESAKVLKSNIFYVLEYREFILSIFLNYDESKMP
+Original query = ETMSVPMFHYVQQQMEKYYDMISVEKKKFTNWVRRLHLALRAYKELLHTLLAMDASKDHTVRESAKVLKSNIFYVLEYREFILSMYLNYDENKMP
+New query = ETMSVPMFHYVQQQMEKYYDMIKVEKKKFSTWVRRLHLALRAYKELLNTLLAMDKSNDTMVKESAKVLKSNIFYVLEYREFILSIFLNYDESKMP
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4044806,4044924,0,Y,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8,1,29,39
+
+6
+10
+Heliconius_charithonia,CM060814.1,4043866,4044048,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Heliconius_charithonia,CM060814.1,4047084,4047164,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,2,26,26
+
+Getting Gene
+min = set26_frame2, 0.09
+5 top scores:
+[['set26_frame2', 0.09], ['set9_frame1', 1.655], ['set21_frame1', 1.769], ['set54_frame0', 1.64], ['set9_frame2', 1.773]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_26_frame2.fa.txt
+9 48
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLVETVHLFLKMLEHYCKRTGLVVQKKVRKKTKAK
+9 48
+set26_frame2
+SYLVDLIETVHLFLKMLEHYCKRTGLVVQKKARKKTKTK
+Original query = SYLVDLVETVHLFLKMLEHYCKRTGLVVQKKVRKKTKAK
+New query = SYLVDLIETVHLFLKMLEHYCKRTGLVVQKKARKKTKTK
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4045333,4045474,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+7
+11
+Heliconius_charithonia,CM060814.1,4044361,4044648,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Heliconius_charithonia,CM060814.1,4047343,4047452,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Getting Gene
+min = set15_frame2, 0.886
+5 top scores:
+[['set15_frame2', 0.886], ['set25_frame1', 1.819], ['set58_frame0', 1.816], ['set1_frame1', 1.764], ['set47_frame1', 1.827]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_15_frame2.fa.txt
+10 58
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9
+QKPKIKPKVIELSPWEEIRPQLAAVLSSGVEHYLPPFDAASETPIDQQ
+10 58
+set15_frame2
+QKP--APTLLMGWGWERVRPQMAAVLSSATEECPPPFDAASDVPIDQQ
+Original query = QKPKIKPKVIELSPWEEIRPQLAAVLSSGVEHYLPPFDAASETPIDQQ
+New query = QKP--APTLLMGWGWERVRPQMAAVLSSATEECPPPFDAASDVPIDQQ
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4047084,4047164,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,2,26,26
+
+8
+7
+12
+13
+14
+Heliconius_charithonia,CM060814.1,4044361,4044648,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Heliconius_charithonia,CM060814.1,4049350,4049548,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,63,66
+
+Getting Gene
+min = set62_frame0, 0.196
+5 top scores:
+[['set62_frame0', 0.196], ['set92_frame1', 1.638], ['set103_frame1', 1.646], ['set57_frame2', 1.657], ['set64_frame2', 1.694]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_62_frame0.fa.txt
+3 29
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQRLMRDHKYEDVIGTFRAA
+3 29
+set62_frame0
+GDCMKKIQKLMRDHKYEDAVGTFRAA
+Original query = EDCMKKIQRLMRDHKYEDVIGTFRAA
+New query = GDCMKKIQKLMRDHKYEDAVGTFRAA
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4047343,4047452,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+9
+13
+14
+Heliconius_charithonia,CM060814.1,4045333,4045474,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Heliconius_charithonia,CM060814.1,4049350,4049548,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,63,66
+
+Getting Gene
+min = set36_frame1, 0.414
+5 top scores:
+[['set36_frame1', 0.414], ['set92_frame1', 1.747], ['set69_frame2', 1.752], ['set77_frame1', 1.791], ['set32_frame0', 1.763]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_36_frame1.fa.txt
+16 50
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEDGIFGVSGMPEDEELDMLETIYNTDLGLD
+16 50
+set36_frame1
+EVWPEEGIFGASDIKEDEELDMLETIYNTDLGMD
+Original query = EVWPEDGIFGVSGMPEDEELDMLETIYNTDLGLDYE
+New query = EVWPEEGIFGASDIKEDEELDMLETIYNTDLGMD
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,0,0,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_12,0,0,14
+
+10
+14
+Heliconius_charithonia,CM060814.1,4047084,4047164,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,2,26,26
+
+Heliconius_charithonia,CM060814.1,4049350,4049548,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,63,66
+
+Getting Gene
+min = set41_frame1, 1.252
+5 top scores:
+[['set41_frame1', 1.252], ['set7_frame2', 1.403], ['set46_frame1', 1.571], ['set3_frame2', 1.577], ['set4_frame2', 1.582]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_41_frame1.fa.txt
+0 23
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_12
+AQ--------HEDAQEYSE-DED
+0 23
+set41_frame1
+DRFNFVLGTVKEEPQENSEYDED
+Original query = AQHEDAQEYSEDED
+New query = DRFNFVLGTVKEEPQENSEYDED
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4048979,4049045,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,5,21,21
+
+11
+15
+Heliconius_charithonia,CM060814.1,4047343,4047452,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Heliconius_charithonia,CM060814.1,4053275,4053423,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set36_frame0, 0.377
+5 top scores:
+[['set36_frame0', 0.377], ['set71_frame1', 1.581], ['set90_frame2', 1.582], ['set97_frame2', 1.588], ['set17_frame0', 1.583]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_36_frame0.fa.txt
+14 35
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13
+EDEEQGSAIVETDFDFQDFVL
+14 35
+set36_frame0
+DEEEKSTAVVETDFDFQDFVL
+Original query = EDEEQGSAIVETDFDFQDFVL
+New query = DEEEKSTAVVETDFDFQDFVL
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4049350,4049548,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,63,66
+
+12
+11
+16
+Heliconius_charithonia,CM060814.1,4047343,4047452,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Heliconius_charithonia,CM060814.1,4056527,4056621,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Getting Gene
+min = set57_frame1, 0.643
+5 top scores:
+[['set57_frame1', 0.643], ['set159_frame2', 1.785], ['set72_frame2', 1.798], ['set156_frame0', 1.837], ['set83_frame1', 1.855]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_57_frame1.fa.txt
+55 118
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14
+FCHPKIVSACVCLLERYDKNRSHTNHCIVKMLHRIAFDCNRPAMMFQATLFLTFQKILHNPMP
+55 118
+set57_frame1
+FCHQRVVSACVRLLEHYLQNSPHTNHCAVKMLHRVARDCNRPAAMFQASLFVVFQRVLGNPGP
+Original query = FCHPKIVSACVCLLERYDKNRSHTNHCIVKMLHRIAFDCNRPAMMFQATLFLTFQKILHNPMPHLK
+New query = FCHQRVVSACVRLLEHYLQNSPHTNHCAVKMLHRVARDCNRPAAMFQASLFVVFQRVLGNPGP
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4053275,4053423,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+12
+11
+17
+Heliconius_charithonia,CM060814.1,4047343,4047452,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Heliconius_charithonia,CM060814.1,4057939,4058145,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Getting Gene
+min = set129_frame1, 0.192
+5 top scores:
+[['set129_frame1', 0.192], ['set13_frame2', 1.705], ['set72_frame2', 1.731], ['set71_frame1', 1.796], ['set36_frame0', 1.786]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_129_frame1.fa.txt
+11 60
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFAIFILRKFADIASKSGKVFIELLFWKNSKDAVEIEHGYNLYNDP
+11 60
+set129_frame1
+ELEKFAIFVLRKFAEMASRSSKVFIELLFWKNSKDCVEIEHGYDLYNDP
+Original query = ELEKFAIFILRKFADIASKSGKVFIELLFWKNSKDAVEIEHGYNLYNDP
+New query = ELEKFAIFVLRKFAEMASRSSKVFIELLFWKNSKDCVEIEHGYDLYNDP
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4056527,4056621,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+14
+18
+19
+20
+Heliconius_charithonia,CM060814.1,4049350,4049548,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,63,66
+
+Heliconius_charithonia,CM060814.1,4061823,4062019,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,61,65
+
+Getting Gene
+min = set146_frame2, 0.468
+5 top scores:
+[['set146_frame2', 0.468], ['set160_frame2', 1.651], ['set60_frame2', 1.656], ['set186_frame2', 1.672], ['set223_frame2', 1.698]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_146_frame2.fa.txt
+5 36
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16
+DKLGKASWSEEQEDELRNLYMENQTNPQTDQ
+5 36
+set146_frame2
+DKPGNSQWTEEQEEELRKLYLENQTNPESDQ
+Original query = DKLGKASWSEEQEDELRNLYMENQTNPQTDQ
+New query = DKPGNSQWTEEQEEELRKLYLENQTNPESDQ
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4057939,4058145,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+15
+19
+20
+Heliconius_charithonia,CM060814.1,4053275,4053423,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Heliconius_charithonia,CM060814.1,4061823,4062019,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,61,65
+
+Getting Gene
+min = set114_frame1, 0.459
+5 top scores:
+[['set114_frame1', 0.459], ['set144_frame2', 1.609], ['set143_frame0', 1.825], ['set161_frame0', 1.784], ['set37_frame1', 1.847]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_114_frame1.fa.txt
+9 77
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFNAPTKKSNKARTEKVTKDFTEEEDKLLTELWTQNAESQ
+9 77
+set114_frame1
+VIDWILENLIVQTRTRRSVIKKLKELGLIFKAPTKKSNKERRERVPLEFTEEEDHILTELWKEHGETK
+Original query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFNAPTKKSNKARTEKVTKDFTEEEDKLLTELWTQNAESQ
+New query = VIDWILENLIVQTRTRRSVIKKLKELGLIFKAPTKKSNKERRERVPLEFTEEEDHILTELWKEHGETK
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4059947,4060081,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,2,33,44
+
+16
+20
+Heliconius_charithonia,CM060814.1,4056527,4056621,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Heliconius_charithonia,CM060814.1,4061823,4062019,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,61,65
+
+Getting Gene
+min = set64_frame2, 1.252
+5 top scores:
+[['set64_frame2', 1.252], ['set18_frame2', 1.722], ['set30_frame2', 1.751], ['set80_frame2', 1.792], ['set65_frame0', 1.66]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_64_frame2.fa.txt
+5 45
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18
+PMSVIMERMPRNRSKRTFVERLLRLGLIDDKKQCRKKSIK
+5 45
+set64_frame2
+ALHTIASRMPNKRSKRSLKERLTELGLRTNKRK-KKEAFK
+Original query = PMSVIMERMPRNRSKRTFVERLLRLGLIDDKKQCRKKSIKNISG
+New query = ALHTIASRMPNKRSKRSLKERLTELGLRTNKRK-KKEAFK
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4060464,4060646,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19,20,61,61
+
+17
+21
+Heliconius_charithonia,CM060814.1,4057939,4058145,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Heliconius_charithonia,CM060814.1,4062333,4062903,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,154,154
+
+Getting Gene
+min = set58_frame1, 1.073
+5 top scores:
+[['set58_frame1', 1.073], ['set112_frame2', 1.668], ['set1_frame2', 1.754], ['set40_frame1', 1.823], ['set80_frame0', 1.818]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_58_frame1.fa.txt
+14 75
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19
+NSSDSESSKSEDEDAPPKRPTIKIKSKKNLTKSKQSNKKSAESLELSANEIAELLVQAVEN
+14 75
+set58_frame1
+TSSDSDSSSSDNEAG--RAPKLHIKPKKKPT-TQSRNEKQTKSMELSANEIAKLLVQAVDD
+Original query = NSSDSESSKSEDEDAPPKRPTIKIKSKKNLTKSKQSNKKSAESLELSANEIAELLVQAVEN
+New query = TSSDSDSSSSDNEAG--RAPKLHIKPKKKPT-TQSRNEKQTKSMELSANEIAKLLVQAVDD
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4061823,4062019,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,61,65
+
+18
+17
+21
+Heliconius_charithonia,CM060814.1,4057939,4058145,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Heliconius_charithonia,CM060814.1,4062333,4062903,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,154,154
+
+Getting Gene
+min = set84_frame1, 0.525
+5 top scores:
+[['set84_frame1', 0.525], ['set112_frame2', 1.789], ['set1_frame2', 1.825], ['set52_frame2', 1.874], ['set86_frame0', 1.87]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_84_frame1.fa.txt
+9 72
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20
+TEALNWLSENLEEVALDQEAEGFDPTSEGTPLVPISRESVQAIQDDLFRRVLKSLGIVPPVDE
+9 72
+set84_frame1
+TEALKWLAESLEEVALDQEAEGFDPHSEGTPLVPISREAIEAIGNKLFIKILKSIGVVPPGRT
+Original query = HTEALNWLSENLEEVALDQEAEGFDPTSEGTPLVPISRESVQAIQDDLFRRVLKSLGIVPPVDEQ
+New query = TEALKWLAESLEEVALDQEAEGFDPHSEGTPLVPISREAIEAIGNKLFIKILKSIGVVPPGRT
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4062333,4062903,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,154,154
+
+19
+18
+17
+21
+Heliconius_charithonia,CM060814.1,4057939,4058145,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Heliconius_charithonia,CM060814.1,4062333,4062903,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,154,154
+
+Getting Gene
+min = set112_frame2, 1.09
+5 top scores:
+[['set112_frame2', 1.09]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_112_frame2.fa.txt
+1 180
+set112_frame2
+ETYWRIPSNLHFETIRKRREIIMKAINKELIIDNDNNTQTNNDANGTENNDNAESSD-----DDDLFENLRKIQNIPNKSGSSKSINRSRNRNFDSDDDTTKPKEKSNTNKNDLFDKLLNDIPSSTKQSNNRKRSRSIDSDDDNIRKVQKVKRINDNNDDDDDDDDDDDDILSFAKRTL
+Original query = ETYWRIPSSLHYETIRKRREIITKAVNKELIIDNRAAPETKKDNNDNGNNGNHNINDESDASDDDLFDNLRKIAKKSSETDNNPKSKNRKRTRSFESDDENKKKQRKDNIKDKDDENENENKDSDDDLLSFVKNTLHTELPDTEDILNALPEHS
+New query = ETYWRIPSNLHFETIRKRREIIMKAINKELIIDNDNNTQTNNDANGTENNDNAESSD-----DDDLFENLRKIQNIPNKSGSSKSINRSRNRNFDSDDDTTKPKEKSNTNKNDLFDKLLNDIPSSTKQSNNRKRSRSIDSDDDNIRKVQKVKRINDNNDDDDDDDDDDDDILSFAKRTL
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4041731,4041914,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Heliconius_charithonia,CM060814.1,4041357,4041610,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Heliconius_charithonia,CM060814.1,4042952,4043208,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set4_frame0, 0.107
+5 top scores:
+[['set1_frame0', 1.826], ['set4_frame0', 0.107], ['set5_frame0', 1.801], ['set52_frame2', 1.829], ['set37_frame1', 1.774]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_4_frame0.fa.txt
+12 73
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_0_query_Exon_2
+LLVNLTNPALLLYREEVPVDRTARHNYLQILTHLQSYKEEAFTKVETWQVFARKLAKILEI
+12 73
+set4_frame0
+LLVNLTNPALLLYREEVPVERTARHNYLQILSHLQYYKEEAFTKVETWQVFAKKLAKILEI
+Original query = LLVNLTNPALLLYREEVPVDRTARHNYLQILTHLQSYKEEAFTKVETWQVFARKLAKILEI
+New query = LLVNLTNPALLLYREEVPVERTARHNYLQILSHLQYYKEEAFTKVETWQVFAKKLAKILEI
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4041993,4042127,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Heliconius_charithonia,CM060814.1,4041357,4041610,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Heliconius_charithonia,CM060814.1,4043292,4043489,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set5_frame0, 0.0
+5 top scores:
+[['set52_frame1', 1.711], ['set52_frame2', 1.765], ['set5_frame0', 0.0], ['set29_frame1', 1.821], ['set30_frame1', 1.842]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_5_frame0.fa.txt
+0 45
+Nymphalis_io_XM_050487249.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+0 45
+set5_frame0
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+New query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4042952,4043208,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Heliconius_charithonia,CM060814.1,4041731,4041914,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Heliconius_charithonia,CM060814.1,4043866,4044048,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set40_frame0, 0.125
+5 top scores:
+[['set40_frame0', 0.125], ['set1_frame1', 1.858], ['set39_frame2', 1.835]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_40_frame0.fa.txt
+0 85
+Nymphalis_io_XM_050487249.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLRDEQELLTMRMTETKERMNKVKMYSST
+0 85
+set40_frame0
+VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLKDDQELLMLRMSESKERMNKVKQYSST
+Original query = VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLRDEQELLTMRMTETKERMNKVKMYSST
+New query = VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLKDDQELLMLRMSESKERMNKVKQYSST
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4043292,4043489,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Heliconius_charithonia,CM060814.1,4041993,4042127,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Heliconius_charithonia,CM060814.1,4044361,4044648,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set31_frame1, 0.243
+5 top scores:
+[['set31_frame1', 0.243], ['set29_frame2', 1.831], ['set49_frame2', 1.832], ['set56_frame2', 1.873]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_31_frame1.fa.txt
+1 66
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVRNMKSISENELISFKPLNKISGFDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+1 66
+set31_frame1
+HSRFGGTYVIQNMKSISDNELICLKPLNKISNLDFNGSKKSKLVRPKNRRPVESGILERRSAFAI
+Original query = HSRFGGTYVVRNMKSISENELISFKPLNKISGFDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+New query = HSRFGGTYVIQNMKSISDNELICLKPLNKISNLDFNGSKKSKLVRPKNRRPVESGILERRSAFAI
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4043866,4044048,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+9
+Heliconius_charithonia,CM060814.1,4042952,4043208,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Heliconius_charithonia,CM060814.1,4045333,4045474,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Getting Gene
+min = set21_frame0, 0.043
+5 top scores:
+[['set54_frame1', 1.781], ['set20_frame0', 1.798], ['set21_frame0', 0.043], ['set28_frame0', 1.714], ['set10_frame2', 1.811]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_21_frame0.fa.txt
+6 66
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHDFQVGLV
+6 66
+set21_frame0
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHHFQVGLV
+Original query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHDFQVGLV
+New query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHHFQVGLV
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4044361,4044648,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Heliconius_charithonia,CM060814.1,4043292,4043489,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Heliconius_charithonia,CM060814.1,4045333,4045474,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Getting Gene
+min = set26_frame2, 0.527
+5 top scores:
+[['set26_frame2', 0.527], ['set31_frame2', 1.896]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_26_frame2.fa.txt
+24 119
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPTFHYVQQQMEKYTDMIKVEKKKFPVWVRRLHLALRAYAELLRSLRALQRA-PGAAREAARVLQSNVFYVPEYRELVLAMFLNYDENKMP
+24 119
+set26_frame2
+ETMSVPMFHYVQQQMEKYYDMIKVEKKKFSTWVRRLHLALRAYKELLNTLLAMDKSNDTMVKESAKVLKSNIFYVLEYREFILSIFLNYDESKMP
+Original query = ETMSVPTFHYVQQQMEKYTDMIKVEKKKFPVWVRRLHLALRAYAELLRSLRALQRAPGAAREAARVLQSNVFYVPEYRELVLAMFLNYDENKMP
+New query = ETMSVPMFHYVQQQMEKYYDMIKVEKKKFSTWVRRLHLALRAYKELLNTLLAMDKSNDTMVKESAKVLKSNIFYVLEYREFILSIFLNYDESKMP
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4044806,4044924,0,Y,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8,1,29,39
+
+6
+10
+Heliconius_charithonia,CM060814.1,4043866,4044048,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Heliconius_charithonia,CM060814.1,4047084,4047164,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,2,26,26
+
+Getting Gene
+min = set26_frame2, 0.354
+5 top scores:
+[['set26_frame2', 0.354], ['set39_frame2', 1.71], ['set38_frame1', 1.799], ['set54_frame0', 1.736], ['set72_frame0', 1.739]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_26_frame2.fa.txt
+9 48
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLVETEHLFLKMLEHFCKNTGLVVQKKVRKKGKPK
+9 48
+set26_frame2
+SYLVDLIETVHLFLKMLEHYCKRTGLVVQKKARKKTKTK
+Original query = SYLVDLVETEHLFLKMLEHFCKNTGLVVQKKVRKKGKPK
+New query = SYLVDLIETVHLFLKMLEHYCKRTGLVVQKKARKKTKTK
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4045333,4045474,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+7
+11
+Heliconius_charithonia,CM060814.1,4044361,4044648,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Heliconius_charithonia,CM060814.1,4047343,4047452,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Getting Gene
+min = set15_frame2, 0.862
+5 top scores:
+[['set15_frame2', 0.862], ['set47_frame1', 1.813], ['set25_frame1', 1.842], ['set1_frame1', 1.848], ['set63_frame2', 1.849]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_15_frame2.fa.txt
+7 56
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_2_query_Exon_9
+QKPRPPKPKEVETPQWEEVRPQVAAVLAARVAELPPPFDAAADTPIDQQ
+7 56
+set15_frame2
+SKEQKPAPTLLMGWGWERVRPQMAAVLSSATEECPPPFDAASDVPIDQQ
+Original query = QKPRPPKPKEVETPQWEEVRPQVAAVLAARVAELPPPFDAAADTPIDQQ
+New query = SKEQKPAPTLLMGWGWERVRPQMAAVLSSATEECPPPFDAASDVPIDQQ
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4047084,4047164,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,2,26,26
+
+8
+7
+12
+13
+14
+Heliconius_charithonia,CM060814.1,4044361,4044648,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Heliconius_charithonia,CM060814.1,4049350,4049548,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,63,66
+
+Getting Gene
+min = set62_frame0, 0.22
+5 top scores:
+[['set62_frame0', 0.22], ['set57_frame2', 1.609], ['set23_frame2', 1.65], ['set83_frame2', 1.675], ['set64_frame2', 1.687]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_62_frame0.fa.txt
+3 29
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRDHKYEGAVGTLRAA
+3 29
+set62_frame0
+GDCMKKIQKLMRDHKYEDAVGTFRAA
+Original query = EDCMKKIQKLMRDHKYEGAVGTLRAA
+New query = GDCMKKIQKLMRDHKYEDAVGTFRAA
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4047343,4047452,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+9
+13
+14
+Heliconius_charithonia,CM060814.1,4045333,4045474,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Heliconius_charithonia,CM060814.1,4049350,4049548,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,63,66
+
+Getting Gene
+min = set36_frame1, 0.313
+5 top scores:
+[['set36_frame1', 0.313], ['set81_frame0', 1.752], ['set2_frame2', 1.767], ['set103_frame2', 1.772], ['set32_frame0', 1.777]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_36_frame1.fa.txt
+16 51
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGDTGITEDEELDMLETIYNTDLGVEA
+16 51
+set36_frame1
+EVWPEEGIFGASDIKEDEELDMLETIYNTDLGMDA
+Original query = EVWPEEGIFGDTGITEDEELDMLETIYNTDLGVEA
+New query = EVWPEEGIFGASDIKEDEELDMLETIYNTDLGMDA
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,0,0,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_12,0,0,14
+
+10
+14
+Heliconius_charithonia,CM060814.1,4047084,4047164,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,2,26,26
+
+Heliconius_charithonia,CM060814.1,4049350,4049548,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,63,66
+
+Getting Gene
+min = set41_frame1, 1.05
+5 top scores:
+[['set41_frame1', 1.05], ['set45_frame1', 1.268], ['set3_frame2', 1.606], ['set63_frame2', 1.606], ['set61_frame2', 1.63]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_41_frame1.fa.txt
+0 23
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_1_query_Exon_12
+TTIN------EEEVEENSAYEDD
+0 23
+set41_frame1
+DRFNFVLGTVKEEPQENSEYDED
+Original query = TTINEEEVEENSAYEDD
+New query = DRFNFVLGTVKEEPQENSEYDED
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4048979,4049045,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,5,21,21
+
+11
+15
+Heliconius_charithonia,CM060814.1,4047343,4047452,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Heliconius_charithonia,CM060814.1,4053275,4053423,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set36_frame0, 0.365
+5 top scores:
+[['set36_frame0', 0.365], ['set1_frame1', 1.545], ['set71_frame1', 1.556], ['set119_frame2', 1.569], ['set113_frame2', 1.649]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_36_frame0.fa.txt
+11 35
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_2_query_Exon_13
+EEGEEEERTTSVVETDFDFQDFVL
+11 35
+set36_frame0
+DEEDEEEKSTAVVETDFDFQDFVL
+Original query = EEGEEEERTTSVVETDFDFQDFVL
+New query = DEEDEEEKSTAVVETDFDFQDFVL
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4049350,4049548,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,63,66
+
+12
+11
+16
+Heliconius_charithonia,CM060814.1,4047343,4047452,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Heliconius_charithonia,CM060814.1,4056527,4056621,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Getting Gene
+min = set57_frame1, 1.048
+5 top scores:
+[['set57_frame1', 1.048], ['set129_frame1', 1.775], ['set147_frame1', 1.815], ['set119_frame2', 1.824], ['set182_frame1', 1.84]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_57_frame1.fa.txt
+55 121
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_0_query_Exon_14
+FCQPHVVRACAALWAR-CDVTARAARCALKLLHRIACDCNRPAMMFQASLFLTFQKILNKRSPQLK
+55 121
+set57_frame1
+FCHQRVVSACVRLLEHYLQNSPHTNHCAVKMLHRVARDCNRPAAMFQASLFVVFQRVLGNPGPLFE
+Original query = FCQPHVVRACAALWARCDVTARAARCALKLLHRIACDCNRPAMMFQASLFLTFQKILNKRSPQLK
+New query = FCHQRVVSACVRLLEHYLQNSPHTNHCAVKMLHRVARDCNRPAAMFQASLFVVFQRVLGNPGPLFE
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4053275,4053423,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+12
+11
+17
+Heliconius_charithonia,CM060814.1,4047343,4047452,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Heliconius_charithonia,CM060814.1,4057939,4058145,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Getting Gene
+min = set129_frame1, 0.337
+5 top scores:
+[['set129_frame1', 0.337], ['set13_frame2', 1.73], ['set72_frame2', 1.765], ['set71_frame1', 1.77], ['set36_frame0', 1.766]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_129_frame1.fa.txt
+11 59
+Nymphalis_io_XM_050487249.1_Frame_0_rightoh_2_query_Exon_15
+EMEKFAIFILRKFTEIASKNGKVFIELLFWKNSKESVEIEHGYDLYRD
+11 59
+set129_frame1
+ELEKFAIFVLRKFAEMASRSSKVFIELLFWKNSKDCVEIEHGYDLYND
+Original query = EMEKFAIFILRKFTEIASKNGKVFIELLFWKNSKESVEIEHGYDLYRDQ
+New query = ELEKFAIFVLRKFAEMASRSSKVFIELLFWKNSKDCVEIEHGYDLYND
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4056527,4056621,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+14
+18
+19
+20
+Heliconius_charithonia,CM060814.1,4049350,4049548,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,63,66
+
+Heliconius_charithonia,CM060814.1,4061823,4062019,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,61,65
+
+Getting Gene
+min = set146_frame2, 0.514
+5 top scores:
+[['set146_frame2', 0.514], ['set28_frame2', 1.606], ['set186_frame2', 1.629], ['set22_frame2', 1.69], ['set221_frame1', 1.721]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_146_frame2.fa.txt
+5 36
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_1_query_Exon_16
+DKPGRGLWTEEQEEELRSLYMENMARPENDQ
+5 36
+set146_frame2
+DKPGNSQWTEEQEEELRKLYLENQTNPESDQ
+Original query = DKPGRGLWTEEQEEELRSLYMENMARPENDQ
+New query = DKPGNSQWTEEQEEELRKLYLENQTNPESDQ
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4057939,4058145,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+15
+19
+20
+Heliconius_charithonia,CM060814.1,4053275,4053423,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Heliconius_charithonia,CM060814.1,4061823,4062019,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,61,65
+
+Getting Gene
+min = set114_frame1, 0.475
+5 top scores:
+[['set114_frame1', 0.475], ['set144_frame2', 1.63], ['set201_frame1', 1.853], ['set161_frame0', 1.744], ['set179_frame0', 1.851]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_114_frame1.fa.txt
+9 77
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRSVIKKLKDLGLIFKAPTKKSNRERQEKVSKEFNEEEDNLLAELWKQYKDSP
+9 77
+set114_frame1
+VIDWILENLIVQTRTRRSVIKKLKELGLIFKAPTKKSNKERRERVPLEFTEEEDHILTELWKEHGETK
+Original query = VIDWILDNLIDQTRTRRSVIKKLKDLGLIFKAPTKKSNRERQEKVSKEFNEEEDNLLAELWKQYKDSP
+New query = VIDWILENLIVQTRTRRSVIKKLKELGLIFKAPTKKSNKERRERVPLEFTEEEDHILTELWKEHGETK
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4059947,4060081,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,2,33,44
+
+16
+20
+Heliconius_charithonia,CM060814.1,4056527,4056621,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Heliconius_charithonia,CM060814.1,4061823,4062019,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,61,65
+
+Getting Gene
+min = set64_frame2, 1.284
+5 top scores:
+[['set64_frame2', 1.284], ['set1_frame2', 1.753], ['set23_frame2', 1.76], ['set52_frame1', 1.821], ['set79_frame0', 1.811]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_64_frame2.fa.txt
+5 57
+set64_frame2
+ALHTIASRMPNKRSKRSLKERLTELGLRTNKRKKKEAFKSDNKSNGKFFNLT
+Original query = PMGLIIARMPRKRSKRSFVDRLLELGLVQDKSQCRKRRQRNAKSAGDDGDKSN
+New query = ALHTIASRMPNKRSKRSLKERLTELGLRTNKRKKKEAFKSDNKSNGKFFNLT
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4060464,4060646,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19,20,61,61
+
+17
+21
+Heliconius_charithonia,CM060814.1,4057939,4058145,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Heliconius_charithonia,CM060814.1,4062333,4062903,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,154,154
+
+Getting Gene
+min = set58_frame1, 1.157
+5 top scores:
+[['set58_frame1', 1.157], ['set112_frame2', 1.68], ['set40_frame1', 1.804], ['set76_frame1', 1.82], ['set80_frame0', 1.758]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_58_frame1.fa.txt
+14 75
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_1_query_Exon_19
+SSSESEHSSSDGDDNVRPQTAAVNVKHKKPLKKRAENKKKSARVELSASEIAKLLIEAVDS
+14 75
+set58_frame1
+TSSDSDSSSSDNEAGRAPK---LHIKPKKKPTTQSRNEKQTKSMELSANEIAKLLVQAVDD
+Original query = SSSESEHSSSDGDDNVRPQTAAVNVKHKKPLKKRAENKKKSARVELSASEIAKLLIEAVDS
+New query = TSSDSDSSSSDNEAGRAPK---LHIKPKKKPTTQSRNEKQTKSMELSANEIAKLLVQAVDD
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4061823,4062019,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,61,65
+
+18
+17
+21
+Heliconius_charithonia,CM060814.1,4057939,4058145,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Heliconius_charithonia,CM060814.1,4062333,4062903,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,154,154
+
+Getting Gene
+min = set84_frame1, 0.423
+5 top scores:
+[['set84_frame1', 0.423], ['set112_frame2', 1.784], ['set62_frame0', 1.853], ['set88_frame2', 1.867], ['set86_frame0', 1.857]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_84_frame1.fa.txt
+8 72
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_0_query_Exon_20
+LTEALKWLAENLEEVALDQEAEGFDPTSEGTPLVPISSESVEAMDNPLFMKVLKSVGIAPPSDE
+8 72
+set84_frame1
+LTEALKWLAESLEEVALDQEAEGFDPHSEGTPLVPISREAIEAIGNKLFIKILKSIGVVPPGRT
+Original query = LTEALKWLAENLEEVALDQEAEGFDPTSEGTPLVPISSESVEAMDNPLFMKVLKSVGIAPPSDEQ
+New query = LTEALKWLAESLEEVALDQEAEGFDPHSEGTPLVPISREAIEAIGNKLFIKILKSIGVVPPGRT
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4062333,4062903,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,154,154
+
+19
+18
+17
+21
+Heliconius_charithonia,CM060814.1,4057939,4058145,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Heliconius_charithonia,CM060814.1,4062333,4062903,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,154,154
+
+Getting Gene
+min = set112_frame2, 0.978
+5 top scores:
+[['set112_frame2', 0.978]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_112_frame2.fa.txt
+1 149
+set112_frame2
+ETYWRIPSNLHFETIRKRREIIMKAINKELIIDNDNNTQTNNDANGTE--NNDNAESSDDDDLFENLRKIQNIPNKSGSSKSINRSRNRNFDSDDDTTKPKEKSNTNKNDLFDKLLNDIPSSTKQSNNRKRSRSIDSDDDNIRKVQKV
+Original query = ETYWRIPSSIHYDTIRKRREIVIKAVNKELIVDSTNNNAEGIQEKNNPKDESSDDDDLFDNLRKMRDVSPYKSNTPSRSVSNNRKRNRSLSSDEENNRKMQKIDEDDDEEDILSFAKKTLQRADPPADPPADHSDS
+New query = ETYWRIPSNLHFETIRKRREIIMKAINKELIIDNDNNTQTNNDANGTE--NNDNAESSDDDDLFENLRKIQNIPNKSGSSKSINRSRNRNFDSDDDTTKPKEKSNTNKNDLFDKLLNDIPSSTKQSNNRKRSRSIDSDDDNIRKVQKV
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4041731,4041914,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Heliconius_charithonia,CM060814.1,4041357,4041610,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Heliconius_charithonia,CM060814.1,4042952,4043208,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set4_frame0, 0.087
+5 top scores:
+[['set52_frame2', 1.834], ['set4_frame0', 0.087], ['set5_frame0', 1.811], ['set30_frame1', 1.854], ['set37_frame1', 1.784]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_4_frame0.fa.txt
+12 73
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_0_query_Exon_2
+LLVNLTNPALLLYREEVPVERTARHNYLQILTHLQSYKEEAFIKVETWQVFAKKLAKILEI
+12 73
+set4_frame0
+LLVNLTNPALLLYREEVPVERTARHNYLQILSHLQYYKEEAFTKVETWQVFAKKLAKILEI
+Original query = LLVNLTNPALLLYREEVPVERTARHNYLQILTHLQSYKEEAFIKVETWQVFAKKLAKILEI
+New query = LLVNLTNPALLLYREEVPVERTARHNYLQILSHLQYYKEEAFTKVETWQVFAKKLAKILEI
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4041993,4042127,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Heliconius_charithonia,CM060814.1,4041357,4041610,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Heliconius_charithonia,CM060814.1,4043292,4043489,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set5_frame0, 0.0
+5 top scores:
+[['set52_frame1', 1.711], ['set52_frame2', 1.765], ['set5_frame0', 0.0], ['set29_frame1', 1.821], ['set30_frame1', 1.842]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_5_frame0.fa.txt
+0 45
+Vanessa_tameamea_XM_026628490.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+0 45
+set5_frame0
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+New query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4042952,4043208,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Heliconius_charithonia,CM060814.1,4041731,4041914,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Heliconius_charithonia,CM060814.1,4043866,4044048,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set40_frame0, 0.113
+5 top scores:
+[['set40_frame0', 0.113], ['set1_frame1', 1.843], ['set39_frame2', 1.835]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_40_frame0.fa.txt
+0 85
+Vanessa_tameamea_XM_026628490.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIVLYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLTMRMAETKERMNKVKMYSST
+0 85
+set40_frame0
+VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLKDDQELLMLRMSESKERMNKVKQYSST
+Original query = VLWALNQAGILDIVLYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLTMRMAETKERMNKVKMYSST
+New query = VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLKDDQELLMLRMSESKERMNKVKQYSST
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4043292,4043489,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Heliconius_charithonia,CM060814.1,4041993,4042127,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Heliconius_charithonia,CM060814.1,4044361,4044648,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set31_frame1, 0.113
+5 top scores:
+[['set31_frame1', 0.113], ['set29_frame2', 1.845], ['set49_frame2', 1.83], ['set56_frame2', 1.852]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_31_frame1.fa.txt
+1 66
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVIQNMKSISENELISLKPLNKISNLDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+1 66
+set31_frame1
+HSRFGGTYVIQNMKSISDNELICLKPLNKISNLDFNGSKKSKLVRPKNRRPVESGILERRSAFAI
+Original query = HSRFGGTYVIQNMKSISENELISLKPLNKISNLDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+New query = HSRFGGTYVIQNMKSISDNELICLKPLNKISNLDFNGSKKSKLVRPKNRRPVESGILERRSAFAI
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4043866,4044048,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+9
+Heliconius_charithonia,CM060814.1,4042952,4043208,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Heliconius_charithonia,CM060814.1,4045333,4045474,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Getting Gene
+min = set21_frame0, 0.071
+5 top scores:
+[['set54_frame1', 1.795], ['set20_frame0', 1.812], ['set21_frame0', 0.071], ['set28_frame0', 1.696], ['set10_frame2', 1.815]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_21_frame0.fa.txt
+6 66
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNPMMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHDFQIGLV
+6 66
+set21_frame0
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHHFQVGLV
+Original query = LFLKEFCIEFLNSSYNPMMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHDFQIGLV
+New query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHHFQVGLV
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4044361,4044648,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Heliconius_charithonia,CM060814.1,4043292,4043489,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Heliconius_charithonia,CM060814.1,4045333,4045474,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Getting Gene
+min = set26_frame2, 0.721
+5 top scores:
+[['set26_frame2', 0.721], ['set31_frame2', 1.9]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_26_frame2.fa.txt
+24 119
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_2_query_Exon_7
+ETLSVPTFHFVQQQMEKYSDMIKVERKRFPVWVRRLHVALRAFRELLQSLRVA-RGAAAAVRDAARALQAALLYAPEYREFVLALLLAYDENKMP
+24 119
+set26_frame2
+ETMSVPMFHYVQQQMEKYYDMIKVEKKKFSTWVRRLHLALRAYKELLNTLLAMDKSNDTMVKESAKVLKSNIFYVLEYREFILSIFLNYDESKMP
+Original query = ETLSVPTFHFVQQQMEKYSDMIKVERKRFPVWVRRLHVALRAFRELLQSLRVARGAAAAVRDAARALQAALLYAPEYREFVLALLLAYDENKMP
+New query = ETMSVPMFHYVQQQMEKYYDMIKVEKKKFSTWVRRLHLALRAYKELLNTLLAMDKSNDTMVKESAKVLKSNIFYVLEYREFILSIFLNYDESKMP
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4044806,4044924,0,Y,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8,1,29,39
+
+6
+10
+Heliconius_charithonia,CM060814.1,4043866,4044048,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Heliconius_charithonia,CM060814.1,4047084,4047164,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,2,26,26
+
+Getting Gene
+min = set26_frame2, 0.413
+5 top scores:
+[['set26_frame2', 0.413], ['set9_frame1', 1.727], ['set39_frame2', 1.731], ['set54_frame0', 1.7], ['set72_frame0', 1.736]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_26_frame2.fa.txt
+9 48
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_1_query_Exon_8
+SYLADLVETEHLFLKLLEEFCKNTGLVVQKKVRKKGKSK
+9 48
+set26_frame2
+SYLVDLIETVHLFLKMLEHYCKRTGLVVQKKARKKTKTK
+Original query = SYLADLVETEHLFLKLLEEFCKNTGLVVQKKVRKKGKSK
+New query = SYLVDLIETVHLFLKMLEHYCKRTGLVVQKKARKKTKTK
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4045333,4045474,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+7
+11
+Heliconius_charithonia,CM060814.1,4044361,4044648,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Heliconius_charithonia,CM060814.1,4047343,4047452,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Getting Gene
+min = set15_frame2, 0.8
+5 top scores:
+[['set15_frame2', 0.8], ['set23_frame2', 1.821], ['set25_frame1', 1.838], ['set1_frame1', 1.801], ['set47_frame1', 1.839]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_15_frame2.fa.txt
+7 56
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_2_query_Exon_9
+QKPRAPKPKRVETAQWEEVRPQVAAVLRAGVEEYPPPFDAASDTPIDQQ
+7 56
+set15_frame2
+SKEQKPAPTLLMGWGWERVRPQMAAVLSSATEECPPPFDAASDVPIDQQ
+Original query = QKPRAPKPKRVETAQWEEVRPQVAAVLRAGVEEYPPPFDAASDTPIDQQ
+New query = SKEQKPAPTLLMGWGWERVRPQMAAVLSSATEECPPPFDAASDVPIDQQ
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4047084,4047164,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,2,26,26
+
+8
+7
+12
+13
+14
+Heliconius_charithonia,CM060814.1,4044361,4044648,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Heliconius_charithonia,CM060814.1,4049350,4049548,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,63,66
+
+Getting Gene
+min = set62_frame0, 0.302
+5 top scores:
+[['set62_frame0', 0.302], ['set57_frame2', 1.609], ['set103_frame1', 1.633], ['set83_frame2', 1.648], ['set64_frame2', 1.689]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_62_frame0.fa.txt
+3 29
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRDHKYEGAVGMLRAA
+3 29
+set62_frame0
+GDCMKKIQKLMRDHKYEDAVGTFRAA
+Original query = EDCMKKIQKLMRDHKYEGAVGMLRAA
+New query = GDCMKKIQKLMRDHKYEDAVGTFRAA
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4047343,4047452,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+9
+13
+14
+Heliconius_charithonia,CM060814.1,4045333,4045474,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Heliconius_charithonia,CM060814.1,4049350,4049548,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,63,66
+
+Getting Gene
+min = set36_frame1, 0.365
+5 top scores:
+[['set36_frame1', 0.365], ['set79_frame2', 1.746], ['set2_frame2', 1.767], ['set103_frame2', 1.778], ['set32_frame0', 1.763]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_36_frame1.fa.txt
+16 50
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGVDGVTEDEELDMLETIYNTDLGVE
+16 50
+set36_frame1
+EVWPEEGIFGASDIKEDEELDMLETIYNTDLGMD
+Original query = EVWPEEGIFGVDGVTEDEELDMLETIYNTDLGVEE
+New query = EVWPEEGIFGASDIKEDEELDMLETIYNTDLGMD
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,0,0,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_12,0,0,14
+
+10
+14
+Heliconius_charithonia,CM060814.1,4047084,4047164,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,2,26,26
+
+Heliconius_charithonia,CM060814.1,4049350,4049548,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,63,66
+
+Getting Gene
+min = set41_frame1, 0.912
+5 top scores:
+[['set41_frame1', 0.912], ['set45_frame1', 1.427], ['set36_frame1', 1.608], ['set7_frame2', 1.625], ['set14_frame0', 1.589]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_41_frame1.fa.txt
+0 23
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_1_query_Exon_12
+AYIN------EEEAQENSQYEDD
+0 23
+set41_frame1
+DRFNFVLGTVKEEPQENSEYDED
+Original query = AYINEEEAQENSQYEDD
+New query = DRFNFVLGTVKEEPQENSEYDED
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4048979,4049045,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,5,21,21
+
+11
+15
+Heliconius_charithonia,CM060814.1,4047343,4047452,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Heliconius_charithonia,CM060814.1,4053275,4053423,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set36_frame0, 0.293
+5 top scores:
+[['set36_frame0', 0.293], ['set1_frame1', 1.488], ['set97_frame2', 1.606], ['set17_frame0', 1.583], ['set83_frame1', 1.615]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_36_frame0.fa.txt
+13 35
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_2_query_Exon_13
+EEEEDRTTSVVETDFDFQDFVL
+13 35
+set36_frame0
+EDEEEKSTAVVETDFDFQDFVL
+Original query = EEEEDRTTSVVETDFDFQDFVL
+New query = EDEEEKSTAVVETDFDFQDFVL
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4049350,4049548,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,63,66
+
+12
+11
+16
+Heliconius_charithonia,CM060814.1,4047343,4047452,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Heliconius_charithonia,CM060814.1,4056527,4056621,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Getting Gene
+min = set57_frame1, 0.868
+5 top scores:
+[['set57_frame1', 0.868], ['set182_frame1', 1.743], ['set72_frame2', 1.802], ['set119_frame2', 1.823], ['set74_frame2', 1.85]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_57_frame1.fa.txt
+55 121
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_0_query_Exon_14
+FCHPRVVSACAGVLARE-AGGARAAHCALKLLHRVAWDCARPAMLFQASLFLVFQRILDRPAPHRE
+55 121
+set57_frame1
+FCHQRVVSACVRLLEHYLQNSPHTNHCAVKMLHRVARDCNRPAAMFQASLFVVFQRVLGNPGPLFE
+Original query = FCHPRVVSACAGVLAREAGGARAAHCALKLLHRVAWDCARPAMLFQASLFLVFQRILDRPAPHRE
+New query = FCHQRVVSACVRLLEHYLQNSPHTNHCAVKMLHRVARDCNRPAAMFQASLFVVFQRVLGNPGPLFE
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4053275,4053423,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+12
+11
+17
+Heliconius_charithonia,CM060814.1,4047343,4047452,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Heliconius_charithonia,CM060814.1,4057939,4058145,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Getting Gene
+min = set129_frame1, 0.25
+5 top scores:
+[['set129_frame1', 0.25], ['set175_frame1', 1.719], ['set13_frame2', 1.726], ['set72_frame2', 1.761], ['set74_frame2', 1.792]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_129_frame1.fa.txt
+11 59
+Vanessa_tameamea_XM_026628490.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFAIFILRKFTEIASKSNKVFIELLFWKNSKDSVEIEHGYDLYHD
+11 59
+set129_frame1
+ELEKFAIFVLRKFAEMASRSSKVFIELLFWKNSKDCVEIEHGYDLYND
+Original query = ELEKFAIFILRKFTEIASKSNKVFIELLFWKNSKDSVEIEHGYDLYHDQ
+New query = ELEKFAIFVLRKFAEMASRSSKVFIELLFWKNSKDCVEIEHGYDLYND
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4056527,4056621,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+14
+18
+19
+20
+Heliconius_charithonia,CM060814.1,4049350,4049548,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,63,66
+
+Heliconius_charithonia,CM060814.1,4061823,4062019,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,61,65
+
+Getting Gene
+min = set146_frame2, 0.426
+5 top scores:
+[['set146_frame2', 0.426], ['set186_frame2', 1.62], ['set28_frame2', 1.672], ['set233_frame1', 1.698], ['set259_frame1', 1.728]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_146_frame2.fa.txt
+5 36
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_1_query_Exon_16
+DKPGRAAWTEEQEEELRSLYMENVARPESDQ
+5 36
+set146_frame2
+DKPGNSQWTEEQEEELRKLYLENQTNPESDQ
+Original query = DKPGRAAWTEEQEEELRSLYMENVARPESDQ
+New query = DKPGNSQWTEEQEEELRKLYLENQTNPESDQ
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4057939,4058145,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+15
+19
+20
+Heliconius_charithonia,CM060814.1,4053275,4053423,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Heliconius_charithonia,CM060814.1,4061823,4062019,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,61,65
+
+Getting Gene
+min = set114_frame1, 0.457
+5 top scores:
+[['set114_frame1', 0.457], ['set144_frame2', 1.609], ['set201_frame1', 1.853], ['set161_frame0', 1.743], ['set179_frame0', 1.832]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_114_frame1.fa.txt
+9 77
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFKAPTKKSNRERQEKVSKEFNEEEDNLLAELWKQYQDSP
+9 77
+set114_frame1
+VIDWILENLIVQTRTRRSVIKKLKELGLIFKAPTKKSNKERRERVPLEFTEEEDHILTELWKEHGETK
+Original query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFKAPTKKSNRERQEKVSKEFNEEEDNLLAELWKQYQDSP
+New query = VIDWILENLIVQTRTRRSVIKKLKELGLIFKAPTKKSNKERRERVPLEFTEEEDHILTELWKEHGETK
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4059947,4060081,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,2,33,44
+
+16
+20
+Heliconius_charithonia,CM060814.1,4056527,4056621,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Heliconius_charithonia,CM060814.1,4061823,4062019,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,61,65
+
+Getting Gene
+min = set64_frame2, 1.279
+5 top scores:
+[['set64_frame2', 1.279], ['set23_frame2', 1.751], ['set35_frame0', 1.802], ['set118_frame0', 1.802], ['set80_frame2', 1.819]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_64_frame2.fa.txt
+5 57
+set64_frame2
+ALHTIASRMPNKRSKRSLKERLTELGLRTNKRKKKEAFKSDNKSNGKFFNLT
+Original query = PMGLITARMPRKRSKRSFVERMLELGIIQDKNQCRKRRQRKTKSSGDDGDKLN
+New query = ALHTIASRMPNKRSKRSLKERLTELGLRTNKRKKKEAFKSDNKSNGKFFNLT
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4060464,4060646,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19,20,61,61
+
+17
+21
+Heliconius_charithonia,CM060814.1,4057939,4058145,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Heliconius_charithonia,CM060814.1,4062333,4062903,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,154,154
+
+Getting Gene
+min = set58_frame1, 1.192
+5 top scores:
+[['set58_frame1', 1.192], ['set112_frame2', 1.638], ['set76_frame1', 1.761], ['set40_frame1', 1.812], ['set80_frame0', 1.814]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_58_frame1.fa.txt
+14 78
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_1_query_Exon_19
+SSSESEHSSSDDENEARPPLRTINVKRKKPSKK--KESSKTKKAERLELSASEIAKLLIQAVAS
+14 78
+set58_frame1
+TSSDSDSSSSDNEAGRAPKLHI------KPKKKPTTQSRNEKQTKSMELSANEIAKLLVQAVDD
+Original query = SSSESEHSSSDDENEARPPLRTINVKRKKPSKKKESSKTKKAERLELSASEIAKLLIQAVAS
+New query = TSSDSDSSSSDNEAGRAPKLHI------KPKKKPTTQSRNEKQTKSMELSANEIAKLLVQAVDD
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4061823,4062019,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,61,65
+
+18
+17
+21
+Heliconius_charithonia,CM060814.1,4057939,4058145,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Heliconius_charithonia,CM060814.1,4062333,4062903,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,154,154
+
+Getting Gene
+min = set84_frame1, 0.406
+5 top scores:
+[['set84_frame1', 0.406], ['set112_frame2', 1.76], ['set76_frame1', 1.82], ['set1_frame2', 1.821], ['set86_frame0', 1.856]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_84_frame1.fa.txt
+8 72
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_0_query_Exon_20
+LSEALKWLAENLEEVALDQEAEGFDPESEGTPLVPISSESVEAMDNPLFVKVLKSIGIAPPSDE
+8 72
+set84_frame1
+LTEALKWLAESLEEVALDQEAEGFDPHSEGTPLVPISREAIEAIGNKLFIKILKSIGVVPPGRT
+Original query = LSEALKWLAENLEEVALDQEAEGFDPESEGTPLVPISSESVEAMDNPLFVKVLKSIGIAPPSDEQ
+New query = LTEALKWLAESLEEVALDQEAEGFDPHSEGTPLVPISREAIEAIGNKLFIKILKSIGVVPPGRT
+Scaffold = CM060814.1, start = 4041357, end = 4041610
+Heliconius_charithonia,CM060814.1,4062333,4062903,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,154,154
+
+19
+18
+17
+21
+Heliconius_charithonia,CM060814.1,4057939,4058145,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Heliconius_charithonia,CM060814.1,4062333,4062903,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,154,154
+
+Getting Gene
+min = set112_frame2, 1.007
+5 top scores:
+[['set112_frame2', 1.007]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_charithonia/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_112_frame2.fa.txt
+1 149
+set112_frame2
+ETYWRIPSNLHFETIRKRREIIMKAINKELIID--NDNNTQTNNDANGTENNDNAESSDDDDLFENLRKIQNIPNKSGSSKSINRSRNRNFDSDDDTTKPKEKSNTNKNDLFDKLLNDIPSSTKQSNNRKRSRSIDSDDDNIRKVQKV
+Original query = ETYWRIPSSIHYETIRKRREIVMKAVNNELLVDSTNDTNSTENNAGTTQENNPKDESSDDEDLFDTLRKMRDVSPQKSSHPTSNILNNRKRNRSLSSDDENNRKMQKIDEDDSEEDILSFAKKTLQRDDLPDTEELPARDSGSGN
+New query = ETYWRIPSNLHFETIRKRREIIMKAINKELIID--NDNNTQTNNDANGTENNDNAESSDDDDLFENLRKIQNIPNKSGSSKSINRSRNRNFDSDDDTTKPKEKSNTNKNDLFDKLLNDIPSSTKQSNNRKRSRSIDSDDDNIRKVQKV

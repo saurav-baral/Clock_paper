@@ -1,0 +1,872 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1422563,1422709,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+1
+4
+Sericinus_montela,JAGSMR010000017.1,1423271,1423400,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Sericinus_montela,JAGSMR010000017.1,1420684,1420800,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Getting Gene
+min = set13_frame0, 0.314
+5 top scores:
+[['set37_frame1', 1.769], ['set1_frame2', 1.791], ['set13_frame0', 0.314], ['set44_frame2', 1.81], ['set45_frame0', 1.729]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_13_frame0.fa.txt
+19 67
+Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_1_query_Exon_2
+TKMVGYNRMRYLLEALNDLDQQFRKYGGKLLMIKGRPDLIFRRLWEEF
+19 67
+set13_frame0
+TKLVGYNRMRYLLEALDDLDSQFRQHGGRLIMIKGKPEVVFKRLWEEF
+Original query = TKMVGYNRMRYLLEALNDLDQQFRKYGGKLLMIKGRPDLIFRRLWEEF
+New query = TKLVGYNRMRYLLEALDDLDSQFRQHGGRLIMIKGKPEVVFKRLWEEF
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1421605,1421792,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+1
+5
+Sericinus_montela,JAGSMR010000017.1,1423271,1423400,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Sericinus_montela,JAGSMR010000017.1,1419769,1419902,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_2_query_Exon_5,2,44,44
+
+Getting Gene
+min = set31_frame2, 0.343
+5 top scores:
+[['set31_frame2', 0.343], ['set13_frame0', 1.833], ['set52_frame2', 1.851], ['set69_frame2', 1.861], ['set61_frame0', 1.851]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_31_frame2.fa.txt
+6 68
+Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_0_query_Exon_3
+IRTLCFEQDCEPIWRPRDASVRALCRDIGVSCREHVAHTLWNPDTVIKANGGIPPLTYQMFL
+6 68
+set31_frame2
+IRKLCFEQDCEPVWRQRDDLVKTTCREIGVACREHVSHTLWEPDTVIRVNGGIPPLTYQMFL
+Original query = IRTLCFEQDCEPIWRPRDASVRALCRDIGVSCREHVAHTLWNPDTVIKANGGIPPLTYQMFL
+New query = IRKLCFEQDCEPVWRQRDDLVKTTCREIGVACREHVSHTLWEPDTVIRVNGGIPPLTYQMFL
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1420684,1420800,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+2
+6
+Sericinus_montela,JAGSMR010000017.1,1422563,1422709,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+Sericinus_montela,JAGSMR010000017.1,1418800,1418895,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Getting Gene
+min = set38_frame1, 0.467
+5 top scores:
+[['set38_frame1', 0.467], ['set52_frame2', 1.681], ['set49_frame2', 1.713], ['set21_frame0', 1.743], ['set57_frame2', 1.744]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_38_frame1.fa.txt
+1 40
+Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4
+HTVEIIGNPPRPVDDVDLNGVNFGSLPESFYREFVVFDK
+1 40
+set38_frame1
+HTVSTIGDPPRPVGDIDLCGVNFGVLPECFYKEFTIFDR
+Original query = HTVEIIGNPPRPVDDVDLNGVNFGSLPESFYREFVVFDK
+New query = HTVSTIGDPPRPVGDIDLCGVNFGVLPECFYKEFTIFDR
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1419769,1419902,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_2_query_Exon_5,2,44,44
+
+3
+7
+Sericinus_montela,JAGSMR010000017.1,1421605,1421792,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+Sericinus_montela,JAGSMR010000017.1,1418165,1418238,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Getting Gene
+min = set38_frame0, 0.488
+5 top scores:
+[['set55_frame2', 1.764], ['set14_frame2', 1.785], ['set39_frame2', 1.791], ['set58_frame2', 1.822], ['set38_frame0', 0.488]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_38_frame0.fa.txt
+44 88
+Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5
+APKPEDLGVFLENEDIRMIRWVGGETAALKQMQERLAVEYETFC
+44 88
+set38_frame0
+APRPEQLGVRPEGAPPRMIRWVGGEAAALRQMQQRLAVEYETFC
+Original query = APKPEDLGVFLENEDIRMIRWVGGETAALKQMQERLAVEYETFC
+New query = APRPEQLGVRPEGAPPRMIRWVGGEAAALRQMQQRLAVEYETFC
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1418800,1418895,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+4
+8
+Sericinus_montela,JAGSMR010000017.1,1420684,1420800,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Sericinus_montela,JAGSMR010000017.1,1417660,1417786,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Getting Gene
+min = set17_frame1, 0.0
+5 top scores:
+[['set17_frame1', 0.0], ['set33_frame2', 1.692], ['set20_frame2', 1.698], ['set19_frame2', 1.72], ['set12_frame2', 1.735]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_17_frame1.fa.txt
+57 88
+Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+57 88
+set17_frame1
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Original query = GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+New query = GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1418165,1418238,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+5
+9
+Sericinus_montela,JAGSMR010000017.1,1419769,1419902,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_2_query_Exon_5,2,44,44
+
+Sericinus_montela,JAGSMR010000017.1,1417056,1417238,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Getting Gene
+min = set16_frame0, 0.284
+5 top scores:
+[['set16_frame0', 0.284], ['set1_frame2', 1.676], ['set14_frame2', 1.699], ['set24_frame1', 1.731], ['set12_frame0', 1.698]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_16_frame0.fa.txt
+7 31
+Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7
+FYWSLQDLFQQVHQGRLASTQFIT
+7 31
+set16_frame0
+FYWAVQDLFLQVHQGRLAASQFIT
+Original query = FYWSLQDLFQQVHQGRLASTQFIT
+New query = FYWAVQDLFLQVHQGRLAASQFIT
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1417660,1417786,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+6
+10
+Sericinus_montela,JAGSMR010000017.1,1418800,1418895,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Sericinus_montela,JAGSMR010000017.1,1412665,1412832,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+Getting Gene
+min = set23_frame1, 0.188
+5 top scores:
+[['set23_frame1', 0.188], ['set33_frame1', 1.705], ['set34_frame2', 1.764], ['set35_frame2', 1.764], ['set51_frame2', 1.78]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_23_frame1.fa.txt
+12 52
+Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8
+QLIWREYFYTMSVNNPNYAQMSGNPICLDIPWKEPENDEL
+12 52
+set23_frame1
+QLIWREYFYTMSVNNPNYGQMAGNPICLDIPWKNPEGDEL
+Original query = QLIWREYFYTMSVNNPNYAQMSGNPICLDIPWKEPENDELQ
+New query = QLIWREYFYTMSVNNPNYGQMAGNPICLDIPWKNPEGDEL
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1417056,1417238,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+7
+11
+Sericinus_montela,JAGSMR010000017.1,1418165,1418238,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Sericinus_montela,JAGSMR010000017.1,1409467,1409590,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set27_frame2, 0.104
+5 top scores:
+[['set27_frame2', 0.104], ['set24_frame1', 1.009], ['set25_frame1', 1.062], ['set28_frame2', 1.578], ['set45_frame2', 1.836]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_27_frame2.fa.txt
+10 70
+Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9
+WKEGRTGFPFVDAAMRQLRTEGWLHHVVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+10 70
+set27_frame2
+WKEGRTGFPFIDAAMRQLRAEGWLHHALRNTVASFLTRGTLWLSWEHGLRHFLKYLLDAD
+Original query = WKEGRTGFPFVDAAMRQLRTEGWLHHVVRNTVASFLTRGTLWLSWEHGLQHFLKYLLDAD
+New query = WKEGRTGFPFIDAAMRQLRAEGWLHHALRNTVASFLTRGTLWLSWEHGLRHFLKYLLDAD
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1412665,1412832,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+8
+11
+Sericinus_montela,JAGSMR010000017.1,1417660,1417786,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Sericinus_montela,JAGSMR010000017.1,1409467,1409590,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set20_frame2, 0.192
+5 top scores:
+[['set20_frame2', 0.192], ['set17_frame0', 1.755], ['set11_frame2', 1.78], ['set21_frame2', 1.789], ['set35_frame0', 1.706]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_20_frame2.fa.txt
+18 73
+Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_10
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPTGHYVRRYVPELARMPGEY
+18 73
+set20_frame2
+SVCAGNWMWVSSSAFEALLDSSDCACPVRLGRRLEPSGEYVRRYVPELARVPDEY
+Original query = SVCAGNWMWVSSSAFEALLDSGECACPVRLGRRLEPTGHYVRRYVPELARMPGEY
+New query = SVCAGNWMWVSSSAFEALLDSSDCACPVRLGRRLEPSGEYVRRYVPELARVPDEY
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1409467,1409590,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+9
+11
+Sericinus_montela,JAGSMR010000017.1,1417056,1417238,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Sericinus_montela,JAGSMR010000017.1,1409467,1409590,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set21_frame2, 0.575
+5 top scores:
+[['set21_frame2', 0.575], ['set2_frame0', 1.719], ['set1_frame1', 1.72], ['set1_frame2', 1.727], ['set13_frame2', 1.728]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_21_frame2.fa.txt
+9 49
+set21_frame2
+YEPWKAPIEVQERANCIIGKDYPAPMVNHLEAARRNSEAM
+Original query = YEPWRAPLEVQEAAGCVIGRDYPAPVVDHTAAAARNRANMQ
+New query = YEPWKAPIEVQERANCIIGKDYPAPMVNHLEAARRNSEAM
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1422563,1422709,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+1
+4
+Sericinus_montela,JAGSMR010000017.1,1423271,1423400,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Sericinus_montela,JAGSMR010000017.1,1420684,1420800,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Getting Gene
+min = set13_frame0, 0.305
+5 top scores:
+[['set37_frame1', 1.705], ['set12_frame0', 1.791], ['set13_frame0', 0.305], ['set34_frame1', 1.816], ['set45_frame0', 1.806]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_13_frame0.fa.txt
+19 67
+Papilio_machaon_XM_014499499.2_Frame_2_rightoh_1_query_Exon_2
+TKVVGYNRMRYLLEALEDLDNQFKKYGGRLIMVKGTPHVIFRRLWEEF
+19 67
+set13_frame0
+TKLVGYNRMRYLLEALDDLDSQFRQHGGRLIMIKGKPEVVFKRLWEEF
+Original query = TKVVGYNRMRYLLEALEDLDNQFKKYGGRLIMVKGTPHVIFRRLWEEF
+New query = TKLVGYNRMRYLLEALDDLDSQFRQHGGRLIMIKGKPEVVFKRLWEEF
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1421605,1421792,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+1
+5
+Sericinus_montela,JAGSMR010000017.1,1423271,1423400,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Sericinus_montela,JAGSMR010000017.1,1419769,1419902,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_2_query_Exon_5,2,44,44
+
+Getting Gene
+min = set31_frame2, 0.161
+5 top scores:
+[['set31_frame2', 0.161], ['set13_frame0', 1.831], ['set52_frame2', 1.844], ['set1_frame2', 1.856], ['set61_frame0', 1.854]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_31_frame2.fa.txt
+6 68
+Papilio_machaon_XM_014499499.2_Frame_2_rightoh_0_query_Exon_3
+ISKLCFEQDCEPVWRARDDAVKSTCREIGVVCREHVSHTLWEPDTVIRYNGGIPPLTYQMFL
+6 68
+set31_frame2
+IRKLCFEQDCEPVWRQRDDLVKTTCREIGVACREHVSHTLWEPDTVIRVNGGIPPLTYQMFL
+Original query = ISKLCFEQDCEPVWRARDDAVKSTCREIGVVCREHVSHTLWEPDTVIRYNGGIPPLTYQMFL
+New query = IRKLCFEQDCEPVWRQRDDLVKTTCREIGVACREHVSHTLWEPDTVIRVNGGIPPLTYQMFL
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1420684,1420800,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+2
+6
+Sericinus_montela,JAGSMR010000017.1,1422563,1422709,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+Sericinus_montela,JAGSMR010000017.1,1418800,1418895,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Getting Gene
+min = set38_frame1, 0.272
+5 top scores:
+[['set38_frame1', 0.272], ['set45_frame1', 1.731], ['set49_frame2', 1.732], ['set52_frame2', 1.735], ['set8_frame2', 1.781]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_38_frame1.fa.txt
+1 40
+Papilio_machaon_XM_014499499.2_Frame_0_rightoh_0_query_Exon_4
+HTVSTIGDPPRPVSDLDLTGVNFGVLPDTFYQEFTVFDK
+1 40
+set38_frame1
+HTVSTIGDPPRPVGDIDLCGVNFGVLPECFYKEFTIFDR
+Original query = HTVSTIGDPPRPVSDLDLTGVNFGVLPDTFYQEFTVFDK
+New query = HTVSTIGDPPRPVGDIDLCGVNFGVLPECFYKEFTIFDR
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1419769,1419902,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_2_query_Exon_5,2,44,44
+
+3
+7
+Sericinus_montela,JAGSMR010000017.1,1421605,1421792,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+Sericinus_montela,JAGSMR010000017.1,1418165,1418238,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Getting Gene
+min = set38_frame0, 0.606
+5 top scores:
+[['set55_frame2', 1.749], ['set29_frame2', 1.768], ['set58_frame2', 1.797], ['set43_frame1', 1.825], ['set38_frame0', 0.606]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_38_frame0.fa.txt
+44 88
+Papilio_machaon_XM_014499499.2_Frame_0_rightoh_2_query_Exon_5
+VPKPEELDVHLEREDIRMIRWVGGETAALHQMQQRLQVEYETFC
+44 88
+set38_frame0
+APRPEQLGVRPEGAPPRMIRWVGGEAAALRQMQQRLAVEYETFC
+Original query = VPKPEELDVHLEREDIRMIRWVGGETAALHQMQQRLQVEYETFC
+New query = APRPEQLGVRPEGAPPRMIRWVGGEAAALRQMQQRLAVEYETFC
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1418800,1418895,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+4
+8
+Sericinus_montela,JAGSMR010000017.1,1420684,1420800,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Sericinus_montela,JAGSMR010000017.1,1417660,1417786,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Getting Gene
+min = set17_frame1, 0.0
+5 top scores:
+[['set17_frame1', 0.0], ['set33_frame2', 1.692], ['set20_frame2', 1.698], ['set19_frame2', 1.72], ['set12_frame2', 1.735]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_17_frame1.fa.txt
+57 88
+Papilio_machaon_XM_014499499.2_Frame_1_rightoh_2_query_Exon_6
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+57 88
+set17_frame1
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Original query = GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+New query = GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1418165,1418238,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+5
+9
+Sericinus_montela,JAGSMR010000017.1,1419769,1419902,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_2_query_Exon_5,2,44,44
+
+Sericinus_montela,JAGSMR010000017.1,1417056,1417238,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Getting Gene
+min = set16_frame0, 0.403
+5 top scores:
+[['set16_frame0', 0.403], ['set50_frame2', 1.573], ['set1_frame2', 1.682], ['set50_frame1', 1.704], ['set12_frame0', 1.703]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_16_frame0.fa.txt
+7 31
+Papilio_machaon_XM_014499499.2_Frame_1_rightoh_1_query_Exon_7
+FYWALQDLFQQVHQGRLSSGHFIT
+7 31
+set16_frame0
+FYWAVQDLFLQVHQGRLAASQFIT
+Original query = FYWALQDLFQQVHQGRLSSGHFIT
+New query = FYWAVQDLFLQVHQGRLAASQFIT
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1417660,1417786,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+6
+10
+Sericinus_montela,JAGSMR010000017.1,1418800,1418895,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Sericinus_montela,JAGSMR010000017.1,1412665,1412832,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+Getting Gene
+min = set23_frame1, 0.088
+5 top scores:
+[['set23_frame1', 0.088], ['set3_frame0', 1.756], ['set35_frame2', 1.761], ['set51_frame2', 1.761], ['set38_frame1', 1.795]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_23_frame1.fa.txt
+12 53
+Papilio_machaon_XM_014499499.2_Frame_2_rightoh_2_query_Exon_8
+QLIWREYFYTMSVNNPNYGKMSGNSICLDIPWKNPEGDELT
+12 53
+set23_frame1
+QLIWREYFYTMSVNNPNYGQMAGNPICLDIPWKNPEGDELT
+Original query = QLIWREYFYTMSVNNPNYGKMSGNSICLDIPWKNPEGDELT
+New query = QLIWREYFYTMSVNNPNYGQMAGNPICLDIPWKNPEGDELT
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1417056,1417238,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+7
+11
+Sericinus_montela,JAGSMR010000017.1,1418165,1418238,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Sericinus_montela,JAGSMR010000017.1,1409467,1409590,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set27_frame2, 0.111
+5 top scores:
+[['set27_frame2', 0.111], ['set24_frame1', 1.028], ['set25_frame1', 1.081], ['set28_frame2', 1.561], ['set45_frame2', 1.817]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_27_frame2.fa.txt
+10 70
+Papilio_machaon_XM_014499499.2_Frame_1_rightoh_2_query_Exon_9
+WTEGRTGFPFIDAAMRQLRSEGWLHHVLRNTVASFLTRGTLWLSWEHGLDHFLKYLLDAD
+10 70
+set27_frame2
+WKEGRTGFPFIDAAMRQLRAEGWLHHALRNTVASFLTRGTLWLSWEHGLRHFLKYLLDAD
+Original query = WTEGRTGFPFIDAAMRQLRSEGWLHHVLRNTVASFLTRGTLWLSWEHGLDHFLKYLLDAD
+New query = WKEGRTGFPFIDAAMRQLRAEGWLHHALRNTVASFLTRGTLWLSWEHGLRHFLKYLLDAD
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1412665,1412832,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+8
+11
+Sericinus_montela,JAGSMR010000017.1,1417660,1417786,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Sericinus_montela,JAGSMR010000017.1,1409467,1409590,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set20_frame2, 0.156
+5 top scores:
+[['set20_frame2', 0.156], ['set10_frame2', 1.758], ['set21_frame2', 1.774], ['set35_frame1', 1.786], ['set35_frame0', 1.732]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_20_frame2.fa.txt
+18 73
+Papilio_machaon_XM_014499499.2_Frame_1_rightoh_2_query_Exon_10
+SVCAGNWMWVSSSAFEALLDSSECACPVRLGRRLDPDGEYVRRYVPELARVPVQY
+18 73
+set20_frame2
+SVCAGNWMWVSSSAFEALLDSSDCACPVRLGRRLEPSGEYVRRYVPELARVPDEY
+Original query = SVCAGNWMWVSSSAFEALLDSSECACPVRLGRRLDPDGEYVRRYVPELARVPVQY
+New query = SVCAGNWMWVSSSAFEALLDSSDCACPVRLGRRLEPSGEYVRRYVPELARVPDEY
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1409467,1409590,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+9
+11
+Sericinus_montela,JAGSMR010000017.1,1417056,1417238,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Sericinus_montela,JAGSMR010000017.1,1409467,1409590,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set21_frame2, 0.264
+5 top scores:
+[['set21_frame2', 0.264], ['set2_frame0', 1.729], ['set1_frame2', 1.738], ['set19_frame1', 1.78], ['set12_frame2', 1.787]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Papilio_machaon/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_21_frame2.fa.txt
+9 49
+set21_frame2
+YEPWKAPIEVQERANCIIGKDYPAPMVNHLEAARRNSEAM
+Original query = YEPWKAPIDVQERANCIIGKDYPAPMVNHLDAAARNKNNMK
+New query = YEPWKAPIEVQERANCIIGKDYPAPMVNHLEAARRNSEAM
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1422563,1422709,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+1
+4
+Sericinus_montela,JAGSMR010000017.1,1423271,1423400,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Sericinus_montela,JAGSMR010000017.1,1420684,1420800,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Getting Gene
+min = set13_frame0, 0.35
+5 top scores:
+[['set37_frame1', 1.723], ['set12_frame0', 1.791], ['set13_frame0', 0.35], ['set33_frame1', 1.815], ['set45_frame0', 1.8]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_13_frame0.fa.txt
+19 67
+Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_1_query_Exon_2
+TKVVGYNRMRYLLEALEDLDNQFKKYGGRLIVMKGTPHVIFRRLWEEF
+19 67
+set13_frame0
+TKLVGYNRMRYLLEALDDLDSQFRQHGGRLIMIKGKPEVVFKRLWEEF
+Original query = TKVVGYNRMRYLLEALEDLDNQFKKYGGRLIVMKGTPHVIFRRLWEEF
+New query = TKLVGYNRMRYLLEALDDLDSQFRQHGGRLIMIKGKPEVVFKRLWEEF
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1421605,1421792,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+1
+5
+Sericinus_montela,JAGSMR010000017.1,1423271,1423400,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Sericinus_montela,JAGSMR010000017.1,1419769,1419902,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_2_query_Exon_5,2,44,44
+
+Getting Gene
+min = set31_frame2, 0.227
+5 top scores:
+[['set31_frame2', 0.227], ['set34_frame1', 1.83], ['set69_frame2', 1.848], ['set1_frame2', 1.876], ['set61_frame0', 1.854]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_31_frame2.fa.txt
+6 68
+Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_0_query_Exon_3
+ITKLCFEQDCEPVWRARDDAVKAACRETGVVCREHVSHTLWEPDTVIRYNGGIPPLTYQMFL
+6 68
+set31_frame2
+IRKLCFEQDCEPVWRQRDDLVKTTCREIGVACREHVSHTLWEPDTVIRVNGGIPPLTYQMFL
+Original query = ITKLCFEQDCEPVWRARDDAVKAACRETGVVCREHVSHTLWEPDTVIRYNGGIPPLTYQMFL
+New query = IRKLCFEQDCEPVWRQRDDLVKTTCREIGVACREHVSHTLWEPDTVIRVNGGIPPLTYQMFL
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1420684,1420800,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+2
+6
+Sericinus_montela,JAGSMR010000017.1,1422563,1422709,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+Sericinus_montela,JAGSMR010000017.1,1418800,1418895,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Getting Gene
+min = set38_frame1, 0.3
+5 top scores:
+[['set38_frame1', 0.3], ['set49_frame2', 1.676], ['set47_frame2', 1.742], ['set52_frame2', 1.745], ['set40_frame2', 1.791]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_38_frame1.fa.txt
+1 40
+Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_0_query_Exon_4
+HTVSTIGDPPRPVSDLDLTGVNFGVLPDFFYQEFTVFDK
+1 40
+set38_frame1
+HTVSTIGDPPRPVGDIDLCGVNFGVLPECFYKEFTIFDR
+Original query = HTVSTIGDPPRPVSDLDLTGVNFGVLPDFFYQEFTVFDK
+New query = HTVSTIGDPPRPVGDIDLCGVNFGVLPECFYKEFTIFDR
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1419769,1419902,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_2_query_Exon_5,2,44,44
+
+3
+7
+Sericinus_montela,JAGSMR010000017.1,1421605,1421792,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+Sericinus_montela,JAGSMR010000017.1,1418165,1418238,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Getting Gene
+min = set38_frame0, 0.606
+5 top scores:
+[['set55_frame2', 1.742], ['set1_frame2', 1.787], ['set14_frame2', 1.791], ['set39_frame2', 1.802], ['set38_frame0', 0.606]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_38_frame0.fa.txt
+44 88
+Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_2_query_Exon_5
+VPKPEDLGVHLDREDIRMIRWVGGETAALHQMQQRLQVEYETFC
+44 88
+set38_frame0
+APRPEQLGVRPEGAPPRMIRWVGGEAAALRQMQQRLAVEYETFC
+Original query = VPKPEDLGVHLDREDIRMIRWVGGETAALHQMQQRLQVEYETFC
+New query = APRPEQLGVRPEGAPPRMIRWVGGEAAALRQMQQRLAVEYETFC
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1418800,1418895,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+4
+8
+Sericinus_montela,JAGSMR010000017.1,1420684,1420800,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Sericinus_montela,JAGSMR010000017.1,1417660,1417786,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Getting Gene
+min = set17_frame1, 0.0
+5 top scores:
+[['set17_frame1', 0.0], ['set33_frame2', 1.692], ['set20_frame2', 1.698], ['set19_frame2', 1.72], ['set12_frame2', 1.735]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_17_frame1.fa.txt
+57 88
+Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_6
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+57 88
+set17_frame1
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Original query = GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+New query = GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1418165,1418238,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+5
+9
+Sericinus_montela,JAGSMR010000017.1,1419769,1419902,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_2_query_Exon_5,2,44,44
+
+Sericinus_montela,JAGSMR010000017.1,1417056,1417238,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Getting Gene
+min = set16_frame0, 0.224
+5 top scores:
+[['set16_frame0', 0.224], ['set1_frame2', 1.629], ['set4_frame2', 1.65], ['set15_frame2', 1.717], ['set12_frame0', 1.699]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_16_frame0.fa.txt
+7 31
+Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_1_query_Exon_7
+FYWAVQDLFQQVHQGRLSGSQFIT
+7 31
+set16_frame0
+FYWAVQDLFLQVHQGRLAASQFIT
+Original query = FYWAVQDLFQQVHQGRLSGSQFIT
+New query = FYWAVQDLFLQVHQGRLAASQFIT
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1417660,1417786,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+6
+10
+Sericinus_montela,JAGSMR010000017.1,1418800,1418895,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Sericinus_montela,JAGSMR010000017.1,1412665,1412832,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+Getting Gene
+min = set23_frame1, 0.081
+5 top scores:
+[['set23_frame1', 0.081], ['set33_frame1', 1.729], ['set6_frame2', 1.77], ['set51_frame2', 1.773], ['set32_frame1', 1.83]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_23_frame1.fa.txt
+12 53
+Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_2_query_Exon_8
+QLIWREYFYTMSVNNPNYGQMGGNPICLDIPWKTPEGDELT
+12 53
+set23_frame1
+QLIWREYFYTMSVNNPNYGQMAGNPICLDIPWKNPEGDELT
+Original query = QLIWREYFYTMSVNNPNYGQMGGNPICLDIPWKTPEGDELT
+New query = QLIWREYFYTMSVNNPNYGQMAGNPICLDIPWKNPEGDELT
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1417056,1417238,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+7
+11
+Sericinus_montela,JAGSMR010000017.1,1418165,1418238,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Sericinus_montela,JAGSMR010000017.1,1409467,1409590,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set27_frame2, 0.112
+5 top scores:
+[['set27_frame2', 0.112], ['set24_frame1', 1.021], ['set25_frame1', 1.074], ['set28_frame2', 1.566], ['set45_frame2', 1.816]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_27_frame2.fa.txt
+10 70
+Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_9
+WIEGRTGFPFIDAAMRQLRSEGWLHHVLRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+10 70
+set27_frame2
+WKEGRTGFPFIDAAMRQLRAEGWLHHALRNTVASFLTRGTLWLSWEHGLRHFLKYLLDAD
+Original query = WIEGRTGFPFIDAAMRQLRSEGWLHHVLRNTVASFLTRGTLWLSWEHGLNHFLKYLLDAD
+New query = WKEGRTGFPFIDAAMRQLRAEGWLHHALRNTVASFLTRGTLWLSWEHGLRHFLKYLLDAD
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1412665,1412832,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+8
+11
+Sericinus_montela,JAGSMR010000017.1,1417660,1417786,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Sericinus_montela,JAGSMR010000017.1,1409467,1409590,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set20_frame2, 0.194
+5 top scores:
+[['set20_frame2', 0.194], ['set10_frame2', 1.759], ['set18_frame0', 1.783], ['set21_frame2', 1.792], ['set35_frame0', 1.737]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_20_frame2.fa.txt
+18 73
+Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_10
+SVCAGNWMWVSSSAFEALLDSSECACPVRLGRRLDPGGDYVRRYVPELARVPVNY
+18 73
+set20_frame2
+SVCAGNWMWVSSSAFEALLDSSDCACPVRLGRRLEPSGEYVRRYVPELARVPDEY
+Original query = SVCAGNWMWVSSSAFEALLDSSECACPVRLGRRLDPGGDYVRRYVPELARVPVNY
+New query = SVCAGNWMWVSSSAFEALLDSSDCACPVRLGRRLEPSGEYVRRYVPELARVPDEY
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1409467,1409590,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+9
+11
+Sericinus_montela,JAGSMR010000017.1,1417056,1417238,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Sericinus_montela,JAGSMR010000017.1,1409467,1409590,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set21_frame2, 0.274
+5 top scores:
+[['set21_frame2', 0.274], ['set2_frame0', 1.73], ['set1_frame2', 1.739], ['set4_frame0', 1.791], ['set12_frame2', 1.793]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_21_frame2.fa.txt
+9 49
+set21_frame2
+YEPWKAPIEVQERANCIIGKDYPAPMVNHLEAARRNSEAM
+Original query = YEPWKAPIDVQERANCIIGKDYPAPMVNHLDAAARNRNNMK
+New query = YEPWKAPIEVQERANCIIGKDYPAPMVNHLEAARRNSEAM
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1422563,1422709,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+1
+4
+Sericinus_montela,JAGSMR010000017.1,1423271,1423400,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Sericinus_montela,JAGSMR010000017.1,1420684,1420800,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Getting Gene
+min = set13_frame0, 0.286
+5 top scores:
+[['set37_frame1', 1.786], ['set12_frame0', 1.791], ['set13_frame0', 0.286], ['set29_frame2', 1.816], ['set45_frame0', 1.824]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_13_frame0.fa.txt
+19 67
+Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_1_query_Exon_2
+TKVVGYNRMRYLLEALDDLDRQFRQYGGRLLMIKGKPADVIRRLWEEF
+19 67
+set13_frame0
+TKLVGYNRMRYLLEALDDLDSQFRQHGGRLIMIKGKPEVVFKRLWEEF
+Original query = TKVVGYNRMRYLLEALDDLDRQFRQYGGRLLMIKGKPADVIRRLWEEF
+New query = TKLVGYNRMRYLLEALDDLDSQFRQHGGRLIMIKGKPEVVFKRLWEEF
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1421605,1421792,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+1
+5
+Sericinus_montela,JAGSMR010000017.1,1423271,1423400,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_1_query_Exon_1,1,43,43
+
+Sericinus_montela,JAGSMR010000017.1,1419769,1419902,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_2_query_Exon_5,2,44,44
+
+Getting Gene
+min = set31_frame2, 0.303
+5 top scores:
+[['set31_frame2', 0.303], ['set13_frame0', 1.824], ['set65_frame1', 1.831], ['set1_frame2', 1.834], ['set52_frame2', 1.84]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_31_frame2.fa.txt
+6 68
+Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_0_query_Exon_3
+ISKLCFEQDCEPIWRARDESVRAVCRQIGVRCRERVSHTLWDPDTIVRVNGGIPPLTYQMFL
+6 68
+set31_frame2
+IRKLCFEQDCEPVWRQRDDLVKTTCREIGVACREHVSHTLWEPDTVIRVNGGIPPLTYQMFL
+Original query = ISKLCFEQDCEPIWRARDESVRAVCRQIGVRCRERVSHTLWDPDTIVRVNGGIPPLTYQMFL
+New query = IRKLCFEQDCEPVWRQRDDLVKTTCREIGVACREHVSHTLWEPDTVIRVNGGIPPLTYQMFL
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1420684,1420800,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+2
+6
+Sericinus_montela,JAGSMR010000017.1,1422563,1422709,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_1_query_Exon_2,1,48,48
+
+Sericinus_montela,JAGSMR010000017.1,1418800,1418895,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Getting Gene
+min = set38_frame1, 0.483
+5 top scores:
+[['set38_frame1', 0.483], ['set52_frame2', 1.718], ['set57_frame2', 1.745], ['set47_frame2', 1.761], ['set58_frame2', 1.795]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_38_frame1.fa.txt
+1 40
+Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_0_query_Exon_4
+HTVAIIGDPPRPVDDVDLRKVNFGVLPDSFYNEFVVFDK
+1 40
+set38_frame1
+HTVSTIGDPPRPVGDIDLCGVNFGVLPECFYKEFTIFDR
+Original query = HTVAIIGDPPRPVDDVDLRKVNFGVLPDSFYNEFVVFDK
+New query = HTVSTIGDPPRPVGDIDLCGVNFGVLPECFYKEFTIFDR
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1419769,1419902,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_2_query_Exon_5,2,44,44
+
+3
+7
+Sericinus_montela,JAGSMR010000017.1,1421605,1421792,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_0_query_Exon_3,1,62,62
+
+Sericinus_montela,JAGSMR010000017.1,1418165,1418238,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Getting Gene
+min = set38_frame0, 0.663
+5 top scores:
+[['set55_frame2', 1.719], ['set39_frame2', 1.782], ['set29_frame2', 1.798], ['set58_frame2', 1.823], ['set38_frame0', 0.663]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_38_frame0.fa.txt
+44 88
+Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_2_query_Exon_5
+TPKPEDLGVFLEKEDIRMIRWVGGERAALQQADQRLAVEHETFC
+44 88
+set38_frame0
+APRPEQLGVRPEGAPPRMIRWVGGEAAALRQMQQRLAVEYETFC
+Original query = TPKPEDLGVFLEKEDIRMIRWVGGERAALQQADQRLAVEHETFC
+New query = APRPEQLGVRPEGAPPRMIRWVGGEAAALRQMQQRLAVEYETFC
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1418800,1418895,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+4
+8
+Sericinus_montela,JAGSMR010000017.1,1420684,1420800,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_0_query_Exon_4,1,39,39
+
+Sericinus_montela,JAGSMR010000017.1,1417660,1417786,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Getting Gene
+min = set17_frame1, 0.038
+5 top scores:
+[['set17_frame1', 0.038], ['set20_frame2', 1.682], ['set33_frame2', 1.692], ['set19_frame2', 1.718], ['set4_frame2', 1.73]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_17_frame1.fa.txt
+57 88
+Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_6
+GSYLPTHGSPDLLGPPISLSPALRFGCLSVR
+57 88
+set17_frame1
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Original query = GSYLPTHGSPDLLGPPISLSPALRFGCLSVR
+New query = GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1418165,1418238,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+5
+9
+Sericinus_montela,JAGSMR010000017.1,1419769,1419902,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_2_query_Exon_5,2,44,44
+
+Sericinus_montela,JAGSMR010000017.1,1417056,1417238,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Getting Gene
+min = set16_frame0, 0.426
+5 top scores:
+[['set16_frame0', 0.426], ['set1_frame2', 1.63], ['set14_frame2', 1.63], ['set50_frame2', 1.687], ['set23_frame1', 1.727]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_16_frame0.fa.txt
+7 31
+Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_1_query_Exon_7
+FYWAVQDLFQKVHQGRVSSTHFIT
+7 31
+set16_frame0
+FYWAVQDLFLQVHQGRLAASQFIT
+Original query = FYWAVQDLFQKVHQGRVSSTHFIT
+New query = FYWAVQDLFLQVHQGRLAASQFIT
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1417660,1417786,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+6
+10
+Sericinus_montela,JAGSMR010000017.1,1418800,1418895,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_6,1,31,31
+
+Sericinus_montela,JAGSMR010000017.1,1412665,1412832,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+Getting Gene
+min = set23_frame1, 0.259
+5 top scores:
+[['set23_frame1', 0.259], ['set33_frame1', 1.717], ['set51_frame2', 1.779], ['set35_frame2', 1.822], ['set12_frame0', 1.814]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_23_frame1.fa.txt
+12 52
+Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_2_query_Exon_8
+QLIWREYFYTMSVNNPRYGQMEGNPICLDIPWKQPQGDHL
+12 52
+set23_frame1
+QLIWREYFYTMSVNNPNYGQMAGNPICLDIPWKNPEGDEL
+Original query = QLIWREYFYTMSVNNPRYGQMEGNPICLDIPWKQPQGDHLE
+New query = QLIWREYFYTMSVNNPNYGQMAGNPICLDIPWKNPEGDEL
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1417056,1417238,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+7
+11
+Sericinus_montela,JAGSMR010000017.1,1418165,1418238,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_1_query_Exon_7,1,24,24
+
+Sericinus_montela,JAGSMR010000017.1,1409467,1409590,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set27_frame2, 0.058
+5 top scores:
+[['set27_frame2', 0.058], ['set23_frame1', 1.005], ['set24_frame1', 1.005], ['set25_frame1', 1.045], ['set28_frame2', 1.541]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_27_frame2.fa.txt
+10 70
+Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_9
+WKEGRTGFPFVDAAMRQLLAEGWLHHALRNTVASFLTRGTLWLSWEHGLKHFLKYLLDAD
+10 70
+set27_frame2
+WKEGRTGFPFIDAAMRQLRAEGWLHHALRNTVASFLTRGTLWLSWEHGLRHFLKYLLDAD
+Original query = WKEGRTGFPFVDAAMRQLLAEGWLHHALRNTVASFLTRGTLWLSWEHGLKHFLKYLLDAD
+New query = WKEGRTGFPFIDAAMRQLRAEGWLHHALRNTVASFLTRGTLWLSWEHGLRHFLKYLLDAD
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1412665,1412832,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_10,1,55,55
+
+8
+11
+Sericinus_montela,JAGSMR010000017.1,1417660,1417786,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_2_query_Exon_8,1,41,41
+
+Sericinus_montela,JAGSMR010000017.1,1409467,1409590,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set20_frame2, 0.26
+5 top scores:
+[['set20_frame2', 0.26], ['set17_frame0', 1.743], ['set11_frame2', 1.771], ['set27_frame1', 1.823], ['set35_frame0', 1.738]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_20_frame2.fa.txt
+18 73
+Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_10
+SVCAGNWMWVSSSAFEALLDSGECACPVRLGLRLEPSGRYVRRYVPELTHMPDAY
+18 73
+set20_frame2
+SVCAGNWMWVSSSAFEALLDSSDCACPVRLGRRLEPSGEYVRRYVPELARVPDEY
+Original query = SVCAGNWMWVSSSAFEALLDSGECACPVRLGLRLEPSGRYVRRYVPELTHMPDAY
+New query = SVCAGNWMWVSSSAFEALLDSSDCACPVRLGRRLEPSGEYVRRYVPELARVPDEY
+Scaffold = JAGSMR010000017.1, start = 1423271, end = 1423400
+Sericinus_montela,JAGSMR010000017.1,1409467,1409590,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+9
+11
+Sericinus_montela,JAGSMR010000017.1,1417056,1417238,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_9,1,60,60
+
+Sericinus_montela,JAGSMR010000017.1,1409467,1409590,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_0_query_Exon_11,1,41,41
+
+Getting Gene
+min = set21_frame2, 0.539
+5 top scores:
+[['set21_frame2', 0.539], ['set2_frame0', 1.699], ['set1_frame2', 1.722], ['set4_frame0', 1.75], ['set12_frame2', 1.779]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/12.Cryptochrome_1a_Exon_Analysis/7.Papilionidae/1.Blast_result/Sericinus_montela/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_21_frame2.fa.txt
+9 49
+set21_frame2
+YEPWKAPIEVQERANCIIGKDYPAPMVNHLEAARRNSEAM
+Original query = YEPWKAPLEVQQRAGCVIGRDYPPPILDHLGAADRNRAAMQ
+New query = YEPWKAPIEVQERANCIIGKDYPAPMVNHLEAARRNSEAM

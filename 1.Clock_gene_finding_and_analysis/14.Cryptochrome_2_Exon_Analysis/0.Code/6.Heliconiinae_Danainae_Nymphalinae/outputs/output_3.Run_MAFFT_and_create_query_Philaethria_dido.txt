@@ -1,0 +1,456 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = JAKGSA010000064.1, start = 44680, end = 44924
+Philaethria_dido,JAKGSA010000064.1,45001,45252,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Philaethria_dido,JAKGSA010000064.1,44680,44924,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,47,99,99
+
+Philaethria_dido,JAKGSA010000064.1,47862,48033,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set5_frame1, 0.081
+5 top scores:
+[['set1_frame0', 1.886], ['set5_frame1', 0.081], ['set21_frame1', 1.899], ['set60_frame1', 1.894], ['set17_frame2', 1.888]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Philaethria_dido/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_5_frame1.fa.txt
+21 104
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDKNLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIQVTSRVSHTLYKLD
+21 104
+set5_frame1
+FLLQCLDDLDSSLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRVSHTLYKLD
+Original query = FLLQCLEDLDKNLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIQVTSRVSHTLYKLD
+New query = FLLQCLDDLDSSLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRVSHTLYKLD
+Scaffold = JAKGSA010000064.1, start = 44680, end = 44924
+Philaethria_dido,JAKGSA010000064.1,45335,45519,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Philaethria_dido,JAKGSA010000064.1,44680,44924,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,47,99,99
+
+Philaethria_dido,JAKGSA010000064.1,48288,48513,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set17_frame2, 0.343
+5 top scores:
+[['set17_frame2', 0.343], ['set30_frame2', 1.798], ['set24_frame0', 1.814], ['set45_frame2', 1.832], ['set73_frame0', 1.872]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Philaethria_dido/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_17_frame2.fa.txt
+18 79
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3
+IIEKNGGKAPLTYHQFQALIASMPPPPSAEPTISLETLNRAVTPISDNHDERFGVPTLEEL
+18 79
+set17_frame2
+IIERNGGKAPLTYHQFQALIASMPPPPPAEAAISTQNLNGAVTPLTEDHDDRFGVPTLEEL
+Original query = IIEKNGGKAPLTYHQFQALIASMPPPPSAEPTISLETLNRAVTPISDNHDERFGVPTLEEL
+New query = IIERNGGKAPLTYHQFQALIASMPPPPPAEAAISTQNLNGAVTPLTEDHDDRFGVPTLEEL
+Scaffold = JAKGSA010000064.1, start = 44680, end = 44924
+Philaethria_dido,JAKGSA010000064.1,47862,48033,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Philaethria_dido,JAKGSA010000064.1,45001,45252,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Philaethria_dido,JAKGSA010000064.1,48801,48941,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set56_frame1, 0.064
+5 top scores:
+[['set56_frame1', 0.064], ['set39_frame2', 1.78], ['set83_frame2', 1.807], ['set52_frame0', 1.847], ['set24_frame2', 1.849]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Philaethria_dido/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_56_frame1.fa.txt
+14 70
+Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4
+FDTEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPESLLSSQTGLSPYL
+14 70
+set56_frame1
+FETEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+Original query = FDTEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPESLLSSQTGLSPYL
+New query = FETEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+Scaffold = JAKGSA010000064.1, start = 44680, end = 44924
+Philaethria_dido,JAKGSA010000064.1,48288,48513,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Philaethria_dido,JAKGSA010000064.1,45335,45519,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Philaethria_dido,JAKGSA010000064.1,49684,49835,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set65_frame2, 0.112
+5 top scores:
+[['set65_frame2', 0.112], ['set29_frame1', 1.859], ['set91_frame0', 1.849], ['set1_frame1', 1.848], ['set73_frame1', 1.873]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Philaethria_dido/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_65_frame2.fa.txt
+4 79
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAN
+4 79
+set65_frame2
+FGCLSTRLFYYQLTELYKRVKHVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALAKWAN
+Original query = FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAN
+New query = FGCLSTRLFYYQLTELYKRVKHVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALAKWAN
+Scaffold = JAKGSA010000064.1, start = 44680, end = 44924
+Philaethria_dido,JAKGSA010000064.1,48801,48941,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Philaethria_dido,JAKGSA010000064.1,47862,48033,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Philaethria_dido,JAKGSA010000064.1,50833,51035,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set24_frame0, 0.071
+5 top scores:
+[['set24_frame0', 0.071], ['set64_frame2', 1.819], ['set38_frame2', 1.827], ['set62_frame2', 1.839], ['set63_frame0', 1.833]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Philaethria_dido/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_24_frame0.fa.txt
+0 47
+Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6
+GQTGFPWIDAIMIQLRNDGWIHHLARHAVACFLTRGDLWISWEEGMK
+0 47
+set24_frame0
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GQTGFPWIDAIMIQLRNDGWIHHLARHAVACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = JAKGSA010000064.1, start = 44680, end = 44924
+Philaethria_dido,JAKGSA010000064.1,49684,49835,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Philaethria_dido,JAKGSA010000064.1,48288,48513,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Philaethria_dido,JAKGSA010000064.1,50833,51035,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set28_frame1, 0.0
+5 top scores:
+[['set28_frame1', 0.0], ['set47_frame1', 1.802], ['set36_frame0', 1.78], ['set32_frame2', 1.816], ['set52_frame0', 1.782]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Philaethria_dido/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_28_frame1.fa.txt
+1 51
+Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+1 51
+set28_frame1
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = JAKGSA010000064.1, start = 44680, end = 44924
+Philaethria_dido,JAKGSA010000064.1,50833,51035,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Philaethria_dido,JAKGSA010000064.1,48801,48941,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Philaethria_dido,JAKGSA010000064.1,50833,51035,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set48_frame2, 0.314
+5 top scores:
+[['set48_frame2', 0.314], ['set27_frame0', 1.868], ['set16_frame1', 1.889], ['set20_frame1', 1.891], ['set39_frame1', 1.842]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Philaethria_dido/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_48_frame2.fa.txt
+29 95
+set48_frame2
+KYIPVLKNMPTRYIHEPWVAPDSVQQAARCIIGRDYPLPMVEHSKASLINIERIKQVYAQLAKYKP
+Original query = KYIPVLKNMPTRYIHEPWVCPEEIQKSIRCIIGKDYPMPIVDHTKASEINLERIKQVYAQLAKFKPQ
+New query = KYIPVLKNMPTRYIHEPWVAPDSVQQAARCIIGRDYPLPMVEHSKASLINIERIKQVYAQLAKYKP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = JAKGSA010000064.1, start = 44680, end = 44924
+Philaethria_dido,JAKGSA010000064.1,45001,45252,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Philaethria_dido,JAKGSA010000064.1,44680,44924,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,47,99,99
+
+Philaethria_dido,JAKGSA010000064.1,47862,48033,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set5_frame1, 0.142
+5 top scores:
+[['set1_frame0', 1.875], ['set5_frame1', 0.142], ['set21_frame1', 1.89], ['set60_frame1', 1.837], ['set17_frame2', 1.883]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Philaethria_dido/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_5_frame1.fa.txt
+21 104
+Nymphalis_io_XM_050504024.1_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWETTALTFEEDPEPYGRVRDHNITTKCREVGIKVTSRVSHTLYKLD
+21 104
+set5_frame1
+FLLQCLDDLDSSLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRVSHTLYKLD
+Original query = FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWETTALTFEEDPEPYGRVRDHNITTKCREVGIKVTSRVSHTLYKLD
+New query = FLLQCLDDLDSSLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRVSHTLYKLD
+Scaffold = JAKGSA010000064.1, start = 44680, end = 44924
+Philaethria_dido,JAKGSA010000064.1,45335,45519,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Philaethria_dido,JAKGSA010000064.1,44680,44924,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,47,99,99
+
+Philaethria_dido,JAKGSA010000064.1,48288,48513,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set17_frame2, 0.262
+5 top scores:
+[['set17_frame2', 0.262], ['set45_frame2', 1.819], ['set60_frame1', 1.848], ['set54_frame0', 1.764], ['set5_frame1', 1.859]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Philaethria_dido/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_17_frame2.fa.txt
+18 79
+Nymphalis_io_XM_050504024.1_Frame_1_rightoh_1_query_Exon_3
+IIERNGGKAPLTYHQFQALIASMPPPPPAEPAITADMLNGAITPLGADHEDRFGVPTLEEL
+18 79
+set17_frame2
+IIERNGGKAPLTYHQFQALIASMPPPPPAEAAISTQNLNGAVTPLTEDHDDRFGVPTLEEL
+Original query = IIERNGGKAPLTYHQFQALIASMPPPPPAEPAITADMLNGAITPLGADHEDRFGVPTLEEL
+New query = IIERNGGKAPLTYHQFQALIASMPPPPPAEAAISTQNLNGAVTPLTEDHDDRFGVPTLEEL
+Scaffold = JAKGSA010000064.1, start = 44680, end = 44924
+Philaethria_dido,JAKGSA010000064.1,47862,48033,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Philaethria_dido,JAKGSA010000064.1,45001,45252,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Philaethria_dido,JAKGSA010000064.1,48801,48941,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set56_frame1, 0.077
+5 top scores:
+[['set56_frame1', 0.077], ['set39_frame2', 1.756], ['set83_frame2', 1.807], ['set52_frame0', 1.848], ['set69_frame0', 1.864]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Philaethria_dido/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_56_frame1.fa.txt
+14 70
+Nymphalis_io_XM_050504024.1_Frame_2_rightoh_2_query_Exon_4
+FDTDGLKPPLWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+14 70
+set56_frame1
+FETEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+Original query = FDTDGLKPPLWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+New query = FETEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+Scaffold = JAKGSA010000064.1, start = 44680, end = 44924
+Philaethria_dido,JAKGSA010000064.1,48288,48513,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Philaethria_dido,JAKGSA010000064.1,45335,45519,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Philaethria_dido,JAKGSA010000064.1,49684,49835,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set65_frame2, 0.127
+5 top scores:
+[['set65_frame2', 0.127], ['set88_frame2', 1.861], ['set91_frame0', 1.858], ['set1_frame1', 1.855], ['set29_frame1', 1.877]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Philaethria_dido/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_65_frame2.fa.txt
+4 79
+Nymphalis_io_XM_050504024.1_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLTELYTRVKRVLPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWQKNQDALLKWAN
+4 79
+set65_frame2
+FGCLSTRLFYYQLTELYKRVKHVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALAKWAN
+Original query = FGCLSTRLFYYQLTELYTRVKRVLPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWQKNQDALLKWAN
+New query = FGCLSTRLFYYQLTELYKRVKHVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALAKWAN
+Scaffold = JAKGSA010000064.1, start = 44680, end = 44924
+Philaethria_dido,JAKGSA010000064.1,48801,48941,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Philaethria_dido,JAKGSA010000064.1,47862,48033,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Philaethria_dido,JAKGSA010000064.1,50833,51035,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set24_frame0, 0.1
+5 top scores:
+[['set24_frame0', 0.1], ['set64_frame2', 1.771], ['set38_frame2', 1.816], ['set62_frame2', 1.839], ['set63_frame0', 1.795]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Philaethria_dido/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_24_frame0.fa.txt
+0 47
+Nymphalis_io_XM_050504024.1_Frame_0_rightoh_0_query_Exon_6
+GKTGYPWIDAIMIQLREEGWIHHLSRHAAACFLTRGDLWISWEEGMK
+0 47
+set24_frame0
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GKTGYPWIDAIMIQLREEGWIHHLSRHAAACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = JAKGSA010000064.1, start = 44680, end = 44924
+Philaethria_dido,JAKGSA010000064.1,49684,49835,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Philaethria_dido,JAKGSA010000064.1,48288,48513,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Philaethria_dido,JAKGSA010000064.1,50833,51035,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set28_frame1, 0.031
+5 top scores:
+[['set28_frame1', 0.031], ['set47_frame1', 1.801], ['set32_frame2', 1.816], ['set56_frame2', 1.848], ['set52_frame0', 1.782]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Philaethria_dido/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_28_frame1.fa.txt
+1 51
+Nymphalis_io_XM_050504024.1_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKIDPNGDFI
+1 51
+set28_frame1
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKIDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = JAKGSA010000064.1, start = 44680, end = 44924
+Philaethria_dido,JAKGSA010000064.1,50833,51035,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Philaethria_dido,JAKGSA010000064.1,48801,48941,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Philaethria_dido,JAKGSA010000064.1,50833,51035,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set48_frame2, 0.374
+5 top scores:
+[['set48_frame2', 0.374], ['set22_frame2', 1.895], ['set16_frame1', 1.89], ['set20_frame1', 1.898], ['set39_frame1', 1.878]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Philaethria_dido/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_48_frame2.fa.txt
+29 95
+set48_frame2
+KYIPVLKNMPTRYIHEPWVAPDSVQQAARCIIGRDYPLPMVEHSKASLINIERIKQVYAQLAKYKP
+Original query = KYIPALRNLPTRFIHEPWMAPETVQQDANCIIGRDYPQPIVDHAKASQVNIERIKQVYAQLAKYKPP
+New query = KYIPVLKNMPTRYIHEPWVAPDSVQQAARCIIGRDYPLPMVEHSKASLINIERIKQVYAQLAKYKP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = JAKGSA010000064.1, start = 44680, end = 44924
+Philaethria_dido,JAKGSA010000064.1,45001,45252,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Philaethria_dido,JAKGSA010000064.1,44680,44924,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,47,99,99
+
+Philaethria_dido,JAKGSA010000064.1,47862,48033,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set5_frame1, 0.067
+5 top scores:
+[['set1_frame0', 1.886], ['set5_frame1', 0.067], ['set21_frame1', 1.89], ['set60_frame1', 1.867], ['set17_frame2', 1.888]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Philaethria_dido/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_5_frame1.fa.txt
+21 104
+Vanessa_tameamea_XM_026629288.1_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRVSHTLYKLD
+21 104
+set5_frame1
+FLLQCLDDLDSSLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRVSHTLYKLD
+Original query = FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRVSHTLYKLD
+New query = FLLQCLDDLDSSLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRVSHTLYKLD
+Scaffold = JAKGSA010000064.1, start = 44680, end = 44924
+Philaethria_dido,JAKGSA010000064.1,45335,45519,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Philaethria_dido,JAKGSA010000064.1,44680,44924,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,47,99,99
+
+Philaethria_dido,JAKGSA010000064.1,48288,48513,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set17_frame2, 0.259
+5 top scores:
+[['set17_frame2', 0.259], ['set30_frame2', 1.797], ['set45_frame2', 1.835], ['set54_frame0', 1.764], ['set69_frame1', 1.851]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Philaethria_dido/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_17_frame2.fa.txt
+18 79
+Vanessa_tameamea_XM_026629288.1_Frame_1_rightoh_1_query_Exon_3
+IIERNEGKAPLTYHQFQALIASMPPPPPAEPAITAEMLNGAVTPLADDHEDRFGVPTLEEL
+18 79
+set17_frame2
+IIERNGGKAPLTYHQFQALIASMPPPPPAEAAISTQNLNGAVTPLTEDHDDRFGVPTLEEL
+Original query = IIERNEGKAPLTYHQFQALIASMPPPPPAEPAITAEMLNGAVTPLADDHEDRFGVPTLEEL
+New query = IIERNGGKAPLTYHQFQALIASMPPPPPAEAAISTQNLNGAVTPLTEDHDDRFGVPTLEEL
+Scaffold = JAKGSA010000064.1, start = 44680, end = 44924
+Philaethria_dido,JAKGSA010000064.1,47862,48033,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Philaethria_dido,JAKGSA010000064.1,45001,45252,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Philaethria_dido,JAKGSA010000064.1,48801,48941,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set56_frame1, 0.03
+5 top scores:
+[['set56_frame1', 0.03], ['set39_frame2', 1.78], ['set83_frame2', 1.807], ['set52_frame2', 1.824], ['set69_frame0', 1.862]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Philaethria_dido/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_56_frame1.fa.txt
+14 70
+Vanessa_tameamea_XM_026629288.1_Frame_2_rightoh_2_query_Exon_4
+FETEGLKPPIWIGGEKEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+14 70
+set56_frame1
+FETEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+Original query = FETEGLKPPIWIGGEKEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+New query = FETEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+Scaffold = JAKGSA010000064.1, start = 44680, end = 44924
+Philaethria_dido,JAKGSA010000064.1,48288,48513,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Philaethria_dido,JAKGSA010000064.1,45335,45519,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Philaethria_dido,JAKGSA010000064.1,49684,49835,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set65_frame2, 0.122
+5 top scores:
+[['set65_frame2', 0.122], ['set88_frame2', 1.861], ['set91_frame0', 1.858], ['set1_frame1', 1.855], ['set29_frame1', 1.877]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Philaethria_dido/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_65_frame2.fa.txt
+4 79
+Vanessa_tameamea_XM_026629288.1_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLTELYTRVKRVLPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQEALVKWAN
+4 79
+set65_frame2
+FGCLSTRLFYYQLTELYKRVKHVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALAKWAN
+Original query = FGCLSTRLFYYQLTELYTRVKRVLPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQEALVKWAN
+New query = FGCLSTRLFYYQLTELYKRVKHVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALAKWAN
+Scaffold = JAKGSA010000064.1, start = 44680, end = 44924
+Philaethria_dido,JAKGSA010000064.1,48801,48941,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Philaethria_dido,JAKGSA010000064.1,47862,48033,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Philaethria_dido,JAKGSA010000064.1,50833,51035,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set24_frame0, 0.029
+5 top scores:
+[['set24_frame0', 0.029], ['set64_frame2', 1.788], ['set38_frame2', 1.835], ['set62_frame2', 1.839], ['set63_frame0', 1.799]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Philaethria_dido/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_24_frame0.fa.txt
+0 47
+Vanessa_tameamea_XM_026629288.1_Frame_0_rightoh_0_query_Exon_6
+GQTGFPWIDAIMIQLREEGWIHHLARHAAACFLTRGDLWISWEEGMK
+0 47
+set24_frame0
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GQTGFPWIDAIMIQLREEGWIHHLARHAAACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = JAKGSA010000064.1, start = 44680, end = 44924
+Philaethria_dido,JAKGSA010000064.1,49684,49835,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Philaethria_dido,JAKGSA010000064.1,48288,48513,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Philaethria_dido,JAKGSA010000064.1,50833,51035,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set28_frame1, 0.0
+5 top scores:
+[['set28_frame1', 0.0], ['set47_frame1', 1.802], ['set36_frame0', 1.78], ['set32_frame2', 1.816], ['set52_frame0', 1.782]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Philaethria_dido/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_28_frame1.fa.txt
+1 51
+Vanessa_tameamea_XM_026629288.1_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+1 51
+set28_frame1
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = JAKGSA010000064.1, start = 44680, end = 44924
+Philaethria_dido,JAKGSA010000064.1,50833,51035,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Philaethria_dido,JAKGSA010000064.1,48801,48941,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Philaethria_dido,JAKGSA010000064.1,50833,51035,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set48_frame2, 0.296
+5 top scores:
+[['set48_frame2', 0.296], ['set27_frame0', 1.873], ['set22_frame2', 1.886], ['set20_frame1', 1.898], ['set39_frame1', 1.877]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Philaethria_dido/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_48_frame2.fa.txt
+29 95
+set48_frame2
+KYIPVLKNMPTRYIHEPWVAPDSVQQAARCIIGRDYPLPMVEHSKASLINIERIKQVYAQLAKYKP
+Original query = KYIPALKNLPTRYIHEPWMAPEAVQQAANCIIGRDYPQPIVDHAKASQVNIERIKQVYAQLAKYKPP
+New query = KYIPVLKNMPTRYIHEPWVAPDSVQQAARCIIGRDYPLPMVEHSKASLINIERIKQVYAQLAKYKP

@@ -1,0 +1,430 @@
+
+
+Building a new DB, current time: 09/09/2024 11:15:50
+New DB name:   /data/projects/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Celastrina_argiolus/Error_exon_processing/Error_Exon_6/Run_Blast/local_db.txt
+New DB title:  local_db.txt
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000749111 seconds.
+Celastrina_argiolus,LR994584.1,000,000,0,Y,Error_Exon_6,00,00,00
+
+Exon_6
+current_query : Eumaeus_atala
+Exon_6.fa
+Eumaeus_atala_Exon_6_JAFELO010000261.1_678096_678248_left_0_right_0
+GQTGFPWIDAIMLQLRLEGWIHHLARHAVACFLTRGDLWISWEEGMKASLW
+current_query : Lysandra_bellargus
+Exon_6.fa
+Lysandra_bellargus_Exon_6_HG995333.1_360949_361101_left_0_right_0
+GQTGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASSL
+Gene_start = 10370118, Gene_end = 10372342
+Getting Gene
+GCA_905187575.2_ilCelArgi3.2_genomic.fna
+['0.Temp', '1.Blast_result', '1.Query', '2.Final_output', 'temp', 'desktop.ini', 'error_exons.txt', 'error_in_first_and_last.txt', 'tblastn_Aricia_agestis.sh']
+['Eumaeus_atala_Exon_6.fa', 'Lysandra_bellargus_Exon_6.fa']
+Error_Exon_6
+Error_Exon_6
+min = set11_frame1, 0.067
+5 top scores:
+[['set11_frame1', 0.067, 'alignment_Error_Exon_6_query_Lysandra_bellargus_translated_genomic_sequence_11_frame1.fa.txt'], ['set44_frame2', 4.145, 'alignment_Error_Exon_6_query_Eumaeus_atala_translated_genomic_sequence_44_frame2.fa.txt'], ['set44_frame2', 4.145, 'alignment_Error_Exon_6_query_Lysandra_bellargus_translated_genomic_sequence_44_frame2.fa.txt'], ['set17_frame0', 4.278, 'alignment_Error_Exon_6_query_Eumaeus_atala_translated_genomic_sequence_17_frame0.fa.txt'], ['set9_frame1', 4.351, 'alignment_Error_Exon_6_query_Lysandra_bellargus_translated_genomic_sequence_9_frame1.fa.txt'], ['set1_frame1', 4.392, 'alignment_Error_Exon_6_query_Lysandra_bellargus_translated_genomic_sequence_1_frame1.fa.txt'], ['set41_frame2', 4.45, 'alignment_Error_Exon_6_query_Lysandra_bellargus_translated_genomic_sequence_41_frame2.fa.txt'], ['set44_frame0', 4.454, 'alignment_Error_Exon_6_query_Eumaeus_atala_translated_genomic_sequence_44_frame0.fa.txt'], ['set23_frame1', 4.578, 'alignment_Error_Exon_6_query_Lysandra_bellargus_translated_genomic_sequence_23_frame1.fa.txt'], ['set16_frame2', 4.589, 'alignment_Error_Exon_6_query_Lysandra_bellargus_translated_genomic_sequence_16_frame2.fa.txt']]
+CLUSTAL format alignment by MAFFT L-INS-i (v7.407)
+
+
+Lysandra_bellar ---GQTGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASSL---
+set11_frame1_Ly CKQGQTGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASDLAHS
+                   *************************************************.*   
+
+CLUSTAL format alignment by MAFFT L-INS-i (v7.407)
+
+
+Eumaeus_atala_E GQTGFPWIDAIMLQLRLEGWIHHLARHAVACFLTRGDLWISWEEGMKASLW
+set44_frame2_Eu TYKK----------------KYHF-RHVSLCLPSRDRL----KQLSTRSQF
+                  .                  :*: **.  *: :*. *    ::  . * :
+
+CLUSTAL format alignment by MAFFT L-INS-i (v7.407)
+
+
+Lysandra_bellar GQTGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASSL
+set44_frame2_Ly TYKK----------------KYHF-RHVSLCLPSRDRL----KQLSTRSQF
+                  .                  :*: **.  *: :*. *    ::  . *.:
+
+CLUSTAL format alignment by MAFFT L-INS-i (v7.407)
+
+
+Eumaeus_atala_E G-QTGF----------PW--IDAIMLQLRLEGWIHHLARHAVACFLTRGDLWISWEEGMK
+set17_frame0_Eu GLDTSFSSACGCMFPDPWRFVD----------------------FLGRGD------EGK-
+                * :*.*          **  :*                      ** ***      **  
+
+Eumaeus_atala_E ASLW
+set17_frame0_Eu ----
+                    
+
+CLUSTAL format alignment by MAFFT L-INS-i (v7.407)
+
+
+Lysandra_bellar GQTGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISW--EEGMKASSL
+set9_frame1_Lys NS-------------------HN--------FLQRLTITKDWTCTNWYIQISY
+                ..                   *:        ** *  :  .*   :     * 
+
+CLUSTAL format alignment by MAFFT L-INS-i (v7.407)
+
+
+Lysandra_bellar GQTGFPWIDAIMIQLRD------EGWIHHLARHAVACFLTRGDLWISWEEGMKASSL
+set1_frame1_Lys ----------VSITLYEKIRFLCKSW-----RLEKGHNLTRGE---------NKSIG
+                          : * * :      :.*     *   .  ****:         : *  
+
+CLUSTAL format alignment by MAFFT L-INS-i (v7.407)
+
+
+Lysandra_bellar GQT-------------------GFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWIS
+set41_frame2_Ly RKSILTNDNNNYMKSMIALLPLLFTYNDVTIMELSNV-----LA----------------
+                 ::                    *.: *. :::* :      **                
+
+Lysandra_bellar WEEGMKASSL
+set41_frame2_Ly ----------
+                          
+
+CLUSTAL format alignment by MAFFT L-INS-i (v7.407)
+
+
+Eumaeus_atala_E G-------QTGFPWIDA-IMLQLRLEGWIHHLARHAVACFLTRGDLWISWEEGMKASLW
+set44_frame0_Eu GFGLEFCRQRGRSGGGAGVVL----------VTRSRAAVFENRS--------------I
+                *       * * .  .* ::*          ::*  .* * .*.               
+
+CLUSTAL format alignment by MAFFT L-INS-i (v7.407)
+
+
+Lysandra_bellar GQTGFPWIDAIMIQLRDEGWIHHLARHAVAC--FLTRGDLWISWEEGM--KASSL
+set23_frame1_Ly -----------------------------TCRLYSTVGGLIQATNTKFDNKMYGI
+                                             :*  : * *.*  : :  :  *  .:
+
+CLUSTAL format alignment by MAFFT L-INS-i (v7.407)
+
+
+Lysandra_bellar -----GQTGFPWI----DAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASSL
+set16_frame2_Ly VVNNISEDTPTFIGVLNETVIISY----------------------------------NV
+                     .:   .:*    ::::*.                                   .:
+
+/data/projects/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Celastrina_argiolus/Error_exon_processing/Error_Exon_6/for_alignment//alignment_Error_Exon_6_query_Lysandra_bellargus_translated_genomic_sequence_11_frame1.fa.txt
+Alignmnet file: alignment_Error_Exon_6_query_Lysandra_bellargus_translated_genomic_sequence_11_frame1.fa.txt
+alignment_clustal_Error_Exon_6_query_Lysandra_bellargus_translated_genomic_sequence_11_frame1.fa.txt
+Exon_6
+Lysandra_bellargus_Exon_6_HG995333.1_360949_361101_left_0_right_0
+here here 1 1 set11_frame1 Lysandra_bellargus_Exon_6_HG995333.1_360949_361101_left_0_right_0 3 54
+here here 1 1 set11_frame1 set11_frame1_Lysandra_bellargus 3 54
+set11_frame1_Lysandra_bellargus
+GQTGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASDL
+alignment_clustal_Error_Exon_6_query_Lysandra_bellargus_translated_genomic_sequence_11_frame1.fa.txt
+Alignment File: CLUSTAL format alignment by MAFFT L-INS-i (v7.407)
+
+
+Lysandra_bellar ---GQTGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASSL---
+set11_frame1_Ly CKQGQTGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASDLAHS
+                   *************************************************.*   
+
+[[0, 0]]
+set11_frame1_Lysandra_bellargus
+563 715
+reached here
+sequence:
+GGTCAAACTGGATTCCCCTGGATAGATGCAATAATGATTCAATTGAGGGATGAGGGTTGGATACATCATTTAGCTCGGCATGCGGTTGCATGTTTCCTGACCCGTGGCGATTTGTGGATTTCCTGGGAAGAGGGGATGAAGGCAAGTGATTTG
+sequence:
+GQTGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASDL
+left = AG, right =GC
+GQTGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASDL
+[[0, 0]]
+start_coordinate : 10371780,stop_coordinate : 10371628
+Celastrina_argiolus,LR994584.1,10371628,10371780,1,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_6,1,51,51,Y,Y
+
+
+
+
+Fix Overhang!! Proceed?
+
+
+
+Helleia_helle,OY971421.1,000,000,0,Y,Error_Exon_6,00,00,00
+Exon_6
+current_query : Lysandra_coridon
+Exon_6.fa
+Lysandra_coridon_Exon_6_HG992094.1_5528517_5528669_left_0_right_0
+GQTGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASSL
+current_query : Eumaeus_atala
+Exon_6.fa
+Eumaeus_atala_Exon_6_JAFELO010000261.1_678096_678248_left_0_right_0
+GQTGFPWIDAIMLQLRLEGWIHHLARHAVACFLTRGDLWISWEEGMKASLW
+Gene_start = 12862455, Gene_end = 12869243
+Getting Gene
+GCA_963853865.1_ilHelHell1.1_genomic.fna
+['0.Temp', '1.Blast_result', '1.Query', '2.Final_output', 'temp', 'desktop.ini', 'error_exons.txt', 'error_in_first_and_last.txt', 'tblastn_Aricia_agestis.sh']
+['Lysandra_coridon_Exon_6.fa', 'Eumaeus_atala_Exon_6.fa']
+Error_Exon_6
+Error_Exon_6
+min = set100_frame0, 0.225
+5 top scores:
+[['set100_frame0', 0.225, 'alignment_Error_Exon_6_query_Lysandra_coridon_translated_genomic_sequence_100_frame0.fa.txt'], ['set100_frame0', 0.337, 'alignment_Error_Exon_6_query_Eumaeus_atala_translated_genomic_sequence_100_frame0.fa.txt'], ['set101_frame2', 4.192, 'alignment_Error_Exon_6_query_Eumaeus_atala_translated_genomic_sequence_101_frame2.fa.txt'], ['set77_frame2', 4.277, 'alignment_Error_Exon_6_query_Eumaeus_atala_translated_genomic_sequence_77_frame2.fa.txt'], ['set126_frame2', 4.319, 'alignment_Error_Exon_6_query_Eumaeus_atala_translated_genomic_sequence_126_frame2.fa.txt'], ['set35_frame0', 4.376, 'alignment_Error_Exon_6_query_Lysandra_coridon_translated_genomic_sequence_35_frame0.fa.txt'], ['set5_frame1', 4.376, 'alignment_Error_Exon_6_query_Eumaeus_atala_translated_genomic_sequence_5_frame1.fa.txt'], ['set2_frame1', 4.4, 'alignment_Error_Exon_6_query_Eumaeus_atala_translated_genomic_sequence_2_frame1.fa.txt'], ['set50_frame1', 4.414, 'alignment_Error_Exon_6_query_Eumaeus_atala_translated_genomic_sequence_50_frame1.fa.txt'], ['set26_frame2', 4.414, 'alignment_Error_Exon_6_query_Eumaeus_atala_translated_genomic_sequence_26_frame2.fa.txt']]
+
+Building a new DB, current time: 09/09/2024 11:18:13
+New DB name:   /data/projects/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Helleia_helle/Error_exon_processing/Error_Exon_6/Run_Blast/local_db.txt
+New DB title:  local_db.txt
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 0.000838995 seconds.
+
+CLUSTAL format alignment by MAFFT L-INS-i (v7.407)
+
+
+Lysandra_corido ---GQTGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKAS---SL
+set100_frame0_L CEQGQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCDRD
+                   ****************:********************************     
+
+CLUSTAL format alignment by MAFFT L-INS-i (v7.407)
+
+
+Eumaeus_atala_E ---GQTGFPWIDAIMLQLRLEGWIHHLARHAVACFLTRGDLWISWEEGMKASLW---
+set100_frame0_E CEQGQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCDRD
+                   ************:*** *********************************    
+
+CLUSTAL format alignment by MAFFT L-INS-i (v7.407)
+
+
+Eumaeus_atala_E -------------GQTGFPWIDAIMLQLRLEGWIHHLARHAVACFLTRGDLWISWEEGMK
+set101_frame2_E QGLVFVTSSAVSPAYFPFPW----------------------EC---RDKL---------
+                             .   ***                       *   *..*         
+
+Eumaeus_atala_E ASLW
+set101_frame2_E ----
+                    
+
+CLUSTAL format alignment by MAFFT L-INS-i (v7.407)
+
+
+Eumaeus_atala_E GQTGFP----WIDAIMLQLRLEGWIHHLARHAVACFLTRGDLWISWEEGMKASLW
+set77_frame2_Eu STIMIPSASQKTDAITLPAELE------TRN----FFSVG------EDG----LF
+                .   :*      *** *  .**      :*:    *:: *      *:*    *:
+
+CLUSTAL format alignment by MAFFT L-INS-i (v7.407)
+
+
+Eumaeus_atala_E GQTGFPWIDAI-------------MLQLRLEGWIHHLARHAVACFLTRGDLWISWEEGMK
+set126_frame2_E -LTLISHFNAITVILANSIAIAISMLRLRIH-MLMILMRNSINCYLYCQCAII-------
+                  * :. ::**             **:**:.  :  * *::: *:*      *       
+
+Eumaeus_atala_E ASLW
+set126_frame2_E --IK
+                  : 
+
+CLUSTAL format alignment by MAFFT L-INS-i (v7.407)
+
+
+Lysandra_corido GQTGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRG------DLWISWEEGMKASSL
+set35_frame0_Ly ----------LAVE--------------VPCLFSRSGEPHQRRHW--WHS--PGFSG
+                          : ::              *.*:::*.        *  *..   . * 
+
+CLUSTAL format alignment by MAFFT L-INS-i (v7.407)
+
+
+Eumaeus_atala_E GQTGFPWIDAIMLQLRLEGWIHHLARHAVACFLTRGDLWISWEEGMKASLW-------
+set5_frame1_Eum --------------LAVE----------VPCLFSRSG-----EPHQRRHWWHSPGFSG
+                              * :*          *.*:::*..     *   :   *       
+
+CLUSTAL format alignment by MAFFT L-INS-i (v7.407)
+
+
+Eumaeus_atala_E GQTGFPWIDAIMLQLRLEGWIHHLARHAVACFLTRGDLWISWEEGMKASLW---------
+set2_frame1_Eum GE---------------------------RCTLGEA----NWAEGALCTPLIRRGDRRAG
+                *:                            * * ..    .* **  .:           
+
+Eumaeus_atala_E ---
+set2_frame1_Eum GKG
+                   
+
+CLUSTAL format alignment by MAFFT L-INS-i (v7.407)
+
+
+Eumaeus_atala_E GQTGFPWIDAIMLQLRLEGWIHHLARHAVACFLTRGDLWISWEEGMKASLW
+set50_frame1_Eu SPFIFLFAFSIFIIIVIDLFWKHLQN-------------------------
+                .   * :  :*:: : :: : :** .                         
+
+CLUSTAL format alignment by MAFFT L-INS-i (v7.407)
+
+
+Eumaeus_atala_E GQTGFPWIDAIMLQLRLEGWIHHLARHAVACFLTRGDLWISWEEGMKASLW
+set26_frame2_Eu SPFIFLFAFSIFIIIVIDLFWKHLQN-------------------------
+                .   * :  :*:: : :: : :** .                         
+
+/data/projects/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/8.Lycaenidae/1.Blast_result/Helleia_helle/Error_exon_processing/Error_Exon_6/for_alignment//alignment_Error_Exon_6_query_Lysandra_coridon_translated_genomic_sequence_100_frame0.fa.txt
+Alignmnet file: alignment_Error_Exon_6_query_Lysandra_coridon_translated_genomic_sequence_100_frame0.fa.txt
+alignment_clustal_Error_Exon_6_query_Lysandra_coridon_translated_genomic_sequence_100_frame0.fa.txt
+Exon_6
+Lysandra_coridon_Exon_6_HG992094.1_5528517_5528669_left_0_right_0
+here here 1 0 set100_frame0 Lysandra_coridon_Exon_6_HG992094.1_5528517_5528669_left_0_right_0 3 52
+here here 1 1 set100_frame0 set100_frame0_Lysandra_coridon 3 56
+set100_frame0_Lysandra_coridon
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCDR
+alignment_clustal_Error_Exon_6_query_Lysandra_coridon_translated_genomic_sequence_100_frame0.fa.txt
+Alignment File: CLUSTAL format alignment by MAFFT L-INS-i (v7.407)
+
+
+Lysandra_corido ---GQTGFPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKAS---SL
+set100_frame0_L CEQGQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCDRD
+                   ****************:********************************     
+
+[[0, 0]]
+set100_frame0_Lysandra_coridon
+5251 5409
+reached here
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGTGACAGG
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCDR
+left = AG, right =GA
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGTGACAGGGAT
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCDRD
+left = AG, right =TA
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGTGACAGGGATTAG
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCDRD*
+left = AG, right =AG
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGTGACAGG
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCDR
+left = AG, right =GA
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGTGACAGGGAT
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCDRD
+left = AG, right =TA
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGTGACAGGGATTAG
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCDRD*
+left = AG, right =GA
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGTGAC
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCD
+left = AG, right =AG
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGTGACAGG
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCDR
+left = AG, right =GA
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGTGACAGGGAT
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCDRD
+left = AG, right =TA
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGTGACAGGGATTAG
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCDRD*
+left = AG, right =TG
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGT
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLC
+left = AG, right =GA
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGTGAC
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCD
+left = AG, right =AG
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGTGACAGG
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCDR
+left = AG, right =GA
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGTGACAGGGAT
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCDRD
+left = AG, right =TA
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGTGACAGGGATTAG
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCDRD*
+left = AG, right =TT
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTA
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASL
+left = AG, right =TG
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGT
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLC
+left = AG, right =GA
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGTGAC
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCD
+left = AG, right =AG
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGTGACAGG
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCDR
+left = AG, right =GA
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGTGACAGGGAT
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCDRD
+left = AG, right =TA
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGTGACAGGGATTAG
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCDRD*
+left = AG, right =AG
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGT
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKAS
+left = AG, right =TT
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTA
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASL
+left = AG, right =TG
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGT
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLC
+left = AG, right =GA
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGTGAC
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCD
+left = AG, right =AG
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGTGACAGG
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCDR
+left = AG, right =GA
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGTGACAGGGAT
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCDRD
+left = AG, right =TA
+sequence:
+GGACAGACTGGCTTCCCCTGGATAGACGCCATCATGATCCAGTTGAGGGAGGAGGGTTGGATACATCACCTGGCCAGGCATGCCGTGGCATGTTTCCTAACGCGAGGCGATCTCTGGATCTCCTGGGAAGAGGGCATGAAGGCAAGTTTATGTGACAGGGATTAG
+sequence:
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMKASLCDRD*
+left = AG, right =GC
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+[[0, 0]]
+start_coordinate : 12867705,stop_coordinate : 12867845
+Helleia_helle,OY971421.1,12867705,12867845,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_6,1,47,47,Y,Y
+
+
+
+
+Fix Overhang!! Proceed?
+
+
+

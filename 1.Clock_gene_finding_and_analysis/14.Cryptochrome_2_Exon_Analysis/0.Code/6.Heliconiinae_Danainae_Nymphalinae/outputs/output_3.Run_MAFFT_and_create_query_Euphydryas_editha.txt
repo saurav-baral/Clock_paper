@@ -1,0 +1,456 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = CAKOGL010000022.1, start = 12589534, end = 12589880
+Euphydryas_editha,CAKOGL010000022.1,12590957,12591208,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Euphydryas_editha,CAKOGL010000022.1,12589534,12589880,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,11,99,99
+
+Euphydryas_editha,CAKOGL010000022.1,12599869,12600040,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set30_frame2, 0.061
+5 top scores:
+[['set30_frame2', 0.061], ['set175_frame2', 1.844], ['set187_frame2', 1.854], ['set150_frame0', 1.89], ['set181_frame0', 1.907]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Euphydryas_editha/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_30_frame2.fa.txt
+7 90
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDKNLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIQVTSRVSHTLYKLD
+7 90
+set30_frame2
+FLLQCLEDLDSNLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRVSHTLYKLD
+Original query = FLLQCLEDLDKNLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIQVTSRVSHTLYKLD
+New query = FLLQCLEDLDSNLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRVSHTLYKLD
+Scaffold = CAKOGL010000022.1, start = 12589534, end = 12589880
+Euphydryas_editha,CAKOGL010000022.1,12597868,12598052,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Euphydryas_editha,CAKOGL010000022.1,12589534,12589880,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,11,99,99
+
+Euphydryas_editha,CAKOGL010000022.1,12600549,12600774,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set181_frame1, 0.307
+5 top scores:
+[['set181_frame1', 0.307], ['set193_frame2', 1.791], ['set202_frame2', 1.825], ['set81_frame0', 1.839], ['set227_frame2', 1.845]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Euphydryas_editha/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_181_frame1.fa.txt
+19 80
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3
+IIEKNGGKAPLTYHQFQALIASMPPPPSAEPTISLETLNRAVTPISDNHDERFGVPTLEEL
+19 80
+set181_frame1
+IIERNGGKAPLTYHQFQALIASMPPPPPAEAAVSNQTLNGAVTPLTDDHDDRFGVPTLEEL
+Original query = IIEKNGGKAPLTYHQFQALIASMPPPPSAEPTISLETLNRAVTPISDNHDERFGVPTLEEL
+New query = IIERNGGKAPLTYHQFQALIASMPPPPPAEAAVSNQTLNGAVTPLTDDHDDRFGVPTLEEL
+Scaffold = CAKOGL010000022.1, start = 12589534, end = 12589880
+Euphydryas_editha,CAKOGL010000022.1,12599869,12600040,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Euphydryas_editha,CAKOGL010000022.1,12590957,12591208,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Euphydryas_editha,CAKOGL010000022.1,12601249,12601389,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set198_frame1, 0.073
+5 top scores:
+[['set198_frame1', 0.073], ['set101_frame0', 1.794], ['set170_frame0', 1.797], ['set154_frame2', 1.801], ['set216_frame2', 1.812]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Euphydryas_editha/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_198_frame1.fa.txt
+6 62
+Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4
+FDTEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPESLLSSQTGLSPYL
+6 62
+set198_frame1
+FETEGLKPPVWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+Original query = FDTEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPESLLSSQTGLSPYL
+New query = FETEGLKPPVWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+Scaffold = CAKOGL010000022.1, start = 12589534, end = 12589880
+Euphydryas_editha,CAKOGL010000022.1,12600549,12600774,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Euphydryas_editha,CAKOGL010000022.1,12597868,12598052,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Euphydryas_editha,CAKOGL010000022.1,12603444,12603595,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set59_frame0, 0.106
+5 top scores:
+[['set19_frame2', 1.78], ['set4_frame2', 1.855], ['set59_frame0', 0.106], ['set66_frame0', 1.852], ['set93_frame1', 1.864]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Euphydryas_editha/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_59_frame0.fa.txt
+10 85
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAN
+10 85
+set59_frame0
+FGCLSTRLFYYQLTELYKRIKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALAKWAN
+Original query = FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAN
+New query = FGCLSTRLFYYQLTELYKRIKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALAKWAN
+Scaffold = CAKOGL010000022.1, start = 12589534, end = 12589880
+Euphydryas_editha,CAKOGL010000022.1,12601249,12601389,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Euphydryas_editha,CAKOGL010000022.1,12599869,12600040,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Euphydryas_editha,CAKOGL010000022.1,12606356,12606558,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set27_frame0, 0.071
+5 top scores:
+[['set43_frame2', 1.723], ['set74_frame1', 1.78], ['set27_frame0', 0.071], ['set53_frame2', 1.784], ['set135_frame2', 1.793]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Euphydryas_editha/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_27_frame0.fa.txt
+44 91
+Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6
+GQTGFPWIDAIMIQLRNDGWIHHLARHAVACFLTRGDLWISWEEGMK
+44 91
+set27_frame0
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GQTGFPWIDAIMIQLRNDGWIHHLARHAVACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = CAKOGL010000022.1, start = 12589534, end = 12589880
+Euphydryas_editha,CAKOGL010000022.1,12603444,12603595,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Euphydryas_editha,CAKOGL010000022.1,12600549,12600774,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Euphydryas_editha,CAKOGL010000022.1,12606356,12606558,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set58_frame0, 0.0
+5 top scores:
+[['set58_frame0', 0.0], ['set74_frame2', 1.719], ['set25_frame2', 1.787], ['set32_frame0', 1.79], ['set21_frame1', 1.812]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Euphydryas_editha/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_58_frame0.fa.txt
+9 59
+Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+9 59
+set58_frame0
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = CAKOGL010000022.1, start = 12589534, end = 12589880
+Euphydryas_editha,CAKOGL010000022.1,12606356,12606558,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Euphydryas_editha,CAKOGL010000022.1,12601249,12601389,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Euphydryas_editha,CAKOGL010000022.1,12606356,12606558,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set105_frame2, 0.283
+5 top scores:
+[['set105_frame2', 0.283], ['set14_frame0', 1.83], ['set84_frame1', 1.851], ['set23_frame2', 1.851], ['set81_frame0', 1.837]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Euphydryas_editha/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_105_frame2.fa.txt
+39 105
+set105_frame2
+KYIPVLKNLPTRYIHEPWVAPEAVQQAANCVVGRDYPLPIVDHTKASQINIERIKQVYAQLAKYKP
+Original query = KYIPVLKNMPTRYIHEPWVCPEEIQKSIRCIIGKDYPMPIVDHTKASEINLERIKQVYAQLAKFKPQ
+New query = KYIPVLKNLPTRYIHEPWVAPEAVQQAANCVVGRDYPLPIVDHTKASQINIERIKQVYAQLAKYKP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = CAKOGL010000022.1, start = 12589534, end = 12589880
+Euphydryas_editha,CAKOGL010000022.1,12590957,12591208,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Euphydryas_editha,CAKOGL010000022.1,12589534,12589880,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,11,99,99
+
+Euphydryas_editha,CAKOGL010000022.1,12599869,12600040,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set30_frame2, 0.096
+5 top scores:
+[['set30_frame2', 0.096], ['set70_frame0', 1.816], ['set175_frame2', 1.843], ['set187_frame2', 1.847], ['set181_frame0', 1.903]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Euphydryas_editha/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_30_frame2.fa.txt
+7 90
+Nymphalis_io_XM_050504024.1_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWETTALTFEEDPEPYGRVRDHNITTKCREVGIKVTSRVSHTLYKLD
+7 90
+set30_frame2
+FLLQCLEDLDSNLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRVSHTLYKLD
+Original query = FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWETTALTFEEDPEPYGRVRDHNITTKCREVGIKVTSRVSHTLYKLD
+New query = FLLQCLEDLDSNLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRVSHTLYKLD
+Scaffold = CAKOGL010000022.1, start = 12589534, end = 12589880
+Euphydryas_editha,CAKOGL010000022.1,12597868,12598052,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Euphydryas_editha,CAKOGL010000022.1,12589534,12589880,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,11,99,99
+
+Euphydryas_editha,CAKOGL010000022.1,12600549,12600774,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set181_frame1, 0.278
+5 top scores:
+[['set181_frame1', 0.278], ['set193_frame2', 1.791], ['set175_frame2', 1.841], ['set227_frame2', 1.852], ['set30_frame2', 1.859]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Euphydryas_editha/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_181_frame1.fa.txt
+19 80
+Nymphalis_io_XM_050504024.1_Frame_1_rightoh_1_query_Exon_3
+IIERNGGKAPLTYHQFQALIASMPPPPPAEPAITADMLNGAITPLGADHEDRFGVPTLEEL
+19 80
+set181_frame1
+IIERNGGKAPLTYHQFQALIASMPPPPPAEAAVSNQTLNGAVTPLTDDHDDRFGVPTLEEL
+Original query = IIERNGGKAPLTYHQFQALIASMPPPPPAEPAITADMLNGAITPLGADHEDRFGVPTLEEL
+New query = IIERNGGKAPLTYHQFQALIASMPPPPPAEAAVSNQTLNGAVTPLTDDHDDRFGVPTLEEL
+Scaffold = CAKOGL010000022.1, start = 12589534, end = 12589880
+Euphydryas_editha,CAKOGL010000022.1,12599869,12600040,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Euphydryas_editha,CAKOGL010000022.1,12590957,12591208,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Euphydryas_editha,CAKOGL010000022.1,12601249,12601389,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set198_frame1, 0.081
+5 top scores:
+[['set198_frame1', 0.081], ['set170_frame0', 1.797], ['set154_frame2', 1.803], ['set216_frame2', 1.806], ['set215_frame2', 1.839]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Euphydryas_editha/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_198_frame1.fa.txt
+6 62
+Nymphalis_io_XM_050504024.1_Frame_2_rightoh_2_query_Exon_4
+FDTDGLKPPLWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+6 62
+set198_frame1
+FETEGLKPPVWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+Original query = FDTDGLKPPLWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+New query = FETEGLKPPVWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+Scaffold = CAKOGL010000022.1, start = 12589534, end = 12589880
+Euphydryas_editha,CAKOGL010000022.1,12600549,12600774,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Euphydryas_editha,CAKOGL010000022.1,12597868,12598052,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Euphydryas_editha,CAKOGL010000022.1,12603444,12603595,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set59_frame0, 0.109
+5 top scores:
+[['set70_frame1', 1.798], ['set19_frame2', 1.843], ['set59_frame0', 0.109], ['set93_frame1', 1.855], ['set1_frame1', 1.874]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Euphydryas_editha/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_59_frame0.fa.txt
+10 85
+Nymphalis_io_XM_050504024.1_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLTELYTRVKRVLPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWQKNQDALLKWAN
+10 85
+set59_frame0
+FGCLSTRLFYYQLTELYKRIKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALAKWAN
+Original query = FGCLSTRLFYYQLTELYTRVKRVLPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWQKNQDALLKWAN
+New query = FGCLSTRLFYYQLTELYKRIKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALAKWAN
+Scaffold = CAKOGL010000022.1, start = 12589534, end = 12589880
+Euphydryas_editha,CAKOGL010000022.1,12601249,12601389,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Euphydryas_editha,CAKOGL010000022.1,12599869,12600040,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Euphydryas_editha,CAKOGL010000022.1,12606356,12606558,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set27_frame0, 0.1
+5 top scores:
+[['set43_frame2', 1.76], ['set135_frame2', 1.791], ['set27_frame0', 0.1], ['set53_frame2', 1.807], ['set79_frame1', 1.816]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Euphydryas_editha/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_27_frame0.fa.txt
+44 91
+Nymphalis_io_XM_050504024.1_Frame_0_rightoh_0_query_Exon_6
+GKTGYPWIDAIMIQLREEGWIHHLSRHAAACFLTRGDLWISWEEGMK
+44 91
+set27_frame0
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GKTGYPWIDAIMIQLREEGWIHHLSRHAAACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = CAKOGL010000022.1, start = 12589534, end = 12589880
+Euphydryas_editha,CAKOGL010000022.1,12603444,12603595,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Euphydryas_editha,CAKOGL010000022.1,12600549,12600774,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Euphydryas_editha,CAKOGL010000022.1,12606356,12606558,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set58_frame0, 0.031
+5 top scores:
+[['set58_frame0', 0.031], ['set74_frame2', 1.719], ['set82_frame1', 1.796], ['set32_frame0', 1.79], ['set21_frame2', 1.796]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Euphydryas_editha/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_58_frame0.fa.txt
+9 59
+Nymphalis_io_XM_050504024.1_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKIDPNGDFI
+9 59
+set58_frame0
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKIDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = CAKOGL010000022.1, start = 12589534, end = 12589880
+Euphydryas_editha,CAKOGL010000022.1,12606356,12606558,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Euphydryas_editha,CAKOGL010000022.1,12601249,12601389,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Euphydryas_editha,CAKOGL010000022.1,12606356,12606558,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set105_frame2, 0.266
+5 top scores:
+[['set105_frame2', 0.266], ['set23_frame2', 1.826], ['set55_frame2', 1.852], ['set8_frame1', 1.864], ['set81_frame0', 1.846]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Euphydryas_editha/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_105_frame2.fa.txt
+39 105
+set105_frame2
+KYIPVLKNLPTRYIHEPWVAPEAVQQAANCVVGRDYPLPIVDHTKASQINIERIKQVYAQLAKYKP
+Original query = KYIPALRNLPTRFIHEPWMAPETVQQDANCIIGRDYPQPIVDHAKASQVNIERIKQVYAQLAKYKPP
+New query = KYIPVLKNLPTRYIHEPWVAPEAVQQAANCVVGRDYPLPIVDHTKASQINIERIKQVYAQLAKYKP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = CAKOGL010000022.1, start = 12589534, end = 12589880
+Euphydryas_editha,CAKOGL010000022.1,12590957,12591208,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Euphydryas_editha,CAKOGL010000022.1,12589534,12589880,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,11,99,99
+
+Euphydryas_editha,CAKOGL010000022.1,12599869,12600040,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set30_frame2, 0.02
+5 top scores:
+[['set30_frame2', 0.02], ['set70_frame0', 1.816], ['set175_frame2', 1.82], ['set187_frame2', 1.828], ['set181_frame0', 1.911]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Euphydryas_editha/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_30_frame2.fa.txt
+7 90
+Vanessa_tameamea_XM_026629288.1_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRVSHTLYKLD
+7 90
+set30_frame2
+FLLQCLEDLDSNLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRVSHTLYKLD
+Original query = FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRVSHTLYKLD
+New query = FLLQCLEDLDSNLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRVSHTLYKLD
+Scaffold = CAKOGL010000022.1, start = 12589534, end = 12589880
+Euphydryas_editha,CAKOGL010000022.1,12597868,12598052,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Euphydryas_editha,CAKOGL010000022.1,12589534,12589880,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,11,99,99
+
+Euphydryas_editha,CAKOGL010000022.1,12600549,12600774,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set181_frame1, 0.24
+5 top scores:
+[['set181_frame1', 0.24], ['set193_frame2', 1.791], ['set227_frame2', 1.805], ['set30_frame2', 1.841], ['set43_frame1', 1.845]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Euphydryas_editha/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_181_frame1.fa.txt
+19 80
+Vanessa_tameamea_XM_026629288.1_Frame_1_rightoh_1_query_Exon_3
+IIERNEGKAPLTYHQFQALIASMPPPPPAEPAITAEMLNGAVTPLADDHEDRFGVPTLEEL
+19 80
+set181_frame1
+IIERNGGKAPLTYHQFQALIASMPPPPPAEAAVSNQTLNGAVTPLTDDHDDRFGVPTLEEL
+Original query = IIERNEGKAPLTYHQFQALIASMPPPPPAEPAITAEMLNGAVTPLADDHEDRFGVPTLEEL
+New query = IIERNGGKAPLTYHQFQALIASMPPPPPAEAAVSNQTLNGAVTPLTDDHDDRFGVPTLEEL
+Scaffold = CAKOGL010000022.1, start = 12589534, end = 12589880
+Euphydryas_editha,CAKOGL010000022.1,12599869,12600040,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Euphydryas_editha,CAKOGL010000022.1,12590957,12591208,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Euphydryas_editha,CAKOGL010000022.1,12601249,12601389,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set198_frame1, 0.039
+5 top scores:
+[['set198_frame1', 0.039], ['set216_frame2', 1.781], ['set170_frame0', 1.812], ['set209_frame2', 1.833], ['set54_frame2', 1.852]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Euphydryas_editha/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_198_frame1.fa.txt
+6 62
+Vanessa_tameamea_XM_026629288.1_Frame_2_rightoh_2_query_Exon_4
+FETEGLKPPIWIGGEKEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+6 62
+set198_frame1
+FETEGLKPPVWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+Original query = FETEGLKPPIWIGGEKEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+New query = FETEGLKPPVWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+Scaffold = CAKOGL010000022.1, start = 12589534, end = 12589880
+Euphydryas_editha,CAKOGL010000022.1,12600549,12600774,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Euphydryas_editha,CAKOGL010000022.1,12597868,12598052,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Euphydryas_editha,CAKOGL010000022.1,12603444,12603595,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set59_frame0, 0.104
+5 top scores:
+[['set70_frame1', 1.798], ['set19_frame2', 1.843], ['set59_frame0', 0.104], ['set93_frame1', 1.863], ['set4_frame2', 1.872]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Euphydryas_editha/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_59_frame0.fa.txt
+10 85
+Vanessa_tameamea_XM_026629288.1_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLTELYTRVKRVLPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQEALVKWAN
+10 85
+set59_frame0
+FGCLSTRLFYYQLTELYKRIKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALAKWAN
+Original query = FGCLSTRLFYYQLTELYTRVKRVLPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQEALVKWAN
+New query = FGCLSTRLFYYQLTELYKRIKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALAKWAN
+Scaffold = CAKOGL010000022.1, start = 12589534, end = 12589880
+Euphydryas_editha,CAKOGL010000022.1,12601249,12601389,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Euphydryas_editha,CAKOGL010000022.1,12599869,12600040,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Euphydryas_editha,CAKOGL010000022.1,12606356,12606558,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set27_frame0, 0.029
+5 top scores:
+[['set74_frame1', 1.757], ['set43_frame2', 1.76], ['set27_frame0', 0.029], ['set135_frame2', 1.774], ['set44_frame2', 1.82]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Euphydryas_editha/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_27_frame0.fa.txt
+44 91
+Vanessa_tameamea_XM_026629288.1_Frame_0_rightoh_0_query_Exon_6
+GQTGFPWIDAIMIQLREEGWIHHLARHAAACFLTRGDLWISWEEGMK
+44 91
+set27_frame0
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GQTGFPWIDAIMIQLREEGWIHHLARHAAACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = CAKOGL010000022.1, start = 12589534, end = 12589880
+Euphydryas_editha,CAKOGL010000022.1,12603444,12603595,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Euphydryas_editha,CAKOGL010000022.1,12600549,12600774,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Euphydryas_editha,CAKOGL010000022.1,12606356,12606558,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set58_frame0, 0.0
+5 top scores:
+[['set58_frame0', 0.0], ['set74_frame2', 1.719], ['set25_frame2', 1.787], ['set32_frame0', 1.79], ['set21_frame1', 1.812]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Euphydryas_editha/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_58_frame0.fa.txt
+9 59
+Vanessa_tameamea_XM_026629288.1_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+9 59
+set58_frame0
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = CAKOGL010000022.1, start = 12589534, end = 12589880
+Euphydryas_editha,CAKOGL010000022.1,12606356,12606558,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Euphydryas_editha,CAKOGL010000022.1,12601249,12601389,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Euphydryas_editha,CAKOGL010000022.1,12606356,12606558,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set105_frame2, 0.167
+5 top scores:
+[['set105_frame2', 0.167], ['set23_frame2', 1.826], ['set101_frame1', 1.852], ['set55_frame2', 1.857], ['set81_frame0', 1.835]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Euphydryas_editha/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_105_frame2.fa.txt
+39 105
+set105_frame2
+KYIPVLKNLPTRYIHEPWVAPEAVQQAANCVVGRDYPLPIVDHTKASQINIERIKQVYAQLAKYKP
+Original query = KYIPALKNLPTRYIHEPWMAPEAVQQAANCIIGRDYPQPIVDHAKASQVNIERIKQVYAQLAKYKPP
+New query = KYIPVLKNLPTRYIHEPWVAPEAVQQAANCVVGRDYPLPIVDHTKASQINIERIKQVYAQLAKYKP

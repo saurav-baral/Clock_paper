@@ -1,0 +1,456 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = CM032385.1, start = 8951914, end = 8952212
+Eueides_isabella,CM032385.1,8952294,8952545,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Eueides_isabella,CM032385.1,8951914,8952212,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,7,99,99
+
+Eueides_isabella,CM032385.1,8961114,8961285,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set5_frame0, 0.087
+5 top scores:
+[['set81_frame2', 1.855], ['set5_frame0', 0.087], ['set30_frame0', 1.896], ['set45_frame2', 1.904], ['set51_frame0', 1.897]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Eueides_isabella/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_5_frame0.fa.txt
+9 92
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDKNLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIQVTSRVSHTLYKLD
+9 92
+set5_frame0
+FLLQCLEDLDSSLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRISHTLYKLD
+Original query = FLLQCLEDLDKNLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIQVTSRVSHTLYKLD
+New query = FLLQCLEDLDSSLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRISHTLYKLD
+Scaffold = CM032385.1, start = 8951914, end = 8952212
+Eueides_isabella,CM032385.1,8953707,8953891,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Eueides_isabella,CM032385.1,8951914,8952212,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,7,99,99
+
+Eueides_isabella,CM032385.1,8961606,8961831,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set30_frame0, 0.351
+5 top scores:
+[['set62_frame0', 1.75], ['set106_frame0', 1.761], ['set30_frame0', 0.351], ['set31_frame0', 1.832], ['set5_frame2', 1.844]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Eueides_isabella/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_30_frame0.fa.txt
+19 80
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3
+IIEKNGGKAPLTYHQFQALIASMPPPPSAEPTISLETLNRAVTPISDNHDERFGVPTLEEL
+19 80
+set30_frame0
+IIERNGGKAPLTYHQFQALIASMPPPPPAESAISSQNLNGAVTPLTEDHDDRFGVPTLEEL
+Original query = IIEKNGGKAPLTYHQFQALIASMPPPPSAEPTISLETLNRAVTPISDNHDERFGVPTLEEL
+New query = IIERNGGKAPLTYHQFQALIASMPPPPPAESAISSQNLNGAVTPLTEDHDDRFGVPTLEEL
+Scaffold = CM032385.1, start = 8951914, end = 8952212
+Eueides_isabella,CM032385.1,8961114,8961285,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Eueides_isabella,CM032385.1,8952294,8952545,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Eueides_isabella,CM032385.1,8962693,8962833,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set101_frame2, 0.124
+5 top scores:
+[['set101_frame2', 0.124], ['set39_frame1', 1.803], ['set119_frame1', 1.809], ['set122_frame1', 1.826], ['set94_frame1', 1.853]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Eueides_isabella/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_101_frame2.fa.txt
+5 61
+Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4
+FDTEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPESLLSSQTGLSPYL
+5 61
+set101_frame2
+FETEDLKPPMWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+Original query = FDTEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPESLLSSQTGLSPYL
+New query = FETEDLKPPMWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+Scaffold = CM032385.1, start = 8951914, end = 8952212
+Eueides_isabella,CM032385.1,8961606,8961831,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Eueides_isabella,CM032385.1,8953707,8953891,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Eueides_isabella,CM032385.1,8963676,8963827,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set77_frame1, 0.109
+5 top scores:
+[['set77_frame1', 0.109], ['set13_frame0', 1.763], ['set1_frame1', 1.847], ['set18_frame2', 1.871], ['set70_frame2', 1.88]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Eueides_isabella/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_77_frame1.fa.txt
+14 89
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAN
+14 89
+set77_frame1
+FGCLSTRLFYYQLTELYKRVKHVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALSKWAN
+Original query = FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAN
+New query = FGCLSTRLFYYQLTELYKRVKHVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALSKWAN
+Scaffold = CM032385.1, start = 8951914, end = 8952212
+Eueides_isabella,CM032385.1,8962693,8962833,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Eueides_isabella,CM032385.1,8961114,8961285,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Eueides_isabella,CM032385.1,8964385,8964587,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set33_frame1, 0.09
+5 top scores:
+[['set33_frame1', 0.09], ['set51_frame2', 1.796], ['set69_frame2', 1.828], ['set74_frame1', 1.845], ['set77_frame0', 1.839]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Eueides_isabella/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_33_frame1.fa.txt
+6 53
+Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6
+GQTGFPWIDAIMIQLRNDGWIHHLARHAVACFLTRGDLWISWEEGMK
+6 53
+set33_frame1
+GQTGFPWIDSIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GQTGFPWIDAIMIQLRNDGWIHHLARHAVACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDSIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = CM032385.1, start = 8951914, end = 8952212
+Eueides_isabella,CM032385.1,8963676,8963827,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Eueides_isabella,CM032385.1,8961606,8961831,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Eueides_isabella,CM032385.1,8964385,8964587,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set58_frame0, 0.009
+5 top scores:
+[['set11_frame1', 1.791], ['set11_frame2', 1.801], ['set46_frame0', 1.736], ['set58_frame0', 0.009], ['set68_frame0', 1.806]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Eueides_isabella/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_58_frame0.fa.txt
+1 51
+Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+1 51
+set58_frame0
+IFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = IFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = CM032385.1, start = 8951914, end = 8952212
+Eueides_isabella,CM032385.1,8964385,8964587,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Eueides_isabella,CM032385.1,8962693,8962833,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Eueides_isabella,CM032385.1,8964385,8964587,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set36_frame1, 0.276
+5 top scores:
+[['set1_frame0', 1.847], ['set42_frame0', 1.84], ['set18_frame1', 1.864], ['set36_frame1', 0.276], ['set25_frame2', 1.874]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Eueides_isabella/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_36_frame1.fa.txt
+12 78
+set36_frame1
+KYIPVLKNMPTRYIHEPWMAPDSVQQAARCIIGRDYPMPMVDHMKASQINIERIKQVYAQLAKYKP
+Original query = KYIPVLKNMPTRYIHEPWVCPEEIQKSIRCIIGKDYPMPIVDHTKASEINLERIKQVYAQLAKFKPQ
+New query = KYIPVLKNMPTRYIHEPWMAPDSVQQAARCIIGRDYPMPMVDHMKASQINIERIKQVYAQLAKYKP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = CM032385.1, start = 8951914, end = 8952212
+Eueides_isabella,CM032385.1,8952294,8952545,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Eueides_isabella,CM032385.1,8951914,8952212,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,7,99,99
+
+Eueides_isabella,CM032385.1,8961114,8961285,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set5_frame0, 0.122
+5 top scores:
+[['set81_frame2', 1.849], ['set5_frame0', 0.122], ['set30_frame0', 1.877], ['set45_frame2', 1.897], ['set51_frame0', 1.888]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Eueides_isabella/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_5_frame0.fa.txt
+9 92
+Nymphalis_io_XM_050504024.1_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWETTALTFEEDPEPYGRVRDHNITTKCREVGIKVTSRVSHTLYKLD
+9 92
+set5_frame0
+FLLQCLEDLDSSLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRISHTLYKLD
+Original query = FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWETTALTFEEDPEPYGRVRDHNITTKCREVGIKVTSRVSHTLYKLD
+New query = FLLQCLEDLDSSLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRISHTLYKLD
+Scaffold = CM032385.1, start = 8951914, end = 8952212
+Eueides_isabella,CM032385.1,8953707,8953891,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Eueides_isabella,CM032385.1,8951914,8952212,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,7,99,99
+
+Eueides_isabella,CM032385.1,8961606,8961831,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set30_frame0, 0.255
+5 top scores:
+[['set2_frame0', 1.783], ['set62_frame0', 1.8], ['set30_frame0', 0.255], ['set98_frame0', 1.848], ['set106_frame0', 1.851]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Eueides_isabella/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_30_frame0.fa.txt
+19 80
+Nymphalis_io_XM_050504024.1_Frame_1_rightoh_1_query_Exon_3
+IIERNGGKAPLTYHQFQALIASMPPPPPAEPAITADMLNGAITPLGADHEDRFGVPTLEEL
+19 80
+set30_frame0
+IIERNGGKAPLTYHQFQALIASMPPPPPAESAISSQNLNGAVTPLTEDHDDRFGVPTLEEL
+Original query = IIERNGGKAPLTYHQFQALIASMPPPPPAEPAITADMLNGAITPLGADHEDRFGVPTLEEL
+New query = IIERNGGKAPLTYHQFQALIASMPPPPPAESAISSQNLNGAVTPLTEDHDDRFGVPTLEEL
+Scaffold = CM032385.1, start = 8951914, end = 8952212
+Eueides_isabella,CM032385.1,8961114,8961285,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Eueides_isabella,CM032385.1,8952294,8952545,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Eueides_isabella,CM032385.1,8962693,8962833,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set101_frame2, 0.115
+5 top scores:
+[['set101_frame2', 0.115], ['set39_frame1', 1.804], ['set102_frame1', 1.818], ['set119_frame1', 1.82], ['set122_frame1', 1.826]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Eueides_isabella/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_101_frame2.fa.txt
+5 61
+Nymphalis_io_XM_050504024.1_Frame_2_rightoh_2_query_Exon_4
+FDTDGLKPPLWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+5 61
+set101_frame2
+FETEDLKPPMWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+Original query = FDTDGLKPPLWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+New query = FETEDLKPPMWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+Scaffold = CM032385.1, start = 8951914, end = 8952212
+Eueides_isabella,CM032385.1,8961606,8961831,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Eueides_isabella,CM032385.1,8953707,8953891,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Eueides_isabella,CM032385.1,8963676,8963827,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set77_frame1, 0.133
+5 top scores:
+[['set77_frame1', 0.133], ['set13_frame0', 1.749], ['set1_frame1', 1.854], ['set22_frame1', 1.871], ['set70_frame2', 1.88]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Eueides_isabella/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_77_frame1.fa.txt
+14 89
+Nymphalis_io_XM_050504024.1_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLTELYTRVKRVLPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWQKNQDALLKWAN
+14 89
+set77_frame1
+FGCLSTRLFYYQLTELYKRVKHVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALSKWAN
+Original query = FGCLSTRLFYYQLTELYTRVKRVLPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWQKNQDALLKWAN
+New query = FGCLSTRLFYYQLTELYKRVKHVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALSKWAN
+Scaffold = CM032385.1, start = 8951914, end = 8952212
+Eueides_isabella,CM032385.1,8962693,8962833,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Eueides_isabella,CM032385.1,8961114,8961285,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Eueides_isabella,CM032385.1,8964385,8964587,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set33_frame1, 0.119
+5 top scores:
+[['set33_frame1', 0.119], ['set69_frame2', 1.781], ['set51_frame2', 1.809], ['set19_frame2', 1.854], ['set77_frame0', 1.835]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Eueides_isabella/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_33_frame1.fa.txt
+6 53
+Nymphalis_io_XM_050504024.1_Frame_0_rightoh_0_query_Exon_6
+GKTGYPWIDAIMIQLREEGWIHHLSRHAAACFLTRGDLWISWEEGMK
+6 53
+set33_frame1
+GQTGFPWIDSIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GKTGYPWIDAIMIQLREEGWIHHLSRHAAACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDSIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = CM032385.1, start = 8951914, end = 8952212
+Eueides_isabella,CM032385.1,8963676,8963827,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Eueides_isabella,CM032385.1,8961606,8961831,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Eueides_isabella,CM032385.1,8964385,8964587,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set58_frame0, 0.039
+5 top scores:
+[['set11_frame1', 1.791], ['set11_frame2', 1.801], ['set46_frame0', 1.736], ['set58_frame0', 0.039], ['set61_frame2', 1.812]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Eueides_isabella/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_58_frame0.fa.txt
+1 51
+Nymphalis_io_XM_050504024.1_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKIDPNGDFI
+1 51
+set58_frame0
+IFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKIDPNGDFI
+New query = IFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = CM032385.1, start = 8951914, end = 8952212
+Eueides_isabella,CM032385.1,8964385,8964587,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Eueides_isabella,CM032385.1,8962693,8962833,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Eueides_isabella,CM032385.1,8964385,8964587,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set36_frame1, 0.291
+5 top scores:
+[['set1_frame0', 1.873], ['set42_frame0', 1.799], ['set18_frame1', 1.864], ['set36_frame1', 0.291], ['set1_frame2', 1.863]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Eueides_isabella/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_36_frame1.fa.txt
+12 78
+set36_frame1
+KYIPVLKNMPTRYIHEPWMAPDSVQQAARCIIGRDYPMPMVDHMKASQINIERIKQVYAQLAKYKP
+Original query = KYIPALRNLPTRFIHEPWMAPETVQQDANCIIGRDYPQPIVDHAKASQVNIERIKQVYAQLAKYKPP
+New query = KYIPVLKNMPTRYIHEPWMAPDSVQQAARCIIGRDYPMPMVDHMKASQINIERIKQVYAQLAKYKP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = CM032385.1, start = 8951914, end = 8952212
+Eueides_isabella,CM032385.1,8952294,8952545,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Eueides_isabella,CM032385.1,8951914,8952212,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,7,99,99
+
+Eueides_isabella,CM032385.1,8961114,8961285,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set5_frame0, 0.046
+5 top scores:
+[['set81_frame2', 1.855], ['set5_frame0', 0.046], ['set30_frame0', 1.896], ['set45_frame2', 1.908], ['set51_frame0', 1.888]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Eueides_isabella/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_5_frame0.fa.txt
+9 92
+Vanessa_tameamea_XM_026629288.1_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRVSHTLYKLD
+9 92
+set5_frame0
+FLLQCLEDLDSSLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRISHTLYKLD
+Original query = FLLQCLEDLDNNLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRVSHTLYKLD
+New query = FLLQCLEDLDSSLKKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVTSRISHTLYKLD
+Scaffold = CM032385.1, start = 8951914, end = 8952212
+Eueides_isabella,CM032385.1,8953707,8953891,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Eueides_isabella,CM032385.1,8951914,8952212,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_1,7,99,99
+
+Eueides_isabella,CM032385.1,8961606,8961831,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set30_frame0, 0.252
+5 top scores:
+[['set2_frame0', 1.783], ['set62_frame0', 1.796], ['set30_frame0', 0.252], ['set111_frame1', 1.805], ['set45_frame2', 1.847]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Eueides_isabella/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_30_frame0.fa.txt
+19 80
+Vanessa_tameamea_XM_026629288.1_Frame_1_rightoh_1_query_Exon_3
+IIERNEGKAPLTYHQFQALIASMPPPPPAEPAITAEMLNGAVTPLADDHEDRFGVPTLEEL
+19 80
+set30_frame0
+IIERNGGKAPLTYHQFQALIASMPPPPPAESAISSQNLNGAVTPLTEDHDDRFGVPTLEEL
+Original query = IIERNEGKAPLTYHQFQALIASMPPPPPAEPAITAEMLNGAVTPLADDHEDRFGVPTLEEL
+New query = IIERNGGKAPLTYHQFQALIASMPPPPPAESAISSQNLNGAVTPLTEDHDDRFGVPTLEEL
+Scaffold = CM032385.1, start = 8951914, end = 8952212
+Eueides_isabella,CM032385.1,8961114,8961285,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Eueides_isabella,CM032385.1,8952294,8952545,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Eueides_isabella,CM032385.1,8962693,8962833,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set101_frame2, 0.09
+5 top scores:
+[['set101_frame2', 0.09], ['set39_frame1', 1.802], ['set122_frame1', 1.826], ['set6_frame1', 1.845], ['set47_frame1', 1.857]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Eueides_isabella/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_101_frame2.fa.txt
+5 61
+Vanessa_tameamea_XM_026629288.1_Frame_2_rightoh_2_query_Exon_4
+FETEGLKPPIWIGGEKEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+5 61
+set101_frame2
+FETEDLKPPMWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+Original query = FETEGLKPPIWIGGEKEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+New query = FETEDLKPPMWIGGENEALLRLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+Scaffold = CM032385.1, start = 8951914, end = 8952212
+Eueides_isabella,CM032385.1,8961606,8961831,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Eueides_isabella,CM032385.1,8953707,8953891,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Eueides_isabella,CM032385.1,8963676,8963827,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set77_frame1, 0.128
+5 top scores:
+[['set77_frame1', 0.128], ['set13_frame0', 1.749], ['set1_frame1', 1.854], ['set22_frame1', 1.871], ['set18_frame2', 1.883]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Eueides_isabella/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_77_frame1.fa.txt
+14 89
+Vanessa_tameamea_XM_026629288.1_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLTELYTRVKRVLPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQEALVKWAN
+14 89
+set77_frame1
+FGCLSTRLFYYQLTELYKRVKHVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALSKWAN
+Original query = FGCLSTRLFYYQLTELYTRVKRVLPPLSLHGQILWREFFYCAATKNPNFDRMEGNPICVQIPWEKNQEALVKWAN
+New query = FGCLSTRLFYYQLTELYKRVKHVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALSKWAN
+Scaffold = CM032385.1, start = 8951914, end = 8952212
+Eueides_isabella,CM032385.1,8962693,8962833,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Eueides_isabella,CM032385.1,8961114,8961285,0,N,Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Eueides_isabella,CM032385.1,8964385,8964587,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set33_frame1, 0.048
+5 top scores:
+[['set33_frame1', 0.048], ['set69_frame2', 1.797], ['set51_frame2', 1.809], ['set27_frame2', 1.855], ['set77_frame0', 1.846]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Eueides_isabella/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_33_frame1.fa.txt
+6 53
+Vanessa_tameamea_XM_026629288.1_Frame_0_rightoh_0_query_Exon_6
+GQTGFPWIDAIMIQLREEGWIHHLARHAAACFLTRGDLWISWEEGMK
+6 53
+set33_frame1
+GQTGFPWIDSIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GQTGFPWIDAIMIQLREEGWIHHLARHAAACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDSIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = CM032385.1, start = 8951914, end = 8952212
+Eueides_isabella,CM032385.1,8963676,8963827,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Eueides_isabella,CM032385.1,8961606,8961831,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Eueides_isabella,CM032385.1,8964385,8964587,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set58_frame0, 0.009
+5 top scores:
+[['set11_frame1', 1.791], ['set11_frame2', 1.801], ['set46_frame0', 1.736], ['set58_frame0', 0.009], ['set68_frame0', 1.806]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Eueides_isabella/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_58_frame0.fa.txt
+1 51
+Vanessa_tameamea_XM_026629288.1_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+1 51
+set58_frame0
+IFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = IFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = CM032385.1, start = 8951914, end = 8952212
+Eueides_isabella,CM032385.1,8964385,8964587,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+6
+8
+Eueides_isabella,CM032385.1,8962693,8962833,0,N,Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Eueides_isabella,CM032385.1,8964385,8964587,0,N,Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_8,1,67,67
+
+Getting Gene
+min = set36_frame1, 0.212
+5 top scores:
+[['set1_frame0', 1.845], ['set42_frame0', 1.817], ['set18_frame1', 1.864], ['set36_frame1', 0.212], ['set1_frame2', 1.862]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Eueides_isabella/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_36_frame1.fa.txt
+12 78
+set36_frame1
+KYIPVLKNMPTRYIHEPWMAPDSVQQAARCIIGRDYPMPMVDHMKASQINIERIKQVYAQLAKYKP
+Original query = KYIPALKNLPTRYIHEPWMAPEAVQQAANCIIGRDYPQPIVDHAKASQVNIERIKQVYAQLAKYKPP
+New query = KYIPVLKNMPTRYIHEPWMAPDSVQQAARCIIGRDYPMPMVDHMKASQINIERIKQVYAQLAKYKP

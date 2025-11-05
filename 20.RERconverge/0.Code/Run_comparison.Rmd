@@ -1,0 +1,61 @@
+---
+title: "Correlation Run1 Run2"
+output: html_document
+date: "2025-03-20"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document.
+
+```{r}
+library(ggExtra)
+library(ggrepel)
+library(tidyverse)
+library(ggpmisc)
+library(cowplot)
+
+setwd("G:/My Drive/Circadian Rhythm Genes Project/20.RERconverge")
+rho_table = read.table("rho_genes_combined.csv", head = T, sep = "," )
+rho_cor = cor(rho_table$Run1_RHO,rho_table$Run2_RHO)
+p_cor = cor(rho_table$Run1_P,rho_table$Run2_P)
+
+
+plot = ggplot(data = rho_table, aes(x = Run1_RHO, y = Run2_RHO))+
+  geom_point()+
+  geom_smooth(method = "lm", se = FALSE, color = "blue") +
+  annotate("text", x = .20, y = .40, 
+           label = paste("Cor =", round(rho_cor, 3)), 
+           size = 5, color = "red") +
+  geom_text_repel(
+    data = subset(rho_table),  # Only label points with p < 0.05
+    aes(label = Gene_name),  # Label with gene names
+    vjust = -0.5,  # Position text slightly above points
+    size = 2,  # Adjust text size
+    color = "black"  # Set label color
+  ) +
+  theme_cowplot(12)
+  
+plot
+```
+
+```{r}
+ggplot(data = rho_table, aes(x = Run1_P, y = Run2_P))+
+  geom_point()+
+  geom_smooth(method = "lm", se = FALSE, color = "blue") +
+  annotate("text", x = .10, y = .10, 
+           label = paste("Cor =", round(p_cor, 3)), 
+           size = 5, color = "red") +
+  geom_text_repel(
+    data = subset(rho_table),  # Only label points with p < 0.05
+    aes(label = Gene_name),  # Label with gene names
+    vjust = -0.5,  # Position text slightly above points
+    size = 2,  # Adjust text size
+    color = "black"  # Set label color
+  ) +
+  theme_cowplot(12)
+```

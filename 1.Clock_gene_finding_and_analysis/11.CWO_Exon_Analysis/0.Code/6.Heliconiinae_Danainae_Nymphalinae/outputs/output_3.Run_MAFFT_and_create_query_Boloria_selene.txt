@@ -1,0 +1,492 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = HG993138.1, start = 2538205, end = 2538257
+Boloria_selene,HG993138.1,2566936,2567068,0,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+1
+4
+Boloria_selene,HG993138.1,2538205,2538257,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Boloria_selene,HG993138.1,2568236,2568391,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Getting Gene
+min = set769_frame1, 0.768
+5 top scores:
+[['set769_frame1', 0.768], ['set404_frame1', 1.619], ['set357_frame2', 1.661], ['set669_frame2', 1.7], ['set195_frame2', 1.711]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Boloria_selene/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_769_frame1.fa.txt
+12 55
+Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2
+SNEEFAR-EPLSFAPPSEDEAEYPPG-YKKGKVSRASHTEYAR
+12 55
+set769_frame1
+SNDGFGRVGELNFATPSEDEAEYASGAYKKGKVSRASHTEYAR
+Original query = YSNEEFAREPLSFAPPSEDEAEYPPGYKKGKVSRASHTEYAR
+New query = SNDGFGRVGELNFATPSEDEAEYASGAYKKGKVSRASHTEYAR
+Scaffold = HG993138.1, start = 2538205, end = 2538257
+Boloria_selene,HG993138.1,2567376,2567559,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+6
+7
+Boloria_selene,HG993138.1,2538205,2538257,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Boloria_selene,HG993138.1,2570796,2571056,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,3,45,45
+
+Getting Gene
+min = set669_frame2, 0.04
+5 top scores:
+[['set669_frame2', 0.04], ['set769_frame0', 1.753], ['set520_frame1', 1.782], ['set489_frame2', 1.785], ['set662_frame2', 1.808]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Boloria_selene/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_669_frame2.fa.txt
+0 61
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+0 61
+set669_frame2
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVN
+Scaffold = HG993138.1, start = 2538205, end = 2538257
+Boloria_selene,HG993138.1,2568236,2568391,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+2
+6
+7
+Boloria_selene,HG993138.1,2566936,2567068,0,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+Boloria_selene,HG993138.1,2570796,2571056,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,3,45,45
+
+Getting Gene
+min = set31_frame0, 1.093
+5 top scores:
+[['set63_frame2', 1.684], ['set50_frame1', 1.794], ['set31_frame0', 1.093], ['set82_frame1', 1.797], ['set51_frame2', 1.814]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Boloria_selene/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_31_frame0.fa.txt
+25 76
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4
+LERGSEFLAGYQRAGAEAVRF-VELQ--GSRDGLADQLAAHLHSHADMMAK
+25 76
+set31_frame0
+ERQGAEFRSGYQEAVAEALRFLVEVQGFGPGDGLCVQMASHMQRHCEVVTK
+Original query = LERGSEFLAGYQRAGAEAVRFVELQGSRDGLADQLAAHLHSHADMMAK
+New query = ERQGAEFRSGYQEAVAEALRFLVEVQGFGPGDGLCVQMASHMQRHCEVVTK
+Scaffold = HG993138.1, start = 2538205, end = 2538257
+Boloria_selene,HG993156.1,6895361,6895531,1,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,29,56,56
+
+3
+7
+Boloria_selene,HG993138.1,2567376,2567559,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Boloria_selene,HG993138.1,2570796,2571056,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,3,45,45
+
+Getting Gene
+min = set44_frame0, 0.906
+5 top scores:
+[['set84_frame1', 1.67], ['set48_frame2', 1.787], ['set43_frame2', 1.831], ['set44_frame0', 0.906], ['set56_frame0', 1.81]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Boloria_selene/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_44_frame0.fa.txt
+12 64
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5
+AVHEKRVYPNSSSETTSSSSSSQGFAVKVIQRPEPPPAFPEPYEPDRQEHFA
+12 64
+set44_frame0
+TREHPRSHMGSSSETASSSSSSHGFGVKVIQRPEPPPAFAEPYEEHPVAPYA
+Original query = AVHEKRVYPNSSSETTSSSSSSQGFAVKVIQRPEPPPAFPEPYEPDRQEHFADCER
+New query = TREHPRSHMGSSSETASSSSSSHGFGVKVIQRPEPPPAFAEPYEEHPVAPYA
+Scaffold = HG993138.1, start = 2538205, end = 2538257
+Boloria_selene,HG993138.1,2569843,2570027,0,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6,27,60,60
+
+4
+8
+9
+Boloria_selene,HG993138.1,2568236,2568391,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Boloria_selene,HG993138.1,2572870,2573087,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,53,60
+
+Getting Gene
+min = set42_frame1, 1.024
+5 top scores:
+[['set42_frame1', 1.024], ['set71_frame1', 1.769], ['set46_frame0', 1.796], ['set99_frame1', 1.806], ['set102_frame0', 1.823]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Boloria_selene/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_42_frame1.fa.txt
+4 65
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6
+SVHQPAVMEPLEGEPLPLDGRVKKEVTLRKIRKPEH-EDYLHSYKFKNSIERRFSRSQDSE
+4 65
+set42_frame1
+SLALPCV-EGAEAD------------SLRNVRKPEHGDDYLHSYKFKNSIERRFSRSQDSE
+Original query = SVHQPAVMEPLEGEPLPLDGRVKKEVTLRKIRKPEHEDYLHSYKFKNSIERRFSRSQDSE
+New query = SLALPCV-EGAEAD------------SLRNVRKPEHGDDYLHSYKFKNSIERRFSRSQDSE
+Scaffold = HG993138.1, start = 2538205, end = 2538257
+Boloria_selene,HG993138.1,2570796,2571056,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,3,45,45
+
+5
+4
+8
+9
+Boloria_selene,HG993138.1,2568236,2568391,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Boloria_selene,HG993138.1,2572870,2573087,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,53,60
+
+Getting Gene
+min = set56_frame1, 1.076
+5 top scores:
+[['set56_frame1', 1.076], ['set73_frame1', 1.627], ['set64_frame2', 1.645], ['set114_frame2', 1.707], ['set82_frame2', 1.804]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Boloria_selene/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_56_frame1.fa.txt
+22 107
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7
+AWSAGPTAKAYNHKRRRPTKPAPPSTSTSAS------------------------------------------GSTEEARDTSPQ
+22 107
+set56_frame1
+AWQVADPRKAYSHKRRRAVKPVAASISTSTSNSASNSNSASNSNSASNSNSASNSASNSGSNSASNSGSNSTTGSTEEARDLSPQ
+Original query = GDAWSAGPTAKAYNHKRRRPTKPAPPSTSTSASGSTEEARDTSPQ
+New query = AWQVADPRKAYSHKRRRAVKPVAASISTSTSNSASNSNSASNSNSASNSNSASNSASNSGSNSASNSGSNSTTGSTEEARDLSPQ
+Scaffold = HG993138.1, start = 2538205, end = 2538257
+Boloria_selene,HG993138.1,2572061,2572142,0,Y,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,6,30,30
+
+6
+5
+4
+8
+9
+Boloria_selene,HG993138.1,2568236,2568391,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Boloria_selene,HG993138.1,2572870,2573087,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,53,60
+
+Getting Gene
+min = set85_frame0, 1.067
+5 top scores:
+[['set85_frame0', 1.067], ['set30_frame1', 1.528], ['set64_frame2', 1.663], ['set47_frame2', 1.716], ['set80_frame2', 1.745]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Boloria_selene/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_85_frame0.fa.txt
+0 30
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8
+DTCSDSPHHHSFDKPPPPAQYVPVFALNAL
+0 30
+set85_frame0
+QE-QSSSHPHAGDKPP---QYVPVFALNPL
+Original query = DTCSDSPHHHSFDKPPPPAQYVPVFALNAL
+New query = QE-QSSSHPHAGDKPP---QYVPVFALNPL
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = HG993138.1, start = 2538205, end = 2538257
+Boloria_selene,HG993138.1,2566936,2567068,0,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+1
+4
+Boloria_selene,HG993138.1,2538205,2538257,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Boloria_selene,HG993138.1,2568236,2568391,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Getting Gene
+min = set769_frame1, 0.504
+5 top scores:
+[['set769_frame1', 0.504], ['set470_frame2', 1.66], ['set669_frame2', 1.683], ['set357_frame2', 1.716], ['set140_frame2', 1.731]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Boloria_selene/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_769_frame1.fa.txt
+10 48
+Nymphalis_io_XM_050486679.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRAGELNFAAPSEDEAEYPPAVFLKKGKVSR
+10 48
+set769_frame1
+YNSNDGFGRVGELNFATPSEDEAEYASGAY-KKGKVSR
+Original query = YNSNDGFGRAGELNFAAPSEDEAEYPPAVFLKKGKVSR
+New query = YNSNDGFGRVGELNFATPSEDEAEYASGAY-KKGKVSR
+Scaffold = HG993138.1, start = 2538205, end = 2538257
+Boloria_selene,HG993138.1,2567376,2567559,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+6
+7
+Boloria_selene,HG993138.1,2538205,2538257,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Boloria_selene,HG993138.1,2570796,2571056,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,3,45,45
+
+Getting Gene
+min = set669_frame2, 0.02
+5 top scores:
+[['set669_frame2', 0.02], ['set769_frame0', 1.759], ['set520_frame1', 1.785], ['set1_frame1', 1.803], ['set662_frame2', 1.807]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Boloria_selene/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_669_frame2.fa.txt
+0 61
+Nymphalis_io_XM_050486679.1_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+0 61
+set669_frame2
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVN
+Scaffold = HG993138.1, start = 2538205, end = 2538257
+Boloria_selene,HG993138.1,2568236,2568391,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+2
+6
+7
+Boloria_selene,HG993138.1,2566936,2567068,0,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+Boloria_selene,HG993138.1,2570796,2571056,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,3,45,45
+
+Getting Gene
+min = set31_frame0, 0.367
+5 top scores:
+[['set82_frame1', 1.689], ['set31_frame0', 0.367], ['set63_frame2', 1.757], ['set15_frame2', 1.816], ['set77_frame2', 1.829]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Boloria_selene/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_31_frame0.fa.txt
+24 77
+Nymphalis_io_XM_050486679.1_Frame_2_rightoh_1_query_Exon_4
+AERQAGDDYRAGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEFVTK
+24 77
+set31_frame0
+AERQ-GAEFRSGYQEAVAEALRFLVEVQGFGPGDGLCVQMASHMQRHCEVVTK
+Original query = AERQAGDDYRAGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEFVTK
+New query = AERQ-GAEFRSGYQEAVAEALRFLVEVQGFGPGDGLCVQMASHMQRHCEVVTK
+Scaffold = HG993138.1, start = 2538205, end = 2538257
+Boloria_selene,HG993156.1,6895361,6895531,1,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,29,56,56
+
+3
+7
+Boloria_selene,HG993138.1,2567376,2567559,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Boloria_selene,HG993138.1,2570796,2571056,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,3,45,45
+
+Getting Gene
+min = set44_frame0, 0.679
+5 top scores:
+[['set70_frame0', 1.731], ['set84_frame1', 1.746], ['set15_frame0', 1.782], ['set44_frame0', 0.679], ['set43_frame2', 1.817]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Boloria_selene/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_44_frame0.fa.txt
+12 70
+Nymphalis_io_XM_050486679.1_Frame_2_rightoh_1_query_Exon_5
+TRDKPRSHPGSSSETASSSSSSHGFGVKVIQRPELPPFPAETYDHERQEPPYAMECDR
+12 70
+set44_frame0
+TREHPRSHMGSSSETASSSSSSHGFGVKVIQRPEPPPAFAEPYE-EHPVAPYAMECDR
+Original query = EHTRDKPRSHPGSSSETASSSSSSHGFGVKVIQRPELPPFPAETYDHERQEPPYAMECDR
+New query = TREHPRSHMGSSSETASSSSSSHGFGVKVIQRPEPPPAFAEPYE-EHPVAPYAMECDR
+Scaffold = HG993138.1, start = 2538205, end = 2538257
+Boloria_selene,HG993138.1,2569843,2570027,0,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6,27,60,60
+
+4
+8
+9
+Boloria_selene,HG993138.1,2568236,2568391,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Boloria_selene,HG993138.1,2572870,2573087,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,53,60
+
+Getting Gene
+min = set42_frame1, 0.883
+5 top scores:
+[['set42_frame1', 0.883], ['set99_frame1', 1.767], ['set37_frame2', 1.809], ['set46_frame0', 1.785], ['set64_frame2', 1.82]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Boloria_selene/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_42_frame1.fa.txt
+5 63
+Nymphalis_io_XM_050486679.1_Frame_2_rightoh_0_query_Exon_6
+SVLPAAETDAPDAPLDGRLKKEPALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDTE
+5 63
+set42_frame1
+LALPCVEGAEAD-----------SLRNVRKPEHGDDYLHSYKFKNSIERRFSRSQDSE
+Original query = SVLPAAETDAPDAPLDGRLKKEPALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDTE
+New query = LALPCVEGAEAD-----------SLRNVRKPEHGDDYLHSYKFKNSIERRFSRSQDSE
+Scaffold = HG993138.1, start = 2538205, end = 2538257
+Boloria_selene,HG993138.1,2570796,2571056,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,3,45,45
+
+5
+4
+8
+9
+Boloria_selene,HG993138.1,2568236,2568391,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Boloria_selene,HG993138.1,2572870,2573087,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,53,60
+
+Getting Gene
+min = set56_frame1, 1.295
+5 top scores:
+[['set56_frame1', 1.295], ['set114_frame2', 1.679], ['set73_frame1', 1.722], ['set35_frame0', 1.74], ['set64_frame2', 1.745]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Boloria_selene/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_56_frame1.fa.txt
+18 66
+Nymphalis_io_XM_050486679.1_Frame_0_rightoh_0_query_Exon_7
+TAEGAGRGAAHGKLYSHKRRRQAKPAAPESTSASTSASASTEDAQDTS
+18 66
+set56_frame1
+TYVFAWQVADPRKAYSHKRRRAVKPVA-ASISTSTSNSASNSNSASNS
+Original query = TAEGAGRGAAHGKLYSHKRRRQAKPAAPESTSASTSASASTEDAQDTSPQ
+New query = TYVFAWQVADPRKAYSHKRRRAVKPVA-ASISTSTSNSASNSNSASNS
+Scaffold = HG993138.1, start = 2538205, end = 2538257
+Boloria_selene,HG993138.1,2572061,2572142,0,Y,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,6,30,30
+
+6
+5
+4
+8
+9
+Boloria_selene,HG993138.1,2568236,2568391,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Boloria_selene,HG993138.1,2572870,2573087,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,53,60
+
+Getting Gene
+min = set85_frame0, 1.082
+5 top scores:
+[['set85_frame0', 1.082], ['set30_frame1', 1.559], ['set99_frame1', 1.65], ['set20_frame2', 1.675], ['set64_frame2', 1.68]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Boloria_selene/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_85_frame0.fa.txt
+0 30
+Nymphalis_io_XM_050486679.1_Frame_0_rightoh_1_query_Exon_8
+DTSSDSPHHHQYDKPPPPTQYVPVFALNSL
+0 30
+set85_frame0
+-QEQSSSHPHAGDKPP---QYVPVFALNPL
+Original query = DTSSDSPHHHQYDKPPPPTQYVPVFALNSL
+New query = -QEQSSSHPHAGDKPP---QYVPVFALNPL
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = HG993138.1, start = 2538205, end = 2538257
+Boloria_selene,HG993138.1,2566936,2567068,0,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+1
+4
+Boloria_selene,HG993138.1,2538205,2538257,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Boloria_selene,HG993138.1,2568236,2568391,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Getting Gene
+min = set769_frame1, 0.474
+5 top scores:
+[['set769_frame1', 0.474], ['set470_frame2', 1.625], ['set669_frame2', 1.641], ['set433_frame1', 1.721], ['set357_frame2', 1.724]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Boloria_selene/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_769_frame1.fa.txt
+10 48
+Vanessa_tameamea_XM_026630430.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRAGELNFAAPSEDEADYPPAAYLKKGKVSR
+10 48
+set769_frame1
+YNSNDGFGRVGELNFATPSEDEAEYASGAY-KKGKVSR
+Original query = YNSNDGFGRAGELNFAAPSEDEADYPPAAYLKKGKVSR
+New query = YNSNDGFGRVGELNFATPSEDEAEYASGAY-KKGKVSR
+Scaffold = HG993138.1, start = 2538205, end = 2538257
+Boloria_selene,HG993138.1,2567376,2567559,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+6
+7
+Boloria_selene,HG993138.1,2538205,2538257,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Boloria_selene,HG993138.1,2570796,2571056,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,3,45,45
+
+Getting Gene
+min = set669_frame2, 0.125
+5 top scores:
+[['set669_frame2', 0.125], ['set520_frame1', 1.796], ['set78_frame2', 1.802], ['set662_frame2', 1.817], ['set310_frame2', 1.829]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Boloria_selene/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_669_frame2.fa.txt
+0 65
+Vanessa_tameamea_XM_026630430.1_Frame_0_rightoh_1_query_Exon_3
+VLLQQDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+0 65
+set669_frame2
+----QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVN
+Original query = VLLQQDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+New query = ----QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVN
+Scaffold = HG993138.1, start = 2538205, end = 2538257
+Boloria_selene,HG993138.1,2568236,2568391,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+2
+6
+7
+Boloria_selene,HG993138.1,2566936,2567068,0,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+Boloria_selene,HG993138.1,2570796,2571056,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,3,45,45
+
+Getting Gene
+min = set31_frame0, 0.337
+5 top scores:
+[['set82_frame1', 1.689], ['set31_frame0', 0.337], ['set63_frame2', 1.761], ['set15_frame2', 1.818], ['set77_frame2', 1.828]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Boloria_selene/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_31_frame0.fa.txt
+24 77
+Vanessa_tameamea_XM_026630430.1_Frame_2_rightoh_1_query_Exon_4
+AERQAGDDYRTGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEIVTK
+24 77
+set31_frame0
+AERQ-GAEFRSGYQEAVAEALRFLVEVQGFGPGDGLCVQMASHMQRHCEVVTK
+Original query = AERQAGDDYRTGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEIVTK
+New query = AERQ-GAEFRSGYQEAVAEALRFLVEVQGFGPGDGLCVQMASHMQRHCEVVTK
+Scaffold = HG993138.1, start = 2538205, end = 2538257
+Boloria_selene,HG993156.1,6895361,6895531,1,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,29,56,56
+
+3
+7
+Boloria_selene,HG993138.1,2567376,2567559,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Boloria_selene,HG993138.1,2570796,2571056,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,3,45,45
+
+Getting Gene
+min = set44_frame0, 0.679
+5 top scores:
+[['set70_frame0', 1.731], ['set84_frame1', 1.746], ['set15_frame0', 1.782], ['set44_frame0', 0.679], ['set43_frame2', 1.817]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Boloria_selene/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_44_frame0.fa.txt
+12 70
+Vanessa_tameamea_XM_026630430.1_Frame_2_rightoh_1_query_Exon_5
+TRDKPRSHPGSSSETASSSSSSHGFGVKVIQRPELPPFPAETYDHERQEPPYAMECDR
+12 70
+set44_frame0
+TREHPRSHMGSSSETASSSSSSHGFGVKVIQRPEPPPAFAEPYE-EHPVAPYAMECDR
+Original query = EHTRDKPRSHPGSSSETASSSSSSHGFGVKVIQRPELPPFPAETYDHERQEPPYAMECDR
+New query = TREHPRSHMGSSSETASSSSSSHGFGVKVIQRPEPPPAFAEPYE-EHPVAPYAMECDR
+Scaffold = HG993138.1, start = 2538205, end = 2538257
+Boloria_selene,HG993138.1,2569843,2570027,0,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6,27,60,60
+
+4
+8
+9
+Boloria_selene,HG993138.1,2568236,2568391,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Boloria_selene,HG993138.1,2572870,2573087,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,53,60
+
+Getting Gene
+min = set42_frame1, 0.941
+5 top scores:
+[['set42_frame1', 0.941], ['set64_frame2', 1.758], ['set46_frame0', 1.799], ['set56_frame1', 1.839], ['set102_frame0', 1.708]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Boloria_selene/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_42_frame1.fa.txt
+4 69
+Vanessa_tameamea_XM_026630430.1_Frame_2_rightoh_0_query_Exon_6
+SL-LP---AAEADAPRAPRAPLDGRLKREAALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDTE
+4 69
+set42_frame1
+SLALPCVEGAEAD-----------------SLRNVRKPEHGDDYLHSYKFKNSIERRFSRSQDSE
+Original query = SLLPAAEADAPRAPRAPLDGRLKREAALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDTE
+New query = SLALPCVEGAEAD-----------------SLRNVRKPEHGDDYLHSYKFKNSIERRFSRSQDSE
+Scaffold = HG993138.1, start = 2538205, end = 2538257
+Boloria_selene,HG993138.1,2570796,2571056,0,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,3,45,45
+
+5
+4
+8
+9
+Boloria_selene,HG993138.1,2568236,2568391,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Boloria_selene,HG993138.1,2572870,2573087,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,53,60
+
+Getting Gene
+min = set56_frame1, 1.205
+5 top scores:
+[['set56_frame1', 1.205], ['set37_frame2', 1.585], ['set114_frame2', 1.607], ['set64_frame2', 1.751], ['set46_frame0', 1.786]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Boloria_selene/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_56_frame1.fa.txt
+24 107
+Vanessa_tameamea_XM_026630430.1_Frame_0_rightoh_0_query_Exon_7
+EGAAHGKLYSHKRRRQAKPCAPP-----------------------------------STSASASASTSASASTEDAQDTSPQ
+24 107
+set56_frame1
+QVADPRKAYSHKRRRAVKPVAASISTSTSNSASNSNSASNSNSASNSNSASNSASNSGSNSASNSGSNSTTGSTEEARDLSPQ
+Original query = SAEGAAHGKLYSHKRRRQAKPCAPPSTSASASASTSASASTEDAQDTSPQ
+New query = QVADPRKAYSHKRRRAVKPVAASISTSTSNSASNSNSASNSNSASNSNSASNSASNSGSNSASNSGSNSTTGSTEEARDLSPQ
+Scaffold = HG993138.1, start = 2538205, end = 2538257
+Boloria_selene,HG993138.1,2572061,2572142,0,Y,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,6,30,30
+
+6
+5
+4
+8
+9
+Boloria_selene,HG993138.1,2568236,2568391,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Boloria_selene,HG993138.1,2572870,2573087,0,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_9,1,53,60
+
+Getting Gene
+min = set85_frame0, 1.082
+5 top scores:
+[['set85_frame0', 1.082], ['set30_frame1', 1.559], ['set99_frame1', 1.65], ['set20_frame2', 1.675], ['set64_frame2', 1.68]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Boloria_selene/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_85_frame0.fa.txt
+0 30
+Vanessa_tameamea_XM_026630430.1_Frame_0_rightoh_1_query_Exon_8
+DTSSDSPHHHQYDKPPPPTQYVPVFALNSL
+0 30
+set85_frame0
+-QEQSSSHPHAGDKPP---QYVPVFALNPL
+Original query = DTSSDSPHHHQYDKPPPPTQYVPVFALNSL
+New query = -QEQSSSHPHAGDKPP---QYVPVFALNPL

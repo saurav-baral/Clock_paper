@@ -1,0 +1,56 @@
+---
+title: "Untitled"
+format: html
+---
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+
+raw_data = read.table ("G:/My Drive/Circadian Rhythm Genes Project/19.Evolutionary_rate_co-variation(ERC)/2.Two_state/ERC_correlation_full.csv", header = T, sep = ",")
+upper_cor_data <- raw_data
+upper_cor_data[lower.tri(upper_cor_data,diag = TRUE)] <-NA
+```
+
+```{r}
+
+cor_data <- upper_cor_data %>%  mutate(colnames=names(raw_data)) %>%  column_to_rownames(var = "colnames") %>% rownames_to_column("row") %>% pivot_longer(cols=-row,names_to = "nodeB", values_to = "ERC_corr",values_drop_na=TRUE)
+
+```
+
+```{r}
+plot = ggplot(cor_data, aes(x = ERC_corr)) +  geom_histogram(binwidth = 0.05, fill = "grey", color = "black") +   labs(title = "ERC correlation histogram", x = "ERC correlations", y = "counts") +     theme_minimal()
+
+
+pdf("G:/My Drive/Circadian Rhythm Genes Project/19.Evolutionary_rate_co-variation(ERC)/2.Two_state/Historgram_full.pdf", width = 6, height = 4)
+plot
+dev.off()
+
+```
+
+```{r}
+candidate_genes <- c("period","timeless","clock","cycle","cwo","cry1a","cry1b","cry2","timeout")
+subset <- cor_data %>%  filter(row %in% candidate_genes & nodeB %in% candidate_genes) %>%   arrange(desc(ERC_corr))
+head(subset,10)
+```
+
+```{r}
+# Set the value where you want the red line to appear
+threshold=0.4
+# Count the number of values greater than the threshold
+count_above_threshold <- sum(cor_data$ERC_corr > threshold)
+counts <- length(cor_data$ERC_corr)
+
+# Create the histogram and add a vertical line
+ggplot(cor_data, aes(x = ERC_corr)) +
+  geom_histogram(binwidth = 0.05, fill = "skyblue", color = "black") +  # Histogram
+  geom_vline(xintercept = threshold, color = "red", linetype = "dashed", size = 1) +  # Vertical line
+      geom_vline(xintercept = threshold, color = "red", linetype = "dashed", size = 1) +
+# geom_hline(yintercept = threshold, linetype = "dashed", color = "red") +  # Add threshold line
+  annotate("text", x = Inf, y = Inf, label = paste("Count >", threshold, "=", count_above_threshold,";",count_above_threshold,"/total=",round(count_above_threshold/counts,4)), hjust = 1.1, vjust = 1.1, color = "blue", size = 5) + # Annotate count as text
+
+  labs(title = "Histogram with Line at threhold", x = "Values", y = "Frequency") +
+  theme_minimal()  # Optional, sets a minimal theme
+```

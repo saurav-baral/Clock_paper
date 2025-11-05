@@ -1,0 +1,629 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Philaethria_dido
+Processing Exon_2
+0 query coordinate
+Period_gene_genomic_sequence_individual_exon
+48
+[[2, 1]]
+reached here
+Before splice: 918,1064
+after splice: 918,1064
+sequence:
+ACCAAAGTAGTTGGTTATAACCGCATGCGTTATCTCCTGGAGGCGCTGAACGATCTTGATGTCCAGTTTAGGAAGTATGGTGGGAGACTGCATATGATTAAGGGGAAGCCTGATGTGGTTTTCAAACGACTTTGGGAAGAATTTG
+sequence:
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEEF
+[[2, 1]]
+start_coordinate : 59460,stop_coordinate : 59603
+918 1064 Y N
+Philaethria_dido,,59458,59604,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Philaethria_dido
+Processing Exon_3
+Philaethria_dido_coordinates_Danaus_plexippus.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 2352,2539
+after splice: 2352,2539
+sequence:
+ATTCGTAAGATATGCTTCGAACAGGATTGCGAGCCTATATGGCGGACTCGCGACGATGGTGTGCGCTCCTTGTGTCGTGAGATAGGTGTCTCGTGTCGCGAACACGTGTCTCATACTCTGTGGGACCCCGACACTGTTATTAGAGCCAATGGTGGTATTCCGCCTTTGACGTATCAGATGTTTTTG
+sequence:
+IRKICFEQDCEPIWRTRDDGVRSLCREIGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+left = aG, right =GT, stop_counter = 0
+IRKICFEQDCEPIWRTRDDGVRSLCREIGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 60894,stop_coordinate : 61079
+2352 2539 Y N
+Philaethria_dido,,60892,61079,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Philaethria_dido
+Processing Exon_4
+Philaethria_dido_coordinates_Danaus_plexippus.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 3313,3429
+after splice: 3313,3429
+sequence:
+caTACTGTAGCAATCATCGGAGACCCGCCGCGCCCAGTTGACGATGTTGACCTGAAAGGGATCAACTTTGGGTCTCTACCAGAAAGTTTCTACAATGAATTTACTATATTTGAGaag
+sequence:
+HTVAIIGDPPRPVDDVDLKGINFGSLPESFYNEFTIFEK
+left = ag, right =gt, stop_counter = 0
+HTVAIIGDPPRPVDDVDLKGINFGSLPESFYNEFTIFEK
+[[0, 0]]
+start_coordinate : 61853,stop_coordinate : 61969
+3313 3429 Y N
+Philaethria_dido,,61853,61969,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Philaethria_dido
+Processing Exon_5
+Philaethria_dido_coordinates_Danaus_plexippus.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 4588,4721
+after splice: 4588,4721
+sequence:
+GCTCCCAAACCAGAAGATTTAGGAGTGTTCTTAGAAAACGAAGATATTCGTATGATACGCTGGGTTGGAGGAGAAACTGCTGCCTTAAACCAAATGCAGAATCGCTTGGCGGTGGAGTATGAAACTTTTTGCAG
+sequence:
+APKPEDLGVFLENEDIRMIRWVGGETAALNQMQNRLAVEYETFC
+left = AG, right =GT, stop_counter = 0
+APKPEDLGVFLENEDIRMIRWVGGETAALNQMQNRLAVEYETFC
+[[0, 2]]
+start_coordinate : 63128,stop_coordinate : 63259
+4588 4721 Y N
+Philaethria_dido,,63128,63261,0,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Philaethria_dido
+Processing Exon_6
+Philaethria_dido_coordinates_Danaus_plexippus.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 5376,5471
+after splice: 5376,5471
+sequence:
+GGATCTTATTTACCAACGCACGGTAATCCCGATTTACTGGGACCTCCCATATCCTTGAGTCCAGCTCTTCGATTTGGATGCCTTTCTGTACGacg
+sequence:
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+left = AG, right =gt, stop_counter = 0
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 63917,stop_coordinate : 64009
+5376 5471 Y N
+Philaethria_dido,,63916,64011,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Philaethria_dido
+Processing Exon_7
+Philaethria_dido_coordinates_Danaus_plexippus.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 5681,5754
+after splice: 5681,5754
+sequence:
+ttttattggTGCGTCCAAGATTTGTTCCATCAAGTGAATCAGGGGCAACTCGCTTCTACTCAATTTATTACGG
+sequence:
+FYWCVQDLFHQVNQGQLASTQFIT
+left = ag, right =GT, stop_counter = 0
+FYWCVQDLFHQVNQGQLASTQFIT
+[[1, 1]]
+start_coordinate : 64222,stop_coordinate : 64293
+5681 5754 Y N
+Philaethria_dido,,64221,64294,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Philaethria_dido
+Processing Exon_8
+Philaethria_dido_coordinates_Danaus_plexippus.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 6282,6408
+after splice: 6282,6408
+sequence:
+CAACTAATATGGCGTGAGTATTTCTACACGATGAGCGTGAACAATCCAAACTACGGACAAATGGGAAATAATCCCATATGCTTGAACATCCCTTGGAAAGAGCCTGAAGGTGATGAATTGGAGAG
+sequence:
+QLIWREYFYTMSVNNPNYGQMGNNPICLNIPWKEPEGDELE
+left = ag, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPNYGQMGNNPICLNIPWKEPEGDELE
+[[2, 2]]
+start_coordinate : 64824,stop_coordinate : 64946
+6282 6408 Y N
+Philaethria_dido,,64822,64948,0,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Philaethria_dido
+Processing Exon_9
+Philaethria_dido_coordinates_Danaus_plexippus.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 7503,7685
+after splice: 7503,7685
+sequence:
+TGGTGCACGGGGCGCACGGGGTTCCCGTTCATCGACGCGGCCATGCGTCAGCTGCGCGCGGAGGGCTGGCTGCACCACGCCGCGCGCAACACCGTCGCGTCCTTCTTAACGCGCGGCACGCTGTGGCTGTCCTGGGAGCACGGCCTCAAACACTTCCTCAAGTACCTGCTGGACGCTGACTG
+sequence:
+WCTGRTGFPFIDAAMRQLRAEGWLHHAARNTVASFLTRGTLWLSWEHGLKHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WCTGRTGFPFIDAAMRQLRAEGWLHHAARNTVASFLTRGTLWLSWEHGLKHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 66044,stop_coordinate : 66223
+7503 7685 Y N
+Philaethria_dido,,66043,66225,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Philaethria_dido
+Processing Exon_10
+Philaethria_dido_coordinates_Danaus_plexippus.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 8778,8945
+after splice: 8778,8945
+sequence:
+TCTGTATGCGCGGGCAACTGGATGTGGGTGTCGTCGTCCGCGTTCGAGGCGCTGCTGGACTCGGGCGAGTGCGCGTGCCCCGAGCGCCTCGGGCGGCGACTGGAGCCCTCCGGACACTACGTGCGCCGGTACGTGCCGGAACTCGCTAACATGCCTGTTGAGTATAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSGECACPERLGRRLEPSGHYVRRYVPELANMPVEY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSGECACPERLGRRLEPSGHYVRRYVPELANMPVEY
+[[1, 2]]
+start_coordinate : 67319,stop_coordinate : 67483
+8778 8945 Y N
+Philaethria_dido,,67318,67485,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Philaethria_dido
+Processing Exon_11
+Philaethria_dido_coordinates_Danaus_plexippus.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 9941,10061
+after splice: 9941,10061
+sequence:
+TACTCCCCGTGGACGGCGCCGCTGGAGGTGCAGCAGCGCGCGGGCTGCGTGGTGGGGCGCGACTACCCGGCGCCCGTCGTCGACcaccgcgccgccgccgcccgcaaCCGCAGCGCCATG
+sequence:
+YSPWTAPLEVQQRAGCVVGRDYPAPVVDHRAAAARNRSAM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACTCCCCGTGGACGGCGCCGCTGGAGGTGCAGCAGCGCGCGGGCTGCGTGGTGGGGCGCGACTACCCGGCGCCCGTCGTCGACcaccgcgccgccgccgcccgcaaCCGCAGCGCCATGCAG
+sequence:
+YSPWTAPLEVQQRAGCVVGRDYPAPVVDHRAAAARNRSAMQ
+left = AG, right =GT, stop_counter = 0
+YSPWTAPLEVQQRAGCVVGRDYPAPVVDHRAAAARNRSAMQ
+[[1, 0]]
+start_coordinate : 68482,stop_coordinate : 68604
+9941 10064 Y N
+Philaethria_dido,,68481,68604,0,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Philaethria_dido
+Processing Exon_2
+0 query coordinate
+Philaethria_dido_coordinates_Danaus_plexippus.csv
+48
+[[2, 1]]
+reached here
+Before splice: 918,1064
+after splice: 918,1064
+sequence:
+ACCAAAGTAGTTGGTTATAACCGCATGCGTTATCTCCTGGAGGCGCTGAACGATCTTGATGTCCAGTTTAGGAAGTATGGTGGGAGACTGCATATGATTAAGGGGAAGCCTGATGTGGTTTTCAAACGACTTTGGGAAGAATTTG
+sequence:
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEEF
+[[2, 1]]
+start_coordinate : 59460,stop_coordinate : 59603
+918 1064 Y N
+Philaethria_dido,,59458,59604,0,N,Nymphalis_io_XM_050489987.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Philaethria_dido
+Processing Exon_3
+Philaethria_dido_coordinates_Nymphalis_io.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 2352,2539
+after splice: 2352,2539
+sequence:
+ATTCGTAAGATATGCTTCGAACAGGATTGCGAGCCTATATGGCGGACTCGCGACGATGGTGTGCGCTCCTTGTGTCGTGAGATAGGTGTCTCGTGTCGCGAACACGTGTCTCATACTCTGTGGGACCCCGACACTGTTATTAGAGCCAATGGTGGTATTCCGCCTTTGACGTATCAGATGTTTTTG
+sequence:
+IRKICFEQDCEPIWRTRDDGVRSLCREIGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+left = aG, right =GT, stop_counter = 0
+IRKICFEQDCEPIWRTRDDGVRSLCREIGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 60894,stop_coordinate : 61079
+2352 2539 Y N
+Philaethria_dido,,60892,61079,0,N,Nymphalis_io_XM_050489987.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Philaethria_dido
+Processing Exon_4
+Philaethria_dido_coordinates_Nymphalis_io.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 3313,3429
+after splice: 3313,3429
+sequence:
+caTACTGTAGCAATCATCGGAGACCCGCCGCGCCCAGTTGACGATGTTGACCTGAAAGGGATCAACTTTGGGTCTCTACCAGAAAGTTTCTACAATGAATTTACTATATTTGAGaag
+sequence:
+HTVAIIGDPPRPVDDVDLKGINFGSLPESFYNEFTIFEK
+left = ag, right =gt, stop_counter = 0
+HTVAIIGDPPRPVDDVDLKGINFGSLPESFYNEFTIFEK
+[[0, 0]]
+start_coordinate : 61853,stop_coordinate : 61969
+3313 3429 Y N
+Philaethria_dido,,61853,61969,0,N,Nymphalis_io_XM_050489987.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Philaethria_dido
+Processing Exon_5
+Philaethria_dido_coordinates_Nymphalis_io.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 4588,4721
+after splice: 4588,4721
+sequence:
+GCTCCCAAACCAGAAGATTTAGGAGTGTTCTTAGAAAACGAAGATATTCGTATGATACGCTGGGTTGGAGGAGAAACTGCTGCCTTAAACCAAATGCAGAATCGCTTGGCGGTGGAGTATGAAACTTTTTGCAG
+sequence:
+APKPEDLGVFLENEDIRMIRWVGGETAALNQMQNRLAVEYETFC
+left = AG, right =GT, stop_counter = 0
+APKPEDLGVFLENEDIRMIRWVGGETAALNQMQNRLAVEYETFC
+[[0, 2]]
+start_coordinate : 63128,stop_coordinate : 63259
+4588 4721 Y N
+Philaethria_dido,,63128,63261,0,N,Nymphalis_io_XM_050489987.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Philaethria_dido
+Processing Exon_6
+Philaethria_dido_coordinates_Nymphalis_io.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 5376,5471
+after splice: 5376,5471
+sequence:
+GGATCTTATTTACCAACGCACGGTAATCCCGATTTACTGGGACCTCCCATATCCTTGAGTCCAGCTCTTCGATTTGGATGCCTTTCTGTACGacg
+sequence:
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+left = AG, right =gt, stop_counter = 0
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 63917,stop_coordinate : 64009
+5376 5471 Y N
+Philaethria_dido,,63916,64011,0,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Philaethria_dido
+Processing Exon_7
+Philaethria_dido_coordinates_Nymphalis_io.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 5681,5754
+after splice: 5681,5754
+sequence:
+ttttattggTGCGTCCAAGATTTGTTCCATCAAGTGAATCAGGGGCAACTCGCTTCTACTCAATTTATTACGG
+sequence:
+FYWCVQDLFHQVNQGQLASTQFIT
+left = ag, right =GT, stop_counter = 0
+FYWCVQDLFHQVNQGQLASTQFIT
+[[1, 1]]
+start_coordinate : 64222,stop_coordinate : 64293
+5681 5754 Y N
+Philaethria_dido,,64221,64294,0,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Philaethria_dido
+Processing Exon_8
+Philaethria_dido_coordinates_Nymphalis_io.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 6282,6408
+after splice: 6282,6408
+sequence:
+CAACTAATATGGCGTGAGTATTTCTACACGATGAGCGTGAACAATCCAAACTACGGACAAATGGGAAATAATCCCATATGCTTGAACATCCCTTGGAAAGAGCCTGAAGGTGATGAATTGGAGAG
+sequence:
+QLIWREYFYTMSVNNPNYGQMGNNPICLNIPWKEPEGDELE
+left = ag, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPNYGQMGNNPICLNIPWKEPEGDELE
+[[2, 2]]
+start_coordinate : 64824,stop_coordinate : 64946
+6282 6408 Y N
+Philaethria_dido,,64822,64948,0,N,Nymphalis_io_XM_050489987.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Philaethria_dido
+Processing Exon_9
+Philaethria_dido_coordinates_Nymphalis_io.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 7503,7685
+after splice: 7503,7685
+sequence:
+TGGTGCACGGGGCGCACGGGGTTCCCGTTCATCGACGCGGCCATGCGTCAGCTGCGCGCGGAGGGCTGGCTGCACCACGCCGCGCGCAACACCGTCGCGTCCTTCTTAACGCGCGGCACGCTGTGGCTGTCCTGGGAGCACGGCCTCAAACACTTCCTCAAGTACCTGCTGGACGCTGACTG
+sequence:
+WCTGRTGFPFIDAAMRQLRAEGWLHHAARNTVASFLTRGTLWLSWEHGLKHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WCTGRTGFPFIDAAMRQLRAEGWLHHAARNTVASFLTRGTLWLSWEHGLKHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 66044,stop_coordinate : 66223
+7503 7685 Y N
+Philaethria_dido,,66043,66225,0,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Philaethria_dido
+Processing Exon_10
+Philaethria_dido_coordinates_Nymphalis_io.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 8778,8945
+after splice: 8778,8945
+sequence:
+TCTGTATGCGCGGGCAACTGGATGTGGGTGTCGTCGTCCGCGTTCGAGGCGCTGCTGGACTCGGGCGAGTGCGCGTGCCCCGAGCGCCTCGGGCGGCGACTGGAGCCCTCCGGACACTACGTGCGCCGGTACGTGCCGGAACTCGCTAACATGCCTGTTGAGTATAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSGECACPERLGRRLEPSGHYVRRYVPELANMPVEY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSGECACPERLGRRLEPSGHYVRRYVPELANMPVEY
+[[1, 2]]
+start_coordinate : 67319,stop_coordinate : 67483
+8778 8945 Y N
+Philaethria_dido,,67318,67485,0,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Philaethria_dido
+Processing Exon_11
+Philaethria_dido_coordinates_Nymphalis_io.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 9941,10061
+after splice: 9941,10061
+sequence:
+TACTCCCCGTGGACGGCGCCGCTGGAGGTGCAGCAGCGCGCGGGCTGCGTGGTGGGGCGCGACTACCCGGCGCCCGTCGTCGACcaccgcgccgccgccgcccgcaaCCGCAGCGCCATG
+sequence:
+YSPWTAPLEVQQRAGCVVGRDYPAPVVDHRAAAARNRSAM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACTCCCCGTGGACGGCGCCGCTGGAGGTGCAGCAGCGCGCGGGCTGCGTGGTGGGGCGCGACTACCCGGCGCCCGTCGTCGACcaccgcgccgccgccgcccgcaaCCGCAGCGCCATGCAG
+sequence:
+YSPWTAPLEVQQRAGCVVGRDYPAPVVDHRAAAARNRSAMQ
+left = AG, right =GT, stop_counter = 0
+YSPWTAPLEVQQRAGCVVGRDYPAPVVDHRAAAARNRSAMQ
+[[1, 0]]
+start_coordinate : 68482,stop_coordinate : 68604
+9941 10064 Y N
+Philaethria_dido,,68481,68604,0,N,Nymphalis_io_XM_050489987.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Philaethria_dido
+Processing Exon_2
+0 query coordinate
+Philaethria_dido_coordinates_Nymphalis_io.csv
+47
+[[2, 1]]
+reached here
+Before splice: 918,1061
+after splice: 918,1061
+sequence:
+ACCAAAGTAGTTGGTTATAACCGCATGCGTTATCTCCTGGAGGCGCTGAACGATCTTGATGTCCAGTTTAGGAAGTATGGTGGGAGACTGCATATGATTAAGGGGAAGCCTGATGTGGTTTTCAAACGACTTTGGGAAGAAT
+sequence:
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEE
+left = AG, right =TT, stop_counter = 0
+sequence:
+ACCAAAGTAGTTGGTTATAACCGCATGCGTTATCTCCTGGAGGCGCTGAACGATCTTGATGTCCAGTTTAGGAAGTATGGTGGGAGACTGCATATGATTAAGGGGAAGCCTGATGTGGTTTTCAAACGACTTTGGGAAGAATTTG
+sequence:
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALNDLDVQFRKYGGRLHMIKGKPDVVFKRLWEEF
+[[2, 1]]
+start_coordinate : 59460,stop_coordinate : 59603
+918 1064 Y N
+Philaethria_dido,,59458,59604,0,N,Vanessa_tameamea_XM_026643186.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Philaethria_dido
+Processing Exon_3
+Philaethria_dido_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 2352,2539
+after splice: 2352,2539
+sequence:
+ATTCGTAAGATATGCTTCGAACAGGATTGCGAGCCTATATGGCGGACTCGCGACGATGGTGTGCGCTCCTTGTGTCGTGAGATAGGTGTCTCGTGTCGCGAACACGTGTCTCATACTCTGTGGGACCCCGACACTGTTATTAGAGCCAATGGTGGTATTCCGCCTTTGACGTATCAGATGTTTTTG
+sequence:
+IRKICFEQDCEPIWRTRDDGVRSLCREIGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+left = aG, right =GT, stop_counter = 0
+IRKICFEQDCEPIWRTRDDGVRSLCREIGVSCREHVSHTLWDPDTVIRANGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 60894,stop_coordinate : 61079
+2352 2539 Y N
+Philaethria_dido,,60892,61079,0,N,Vanessa_tameamea_XM_026643186.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Philaethria_dido
+Processing Exon_4
+Philaethria_dido_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+38
+[[0, 0]]
+reached here
+Before splice: 3313,3426
+after splice: 3313,3426
+sequence:
+caTACTGTAGCAATCATCGGAGACCCGCCGCGCCCAGTTGACGATGTTGACCTGAAAGGGATCAACTTTGGGTCTCTACCAGAAAGTTTCTACAATGAATTTACTATATTTGAG
+sequence:
+HTVAIIGDPPRPVDDVDLKGINFGSLPESFYNEFTIFE
+left = ag, right =aa, stop_counter = 0
+sequence:
+caTACTGTAGCAATCATCGGAGACCCGCCGCGCCCAGTTGACGATGTTGACCTGAAAGGGATCAACTTTGGGTCTCTACCAGAAAGTTTCTACAATGAATTTACTATATTTGAGaag
+sequence:
+HTVAIIGDPPRPVDDVDLKGINFGSLPESFYNEFTIFEK
+left = ag, right =gt, stop_counter = 0
+HTVAIIGDPPRPVDDVDLKGINFGSLPESFYNEFTIFEK
+[[0, 0]]
+start_coordinate : 61853,stop_coordinate : 61969
+3313 3429 Y N
+Philaethria_dido,,61853,61969,0,N,Vanessa_tameamea_XM_026643186.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Philaethria_dido
+Processing Exon_5
+Philaethria_dido_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 4588,4721
+after splice: 4588,4721
+sequence:
+GCTCCCAAACCAGAAGATTTAGGAGTGTTCTTAGAAAACGAAGATATTCGTATGATACGCTGGGTTGGAGGAGAAACTGCTGCCTTAAACCAAATGCAGAATCGCTTGGCGGTGGAGTATGAAACTTTTTGCAG
+sequence:
+APKPEDLGVFLENEDIRMIRWVGGETAALNQMQNRLAVEYETFC
+left = AG, right =GT, stop_counter = 0
+APKPEDLGVFLENEDIRMIRWVGGETAALNQMQNRLAVEYETFC
+[[0, 2]]
+start_coordinate : 63128,stop_coordinate : 63259
+4588 4721 Y N
+Philaethria_dido,,63128,63261,0,N,Vanessa_tameamea_XM_026643186.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Philaethria_dido
+Processing Exon_6
+Philaethria_dido_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 5376,5471
+after splice: 5376,5471
+sequence:
+GGATCTTATTTACCAACGCACGGTAATCCCGATTTACTGGGACCTCCCATATCCTTGAGTCCAGCTCTTCGATTTGGATGCCTTTCTGTACGacg
+sequence:
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+left = AG, right =gt, stop_counter = 0
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 63917,stop_coordinate : 64009
+5376 5471 Y N
+Philaethria_dido,,63916,64011,0,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Philaethria_dido
+Processing Exon_7
+Philaethria_dido_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 5681,5754
+after splice: 5681,5754
+sequence:
+ttttattggTGCGTCCAAGATTTGTTCCATCAAGTGAATCAGGGGCAACTCGCTTCTACTCAATTTATTACGG
+sequence:
+FYWCVQDLFHQVNQGQLASTQFIT
+left = ag, right =GT, stop_counter = 0
+FYWCVQDLFHQVNQGQLASTQFIT
+[[1, 1]]
+start_coordinate : 64222,stop_coordinate : 64293
+5681 5754 Y N
+Philaethria_dido,,64221,64294,0,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Philaethria_dido
+Processing Exon_8
+Philaethria_dido_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 6282,6408
+after splice: 6282,6408
+sequence:
+CAACTAATATGGCGTGAGTATTTCTACACGATGAGCGTGAACAATCCAAACTACGGACAAATGGGAAATAATCCCATATGCTTGAACATCCCTTGGAAAGAGCCTGAAGGTGATGAATTGGAGAG
+sequence:
+QLIWREYFYTMSVNNPNYGQMGNNPICLNIPWKEPEGDELE
+left = ag, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPNYGQMGNNPICLNIPWKEPEGDELE
+[[2, 2]]
+start_coordinate : 64824,stop_coordinate : 64946
+6282 6408 Y N
+Philaethria_dido,,64822,64948,0,N,Vanessa_tameamea_XM_026643186.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Philaethria_dido
+Processing Exon_9
+Philaethria_dido_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 7503,7685
+after splice: 7503,7685
+sequence:
+TGGTGCACGGGGCGCACGGGGTTCCCGTTCATCGACGCGGCCATGCGTCAGCTGCGCGCGGAGGGCTGGCTGCACCACGCCGCGCGCAACACCGTCGCGTCCTTCTTAACGCGCGGCACGCTGTGGCTGTCCTGGGAGCACGGCCTCAAACACTTCCTCAAGTACCTGCTGGACGCTGACTG
+sequence:
+WCTGRTGFPFIDAAMRQLRAEGWLHHAARNTVASFLTRGTLWLSWEHGLKHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WCTGRTGFPFIDAAMRQLRAEGWLHHAARNTVASFLTRGTLWLSWEHGLKHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 66044,stop_coordinate : 66223
+7503 7685 Y N
+Philaethria_dido,,66043,66225,0,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Philaethria_dido
+Processing Exon_10
+Philaethria_dido_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 8778,8945
+after splice: 8778,8945
+sequence:
+TCTGTATGCGCGGGCAACTGGATGTGGGTGTCGTCGTCCGCGTTCGAGGCGCTGCTGGACTCGGGCGAGTGCGCGTGCCCCGAGCGCCTCGGGCGGCGACTGGAGCCCTCCGGACACTACGTGCGCCGGTACGTGCCGGAACTCGCTAACATGCCTGTTGAGTATAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSGECACPERLGRRLEPSGHYVRRYVPELANMPVEY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSGECACPERLGRRLEPSGHYVRRYVPELANMPVEY
+[[1, 2]]
+start_coordinate : 67319,stop_coordinate : 67483
+8778 8945 Y N
+Philaethria_dido,,67318,67485,0,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Philaethria_dido
+Processing Exon_11
+Philaethria_dido_coordinates_Vanessa_tameamea.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 9941,10061
+after splice: 9941,10061
+sequence:
+TACTCCCCGTGGACGGCGCCGCTGGAGGTGCAGCAGCGCGCGGGCTGCGTGGTGGGGCGCGACTACCCGGCGCCCGTCGTCGACcaccgcgccgccgccgcccgcaaCCGCAGCGCCATG
+sequence:
+YSPWTAPLEVQQRAGCVVGRDYPAPVVDHRAAAARNRSAM
+left = AG, right =CA, stop_counter = 0
+sequence:
+TACTCCCCGTGGACGGCGCCGCTGGAGGTGCAGCAGCGCGCGGGCTGCGTGGTGGGGCGCGACTACCCGGCGCCCGTCGTCGACcaccgcgccgccgccgcccgcaaCCGCAGCGCCATGCAG
+sequence:
+YSPWTAPLEVQQRAGCVVGRDYPAPVVDHRAAAARNRSAMQ
+left = AG, right =GT, stop_counter = 0
+YSPWTAPLEVQQRAGCVVGRDYPAPVVDHRAAAARNRSAMQ
+[[1, 0]]
+start_coordinate : 68482,stop_coordinate : 68604
+9941 10064 Y N
+Philaethria_dido,,68481,68604,0,N,Vanessa_tameamea_XM_026643186.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+

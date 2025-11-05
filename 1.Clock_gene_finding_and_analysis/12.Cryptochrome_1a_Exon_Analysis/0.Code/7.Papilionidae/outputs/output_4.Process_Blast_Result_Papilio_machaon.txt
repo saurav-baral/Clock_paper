@@ -1,0 +1,825 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Papilio_machaon
+Processing Exon_2
+0 query coordinate
+Period_gene_genomic_sequence_individual_exon
+48
+[[2, 1]]
+reached here
+Before splice: 386,532
+after splice: 386,532
+sequence:
+ACGAAGGTTGTGGGGTACAATCGTATGCGATACCTTCTGGAAGCACTCGAGGACTTGGACAATCAGTTTAAGAAGTATGGCGGCCGGCTCATCATGGTGAAGGGCACGCCGCATGTCATCTTCCGGCGTCTGTGGGAGGAATTCG
+sequence:
+TKVVGYNRMRYLLEALEDLDNQFKKYGGRLIMVKGTPHVIFRRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALEDLDNQFKKYGGRLIMVKGTPHVIFRRLWEEF
+[[2, 1]]
+start_coordinate : 1374114,stop_coordinate : 1373971
+386 532 Y N
+Papilio_machaon,,1373970,1374116,1,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Papilio_machaon
+Processing Exon_3
+Papilio_machaon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 888,1075
+after splice: 888,1075
+sequence:
+ATAAGTAAGCTGTGCTTCGAGCAGGACTGTGAGCCGGTGTGGCGCGCACGCGATGACGCGGTGAAGTCGACGTGTCGCGAGATTGGGGTCGTGTGTCGCGAGCACGTGTCCCACACGTTGTGGGAGCCCGACACCGTCATACGATACAATGGGGGAATCCCACCTCTCACATATCAGATGTTTCTG
+sequence:
+ISKLCFEQDCEPVWRARDDAVKSTCREIGVVCREHVSHTLWEPDTVIRYNGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+ISKLCFEQDCEPVWRARDDAVKSTCREIGVVCREHVSHTLWEPDTVIRYNGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 1373612,stop_coordinate : 1373427
+888 1075 Y N
+Papilio_machaon,,1373427,1373614,1,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Papilio_machaon
+Processing Exon_4
+Papilio_machaon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 1425,1541
+after splice: 1425,1541
+sequence:
+caTACGGTGTCGACGATCGGGGACCCGCCGCGTCCCGTCAGCGATTTGGACCTCACCGGGGTGAACTTCGGCGTGTTGCCCGACACCTTCTACCAGGAGTTCACGGTCTTCGATAAA
+sequence:
+HTVSTIGDPPRPVSDLDLTGVNFGVLPDTFYQEFTVFDK
+left = ag, right =GT, stop_counter = 0
+HTVSTIGDPPRPVSDLDLTGVNFGVLPDTFYQEFTVFDK
+[[0, 0]]
+start_coordinate : 1373077,stop_coordinate : 1372961
+1425 1541 Y N
+Papilio_machaon,,1372961,1373077,1,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Papilio_machaon
+Processing Exon_5
+Papilio_machaon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 1718,1851
+after splice: 1718,1851
+sequence:
+GTACCGAAGCCGGAGGAGCTGGACGTGCACCTGGAGCGCGAGGACATCCGCATGATCCGCTGGGTGGGAGGAGAGACTGCTGCGCTGCACCAGATGCAGCAGCGTCTGCAGGTTGAGTACGAGACATTCTGCAG
+sequence:
+VPKPEELDVHLEREDIRMIRWVGGETAALHQMQQRLQVEYETFC
+left = AG, right =GT, stop_counter = 0
+VPKPEELDVHLEREDIRMIRWVGGETAALHQMQQRLQVEYETFC
+[[0, 2]]
+start_coordinate : 1372784,stop_coordinate : 1372653
+1718 1851 Y N
+Papilio_machaon,,1372651,1372784,1,N,Danaus_plexippus_XM_032666711.2_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Papilio_machaon
+Processing Exon_6
+Papilio_machaon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 1991,2086
+after splice: 1991,2086
+sequence:
+GGCTCGTACCTTCCAACTCACGGCAACCCGGACCTTTTGGGCCCGCCGATATCGCTAAGTCCGGCTTTACGATTCggatgtctgtctgtccgtag
+sequence:
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+left = AG, right =GT, stop_counter = 0
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 1372510,stop_coordinate : 1372418
+1991 2086 Y N
+Papilio_machaon,,1372416,1372511,1,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Papilio_machaon
+Processing Exon_7
+Papilio_machaon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 2629,2702
+after splice: 2629,2702
+sequence:
+TTCTATTGGGCTTTACAAGATTTGTTCCAGCAAGTGCACCAAGGCCGGCTCTCTAGTGGTCATTTTATTACAG
+sequence:
+FYWALQDLFQQVHQGRLSSGHFIT
+left = AG, right =GT, stop_counter = 0
+FYWALQDLFQQVHQGRLSSGHFIT
+[[1, 1]]
+start_coordinate : 1371872,stop_coordinate : 1371801
+2629 2702 Y N
+Papilio_machaon,,1371800,1371873,1,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Papilio_machaon
+Processing Exon_8
+Papilio_machaon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 2817,2943
+after splice: 2817,2943
+sequence:
+CAGCTGATTTGGCGCGAATATTTTTACACGATGAGTGTAAACAATCCAAATTACGGGAAAATGAGCGGGAACTCCATCTGTCTTGATATACCCTGGAAGAATCCTGAAGGAGATGAATTGACTAA
+sequence:
+QLIWREYFYTMSVNNPNYGKMSGNSICLDIPWKNPEGDELT
+left = AG, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPNYGKMSGNSICLDIPWKNPEGDELT
+[[2, 2]]
+start_coordinate : 1371683,stop_coordinate : 1371561
+2817 2943 Y N
+Papilio_machaon,,1371559,1371685,1,N,Danaus_plexippus_XM_032666711.2_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Papilio_machaon
+Processing Exon_9
+Papilio_machaon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 3434,3616
+after splice: 3434,3616
+sequence:
+TGGACAGAGGGTCGCACTGGGTTCCCTTTCATCGACGCGGCGATGCGGCAGCTGCGGTCTGAGGGCTGGCTGCACCACGTGCTGCGCAACACTGTGGCCTCCTTCCTCACACGCGGCACGCTCTGGCTCTCCTGGGAACACGGCCTCGACCACTTCCTCAAGTATCTGCTCGACGCCGACTG
+sequence:
+WTEGRTGFPFIDAAMRQLRSEGWLHHVLRNTVASFLTRGTLWLSWEHGLDHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WTEGRTGFPFIDAAMRQLRSEGWLHHVLRNTVASFLTRGTLWLSWEHGLDHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 1371067,stop_coordinate : 1370888
+3434 3616 Y N
+Papilio_machaon,,1370886,1371068,1,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Papilio_machaon
+Processing Exon_10
+Papilio_machaon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 3727,3894
+after splice: 3727,3894
+sequence:
+TCAGTGTGCGCGGGCAACTGGATGTGGGTGTCGTCGTCGGCGTTCGAGGCGCTTCTGGACTCGAGCGAGTGCGCTTGCCCCGTGCGCCTGGGCCGCCGACTCGACCCCGACGGCGAGTACGTGCGCCGCTACGTGCCCGAGCTGGCGCGCGTGCCAGTGCAGTACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSSECACPVRLGRRLDPDGEYVRRYVPELARVPVQY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSSECACPVRLGRRLDPDGEYVRRYVPELARVPVQY
+[[1, 2]]
+start_coordinate : 1370774,stop_coordinate : 1370610
+3727 3894 Y N
+Papilio_machaon,,1370608,1370775,1,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Papilio_machaon
+Processing Exon_11
+Papilio_machaon_coordinates_Danaus_plexippus.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 5528,5648
+after splice: 5528,5648
+sequence:
+TACGAGCCATGGAAGGCTCCGATCGACGTGCAGGAGCGCGCCAACTGTATCATCGGCAAGGACTACCCCGCGCCAATGGTCAATCATCTCGACGCCGCCGCACGCAACAAGAACAATATG
+sequence:
+YEPWKAPIDVQERANCIIGKDYPAPMVNHLDAAARNKNNM
+left = AG, right =AA, stop_counter = 0
+sequence:
+TACGAGCCATGGAAGGCTCCGATCGACGTGCAGGAGCGCGCCAACTGTATCATCGGCAAGGACTACCCCGCGCCAATGGTCAATCATCTCGACGCCGCCGCACGCAACAAGAACAATATGAAG
+sequence:
+YEPWKAPIDVQERANCIIGKDYPAPMVNHLDAAARNKNNMK
+left = AG, right =GT, stop_counter = 0
+YEPWKAPIDVQERANCIIGKDYPAPMVNHLDAAARNKNNMK
+[[1, 0]]
+start_coordinate : 1368973,stop_coordinate : 1368851
+5528 5651 Y N
+Papilio_machaon,,1368851,1368974,1,N,Danaus_plexippus_XM_032666711.2_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Papilio_machaon
+Processing Exon_2
+0 query coordinate
+Papilio_machaon_coordinates_Danaus_plexippus.csv
+48
+[[2, 1]]
+reached here
+Before splice: 386,532
+after splice: 386,532
+sequence:
+ACGAAGGTTGTGGGGTACAATCGTATGCGATACCTTCTGGAAGCACTCGAGGACTTGGACAATCAGTTTAAGAAGTATGGCGGCCGGCTCATCATGGTGAAGGGCACGCCGCATGTCATCTTCCGGCGTCTGTGGGAGGAATTCG
+sequence:
+TKVVGYNRMRYLLEALEDLDNQFKKYGGRLIMVKGTPHVIFRRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALEDLDNQFKKYGGRLIMVKGTPHVIFRRLWEEF
+[[2, 1]]
+start_coordinate : 1374114,stop_coordinate : 1373971
+386 532 Y N
+Papilio_machaon,,1373970,1374116,1,N,Papilio_machaon_XM_014499499.2_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Papilio_machaon
+Processing Exon_3
+Papilio_machaon_coordinates_Papilio_machaon.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 888,1075
+after splice: 888,1075
+sequence:
+ATAAGTAAGCTGTGCTTCGAGCAGGACTGTGAGCCGGTGTGGCGCGCACGCGATGACGCGGTGAAGTCGACGTGTCGCGAGATTGGGGTCGTGTGTCGCGAGCACGTGTCCCACACGTTGTGGGAGCCCGACACCGTCATACGATACAATGGGGGAATCCCACCTCTCACATATCAGATGTTTCTG
+sequence:
+ISKLCFEQDCEPVWRARDDAVKSTCREIGVVCREHVSHTLWEPDTVIRYNGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+ISKLCFEQDCEPVWRARDDAVKSTCREIGVVCREHVSHTLWEPDTVIRYNGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 1373612,stop_coordinate : 1373427
+888 1075 Y N
+Papilio_machaon,,1373427,1373614,1,N,Papilio_machaon_XM_014499499.2_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Papilio_machaon
+Processing Exon_4
+Papilio_machaon_coordinates_Papilio_machaon.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 1425,1541
+after splice: 1425,1541
+sequence:
+caTACGGTGTCGACGATCGGGGACCCGCCGCGTCCCGTCAGCGATTTGGACCTCACCGGGGTGAACTTCGGCGTGTTGCCCGACACCTTCTACCAGGAGTTCACGGTCTTCGATAAA
+sequence:
+HTVSTIGDPPRPVSDLDLTGVNFGVLPDTFYQEFTVFDK
+left = ag, right =GT, stop_counter = 0
+HTVSTIGDPPRPVSDLDLTGVNFGVLPDTFYQEFTVFDK
+[[0, 0]]
+start_coordinate : 1373077,stop_coordinate : 1372961
+1425 1541 Y N
+Papilio_machaon,,1372961,1373077,1,N,Papilio_machaon_XM_014499499.2_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Papilio_machaon
+Processing Exon_5
+Papilio_machaon_coordinates_Papilio_machaon.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 1718,1851
+after splice: 1718,1851
+sequence:
+GTACCGAAGCCGGAGGAGCTGGACGTGCACCTGGAGCGCGAGGACATCCGCATGATCCGCTGGGTGGGAGGAGAGACTGCTGCGCTGCACCAGATGCAGCAGCGTCTGCAGGTTGAGTACGAGACATTCTGCAG
+sequence:
+VPKPEELDVHLEREDIRMIRWVGGETAALHQMQQRLQVEYETFC
+left = AG, right =GT, stop_counter = 0
+VPKPEELDVHLEREDIRMIRWVGGETAALHQMQQRLQVEYETFC
+[[0, 2]]
+start_coordinate : 1372784,stop_coordinate : 1372653
+1718 1851 Y N
+Papilio_machaon,,1372651,1372784,1,N,Papilio_machaon_XM_014499499.2_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Papilio_machaon
+Processing Exon_6
+Papilio_machaon_coordinates_Papilio_machaon.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 1991,2086
+after splice: 1991,2086
+sequence:
+GGCTCGTACCTTCCAACTCACGGCAACCCGGACCTTTTGGGCCCGCCGATATCGCTAAGTCCGGCTTTACGATTCggatgtctgtctgtccgtag
+sequence:
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+left = AG, right =GT, stop_counter = 0
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 1372510,stop_coordinate : 1372418
+1991 2086 Y N
+Papilio_machaon,,1372416,1372511,1,N,Papilio_machaon_XM_014499499.2_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Papilio_machaon
+Processing Exon_7
+Papilio_machaon_coordinates_Papilio_machaon.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 2629,2702
+after splice: 2629,2702
+sequence:
+TTCTATTGGGCTTTACAAGATTTGTTCCAGCAAGTGCACCAAGGCCGGCTCTCTAGTGGTCATTTTATTACAG
+sequence:
+FYWALQDLFQQVHQGRLSSGHFIT
+left = AG, right =GT, stop_counter = 0
+FYWALQDLFQQVHQGRLSSGHFIT
+[[1, 1]]
+start_coordinate : 1371872,stop_coordinate : 1371801
+2629 2702 Y N
+Papilio_machaon,,1371800,1371873,1,N,Papilio_machaon_XM_014499499.2_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Papilio_machaon
+Processing Exon_8
+Papilio_machaon_coordinates_Papilio_machaon.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 2817,2943
+after splice: 2817,2943
+sequence:
+CAGCTGATTTGGCGCGAATATTTTTACACGATGAGTGTAAACAATCCAAATTACGGGAAAATGAGCGGGAACTCCATCTGTCTTGATATACCCTGGAAGAATCCTGAAGGAGATGAATTGACTAA
+sequence:
+QLIWREYFYTMSVNNPNYGKMSGNSICLDIPWKNPEGDELT
+left = AG, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPNYGKMSGNSICLDIPWKNPEGDELT
+[[2, 2]]
+start_coordinate : 1371683,stop_coordinate : 1371561
+2817 2943 Y N
+Papilio_machaon,,1371559,1371685,1,N,Papilio_machaon_XM_014499499.2_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Papilio_machaon
+Processing Exon_9
+Papilio_machaon_coordinates_Papilio_machaon.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 3434,3616
+after splice: 3434,3616
+sequence:
+TGGACAGAGGGTCGCACTGGGTTCCCTTTCATCGACGCGGCGATGCGGCAGCTGCGGTCTGAGGGCTGGCTGCACCACGTGCTGCGCAACACTGTGGCCTCCTTCCTCACACGCGGCACGCTCTGGCTCTCCTGGGAACACGGCCTCGACCACTTCCTCAAGTATCTGCTCGACGCCGACTG
+sequence:
+WTEGRTGFPFIDAAMRQLRSEGWLHHVLRNTVASFLTRGTLWLSWEHGLDHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WTEGRTGFPFIDAAMRQLRSEGWLHHVLRNTVASFLTRGTLWLSWEHGLDHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 1371067,stop_coordinate : 1370888
+3434 3616 Y N
+Papilio_machaon,,1370886,1371068,1,N,Papilio_machaon_XM_014499499.2_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Papilio_machaon
+Processing Exon_10
+Papilio_machaon_coordinates_Papilio_machaon.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 3727,3894
+after splice: 3727,3894
+sequence:
+TCAGTGTGCGCGGGCAACTGGATGTGGGTGTCGTCGTCGGCGTTCGAGGCGCTTCTGGACTCGAGCGAGTGCGCTTGCCCCGTGCGCCTGGGCCGCCGACTCGACCCCGACGGCGAGTACGTGCGCCGCTACGTGCCCGAGCTGGCGCGCGTGCCAGTGCAGTACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSSECACPVRLGRRLDPDGEYVRRYVPELARVPVQY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSSECACPVRLGRRLDPDGEYVRRYVPELARVPVQY
+[[1, 2]]
+start_coordinate : 1370774,stop_coordinate : 1370610
+3727 3894 Y N
+Papilio_machaon,,1370608,1370775,1,N,Papilio_machaon_XM_014499499.2_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Papilio_machaon
+Processing Exon_11
+Papilio_machaon_coordinates_Papilio_machaon.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 5528,5648
+after splice: 5528,5648
+sequence:
+TACGAGCCATGGAAGGCTCCGATCGACGTGCAGGAGCGCGCCAACTGTATCATCGGCAAGGACTACCCCGCGCCAATGGTCAATCATCTCGACGCCGCCGCACGCAACAAGAACAATATG
+sequence:
+YEPWKAPIDVQERANCIIGKDYPAPMVNHLDAAARNKNNM
+left = AG, right =AA, stop_counter = 0
+sequence:
+TACGAGCCATGGAAGGCTCCGATCGACGTGCAGGAGCGCGCCAACTGTATCATCGGCAAGGACTACCCCGCGCCAATGGTCAATCATCTCGACGCCGCCGCACGCAACAAGAACAATATGAAG
+sequence:
+YEPWKAPIDVQERANCIIGKDYPAPMVNHLDAAARNKNNMK
+left = AG, right =GT, stop_counter = 0
+YEPWKAPIDVQERANCIIGKDYPAPMVNHLDAAARNKNNMK
+[[1, 0]]
+start_coordinate : 1368973,stop_coordinate : 1368851
+5528 5651 Y N
+Papilio_machaon,,1368851,1368974,1,N,Papilio_machaon_XM_014499499.2_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Papilio_machaon
+Processing Exon_2
+0 query coordinate
+Papilio_machaon_coordinates_Papilio_machaon.csv
+48
+[[2, 1]]
+reached here
+Before splice: 386,532
+after splice: 386,532
+sequence:
+ACGAAGGTTGTGGGGTACAATCGTATGCGATACCTTCTGGAAGCACTCGAGGACTTGGACAATCAGTTTAAGAAGTATGGCGGCCGGCTCATCATGGTGAAGGGCACGCCGCATGTCATCTTCCGGCGTCTGTGGGAGGAATTCG
+sequence:
+TKVVGYNRMRYLLEALEDLDNQFKKYGGRLIMVKGTPHVIFRRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALEDLDNQFKKYGGRLIMVKGTPHVIFRRLWEEF
+[[2, 1]]
+start_coordinate : 1374114,stop_coordinate : 1373971
+386 532 Y N
+Papilio_machaon,,1373970,1374116,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Papilio_machaon
+Processing Exon_3
+Papilio_machaon_coordinates_Papilio_xuthus.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 888,1075
+after splice: 888,1075
+sequence:
+ATAAGTAAGCTGTGCTTCGAGCAGGACTGTGAGCCGGTGTGGCGCGCACGCGATGACGCGGTGAAGTCGACGTGTCGCGAGATTGGGGTCGTGTGTCGCGAGCACGTGTCCCACACGTTGTGGGAGCCCGACACCGTCATACGATACAATGGGGGAATCCCACCTCTCACATATCAGATGTTTCTG
+sequence:
+ISKLCFEQDCEPVWRARDDAVKSTCREIGVVCREHVSHTLWEPDTVIRYNGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+ISKLCFEQDCEPVWRARDDAVKSTCREIGVVCREHVSHTLWEPDTVIRYNGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 1373612,stop_coordinate : 1373427
+888 1075 Y N
+Papilio_machaon,,1373427,1373614,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Papilio_machaon
+Processing Exon_4
+Papilio_machaon_coordinates_Papilio_xuthus.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 1425,1541
+after splice: 1425,1541
+sequence:
+caTACGGTGTCGACGATCGGGGACCCGCCGCGTCCCGTCAGCGATTTGGACCTCACCGGGGTGAACTTCGGCGTGTTGCCCGACACCTTCTACCAGGAGTTCACGGTCTTCGATAAA
+sequence:
+HTVSTIGDPPRPVSDLDLTGVNFGVLPDTFYQEFTVFDK
+left = ag, right =GT, stop_counter = 0
+HTVSTIGDPPRPVSDLDLTGVNFGVLPDTFYQEFTVFDK
+[[0, 0]]
+start_coordinate : 1373077,stop_coordinate : 1372961
+1425 1541 Y N
+Papilio_machaon,,1372961,1373077,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Papilio_machaon
+Processing Exon_5
+Papilio_machaon_coordinates_Papilio_xuthus.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 1718,1851
+after splice: 1718,1851
+sequence:
+GTACCGAAGCCGGAGGAGCTGGACGTGCACCTGGAGCGCGAGGACATCCGCATGATCCGCTGGGTGGGAGGAGAGACTGCTGCGCTGCACCAGATGCAGCAGCGTCTGCAGGTTGAGTACGAGACATTCTGCAG
+sequence:
+VPKPEELDVHLEREDIRMIRWVGGETAALHQMQQRLQVEYETFC
+left = AG, right =GT, stop_counter = 0
+VPKPEELDVHLEREDIRMIRWVGGETAALHQMQQRLQVEYETFC
+[[0, 2]]
+start_coordinate : 1372784,stop_coordinate : 1372653
+1718 1851 Y N
+Papilio_machaon,,1372651,1372784,1,N,Papilio_xuthus_XM_013317177.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Papilio_machaon
+Processing Exon_6
+Papilio_machaon_coordinates_Papilio_xuthus.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 1991,2086
+after splice: 1991,2086
+sequence:
+GGCTCGTACCTTCCAACTCACGGCAACCCGGACCTTTTGGGCCCGCCGATATCGCTAAGTCCGGCTTTACGATTCggatgtctgtctgtccgtag
+sequence:
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+left = AG, right =GT, stop_counter = 0
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 1372510,stop_coordinate : 1372418
+1991 2086 Y N
+Papilio_machaon,,1372416,1372511,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Papilio_machaon
+Processing Exon_7
+Papilio_machaon_coordinates_Papilio_xuthus.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 2629,2702
+after splice: 2629,2702
+sequence:
+TTCTATTGGGCTTTACAAGATTTGTTCCAGCAAGTGCACCAAGGCCGGCTCTCTAGTGGTCATTTTATTACAG
+sequence:
+FYWALQDLFQQVHQGRLSSGHFIT
+left = AG, right =GT, stop_counter = 0
+FYWALQDLFQQVHQGRLSSGHFIT
+[[1, 1]]
+start_coordinate : 1371872,stop_coordinate : 1371801
+2629 2702 Y N
+Papilio_machaon,,1371800,1371873,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Papilio_machaon
+Processing Exon_8
+Papilio_machaon_coordinates_Papilio_xuthus.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 2817,2943
+after splice: 2817,2943
+sequence:
+CAGCTGATTTGGCGCGAATATTTTTACACGATGAGTGTAAACAATCCAAATTACGGGAAAATGAGCGGGAACTCCATCTGTCTTGATATACCCTGGAAGAATCCTGAAGGAGATGAATTGACTAA
+sequence:
+QLIWREYFYTMSVNNPNYGKMSGNSICLDIPWKNPEGDELT
+left = AG, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPNYGKMSGNSICLDIPWKNPEGDELT
+[[2, 2]]
+start_coordinate : 1371683,stop_coordinate : 1371561
+2817 2943 Y N
+Papilio_machaon,,1371559,1371685,1,N,Papilio_xuthus_XM_013317177.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Papilio_machaon
+Processing Exon_9
+Papilio_machaon_coordinates_Papilio_xuthus.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 3434,3616
+after splice: 3434,3616
+sequence:
+TGGACAGAGGGTCGCACTGGGTTCCCTTTCATCGACGCGGCGATGCGGCAGCTGCGGTCTGAGGGCTGGCTGCACCACGTGCTGCGCAACACTGTGGCCTCCTTCCTCACACGCGGCACGCTCTGGCTCTCCTGGGAACACGGCCTCGACCACTTCCTCAAGTATCTGCTCGACGCCGACTG
+sequence:
+WTEGRTGFPFIDAAMRQLRSEGWLHHVLRNTVASFLTRGTLWLSWEHGLDHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WTEGRTGFPFIDAAMRQLRSEGWLHHVLRNTVASFLTRGTLWLSWEHGLDHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 1371067,stop_coordinate : 1370888
+3434 3616 Y N
+Papilio_machaon,,1370886,1371068,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Papilio_machaon
+Processing Exon_10
+Papilio_machaon_coordinates_Papilio_xuthus.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 3727,3894
+after splice: 3727,3894
+sequence:
+TCAGTGTGCGCGGGCAACTGGATGTGGGTGTCGTCGTCGGCGTTCGAGGCGCTTCTGGACTCGAGCGAGTGCGCTTGCCCCGTGCGCCTGGGCCGCCGACTCGACCCCGACGGCGAGTACGTGCGCCGCTACGTGCCCGAGCTGGCGCGCGTGCCAGTGCAGTACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSSECACPVRLGRRLDPDGEYVRRYVPELARVPVQY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSSECACPVRLGRRLDPDGEYVRRYVPELARVPVQY
+[[1, 2]]
+start_coordinate : 1370774,stop_coordinate : 1370610
+3727 3894 Y N
+Papilio_machaon,,1370608,1370775,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Papilio_machaon
+Processing Exon_11
+Papilio_machaon_coordinates_Papilio_xuthus.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 5528,5648
+after splice: 5528,5648
+sequence:
+TACGAGCCATGGAAGGCTCCGATCGACGTGCAGGAGCGCGCCAACTGTATCATCGGCAAGGACTACCCCGCGCCAATGGTCAATCATCTCGACGCCGCCGCACGCAACAAGAACAATATG
+sequence:
+YEPWKAPIDVQERANCIIGKDYPAPMVNHLDAAARNKNNM
+left = AG, right =AA, stop_counter = 0
+sequence:
+TACGAGCCATGGAAGGCTCCGATCGACGTGCAGGAGCGCGCCAACTGTATCATCGGCAAGGACTACCCCGCGCCAATGGTCAATCATCTCGACGCCGCCGCACGCAACAAGAACAATATGAAG
+sequence:
+YEPWKAPIDVQERANCIIGKDYPAPMVNHLDAAARNKNNMK
+left = AG, right =GT, stop_counter = 0
+YEPWKAPIDVQERANCIIGKDYPAPMVNHLDAAARNKNNMK
+[[1, 0]]
+start_coordinate : 1368973,stop_coordinate : 1368851
+5528 5651 Y N
+Papilio_machaon,,1368851,1368974,1,N,Papilio_xuthus_XM_013317177.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11']
+Papilio_machaon
+Processing Exon_2
+0 query coordinate
+Papilio_machaon_coordinates_Papilio_xuthus.csv
+48
+[[2, 1]]
+reached here
+Before splice: 386,532
+after splice: 386,532
+sequence:
+ACGAAGGTTGTGGGGTACAATCGTATGCGATACCTTCTGGAAGCACTCGAGGACTTGGACAATCAGTTTAAGAAGTATGGCGGCCGGCTCATCATGGTGAAGGGCACGCCGCATGTCATCTTCCGGCGTCTGTGGGAGGAATTCG
+sequence:
+TKVVGYNRMRYLLEALEDLDNQFKKYGGRLIMVKGTPHVIFRRLWEEF
+left = AG, right =GT, stop_counter = 0
+TKVVGYNRMRYLLEALEDLDNQFKKYGGRLIMVKGTPHVIFRRLWEEF
+[[2, 1]]
+start_coordinate : 1374114,stop_coordinate : 1373971
+386 532 Y N
+Papilio_machaon,,1373970,1374116,1,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_1_query_Exon_2,1,48,48,Y,N
+
+Papilio_machaon
+Processing Exon_3
+Papilio_machaon_coordinates_Zerene_cesonia.csv
+1 query coordinate
+62
+[[2, 0]]
+reached here
+Before splice: 888,1075
+after splice: 888,1075
+sequence:
+ATAAGTAAGCTGTGCTTCGAGCAGGACTGTGAGCCGGTGTGGCGCGCACGCGATGACGCGGTGAAGTCGACGTGTCGCGAGATTGGGGTCGTGTGTCGCGAGCACGTGTCCCACACGTTGTGGGAGCCCGACACCGTCATACGATACAATGGGGGAATCCCACCTCTCACATATCAGATGTTTCTG
+sequence:
+ISKLCFEQDCEPVWRARDDAVKSTCREIGVVCREHVSHTLWEPDTVIRYNGGIPPLTYQMFL
+left = AG, right =GT, stop_counter = 0
+ISKLCFEQDCEPVWRARDDAVKSTCREIGVVCREHVSHTLWEPDTVIRYNGGIPPLTYQMFL
+[[2, 0]]
+start_coordinate : 1373612,stop_coordinate : 1373427
+888 1075 Y N
+Papilio_machaon,,1373427,1373614,1,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_0_query_Exon_3,1,62,62,Y,N
+
+Papilio_machaon
+Processing Exon_4
+Papilio_machaon_coordinates_Zerene_cesonia.csv
+1 query coordinate
+39
+[[0, 0]]
+reached here
+Before splice: 1425,1541
+after splice: 1425,1541
+sequence:
+caTACGGTGTCGACGATCGGGGACCCGCCGCGTCCCGTCAGCGATTTGGACCTCACCGGGGTGAACTTCGGCGTGTTGCCCGACACCTTCTACCAGGAGTTCACGGTCTTCGATAAA
+sequence:
+HTVSTIGDPPRPVSDLDLTGVNFGVLPDTFYQEFTVFDK
+left = ag, right =GT, stop_counter = 0
+HTVSTIGDPPRPVSDLDLTGVNFGVLPDTFYQEFTVFDK
+[[0, 0]]
+start_coordinate : 1373077,stop_coordinate : 1372961
+1425 1541 Y N
+Papilio_machaon,,1372961,1373077,1,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_0_query_Exon_4,1,39,39,Y,N
+
+Papilio_machaon
+Processing Exon_5
+Papilio_machaon_coordinates_Zerene_cesonia.csv
+1 query coordinate
+44
+[[0, 2]]
+reached here
+Before splice: 1718,1851
+after splice: 1718,1851
+sequence:
+GTACCGAAGCCGGAGGAGCTGGACGTGCACCTGGAGCGCGAGGACATCCGCATGATCCGCTGGGTGGGAGGAGAGACTGCTGCGCTGCACCAGATGCAGCAGCGTCTGCAGGTTGAGTACGAGACATTCTGCAG
+sequence:
+VPKPEELDVHLEREDIRMIRWVGGETAALHQMQQRLQVEYETFC
+left = AG, right =GT, stop_counter = 0
+VPKPEELDVHLEREDIRMIRWVGGETAALHQMQQRLQVEYETFC
+[[0, 2]]
+start_coordinate : 1372784,stop_coordinate : 1372653
+1718 1851 Y N
+Papilio_machaon,,1372651,1372784,1,N,Zerene_cesonia_XM_038356442.1_Frame_0_rightoh_2_query_Exon_5,1,44,44,Y,N
+
+Papilio_machaon
+Processing Exon_6
+Papilio_machaon_coordinates_Zerene_cesonia.csv
+1 query coordinate
+31
+[[1, 2]]
+reached here
+Before splice: 1991,2086
+after splice: 1991,2086
+sequence:
+GGCTCGTACCTTCCAACTCACGGCAACCCGGACCTTTTGGGCCCGCCGATATCGCTAAGTCCGGCTTTACGATTCggatgtctgtctgtccgtag
+sequence:
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+left = AG, right =GT, stop_counter = 0
+GSYLPTHGNPDLLGPPISLSPALRFGCLSVR
+[[1, 2]]
+start_coordinate : 1372510,stop_coordinate : 1372418
+1991 2086 Y N
+Papilio_machaon,,1372416,1372511,1,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_6,1,31,31,Y,N
+
+Papilio_machaon
+Processing Exon_7
+Papilio_machaon_coordinates_Zerene_cesonia.csv
+1 query coordinate
+24
+[[1, 1]]
+reached here
+Before splice: 2629,2702
+after splice: 2629,2702
+sequence:
+TTCTATTGGGCTTTACAAGATTTGTTCCAGCAAGTGCACCAAGGCCGGCTCTCTAGTGGTCATTTTATTACAG
+sequence:
+FYWALQDLFQQVHQGRLSSGHFIT
+left = AG, right =GT, stop_counter = 0
+FYWALQDLFQQVHQGRLSSGHFIT
+[[1, 1]]
+start_coordinate : 1371872,stop_coordinate : 1371801
+2629 2702 Y N
+Papilio_machaon,,1371800,1371873,1,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_1_query_Exon_7,1,24,24,Y,N
+
+Papilio_machaon
+Processing Exon_8
+Papilio_machaon_coordinates_Zerene_cesonia.csv
+1 query coordinate
+41
+[[2, 2]]
+reached here
+Before splice: 2817,2943
+after splice: 2817,2943
+sequence:
+CAGCTGATTTGGCGCGAATATTTTTACACGATGAGTGTAAACAATCCAAATTACGGGAAAATGAGCGGGAACTCCATCTGTCTTGATATACCCTGGAAGAATCCTGAAGGAGATGAATTGACTAA
+sequence:
+QLIWREYFYTMSVNNPNYGKMSGNSICLDIPWKNPEGDELT
+left = AG, right =GT, stop_counter = 0
+QLIWREYFYTMSVNNPNYGKMSGNSICLDIPWKNPEGDELT
+[[2, 2]]
+start_coordinate : 1371683,stop_coordinate : 1371561
+2817 2943 Y N
+Papilio_machaon,,1371559,1371685,1,N,Zerene_cesonia_XM_038356442.1_Frame_2_rightoh_2_query_Exon_8,1,41,41,Y,N
+
+Papilio_machaon
+Processing Exon_9
+Papilio_machaon_coordinates_Zerene_cesonia.csv
+1 query coordinate
+60
+[[1, 2]]
+reached here
+Before splice: 3434,3616
+after splice: 3434,3616
+sequence:
+TGGACAGAGGGTCGCACTGGGTTCCCTTTCATCGACGCGGCGATGCGGCAGCTGCGGTCTGAGGGCTGGCTGCACCACGTGCTGCGCAACACTGTGGCCTCCTTCCTCACACGCGGCACGCTCTGGCTCTCCTGGGAACACGGCCTCGACCACTTCCTCAAGTATCTGCTCGACGCCGACTG
+sequence:
+WTEGRTGFPFIDAAMRQLRSEGWLHHVLRNTVASFLTRGTLWLSWEHGLDHFLKYLLDAD
+left = AG, right =GT, stop_counter = 0
+WTEGRTGFPFIDAAMRQLRSEGWLHHVLRNTVASFLTRGTLWLSWEHGLDHFLKYLLDAD
+[[1, 2]]
+start_coordinate : 1371067,stop_coordinate : 1370888
+3434 3616 Y N
+Papilio_machaon,,1370886,1371068,1,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_9,1,60,60,Y,N
+
+Papilio_machaon
+Processing Exon_10
+Papilio_machaon_coordinates_Zerene_cesonia.csv
+1 query coordinate
+55
+[[1, 2]]
+reached here
+Before splice: 3727,3894
+after splice: 3727,3894
+sequence:
+TCAGTGTGCGCGGGCAACTGGATGTGGGTGTCGTCGTCGGCGTTCGAGGCGCTTCTGGACTCGAGCGAGTGCGCTTGCCCCGTGCGCCTGGGCCGCCGACTCGACCCCGACGGCGAGTACGTGCGCCGCTACGTGCCCGAGCTGGCGCGCGTGCCAGTGCAGTACAT
+sequence:
+SVCAGNWMWVSSSAFEALLDSSECACPVRLGRRLDPDGEYVRRYVPELARVPVQY
+left = AG, right =GT, stop_counter = 0
+SVCAGNWMWVSSSAFEALLDSSECACPVRLGRRLDPDGEYVRRYVPELARVPVQY
+[[1, 2]]
+start_coordinate : 1370774,stop_coordinate : 1370610
+3727 3894 Y N
+Papilio_machaon,,1370608,1370775,1,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_2_query_Exon_10,1,55,55,Y,N
+
+Papilio_machaon
+Processing Exon_11
+Papilio_machaon_coordinates_Zerene_cesonia.csv
+1 query coordinate
+40
+[[1, 0]]
+reached here
+Before splice: 5528,5648
+after splice: 5528,5648
+sequence:
+TACGAGCCATGGAAGGCTCCGATCGACGTGCAGGAGCGCGCCAACTGTATCATCGGCAAGGACTACCCCGCGCCAATGGTCAATCATCTCGACGCCGCCGCACGCAACAAGAACAATATG
+sequence:
+YEPWKAPIDVQERANCIIGKDYPAPMVNHLDAAARNKNNM
+left = AG, right =AA, stop_counter = 0
+sequence:
+TACGAGCCATGGAAGGCTCCGATCGACGTGCAGGAGCGCGCCAACTGTATCATCGGCAAGGACTACCCCGCGCCAATGGTCAATCATCTCGACGCCGCCGCACGCAACAAGAACAATATGAAG
+sequence:
+YEPWKAPIDVQERANCIIGKDYPAPMVNHLDAAARNKNNMK
+left = AG, right =GT, stop_counter = 0
+YEPWKAPIDVQERANCIIGKDYPAPMVNHLDAAARNKNNMK
+[[1, 0]]
+start_coordinate : 1368973,stop_coordinate : 1368851
+5528 5651 Y N
+Papilio_machaon,,1368851,1368974,1,N,Zerene_cesonia_XM_038356442.1_Frame_1_rightoh_0_query_Exon_11,1,41,41,Y,N
+
+

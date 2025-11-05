@@ -1,0 +1,1344 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3106490,3106673,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Hypolimnas_misippus,SGBE01001563.1,3106163,3106416,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Hypolimnas_misippus,SGBE01001563.1,3107753,3108009,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set12_frame1, 0.199
+5 top scores:
+[['set13_frame2', 1.806], ['set24_frame0', 1.821], ['set30_frame0', 1.8], ['set12_frame1', 0.199], ['set15_frame1', 1.865]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_12_frame1.fa.txt
+7 68
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPVERNDRHNYLQILSHLQSYKEDAFTKVENWQVFAKKLGKVLEI
+7 68
+set12_frame1
+LLVNLTNPALLLYREEVPVERTARHNYLQILSHLQSYKEEAFTKVETWQVFAKKLAKILEI
+Original query = LIVNLTNPALLLYREEVPVERNDRHNYLQILSHLQSYKEDAFTKVENWQVFAKKLGKVLEI
+New query = LLVNLTNPALLLYREEVPVERTARHNYLQILSHLQSYKEEAFTKVETWQVFAKKLAKILEI
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3107366,3107500,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Hypolimnas_misippus,SGBE01001563.1,3106163,3106416,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Hypolimnas_misippus,SGBE01001563.1,3108360,3108557,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set24_frame0, 0.011
+5 top scores:
+[['set57_frame2', 1.795], ['set24_frame0', 0.011], ['set30_frame0', 1.712], ['set12_frame1', 1.749], ['set15_frame1', 1.825]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_24_frame0.fa.txt
+41 86
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+41 86
+set24_frame0
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Original query = DWSERDEDTGLVIERILILIRNVLHVPADLDKERRPENDASVHDQ
+New query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3107753,3108009,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Hypolimnas_misippus,SGBE01001563.1,3106490,3106673,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Hypolimnas_misippus,SGBE01001563.1,3109076,3109258,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set27_frame0, 0.221
+5 top scores:
+[['set21_frame0', 1.839], ['set27_frame0', 0.221], ['set77_frame1', 1.848], ['set47_frame2', 1.854]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_27_frame0.fa.txt
+0 85
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPSSLADAALQRSVDEKVRDDQELLMIRMTENKDRMNKIRHYSST
+0 85
+set27_frame0
+VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALHRSVDEKLRDDQELLTMRMSETKERLNKVKQYSST
+Original query = VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPSSLADAALQRSVDEKVRDDQELLMIRMTENKDRMNKIRHYSST
+New query = VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALHRSVDEKLRDDQELLTMRMSETKERLNKVKQYSST
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3108360,3108557,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Hypolimnas_misippus,SGBE01001563.1,3107366,3107500,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Hypolimnas_misippus,SGBE01001563.1,3109656,3109943,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set25_frame2, 0.107
+5 top scores:
+[['set7_frame0', 1.848], ['set41_frame0', 1.844], ['set61_frame1', 1.832], ['set25_frame2', 0.107], ['set57_frame2', 1.85]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_25_frame2.fa.txt
+29 94
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVQNMKSISDNELICLKPLNKISNLDFNGSKKQKLVKPKNRRPTESGTMERRSAFAI
+29 94
+set25_frame2
+HSRFGGTYVVQNMKSISDNELICLKPLNKISSLDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+Original query = HSRFGGTYVVQNMKSISDNELICLKPLNKISNLDFNGSKKQKLVKPKNRRPTESGTMERRSAFAI
+New query = HSRFGGTYVVQNMKSISDNELICLKPLNKISSLDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3109076,3109258,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+9
+Hypolimnas_misippus,SGBE01001563.1,3107753,3108009,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Hypolimnas_misippus,SGBE01001563.1,3114943,3115093,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Getting Gene
+min = set47_frame1, 0.144
+5 top scores:
+[['set78_frame1', 1.718], ['set46_frame2', 1.735], ['set63_frame2', 1.738], ['set118_frame2', 1.788], ['set47_frame1', 0.144]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_47_frame1.fa.txt
+30 90
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNVLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRAHDFQVGFV
+30 90
+set47_frame1
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+Original query = LFLKEFCIEFLNSSYNVLMHYVKDVLVRAKAQQNDESYYLWAVKFFMEFNRAHDFQVGFV
+New query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3109656,3109943,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Hypolimnas_misippus,SGBE01001563.1,3108360,3108557,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Hypolimnas_misippus,SGBE01001563.1,3114943,3115093,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Getting Gene
+min = set33_frame1, 0.241
+5 top scores:
+[['set26_frame0', 1.82], ['set33_frame1', 0.241]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_33_frame1.fa.txt
+17 112
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQMEKYYDMISVEKKKFTNWVRRLHLALRAYKELLHTLLAMDASKDHTVRESAKVLKSNIFYVLEYREFILSMYLNYDENKMP
+17 112
+set33_frame1
+ETMSVPTFHYVQQQMEKYYDMIKVEKKKFAVWVRRLHLALRAYKELLNTLLAMDKANDITVRESAKVLKSNLFYVLEYREFILSIFLNYDENKMP
+Original query = ETMSVPMFHYVQQQMEKYYDMISVEKKKFTNWVRRLHLALRAYKELLHTLLAMDASKDHTVRESAKVLKSNIFYVLEYREFILSMYLNYDENKMP
+New query = ETMSVPTFHYVQQQMEKYYDMIKVEKKKFAVWVRRLHLALRAYKELLNTLLAMDKANDITVRESAKVLKSNLFYVLEYREFILSIFLNYDENKMP
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3110189,3110307,0,Y,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8,1,29,39
+
+6
+10
+Hypolimnas_misippus,SGBE01001563.1,3109076,3109258,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Hypolimnas_misippus,SGBE01001563.1,3117574,3117654,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set32_frame1, 0.174
+5 top scores:
+[['set32_frame1', 0.174], ['set161_frame1', 1.643], ['set120_frame2', 1.687], ['set98_frame2', 1.695], ['set141_frame2', 1.722]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_32_frame1.fa.txt
+11 50
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLVETVHLFLKMLEHYCKRTGLVVQKKVRKKTKAK
+11 50
+set32_frame1
+SYLVDLIETEHLFLKMLEHFCKKTGLVVQKKVRKKTKSK
+Original query = SYLVDLVETVHLFLKMLEHYCKRTGLVVQKKVRKKTKAK
+New query = SYLVDLIETEHLFLKMLEHFCKKTGLVVQKKVRKKTKSK
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3114943,3115093,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+7
+11
+Hypolimnas_misippus,SGBE01001563.1,3109656,3109943,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Hypolimnas_misippus,SGBE01001563.1,3118000,3118109,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Getting Gene
+min = set117_frame0, 0.476
+5 top scores:
+[['set117_frame0', 0.476], ['set48_frame1', 1.759], ['set83_frame2', 1.785], ['set194_frame2', 1.825], ['set198_frame2', 1.83]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_117_frame0.fa.txt
+16 65
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9
+QKPKI-KPKVIELSPWEEIRPQLAAVLSSGVEHYLPPFDAASETPIDQQ
+16 65
+set117_frame0
+QKPRAQKPKQVEITRWEEIRPQVAAVLSSGVEEYPPPFDAASDTPIDQQ
+Original query = QKPKIKPKVIELSPWEEIRPQLAAVLSSGVEHYLPPFDAASETPIDQQ
+New query = QKPRAQKPKQVEITRWEEIRPQVAAVLSSGVEEYPPPFDAASDTPIDQQ
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3117574,3117654,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+7
+12
+13
+14
+Hypolimnas_misippus,SGBE01001563.1,3109656,3109943,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Hypolimnas_misippus,SGBE01001563.1,3121244,3121442,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set188_frame2, 0.293
+5 top scores:
+[['set188_frame2', 0.293], ['set82_frame1', 1.562], ['set105_frame1', 1.597], ['set183_frame1', 1.622], ['set95_frame2', 1.628]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_188_frame2.fa.txt
+16 42
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQRLMRDHKYEDVIGTFRAA
+16 42
+set188_frame2
+EDCMKKIQKLMRDHKYEGAVGTLRAA
+Original query = EDCMKKIQRLMRDHKYEDVIGTFRAA
+New query = EDCMKKIQKLMRDHKYEGAVGTLRAA
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3118000,3118109,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+9
+13
+14
+Hypolimnas_misippus,SGBE01001563.1,3114943,3115093,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Hypolimnas_misippus,SGBE01001563.1,3121244,3121442,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set67_frame1, 0.27
+5 top scores:
+[['set67_frame1', 0.27], ['set31_frame2', 1.697], ['set147_frame2', 1.751], ['set145_frame2', 1.77], ['set41_frame2', 1.797]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_67_frame1.fa.txt
+3 38
+set67_frame1
+EVWPEEGIFGVNGIPEDEELDMLETIYNTDLGVDV
+Original query = EVWPEDGIFGVSGMPEDEELDMLETIYNTDLGLDYE
+New query = EVWPEEGIFGVNGIPEDEELDMLETIYNTDLGVDV
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,0,0,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_12,0,0,14
+
+10
+14
+Hypolimnas_misippus,SGBE01001563.1,3117574,3117654,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Hypolimnas_misippus,SGBE01001563.1,3121244,3121442,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set23_frame0, 1.297
+5 top scores:
+[['set23_frame0', 1.297], ['set91_frame1', 1.446], ['set100_frame2', 1.463], ['set82_frame1', 1.57], ['set19_frame2', 1.603]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_23_frame0.fa.txt
+23 37
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_12
+AQHEDAQEYSEDED
+23 37
+set23_frame0
+INEEEVQDNSEYDD
+Original query = AQHEDAQEYSEDED
+New query = INEEEVQDNSEYDD
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3121017,3121083,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,5,20,21
+
+11
+15
+Hypolimnas_misippus,SGBE01001563.1,3118000,3118109,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Hypolimnas_misippus,SGBE01001563.1,3125527,3125675,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set75_frame1, 0.466
+5 top scores:
+[['set75_frame1', 0.466], ['set72_frame2', 1.448], ['set118_frame2', 1.459], ['set5_frame2', 1.604], ['set158_frame2', 1.636]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_75_frame1.fa.txt
+4 24
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13
+EDEEQGSAIVETDFDFQDFV
+4 24
+set75_frame1
+EDEERTTSVVETDFDFKDFV
+Original query = EDEEQGSAIVETDFDFQDFVL
+New query = EDEERTTSVVETDFDFKDFV
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3121244,3121442,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Hypolimnas_misippus,SGBE01001563.1,3118000,3118109,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Hypolimnas_misippus,SGBE01001563.1,3128098,3128192,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Getting Gene
+min = set90_frame2, 0.272
+5 top scores:
+[['set90_frame2', 0.272], ['set251_frame1', 1.795], ['set5_frame2', 1.846], ['set56_frame0', 1.833], ['set93_frame0', 1.724]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_90_frame2.fa.txt
+4 70
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14
+FCHPKIVSACVCLLERYDKNRSHTNHCIVKMLHRIAFDCNRPAMMFQATLFLTFQKILHNPMPHLK
+4 70
+set90_frame2
+FCHPRVVSACVSLLERFDKNSSHTNHCVAKMLHRIAWDCNRIAMMFQATLFLIFQKILHNPLPHLK
+Original query = FCHPKIVSACVCLLERYDKNRSHTNHCIVKMLHRIAFDCNRPAMMFQATLFLTFQKILHNPMPHLK
+New query = FCHPRVVSACVSLLERFDKNSSHTNHCVAKMLHRIAWDCNRIAMMFQATLFLIFQKILHNPLPHLK
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3125527,3125675,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+12
+11
+17
+Hypolimnas_misippus,SGBE01001563.1,3118000,3118109,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Hypolimnas_misippus,SGBE01001563.1,3131328,3131534,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+Getting Gene
+min = set180_frame0, 0.227
+5 top scores:
+[['set180_frame0', 0.227], ['set343_frame2', 1.657], ['set319_frame1', 1.716], ['set40_frame2', 1.743], ['set187_frame2', 1.758]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_180_frame0.fa.txt
+1 50
+Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFAIFILRKFADIASKSGKVFIELLFWKNSKDAVEIEHGYNLYNDP
+1 50
+set180_frame0
+ELEKFAIFVLRKFTEIASGSGKVFIELLFWKNSKDAVEIELGYDLYNDP
+Original query = ELEKFAIFILRKFADIASKSGKVFIELLFWKNSKDAVEIEHGYNLYNDP
+New query = ELEKFAIFVLRKFTEIASGSGKVFIELLFWKNSKDAVEIELGYDLYNDP
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3128098,3128192,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+14
+18
+Hypolimnas_misippus,SGBE01001563.1,3121244,3121442,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Hypolimnas_misippus,SGBE01001563.1,3134422,3134556,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,38,44
+
+Getting Gene
+min = set184_frame0, 0.338
+5 top scores:
+[['set184_frame0', 0.338], ['set270_frame2', 1.586], ['set166_frame2', 1.672], ['set82_frame2', 1.684], ['set65_frame2', 1.696]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_184_frame0.fa.txt
+5 36
+Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16
+DKLGKASWSEEQEDELRNLYMENQTNPQTDQ
+5 36
+set184_frame0
+DKPGKALWTEEQEDELRKLYMENQTNPENDQ
+Original query = DKLGKASWSEEQEDELRNLYMENQTNPQTDQ
+New query = DKPGKALWTEEQEDELRKLYMENQTNPENDQ
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3131328,3131534,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+15
+19
+20
+Hypolimnas_misippus,SGBE01001563.1,3125527,3125675,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Hypolimnas_misippus,SGBE01001563.1,3138711,3138907,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+Getting Gene
+min = set148_frame1, 0.374
+5 top scores:
+[['set148_frame1', 0.374], ['set203_frame2', 1.65], ['set150_frame2', 1.81], ['set186_frame2', 1.822], ['set49_frame1', 1.804]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_148_frame1.fa.txt
+10 78
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFNAPTKKSNKARTEKVTKDFTEEEDKLLTELWTQNAESQ
+10 78
+set148_frame1
+VIDWILENLIDQTRTRRSVIRKLKELGLIFKAPTKKSNKERKEKVPKDFSEEEDSLLAELWKQYEDSS
+Original query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFNAPTKKSNKARTEKVTKDFTEEEDKLLTELWTQNAESQ
+New query = VIDWILENLIDQTRTRRSVIRKLKELGLIFKAPTKKSNKERKEKVPKDFSEEEDSLLAELWKQYEDSS
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3134422,3134556,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,38,44
+
+16
+20
+Hypolimnas_misippus,SGBE01001563.1,3128098,3128192,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Hypolimnas_misippus,SGBE01001563.1,3138711,3138907,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+Getting Gene
+min = set134_frame2, 0.658
+5 top scores:
+[['set134_frame2', 0.658], ['set129_frame2', 1.716], ['set164_frame1', 1.736], ['set25_frame2', 1.741], ['set112_frame0', 1.709]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_134_frame2.fa.txt
+12 53
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18
+PMSVIMERMPRNRSKRTFVERLLRLGLIDDKKQCRKKSIKN
+12 53
+set134_frame2
+PMGLILARMPRKRSKRSFVDRMLELGIIQDKKQCRKKQRNT
+Original query = PMSVIMERMPRNRSKRTFVERLLRLGLIDDKKQCRKKSIKNISG
+New query = PMGLILARMPRKRSKRSFVDRMLELGIIQDKKQCRKKQRNT
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3135483,3135668,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19,45,61,61
+
+17
+21
+Hypolimnas_misippus,SGBE01001563.1,3131328,3131534,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+Hypolimnas_misippus,SGBE01001563.1,3139161,3139590,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,154,154
+
+Getting Gene
+min = set94_frame2, 1.083
+5 top scores:
+[['set94_frame2', 1.083], ['set226_frame1', 1.772], ['set1_frame2', 1.772], ['set23_frame0', 1.77], ['set16_frame2', 1.788]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_94_frame2.fa.txt
+6 70
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19
+NSSDSESSKSE-DEDAPPKRPTIKIKSKKNLTKSKQ--SNKKSAESLELSANEIAELLVQAVEN
+6 70
+set94_frame2
+SSSESENSSSDSDNDVRASSPSITVKPKKKPIKKKEQSKSKKTVRSKELSASEIAKLLVQAVDS
+Original query = NSSDSESSKSEDEDAPPKRPTIKIKSKKNLTKSKQSNKKSAESLELSANEIAELLVQAVEN
+New query = SSSESENSSSDSDNDVRASSPSITVKPKKKPIKKKEQSKSKKTVRSKELSASEIAKLLVQAVDS
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3138711,3138907,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+18
+21
+Hypolimnas_misippus,SGBE01001563.1,3134422,3134556,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,38,44
+
+Hypolimnas_misippus,SGBE01001563.1,3139161,3139590,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,154,154
+
+Getting Gene
+min = set114_frame1, 0.372
+5 top scores:
+[['set114_frame1', 0.372], ['set137_frame2', 1.785], ['set133_frame0', 1.814], ['set30_frame1', 1.842], ['set1_frame2', 1.862]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_114_frame1.fa.txt
+34 98
+Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20
+TEALNWLSENLEEVALDQEAEGFDPTSEGTPLVPISRESVQAIQDDLFRRVLKSLGIVPPVDEQ
+34 98
+set114_frame1
+TEALKWLAENLEEVALDQEAEGFDPTSEGTPLVPISSESIEAMNNSLFIKVLKSIGIVPPSDEQ
+Original query = HTEALNWLSENLEEVALDQEAEGFDPTSEGTPLVPISRESVQAIQDDLFRRVLKSLGIVPPVDEQ
+New query = TEALKWLAENLEEVALDQEAEGFDPTSEGTPLVPISSESIEAMNNSLFIKVLKSIGIVPPSDEQ
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3139161,3139590,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,154,154
+
+19
+18
+21
+Hypolimnas_misippus,SGBE01001563.1,3134422,3134556,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,38,44
+
+Hypolimnas_misippus,SGBE01001563.1,3139161,3139590,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,154,154
+
+Getting Gene
+min = set137_frame2, 1.067
+5 top scores:
+[['set137_frame2', 1.067]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_137_frame2.fa.txt
+4 142
+set137_frame2
+ETYWRIPSTLHHETIRKRREIIIKAVNKELIIDDTTNDTNTENNKQTTQENNDSKAESSD--DDDLFDNLRKMREITPYKSDSNRNVSNNRKRDRSMDSGEENNRKMQK------------IDEDDSEDILSFAKKTL
+Original query = ETYWRIPSSLHYETIRKRREIITKAVNKELIIDNRAAPETKKDNNDNGNNGNHNINDESDASDDDLFDNLRKIAKKSSETDNNPKSKNRKRTRSFESDDENKKKQRKDNIKDKDDENENENKDSDDDLLSFVKNTLHTELPDTEDILNALPEHS
+New query = ETYWRIPSTLHHETIRKRREIIIKAVNKELIIDDTTNDTNTENNKQTTQENNDSKAESSD--DDDLFDNLRKMREITPYKSDSNRNVSNNRKRDRSMDSGEENNRKMQK------------IDEDDSEDILSFAKKTL
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3106490,3106673,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Hypolimnas_misippus,SGBE01001563.1,3106163,3106416,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Hypolimnas_misippus,SGBE01001563.1,3107753,3108009,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set12_frame1, 0.07
+5 top scores:
+[['set13_frame2', 1.823], ['set24_frame0', 1.811], ['set30_frame0', 1.767], ['set12_frame1', 0.07], ['set15_frame1', 1.852]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_12_frame1.fa.txt
+7 68
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_0_query_Exon_2
+LLVNLTNPALLLYREEVPVDRTARHNYLQILTHLQSYKEEAFTKVETWQVFARKLAKILEI
+7 68
+set12_frame1
+LLVNLTNPALLLYREEVPVERTARHNYLQILSHLQSYKEEAFTKVETWQVFAKKLAKILEI
+Original query = LLVNLTNPALLLYREEVPVDRTARHNYLQILTHLQSYKEEAFTKVETWQVFARKLAKILEI
+New query = LLVNLTNPALLLYREEVPVERTARHNYLQILSHLQSYKEEAFTKVETWQVFAKKLAKILEI
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3107366,3107500,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Hypolimnas_misippus,SGBE01001563.1,3106163,3106416,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Hypolimnas_misippus,SGBE01001563.1,3108360,3108557,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set24_frame0, 0.0
+5 top scores:
+[['set57_frame2', 1.795], ['set24_frame0', 0.0], ['set30_frame0', 1.712], ['set12_frame1', 1.738], ['set15_frame1', 1.825]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_24_frame0.fa.txt
+41 86
+Nymphalis_io_XM_050487249.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+41 86
+set24_frame0
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+New query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3107753,3108009,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Hypolimnas_misippus,SGBE01001563.1,3106490,3106673,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Hypolimnas_misippus,SGBE01001563.1,3109076,3109258,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set27_frame0, 0.104
+5 top scores:
+[['set21_frame0', 1.849], ['set27_frame0', 0.104], ['set77_frame1', 1.847], ['set47_frame2', 1.862]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_27_frame0.fa.txt
+0 85
+Nymphalis_io_XM_050487249.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLRDEQELLTMRMTETKERMNKVKMYSST
+0 85
+set27_frame0
+VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALHRSVDEKLRDDQELLTMRMSETKERLNKVKQYSST
+Original query = VLWALNQAGILDIILYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLRDEQELLTMRMTETKERMNKVKMYSST
+New query = VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALHRSVDEKLRDDQELLTMRMSETKERLNKVKQYSST
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3108360,3108557,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Hypolimnas_misippus,SGBE01001563.1,3107366,3107500,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Hypolimnas_misippus,SGBE01001563.1,3109656,3109943,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set25_frame2, 0.166
+5 top scores:
+[['set7_frame0', 1.827], ['set41_frame0', 1.844], ['set61_frame1', 1.832], ['set25_frame2', 0.166], ['set57_frame2', 1.852]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_25_frame2.fa.txt
+29 94
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVRNMKSISENELISFKPLNKISGFDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+29 94
+set25_frame2
+HSRFGGTYVVQNMKSISDNELICLKPLNKISSLDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+Original query = HSRFGGTYVVRNMKSISENELISFKPLNKISGFDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+New query = HSRFGGTYVVQNMKSISDNELICLKPLNKISSLDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3109076,3109258,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+9
+Hypolimnas_misippus,SGBE01001563.1,3107753,3108009,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Hypolimnas_misippus,SGBE01001563.1,3114943,3115093,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Getting Gene
+min = set47_frame1, 0.028
+5 top scores:
+[['set78_frame1', 1.741], ['set46_frame2', 1.754], ['set63_frame2', 1.758], ['set128_frame0', 1.733], ['set47_frame1', 0.028]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_47_frame1.fa.txt
+30 90
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHDFQVGLV
+30 90
+set47_frame1
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+Original query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHDFQVGLV
+New query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3109656,3109943,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Hypolimnas_misippus,SGBE01001563.1,3108360,3108557,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Hypolimnas_misippus,SGBE01001563.1,3114943,3115093,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Getting Gene
+min = set33_frame1, 0.457
+5 top scores:
+[['set26_frame0', 1.841], ['set33_frame1', 0.457]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_33_frame1.fa.txt
+17 112
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPTFHYVQQQMEKYTDMIKVEKKKFPVWVRRLHLALRAYAELLRSLRALQRAPG-AAREAARVLQSNVFYVPEYRELVLAMFLNYDENKMP
+17 112
+set33_frame1
+ETMSVPTFHYVQQQMEKYYDMIKVEKKKFAVWVRRLHLALRAYKELLNTLLAMDKANDITVRESAKVLKSNLFYVLEYREFILSIFLNYDENKMP
+Original query = ETMSVPTFHYVQQQMEKYTDMIKVEKKKFPVWVRRLHLALRAYAELLRSLRALQRAPGAAREAARVLQSNVFYVPEYRELVLAMFLNYDENKMP
+New query = ETMSVPTFHYVQQQMEKYYDMIKVEKKKFAVWVRRLHLALRAYKELLNTLLAMDKANDITVRESAKVLKSNLFYVLEYREFILSIFLNYDENKMP
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3110189,3110307,0,Y,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8,1,29,39
+
+6
+10
+Hypolimnas_misippus,SGBE01001563.1,3109076,3109258,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Hypolimnas_misippus,SGBE01001563.1,3117574,3117654,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set32_frame1, 0.203
+5 top scores:
+[['set32_frame1', 0.203], ['set161_frame1', 1.675], ['set120_frame2', 1.692], ['set189_frame2', 1.732], ['set134_frame2', 1.751]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_32_frame1.fa.txt
+11 50
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLVETEHLFLKMLEHFCKNTGLVVQKKVRKKGKPK
+11 50
+set32_frame1
+SYLVDLIETEHLFLKMLEHFCKKTGLVVQKKVRKKTKSK
+Original query = SYLVDLVETEHLFLKMLEHFCKNTGLVVQKKVRKKGKPK
+New query = SYLVDLIETEHLFLKMLEHFCKKTGLVVQKKVRKKTKSK
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3114943,3115093,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+7
+11
+Hypolimnas_misippus,SGBE01001563.1,3109656,3109943,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Hypolimnas_misippus,SGBE01001563.1,3118000,3118109,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Getting Gene
+min = set117_frame0, 0.462
+5 top scores:
+[['set117_frame0', 0.462], ['set57_frame2', 1.807], ['set194_frame2', 1.824], ['set83_frame2', 1.831], ['set116_frame2', 1.832]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_117_frame0.fa.txt
+16 65
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_2_query_Exon_9
+QKPRPPKPKEVETPQWEEVRPQVAAVLAARVAELPPPFDAAADTPIDQQ
+16 65
+set117_frame0
+QKPRAQKPKQVEITRWEEIRPQVAAVLSSGVEEYPPPFDAASDTPIDQQ
+Original query = QKPRPPKPKEVETPQWEEVRPQVAAVLAARVAELPPPFDAAADTPIDQQ
+New query = QKPRAQKPKQVEITRWEEIRPQVAAVLSSGVEEYPPPFDAASDTPIDQQ
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3117574,3117654,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+7
+12
+13
+14
+Hypolimnas_misippus,SGBE01001563.1,3109656,3109943,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Hypolimnas_misippus,SGBE01001563.1,3121244,3121442,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set188_frame2, 0.0
+5 top scores:
+[['set188_frame2', 0.0], ['set161_frame1', 1.563], ['set207_frame1', 1.586], ['set105_frame1', 1.604], ['set262_frame1', 1.614]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_188_frame2.fa.txt
+16 42
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRDHKYEGAVGTLRAA
+16 42
+set188_frame2
+EDCMKKIQKLMRDHKYEGAVGTLRAA
+Original query = EDCMKKIQKLMRDHKYEGAVGTLRAA
+New query = EDCMKKIQKLMRDHKYEGAVGTLRAA
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3118000,3118109,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+9
+13
+14
+Hypolimnas_misippus,SGBE01001563.1,3114943,3115093,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Hypolimnas_misippus,SGBE01001563.1,3121244,3121442,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set67_frame1, 0.285
+5 top scores:
+[['set67_frame1', 0.285], ['set1_frame1', 1.724], ['set129_frame1', 1.736], ['set1_frame2', 1.736], ['set145_frame2', 1.745]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_67_frame1.fa.txt
+3 38
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGDTGITEDEELDMLETIYNTDLGVEA
+3 38
+set67_frame1
+EVWPEEGIFGVNGIPEDEELDMLETIYNTDLGVDV
+Original query = EVWPEEGIFGDTGITEDEELDMLETIYNTDLGVEA
+New query = EVWPEEGIFGVNGIPEDEELDMLETIYNTDLGVDV
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,0,0,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_12,0,0,14
+
+10
+14
+Hypolimnas_misippus,SGBE01001563.1,3117574,3117654,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Hypolimnas_misippus,SGBE01001563.1,3121244,3121442,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set23_frame0, 0.457
+5 top scores:
+[['set23_frame0', 0.457], ['set85_frame1', 1.383], ['set104_frame2', 1.486], ['set78_frame2', 1.584], ['set100_frame2', 1.628]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_23_frame0.fa.txt
+21 38
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_1_query_Exon_12
+TTINEEEVEENSAYEDD
+21 38
+set23_frame0
+TTINEEEVQDNSEYDDG
+Original query = TTINEEEVEENSAYEDD
+New query = TTINEEEVQDNSEYDDG
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3121017,3121083,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,5,20,21
+
+11
+15
+Hypolimnas_misippus,SGBE01001563.1,3118000,3118109,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Hypolimnas_misippus,SGBE01001563.1,3125527,3125675,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set75_frame1, 0.35
+5 top scores:
+[['set75_frame1', 0.35], ['set72_frame2', 1.537], ['set118_frame2', 1.562], ['set56_frame2', 1.572], ['set74_frame2', 1.583]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_75_frame1.fa.txt
+1 24
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_2_query_Exon_13
+EEGEEEERTTSVVETDFDFQDFV
+1 24
+set75_frame1
+DEEEDEERTTSVVETDFDFKDFV
+Original query = EEGEEEERTTSVVETDFDFQDFVL
+New query = DEEEDEERTTSVVETDFDFKDFV
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3121244,3121442,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Hypolimnas_misippus,SGBE01001563.1,3118000,3118109,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Hypolimnas_misippus,SGBE01001563.1,3128098,3128192,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Getting Gene
+min = set90_frame2, 0.89
+5 top scores:
+[['set90_frame2', 0.89], ['set251_frame1', 1.811], ['set5_frame2', 1.819], ['set56_frame0', 1.861], ['set93_frame0', 1.758]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_90_frame2.fa.txt
+4 70
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_0_query_Exon_14
+FCQPHVVRACAALWARCDV-TARAARCALKLLHRIACDCNRPAMMFQASLFLTFQKILNKRSPQLK
+4 70
+set90_frame2
+FCHPRVVSACVSLLERFDKNSSHTNHCVAKMLHRIAWDCNRIAMMFQATLFLIFQKILHNPLPHLK
+Original query = FCQPHVVRACAALWARCDVTARAARCALKLLHRIACDCNRPAMMFQASLFLTFQKILNKRSPQLK
+New query = FCHPRVVSACVSLLERFDKNSSHTNHCVAKMLHRIAWDCNRIAMMFQATLFLIFQKILHNPLPHLK
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3125527,3125675,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+12
+11
+17
+Hypolimnas_misippus,SGBE01001563.1,3118000,3118109,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Hypolimnas_misippus,SGBE01001563.1,3131328,3131534,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+Getting Gene
+min = set180_frame0, 0.326
+5 top scores:
+[['set180_frame0', 0.326], ['set343_frame2', 1.64], ['set320_frame0', 1.732], ['set40_frame2', 1.739], ['set274_frame1', 1.768]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_180_frame0.fa.txt
+1 49
+Nymphalis_io_XM_050487249.1_Frame_0_rightoh_2_query_Exon_15
+EMEKFAIFILRKFTEIASKNGKVFIELLFWKNSKESVEIEHGYDLYRD
+1 49
+set180_frame0
+ELEKFAIFVLRKFTEIASGSGKVFIELLFWKNSKDAVEIELGYDLYND
+Original query = EMEKFAIFILRKFTEIASKNGKVFIELLFWKNSKESVEIEHGYDLYRDQ
+New query = ELEKFAIFVLRKFTEIASGSGKVFIELLFWKNSKDAVEIELGYDLYND
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3128098,3128192,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+14
+18
+Hypolimnas_misippus,SGBE01001563.1,3121244,3121442,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Hypolimnas_misippus,SGBE01001563.1,3134422,3134556,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,38,44
+
+Getting Gene
+min = set184_frame0, 0.363
+5 top scores:
+[['set184_frame0', 0.363], ['set84_frame1', 1.634], ['set73_frame1', 1.646], ['set270_frame2', 1.674], ['set53_frame2', 1.698]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_184_frame0.fa.txt
+5 36
+Nymphalis_io_XM_050487249.1_Frame_1_rightoh_1_query_Exon_16
+DKPGRGLWTEEQEEELRSLYMENMARPENDQ
+5 36
+set184_frame0
+DKPGKALWTEEQEDELRKLYMENQTNPENDQ
+Original query = DKPGRGLWTEEQEEELRSLYMENMARPENDQ
+New query = DKPGKALWTEEQEDELRKLYMENQTNPENDQ
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3131328,3131534,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+15
+19
+20
+Hypolimnas_misippus,SGBE01001563.1,3125527,3125675,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Hypolimnas_misippus,SGBE01001563.1,3138711,3138907,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+Getting Gene
+min = set148_frame1, 0.264
+5 top scores:
+[['set148_frame1', 0.264], ['set203_frame2', 1.668], ['set152_frame2', 1.802], ['set186_frame2', 1.822], ['set49_frame1', 1.824]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_148_frame1.fa.txt
+10 78
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRSVIKKLKDLGLIFKAPTKKSNRERQEKVSKEFNEEEDNLLAELWKQYKDSP
+10 78
+set148_frame1
+VIDWILENLIDQTRTRRSVIRKLKELGLIFKAPTKKSNKERKEKVPKDFSEEEDSLLAELWKQYEDSS
+Original query = VIDWILDNLIDQTRTRRSVIKKLKDLGLIFKAPTKKSNRERQEKVSKEFNEEEDNLLAELWKQYKDSP
+New query = VIDWILENLIDQTRTRRSVIRKLKELGLIFKAPTKKSNKERKEKVPKDFSEEEDSLLAELWKQYEDSS
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3134422,3134556,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,38,44
+
+16
+20
+Hypolimnas_misippus,SGBE01001563.1,3128098,3128192,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Hypolimnas_misippus,SGBE01001563.1,3138711,3138907,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+Getting Gene
+min = set134_frame2, 0.445
+5 top scores:
+[['set134_frame2', 0.445], ['set129_frame2', 1.724], ['set1_frame2', 1.788], ['set248_frame1', 1.806], ['set135_frame2', 1.823]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_134_frame2.fa.txt
+12 65
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_1_query_Exon_18
+PMGLIIARMPRKRSKRSFVDRLLELGLVQDKSQCRKRRQRNAKSAGDDGDKSN
+12 65
+set134_frame2
+PMGLILARMPRKRSKRSFVDRMLELGIIQDKKQCRK-KQRNTKTTGDD-DKSN
+Original query = PMGLIIARMPRKRSKRSFVDRLLELGLVQDKSQCRKRRQRNAKSAGDDGDKSN
+New query = PMGLILARMPRKRSKRSFVDRMLELGIIQDKKQCRK-KQRNTKTTGDD-DKSN
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3135483,3135668,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19,45,61,61
+
+17
+21
+Hypolimnas_misippus,SGBE01001563.1,3131328,3131534,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+Hypolimnas_misippus,SGBE01001563.1,3139161,3139590,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,154,154
+
+Getting Gene
+min = set94_frame2, 0.851
+5 top scores:
+[['set94_frame2', 0.851], ['set1_frame2', 1.722], ['set226_frame1', 1.806], ['set23_frame0', 1.819], ['set178_frame2', 1.845]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_94_frame2.fa.txt
+6 70
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_1_query_Exon_19
+SSSESEHSSSDGDDNVRPQTAAVNVK-HKKPLKKRAENK-KKSARV-ELSASEIAKLLIEAVDS
+6 70
+set94_frame2
+SSSESENSSSDSDNDVRASSPSITVKPKKKPIKKKEQSKSKKTVRSKELSASEIAKLLVQAVDS
+Original query = SSSESEHSSSDGDDNVRPQTAAVNVKHKKPLKKRAENKKKSARVELSASEIAKLLIEAVDS
+New query = SSSESENSSSDSDNDVRASSPSITVKPKKKPIKKKEQSKSKKTVRSKELSASEIAKLLVQAVDS
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3138711,3138907,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+18
+21
+Hypolimnas_misippus,SGBE01001563.1,3134422,3134556,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,38,44
+
+Hypolimnas_misippus,SGBE01001563.1,3139161,3139590,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,154,154
+
+Getting Gene
+min = set114_frame1, 0.135
+5 top scores:
+[['set114_frame1', 0.135], ['set137_frame2', 1.787], ['set133_frame0', 1.859], ['set30_frame1', 1.817], ['set48_frame1', 1.873]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_114_frame1.fa.txt
+33 98
+Nymphalis_io_XM_050487249.1_Frame_2_rightoh_0_query_Exon_20
+LTEALKWLAENLEEVALDQEAEGFDPTSEGTPLVPISSESVEAMDNPLFMKVLKSVGIAPPSDEQ
+33 98
+set114_frame1
+LTEALKWLAENLEEVALDQEAEGFDPTSEGTPLVPISSESIEAMNNSLFIKVLKSIGIVPPSDEQ
+Original query = LTEALKWLAENLEEVALDQEAEGFDPTSEGTPLVPISSESVEAMDNPLFMKVLKSVGIAPPSDEQ
+New query = LTEALKWLAENLEEVALDQEAEGFDPTSEGTPLVPISSESIEAMNNSLFIKVLKSIGIVPPSDEQ
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3139161,3139590,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,154,154
+
+19
+18
+21
+Hypolimnas_misippus,SGBE01001563.1,3134422,3134556,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,38,44
+
+Hypolimnas_misippus,SGBE01001563.1,3139161,3139590,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,154,154
+
+Getting Gene
+min = set137_frame2, 0.673
+5 top scores:
+[['set137_frame2', 0.673]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_137_frame2.fa.txt
+4 136
+Nymphalis_io_XM_050487249.1_Frame_0_rightoh_1_query_Exon_21
+ETYWRIPSSIHYDTIRKRREIVIKAVNKELIVD------STNNNAEGIQEKNNPKDESSDDDDLFDNLRKMRDVSPYKSNTPSRSVSNNRKRNRSLSSDEENNRKMQKIDEDDDEEDILSFAKKTLQRADPP
+4 136
+set137_frame2
+ETYWRIPSTLHHETIRKRREIIIKAVNKELIIDDTTNDTNTENNKQTTQENNDSKAESSDDDDLFDNLRKMREITPYKSDS-NRNVSNNRKRDRSMDSGEENNRKMQKIDE-DDSEDILSFAKKTLQHNDFP
+Original query = ETYWRIPSSIHYDTIRKRREIVIKAVNKELIVDSTNNNAEGIQEKNNPKDESSDDDDLFDNLRKMRDVSPYKSNTPSRSVSNNRKRNRSLSSDEENNRKMQKIDEDDDEEDILSFAKKTLQRADPPADPPADHSDS
+New query = ETYWRIPSTLHHETIRKRREIIIKAVNKELIIDDTTNDTNTENNKQTTQENNDSKAESSDDDDLFDNLRKMREITPYKSDS-NRNVSNNRKRDRSMDSGEENNRKMQKIDE-DDSEDILSFAKKTLQHNDFP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3106490,3106673,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Hypolimnas_misippus,SGBE01001563.1,3106163,3106416,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Hypolimnas_misippus,SGBE01001563.1,3107753,3108009,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set12_frame1, 0.05
+5 top scores:
+[['set13_frame2', 1.803], ['set24_frame0', 1.818], ['set30_frame0', 1.814], ['set12_frame1', 0.05], ['set15_frame1', 1.847]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_12_frame1.fa.txt
+7 68
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_0_query_Exon_2
+LLVNLTNPALLLYREEVPVERTARHNYLQILTHLQSYKEEAFIKVETWQVFAKKLAKILEI
+7 68
+set12_frame1
+LLVNLTNPALLLYREEVPVERTARHNYLQILSHLQSYKEEAFTKVETWQVFAKKLAKILEI
+Original query = LLVNLTNPALLLYREEVPVERTARHNYLQILTHLQSYKEEAFIKVETWQVFAKKLAKILEI
+New query = LLVNLTNPALLLYREEVPVERTARHNYLQILSHLQSYKEEAFTKVETWQVFAKKLAKILEI
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3107366,3107500,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Hypolimnas_misippus,SGBE01001563.1,3106163,3106416,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Hypolimnas_misippus,SGBE01001563.1,3108360,3108557,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set24_frame0, 0.0
+5 top scores:
+[['set57_frame2', 1.795], ['set24_frame0', 0.0], ['set30_frame0', 1.712], ['set12_frame1', 1.738], ['set15_frame1', 1.825]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_24_frame0.fa.txt
+41 86
+Vanessa_tameamea_XM_026628490.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+41 86
+set24_frame0
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+New query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASVHDQ
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3107753,3108009,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Hypolimnas_misippus,SGBE01001563.1,3106490,3106673,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Hypolimnas_misippus,SGBE01001563.1,3109076,3109258,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set27_frame0, 0.092
+5 top scores:
+[['set21_frame0', 1.858], ['set27_frame0', 0.092], ['set77_frame1', 1.841], ['set47_frame2', 1.868]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_27_frame0.fa.txt
+0 85
+Vanessa_tameamea_XM_026628490.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIVLYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLTMRMAETKERMNKVKMYSST
+0 85
+set27_frame0
+VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALHRSVDEKLRDDQELLTMRMSETKERLNKVKQYSST
+Original query = VLWALNQAGILDIVLYMSSENEKQYFMHIIEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLTMRMAETKERMNKVKMYSST
+New query = VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALHRSVDEKLRDDQELLTMRMSETKERLNKVKQYSST
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3108360,3108557,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Hypolimnas_misippus,SGBE01001563.1,3107366,3107500,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Hypolimnas_misippus,SGBE01001563.1,3109656,3109943,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set25_frame2, 0.082
+5 top scores:
+[['set7_frame0', 1.856], ['set41_frame0', 1.844], ['set61_frame1', 1.83], ['set25_frame2', 0.082], ['set57_frame2', 1.831]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_25_frame2.fa.txt
+29 94
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVIQNMKSISENELISLKPLNKISNLDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+29 94
+set25_frame2
+HSRFGGTYVVQNMKSISDNELICLKPLNKISSLDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+Original query = HSRFGGTYVIQNMKSISENELISLKPLNKISNLDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+New query = HSRFGGTYVVQNMKSISDNELICLKPLNKISSLDFNGSKKSKLVKPKNRRPTESGMLERRSAFAI
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3109076,3109258,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+9
+Hypolimnas_misippus,SGBE01001563.1,3107753,3108009,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Hypolimnas_misippus,SGBE01001563.1,3114943,3115093,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Getting Gene
+min = set47_frame1, 0.055
+5 top scores:
+[['set46_frame2', 1.751], ['set63_frame2', 1.758], ['set118_frame2', 1.8], ['set128_frame0', 1.733], ['set47_frame1', 0.055]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_47_frame1.fa.txt
+30 90
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNPMMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHDFQIGLV
+30 90
+set47_frame1
+LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+Original query = LFLKEFCIEFLNSSYNPMMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHDFQIGLV
+New query = LFLKEFCIEFLNSSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3109656,3109943,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Hypolimnas_misippus,SGBE01001563.1,3108360,3108557,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Hypolimnas_misippus,SGBE01001563.1,3114943,3115093,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Getting Gene
+min = set33_frame1, 0.639
+5 top scores:
+[['set26_frame0', 1.885], ['set33_frame1', 0.639]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_33_frame1.fa.txt
+17 112
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_2_query_Exon_7
+ETLSVPTFHFVQQQMEKYSDMIKVERKRFPVWVRRLHVALRAFRELLQSLRVARGAA-AAVRDAARALQAALLYAPEYREFVLALLLAYDENKMP
+17 112
+set33_frame1
+ETMSVPTFHYVQQQMEKYYDMIKVEKKKFAVWVRRLHLALRAYKELLNTLLAMDKANDITVRESAKVLKSNLFYVLEYREFILSIFLNYDENKMP
+Original query = ETLSVPTFHFVQQQMEKYSDMIKVERKRFPVWVRRLHVALRAFRELLQSLRVARGAAAAVRDAARALQAALLYAPEYREFVLALLLAYDENKMP
+New query = ETMSVPTFHYVQQQMEKYYDMIKVEKKKFAVWVRRLHLALRAYKELLNTLLAMDKANDITVRESAKVLKSNLFYVLEYREFILSIFLNYDENKMP
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3110189,3110307,0,Y,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_8,1,29,39
+
+6
+10
+Hypolimnas_misippus,SGBE01001563.1,3109076,3109258,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Hypolimnas_misippus,SGBE01001563.1,3117574,3117654,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set32_frame1, 0.236
+5 top scores:
+[['set32_frame1', 0.236], ['set161_frame1', 1.644], ['set17_frame2', 1.684], ['set36_frame0', 1.735], ['set120_frame2', 1.735]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_32_frame1.fa.txt
+11 50
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_1_query_Exon_8
+SYLADLVETEHLFLKLLEEFCKNTGLVVQKKVRKKGKSK
+11 50
+set32_frame1
+SYLVDLIETEHLFLKMLEHFCKKTGLVVQKKVRKKTKSK
+Original query = SYLADLVETEHLFLKLLEEFCKNTGLVVQKKVRKKGKSK
+New query = SYLVDLIETEHLFLKMLEHFCKKTGLVVQKKVRKKTKSK
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3114943,3115093,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+7
+11
+Hypolimnas_misippus,SGBE01001563.1,3109656,3109943,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Hypolimnas_misippus,SGBE01001563.1,3118000,3118109,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Getting Gene
+min = set117_frame0, 0.268
+5 top scores:
+[['set117_frame0', 0.268], ['set83_frame2', 1.77], ['set85_frame2', 1.817], ['set194_frame2', 1.825], ['set188_frame2', 1.828]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_117_frame0.fa.txt
+16 65
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_2_query_Exon_9
+QKPRAPKPKRVETAQWEEVRPQVAAVLRAGVEEYPPPFDAASDTPIDQQ
+16 65
+set117_frame0
+QKPRAQKPKQVEITRWEEIRPQVAAVLSSGVEEYPPPFDAASDTPIDQQ
+Original query = QKPRAPKPKRVETAQWEEVRPQVAAVLRAGVEEYPPPFDAASDTPIDQQ
+New query = QKPRAQKPKQVEITRWEEIRPQVAAVLSSGVEEYPPPFDAASDTPIDQQ
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3117574,3117654,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+7
+12
+13
+14
+Hypolimnas_misippus,SGBE01001563.1,3109656,3109943,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Hypolimnas_misippus,SGBE01001563.1,3121244,3121442,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set188_frame2, 0.084
+5 top scores:
+[['set188_frame2', 0.084], ['set35_frame1', 1.565], ['set161_frame1', 1.565], ['set105_frame1', 1.604], ['set118_frame1', 1.613]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_188_frame2.fa.txt
+16 42
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRDHKYEGAVGMLRAA
+16 42
+set188_frame2
+EDCMKKIQKLMRDHKYEGAVGTLRAA
+Original query = EDCMKKIQKLMRDHKYEGAVGMLRAA
+New query = EDCMKKIQKLMRDHKYEGAVGTLRAA
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3118000,3118109,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+9
+13
+14
+Hypolimnas_misippus,SGBE01001563.1,3114943,3115093,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_9,1,48,48
+
+Hypolimnas_misippus,SGBE01001563.1,3121244,3121442,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set67_frame1, 0.212
+5 top scores:
+[['set67_frame1', 0.212], ['set31_frame2', 1.735], ['set145_frame2', 1.745], ['set147_frame2', 1.776], ['set41_frame2', 1.783]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_67_frame1.fa.txt
+3 37
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGVDGVTEDEELDMLETIYNTDLGVE
+3 37
+set67_frame1
+EVWPEEGIFGVNGIPEDEELDMLETIYNTDLGVD
+Original query = EVWPEEGIFGVDGVTEDEELDMLETIYNTDLGVEE
+New query = EVWPEEGIFGVNGIPEDEELDMLETIYNTDLGVD
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,0,0,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_12,0,0,14
+
+10
+14
+Hypolimnas_misippus,SGBE01001563.1,3117574,3117654,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Hypolimnas_misippus,SGBE01001563.1,3121244,3121442,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set23_frame0, 0.701
+5 top scores:
+[['set23_frame0', 0.701], ['set85_frame1', 1.442], ['set54_frame2', 1.451], ['set104_frame2', 1.591], ['set89_frame1', 1.614]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_23_frame0.fa.txt
+21 38
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_1_query_Exon_12
+AYINEEEAQENSQYEDD
+21 38
+set23_frame0
+TTINEEEVQDNSEYDDG
+Original query = AYINEEEAQENSQYEDD
+New query = TTINEEEVQDNSEYDDG
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3121017,3121083,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_2_query_Exon_13,5,20,21
+
+11
+15
+Hypolimnas_misippus,SGBE01001563.1,3118000,3118109,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Hypolimnas_misippus,SGBE01001563.1,3125527,3125675,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Getting Gene
+min = set75_frame1, 0.277
+5 top scores:
+[['set75_frame1', 0.277], ['set123_frame0', 1.515], ['set118_frame2', 1.527], ['set74_frame2', 1.55], ['set162_frame2', 1.618]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_75_frame1.fa.txt
+3 24
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_2_query_Exon_13
+EEEEDRTTSVVETDFDFQDFV
+3 24
+set75_frame1
+EEDEERTTSVVETDFDFKDFV
+Original query = EEEEDRTTSVVETDFDFQDFVL
+New query = EEDEERTTSVVETDFDFKDFV
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3121244,3121442,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Hypolimnas_misippus,SGBE01001563.1,3118000,3118109,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Hypolimnas_misippus,SGBE01001563.1,3128098,3128192,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Getting Gene
+min = set90_frame2, 0.724
+5 top scores:
+[['set90_frame2', 0.724], ['set5_frame2', 1.837], ['set146_frame2', 1.851], ['set56_frame0', 1.867], ['set93_frame0', 1.795]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_90_frame2.fa.txt
+4 68
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_0_query_Exon_14
+FCHPRVVSACAGVLAR-EAGGARAAHCALKLLHRVAWDCARPAMLFQASLFLVFQRILDRPAPH
+4 68
+set90_frame2
+FCHPRVVSACVSLLERFDKNSSHTNHCVAKMLHRIAWDCNRIAMMFQATLFLIFQKILHNPLPH
+Original query = FCHPRVVSACAGVLAREAGGARAAHCALKLLHRVAWDCARPAMLFQASLFLVFQRILDRPAPHRE
+New query = FCHPRVVSACVSLLERFDKNSSHTNHCVAKMLHRIAWDCNRIAMMFQATLFLIFQKILHNPLPH
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3125527,3125675,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+13
+12
+11
+17
+Hypolimnas_misippus,SGBE01001563.1,3118000,3118109,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Hypolimnas_misippus,SGBE01001563.1,3131328,3131534,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+Getting Gene
+min = set180_frame0, 0.29
+5 top scores:
+[['set180_frame0', 0.29], ['set343_frame2', 1.616], ['set40_frame2', 1.709], ['set187_frame2', 1.758], ['set332_frame1', 1.766]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_180_frame0.fa.txt
+1 49
+Vanessa_tameamea_XM_026628490.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFAIFILRKFTEIASKSNKVFIELLFWKNSKDSVEIEHGYDLYHD
+1 49
+set180_frame0
+ELEKFAIFVLRKFTEIASGSGKVFIELLFWKNSKDAVEIELGYDLYND
+Original query = ELEKFAIFILRKFTEIASKSNKVFIELLFWKNSKDSVEIEHGYDLYHDQ
+New query = ELEKFAIFVLRKFTEIASGSGKVFIELLFWKNSKDAVEIELGYDLYND
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3128098,3128192,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+14
+18
+Hypolimnas_misippus,SGBE01001563.1,3121244,3121442,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Hypolimnas_misippus,SGBE01001563.1,3134422,3134556,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,38,44
+
+Getting Gene
+min = set184_frame0, 0.41
+5 top scores:
+[['set184_frame0', 0.41], ['set73_frame1', 1.656], ['set84_frame1', 1.664], ['set270_frame2', 1.678], ['set277_frame2', 1.694]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_184_frame0.fa.txt
+5 36
+Vanessa_tameamea_XM_026628490.1_Frame_1_rightoh_1_query_Exon_16
+DKPGRAAWTEEQEEELRSLYMENVARPESDQ
+5 36
+set184_frame0
+DKPGKALWTEEQEDELRKLYMENQTNPENDQ
+Original query = DKPGRAAWTEEQEEELRSLYMENVARPESDQ
+New query = DKPGKALWTEEQEDELRKLYMENQTNPENDQ
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3131328,3131534,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+15
+19
+20
+Hypolimnas_misippus,SGBE01001563.1,3125527,3125675,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_2_query_Exon_15,1,49,49
+
+Hypolimnas_misippus,SGBE01001563.1,3138711,3138907,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+Getting Gene
+min = set148_frame1, 0.235
+5 top scores:
+[['set148_frame1', 0.235], ['set203_frame2', 1.649], ['set186_frame2', 1.822], ['set152_frame2', 1.832], ['set49_frame1', 1.824]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_148_frame1.fa.txt
+10 78
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFKAPTKKSNRERQEKVSKEFNEEEDNLLAELWKQYQDSP
+10 78
+set148_frame1
+VIDWILENLIDQTRTRRSVIRKLKELGLIFKAPTKKSNKERKEKVPKDFSEEEDSLLAELWKQYEDSS
+Original query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFKAPTKKSNRERQEKVSKEFNEEEDNLLAELWKQYQDSP
+New query = VIDWILENLIDQTRTRRSVIRKLKELGLIFKAPTKKSNKERKEKVPKDFSEEEDSLLAELWKQYEDSS
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3134422,3134556,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,38,44
+
+16
+20
+Hypolimnas_misippus,SGBE01001563.1,3128098,3128192,0,N,Danaus_plexippus_XM_061521662.1_Frame_1_rightoh_1_query_Exon_16,1,31,31
+
+Hypolimnas_misippus,SGBE01001563.1,3138711,3138907,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+Getting Gene
+min = set134_frame2, 0.497
+5 top scores:
+[['set134_frame2', 0.497], ['set86_frame1', 1.755], ['set129_frame2', 1.759], ['set99_frame2', 1.778], ['set117_frame2', 1.78]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_134_frame2.fa.txt
+12 65
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_1_query_Exon_18
+PMGLITARMPRKRSKRSFVERMLELGIIQDKNQCRKRRQRKTKSSGDDGDKLN
+12 65
+set134_frame2
+PMGLILARMPRKRSKRSFVDRMLELGIIQDKKQCRK-KQRNTKTTGDD-DKSN
+Original query = PMGLITARMPRKRSKRSFVERMLELGIIQDKNQCRKRRQRKTKSSGDDGDKLN
+New query = PMGLILARMPRKRSKRSFVDRMLELGIIQDKKQCRK-KQRNTKTTGDD-DKSN
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3135483,3135668,0,Y,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_19,45,61,61
+
+17
+21
+Hypolimnas_misippus,SGBE01001563.1,3131328,3131534,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_17,1,67,68
+
+Hypolimnas_misippus,SGBE01001563.1,3139161,3139590,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,154,154
+
+Getting Gene
+min = set94_frame2, 0.837
+5 top scores:
+[['set94_frame2', 0.837], ['set1_frame2', 1.735], ['set178_frame2', 1.836], ['set23_frame0', 1.768], ['set41_frame0', 1.841]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_94_frame2.fa.txt
+6 70
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_1_query_Exon_19
+SSSESEHSSSDDENEARPPLRTINVK-RKKPSKKKESSKTKKAER-LELSASEIAKLLIQAVAS
+6 70
+set94_frame2
+SSSESENSSSDSDNDVRASSPSITVKPKKKPIKKKEQSKSKKTVRSKELSASEIAKLLVQAVDS
+Original query = SSSESEHSSSDDENEARPPLRTINVKRKKPSKKKESSKTKKAERLELSASEIAKLLIQAVAS
+New query = SSSESENSSSDSDNDVRASSPSITVKPKKKPIKKKEQSKSKKTVRSKELSASEIAKLLVQAVDS
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3138711,3138907,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_0_query_Exon_20,2,65,65
+
+18
+21
+Hypolimnas_misippus,SGBE01001563.1,3134422,3134556,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,38,44
+
+Hypolimnas_misippus,SGBE01001563.1,3139161,3139590,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,154,154
+
+Getting Gene
+min = set114_frame1, 0.159
+5 top scores:
+[['set114_frame1', 0.159], ['set137_frame2', 1.785], ['set1_frame2', 1.853], ['set30_frame1', 1.822], ['set48_frame1', 1.856]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_114_frame1.fa.txt
+33 98
+Vanessa_tameamea_XM_026628490.1_Frame_2_rightoh_0_query_Exon_20
+LSEALKWLAENLEEVALDQEAEGFDPESEGTPLVPISSESVEAMDNPLFVKVLKSIGIAPPSDEQ
+33 98
+set114_frame1
+LTEALKWLAENLEEVALDQEAEGFDPTSEGTPLVPISSESIEAMNNSLFIKVLKSIGIVPPSDEQ
+Original query = LSEALKWLAENLEEVALDQEAEGFDPESEGTPLVPISSESVEAMDNPLFVKVLKSIGIAPPSDEQ
+New query = LTEALKWLAENLEEVALDQEAEGFDPTSEGTPLVPISSESIEAMNNSLFIKVLKSIGIVPPSDEQ
+Scaffold = SGBE01001563.1, start = 3106163, end = 3106416
+Hypolimnas_misippus,SGBE01001563.1,3139161,3139590,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,154,154
+
+19
+18
+21
+Hypolimnas_misippus,SGBE01001563.1,3134422,3134556,0,N,Danaus_plexippus_XM_061521662.1_Frame_2_rightoh_1_query_Exon_18,1,38,44
+
+Hypolimnas_misippus,SGBE01001563.1,3139161,3139590,0,N,Danaus_plexippus_XM_061521662.1_Frame_0_rightoh_1_query_Exon_21,1,154,154
+
+Getting Gene
+min = set137_frame2, 0.704
+5 top scores:
+[['set137_frame2', 0.704]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Hypolimnas_misippus/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_137_frame2.fa.txt
+4 56
+set137_frame2
+ETYWRIPSTLHHETIRKRREIIIKAVNKELIIDDTTNDTNTENNKQTTQENN
+Original query = ETYWRIPSSIHYETIRKRREIVMKAVNNELLVDSTNDTNSTENNAGTTQENNPKDESSDDEDLFDTLRKMRDVSPQKSSHPTSNILNNRKRNRSLSSDDENNRKMQKIDEDDSEEDILSFAKKTLQRDDLPDTEELPARDSGSGN
+New query = ETYWRIPSTLHHETIRKRREIIIKAVNKELIIDDTTNDTNTENNKQTTQENN

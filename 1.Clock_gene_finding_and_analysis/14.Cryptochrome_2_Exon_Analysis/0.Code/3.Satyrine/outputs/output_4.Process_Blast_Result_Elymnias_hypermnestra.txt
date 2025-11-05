@@ -1,0 +1,1614 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Elymnias_hypermnestra
+Processing Exon_2
+0 query coordinate
+Period_gene_genomic_sequence_individual_exon
+79
+[[1, 2]]
+reached here
+Before splice: 3582,3725
+after splice: 3582,3725
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = TA, right =ga, stop_counter = 0
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = TA, right =gc, stop_counter = 1
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = TA, right =ga, stop_counter = 1
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = CG, right =tc, stop_counter = 2
+sequence:
+CGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactca
+sequence:
+RTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKT
+left = TA, right =gc, stop_counter = 2
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = TA, right =ga, stop_counter = 2
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = AC, right =aa, stop_counter = 3
+sequence:
+ACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaac
+sequence:
+TLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNK
+left = CG, right =tc, stop_counter = 3
+sequence:
+CGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactca
+sequence:
+RTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKT
+left = TA, right =gc, stop_counter = 3
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = TA, right =ga, stop_counter = 3
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = TT, right =ta, stop_counter = 4
+sequence:
+TTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataa
+sequence:
+LSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPN
+left = AC, right =aa, stop_counter = 4
+sequence:
+ACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaac
+sequence:
+TLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNK
+left = CG, right =tc, stop_counter = 4
+sequence:
+CGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactca
+sequence:
+RTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKT
+left = TA, right =gc, stop_counter = 4
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = TA, right =ga, stop_counter = 4
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = TC, right =Ca, stop_counter = 5
+sequence:
+TCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaa
+sequence:
+STLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRP
+left = TT, right =ta, stop_counter = 5
+sequence:
+TTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataa
+sequence:
+LSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPN
+left = AC, right =aa, stop_counter = 5
+sequence:
+ACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaac
+sequence:
+TLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNK
+left = CG, right =tc, stop_counter = 5
+sequence:
+CGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactca
+sequence:
+RTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKT
+left = TA, right =gc, stop_counter = 5
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = TA, right =ga, stop_counter = 5
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = AC, right =AC, stop_counter = 6
+sequence:
+ACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACC
+sequence:
+TLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRR
+left = TC, right =Ca, stop_counter = 6
+sequence:
+TCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaa
+sequence:
+STLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRP
+left = TT, right =ta, stop_counter = 6
+sequence:
+TTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataa
+sequence:
+LSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPN
+left = AC, right =aa, stop_counter = 6
+sequence:
+ACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaac
+sequence:
+TLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNK
+left = CG, right =tc, stop_counter = 6
+sequence:
+CGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactca
+sequence:
+RTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKT
+left = TA, right =gc, stop_counter = 6
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = TA, right =ga, stop_counter = 6
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = CT, right =GA, stop_counter = 7
+sequence:
+CTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAG
+sequence:
+LFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVR
+left = AC, right =AC, stop_counter = 7
+sequence:
+ACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACC
+sequence:
+TLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRR
+left = TC, right =Ca, stop_counter = 7
+sequence:
+TCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaa
+sequence:
+STLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRP
+left = TT, right =ta, stop_counter = 7
+sequence:
+TTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataa
+sequence:
+LSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPN
+left = AC, right =aa, stop_counter = 7
+sequence:
+ACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaac
+sequence:
+TLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNK
+left = CG, right =tc, stop_counter = 7
+sequence:
+CGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactca
+sequence:
+RTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKT
+left = TA, right =gc, stop_counter = 7
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = TA, right =ga, stop_counter = 7
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = TT, right =GA, stop_counter = 8
+sequence:
+TTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAG
+sequence:
+FSTRGSHILFFPLGNAFRHEPRPIVQECGSRRV
+left = CT, right =GA, stop_counter = 8
+sequence:
+CTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAG
+sequence:
+LFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVR
+left = AC, right =AC, stop_counter = 8
+sequence:
+ACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACC
+sequence:
+TLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRR
+left = TC, right =Ca, stop_counter = 8
+sequence:
+TCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaa
+sequence:
+STLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRP
+left = TT, right =ta, stop_counter = 8
+sequence:
+TTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataa
+sequence:
+LSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPN
+left = AC, right =aa, stop_counter = 8
+sequence:
+ACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaac
+sequence:
+TLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNK
+left = CG, right =tc, stop_counter = 8
+sequence:
+CGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactca
+sequence:
+RTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKT
+left = TA, right =gc, stop_counter = 8
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = TA, right =ga, stop_counter = 8
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = AG, right =AG, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGT
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRR
+left = AG, right =GA, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAG
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRV
+left = AG, right =GA, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAG
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVR
+left = AG, right =AC, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACC
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRR
+left = AG, right =Ca, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaa
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRP
+left = AG, right =ta, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataa
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPN
+left = AG, right =aa, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaac
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNK
+left = AG, right =tc, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactca
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKT
+left = AG, right =gc, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = AG, right =ga, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = AG, right =cc, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccc
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRN
+left = AG, right =tc, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctca
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNP
+left = AG, right =aA, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAA
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQ
+left = AG, right =TC, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCC
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQN
+left = AG, right =AC, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACA
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNP
+left = AG, right =AG, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGT
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQ
+left = AG, right =GA, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAG
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQV
+left = AG, right =gc, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAGgct
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVR
+left = AG, right =ca, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAGgctcaa
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVRL
+left = AG, right =tt, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAGgctcaattt
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVRLN
+left = AG, right =tc, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAGgctcaattttcg
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVRLNF
+left = AG, right =ca, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAGgctcaattttcgcat
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVRLNFR
+left = AG, right =tc, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAGgctcaattttcgcattca
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVRLNFRI
+left = AG, right =tc, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAGgctcaattttcgcattcatcc
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVRLNFRIH
+left = AG, right =ct, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAGgctcaattttcgcattcatccctg
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVRLNFRIHP
+left = AG, right =gt, stop_counter = 9
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVRLNFRIHP
+[[1, 2]]
+start_coordinate : 3450874,stop_coordinate : 3451035
+3609 3773 Y N
+Elymnias_hypermnestra,JACTOM010000043.1,3450873,3451037,0,N,Maniola_jurtina_XM_045904525.1_Frame_1_rightoh_2_query_Exon_2,1,54,54,Y,N
+
+Elymnias_hypermnestra
+Processing Exon_3
+Elymnias_hypermnestra_coordinates_Maniola_jurtina.csv
+1 query coordinate
+61
+[[1, 1]]
+reached here
+Before splice: 2111,2295
+after splice: 2111,2295
+sequence:
+ATTATAGAGCATAATGGTGGTAAAGCGCCATTAACTTACCATCAGTTTCAAGCATTAATTGCGAGCATGCCTCCACCCCTGCCACCAGAAGAAACCATAACGTTACAAACTCTTGATGGTGCTGTTACACCTGTAGCTGAAAAACACAATGAGCTTTACGGTGTACCAACTCTTGAAGAACTCG
+sequence:
+IIEHNGGKAPLTYHQFQALIASMPPPLPPEETITLQTLDGAVTPVAEKHNELYGVPTLEEL
+left = AG, right =GT, stop_counter = 0
+IIEHNGGKAPLTYHQFQALIASMPPPLPPEETITLQTLDGAVTPVAEKHNELYGVPTLEEL
+[[1, 1]]
+start_coordinate : 3449376,stop_coordinate : 3449558
+2111 2295 Y N
+Elymnias_hypermnestra,JACTOM010000043.1,3449375,3449559,0,N,Maniola_jurtina_XM_045904525.1_Frame_1_rightoh_1_query_Exon_3,1,61,61,Y,N
+
+Elymnias_hypermnestra
+Processing Exon_4
+Elymnias_hypermnestra_coordinates_Maniola_jurtina.csv
+1 query coordinate
+56
+[[2, 2]]
+reached here
+Before splice: 7968,8139
+after splice: 7968,8139
+sequence:
+TTCGAGACGGAAAATTTAAAACCCGTTGTATGGCTTGGTGGAGAAAGTGAAGGGTTACAACGGTTGAAACGACATTTAGAACGAAAGGCTTGGGTAGCTTCGTTCGGGCGACCCAAAATGACACCTCAATCTCTGTTAGCAAGTCCAACAGGACTTTCTCCTTACTTAag
+sequence:
+FETENLKPVVWLGGESEGLQRLKRHLERKAWVASFGRPKMTPQSLLASPTGLSPYL
+left = AG, right =gt, stop_counter = 0
+FETENLKPVVWLGGESEGLQRLKRHLERKAWVASFGRPKMTPQSLLASPTGLSPYL
+[[2, 2]]
+start_coordinate : 3455234,stop_coordinate : 3455401
+7968 8139 Y N
+Elymnias_hypermnestra,JACTOM010000043.1,3455232,3455403,0,N,Maniola_jurtina_XM_045904525.1_Frame_2_rightoh_2_query_Exon_4,1,56,56,Y,N
+
+Elymnias_hypermnestra
+Processing Exon_5
+Elymnias_hypermnestra_coordinates_Maniola_jurtina.csv
+1 query coordinate
+75
+[[1, 0]]
+reached here
+Before splice: 10719,10944
+after splice: 10719,10944
+sequence:
+TTTGGATGTTTATCCACAAGGCTATTTTATTCACAACTAACAGATTTGTATAGAAGGGTGAAACATGTGCAGCCACCTTTGTCTCTGCACGGACAGATACTTTGGAGAGAATTCTTTTACTGTGCTGCTACCAGAAACCCTAATTTTGACCGTATGGAAGGGAATCCAATATGTGTACAAATACCGTGGGAGAAAAATCCCGATGCTCTTGCAAAATGGGCAAGC
+sequence:
+FGCLSTRLFYSQLTDLYRRVKHVQPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNPDALAKWAS
+left = AG, right =GT, stop_counter = 0
+FGCLSTRLFYSQLTDLYRRVKHVQPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNPDALAKWAS
+[[1, 0]]
+start_coordinate : 3457984,stop_coordinate : 3458208
+10719 10944 Y N
+Elymnias_hypermnestra,JACTOM010000043.1,3457983,3458208,0,N,Maniola_jurtina_XM_045904525.1_Frame_1_rightoh_0_query_Exon_5,1,75,75,Y,N
+
+Elymnias_hypermnestra
+Processing Exon_6
+Elymnias_hypermnestra_coordinates_Maniola_jurtina.csv
+1 query coordinate
+47
+[[0, 0]]
+reached here
+Before splice: 11640,11780
+after splice: 11640,11780
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAA
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMK
+left = AG, right =GC, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCA
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKA
+left = AG, right =AG, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCAAGT
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKAS
+left = AG, right =AC, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCAAGTACT
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKAST
+left = AG, right =AC, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCAAGTACTACT
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASTT
+left = AG, right =TT, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCAAGTACTACTTTT
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASTTF
+left = AG, right =CT, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCAAGTACTACTTTTCTG
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASTTFL
+left = AG, right =TT, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCAAGTACTACTTTTCTGTTT
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASTTFLF
+left = AG, right =AT, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCAAGTACTACTTTTCTGTTTATA
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASTTFLFI
+left = AG, right =TA, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCAAGTACTACTTTTCTGTTTATATAC
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASTTFLFIY
+left = AG, right =GT, stop_counter = 0
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASTTFLFIY
+[[0, 0]]
+start_coordinate : 3458904,stop_coordinate : 3459071
+11640 11807 Y N
+Elymnias_hypermnestra,JACTOM010000043.1,3458904,3459071,0,N,Maniola_jurtina_XM_045904525.1_Frame_0_rightoh_0_query_Exon_6,1,56,56,Y,N
+
+Elymnias_hypermnestra
+Processing Exon_7
+Elymnias_hypermnestra_coordinates_Maniola_jurtina.csv
+1 query coordinate
+50
+[[0, 2]]
+reached here
+Before splice: 13594,13745
+after splice: 13594,13745
+sequence:
+GTGTTTGATGAGCTACTCTTGGATGCAGACTGGTCCGTAAACGCTGGCATGTGGATGTGGTTGTCGTGCTCATCATTCTTCCAACAGTTTTTCCACTGCTATTGTCCCGTGCGTTTCGGACGCAAAACGGATCCCAATGGAGACTATATTAG
+sequence:
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDYI
+left = AG, right =GT, stop_counter = 0
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDYI
+[[0, 2]]
+start_coordinate : 3460858,stop_coordinate : 3461007
+13594 13745 Y N
+Elymnias_hypermnestra,JACTOM010000043.1,3460858,3461009,0,N,Maniola_jurtina_XM_045904525.1_Frame_0_rightoh_2_query_Exon_7,1,50,50,Y,N
+
+Elymnias_hypermnestra
+Processing Exon_8
+Elymnias_hypermnestra_coordinates_Maniola_jurtina.csv
+1 query coordinate
+66
+[[1, 1]]
+reached here
+Before splice: 17464,17663
+after splice: 17464,17663
+sequence:
+AAGTATATTCCTGTACTAAAGGATATACCGACGCGGTATATTCACGAGCCTTGGATGGCTCCTGAATCAGTGCAAAAGGAATCTAAATGTATCATTGGACGTGATTATCCGAAGCCGATTGTTGATCATCAAAAGGTTTCACAGACCAACATTCAGCGCATCAAACAAGTGTACTCAGAACTTGCCAAGTTTATACCTG
+sequence:
+KYIPVLKDIPTRYIHEPWMAPESVQKESKCIIGRDYPKPIVDHQKVSQTNIQRIKQVYSELAKFIP
+left = AG, right =Ga, stop_counter = 0
+sequence:
+AAGTATATTCCTGTACTAAAGGATATACCGACGCGGTATATTCACGAGCCTTGGATGGCTCCTGAATCAGTGCAAAAGGAATCTAAATGTATCATTGGACGTGATTATCCGAAGCCGATTGTTGATCATCAAAAGGTTTCACAGACCAACATTCAGCGCATCAAACAAGTGTACTCAGAACTTGCCAAGTTTATACCTGGag
+sequence:
+KYIPVLKDIPTRYIHEPWMAPESVQKESKCIIGRDYPKPIVDHQKVSQTNIQRIKQVYSELAKFIPG
+left = AG, right =gt, stop_counter = 0
+KYIPVLKDIPTRYIHEPWMAPESVQKESKCIIGRDYPKPIVDHQKVSQTNIQRIKQVYSELAKFIPG
+[[1, 1]]
+start_coordinate : 3464729,stop_coordinate : 3464929
+17464 17666 Y N
+Elymnias_hypermnestra,JACTOM010000043.1,3464728,3464930,0,N,Maniola_jurtina_XM_045904525.1_Frame_1_rightoh_1_query_Exon_8,1,67,67,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Elymnias_hypermnestra
+Processing Exon_2
+0 query coordinate
+Elymnias_hypermnestra_coordinates_Maniola_jurtina.csv
+81
+[[1, 2]]
+reached here
+Before splice: 3582,3731
+after splice: 3582,3731
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccc
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRN
+left = TA, right =tc, stop_counter = 0
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctca
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNP
+left = TA, right =cc, stop_counter = 1
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccc
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRN
+left = TA, right =tc, stop_counter = 1
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctca
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNP
+left = CG, right =ga, stop_counter = 2
+sequence:
+CGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+RTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = TA, right =cc, stop_counter = 2
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccc
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRN
+left = TA, right =tc, stop_counter = 2
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctca
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNP
+left = AC, right =gc, stop_counter = 3
+sequence:
+ACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+TLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = CG, right =ga, stop_counter = 3
+sequence:
+CGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+RTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = TA, right =cc, stop_counter = 3
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccc
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRN
+left = TA, right =tc, stop_counter = 3
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctca
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNP
+left = TT, right =tc, stop_counter = 4
+sequence:
+TTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactca
+sequence:
+LSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKT
+left = AC, right =gc, stop_counter = 4
+sequence:
+ACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+TLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = CG, right =ga, stop_counter = 4
+sequence:
+CGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+RTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = TA, right =cc, stop_counter = 4
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccc
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRN
+left = TA, right =tc, stop_counter = 4
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctca
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNP
+left = TC, right =aa, stop_counter = 5
+sequence:
+TCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaac
+sequence:
+STLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNK
+left = TT, right =tc, stop_counter = 5
+sequence:
+TTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactca
+sequence:
+LSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKT
+left = AC, right =gc, stop_counter = 5
+sequence:
+ACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+TLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = CG, right =ga, stop_counter = 5
+sequence:
+CGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+RTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = TA, right =cc, stop_counter = 5
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccc
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRN
+left = TA, right =tc, stop_counter = 5
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctca
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNP
+left = AC, right =ta, stop_counter = 6
+sequence:
+ACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataa
+sequence:
+TLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPN
+left = TC, right =aa, stop_counter = 6
+sequence:
+TCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaac
+sequence:
+STLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNK
+left = TT, right =tc, stop_counter = 6
+sequence:
+TTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactca
+sequence:
+LSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKT
+left = AC, right =gc, stop_counter = 6
+sequence:
+ACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+TLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = CG, right =ga, stop_counter = 6
+sequence:
+CGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+RTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = TA, right =cc, stop_counter = 6
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccc
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRN
+left = TA, right =tc, stop_counter = 6
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctca
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNP
+left = CT, right =Ca, stop_counter = 7
+sequence:
+CTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaa
+sequence:
+LFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRP
+left = AC, right =ta, stop_counter = 7
+sequence:
+ACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataa
+sequence:
+TLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPN
+left = TC, right =aa, stop_counter = 7
+sequence:
+TCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaac
+sequence:
+STLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNK
+left = TT, right =tc, stop_counter = 7
+sequence:
+TTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactca
+sequence:
+LSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKT
+left = AC, right =gc, stop_counter = 7
+sequence:
+ACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+TLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = CG, right =ga, stop_counter = 7
+sequence:
+CGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+RTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = TA, right =cc, stop_counter = 7
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccc
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRN
+left = TA, right =tc, stop_counter = 7
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctca
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNP
+left = TT, right =AC, stop_counter = 8
+sequence:
+TTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACC
+sequence:
+FSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRR
+left = CT, right =Ca, stop_counter = 8
+sequence:
+CTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaa
+sequence:
+LFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRP
+left = AC, right =ta, stop_counter = 8
+sequence:
+ACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataa
+sequence:
+TLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPN
+left = TC, right =aa, stop_counter = 8
+sequence:
+TCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaac
+sequence:
+STLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNK
+left = TT, right =tc, stop_counter = 8
+sequence:
+TTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactca
+sequence:
+LSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKT
+left = AC, right =gc, stop_counter = 8
+sequence:
+ACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+TLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = CG, right =ga, stop_counter = 8
+sequence:
+CGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+RTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = TA, right =cc, stop_counter = 8
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccc
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRN
+left = TA, right =tc, stop_counter = 8
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctca
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNP
+left = AG, right =GA, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAG
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVR
+left = AG, right =AC, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACC
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRR
+left = AG, right =Ca, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaa
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRP
+left = AG, right =ta, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataa
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPN
+left = AG, right =aa, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaac
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNK
+left = AG, right =tc, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactca
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKT
+left = AG, right =gc, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = AG, right =ga, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = AG, right =cc, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccc
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRN
+left = AG, right =tc, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctca
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNP
+left = AG, right =aA, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAA
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQ
+left = AG, right =TC, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCC
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQN
+left = AG, right =AC, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACA
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNP
+left = AG, right =AG, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGT
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQ
+left = AG, right =GA, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAG
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQV
+left = AG, right =gc, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAGgct
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVR
+left = AG, right =ca, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAGgctcaa
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVRL
+left = AG, right =tt, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAGgctcaattt
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVRLN
+left = AG, right =tc, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAGgctcaattttcg
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVRLNF
+left = AG, right =ca, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAGgctcaattttcgcat
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVRLNFR
+left = AG, right =tc, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAGgctcaattttcgcattca
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVRLNFRI
+left = AG, right =tc, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAGgctcaattttcgcattcatcc
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVRLNFRIH
+left = AG, right =ct, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAGgctcaattttcgcattcatccctg
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVRLNFRIHP
+left = AG, right =gt, stop_counter = 9
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVRLNFRIHP
+[[1, 2]]
+start_coordinate : 3450874,stop_coordinate : 3451035
+3609 3773 Y N
+Elymnias_hypermnestra,JACTOM010000043.1,3450873,3451037,0,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_2_query_Exon_2,1,54,54,Y,N
+
+Elymnias_hypermnestra
+Processing Exon_3
+Elymnias_hypermnestra_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+61
+[[1, 1]]
+reached here
+Before splice: 2111,2295
+after splice: 2111,2295
+sequence:
+ATTATAGAGCATAATGGTGGTAAAGCGCCATTAACTTACCATCAGTTTCAAGCATTAATTGCGAGCATGCCTCCACCCCTGCCACCAGAAGAAACCATAACGTTACAAACTCTTGATGGTGCTGTTACACCTGTAGCTGAAAAACACAATGAGCTTTACGGTGTACCAACTCTTGAAGAACTCG
+sequence:
+IIEHNGGKAPLTYHQFQALIASMPPPLPPEETITLQTLDGAVTPVAEKHNELYGVPTLEEL
+left = AG, right =GT, stop_counter = 0
+IIEHNGGKAPLTYHQFQALIASMPPPLPPEETITLQTLDGAVTPVAEKHNELYGVPTLEEL
+[[1, 1]]
+start_coordinate : 3449376,stop_coordinate : 3449558
+2111 2295 Y N
+Elymnias_hypermnestra,JACTOM010000043.1,3449375,3449559,0,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_1_query_Exon_3,1,61,61,Y,N
+
+Elymnias_hypermnestra
+Processing Exon_4
+Elymnias_hypermnestra_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+56
+[[2, 2]]
+reached here
+Before splice: 7968,8139
+after splice: 7968,8139
+sequence:
+TTCGAGACGGAAAATTTAAAACCCGTTGTATGGCTTGGTGGAGAAAGTGAAGGGTTACAACGGTTGAAACGACATTTAGAACGAAAGGCTTGGGTAGCTTCGTTCGGGCGACCCAAAATGACACCTCAATCTCTGTTAGCAAGTCCAACAGGACTTTCTCCTTACTTAag
+sequence:
+FETENLKPVVWLGGESEGLQRLKRHLERKAWVASFGRPKMTPQSLLASPTGLSPYL
+left = AG, right =gt, stop_counter = 0
+FETENLKPVVWLGGESEGLQRLKRHLERKAWVASFGRPKMTPQSLLASPTGLSPYL
+[[2, 2]]
+start_coordinate : 3455234,stop_coordinate : 3455401
+7968 8139 Y N
+Elymnias_hypermnestra,JACTOM010000043.1,3455232,3455403,0,N,Bicyclus_anynana_XM_024084404.2_Frame_2_rightoh_2_query_Exon_4,1,56,56,Y,N
+
+Elymnias_hypermnestra
+Processing Exon_5
+Elymnias_hypermnestra_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+75
+[[1, 0]]
+reached here
+Before splice: 10719,10944
+after splice: 10719,10944
+sequence:
+TTTGGATGTTTATCCACAAGGCTATTTTATTCACAACTAACAGATTTGTATAGAAGGGTGAAACATGTGCAGCCACCTTTGTCTCTGCACGGACAGATACTTTGGAGAGAATTCTTTTACTGTGCTGCTACCAGAAACCCTAATTTTGACCGTATGGAAGGGAATCCAATATGTGTACAAATACCGTGGGAGAAAAATCCCGATGCTCTTGCAAAATGGGCAAGC
+sequence:
+FGCLSTRLFYSQLTDLYRRVKHVQPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNPDALAKWAS
+left = AG, right =GT, stop_counter = 0
+FGCLSTRLFYSQLTDLYRRVKHVQPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNPDALAKWAS
+[[1, 0]]
+start_coordinate : 3457984,stop_coordinate : 3458208
+10719 10944 Y N
+Elymnias_hypermnestra,JACTOM010000043.1,3457983,3458208,0,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_0_query_Exon_5,1,75,75,Y,N
+
+Elymnias_hypermnestra
+Processing Exon_6
+Elymnias_hypermnestra_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+47
+[[0, 0]]
+reached here
+Before splice: 11640,11780
+after splice: 11640,11780
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAA
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMK
+left = AG, right =GC, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCA
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKA
+left = AG, right =AG, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCAAGT
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKAS
+left = AG, right =AC, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCAAGTACT
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKAST
+left = AG, right =AC, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCAAGTACTACT
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASTT
+left = AG, right =TT, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCAAGTACTACTTTT
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASTTF
+left = AG, right =CT, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCAAGTACTACTTTTCTG
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASTTFL
+left = AG, right =TT, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCAAGTACTACTTTTCTGTTT
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASTTFLF
+left = AG, right =AT, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCAAGTACTACTTTTCTGTTTATA
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASTTFLFI
+left = AG, right =TA, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCAAGTACTACTTTTCTGTTTATATAC
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASTTFLFIY
+left = AG, right =GT, stop_counter = 0
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASTTFLFIY
+[[0, 0]]
+start_coordinate : 3458904,stop_coordinate : 3459071
+11640 11807 Y N
+Elymnias_hypermnestra,JACTOM010000043.1,3458904,3459071,0,N,Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_0_query_Exon_6,1,56,56,Y,N
+
+Elymnias_hypermnestra
+Processing Exon_7
+Elymnias_hypermnestra_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+50
+[[0, 2]]
+reached here
+Before splice: 13594,13745
+after splice: 13594,13745
+sequence:
+GTGTTTGATGAGCTACTCTTGGATGCAGACTGGTCCGTAAACGCTGGCATGTGGATGTGGTTGTCGTGCTCATCATTCTTCCAACAGTTTTTCCACTGCTATTGTCCCGTGCGTTTCGGACGCAAAACGGATCCCAATGGAGACTATATTAG
+sequence:
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDYI
+left = AG, right =GT, stop_counter = 0
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDYI
+[[0, 2]]
+start_coordinate : 3460858,stop_coordinate : 3461007
+13594 13745 Y N
+Elymnias_hypermnestra,JACTOM010000043.1,3460858,3461009,0,N,Bicyclus_anynana_XM_024084404.2_Frame_0_rightoh_2_query_Exon_7,1,50,50,Y,N
+
+Elymnias_hypermnestra
+Processing Exon_8
+Elymnias_hypermnestra_coordinates_Bicyclus_anynana.csv
+1 query coordinate
+66
+[[1, 1]]
+reached here
+Before splice: 17464,17663
+after splice: 17464,17663
+sequence:
+AAGTATATTCCTGTACTAAAGGATATACCGACGCGGTATATTCACGAGCCTTGGATGGCTCCTGAATCAGTGCAAAAGGAATCTAAATGTATCATTGGACGTGATTATCCGAAGCCGATTGTTGATCATCAAAAGGTTTCACAGACCAACATTCAGCGCATCAAACAAGTGTACTCAGAACTTGCCAAGTTTATACCTG
+sequence:
+KYIPVLKDIPTRYIHEPWMAPESVQKESKCIIGRDYPKPIVDHQKVSQTNIQRIKQVYSELAKFIP
+left = AG, right =Ga, stop_counter = 0
+sequence:
+AAGTATATTCCTGTACTAAAGGATATACCGACGCGGTATATTCACGAGCCTTGGATGGCTCCTGAATCAGTGCAAAAGGAATCTAAATGTATCATTGGACGTGATTATCCGAAGCCGATTGTTGATCATCAAAAGGTTTCACAGACCAACATTCAGCGCATCAAACAAGTGTACTCAGAACTTGCCAAGTTTATACCTGGag
+sequence:
+KYIPVLKDIPTRYIHEPWMAPESVQKESKCIIGRDYPKPIVDHQKVSQTNIQRIKQVYSELAKFIPG
+left = AG, right =gt, stop_counter = 0
+KYIPVLKDIPTRYIHEPWMAPESVQKESKCIIGRDYPKPIVDHQKVSQTNIQRIKQVYSELAKFIPG
+[[1, 1]]
+start_coordinate : 3464729,stop_coordinate : 3464929
+17464 17666 Y N
+Elymnias_hypermnestra,JACTOM010000043.1,3464728,3464930,0,N,Bicyclus_anynana_XM_024084404.2_Frame_1_rightoh_1_query_Exon_8,1,67,67,Y,N
+
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Elymnias_hypermnestra
+Processing Exon_2
+0 query coordinate
+Elymnias_hypermnestra_coordinates_Bicyclus_anynana.csv
+79
+[[1, 2]]
+reached here
+Before splice: 3582,3725
+after splice: 3582,3725
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = TA, right =ga, stop_counter = 0
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = TA, right =gc, stop_counter = 1
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = TA, right =ga, stop_counter = 1
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = CG, right =tc, stop_counter = 2
+sequence:
+CGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactca
+sequence:
+RTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKT
+left = TA, right =gc, stop_counter = 2
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = TA, right =ga, stop_counter = 2
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = AC, right =aa, stop_counter = 3
+sequence:
+ACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaac
+sequence:
+TLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNK
+left = CG, right =tc, stop_counter = 3
+sequence:
+CGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactca
+sequence:
+RTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKT
+left = TA, right =gc, stop_counter = 3
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = TA, right =ga, stop_counter = 3
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = TT, right =ta, stop_counter = 4
+sequence:
+TTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataa
+sequence:
+LSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPN
+left = AC, right =aa, stop_counter = 4
+sequence:
+ACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaac
+sequence:
+TLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNK
+left = CG, right =tc, stop_counter = 4
+sequence:
+CGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactca
+sequence:
+RTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKT
+left = TA, right =gc, stop_counter = 4
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = TA, right =ga, stop_counter = 4
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = TC, right =Ca, stop_counter = 5
+sequence:
+TCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaa
+sequence:
+STLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRP
+left = TT, right =ta, stop_counter = 5
+sequence:
+TTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataa
+sequence:
+LSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPN
+left = AC, right =aa, stop_counter = 5
+sequence:
+ACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaac
+sequence:
+TLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNK
+left = CG, right =tc, stop_counter = 5
+sequence:
+CGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactca
+sequence:
+RTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKT
+left = TA, right =gc, stop_counter = 5
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = TA, right =ga, stop_counter = 5
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = AC, right =AC, stop_counter = 6
+sequence:
+ACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACC
+sequence:
+TLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRR
+left = TC, right =Ca, stop_counter = 6
+sequence:
+TCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaa
+sequence:
+STLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRP
+left = TT, right =ta, stop_counter = 6
+sequence:
+TTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataa
+sequence:
+LSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPN
+left = AC, right =aa, stop_counter = 6
+sequence:
+ACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaac
+sequence:
+TLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNK
+left = CG, right =tc, stop_counter = 6
+sequence:
+CGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactca
+sequence:
+RTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKT
+left = TA, right =gc, stop_counter = 6
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = TA, right =ga, stop_counter = 6
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = CT, right =GA, stop_counter = 7
+sequence:
+CTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAG
+sequence:
+LFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVR
+left = AC, right =AC, stop_counter = 7
+sequence:
+ACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACC
+sequence:
+TLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRR
+left = TC, right =Ca, stop_counter = 7
+sequence:
+TCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaa
+sequence:
+STLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRP
+left = TT, right =ta, stop_counter = 7
+sequence:
+TTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataa
+sequence:
+LSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPN
+left = AC, right =aa, stop_counter = 7
+sequence:
+ACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaac
+sequence:
+TLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNK
+left = CG, right =tc, stop_counter = 7
+sequence:
+CGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactca
+sequence:
+RTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKT
+left = TA, right =gc, stop_counter = 7
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = TA, right =ga, stop_counter = 7
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = TT, right =GA, stop_counter = 8
+sequence:
+TTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAG
+sequence:
+FSTRGSHILFFPLGNAFRHEPRPIVQECGSRRV
+left = CT, right =GA, stop_counter = 8
+sequence:
+CTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAG
+sequence:
+LFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVR
+left = AC, right =AC, stop_counter = 8
+sequence:
+ACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACC
+sequence:
+TLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRR
+left = TC, right =Ca, stop_counter = 8
+sequence:
+TCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaa
+sequence:
+STLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRP
+left = TT, right =ta, stop_counter = 8
+sequence:
+TTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataa
+sequence:
+LSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPN
+left = AC, right =aa, stop_counter = 8
+sequence:
+ACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaac
+sequence:
+TLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNK
+left = CG, right =tc, stop_counter = 8
+sequence:
+CGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactca
+sequence:
+RTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKT
+left = TA, right =gc, stop_counter = 8
+sequence:
+TACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = TA, right =ga, stop_counter = 8
+sequence:
+TAATACCGAACATTATCGACACTGTTTAGCACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+*YRTLSTLFSTRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = AG, right =AG, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGT
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRR
+left = AG, right =GA, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAG
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRV
+left = AG, right =GA, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAG
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVR
+left = AG, right =AC, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACC
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRR
+left = AG, right =Ca, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaa
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRP
+left = AG, right =ta, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataa
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPN
+left = AG, right =aa, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaac
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNK
+left = AG, right =tc, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactca
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKT
+left = AG, right =gc, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcg
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQ
+left = AG, right =ga, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaa
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQR
+left = AG, right =cc, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccc
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRN
+left = AG, right =tc, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctca
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNP
+left = AG, right =aA, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAA
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQ
+left = AG, right =TC, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCC
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQN
+left = AG, right =AC, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACA
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNP
+left = AG, right =AG, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGT
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQ
+left = AG, right =GA, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAG
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQV
+left = AG, right =gc, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAGgct
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVR
+left = AG, right =ca, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAGgctcaa
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVRL
+left = AG, right =tt, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAGgctcaattt
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVRLN
+left = AG, right =tc, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAGgctcaattttcg
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVRLNF
+left = AG, right =ca, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAGgctcaattttcgcat
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVRLNFR
+left = AG, right =tc, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAGgctcaattttcgcattca
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVRLNFRI
+left = AG, right =tc, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAGgctcaattttcgcattcatcc
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVRLNFRIH
+left = AG, right =ct, stop_counter = 9
+sequence:
+ACCCGGGGTAGCCATAtacttttttttccgctgggaaatgcttttaggcacgaaccccgacctatagttcaggagtgtgggtctcgaCGAGTGAGGAGACCCaataaaactcagcggaaccctcaaAATCCACAAGTGAGgctcaattttcgcattcatccctg
+sequence:
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVRLNFRIHP
+left = AG, right =gt, stop_counter = 9
+TRGSHILFFPLGNAFRHEPRPIVQECGSRRVRRPNKTQRNPQNPQVRLNFRIHP
+[[1, 2]]
+start_coordinate : 3450874,stop_coordinate : 3451035
+3609 3773 Y N
+Elymnias_hypermnestra,JACTOM010000043.1,3450873,3451037,0,N,Pararge_aegeria_XM_039909560.1_Frame_1_rightoh_2_query_Exon_2,1,54,54,Y,N
+
+Elymnias_hypermnestra
+Processing Exon_3
+Elymnias_hypermnestra_coordinates_Pararge_aegeria.csv
+1 query coordinate
+61
+[[1, 1]]
+reached here
+Before splice: 2111,2295
+after splice: 2111,2295
+sequence:
+ATTATAGAGCATAATGGTGGTAAAGCGCCATTAACTTACCATCAGTTTCAAGCATTAATTGCGAGCATGCCTCCACCCCTGCCACCAGAAGAAACCATAACGTTACAAACTCTTGATGGTGCTGTTACACCTGTAGCTGAAAAACACAATGAGCTTTACGGTGTACCAACTCTTGAAGAACTCG
+sequence:
+IIEHNGGKAPLTYHQFQALIASMPPPLPPEETITLQTLDGAVTPVAEKHNELYGVPTLEEL
+left = AG, right =GT, stop_counter = 0
+IIEHNGGKAPLTYHQFQALIASMPPPLPPEETITLQTLDGAVTPVAEKHNELYGVPTLEEL
+[[1, 1]]
+start_coordinate : 3449376,stop_coordinate : 3449558
+2111 2295 Y N
+Elymnias_hypermnestra,JACTOM010000043.1,3449375,3449559,0,N,Pararge_aegeria_XM_039909560.1_Frame_1_rightoh_1_query_Exon_3,1,61,61,Y,N
+
+Elymnias_hypermnestra
+Processing Exon_4
+Elymnias_hypermnestra_coordinates_Pararge_aegeria.csv
+1 query coordinate
+56
+[[2, 2]]
+reached here
+Before splice: 7968,8139
+after splice: 7968,8139
+sequence:
+TTCGAGACGGAAAATTTAAAACCCGTTGTATGGCTTGGTGGAGAAAGTGAAGGGTTACAACGGTTGAAACGACATTTAGAACGAAAGGCTTGGGTAGCTTCGTTCGGGCGACCCAAAATGACACCTCAATCTCTGTTAGCAAGTCCAACAGGACTTTCTCCTTACTTAag
+sequence:
+FETENLKPVVWLGGESEGLQRLKRHLERKAWVASFGRPKMTPQSLLASPTGLSPYL
+left = AG, right =gt, stop_counter = 0
+FETENLKPVVWLGGESEGLQRLKRHLERKAWVASFGRPKMTPQSLLASPTGLSPYL
+[[2, 2]]
+start_coordinate : 3455234,stop_coordinate : 3455401
+7968 8139 Y N
+Elymnias_hypermnestra,JACTOM010000043.1,3455232,3455403,0,N,Pararge_aegeria_XM_039909560.1_Frame_2_rightoh_2_query_Exon_4,1,56,56,Y,N
+
+Elymnias_hypermnestra
+Processing Exon_5
+Elymnias_hypermnestra_coordinates_Pararge_aegeria.csv
+1 query coordinate
+75
+[[1, 0]]
+reached here
+Before splice: 10719,10944
+after splice: 10719,10944
+sequence:
+TTTGGATGTTTATCCACAAGGCTATTTTATTCACAACTAACAGATTTGTATAGAAGGGTGAAACATGTGCAGCCACCTTTGTCTCTGCACGGACAGATACTTTGGAGAGAATTCTTTTACTGTGCTGCTACCAGAAACCCTAATTTTGACCGTATGGAAGGGAATCCAATATGTGTACAAATACCGTGGGAGAAAAATCCCGATGCTCTTGCAAAATGGGCAAGC
+sequence:
+FGCLSTRLFYSQLTDLYRRVKHVQPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNPDALAKWAS
+left = AG, right =GT, stop_counter = 0
+FGCLSTRLFYSQLTDLYRRVKHVQPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNPDALAKWAS
+[[1, 0]]
+start_coordinate : 3457984,stop_coordinate : 3458208
+10719 10944 Y N
+Elymnias_hypermnestra,JACTOM010000043.1,3457983,3458208,0,N,Pararge_aegeria_XM_039909560.1_Frame_1_rightoh_0_query_Exon_5,1,75,75,Y,N
+
+Elymnias_hypermnestra
+Processing Exon_6
+Elymnias_hypermnestra_coordinates_Pararge_aegeria.csv
+1 query coordinate
+47
+[[0, 0]]
+reached here
+Before splice: 11640,11780
+after splice: 11640,11780
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAA
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMK
+left = AG, right =GC, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCA
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKA
+left = AG, right =AG, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCAAGT
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKAS
+left = AG, right =AC, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCAAGTACT
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKAST
+left = AG, right =AC, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCAAGTACTACT
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASTT
+left = AG, right =TT, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCAAGTACTACTTTT
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASTTF
+left = AG, right =CT, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCAAGTACTACTTTTCTG
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASTTFL
+left = AG, right =TT, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCAAGTACTACTTTTCTGTTT
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASTTFLF
+left = AG, right =AT, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCAAGTACTACTTTTCTGTTTATA
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASTTFLFI
+left = AG, right =TA, stop_counter = 0
+sequence:
+GCTCAAACCGGTTACCCCTGGATTGATGCAATTATGATCCAGTTGCGAGATGAGGGTTGGATTCATCATTTAGCTCGTCACGCAGTCGCCTGTTTCCTCACTAGAGGCGATCTATGGATCTCATGGGAAGAGGGCATGAAAGCAAGTACTACTTTTCTGTTTATATAC
+sequence:
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASTTFLFIY
+left = AG, right =GT, stop_counter = 0
+AQTGYPWIDAIMIQLRDEGWIHHLARHAVACFLTRGDLWISWEEGMKASTTFLFIY
+[[0, 0]]
+start_coordinate : 3458904,stop_coordinate : 3459071
+11640 11807 Y N
+Elymnias_hypermnestra,JACTOM010000043.1,3458904,3459071,0,N,Pararge_aegeria_XM_039909560.1_Frame_0_rightoh_0_query_Exon_6,1,56,56,Y,N
+
+Elymnias_hypermnestra
+Processing Exon_7
+Elymnias_hypermnestra_coordinates_Pararge_aegeria.csv
+1 query coordinate
+50
+[[0, 2]]
+reached here
+Before splice: 13594,13745
+after splice: 13594,13745
+sequence:
+GTGTTTGATGAGCTACTCTTGGATGCAGACTGGTCCGTAAACGCTGGCATGTGGATGTGGTTGTCGTGCTCATCATTCTTCCAACAGTTTTTCCACTGCTATTGTCCCGTGCGTTTCGGACGCAAAACGGATCCCAATGGAGACTATATTAG
+sequence:
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDYI
+left = AG, right =GT, stop_counter = 0
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDYI
+[[0, 2]]
+start_coordinate : 3460858,stop_coordinate : 3461007
+13594 13745 Y N
+Elymnias_hypermnestra,JACTOM010000043.1,3460858,3461009,0,N,Pararge_aegeria_XM_039909560.1_Frame_0_rightoh_2_query_Exon_7,1,50,50,Y,N
+
+Elymnias_hypermnestra
+Processing Exon_8
+Elymnias_hypermnestra_coordinates_Pararge_aegeria.csv
+1 query coordinate
+66
+[[1, 1]]
+reached here
+Before splice: 17464,17663
+after splice: 17464,17663
+sequence:
+AAGTATATTCCTGTACTAAAGGATATACCGACGCGGTATATTCACGAGCCTTGGATGGCTCCTGAATCAGTGCAAAAGGAATCTAAATGTATCATTGGACGTGATTATCCGAAGCCGATTGTTGATCATCAAAAGGTTTCACAGACCAACATTCAGCGCATCAAACAAGTGTACTCAGAACTTGCCAAGTTTATACCTG
+sequence:
+KYIPVLKDIPTRYIHEPWMAPESVQKESKCIIGRDYPKPIVDHQKVSQTNIQRIKQVYSELAKFIP
+left = AG, right =Ga, stop_counter = 0
+sequence:
+AAGTATATTCCTGTACTAAAGGATATACCGACGCGGTATATTCACGAGCCTTGGATGGCTCCTGAATCAGTGCAAAAGGAATCTAAATGTATCATTGGACGTGATTATCCGAAGCCGATTGTTGATCATCAAAAGGTTTCACAGACCAACATTCAGCGCATCAAACAAGTGTACTCAGAACTTGCCAAGTTTATACCTGGag
+sequence:
+KYIPVLKDIPTRYIHEPWMAPESVQKESKCIIGRDYPKPIVDHQKVSQTNIQRIKQVYSELAKFIPG
+left = AG, right =gt, stop_counter = 0
+KYIPVLKDIPTRYIHEPWMAPESVQKESKCIIGRDYPKPIVDHQKVSQTNIQRIKQVYSELAKFIPG
+[[1, 1]]
+start_coordinate : 3464729,stop_coordinate : 3464929
+17464 17666 Y N
+Elymnias_hypermnestra,JACTOM010000043.1,3464728,3464930,0,N,Pararge_aegeria_XM_039909560.1_Frame_1_rightoh_1_query_Exon_8,1,67,67,Y,N
+
+

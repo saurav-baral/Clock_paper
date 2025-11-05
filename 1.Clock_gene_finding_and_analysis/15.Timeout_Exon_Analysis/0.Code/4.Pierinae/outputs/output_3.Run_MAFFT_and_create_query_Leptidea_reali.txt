@@ -1,0 +1,1787 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24764786,24764969,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Leptidea_reali,CATIXK010000003.1,24764328,24764581,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Leptidea_reali,CATIXK010000003.1,24766165,24766421,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set7_frame0, 0.204
+5 top scores:
+[['set1_frame0', 1.841], ['set7_frame0', 0.204], ['set17_frame1', 1.836], ['set46_frame1', 1.819], ['set51_frame2', 1.853]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_7_frame0.fa.txt
+11 72
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPAERSARHNYLQILSHLQSYKEEAFTKVETWQVFSKKLAKILEI
+11 72
+set7_frame0
+LIVNLTTPALLLYREEVPTDRSARHNYLHVLSHLQSYKEESFTKVDTWQVFAKKLTKVLEI
+Original query = LIVNLTNPALLLYREEVPAERSARHNYLQILSHLQSYKEEAFTKVETWQVFSKKLAKILEI
+New query = LIVNLTTPALLLYREEVPTDRSARHNYLHVLSHLQSYKEESFTKVDTWQVFAKKLTKVLEI
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24765427,24765561,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Leptidea_reali,CATIXK010000003.1,24764328,24764581,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Leptidea_reali,CATIXK010000003.1,24766910,24767107,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set33_frame1, 0.0
+5 top scores:
+[['set33_frame1', 0.0], ['set46_frame1', 1.727], ['set25_frame2', 1.79], ['set68_frame0', 1.767], ['set65_frame2', 1.81]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_33_frame1.fa.txt
+0 45
+Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+0 45
+set33_frame1
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+New query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24766165,24766421,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Leptidea_reali,CATIXK010000003.1,24764786,24764969,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Leptidea_reali,CATIXK010000003.1,24768540,24768722,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set34_frame2, 0.231
+5 top scores:
+[['set1_frame1', 1.838], ['set62_frame1', 1.862], ['set34_frame2', 0.231]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_34_frame2.fa.txt
+0 85
+Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMMRMSESKERLNKVKLYSAT
+0 85
+set34_frame2
+VLWALNQSGILDVILYMSSENEKQYFMHILEIITHLLREQNPTNLADAALQRSVEEKLRDEQELLTIRMSETKDRVNKIRQYSST
+Original query = VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMMRMSESKERLNKVKLYSAT
+New query = VLWALNQSGILDVILYMSSENEKQYFMHILEIITHLLREQNPTNLADAALQRSVEEKLRDEQELLTIRMSETKDRVNKIRQYSST
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24766910,24767107,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Leptidea_reali,CATIXK010000003.1,24765427,24765561,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Leptidea_reali,CATIXK010000003.1,24769304,24769591,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set45_frame2, 0.248
+5 top scores:
+[['set45_frame2', 0.248], ['set57_frame1', 1.828], ['set98_frame2', 1.85], ['set16_frame1', 1.833], ['set30_frame1', 1.835]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_45_frame2.fa.txt
+16 81
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVQNMKSISENQLISLKPLNKISDLDFNGSKKSKLVRPKNRRPVESGFLERRSAFAI
+16 81
+set45_frame2
+HSRFGGTYVIQNMKSISENELICLKPLNTISNLDFNGSKKSKLVKPKNRRPTESGAMERRSPFAV
+Original query = HSRFGGTYVVQNMKSISENQLISLKPLNKISDLDFNGSKKSKLVRPKNRRPVESGFLERRSAFAI
+New query = HSRFGGTYVIQNMKSISENELICLKPLNTISNLDFNGSKKSKLVKPKNRRPTESGAMERRSPFAV
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24768540,24768722,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+Leptidea_reali,CATIXK010000003.1,24766165,24766421,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Leptidea_reali,CATIXK010000003.1,24769713,24769831,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,35,39
+
+Getting Gene
+min = set55_frame0, 0.217
+5 top scores:
+[['set38_frame2', 1.726], ['set83_frame2', 1.737], ['set43_frame1', 1.827], ['set55_frame0', 0.217], ['set84_frame0', 1.807]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_55_frame0.fa.txt
+8 68
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNTSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+8 68
+set55_frame0
+LFLKEFCIEFLNSAYNPLMHYVKDVLVRSIAQQNDESYYLWAVKFFMEFNRGHKFNVALV
+Original query = LFLKEFCIEFLNTSYNPLMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+New query = LFLKEFCIEFLNSAYNPLMHYVKDVLVRSIAQQNDESYYLWAVKFFMEFNRGHKFNVALV
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24769304,24769591,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Leptidea_reali,CATIXK010000003.1,24766910,24767107,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Leptidea_reali,CATIXK010000003.1,24771441,24771597,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_9,1,49,49
+
+Getting Gene
+min = set62_frame1, 0.236
+5 top scores:
+[['set62_frame1', 0.236]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_62_frame1.fa.txt
+12 107
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQLEKYYDMIKIEKKKFAPWVRRLHLSLRAYKELLNTLLAMDKSTDDSVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+12 107
+set62_frame1
+ETMSVPMFHYVQQQMEKYYDMIRVEKKKFSSWVRRLHLALRSYKELLYTLLAMDTAEDVSVKESAKVIKSNIFYVLEYREFILSIILNYDENKMP
+Original query = ETMSVPMFHYVQQQLEKYYDMIKIEKKKFAPWVRRLHLSLRAYKELLNTLLAMDKSTDDSVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+New query = ETMSVPMFHYVQQQMEKYYDMIRVEKKKFSSWVRRLHLALRSYKELLYTLLAMDTAEDVSVKESAKVIKSNIFYVLEYREFILSIILNYDENKMP
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24769713,24769831,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,35,39
+
+6
+10
+Leptidea_reali,CATIXK010000003.1,24768540,24768722,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Leptidea_reali,CATIXK010000003.1,24772124,24772204,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set30_frame1, 0.32
+5 top scores:
+[['set30_frame1', 0.32], ['set55_frame2', 1.651], ['set79_frame2', 1.721], ['set58_frame2', 1.804], ['set82_frame2', 1.81]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_30_frame1.fa.txt
+16 58
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLIETIHLFLKMLEHYCKKTGLMVQKKVRRK-AKTKSK
+16 58
+set30_frame1
+SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKPSKPRSK
+Original query = SYLVDLIETIHLFLKMLEHYCKKTGLMVQKKVRRKAKTKSK
+New query = SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKPSKPRSK
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24771441,24771597,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_9,1,49,49
+
+7
+11
+Leptidea_reali,CATIXK010000003.1,24769304,24769591,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Leptidea_reali,CATIXK010000003.1,24773394,24773503,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Getting Gene
+min = set53_frame0, 0.742
+5 top scores:
+[['set1_frame1', 1.773], ['set97_frame1', 1.788], ['set95_frame1', 1.808], ['set64_frame2', 1.808], ['set53_frame0', 0.742]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_53_frame0.fa.txt
+11 60
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_2_query_Exon_9
+QKSRAAKPAAAEVAPWEEARLQVAAVLSAGVEHCPPPFDAASDVPIDQQ
+11 60
+set53_frame0
+PRTKAQAQAPKSNTPWEVAREQIAVVLTSQIEDCPPPFDAASDVPIDQQ
+Original query = QKSRAAKPAAAEVAPWEEARLQVAAVLSAGVEHCPPPFDAASDVPIDQQ
+New query = PRTKAQAQAPKSNTPWEVAREQIAVVLTSQIEDCPPPFDAASDVPIDQQ
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24772124,24772204,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+12
+13
+Leptidea_reali,CATIXK010000003.1,24769713,24769831,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,35,39
+
+Leptidea_reali,CATIXK010000003.1,24775606,24775672,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+Getting Gene
+min = set65_frame0, 0.386
+5 top scores:
+[['set65_frame0', 0.386], ['set26_frame1', 1.521], ['set63_frame1', 1.624], ['set74_frame2', 1.632], ['set21_frame2', 1.64]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_65_frame0.fa.txt
+7 33
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRDHKYEDAVGTFRAA
+7 33
+set65_frame0
+EDCMKKIQKRMREGQYEEAVGTFRAA
+Original query = EDCMKKIQKLMRDHKYEDAVGTFRAA
+New query = EDCMKKIQKRMREGQYEEAVGTFRAA
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24773394,24773503,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+9
+13
+Leptidea_reali,CATIXK010000003.1,24771441,24771597,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_9,1,49,49
+
+Leptidea_reali,CATIXK010000003.1,24775606,24775672,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+Getting Gene
+min = set46_frame1, 0.255
+5 top scores:
+[['set46_frame1', 0.255], ['set64_frame2', 1.771], ['set33_frame2', 1.781], ['set93_frame1', 1.801], ['set18_frame2', 1.801]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_46_frame1.fa.txt
+6 42
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGVDGIPEDEELDMLETIYNTDLGVEVT
+6 42
+set46_frame1
+EVWPEEGIFGIDGIQEHEELEMLETIYNTDLGVELT
+Original query = EVWPEEGIFGVDGIPEDEELDMLETIYNTDLGVEVT
+New query = EVWPEEGIFGIDGIQEHEELEMLETIYNTDLGVELT
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,0,0,0,Y,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_12,0,0,15
+
+10
+14
+Leptidea_reali,CATIXK010000003.1,24772124,24772204,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Leptidea_reali,CATIXK010000003.1,24778797,24778995,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set53_frame0, 1.199
+5 top scores:
+[['set53_frame0', 1.199], ['set139_frame2', 1.29], ['set156_frame1', 1.467], ['set126_frame1', 1.517], ['set34_frame2', 1.529]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_53_frame0.fa.txt
+0 23
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_12
+NV--------PVETQDNSEYDEE
+0 23
+set53_frame0
+YFILSVDNAEKAEPEENSEDDDE
+Original query = NVPVETQDNSEYDEE
+New query = YFILSVDNAEKAEPEENSEDDDE
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24775606,24775672,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+11
+15
+Leptidea_reali,CATIXK010000003.1,24773394,24773503,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Leptidea_reali,CATIXK010000003.1,24782262,24782410,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15,1,48,49
+
+Getting Gene
+min = set50_frame0, 0.369
+5 top scores:
+[['set50_frame0', 0.369], ['set1_frame1', 1.564], ['set105_frame2', 1.593], ['set131_frame2', 1.61], ['set90_frame2', 1.612]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_50_frame0.fa.txt
+11 33
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_2_query_Exon_13
+EENEEEKSTAVVETDFDFQDFV
+11 33
+set50_frame0
+DEDEEDKTTAVVETEFDFQDFV
+Original query = EENEEEKSTAVVETDFDFQDFVL
+New query = DEDEEDKTTAVVETEFDFQDFV
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24778797,24778995,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Leptidea_reali,CATIXK010000003.1,24773394,24773503,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Leptidea_reali,CATIXK010000003.1,24789338,24789432,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16,2,27,31
+
+Getting Gene
+min = set111_frame1, 0.581
+5 top scores:
+[['set111_frame1', 0.581], ['set217_frame1', 1.751], ['set55_frame2', 1.791], ['set68_frame2', 1.791], ['set133_frame2', 1.822]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_111_frame1.fa.txt
+25 91
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_0_query_Exon_14
+FCHPRVVSACVCLLERYDKNLPHTNHCIVKMLHRIAWDCNRPVMMFQASLFLIFQRILHNPVPHLK
+25 91
+set111_frame1
+FCHPRVVSGCVSLLERYEKNSVHTNHCIVKMLHRIAWDCKRAAMLFHGTLFITFQKILASKLAHFK
+Original query = FCHPRVVSACVCLLERYDKNLPHTNHCIVKMLHRIAWDCNRPVMMFQASLFLIFQRILHNPVPHLK
+New query = FCHPRVVSGCVSLLERYEKNSVHTNHCIVKMLHRIAWDCKRAAMLFHGTLFITFQKILASKLAHFK
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24782262,24782410,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15,1,48,49
+
+13
+17
+Leptidea_reali,CATIXK010000003.1,24775606,24775672,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+Leptidea_reali,CATIXK010000003.1,24800536,24800742,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Getting Gene
+min = set153_frame2, 0.378
+5 top scores:
+[['set153_frame2', 0.378], ['set341_frame2', 1.68], ['set335_frame1', 1.736], ['set238_frame2', 1.751], ['set226_frame2', 1.766]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_153_frame2.fa.txt
+0 49
+Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFAVFILRKFSEIASRSGKVFIELLFWKNSKDAVEIEHGYELYNDP
+0 49
+set153_frame2
+ELEKFAIYIIRKFTEAASKSPKVFIELLFWKTAKDALEIEHGYELYSDA
+Original query = ELEKFAVFILRKFSEIASRSGKVFIELLFWKNSKDAVEIEHGYELYNDP
+New query = ELEKFAIYIIRKFTEAASKSPKVFIELLFWKTAKDALEIEHGYELYSDA
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24789338,24789432,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16,2,27,31
+
+14
+18
+19
+20
+Leptidea_reali,CATIXK010000003.1,24778797,24778995,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Leptidea_reali,CATIXK010000003.1,24822173,24822366,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20,1,64,64
+
+Getting Gene
+min = set206_frame0, 0.35
+5 top scores:
+[['set206_frame0', 0.35], ['set657_frame0', 1.469], ['set723_frame1', 1.603], ['set921_frame2', 1.624], ['set814_frame2', 1.636]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_206_frame0.fa.txt
+41 72
+Maniola_jurtina_XM_045909339.1_Frame_1_rightoh_1_query_Exon_16
+DKPGKGAWSEEQEEELRKLYMENQANPETDQ
+41 72
+set206_frame0
+DKVGKNQWSEEQEEELRKLYMENQSNPQTNQ
+Original query = DKPGKGAWSEEQEEELRKLYMENQANPETDQ
+New query = DKVGKNQWSEEQEEELRKLYMENQSNPQTNQ
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24800536,24800742,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+15
+19
+20
+Leptidea_reali,CATIXK010000003.1,24782262,24782410,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15,1,48,49
+
+Leptidea_reali,CATIXK010000003.1,24822173,24822366,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20,1,64,64
+
+Getting Gene
+min = set384_frame0, 0.352
+5 top scores:
+[['set384_frame0', 0.352], ['set623_frame0', 1.709], ['set694_frame2', 1.723], ['set394_frame1', 1.815], ['set238_frame2', 1.815]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_384_frame0.fa.txt
+8 76
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILENLIDQTRTRRGVIKKLKELGLVFKAPTKKTNRERREKVPKDFSEEEDEMLRELWNQYEDTP
+8 76
+set384_frame0
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFRAPTKRSNKERKDKLPKTFSEEEDDMLRELWTQYGDSD
+Original query = VIDWILENLIDQTRTRRGVIKKLKELGLVFKAPTKKTNRERREKVPKDFSEEEDEMLRELWNQYEDTP
+New query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFRAPTKRSNKERKDKLPKTFSEEEDDMLRELWTQYGDSD
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24812139,24812276,0,Y,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_18,1,31,45
+
+16
+20
+Leptidea_reali,CATIXK010000003.1,24789338,24789432,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16,2,27,31
+
+Leptidea_reali,CATIXK010000003.1,24822173,24822366,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20,1,64,64
+
+Getting Gene
+min = set507_frame0, 0.731
+5 top scores:
+[['set507_frame0', 0.731], ['set254_frame1', 1.531], ['set655_frame1', 1.747], ['set413_frame2', 1.749], ['set51_frame0', 1.755]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_507_frame0.fa.txt
+2 49
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_18
+PMALILPRMPRKRSKRSFVDRLLELGVIQDRKQCRKKKQRRAKSAAD
+2 49
+set507_frame0
+PMEMIMTRMLRKRQKRSFVDRLLELGLIEDRKQCKKKRKNKSGTAGK
+Original query = PMALILPRMPRKRSKRSFVDRLLELGVIQDRKQCRKKKQRRAKSAADDKSN
+New query = PMEMIMTRMLRKRQKRSFVDRLLELGLIEDRKQCKKKRKNKSGTAGK
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24817214,24817375,0,Y,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_19,34,51,53
+
+17
+21
+Leptidea_reali,CATIXK010000003.1,24800536,24800742,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Leptidea_reali,CATIXK010000003.1,24824601,24825114,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,144,148
+
+Getting Gene
+min = set382_frame0, 1.206
+5 top scores:
+[['set382_frame0', 1.206], ['set487_frame2', 1.672], ['set75_frame2', 1.777], ['set137_frame2', 1.796], ['set305_frame2', 1.814]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_382_frame0.fa.txt
+14 80
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_1_query_Exon_19
+SSSESEASNSDSENDIVSPPAITVKPKKKNKTNAEKKQQIKNKKPVKSAELSANEIAKLLVQAVDE
+14 80
+set382_frame0
+SNSESESNDSDRSTRSLSPAP---KPKKK-----KEAQKMRKKATERNVEMSANEIASLLVRAVNE
+Original query = SSSESEASNSDSENDIVSPPAITVKPKKKNKTNAEKKQQIKNKKPVKSAELSANEIAKLLVQAVDE
+New query = SNSESESNDSDRSTRSLSPAP---KPKKK-----KEAQKMRKKATERNVEMSANEIASLLVRAVNE
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24822173,24822366,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20,1,64,64
+
+18
+17
+21
+Leptidea_reali,CATIXK010000003.1,24800536,24800742,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Leptidea_reali,CATIXK010000003.1,24824601,24825114,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,144,148
+
+Getting Gene
+min = set479_frame0, 0.485
+5 top scores:
+[['set479_frame0', 0.485], ['set75_frame2', 1.754], ['set403_frame2', 1.764], ['set156_frame2', 1.807], ['set487_frame2', 1.827]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_479_frame0.fa.txt
+8 73
+Maniola_jurtina_XM_045909339.1_Frame_2_rightoh_0_query_Exon_20
+YTEGLRWLAENLEEVALDQEAEGFDPTAEGTPLVPISSESVEAMDSALFTTVLKSIGILPPVDEQ
+8 73
+set479_frame0
+QTEALKWLADSLEEVALDQEADGYDPTSEGIPLVPISSDCVDAMDNKLFQLILKAIGVVPPSDEQ
+Original query = YTEGLRWLAENLEEVALDQEAEGFDPTAEGTPLVPISSESVEAMDSALFTTVLKSIGILPPVDEQ
+New query = QTEALKWLADSLEEVALDQEADGYDPTSEGIPLVPISSDCVDAMDNKLFQLILKAIGVVPPSDEQ
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24824601,24825114,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,144,148
+
+19
+18
+17
+21
+Leptidea_reali,CATIXK010000003.1,24800536,24800742,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Leptidea_reali,CATIXK010000003.1,24824601,24825114,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,144,148
+
+Getting Gene
+min = set487_frame2, 1.11
+5 top scores:
+[['set422_frame2', 1.92], ['set487_frame2', 1.11]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Maniola_jurtina/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_487_frame2.fa.txt
+22 206
+Maniola_jurtina_XM_045909339.1_Frame_0_rightoh_1_query_Exon_21
+ETYWRIPSNLHHATIRKRREIIIKAVNKELIIDNANYDQSNKFNNAEEPPKSKAESSDDDDLFDNLRKMRDNIPEKIDAVSNHKSIPNNKNVSNNA--------------SVSNGKIESKNRKRSRSIDSDEGNNRKMQRI-------DEIEDEDEDILSFAKKTLQTELPDTEDILSGLPQHS
+22 206
+set487_frame2
+ETYWRIPSILHHETIRKRREIINKAINNELIV---NLQDSN-----------KNDSSDDDDLFDNLRKITNHGGTELNNSDKQKETNQINSKTANVGGNDITENDSDDEDSISKVNIRSTKRKRTISLDSESSSRDKLPRIHEDVDEEDKNDDDDDDILEFAKKTLQQDLPDTEDILSVLPKHD
+Original query = ETYWRIPSNLHHATIRKRREIIIKAVNKELIIDNANYDQSNKFNNAEEPPKSKAESSDDDDLFDNLRKMRDNIPEKIDAVSNHKSIPNNKNVSNNASVSNGKIESKNRKRSRSIDSDEGNNRKMQRIDEIEDEDEDILSFAKKTLQTELPDTEDILSGLPQHS
+New query = ETYWRIPSILHHETIRKRREIINKAINNELIV---NLQDSN-----------KNDSSDDDDLFDNLRKITNHGGTELNNSDKQKETNQINSKTANVGGNDITENDSDDEDSISKVNIRSTKRKRTISLDSESSSRDKLPRIHEDVDEEDKNDDDDDDILEFAKKTLQQDLPDTEDILSVLPKHD
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24764786,24764969,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Leptidea_reali,CATIXK010000003.1,24764328,24764581,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Leptidea_reali,CATIXK010000003.1,24766165,24766421,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set7_frame0, 0.219
+5 top scores:
+[['set1_frame0', 1.878], ['set7_frame0', 0.219], ['set17_frame1', 1.855], ['set46_frame1', 1.834], ['set51_frame2', 1.848]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_7_frame0.fa.txt
+11 72
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPVERTARHNYMQILSHLQSYKEEAFTKVETWQVFAKKLAKVLEI
+11 72
+set7_frame0
+LIVNLTTPALLLYREEVPTDRSARHNYLHVLSHLQSYKEESFTKVDTWQVFAKKLTKVLEI
+Original query = LIVNLTNPALLLYREEVPVERTARHNYMQILSHLQSYKEEAFTKVETWQVFAKKLAKVLEI
+New query = LIVNLTTPALLLYREEVPTDRSARHNYLHVLSHLQSYKEESFTKVDTWQVFAKKLTKVLEI
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24765427,24765561,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Leptidea_reali,CATIXK010000003.1,24764328,24764581,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Leptidea_reali,CATIXK010000003.1,24766910,24767107,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set33_frame1, 0.0
+5 top scores:
+[['set33_frame1', 0.0], ['set46_frame1', 1.727], ['set25_frame2', 1.79], ['set68_frame0', 1.767], ['set65_frame2', 1.81]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_33_frame1.fa.txt
+0 45
+Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+0 45
+set33_frame1
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+New query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24766165,24766421,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Leptidea_reali,CATIXK010000003.1,24764786,24764969,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Leptidea_reali,CATIXK010000003.1,24768540,24768722,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set34_frame2, 0.173
+5 top scores:
+[['set1_frame1', 1.813], ['set62_frame1', 1.862], ['set34_frame2', 0.173]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_34_frame2.fa.txt
+0 85
+Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_4
+VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMIRMSETKERLNKVKQYSAT
+0 85
+set34_frame2
+VLWALNQSGILDVILYMSSENEKQYFMHILEIITHLLREQNPTNLADAALQRSVEEKLRDEQELLTIRMSETKDRVNKIRQYSST
+Original query = VLWALNQAGILDIILYMSSENEKQYFMHILEIISHLLREQNPTSLADAALQRSVDEKLRDDQELLMIRMSETKERLNKVKQYSAT
+New query = VLWALNQSGILDVILYMSSENEKQYFMHILEIITHLLREQNPTNLADAALQRSVEEKLRDEQELLTIRMSETKDRVNKIRQYSST
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24766910,24767107,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Leptidea_reali,CATIXK010000003.1,24765427,24765561,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Leptidea_reali,CATIXK010000003.1,24769304,24769591,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set45_frame2, 0.191
+5 top scores:
+[['set45_frame2', 0.191], ['set56_frame1', 1.837], ['set57_frame1', 1.838], ['set16_frame1', 1.849], ['set30_frame1', 1.835]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_45_frame2.fa.txt
+16 81
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVVKNMKSISENELISLKPLNKISNLDFNGSKKSKLVKPKNRRPVESGFMERRSAFAI
+16 81
+set45_frame2
+HSRFGGTYVIQNMKSISENELICLKPLNTISNLDFNGSKKSKLVKPKNRRPTESGAMERRSPFAV
+Original query = HSRFGGTYVVKNMKSISENELISLKPLNKISNLDFNGSKKSKLVKPKNRRPVESGFMERRSAFAI
+New query = HSRFGGTYVIQNMKSISENELICLKPLNTISNLDFNGSKKSKLVKPKNRRPTESGAMERRSPFAV
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24768540,24768722,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+Leptidea_reali,CATIXK010000003.1,24766165,24766421,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Leptidea_reali,CATIXK010000003.1,24769713,24769831,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,35,39
+
+Getting Gene
+min = set55_frame0, 0.235
+5 top scores:
+[['set83_frame2', 1.718], ['set75_frame2', 1.781], ['set43_frame1', 1.83], ['set55_frame0', 0.235], ['set84_frame0', 1.821]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_55_frame0.fa.txt
+8 68
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNTSYNPMMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+8 68
+set55_frame0
+LFLKEFCIEFLNSAYNPLMHYVKDVLVRSIAQQNDESYYLWAVKFFMEFNRGHKFNVALV
+Original query = LFLKEFCIEFLNTSYNPMMHYVKDVLVRAKAQQNDESYYLWAMKFFMEFNRGHNFQVGLV
+New query = LFLKEFCIEFLNSAYNPLMHYVKDVLVRSIAQQNDESYYLWAVKFFMEFNRGHKFNVALV
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24769304,24769591,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Leptidea_reali,CATIXK010000003.1,24766910,24767107,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Leptidea_reali,CATIXK010000003.1,24771441,24771597,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_9,1,49,49
+
+Getting Gene
+min = set62_frame1, 0.233
+5 top scores:
+[['set62_frame1', 0.233]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_62_frame1.fa.txt
+12 107
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQLEKYYDMISVEKKKFSPWVRRLHLSLRAYKELLHTLLAMDKSTDEGVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+12 107
+set62_frame1
+ETMSVPMFHYVQQQMEKYYDMIRVEKKKFSSWVRRLHLALRSYKELLYTLLAMDTAEDVSVKESAKVIKSNIFYVLEYREFILSIILNYDENKMP
+Original query = ETMSVPMFHYVQQQLEKYYDMISVEKKKFSPWVRRLHLSLRAYKELLHTLLAMDKSTDEGVKESAKVLKSNIFYVLEYREFILSIFLNYDENKMP
+New query = ETMSVPMFHYVQQQMEKYYDMIRVEKKKFSSWVRRLHLALRSYKELLYTLLAMDTAEDVSVKESAKVIKSNIFYVLEYREFILSIILNYDENKMP
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24769713,24769831,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,35,39
+
+6
+10
+Leptidea_reali,CATIXK010000003.1,24768540,24768722,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Leptidea_reali,CATIXK010000003.1,24772124,24772204,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set30_frame1, 0.286
+5 top scores:
+[['set30_frame1', 0.286], ['set55_frame2', 1.648], ['set79_frame2', 1.695], ['set63_frame2', 1.782], ['set82_frame2', 1.785]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_30_frame1.fa.txt
+16 58
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_8
+SYLVDLVETVHLFLKMLEHFCKKTGLMVQKKVRKK-AKAKSK
+16 58
+set30_frame1
+SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKPSKPRSK
+Original query = SYLVDLVETVHLFLKMLEHFCKKTGLMVQKKVRKKAKAKSK
+New query = SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKPSKPRSK
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24771441,24771597,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_9,1,49,49
+
+7
+11
+Leptidea_reali,CATIXK010000003.1,24769304,24769591,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Leptidea_reali,CATIXK010000003.1,24773394,24773503,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Getting Gene
+min = set53_frame0, 0.893
+5 top scores:
+[['set64_frame2', 1.762], ['set100_frame2', 1.786], ['set32_frame0', 1.84], ['set33_frame1', 1.857], ['set53_frame0', 0.893]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_53_frame0.fa.txt
+9 60
+Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_2_query_Exon_9
+SKPRVSKPKEAPV--TVWEEVRPQLAAVLSAGVDHYPPPFDAASDVPIDQQ
+9 60
+set53_frame0
+QKPRTKAQAQAPKSNTPWEVAREQIAVVLTSQIEDCPPPFDAASDVPIDQQ
+Original query = SKPRVSKPKEAPVTVWEEVRPQLAAVLSAGVDHYPPPFDAASDVPIDQQ
+New query = QKPRTKAQAQAPKSNTPWEVAREQIAVVLTSQIEDCPPPFDAASDVPIDQQ
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24772124,24772204,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+12
+13
+Leptidea_reali,CATIXK010000003.1,24769713,24769831,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,35,39
+
+Leptidea_reali,CATIXK010000003.1,24775606,24775672,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+Getting Gene
+min = set65_frame0, 0.386
+5 top scores:
+[['set65_frame0', 0.386], ['set26_frame1', 1.521], ['set63_frame1', 1.624], ['set74_frame2', 1.632], ['set21_frame2', 1.64]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_65_frame0.fa.txt
+7 33
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRDHKYEDAVGTFRAA
+7 33
+set65_frame0
+EDCMKKIQKRMREGQYEEAVGTFRAA
+Original query = EDCMKKIQKLMRDHKYEDAVGTFRAA
+New query = EDCMKKIQKRMREGQYEEAVGTFRAA
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24773394,24773503,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+9
+13
+Leptidea_reali,CATIXK010000003.1,24771441,24771597,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_9,1,49,49
+
+Leptidea_reali,CATIXK010000003.1,24775606,24775672,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+Getting Gene
+min = set46_frame1, 0.363
+5 top scores:
+[['set46_frame1', 0.363], ['set64_frame2', 1.771], ['set32_frame1', 1.778], ['set19_frame2', 1.78], ['set33_frame2', 1.784]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_46_frame1.fa.txt
+6 42
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGVAGIPEDEELDMLETVYNTDMGVEVT
+6 42
+set46_frame1
+EVWPEEGIFGIDGIQEHEELEMLETIYNTDLGVELT
+Original query = EVWPEEGIFGVAGIPEDEELDMLETVYNTDMGVEVT
+New query = EVWPEEGIFGIDGIQEHEELEMLETIYNTDLGVELT
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,0,0,0,Y,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_12,0,0,15
+
+10
+14
+Leptidea_reali,CATIXK010000003.1,24772124,24772204,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Leptidea_reali,CATIXK010000003.1,24778797,24778995,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set53_frame0, 1.068
+5 top scores:
+[['set53_frame0', 1.068], ['set79_frame1', 1.441], ['set156_frame1', 1.541], ['set11_frame0', 1.556], ['set151_frame0', 1.599]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_53_frame0.fa.txt
+5 24
+Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_12
+IDQ----EDSHNDSDDDEE
+5 24
+set53_frame0
+VDNAEKAEPEENSEDDDEE
+Original query = IDQEDSHNDSDDDEE
+New query = VDNAEKAEPEENSEDDDEE
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24775606,24775672,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+11
+15
+Leptidea_reali,CATIXK010000003.1,24773394,24773503,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Leptidea_reali,CATIXK010000003.1,24782262,24782410,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15,1,48,49
+
+Getting Gene
+min = set50_frame0, 0.589
+5 top scores:
+[['set50_frame0', 0.589], ['set50_frame1', 1.53], ['set87_frame2', 1.596], ['set8_frame0', 1.615], ['set157_frame1', 1.63]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_50_frame0.fa.txt
+12 33
+Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_2_query_Exon_13
+EEEDEPSTAVVETDFDFKDFV
+12 33
+set50_frame0
+EDEEDKTTAVVETEFDFQDFV
+Original query = EEEDEPSTAVVETDFDFKDFVL
+New query = EDEEDKTTAVVETEFDFQDFV
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24778797,24778995,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Leptidea_reali,CATIXK010000003.1,24773394,24773503,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Leptidea_reali,CATIXK010000003.1,24789338,24789432,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16,2,27,31
+
+Getting Gene
+min = set111_frame1, 0.505
+5 top scores:
+[['set111_frame1', 0.505], ['set68_frame2', 1.757], ['set245_frame1', 1.825], ['set138_frame0', 1.772], ['set286_frame1', 1.827]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_111_frame1.fa.txt
+25 91
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_0_query_Exon_14
+FCHPRVVSACVCLLERYDKNTTHTNHCIVKMLHRIAWDCNRPAMMFQATLFLIFQRILHNPVPHLK
+25 91
+set111_frame1
+FCHPRVVSGCVSLLERYEKNSVHTNHCIVKMLHRIAWDCKRAAMLFHGTLFITFQKILASKLAHFK
+Original query = FCHPRVVSACVCLLERYDKNTTHTNHCIVKMLHRIAWDCNRPAMMFQATLFLIFQRILHNPVPHLK
+New query = FCHPRVVSGCVSLLERYEKNSVHTNHCIVKMLHRIAWDCKRAAMLFHGTLFITFQKILASKLAHFK
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24782262,24782410,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15,1,48,49
+
+13
+17
+Leptidea_reali,CATIXK010000003.1,24775606,24775672,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+Leptidea_reali,CATIXK010000003.1,24800536,24800742,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Getting Gene
+min = set153_frame2, 0.381
+5 top scores:
+[['set153_frame2', 0.381], ['set341_frame2', 1.693], ['set335_frame1', 1.722], ['set238_frame2', 1.746], ['set226_frame2', 1.76]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_153_frame2.fa.txt
+0 49
+Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_2_query_Exon_15
+ELEKFAVYVLRKFTEIASKSGKVFIELLFWKNSKDAVEIEHGYDVHSDP
+0 49
+set153_frame2
+ELEKFAIYIIRKFTEAASKSPKVFIELLFWKTAKDALEIEHGYELYSDA
+Original query = ELEKFAVYVLRKFTEIASKSGKVFIELLFWKNSKDAVEIEHGYDVHSDP
+New query = ELEKFAIYIIRKFTEAASKSPKVFIELLFWKTAKDALEIEHGYELYSDA
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24789338,24789432,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16,2,27,31
+
+14
+18
+19
+20
+Leptidea_reali,CATIXK010000003.1,24778797,24778995,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Leptidea_reali,CATIXK010000003.1,24822173,24822366,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20,1,64,64
+
+Getting Gene
+min = set206_frame0, 0.446
+5 top scores:
+[['set206_frame0', 0.446], ['set657_frame0', 1.424], ['set619_frame2', 1.576], ['set787_frame2', 1.648], ['set662_frame2', 1.686]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_206_frame0.fa.txt
+41 72
+Bicyclus_anynana_XM_024096020.2_Frame_1_rightoh_1_query_Exon_16
+DKPGKGGWSEAQEEELRQLYMENQSNPETDQ
+41 72
+set206_frame0
+DKVGKNQWSEEQEEELRKLYMENQSNPQTNQ
+Original query = DKPGKGGWSEAQEEELRQLYMENQSNPETDQ
+New query = DKVGKNQWSEEQEEELRKLYMENQSNPQTNQ
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24800536,24800742,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+15
+19
+20
+Leptidea_reali,CATIXK010000003.1,24782262,24782410,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15,1,48,49
+
+Leptidea_reali,CATIXK010000003.1,24822173,24822366,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20,1,64,64
+
+Getting Gene
+min = set384_frame0, 0.393
+5 top scores:
+[['set384_frame0', 0.393], ['set623_frame0', 1.694], ['set694_frame2', 1.694], ['set70_frame2', 1.764], ['set238_frame2', 1.806]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_384_frame0.fa.txt
+8 76
+Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_17
+VIDWMLENIIDQTRTRRSVIKKLKELGLIFKAPTKKVNREKREHVPKDFSEEEDEMLRELWQQFGDTT
+8 76
+set384_frame0
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFRAPTKRSNKERKDKLPKTFSEEEDDMLRELWTQYGDSD
+Original query = VIDWMLENIIDQTRTRRSVIKKLKELGLIFKAPTKKVNREKREHVPKDFSEEEDEMLRELWQQFGDTT
+New query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFRAPTKRSNKERKDKLPKTFSEEEDDMLRELWTQYGDSD
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24812139,24812276,0,Y,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_18,1,31,45
+
+16
+20
+Leptidea_reali,CATIXK010000003.1,24789338,24789432,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16,2,27,31
+
+Leptidea_reali,CATIXK010000003.1,24822173,24822366,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20,1,64,64
+
+Getting Gene
+min = set507_frame0, 0.798
+5 top scores:
+[['set507_frame0', 0.798], ['set254_frame1', 1.527], ['set655_frame1', 1.741], ['set413_frame2', 1.749], ['set621_frame2', 1.749]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_507_frame0.fa.txt
+2 52
+Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_18
+PMALILPRMPRKRSKRSFVDRMLELGVVQDRKQCRKKKQRKAKSTADDDK
+2 52
+set507_frame0
+PMEMIMTRMLRKRQKRSFVDRLLELGLIEDRKQCKKKRKNKSGTAGKLLK
+Original query = PMALILPRMPRKRSKRSFVDRMLELGVVQDRKQCRKKKQRKAKSTADDDKSN
+New query = PMEMIMTRMLRKRQKRSFVDRLLELGLIEDRKQCKKKRKNKSGTAGKLLK
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24817214,24817375,0,Y,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_19,34,51,53
+
+17
+21
+Leptidea_reali,CATIXK010000003.1,24800536,24800742,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Leptidea_reali,CATIXK010000003.1,24824601,24825114,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,144,148
+
+Getting Gene
+min = set382_frame0, 1.167
+5 top scores:
+[['set382_frame0', 1.167], ['set487_frame2', 1.685], ['set75_frame2', 1.794], ['set324_frame2', 1.806], ['set476_frame2', 1.807]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_382_frame0.fa.txt
+10 75
+Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_1_query_Exon_19
+SSSESESEASHSDSDAPPPTINIKPKKTNKKDAGKKQQIKNKKGAKSVELSANEIAKLLVQAVDE
+10 75
+set382_frame0
+NNASSNSESESNDSDRSTRSLSPAPKPKKKKEA---QKMRKKATERNVEMSANEIASLLVRAVNE
+Original query = SSSESESEASHSDSDAPPPTINIKPKKTNKKDAGKKQQIKNKKGAKSVELSANEIAKLLVQAVDE
+New query = NNASSNSESESNDSDRSTRSLSPAPKPKKKKEA---QKMRKKATERNVEMSANEIASLLVRAVNE
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24822173,24822366,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20,1,64,64
+
+18
+17
+21
+Leptidea_reali,CATIXK010000003.1,24800536,24800742,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Leptidea_reali,CATIXK010000003.1,24824601,24825114,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,144,148
+
+Getting Gene
+min = set479_frame0, 0.477
+5 top scores:
+[['set479_frame0', 0.477], ['set22_frame2', 1.784], ['set156_frame2', 1.792], ['set403_frame2', 1.798], ['set8_frame2', 1.812]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_479_frame0.fa.txt
+9 73
+Bicyclus_anynana_XM_024096020.2_Frame_2_rightoh_0_query_Exon_20
+TEALRWLAENLEEVALDQEAEGFDPTAEGTALVPISSESIEAMDSALFLEVLKSIGIAPPSDEQ
+9 73
+set479_frame0
+TEALKWLADSLEEVALDQEADGYDPTSEGIPLVPISSDCVDAMDNKLFQLILKAIGVVPPSDEQ
+Original query = FTEALRWLAENLEEVALDQEAEGFDPTAEGTALVPISSESIEAMDSALFLEVLKSIGIAPPSDEQ
+New query = TEALKWLADSLEEVALDQEADGYDPTSEGIPLVPISSDCVDAMDNKLFQLILKAIGVVPPSDEQ
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24824601,24825114,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,144,148
+
+19
+18
+17
+21
+Leptidea_reali,CATIXK010000003.1,24800536,24800742,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Leptidea_reali,CATIXK010000003.1,24824601,24825114,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,144,148
+
+Getting Gene
+min = set487_frame2, 1.084
+5 top scores:
+[['set324_frame2', 1.907], ['set422_frame2', 1.908], ['set487_frame2', 1.084]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Bicyclus_anynana/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_487_frame2.fa.txt
+22 206
+Bicyclus_anynana_XM_024096020.2_Frame_0_rightoh_1_query_Exon_21
+EIYWRIPSNLHHETIRKRREIILKAINKELIVDNSITNTVVPKSANSQEPIDKAESSDDDDLFDNLRKIRDNNPVISDNVSNKSVSNNRN----------------------------TSNRKRSRSNDPDEGNNRKMQRIEEVNDEE-------EDILSFAKKTLQTDLPDTEDILSGLPHHS
+22 206
+set487_frame2
+ETYWRIPSILHHETIRKRREIINKAINNELIVNLQDSN--------------KNDSSDDDDLFDNLRKITNHGGTELNNSDKQKETNQINSKTANVGGNDITENDSDDEDSISKVNIRSTKRKRTISLDSESSSRDKLPRIHEDVDEEDKNDDDDDDILEFAKKTLQQDLPDTEDILSVLPKHD
+Original query = EIYWRIPSNLHHETIRKRREIILKAINKELIVDNSITNTVVPKSANSQEPIDKAESSDDDDLFDNLRKIRDNNPVISDNVSNKSVSNNRNTSNRKRSRSNDPDEGNNRKMQRIEEVNDEEEDILSFAKKTLQTDLPDTEDILSGLPHHS
+New query = ETYWRIPSILHHETIRKRREIINKAINNELIVNLQDSN--------------KNDSSDDDDLFDNLRKITNHGGTELNNSDKQKETNQINSKTANVGGNDITENDSDDEDSISKVNIRSTKRKRTISLDSESSSRDKLPRIHEDVDEEDKNDDDDDDILEFAKKTLQQDLPDTEDILSVLPKHD
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24764786,24764969,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Leptidea_reali,CATIXK010000003.1,24764328,24764581,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Leptidea_reali,CATIXK010000003.1,24766165,24766421,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set7_frame0, 0.207
+5 top scores:
+[['set1_frame0', 1.858], ['set7_frame0', 0.207], ['set17_frame1', 1.855], ['set46_frame1', 1.824], ['set51_frame2', 1.857]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_7_frame0.fa.txt
+11 72
+Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_2
+LIVNLTNPALLLYREEVPAERTARHNYLQILSHLQSYKEEAFTKVETWQVFAKKLAKILEI
+11 72
+set7_frame0
+LIVNLTTPALLLYREEVPTDRSARHNYLHVLSHLQSYKEESFTKVDTWQVFAKKLTKVLEI
+Original query = LIVNLTNPALLLYREEVPAERTARHNYLQILSHLQSYKEEAFTKVETWQVFAKKLAKILEI
+New query = LIVNLTTPALLLYREEVPTDRSARHNYLHVLSHLQSYKEESFTKVDTWQVFAKKLTKVLEI
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24765427,24765561,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Leptidea_reali,CATIXK010000003.1,24764328,24764581,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Leptidea_reali,CATIXK010000003.1,24766910,24767107,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set33_frame1, 0.032
+5 top scores:
+[['set33_frame1', 0.032], ['set46_frame1', 1.721], ['set25_frame2', 1.79], ['set68_frame0', 1.794], ['set65_frame2', 1.821]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_33_frame1.fa.txt
+0 45
+Pieris_napi_XM_047670174.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLVIERILILIRNVLHVPADLDKEKRPENDASIHDQ
+0 45
+set33_frame1
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+Original query = DWSERDEDTGLVIERILILIRNVLHVPADLDKEKRPENDASIHDQ
+New query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24766165,24766421,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Leptidea_reali,CATIXK010000003.1,24764786,24764969,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Leptidea_reali,CATIXK010000003.1,24768540,24768722,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set34_frame2, 0.147
+5 top scores:
+[['set1_frame1', 1.835], ['set62_frame1', 1.877], ['set34_frame2', 0.147]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_34_frame2.fa.txt
+0 85
+Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4
+VLWGLNQSGILDLLLYMSSENEKQYFMHILEIITHLLREQNPSGLADAALQRSVDEKLRDEQELLTLRLSETKERVNKIRQYSST
+0 85
+set34_frame2
+VLWALNQSGILDVILYMSSENEKQYFMHILEIITHLLREQNPTNLADAALQRSVEEKLRDEQELLTIRMSETKDRVNKIRQYSST
+Original query = VLWGLNQSGILDLLLYMSSENEKQYFMHILEIITHLLREQNPSGLADAALQRSVDEKLRDEQELLTLRLSETKERVNKIRQYSST
+New query = VLWALNQSGILDVILYMSSENEKQYFMHILEIITHLLREQNPTNLADAALQRSVEEKLRDEQELLTIRMSETKDRVNKIRQYSST
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24766910,24767107,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Leptidea_reali,CATIXK010000003.1,24765427,24765561,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Leptidea_reali,CATIXK010000003.1,24769304,24769591,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set45_frame2, 0.119
+5 top scores:
+[['set45_frame2', 0.119], ['set56_frame1', 1.837], ['set98_frame2', 1.841], ['set16_frame1', 1.833], ['set30_frame1', 1.843]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_45_frame2.fa.txt
+16 81
+Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVIQNMKSISENELISLKPLNKISNLDFNGSKKSKLVRPKNRRPVETGAMERRSPFAV
+16 81
+set45_frame2
+HSRFGGTYVIQNMKSISENELICLKPLNTISNLDFNGSKKSKLVKPKNRRPTESGAMERRSPFAV
+Original query = HSRFGGTYVIQNMKSISENELISLKPLNKISNLDFNGSKKSKLVRPKNRRPVETGAMERRSPFAV
+New query = HSRFGGTYVIQNMKSISENELICLKPLNTISNLDFNGSKKSKLVKPKNRRPTESGAMERRSPFAV
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24768540,24768722,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+Leptidea_reali,CATIXK010000003.1,24766165,24766421,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Leptidea_reali,CATIXK010000003.1,24769713,24769831,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,35,39
+
+Getting Gene
+min = set55_frame0, 0.191
+5 top scores:
+[['set38_frame2', 1.741], ['set83_frame2', 1.775], ['set43_frame1', 1.832], ['set55_frame0', 0.191], ['set84_frame0', 1.816]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_55_frame0.fa.txt
+8 68
+Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSSYNALMHYVKDVLVRAKAQQNDESYYLWTMKFFMEFNRGHKFNVGLV
+8 68
+set55_frame0
+LFLKEFCIEFLNSAYNPLMHYVKDVLVRSIAQQNDESYYLWAVKFFMEFNRGHKFNVALV
+Original query = LFLKEFCIEFLNSSYNALMHYVKDVLVRAKAQQNDESYYLWTMKFFMEFNRGHKFNVGLV
+New query = LFLKEFCIEFLNSAYNPLMHYVKDVLVRSIAQQNDESYYLWAVKFFMEFNRGHKFNVALV
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24769304,24769591,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Leptidea_reali,CATIXK010000003.1,24766910,24767107,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Leptidea_reali,CATIXK010000003.1,24771441,24771597,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_9,1,49,49
+
+Getting Gene
+min = set62_frame1, 0.327
+5 top scores:
+[['set62_frame1', 0.327]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_62_frame1.fa.txt
+12 107
+Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQMEKYHDMIRVEKNKFYPWVRRLHLALRCYKELLNTLLEMDKSSDVSVKDSAKVIKSNVFYVLEYREFILTIFLDYDDNKMP
+12 107
+set62_frame1
+ETMSVPMFHYVQQQMEKYYDMIRVEKKKFSSWVRRLHLALRSYKELLYTLLAMDTAEDVSVKESAKVIKSNIFYVLEYREFILSIILNYDENKMP
+Original query = ETMSVPMFHYVQQQMEKYHDMIRVEKNKFYPWVRRLHLALRCYKELLNTLLEMDKSSDVSVKDSAKVIKSNVFYVLEYREFILTIFLDYDDNKMP
+New query = ETMSVPMFHYVQQQMEKYYDMIRVEKKKFSSWVRRLHLALRSYKELLYTLLAMDTAEDVSVKESAKVIKSNIFYVLEYREFILSIILNYDENKMP
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24769713,24769831,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,35,39
+
+6
+10
+Leptidea_reali,CATIXK010000003.1,24768540,24768722,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Leptidea_reali,CATIXK010000003.1,24772124,24772204,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set30_frame1, 0.222
+5 top scores:
+[['set30_frame1', 0.222], ['set8_frame2', 1.624], ['set55_frame2', 1.63], ['set79_frame2', 1.731], ['set58_frame1', 1.782]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_30_frame1.fa.txt
+16 51
+set30_frame1
+SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKK
+Original query = SYLLDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKTKAK
+New query = SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKK
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24771441,24771597,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_9,1,49,49
+
+7
+11
+Leptidea_reali,CATIXK010000003.1,24769304,24769591,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Leptidea_reali,CATIXK010000003.1,24773394,24773503,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Getting Gene
+min = set53_frame0, 0.693
+5 top scores:
+[['set64_frame2', 1.668], ['set69_frame1', 1.779], ['set11_frame2', 1.807], ['set55_frame0', 1.851], ['set53_frame0', 0.693]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_53_frame0.fa.txt
+9 60
+Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_9
+QKPRQKPQATKPIPQ--WEAVREQMAVVLTSQLDTYPPPFDAASDTPIDQQ
+9 60
+set53_frame0
+QKPRTKAQAQAPKSNTPWEVAREQIAVVLTSQIEDCPPPFDAASDVPIDQQ
+Original query = QKPRQKPQATKPIPQWEAVREQMAVVLTSQLDTYPPPFDAASDTPIDQQ
+New query = QKPRTKAQAQAPKSNTPWEVAREQIAVVLTSQIEDCPPPFDAASDVPIDQQ
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24772124,24772204,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+12
+13
+Leptidea_reali,CATIXK010000003.1,24769713,24769831,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,35,39
+
+Leptidea_reali,CATIXK010000003.1,24775606,24775672,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+Getting Gene
+min = set65_frame0, 0.432
+5 top scores:
+[['set65_frame0', 0.432], ['set26_frame1', 1.483], ['set63_frame1', 1.565], ['set74_frame2', 1.586], ['set21_frame2', 1.659]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_65_frame0.fa.txt
+7 33
+Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKLMRDHKYEDALGTFRAA
+7 33
+set65_frame0
+EDCMKKIQKRMREGQYEEAVGTFRAA
+Original query = EDCMKKIQKLMRDHKYEDALGTFRAA
+New query = EDCMKKIQKRMREGQYEEAVGTFRAA
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24773394,24773503,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+9
+13
+Leptidea_reali,CATIXK010000003.1,24771441,24771597,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_9,1,49,49
+
+Leptidea_reali,CATIXK010000003.1,24775606,24775672,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+Getting Gene
+min = set46_frame1, 0.254
+5 top scores:
+[['set46_frame1', 0.254], ['set64_frame2', 1.713], ['set33_frame2', 1.783], ['set93_frame1', 1.801], ['set18_frame2', 1.802]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_46_frame1.fa.txt
+6 40
+Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGTEGIQEHEELDMLETIYNTDLGVE
+6 40
+set46_frame1
+EVWPEEGIFGIDGIQEHEELEMLETIYNTDLGVE
+Original query = EVWPEEGIFGTEGIQEHEELDMLETIYNTDLGVEND
+New query = EVWPEEGIFGIDGIQEHEELEMLETIYNTDLGVE
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,0,0,0,Y,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_12,0,0,15
+
+10
+14
+Leptidea_reali,CATIXK010000003.1,24772124,24772204,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Leptidea_reali,CATIXK010000003.1,24778797,24778995,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set53_frame0, 1.055
+5 top scores:
+[['set53_frame0', 1.055], ['set31_frame2', 1.389], ['set34_frame2', 1.442], ['set141_frame2', 1.451], ['set134_frame1', 1.501]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_53_frame0.fa.txt
+0 23
+Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_12
+TV--------QEQEEENSEYDEE
+0 23
+set53_frame0
+YFILSVDNAEKAEPEENSEDDDE
+Original query = TVQEQEEENSEYDEE
+New query = YFILSVDNAEKAEPEENSEDDDE
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24775606,24775672,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+11
+15
+Leptidea_reali,CATIXK010000003.1,24773394,24773503,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Leptidea_reali,CATIXK010000003.1,24782262,24782410,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15,1,48,49
+
+Getting Gene
+min = set50_frame0, 0.245
+5 top scores:
+[['set50_frame0', 0.245], ['set50_frame1', 1.535], ['set105_frame2', 1.535], ['set131_frame2', 1.54], ['set176_frame2', 1.582]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_50_frame0.fa.txt
+13 34
+Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_13
+EEEDRTTSVVETEFDFQDFMQ
+13 34
+set50_frame0
+DEEDKTTAVVETEFDFQDFVQ
+Original query = EEEDRTTSVVETEFDFQDFMQ
+New query = DEEDKTTAVVETEFDFQDFVQ
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24778797,24778995,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Leptidea_reali,CATIXK010000003.1,24773394,24773503,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Leptidea_reali,CATIXK010000003.1,24789338,24789432,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16,2,27,31
+
+Getting Gene
+min = set111_frame1, 0.499
+5 top scores:
+[['set111_frame1', 0.499], ['set55_frame2', 1.755], ['set105_frame2', 1.784], ['set270_frame2', 1.789], ['set87_frame2', 1.82]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_111_frame1.fa.txt
+25 91
+Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14
+FCHPRVVSACVSLLDRFEKNTPYTNHCIAKMLHRIAWDCRRPAMMFQASLFLIFQRVLTNNIQHFK
+25 91
+set111_frame1
+FCHPRVVSGCVSLLERYEKNSVHTNHCIVKMLHRIAWDCKRAAMLFHGTLFITFQKILASKLAHFK
+Original query = FCHPRVVSACVSLLDRFEKNTPYTNHCIAKMLHRIAWDCRRPAMMFQASLFLIFQRVLTNNIQHFK
+New query = FCHPRVVSGCVSLLERYEKNSVHTNHCIVKMLHRIAWDCKRAAMLFHGTLFITFQKILASKLAHFK
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24782262,24782410,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15,1,48,49
+
+13
+17
+Leptidea_reali,CATIXK010000003.1,24775606,24775672,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+Leptidea_reali,CATIXK010000003.1,24800536,24800742,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Getting Gene
+min = set153_frame2, 0.457
+5 top scores:
+[['set153_frame2', 0.457], ['set381_frame1', 1.693], ['set214_frame2', 1.696], ['set341_frame2', 1.711], ['set380_frame1', 1.772]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_153_frame2.fa.txt
+0 48
+Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFAIYVIRKFTDIASRSPKAFIELLFWTNSKDAVEVECGYDLYND
+0 48
+set153_frame2
+ELEKFAIYIIRKFTEAASKSPKVFIELLFWKTAKDALEIEHGYELYSD
+Original query = ELEKFAIYVIRKFTDIASRSPKAFIELLFWTNSKDAVEVECGYDLYNDQ
+New query = ELEKFAIYIIRKFTEAASKSPKVFIELLFWKTAKDALEIEHGYELYSD
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24789338,24789432,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16,2,27,31
+
+14
+18
+19
+20
+Leptidea_reali,CATIXK010000003.1,24778797,24778995,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Leptidea_reali,CATIXK010000003.1,24822173,24822366,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20,1,64,64
+
+Getting Gene
+min = set206_frame0, 0.499
+5 top scores:
+[['set206_frame0', 0.499], ['set657_frame0', 1.478], ['set723_frame1', 1.598], ['set149_frame2', 1.609], ['set270_frame2', 1.622]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_206_frame0.fa.txt
+42 72
+Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16
+KEGKHSWSEEQEEELRKLYMENQANPVNEQ
+42 72
+set206_frame0
+KVGKNQWSEEQEEELRKLYMENQSNPQTNQ
+Original query = GKEGKHSWSEEQEEELRKLYMENQANPVNEQ
+New query = KVGKNQWSEEQEEELRKLYMENQSNPQTNQ
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24800536,24800742,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+15
+19
+20
+Leptidea_reali,CATIXK010000003.1,24782262,24782410,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15,1,48,49
+
+Leptidea_reali,CATIXK010000003.1,24822173,24822366,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20,1,64,64
+
+Getting Gene
+min = set384_frame0, 0.314
+5 top scores:
+[['set384_frame0', 0.314], ['set694_frame2', 1.686], ['set776_frame1', 1.785], ['set70_frame2', 1.792], ['set181_frame1', 1.818]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_384_frame0.fa.txt
+8 76
+Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17
+VIEWILDNLIDQTRTRRGVIKKLKELGLIFRAPTKKSNKERRERVPKEFTEEEDEMLRGLWAQFGETD
+8 76
+set384_frame0
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFRAPTKRSNKERKDKLPKTFSEEEDDMLRELWTQYGDSD
+Original query = VIEWILDNLIDQTRTRRGVIKKLKELGLIFRAPTKKSNKERRERVPKEFTEEEDEMLRGLWAQFGETD
+New query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFRAPTKRSNKERKDKLPKTFSEEEDDMLRELWTQYGDSD
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24812139,24812276,0,Y,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_18,1,31,45
+
+16
+20
+Leptidea_reali,CATIXK010000003.1,24789338,24789432,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16,2,27,31
+
+Leptidea_reali,CATIXK010000003.1,24822173,24822366,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20,1,64,64
+
+Getting Gene
+min = set507_frame0, 0.554
+5 top scores:
+[['set507_frame0', 0.554], ['set254_frame1', 1.518], ['set621_frame2', 1.716], ['set454_frame2', 1.731], ['set390_frame1', 1.768]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_507_frame0.fa.txt
+2 47
+Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_18
+PMGLIISRMPRKRQKRSFIDRLLELGIIQDKKECRKKRQKKGDSS
+2 47
+set507_frame0
+PMEMIMTRMLRKRQKRSFVDRLLELGLIEDRKQCKKKRKNKSGTA
+Original query = PMGLIISRMPRKRQKRSFIDRLLELGIIQDKKECRKKRQKKGDSS
+New query = PMEMIMTRMLRKRQKRSFVDRLLELGLIEDRKQCKKKRKNKSGTA
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24817214,24817375,0,Y,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_19,34,51,53
+
+17
+21
+Leptidea_reali,CATIXK010000003.1,24800536,24800742,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Leptidea_reali,CATIXK010000003.1,24824601,24825114,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,144,148
+
+Getting Gene
+min = set382_frame0, 1.199
+5 top scores:
+[['set382_frame0', 1.199], ['set487_frame2', 1.647], ['set329_frame2', 1.737], ['set137_frame2', 1.768], ['set1_frame2', 1.782]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_382_frame0.fa.txt
+19 72
+Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_19
+SSSDSDESRSSSPVRIQAKKKTHEPRKRNQNKGKHVEISANEIARLLVSAVEA
+19 72
+set382_frame0
+ESNDSDRSTRSLSPAPKPKKKKEAQKMRKKATERNVEMSANEIASLLVRAVNE
+Original query = SSSDSDESRSSSPVRIQAKKKTHEPRKRNQNKGKHVEISANEIARLLVSAVEA
+New query = ESNDSDRSTRSLSPAPKPKKKKEAQKMRKKATERNVEMSANEIASLLVRAVNE
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24822173,24822366,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20,1,64,64
+
+18
+17
+21
+Leptidea_reali,CATIXK010000003.1,24800536,24800742,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Leptidea_reali,CATIXK010000003.1,24824601,24825114,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,144,148
+
+Getting Gene
+min = set479_frame0, 0.637
+5 top scores:
+[['set479_frame0', 0.637], ['set75_frame2', 1.781], ['set487_frame2', 1.803], ['set253_frame1', 1.832], ['set129_frame0', 1.83]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_479_frame0.fa.txt
+8 72
+Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20
+HTESLNWLAENLEEVALDQEAEGFNPGDEGTPLVPIFTGSAEAMEENLFQTVLKAIGVVPPNDQ
+8 72
+set479_frame0
+QTEALKWLADSLEEVALDQEADGYDPTSEGIPLVPISSDCVDAMDNKLFQLILKAIGVVPPSDE
+Original query = HTESLNWLAENLEEVALDQEAEGFNPGDEGTPLVPIFTGSAEAMEENLFQTVLKAIGVVPPNDQ
+New query = QTEALKWLADSLEEVALDQEADGYDPTSEGIPLVPISSDCVDAMDNKLFQLILKAIGVVPPSDE
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24824601,24825114,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,144,148
+
+19
+18
+17
+21
+Leptidea_reali,CATIXK010000003.1,24800536,24800742,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Leptidea_reali,CATIXK010000003.1,24824601,24825114,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,144,148
+
+Getting Gene
+min = set487_frame2, 1.015
+5 top scores:
+[['set324_frame2', 1.922], ['set422_frame2', 1.899], ['set487_frame2', 1.015]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Pieris_napi/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_487_frame2.fa.txt
+22 150
+set487_frame2
+ETYWRIPSILHHETIRKRREIINKAINNELIVNLQDSNKNDSSDDDDLFDNLRKITNHGGTELNNSDKQKETNQINSKTANVGGNDITENDSDDEDSISKVNIRSTK-RKRTISLDSESSSRDKLPRI
+Original query = ESYWRIPSSLHYETIRKRRDTILKAVNKELIVEKPNDSSDDDDLFNNLRKITNNEQPVKEHINNTIINENNDANINEDNDSDSSDIGPSKSSKSRKRTRSVESEGNSRKLQKIDEDDDDILSFAKKTLNHENLPDTEDILSALPSRAS
+New query = ETYWRIPSILHHETIRKRREIINKAINNELIVNLQDSNKNDSSDDDDLFDNLRKITNHGGTELNNSDKQKETNQINSKTANVGGNDITENDSDDEDSISKVNIRSTK-RKRTISLDSESSSRDKLPRI
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8', 'Exon_9', 'Exon_10', 'Exon_11', 'Exon_12', 'Exon_13', 'Exon_14', 'Exon_15', 'Exon_16', 'Exon_17', 'Exon_18', 'Exon_19', 'Exon_20', 'Exon_21']
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24764786,24764969,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+1
+4
+Leptidea_reali,CATIXK010000003.1,24764328,24764581,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Leptidea_reali,CATIXK010000003.1,24766165,24766421,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Getting Gene
+min = set7_frame0, 0.0
+5 top scores:
+[['set1_frame0', 1.866], ['set7_frame0', 0.0], ['set17_frame1', 1.781], ['set46_frame1', 1.804], ['set51_frame2', 1.848]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_7_frame0.fa.txt
+11 72
+Leptidea_sinapis_XM_050825300.1_Frame_1_rightoh_0_query_Exon_2
+LIVNLTTPALLLYREEVPTDRSARHNYLHVLSHLQSYKEESFTKVDTWQVFAKKLTKVLEI
+11 72
+set7_frame0
+LIVNLTTPALLLYREEVPTDRSARHNYLHVLSHLQSYKEESFTKVDTWQVFAKKLTKVLEI
+Original query = LIVNLTTPALLLYREEVPTDRSARHNYLHVLSHLQSYKEESFTKVDTWQVFAKKLTKVLEI
+New query = LIVNLTTPALLLYREEVPTDRSARHNYLHVLSHLQSYKEESFTKVDTWQVFAKKLTKVLEI
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24765427,24765561,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+1
+5
+Leptidea_reali,CATIXK010000003.1,24764328,24764581,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_1,1,84,84
+
+Leptidea_reali,CATIXK010000003.1,24766910,24767107,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Getting Gene
+min = set33_frame1, 0.0
+5 top scores:
+[['set33_frame1', 0.0], ['set46_frame1', 1.727], ['set25_frame2', 1.79], ['set68_frame0', 1.767], ['set65_frame2', 1.81]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_33_frame1.fa.txt
+0 45
+Leptidea_sinapis_XM_050825300.1_Frame_0_rightoh_0_query_Exon_3
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+0 45
+set33_frame1
+DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+Original query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+New query = DWSERDEDTGLIIERILILIRNVLHVPADLDKERRPENDASIHDQ
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24766165,24766421,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+2
+6
+Leptidea_reali,CATIXK010000003.1,24764786,24764969,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_2,1,61,61
+
+Leptidea_reali,CATIXK010000003.1,24768540,24768722,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Getting Gene
+min = set34_frame2, 0.0
+5 top scores:
+[['set1_frame1', 1.82], ['set62_frame1', 1.848], ['set34_frame2', 0.0]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_34_frame2.fa.txt
+0 85
+Leptidea_sinapis_XM_050825300.1_Frame_0_rightoh_2_query_Exon_4
+VLWALNQSGILDVILYMSSENEKQYFMHILEIITHLLREQNPTNLADAALQRSVEEKLRDEQELLTIRMSETKDRVNKIRQYSST
+0 85
+set34_frame2
+VLWALNQSGILDVILYMSSENEKQYFMHILEIITHLLREQNPTNLADAALQRSVEEKLRDEQELLTIRMSETKDRVNKIRQYSST
+Original query = VLWALNQSGILDVILYMSSENEKQYFMHILEIITHLLREQNPTNLADAALQRSVEEKLRDEQELLTIRMSETKDRVNKIRQYSST
+New query = VLWALNQSGILDVILYMSSENEKQYFMHILEIITHLLREQNPTNLADAALQRSVEEKLRDEQELLTIRMSETKDRVNKIRQYSST
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24766910,24767107,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+3
+7
+Leptidea_reali,CATIXK010000003.1,24765427,24765561,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_0_query_Exon_3,1,45,45
+
+Leptidea_reali,CATIXK010000003.1,24769304,24769591,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Getting Gene
+min = set45_frame2, 0.0
+5 top scores:
+[['set45_frame2', 0.0], ['set106_frame2', 1.851], ['set98_frame2', 1.857], ['set16_frame1', 1.827], ['set30_frame1', 1.812]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_45_frame2.fa.txt
+16 81
+Leptidea_sinapis_XM_050825300.1_Frame_1_rightoh_2_query_Exon_5
+HSRFGGTYVIQNMKSISENELICLKPLNTISNLDFNGSKKSKLVKPKNRRPTESGAMERRSPFAV
+16 81
+set45_frame2
+HSRFGGTYVIQNMKSISENELICLKPLNTISNLDFNGSKKSKLVKPKNRRPTESGAMERRSPFAV
+Original query = HSRFGGTYVIQNMKSISENELICLKPLNTISNLDFNGSKKSKLVKPKNRRPTESGAMERRSPFAV
+New query = HSRFGGTYVIQNMKSISENELICLKPLNTISNLDFNGSKKSKLVKPKNRRPTESGAMERRSPFAV
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24768540,24768722,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+4
+8
+Leptidea_reali,CATIXK010000003.1,24766165,24766421,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_4,1,85,85
+
+Leptidea_reali,CATIXK010000003.1,24769713,24769831,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,35,39
+
+Getting Gene
+min = set55_frame0, 0.0
+5 top scores:
+[['set38_frame2', 1.731], ['set83_frame2', 1.742], ['set53_frame0', 1.839], ['set55_frame0', 0.0], ['set84_frame0', 1.834]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_55_frame0.fa.txt
+8 68
+Leptidea_sinapis_XM_050825300.1_Frame_1_rightoh_2_query_Exon_6
+LFLKEFCIEFLNSAYNPLMHYVKDVLVRSIAQQNDESYYLWAVKFFMEFNRGHKFNVALV
+8 68
+set55_frame0
+LFLKEFCIEFLNSAYNPLMHYVKDVLVRSIAQQNDESYYLWAVKFFMEFNRGHKFNVALV
+Original query = LFLKEFCIEFLNSAYNPLMHYVKDVLVRSIAQQNDESYYLWAVKFFMEFNRGHKFNVALV
+New query = LFLKEFCIEFLNSAYNPLMHYVKDVLVRSIAQQNDESYYLWAVKFFMEFNRGHKFNVALV
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24769304,24769591,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+5
+9
+Leptidea_reali,CATIXK010000003.1,24766910,24767107,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_5,1,65,65
+
+Leptidea_reali,CATIXK010000003.1,24771441,24771597,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_9,1,49,49
+
+Getting Gene
+min = set62_frame1, 0.0
+5 top scores:
+[['set62_frame1', 0.0]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_62_frame1.fa.txt
+12 107
+Leptidea_sinapis_XM_050825300.1_Frame_1_rightoh_2_query_Exon_7
+ETMSVPMFHYVQQQMEKYYDMIRVEKKKFSSWVRRLHLALRSYKELLYTLLAMDTAEDVSVKESAKVIKSNIFYVLEYREFILSIILNYDENKMP
+12 107
+set62_frame1
+ETMSVPMFHYVQQQMEKYYDMIRVEKKKFSSWVRRLHLALRSYKELLYTLLAMDTAEDVSVKESAKVIKSNIFYVLEYREFILSIILNYDENKMP
+Original query = ETMSVPMFHYVQQQMEKYYDMIRVEKKKFSSWVRRLHLALRSYKELLYTLLAMDTAEDVSVKESAKVIKSNIFYVLEYREFILSIILNYDENKMP
+New query = ETMSVPMFHYVQQQMEKYYDMIRVEKKKFSSWVRRLHLALRSYKELLYTLLAMDTAEDVSVKESAKVIKSNIFYVLEYREFILSIILNYDENKMP
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24769713,24769831,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,35,39
+
+6
+10
+Leptidea_reali,CATIXK010000003.1,24768540,24768722,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_6,1,60,60
+
+Leptidea_reali,CATIXK010000003.1,24772124,24772204,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Getting Gene
+min = set30_frame1, 0.0
+5 top scores:
+[['set30_frame1', 0.0], ['set55_frame2', 1.638], ['set63_frame2', 1.746], ['set79_frame2', 1.756], ['set58_frame1', 1.798]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_30_frame1.fa.txt
+16 56
+Leptidea_sinapis_XM_050825300.1_Frame_1_rightoh_1_query_Exon_8
+SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKPSKPR
+16 56
+set30_frame1
+SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKPSKPR
+Original query = SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKPSKPR
+New query = SYLVDLVETVHLFLKMLEHYCKKTGLVVQKKVRKKPSKPR
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24771441,24771597,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_9,1,49,49
+
+7
+11
+Leptidea_reali,CATIXK010000003.1,24769304,24769591,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_7,1,95,95
+
+Leptidea_reali,CATIXK010000003.1,24773394,24773503,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Getting Gene
+min = set53_frame0, 0.103
+5 top scores:
+[['set1_frame1', 1.727], ['set64_frame2', 1.753], ['set32_frame0', 1.809], ['set11_frame2', 1.821], ['set53_frame0', 0.103]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_9/for_alignment/alignment_Exon_9_translated_genomic_sequence_53_frame0.fa.txt
+9 60
+Leptidea_sinapis_XM_050825300.1_Frame_2_rightoh_2_query_Exon_9
+QKPRTKAQAQAPKTDTPWEVAREQIAVVLTSQIEDCLPPFDAASDVPIDQQ
+9 60
+set53_frame0
+QKPRTKAQAQAPKSNTPWEVAREQIAVVLTSQIEDCPPPFDAASDVPIDQQ
+Original query = QKPRTKAQAQAPKTDTPWEVAREQIAVVLTSQIEDCLPPFDAASDVPIDQQ
+New query = QKPRTKAQAQAPKSNTPWEVAREQIAVVLTSQIEDCPPPFDAASDVPIDQQ
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24772124,24772204,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+8
+12
+13
+Leptidea_reali,CATIXK010000003.1,24769713,24769831,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_8,1,35,39
+
+Leptidea_reali,CATIXK010000003.1,24775606,24775672,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+Getting Gene
+min = set65_frame0, 0.0
+5 top scores:
+[['set65_frame0', 0.0], ['set140_frame1', 1.471], ['set18_frame2', 1.571], ['set52_frame2', 1.644], ['set77_frame2', 1.685]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_10/for_alignment/alignment_Exon_10_translated_genomic_sequence_65_frame0.fa.txt
+7 33
+Leptidea_sinapis_XM_050825300.1_Frame_1_rightoh_2_query_Exon_10
+EDCMKKIQKRMREGQYEEAVGTFRAA
+7 33
+set65_frame0
+EDCMKKIQKRMREGQYEEAVGTFRAA
+Original query = EDCMKKIQKRMREGQYEEAVGTFRAA
+New query = EDCMKKIQKRMREGQYEEAVGTFRAA
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24773394,24773503,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+9
+13
+Leptidea_reali,CATIXK010000003.1,24771441,24771597,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_9,1,49,49
+
+Leptidea_reali,CATIXK010000003.1,24775606,24775672,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+Getting Gene
+min = set46_frame1, 0.054
+5 top scores:
+[['set46_frame1', 0.054], ['set64_frame2', 1.728], ['set39_frame2', 1.782], ['set93_frame1', 1.801], ['set19_frame2', 1.807]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_11/for_alignment/alignment_Exon_11_translated_genomic_sequence_46_frame1.fa.txt
+6 42
+Leptidea_sinapis_XM_050825300.1_Frame_1_rightoh_1_query_Exon_11
+EVWPEEGIFGTDGIQEHEELEMLETIYNTDLGVELT
+6 42
+set46_frame1
+EVWPEEGIFGIDGIQEHEELEMLETIYNTDLGVELT
+Original query = EVWPEEGIFGTDGIQEHEELEMLETIYNTDLGVELT
+New query = EVWPEEGIFGIDGIQEHEELEMLETIYNTDLGVELT
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,0,0,0,Y,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_12,0,0,15
+
+10
+14
+Leptidea_reali,CATIXK010000003.1,24772124,24772204,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_2_query_Exon_10,1,26,26
+
+Leptidea_reali,CATIXK010000003.1,24778797,24778995,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Getting Gene
+min = set53_frame0, 0.0
+5 top scores:
+[['set53_frame0', 0.0], ['set79_frame1', 1.478], ['set156_frame1', 1.52], ['set143_frame0', 1.604], ['set134_frame1', 1.625]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_12/for_alignment/alignment_Exon_12_translated_genomic_sequence_53_frame0.fa.txt
+7 24
+Leptidea_sinapis_XM_050825300.1_Frame_2_rightoh_1_query_Exon_12
+NAEKAEPEENSEDDDEE
+7 24
+set53_frame0
+NAEKAEPEENSEDDDEE
+Original query = NAEKAEPEENSEDDDEE
+New query = NAEKAEPEENSEDDDEE
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24775606,24775672,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+11
+15
+Leptidea_reali,CATIXK010000003.1,24773394,24773503,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Leptidea_reali,CATIXK010000003.1,24782262,24782410,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15,1,48,49
+
+Getting Gene
+min = set50_frame0, 0.0
+5 top scores:
+[['set50_frame0', 0.0], ['set50_frame1', 1.529], ['set131_frame2', 1.546], ['set8_frame0', 1.57], ['set87_frame2', 1.607]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_13/for_alignment/alignment_Exon_13_translated_genomic_sequence_50_frame0.fa.txt
+12 34
+Leptidea_sinapis_XM_050825300.1_Frame_2_rightoh_2_query_Exon_13
+EDEEDKTTAVVETEFDFQDFVQ
+12 34
+set50_frame0
+EDEEDKTTAVVETEFDFQDFVQ
+Original query = EDEEDKTTAVVETEFDFQDFVQ
+New query = EDEEDKTTAVVETEFDFQDFVQ
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24778797,24778995,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+12
+11
+16
+Leptidea_reali,CATIXK010000003.1,24773394,24773503,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_11,1,34,36
+
+Leptidea_reali,CATIXK010000003.1,24789338,24789432,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16,2,27,31
+
+Getting Gene
+min = set111_frame1, 0.0
+5 top scores:
+[['set111_frame1', 0.0], ['set55_frame2', 1.773], ['set68_frame2', 1.814], ['set270_frame2', 1.82], ['set155_frame0', 1.799]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_14/for_alignment/alignment_Exon_14_translated_genomic_sequence_111_frame1.fa.txt
+25 91
+Leptidea_sinapis_XM_050825300.1_Frame_1_rightoh_0_query_Exon_14
+FCHPRVVSGCVSLLERYEKNSVHTNHCIVKMLHRIAWDCKRAAMLFHGTLFITFQKILASKLAHFK
+25 91
+set111_frame1
+FCHPRVVSGCVSLLERYEKNSVHTNHCIVKMLHRIAWDCKRAAMLFHGTLFITFQKILASKLAHFK
+Original query = FCHPRVVSGCVSLLERYEKNSVHTNHCIVKMLHRIAWDCKRAAMLFHGTLFITFQKILASKLAHFK
+New query = FCHPRVVSGCVSLLERYEKNSVHTNHCIVKMLHRIAWDCKRAAMLFHGTLFITFQKILASKLAHFK
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24782262,24782410,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15,1,48,49
+
+13
+17
+Leptidea_reali,CATIXK010000003.1,24775606,24775672,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_2_query_Exon_13,1,21,21
+
+Leptidea_reali,CATIXK010000003.1,24800536,24800742,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Getting Gene
+min = set153_frame2, 0.0
+5 top scores:
+[['set153_frame2', 0.0], ['set381_frame1', 1.694], ['set341_frame2', 1.728], ['set106_frame2', 1.745], ['set50_frame0', 1.747]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_15/for_alignment/alignment_Exon_15_translated_genomic_sequence_153_frame2.fa.txt
+0 49
+Leptidea_sinapis_XM_050825300.1_Frame_0_rightoh_2_query_Exon_15
+ELEKFAIYIIRKFTEAASKSPKVFIELLFWKTAKDALEIEHGYELYSDA
+0 49
+set153_frame2
+ELEKFAIYIIRKFTEAASKSPKVFIELLFWKTAKDALEIEHGYELYSDA
+Original query = ELEKFAIYIIRKFTEAASKSPKVFIELLFWKTAKDALEIEHGYELYSDA
+New query = ELEKFAIYIIRKFTEAASKSPKVFIELLFWKTAKDALEIEHGYELYSDA
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24789338,24789432,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16,2,27,31
+
+14
+18
+19
+20
+Leptidea_reali,CATIXK010000003.1,24778797,24778995,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_0_query_Exon_14,1,66,66
+
+Leptidea_reali,CATIXK010000003.1,24822173,24822366,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20,1,64,64
+
+Getting Gene
+min = set206_frame0, 0.0
+5 top scores:
+[['set206_frame0', 0.0], ['set657_frame0', 1.414], ['set723_frame1', 1.57], ['set814_frame2', 1.616], ['set316_frame2', 1.638]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_16/for_alignment/alignment_Exon_16_translated_genomic_sequence_206_frame0.fa.txt
+41 72
+Leptidea_sinapis_XM_050825300.1_Frame_1_rightoh_1_query_Exon_16
+DKVGKNQWSEEQEEELRKLYMENQSNPQTNQ
+41 72
+set206_frame0
+DKVGKNQWSEEQEEELRKLYMENQSNPQTNQ
+Original query = DKVGKNQWSEEQEEELRKLYMENQSNPQTNQ
+New query = DKVGKNQWSEEQEEELRKLYMENQSNPQTNQ
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24800536,24800742,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+15
+19
+20
+Leptidea_reali,CATIXK010000003.1,24782262,24782410,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_2_query_Exon_15,1,48,49
+
+Leptidea_reali,CATIXK010000003.1,24822173,24822366,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20,1,64,64
+
+Getting Gene
+min = set384_frame0, 0.0
+5 top scores:
+[['set384_frame0', 0.0], ['set694_frame2', 1.661], ['set70_frame2', 1.751], ['set68_frame0', 1.808], ['set701_frame0', 1.81]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_17/for_alignment/alignment_Exon_17_translated_genomic_sequence_384_frame0.fa.txt
+8 76
+Leptidea_sinapis_XM_050825300.1_Frame_2_rightoh_1_query_Exon_17
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFRAPTKRSNKERKDKLPKTFSEEEDDMLRELWTQYGDSD
+8 76
+set384_frame0
+VIDWILDNLIDQTRTRRSVIKKLKELGLIFRAPTKRSNKERKDKLPKTFSEEEDDMLRELWTQYGDSD
+Original query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFRAPTKRSNKERKDKLPKTFSEEEDDMLRELWTQYGDSD
+New query = VIDWILDNLIDQTRTRRSVIKKLKELGLIFRAPTKRSNKERKDKLPKTFSEEEDDMLRELWTQYGDSD
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24812139,24812276,0,Y,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_18,1,31,45
+
+16
+20
+Leptidea_reali,CATIXK010000003.1,24789338,24789432,0,N,Pieris_napi_XM_047670174.1_Frame_1_rightoh_1_query_Exon_16,2,27,31
+
+Leptidea_reali,CATIXK010000003.1,24822173,24822366,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20,1,64,64
+
+Getting Gene
+min = set507_frame0, 0.082
+5 top scores:
+[['set507_frame0', 0.082], ['set254_frame1', 1.478], ['set442_frame2', 1.692], ['set454_frame2', 1.731], ['set51_frame0', 1.759]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_18/for_alignment/alignment_Exon_18_translated_genomic_sequence_507_frame0.fa.txt
+2 47
+Leptidea_sinapis_XM_050825300.1_Frame_2_rightoh_1_query_Exon_18
+PMEMIMTRMPRKRQKRSFVDRLLELGLIEDRKQCKKKRKNKSGTA
+2 47
+set507_frame0
+PMEMIMTRMLRKRQKRSFVDRLLELGLIEDRKQCKKKRKNKSGTA
+Original query = PMEMIMTRMPRKRQKRSFVDRLLELGLIEDRKQCKKKRKNKSGTA
+New query = PMEMIMTRMLRKRQKRSFVDRLLELGLIEDRKQCKKKRKNKSGTA
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24817214,24817375,0,Y,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_19,34,51,53
+
+17
+21
+Leptidea_reali,CATIXK010000003.1,24800536,24800742,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Leptidea_reali,CATIXK010000003.1,24824601,24825114,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,144,148
+
+Getting Gene
+min = set382_frame0, 0.0
+5 top scores:
+[['set382_frame0', 0.0], ['set487_frame2', 1.727], ['set476_frame2', 1.768], ['set90_frame0', 1.799], ['set156_frame2', 1.81]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_19/for_alignment/alignment_Exon_19_translated_genomic_sequence_382_frame0.fa.txt
+10 72
+Leptidea_sinapis_XM_050825300.1_Frame_2_rightoh_1_query_Exon_19
+NNASSNSESESNDSDRSTRSLSPAPKPKKKKEAQKMRKKATERNVEMSANEIASLLVRAVNE
+10 72
+set382_frame0
+NNASSNSESESNDSDRSTRSLSPAPKPKKKKEAQKMRKKATERNVEMSANEIASLLVRAVNE
+Original query = NNASSNSESESNDSDRSTRSLSPAPKPKKKKEAQKMRKKATERNVEMSANEIASLLVRAVNE
+New query = NNASSNSESESNDSDRSTRSLSPAPKPKKKKEAQKMRKKATERNVEMSANEIASLLVRAVNE
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24822173,24822366,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_0_query_Exon_20,1,64,64
+
+18
+17
+21
+Leptidea_reali,CATIXK010000003.1,24800536,24800742,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Leptidea_reali,CATIXK010000003.1,24824601,24825114,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,144,148
+
+Getting Gene
+min = set479_frame0, 0.0
+5 top scores:
+[['set479_frame0', 0.0], ['set403_frame2', 1.771], ['set22_frame2', 1.784], ['set487_frame2', 1.821], ['set156_frame2', 1.839]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_20/for_alignment/alignment_Exon_20_translated_genomic_sequence_479_frame0.fa.txt
+8 73
+Leptidea_sinapis_XM_050825300.1_Frame_2_rightoh_0_query_Exon_20
+QTEALKWLADSLEEVALDQEADGYDPTSEGIPLVPISSDCVDAMDNKLFQLILKAIGVVPPSDEQ
+8 73
+set479_frame0
+QTEALKWLADSLEEVALDQEADGYDPTSEGIPLVPISSDCVDAMDNKLFQLILKAIGVVPPSDEQ
+Original query = QTEALKWLADSLEEVALDQEADGYDPTSEGIPLVPISSDCVDAMDNKLFQLILKAIGVVPPSDEQ
+New query = QTEALKWLADSLEEVALDQEADGYDPTSEGIPLVPISSDCVDAMDNKLFQLILKAIGVVPPSDEQ
+Scaffold = CATIXK010000003.1, start = 24764328, end = 24764581
+Leptidea_reali,CATIXK010000003.1,24824601,24825114,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,144,148
+
+19
+18
+17
+21
+Leptidea_reali,CATIXK010000003.1,24800536,24800742,0,N,Pieris_napi_XM_047670174.1_Frame_2_rightoh_1_query_Exon_17,1,68,68
+
+Leptidea_reali,CATIXK010000003.1,24824601,24825114,0,N,Pieris_napi_XM_047670174.1_Frame_0_rightoh_1_query_Exon_21,1,144,148
+
+Getting Gene
+min = set487_frame2, 0.069
+5 top scores:
+[['set487_frame2', 0.069]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/15.Timeout_Exon_Analysis/4.Pierinae/1.Blast_result/Leptidea_reali/Period_gene_genomic_sequence_individual_exon_Leptidea_sinapis/Exon_21/for_alignment/alignment_Exon_21_translated_genomic_sequence_487_frame2.fa.txt
+22 192
+set487_frame2
+ETYWRIPSILHHETIRKRREIINKAINNELIVNLQDSNKNDSSDDDDLFDNLRKITNHGGTELNNSDKQKETNQINSKTANVGGNDITENDSDDEDSISKVNIRSTKRKRTISLDSESSSRDKLPRIHEDVDEEDKNDDDDDDILEFAKKTLQQDLPDTEDILSVLPKHD
+Original query = ETYWRIPSILHHETIRKRREIINKAINNELIVNLQDSNKNDSSDDDDLFDNLRKITNLGGTELNNSDKQKETNQINCKTATVVGNDIAENDSDDEDSISKVNIRSTKRKRTISLDSESSSRDKLPRIHEDVDEEDKNDDDDDDILEFAKKTLQQDLPDTEDILSVLPKHDS
+New query = ETYWRIPSILHHETIRKRREIINKAINNELIVNLQDSNKNDSSDDDDLFDNLRKITNHGGTELNNSDKQKETNQINSKTANVGGNDITENDSDDEDSISKVNIRSTKRKRTISLDSESSSRDKLPRIHEDVDEEDKNDDDDDDILEFAKKTLQQDLPDTEDILSVLPKHD

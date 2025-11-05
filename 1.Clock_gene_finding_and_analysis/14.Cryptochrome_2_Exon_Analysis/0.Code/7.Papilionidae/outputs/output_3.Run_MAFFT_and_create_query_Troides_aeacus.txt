@@ -1,0 +1,456 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = CM067272.1, start = 7214011, end = 7214267
+Troides_aeacus,CM067272.1,7213257,7213508,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Troides_aeacus,CM067272.1,7214011,7214267,1,N,Papilio_xuthus_XM_013311370.1_Frame_0_rightoh_2_query_Exon_1,1,83,83
+
+Troides_aeacus,CM067272.1,7211525,7211696,1,N,Papilio_xuthus_XM_013311370.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set24_frame1, 0.098
+5 top scores:
+[['set1_frame0', 1.898], ['set24_frame1', 0.098], ['set29_frame1', 1.881], ['set47_frame2', 1.883], ['set53_frame2', 1.875]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_aeacus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_24_frame1.fa.txt
+12 95
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDKNLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIQVTSRVSHTLYKLD
+12 95
+set24_frame1
+FLLQCLEDLDNSLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGKVRDHNIMTKCREVGISVNSRVSHTLYKLD
+Original query = FLLQCLEDLDKNLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGIQVTSRVSHTLYKLD
+New query = FLLQCLEDLDNSLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGKVRDHNIMTKCREVGISVNSRVSHTLYKLD
+Scaffold = CM067272.1, start = 7214011, end = 7214267
+Troides_aeacus,CM067272.1,7212156,7212340,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Troides_aeacus,CM067272.1,7214011,7214267,1,N,Papilio_xuthus_XM_013311370.1_Frame_0_rightoh_2_query_Exon_1,1,83,83
+
+Troides_aeacus,CM067272.1,7211169,7211394,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set47_frame2, 0.335
+5 top scores:
+[['set47_frame2', 0.335], ['set53_frame2', 1.829], ['set59_frame0', 1.757], ['set20_frame2', 1.855], ['set24_frame1', 1.846]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_aeacus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_47_frame2.fa.txt
+11 72
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_1_query_Exon_3
+IIEKNGGKAPLTYHQFQALIASMPPPPSAEPTISLETLNRAVTPISDNHDERFGVPTLEEL
+11 72
+set47_frame2
+IIERNGGKAPLTYHQFQALIASMPPPPPAEAAITSQTLNGATTPVTDDHNERFGVPTLEEL
+Original query = IIEKNGGKAPLTYHQFQALIASMPPPPSAEPTISLETLNRAVTPISDNHDERFGVPTLEEL
+New query = IIERNGGKAPLTYHQFQALIASMPPPPPAEAAITSQTLNGATTPVTDDHNERFGVPTLEEL
+Scaffold = CM067272.1, start = 7214011, end = 7214267
+Troides_aeacus,CM067272.1,7211525,7211696,1,N,Papilio_xuthus_XM_013311370.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Troides_aeacus,CM067272.1,7213257,7213508,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Troides_aeacus,CM067272.1,7210479,7210619,1,N,Papilio_xuthus_XM_013311370.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set34_frame2, 0.24
+5 top scores:
+[['set34_frame2', 0.24], ['set38_frame2', 1.769], ['set52_frame0', 1.834], ['set63_frame0', 1.821], ['set6_frame1', 1.842]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_aeacus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_34_frame2.fa.txt
+57 113
+Danaus_plexippus_XM_032655601.2_Frame_2_rightoh_2_query_Exon_4
+FDTEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPESLLSSQTGLSPYL
+57 113
+set34_frame2
+FETEGLKSPMWIGGESEALARLERHLERKAWVASFGRPKMTPQSLLASPTGLSPYL
+Original query = FDTEGLKPPIWIGGENEALLRLERHLERKAWVASFGRPKMTPESLLSSQTGLSPYL
+New query = FETEGLKSPMWIGGESEALARLERHLERKAWVASFGRPKMTPQSLLASPTGLSPYL
+Scaffold = CM067272.1, start = 7214011, end = 7214267
+Troides_aeacus,CM067272.1,7211169,7211394,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Troides_aeacus,CM067272.1,7212156,7212340,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Troides_aeacus,CM067272.1,7209303,7209454,1,N,Papilio_xuthus_XM_013311370.1_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set22_frame2, 0.1
+5 top scores:
+[['set22_frame2', 0.1], ['set63_frame0', 1.867], ['set1_frame1', 1.846], ['set33_frame2', 1.875], ['set52_frame1', 1.881]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_aeacus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_22_frame2.fa.txt
+8 83
+Danaus_plexippus_XM_032655601.2_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAN
+8 83
+set22_frame2
+FGCLSTRLFYYQLSELYKRVKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALAKWAN
+Original query = FGCLSTRLFYYQLSELYKRIKQERPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQEALKKWAN
+New query = FGCLSTRLFYYQLSELYKRVKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALAKWAN
+Scaffold = CM067272.1, start = 7214011, end = 7214267
+Troides_aeacus,CM067272.1,7210479,7210619,1,N,Papilio_xuthus_XM_013311370.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Troides_aeacus,CM067272.1,7211525,7211696,1,N,Papilio_xuthus_XM_013311370.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Troides_aeacus,CM067272.1,7208995,7209197,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_1_query_Exon_8,1,66,67
+
+Getting Gene
+min = set19_frame0, 0.09
+5 top scores:
+[['set47_frame1', 1.803], ['set16_frame0', 1.758], ['set19_frame0', 0.09], ['set1_frame2', 1.822], ['set42_frame0', 1.812]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_aeacus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_19_frame0.fa.txt
+13 60
+Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_0_query_Exon_6
+GQTGFPWIDAIMIQLRNDGWIHHLARHAVACFLTRGDLWISWEEGMK
+13 60
+set19_frame0
+GQTGFPWIDSIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GQTGFPWIDAIMIQLRNDGWIHHLARHAVACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDSIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = CM067272.1, start = 7214011, end = 7214267
+Troides_aeacus,CM067272.1,7209303,7209454,1,N,Papilio_xuthus_XM_013311370.1_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Troides_aeacus,CM067272.1,7211169,7211394,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Troides_aeacus,CM067272.1,7208995,7209197,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_1_query_Exon_8,1,66,67
+
+Getting Gene
+min = set43_frame2, 0.0
+5 top scores:
+[['set43_frame2', 0.0], ['set38_frame2', 1.844], ['set42_frame0', 1.805], ['set1_frame1', 1.804], ['set30_frame1', 1.847]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_aeacus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_43_frame2.fa.txt
+7 57
+Danaus_plexippus_XM_032655601.2_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+7 57
+set43_frame2
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = CM067272.1, start = 7214011, end = 7214267
+Troides_aeacus,CM067272.1,7208995,7209197,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_1_query_Exon_8,1,66,67
+
+6
+8
+Troides_aeacus,CM067272.1,7210479,7210619,1,N,Papilio_xuthus_XM_013311370.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Troides_aeacus,CM067272.1,7208995,7209197,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_1_query_Exon_8,1,66,67
+
+Getting Gene
+min = set26_frame1, 0.258
+5 top scores:
+[['set26_frame1', 0.258], ['set19_frame0', 1.87], ['set29_frame0', 1.862], ['set23_frame1', 1.87], ['set20_frame1', 1.862]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_aeacus/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_26_frame1.fa.txt
+6 72
+set26_frame1
+KYIPALKNMPTRYIHEPWVAPESVQQSARCVIGRDYPMPMIDHTKASQINIERIKQVYAQLAKYKP
+Original query = KYIPVLKNMPTRYIHEPWVCPEEIQKSIRCIIGKDYPMPIVDHTKASEINLERIKQVYAQLAKFKPQ
+New query = KYIPALKNMPTRYIHEPWVAPESVQQSARCVIGRDYPMPMIDHTKASQINIERIKQVYAQLAKYKP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = CM067272.1, start = 7214011, end = 7214267
+Troides_aeacus,CM067272.1,7213257,7213508,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Troides_aeacus,CM067272.1,7214011,7214267,1,N,Papilio_xuthus_XM_013311370.1_Frame_0_rightoh_2_query_Exon_1,1,83,83
+
+Troides_aeacus,CM067272.1,7211525,7211696,1,N,Papilio_xuthus_XM_013311370.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set24_frame1, 0.082
+5 top scores:
+[['set1_frame0', 1.875], ['set24_frame1', 0.082], ['set29_frame1', 1.878], ['set47_frame2', 1.889], ['set53_frame2', 1.883]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_aeacus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_24_frame1.fa.txt
+12 95
+Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDSSLRKLNSRLFVVRGQPADALPKLFREWGTTELTFEEDPEPYGRVRDHNIMTKCREVGISVVSRVSHTLYKLD
+12 95
+set24_frame1
+FLLQCLEDLDNSLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGKVRDHNIMTKCREVGISVNSRVSHTLYKLD
+Original query = FLLQCLEDLDSSLRKLNSRLFVVRGQPADALPKLFREWGTTELTFEEDPEPYGRVRDHNIMTKCREVGISVVSRVSHTLYKLD
+New query = FLLQCLEDLDNSLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGKVRDHNIMTKCREVGISVNSRVSHTLYKLD
+Scaffold = CM067272.1, start = 7214011, end = 7214267
+Troides_aeacus,CM067272.1,7212156,7212340,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Troides_aeacus,CM067272.1,7214011,7214267,1,N,Papilio_xuthus_XM_013311370.1_Frame_0_rightoh_2_query_Exon_1,1,83,83
+
+Troides_aeacus,CM067272.1,7211169,7211394,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set47_frame2, 0.192
+5 top scores:
+[['set47_frame2', 0.192], ['set47_frame0', 1.808], ['set59_frame0', 1.808], ['set53_frame2', 1.82], ['set24_frame1', 1.856]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_aeacus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_47_frame2.fa.txt
+11 72
+Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_1_query_Exon_3
+IIERNGGKAPLTYHQFQALIASMPPPPAAEATISAQTLSGATTPITEDHDDRFGVPTLEEL
+11 72
+set47_frame2
+IIERNGGKAPLTYHQFQALIASMPPPPPAEAAITSQTLNGATTPVTDDHNERFGVPTLEEL
+Original query = IIERNGGKAPLTYHQFQALIASMPPPPAAEATISAQTLSGATTPITEDHDDRFGVPTLEEL
+New query = IIERNGGKAPLTYHQFQALIASMPPPPPAEAAITSQTLNGATTPVTDDHNERFGVPTLEEL
+Scaffold = CM067272.1, start = 7214011, end = 7214267
+Troides_aeacus,CM067272.1,7211525,7211696,1,N,Papilio_xuthus_XM_013311370.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Troides_aeacus,CM067272.1,7213257,7213508,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Troides_aeacus,CM067272.1,7210479,7210619,1,N,Papilio_xuthus_XM_013311370.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set34_frame2, 0.111
+5 top scores:
+[['set34_frame2', 0.111], ['set38_frame2', 1.775], ['set52_frame0', 1.829], ['set63_frame0', 1.827], ['set1_frame1', 1.838]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_aeacus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_34_frame2.fa.txt
+57 113
+Papilio_xuthus_XM_013311370.1_Frame_2_rightoh_2_query_Exon_4
+FETENLKPPVWIGGESEALARLERHLERKAWVASFGRPKMTPQSLLASPTGLSPYL
+57 113
+set34_frame2
+FETEGLKSPMWIGGESEALARLERHLERKAWVASFGRPKMTPQSLLASPTGLSPYL
+Original query = FETENLKPPVWIGGESEALARLERHLERKAWVASFGRPKMTPQSLLASPTGLSPYL
+New query = FETEGLKSPMWIGGESEALARLERHLERKAWVASFGRPKMTPQSLLASPTGLSPYL
+Scaffold = CM067272.1, start = 7214011, end = 7214267
+Troides_aeacus,CM067272.1,7211169,7211394,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Troides_aeacus,CM067272.1,7212156,7212340,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Troides_aeacus,CM067272.1,7209303,7209454,1,N,Papilio_xuthus_XM_013311370.1_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set22_frame2, 0.03
+5 top scores:
+[['set22_frame2', 0.03], ['set33_frame2', 1.874], ['set1_frame1', 1.846], ['set7_frame1', 1.878], ['set52_frame1', 1.887]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_aeacus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_22_frame2.fa.txt
+8 83
+Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLTELYKRVKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALAKWAS
+8 83
+set22_frame2
+FGCLSTRLFYYQLSELYKRVKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALAKWAN
+Original query = FGCLSTRLFYYQLTELYKRVKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALAKWAS
+New query = FGCLSTRLFYYQLSELYKRVKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALAKWAN
+Scaffold = CM067272.1, start = 7214011, end = 7214267
+Troides_aeacus,CM067272.1,7210479,7210619,1,N,Papilio_xuthus_XM_013311370.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Troides_aeacus,CM067272.1,7211525,7211696,1,N,Papilio_xuthus_XM_013311370.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Troides_aeacus,CM067272.1,7208995,7209197,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_1_query_Exon_8,1,66,67
+
+Getting Gene
+min = set19_frame0, 0.0
+5 top scores:
+[['set8_frame0', 1.801], ['set16_frame0', 1.758], ['set19_frame0', 0.0], ['set47_frame1', 1.801], ['set1_frame2', 1.807]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_aeacus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_19_frame0.fa.txt
+13 60
+Papilio_xuthus_XM_013311370.1_Frame_0_rightoh_0_query_Exon_6
+GQTGFPWIDSIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+13 60
+set19_frame0
+GQTGFPWIDSIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GQTGFPWIDSIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDSIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = CM067272.1, start = 7214011, end = 7214267
+Troides_aeacus,CM067272.1,7209303,7209454,1,N,Papilio_xuthus_XM_013311370.1_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Troides_aeacus,CM067272.1,7211169,7211394,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Troides_aeacus,CM067272.1,7208995,7209197,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_1_query_Exon_8,1,66,67
+
+Getting Gene
+min = set43_frame2, 0.0
+5 top scores:
+[['set43_frame2', 0.0], ['set38_frame2', 1.844], ['set42_frame0', 1.805], ['set1_frame1', 1.804], ['set30_frame1', 1.847]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_aeacus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_43_frame2.fa.txt
+7 57
+Papilio_xuthus_XM_013311370.1_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+7 57
+set43_frame2
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = CM067272.1, start = 7214011, end = 7214267
+Troides_aeacus,CM067272.1,7208995,7209197,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_1_query_Exon_8,1,66,67
+
+6
+8
+Troides_aeacus,CM067272.1,7210479,7210619,1,N,Papilio_xuthus_XM_013311370.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Troides_aeacus,CM067272.1,7208995,7209197,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_1_query_Exon_8,1,66,67
+
+Getting Gene
+min = set26_frame1, 0.18
+5 top scores:
+[['set26_frame1', 0.18], ['set19_frame0', 1.868], ['set24_frame2', 1.868], ['set23_frame1', 1.896], ['set20_frame1', 1.871]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_aeacus/Period_gene_genomic_sequence_individual_exon_Papilio_xuthus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_26_frame1.fa.txt
+6 72
+set26_frame1
+KYIPALKNMPTRYIHEPWVAPESVQQSARCVIGRDYPMPMIDHTKASQINIERIKQVYAQLAKYKP
+Original query = KYIPALKNMPTRYIHEPWTAPEAVQRSARCVVGRDYPLPMVDHAKASQLNIERIKQVYALLAKYKPQ
+New query = KYIPALKNMPTRYIHEPWVAPESVQQSARCVIGRDYPMPMIDHTKASQINIERIKQVYAQLAKYKP
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = CM067272.1, start = 7214011, end = 7214267
+Troides_aeacus,CM067272.1,7213257,7213508,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+1
+4
+Troides_aeacus,CM067272.1,7214011,7214267,1,N,Papilio_xuthus_XM_013311370.1_Frame_0_rightoh_2_query_Exon_1,1,83,83
+
+Troides_aeacus,CM067272.1,7211525,7211696,1,N,Papilio_xuthus_XM_013311370.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Getting Gene
+min = set24_frame1, 0.061
+5 top scores:
+[['set1_frame0', 1.893], ['set24_frame1', 0.061], ['set29_frame1', 1.885], ['set47_frame2', 1.883], ['set53_frame2', 1.874]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_aeacus/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_24_frame1.fa.txt
+12 95
+Zerene_cesonia_XM_038353076.1_Frame_1_rightoh_2_query_Exon_2
+FLLQCLEDLDNSLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVISRVSHTLYKLD
+12 95
+set24_frame1
+FLLQCLEDLDNSLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGKVRDHNIMTKCREVGISVNSRVSHTLYKLD
+Original query = FLLQCLEDLDNSLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGRVRDHNIMTKCREVGITVISRVSHTLYKLD
+New query = FLLQCLEDLDNSLRKLNSRLFVVRGQPADALPKLFREWGTTALTFEEDPEPYGKVRDHNIMTKCREVGISVNSRVSHTLYKLD
+Scaffold = CM067272.1, start = 7214011, end = 7214267
+Troides_aeacus,CM067272.1,7212156,7212340,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+Troides_aeacus,CM067272.1,7214011,7214267,1,N,Papilio_xuthus_XM_013311370.1_Frame_0_rightoh_2_query_Exon_1,1,83,83
+
+Troides_aeacus,CM067272.1,7211169,7211394,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Getting Gene
+min = set47_frame2, 0.221
+5 top scores:
+[['set47_frame2', 0.221], ['set53_frame2', 1.8], ['set59_frame0', 1.854], ['set20_frame2', 1.86], ['set24_frame1', 1.834]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_aeacus/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_47_frame2.fa.txt
+11 72
+Zerene_cesonia_XM_038353076.1_Frame_1_rightoh_1_query_Exon_3
+IIERNGGKAPLTYHQFQALIASMPAPPPAEAAISIQSLNGATTPLTVDHDDRFGVPTLEEL
+11 72
+set47_frame2
+IIERNGGKAPLTYHQFQALIASMPPPPPAEAAITSQTLNGATTPVTDDHNERFGVPTLEEL
+Original query = IIERNGGKAPLTYHQFQALIASMPAPPPAEAAISIQSLNGATTPLTVDHDDRFGVPTLEEL
+New query = IIERNGGKAPLTYHQFQALIASMPPPPPAEAAITSQTLNGATTPVTDDHNERFGVPTLEEL
+Scaffold = CM067272.1, start = 7214011, end = 7214267
+Troides_aeacus,CM067272.1,7211525,7211696,1,N,Papilio_xuthus_XM_013311370.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+2
+6
+Troides_aeacus,CM067272.1,7213257,7213508,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_2_query_Exon_2,1,83,83
+
+Troides_aeacus,CM067272.1,7210479,7210619,1,N,Papilio_xuthus_XM_013311370.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Getting Gene
+min = set34_frame2, 0.177
+5 top scores:
+[['set34_frame2', 0.177], ['set40_frame0', 1.791], ['set38_frame2', 1.802], ['set63_frame0', 1.82], ['set1_frame1', 1.857]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_aeacus/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_34_frame2.fa.txt
+57 113
+Zerene_cesonia_XM_038353076.1_Frame_2_rightoh_2_query_Exon_4
+FEIEGLKPPVWIGGENEALARLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+57 113
+set34_frame2
+FETEGLKSPMWIGGESEALARLERHLERKAWVASFGRPKMTPQSLLASPTGLSPYL
+Original query = FEIEGLKPPVWIGGENEALARLERHLERKAWVASFGRPKMTPQSLLASQTGLSPYL
+New query = FETEGLKSPMWIGGESEALARLERHLERKAWVASFGRPKMTPQSLLASPTGLSPYL
+Scaffold = CM067272.1, start = 7214011, end = 7214267
+Troides_aeacus,CM067272.1,7211169,7211394,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+3
+7
+Troides_aeacus,CM067272.1,7212156,7212340,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_1_query_Exon_3,1,61,61
+
+Troides_aeacus,CM067272.1,7209303,7209454,1,N,Papilio_xuthus_XM_013311370.1_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+Getting Gene
+min = set22_frame2, 0.051
+5 top scores:
+[['set22_frame2', 0.051], ['set33_frame2', 1.881], ['set1_frame1', 1.823], ['set7_frame1', 1.878], ['set52_frame1', 1.887]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_aeacus/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_22_frame2.fa.txt
+8 83
+Zerene_cesonia_XM_038353076.1_Frame_1_rightoh_0_query_Exon_5
+FGCLSTRLFYYQLTELYKRIKRVRPPLSLHGQILWREFFYCAATRNPNFDRMVGNPICVQIPWEKNQDALAKWAN
+8 83
+set22_frame2
+FGCLSTRLFYYQLSELYKRVKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALAKWAN
+Original query = FGCLSTRLFYYQLTELYKRIKRVRPPLSLHGQILWREFFYCAATRNPNFDRMVGNPICVQIPWEKNQDALAKWAN
+New query = FGCLSTRLFYYQLSELYKRVKRVRPPLSLHGQILWREFFYCAATRNPNFDRMEGNPICVQIPWEKNQDALAKWAN
+Scaffold = CM067272.1, start = 7214011, end = 7214267
+Troides_aeacus,CM067272.1,7210479,7210619,1,N,Papilio_xuthus_XM_013311370.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+4
+8
+Troides_aeacus,CM067272.1,7211525,7211696,1,N,Papilio_xuthus_XM_013311370.1_Frame_2_rightoh_2_query_Exon_4,1,56,56
+
+Troides_aeacus,CM067272.1,7208995,7209197,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_1_query_Exon_8,1,66,67
+
+Getting Gene
+min = set19_frame0, 0.019
+5 top scores:
+[['set8_frame0', 1.801], ['set16_frame0', 1.758], ['set19_frame0', 0.019], ['set47_frame1', 1.801], ['set1_frame2', 1.807]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_aeacus/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_19_frame0.fa.txt
+13 60
+Zerene_cesonia_XM_038353076.1_Frame_0_rightoh_0_query_Exon_6
+GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+13 60
+set19_frame0
+GQTGFPWIDSIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Original query = GQTGFPWIDAIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+New query = GQTGFPWIDSIMIQLREEGWIHHLARHAVACFLTRGDLWISWEEGMK
+Scaffold = CM067272.1, start = 7214011, end = 7214267
+Troides_aeacus,CM067272.1,7209303,7209454,1,N,Papilio_xuthus_XM_013311370.1_Frame_0_rightoh_2_query_Exon_7,1,50,50
+
+5
+8
+Troides_aeacus,CM067272.1,7211169,7211394,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_0_query_Exon_5,1,75,75
+
+Troides_aeacus,CM067272.1,7208995,7209197,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_1_query_Exon_8,1,66,67
+
+Getting Gene
+min = set43_frame2, 0.0
+5 top scores:
+[['set43_frame2', 0.0], ['set38_frame2', 1.844], ['set42_frame0', 1.805], ['set1_frame1', 1.804], ['set30_frame1', 1.847]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_aeacus/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_43_frame2.fa.txt
+7 57
+Zerene_cesonia_XM_038353076.1_Frame_0_rightoh_2_query_Exon_7
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+7 57
+set43_frame2
+VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Original query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+New query = VFDELLLDADWSVNAGMWMWLSCSSFFQQFFHCYCPVRFGRKTDPNGDFI
+Scaffold = CM067272.1, start = 7214011, end = 7214267
+Troides_aeacus,CM067272.1,7208995,7209197,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_1_query_Exon_8,1,66,67
+
+6
+8
+Troides_aeacus,CM067272.1,7210479,7210619,1,N,Papilio_xuthus_XM_013311370.1_Frame_0_rightoh_0_query_Exon_6,1,47,47
+
+Troides_aeacus,CM067272.1,7208995,7209197,1,N,Papilio_xuthus_XM_013311370.1_Frame_1_rightoh_1_query_Exon_8,1,66,67
+
+Getting Gene
+min = set26_frame1, 0.149
+5 top scores:
+[['set26_frame1', 0.149], ['set19_frame0', 1.865], ['set29_frame0', 1.882], ['set18_frame1', 1.871], ['set24_frame2', 1.883]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/14.Cryptochrome_2_Exon_Analysis/7.Papilionidae/1.Blast_result/Troides_aeacus/Period_gene_genomic_sequence_individual_exon_Zerene_cesonia/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_26_frame1.fa.txt
+6 72
+set26_frame1
+KYIPALKNMPTRYIHEPWVAPESVQQSARCVIGRDYPMPMIDHTKASQINIERIKQVYAQLAKYKP
+Original query = KYIPALKNMPTRYIHEPWVAPDSVQQAACCIIGRDYPLPMVDHTKASQINIERIKQVYAQLAKYKPQ
+New query = KYIPALKNMPTRYIHEPWVAPESVQQSARCVIGRDYPMPMIDHTKASQINIERIKQVYAQLAKYKP

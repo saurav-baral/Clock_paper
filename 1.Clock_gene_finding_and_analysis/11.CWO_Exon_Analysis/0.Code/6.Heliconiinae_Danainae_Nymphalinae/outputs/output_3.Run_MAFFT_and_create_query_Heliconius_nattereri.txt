@@ -1,0 +1,474 @@
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = JAAIXI010000226.1, start = 6701243, end = 6701295
+Heliconius_nattereri,JAAIXI010000226.1,6686110,6686242,1,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+1
+4
+Heliconius_nattereri,JAAIXI010000226.1,6701243,6701295,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Heliconius_nattereri,JAAIXI010000226.1,6684500,6684655,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Getting Gene
+min = set391_frame0, 0.842
+5 top scores:
+[['set391_frame0', 0.842], ['set396_frame0', 1.693], ['set355_frame1', 1.7], ['set73_frame2', 1.75], ['set76_frame0', 1.713]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_nattereri/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_391_frame0.fa.txt
+10 53
+Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2
+SNEEFAR-EPLSFAPPSEDEAEY-PPGYKKGKVSRASHTEYAR
+10 53
+set391_frame0
+SNDGFGRVGELNFAAPSEDEGEYASSAYKKGKVSRASHTEYAR
+Original query = YSNEEFAREPLSFAPPSEDEAEYPPGYKKGKVSRASHTEYAR
+New query = SNDGFGRVGELNFAAPSEDEGEYASSAYKKGKVSRASHTEYAR
+Scaffold = JAAIXI010000226.1, start = 6701243, end = 6701295
+Heliconius_nattereri,JAAIXI010000226.1,6685709,6685892,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+6
+7
+Heliconius_nattereri,JAAIXI010000226.1,6701243,6701295,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Heliconius_nattereri,JAAIXI010000226.1,6682878,6683024,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,11,45,45
+
+Getting Gene
+min = set355_frame1, 0.063
+5 top scores:
+[['set355_frame1', 0.063], ['set289_frame2', 1.74], ['set145_frame2', 1.814], ['set185_frame0', 1.813], ['set304_frame2', 1.823]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_nattereri/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_355_frame1.fa.txt
+17 78
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+17 78
+set355_frame1
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKYLQDRVH
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = JAAIXI010000226.1, start = 6701243, end = 6701295
+Heliconius_nattereri,JAAIXI010000226.1,6684500,6684655,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+2
+6
+7
+Heliconius_nattereri,JAAIXI010000226.1,6686110,6686242,1,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+Heliconius_nattereri,JAAIXI010000226.1,6682878,6683024,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,11,45,45
+
+Getting Gene
+min = set26_frame2, 1.129
+5 top scores:
+[['set26_frame2', 1.129], ['set68_frame0', 1.747], ['set23_frame2', 1.764], ['set26_frame0', 1.793], ['set75_frame1', 1.809]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_nattereri/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_26_frame2.fa.txt
+11 61
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4
+ERGSEFLAGYQRAGAEAVRF-VELQ--GSRDGLADQLAAHLHSHADMMAK
+11 61
+set26_frame2
+RQGADFRSGYQEAVTEALRFLVEVQGFGPGDGLCVQMASHLQRHGEVVTK
+Original query = LERGSEFLAGYQRAGAEAVRFVELQGSRDGLADQLAAHLHSHADMMAK
+New query = RQGADFRSGYQEAVTEALRFLVEVQGFGPGDGLCVQMASHLQRHGEVVTK
+Scaffold = JAAIXI010000226.1, start = 6701243, end = 6701295
+Heliconius_nattereri,JAAIXI010000242.1,1378380,1378550,0,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,8,37,56
+
+3
+7
+Heliconius_nattereri,JAAIXI010000226.1,6685709,6685892,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Heliconius_nattereri,JAAIXI010000226.1,6682878,6683024,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,11,45,45
+
+Getting Gene
+min = set46_frame2, 0.844
+5 top scores:
+[['set46_frame2', 0.844], ['set3_frame2', 1.728], ['set55_frame0', 1.726], ['set58_frame1', 1.796], ['set14_frame1', 1.748]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_nattereri/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_46_frame2.fa.txt
+22 72
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5
+VHEKRVYPNSSSETTSSSSSSQGFAVKVIQRPEPPPAFPEPYEPDRQEHF
+22 72
+set46_frame2
+REKQRSHLGSSSETASSSSSSHGFAVKVIQRPEPPPVFPEPYDERPLESY
+Original query = AVHEKRVYPNSSSETTSSSSSSQGFAVKVIQRPEPPPAFPEPYEPDRQEHFADCER
+New query = REKQRSHLGSSSETASSSSSSHGFAVKVIQRPEPPPVFPEPYDERPLESY
+Scaffold = JAAIXI010000226.1, start = 6701243, end = 6701295
+Heliconius_nattereri,JAAIXI010000226.1,6683189,6683373,1,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6,12,60,60
+
+4
+8
+Heliconius_nattereri,JAAIXI010000226.1,6684500,6684655,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Heliconius_nattereri,JAAIXI010000226.1,6682355,6682445,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set33_frame0, 0.647
+5 top scores:
+[['set47_frame2', 1.814], ['set33_frame0', 0.647], ['set37_frame0', 1.797], ['set16_frame1', 1.793], ['set1_frame2', 1.839]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_nattereri/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_33_frame0.fa.txt
+8 69
+Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6
+SVHQPAVMEPLEGEPLPLDGRVKKEVTLRKIRKPEH-EDYLHSYKFKNSIERRFSRSQDSE
+8 69
+set33_frame0
+SLAVPAA----EGEEVPVDGRLKREVALRKVRKPEHSDDYLHSYKFKNSIERRFSRSQDTE
+Original query = SVHQPAVMEPLEGEPLPLDGRVKKEVTLRKIRKPEHEDYLHSYKFKNSIERRFSRSQDSE
+New query = SLAVPAA----EGEEVPVDGRLKREVALRKVRKPEHSDDYLHSYKFKNSIERRFSRSQDTE
+Scaffold = JAAIXI010000226.1, start = 6701243, end = 6701295
+Heliconius_nattereri,JAAIXI010000226.1,6682878,6683024,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,11,45,45
+
+5
+4
+8
+Heliconius_nattereri,JAAIXI010000226.1,6684500,6684655,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Heliconius_nattereri,JAAIXI010000226.1,6682355,6682445,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set35_frame2, 0.877
+5 top scores:
+[['set35_frame2', 0.877], ['set47_frame2', 1.725], ['set18_frame2', 1.808], ['set37_frame0', 1.702], ['set1_frame1', 1.816]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_nattereri/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_35_frame2.fa.txt
+24 69
+Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7
+SAGPTAKAYNHKRRRPTKPA----PPSTSTSASGSTEEARDTSPQ
+24 69
+set35_frame2
+SNAVPHKAYSHKRRRAAKPAASATSASTSTSASGSTEDARDTSPQ
+Original query = GDAWSAGPTAKAYNHKRRRPTKPAPPSTSTSASGSTEEARDTSPQ
+New query = SNAVPHKAYSHKRRRAAKPAASATSASTSTSASGSTEDARDTSPQ
+Scaffold = JAAIXI010000226.1, start = 6701243, end = 6701295
+Heliconius_nattereri,JAAIXI010000226.1,6682355,6682445,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+6
+5
+4
+8
+Heliconius_nattereri,JAAIXI010000226.1,6684500,6684655,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Heliconius_nattereri,JAAIXI010000226.1,6682355,6682445,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set47_frame2, 0.234
+5 top scores:
+[['set47_frame2', 0.234], ['set56_frame1', 1.592], ['set23_frame2', 1.685], ['set23_frame0', 1.673], ['set35_frame2', 1.76]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_nattereri/Period_gene_genomic_sequence_individual_exon_Danaus_plexippus/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_47_frame2.fa.txt
+23 52
+set47_frame2
+DTSSESPHHHQYDKPPPPAQYVPVFALNA
+Original query = DTCSDSPHHHSFDKPPPPAQYVPVFALNAL
+New query = DTSSESPHHHQYDKPPPPAQYVPVFALNA
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = JAAIXI010000226.1, start = 6701243, end = 6701295
+Heliconius_nattereri,JAAIXI010000226.1,6686110,6686242,1,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+1
+4
+Heliconius_nattereri,JAAIXI010000226.1,6701243,6701295,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Heliconius_nattereri,JAAIXI010000226.1,6684500,6684655,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Getting Gene
+min = set391_frame0, 0.491
+5 top scores:
+[['set391_frame0', 0.491], ['set355_frame1', 1.683], ['set235_frame2', 1.686], ['set35_frame2', 1.756], ['set145_frame2', 1.762]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_nattereri/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_391_frame0.fa.txt
+8 46
+Nymphalis_io_XM_050486679.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRAGELNFAAPSEDEAEYPPAVFLKKGKVSR
+8 46
+set391_frame0
+YNSNDGFGRVGELNFAAPSEDEGEYASSAY-KKGKVSR
+Original query = YNSNDGFGRAGELNFAAPSEDEAEYPPAVFLKKGKVSR
+New query = YNSNDGFGRVGELNFAAPSEDEGEYASSAY-KKGKVSR
+Scaffold = JAAIXI010000226.1, start = 6701243, end = 6701295
+Heliconius_nattereri,JAAIXI010000226.1,6685709,6685892,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+6
+7
+Heliconius_nattereri,JAAIXI010000226.1,6701243,6701295,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Heliconius_nattereri,JAAIXI010000226.1,6682878,6683024,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,11,45,45
+
+Getting Gene
+min = set355_frame1, 0.0
+5 top scores:
+[['set355_frame1', 0.0], ['set96_frame2', 1.769], ['set145_frame2', 1.812], ['set185_frame0', 1.813], ['set289_frame2', 1.819]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_nattereri/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_355_frame1.fa.txt
+17 78
+Nymphalis_io_XM_050486679.1_Frame_0_rightoh_1_query_Exon_3
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+17 78
+set355_frame1
+QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+New query = QDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = JAAIXI010000226.1, start = 6701243, end = 6701295
+Heliconius_nattereri,JAAIXI010000226.1,6684500,6684655,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+2
+6
+7
+Heliconius_nattereri,JAAIXI010000226.1,6686110,6686242,1,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+Heliconius_nattereri,JAAIXI010000226.1,6682878,6683024,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,11,45,45
+
+Getting Gene
+min = set26_frame2, 0.426
+5 top scores:
+[['set26_frame2', 0.426], ['set6_frame2', 1.823], ['set8_frame1', 1.853], ['set37_frame0', 1.848], ['set52_frame0', 1.682]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_nattereri/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_26_frame2.fa.txt
+9 62
+Nymphalis_io_XM_050486679.1_Frame_2_rightoh_1_query_Exon_4
+AERQAGDDYRAGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEFVTK
+9 62
+set26_frame2
+AERQ-GADFRSGYQEAVTEALRFLVEVQGFGPGDGLCVQMASHLQRHGEVVTK
+Original query = AERQAGDDYRAGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEFVTK
+New query = AERQ-GADFRSGYQEAVTEALRFLVEVQGFGPGDGLCVQMASHLQRHGEVVTK
+Scaffold = JAAIXI010000226.1, start = 6701243, end = 6701295
+Heliconius_nattereri,JAAIXI010000242.1,1378380,1378550,0,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,8,37,56
+
+3
+7
+Heliconius_nattereri,JAAIXI010000226.1,6685709,6685892,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Heliconius_nattereri,JAAIXI010000226.1,6682878,6683024,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,11,45,45
+
+Getting Gene
+min = set46_frame2, 0.797
+5 top scores:
+[['set46_frame2', 0.797], ['set31_frame2', 1.826], ['set55_frame0', 1.718], ['set8_frame1', 1.831], ['set14_frame1', 1.807]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_nattereri/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_46_frame2.fa.txt
+21 79
+Nymphalis_io_XM_050486679.1_Frame_2_rightoh_1_query_Exon_5
+TRDKPRSHPGSSSETASSSSSSHGFGVKVIQRPELPPFPAETYDHERQEPPYAMECDR
+21 79
+set46_frame2
+IREKQRSHLGSSSETASSSSSSHGFAVKVIQRPEPPPVFPEPYD-ERPLESYPMECDR
+Original query = EHTRDKPRSHPGSSSETASSSSSSHGFGVKVIQRPELPPFPAETYDHERQEPPYAMECDR
+New query = IREKQRSHLGSSSETASSSSSSHGFAVKVIQRPEPPPVFPEPYD-ERPLESYPMECDR
+Scaffold = JAAIXI010000226.1, start = 6701243, end = 6701295
+Heliconius_nattereri,JAAIXI010000226.1,6683189,6683373,1,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6,12,60,60
+
+4
+8
+Heliconius_nattereri,JAAIXI010000226.1,6684500,6684655,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Heliconius_nattereri,JAAIXI010000226.1,6682355,6682445,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set33_frame0, 0.478
+5 top scores:
+[['set47_frame2', 1.799], ['set33_frame0', 0.478], ['set37_frame0', 1.818], ['set16_frame1', 1.828], ['set1_frame2', 1.878]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_nattereri/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_33_frame0.fa.txt
+10 67
+Nymphalis_io_XM_050486679.1_Frame_2_rightoh_0_query_Exon_6
+VLPAAETDAPDAPLDGRLKKEPALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDTE
+10 67
+set33_frame0
+AVPAAEGE--EVPVDGRLKREVALRKVRKPEHSDDYLHSYKFKNSIERRFSRSQDTE
+Original query = SVLPAAETDAPDAPLDGRLKKEPALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDTE
+New query = AVPAAEGE--EVPVDGRLKREVALRKVRKPEHSDDYLHSYKFKNSIERRFSRSQDTE
+Scaffold = JAAIXI010000226.1, start = 6701243, end = 6701295
+Heliconius_nattereri,JAAIXI010000226.1,6682878,6683024,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,11,45,45
+
+5
+4
+8
+Heliconius_nattereri,JAAIXI010000226.1,6684500,6684655,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Heliconius_nattereri,JAAIXI010000226.1,6682355,6682445,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set35_frame2, 0.891
+5 top scores:
+[['set35_frame2', 0.891], ['set40_frame1', 1.718], ['set33_frame0', 1.767], ['set47_frame2', 1.771], ['set1_frame2', 1.828]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_nattereri/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_35_frame2.fa.txt
+0 69
+Nymphalis_io_XM_050486679.1_Frame_0_rightoh_0_query_Exon_7
+TAEGAG------------------RGAAHGKLYSHKRRRQAKPAA-PESTSASTSASASTEDAQDTSPQ
+0 69
+set35_frame2
+VSLKYGYFLSYLFWILDQVVDISRSNAVPHKAYSHKRRRAAKPAASATSASTSTSASGSTEDARDTSPQ
+Original query = TAEGAGRGAAHGKLYSHKRRRQAKPAAPESTSASTSASASTEDAQDTSPQ
+New query = VSLKYGYFLSYLFWILDQVVDISRSNAVPHKAYSHKRRRAAKPAASATSASTSTSASGSTEDARDTSPQ
+Scaffold = JAAIXI010000226.1, start = 6701243, end = 6701295
+Heliconius_nattereri,JAAIXI010000226.1,6682355,6682445,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+6
+5
+4
+8
+Heliconius_nattereri,JAAIXI010000226.1,6684500,6684655,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Heliconius_nattereri,JAAIXI010000226.1,6682355,6682445,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set47_frame2, 0.133
+5 top scores:
+[['set47_frame2', 0.133], ['set56_frame1', 1.635], ['set23_frame2', 1.685], ['set23_frame0', 1.655], ['set35_frame2', 1.721]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_nattereri/Period_gene_genomic_sequence_individual_exon_Nymphalis_io/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_47_frame2.fa.txt
+23 52
+set47_frame2
+DTSSESPHHHQYDKPPPPAQYVPVFALNA
+Original query = DTSSDSPHHHQYDKPPPPTQYVPVFALNSL
+New query = DTSSESPHHHQYDKPPPPAQYVPVFALNA
+['Exon_2', 'Exon_3', 'Exon_4', 'Exon_5', 'Exon_6', 'Exon_7', 'Exon_8']
+Scaffold = JAAIXI010000226.1, start = 6701243, end = 6701295
+Heliconius_nattereri,JAAIXI010000226.1,6686110,6686242,1,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+1
+4
+Heliconius_nattereri,JAAIXI010000226.1,6701243,6701295,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Heliconius_nattereri,JAAIXI010000226.1,6684500,6684655,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Getting Gene
+min = set391_frame0, 0.461
+5 top scores:
+[['set391_frame0', 0.461], ['set355_frame1', 1.641], ['set113_frame2', 1.711], ['set235_frame2', 1.745], ['set217_frame2', 1.77]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_nattereri/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_2/for_alignment/alignment_Exon_2_translated_genomic_sequence_391_frame0.fa.txt
+8 46
+Vanessa_tameamea_XM_026630430.1_Frame_1_rightoh_0_query_Exon_2
+YNSNDGFGRAGELNFAAPSEDEADYPPAAYLKKGKVSR
+8 46
+set391_frame0
+YNSNDGFGRVGELNFAAPSEDEGEYASSAY-KKGKVSR
+Original query = YNSNDGFGRAGELNFAAPSEDEADYPPAAYLKKGKVSR
+New query = YNSNDGFGRVGELNFAAPSEDEGEYASSAY-KKGKVSR
+Scaffold = JAAIXI010000226.1, start = 6701243, end = 6701295
+Heliconius_nattereri,JAAIXI010000226.1,6685709,6685892,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+1
+5
+6
+7
+Heliconius_nattereri,JAAIXI010000226.1,6701243,6701295,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_2_query_Exon_1,1,17,17
+
+Heliconius_nattereri,JAAIXI010000226.1,6682878,6683024,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,11,45,45
+
+Getting Gene
+min = set355_frame1, 0.053
+5 top scores:
+[['set355_frame1', 0.053], ['set96_frame2', 1.755], ['set91_frame2', 1.82], ['set145_frame2', 1.822], ['set388_frame2', 1.825]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_nattereri/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_3/for_alignment/alignment_Exon_3_translated_genomic_sequence_355_frame1.fa.txt
+13 78
+Vanessa_tameamea_XM_026630430.1_Frame_0_rightoh_1_query_Exon_3
+VLLQQDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+13 78
+set355_frame1
+FYLQQDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Original query = VLLQQDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+New query = FYLQQDPMSHRIIEKRRRDRMNNCLADLSRLIPPEYLKKGRGRVEKTEIIEMAIRHLKFLQDRVN
+Scaffold = JAAIXI010000226.1, start = 6701243, end = 6701295
+Heliconius_nattereri,JAAIXI010000226.1,6684500,6684655,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+2
+6
+7
+Heliconius_nattereri,JAAIXI010000226.1,6686110,6686242,1,N,Danaus_plexippus_XM_032655043.2_Frame_1_rightoh_0_query_Exon_2,2,42,42
+
+Heliconius_nattereri,JAAIXI010000226.1,6682878,6683024,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,11,45,45
+
+Getting Gene
+min = set26_frame2, 0.396
+5 top scores:
+[['set26_frame2', 0.396], ['set36_frame1', 1.797], ['set6_frame2', 1.822], ['set37_frame0', 1.848], ['set52_frame0', 1.715]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_nattereri/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_4/for_alignment/alignment_Exon_4_translated_genomic_sequence_26_frame2.fa.txt
+9 62
+Vanessa_tameamea_XM_026630430.1_Frame_2_rightoh_1_query_Exon_4
+AERQAGDDYRTGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEIVTK
+9 62
+set26_frame2
+AERQ-GADFRSGYQEAVTEALRFLVEVQGFGPGDGLCVQMASHLQRHGEVVTK
+Original query = AERQAGDDYRTGYQEAVAEAVRFLVEVQGFGPGDGLCLQLASHLQRHCEIVTK
+New query = AERQ-GADFRSGYQEAVTEALRFLVEVQGFGPGDGLCVQMASHLQRHGEVVTK
+Scaffold = JAAIXI010000226.1, start = 6701243, end = 6701295
+Heliconius_nattereri,JAAIXI010000242.1,1378380,1378550,0,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_5,8,37,56
+
+3
+7
+Heliconius_nattereri,JAAIXI010000226.1,6685709,6685892,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_3,1,61,61
+
+Heliconius_nattereri,JAAIXI010000226.1,6682878,6683024,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,11,45,45
+
+Getting Gene
+min = set46_frame2, 0.797
+5 top scores:
+[['set46_frame2', 0.797], ['set31_frame2', 1.826], ['set55_frame0', 1.718], ['set8_frame1', 1.831], ['set14_frame1', 1.807]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_nattereri/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_5/for_alignment/alignment_Exon_5_translated_genomic_sequence_46_frame2.fa.txt
+21 79
+Vanessa_tameamea_XM_026630430.1_Frame_2_rightoh_1_query_Exon_5
+TRDKPRSHPGSSSETASSSSSSHGFGVKVIQRPELPPFPAETYDHERQEPPYAMECDR
+21 79
+set46_frame2
+IREKQRSHLGSSSETASSSSSSHGFAVKVIQRPEPPPVFPEPYD-ERPLESYPMECDR
+Original query = EHTRDKPRSHPGSSSETASSSSSSHGFGVKVIQRPELPPFPAETYDHERQEPPYAMECDR
+New query = IREKQRSHLGSSSETASSSSSSHGFAVKVIQRPEPPPVFPEPYD-ERPLESYPMECDR
+Scaffold = JAAIXI010000226.1, start = 6701243, end = 6701295
+Heliconius_nattereri,JAAIXI010000226.1,6683189,6683373,1,Y,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_0_query_Exon_6,12,60,60
+
+4
+8
+Heliconius_nattereri,JAAIXI010000226.1,6684500,6684655,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Heliconius_nattereri,JAAIXI010000226.1,6682355,6682445,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set33_frame0, 0.518
+5 top scores:
+[['set47_frame2', 1.799], ['set33_frame0', 0.518], ['set37_frame0', 1.818], ['set16_frame1', 1.836], ['set35_frame2', 1.861]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_nattereri/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_6/for_alignment/alignment_Exon_6_translated_genomic_sequence_33_frame0.fa.txt
+11 70
+Vanessa_tameamea_XM_026630430.1_Frame_2_rightoh_0_query_Exon_6
+LPAAEADAPRAPRAPLDGRLKREAALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDTE
+11 70
+set33_frame0
+VPAAEGE-----EVPVDGRLKREVALRKVRKPEHSDDYLHSYKFKNSIERRFSRSQDTE
+Original query = SLLPAAEADAPRAPRAPLDGRLKREAALRKVRKPEHTDDYLHSYKFKNSIERRFSRSQDTE
+New query = VPAAEGE-----EVPVDGRLKREVALRKVRKPEHSDDYLHSYKFKNSIERRFSRSQDTE
+Scaffold = JAAIXI010000226.1, start = 6701243, end = 6701295
+Heliconius_nattereri,JAAIXI010000226.1,6682878,6683024,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_0_query_Exon_7,11,45,45
+
+5
+4
+8
+Heliconius_nattereri,JAAIXI010000226.1,6684500,6684655,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Heliconius_nattereri,JAAIXI010000226.1,6682355,6682445,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set35_frame2, 0.853
+5 top scores:
+[['set35_frame2', 0.853], ['set17_frame0', 1.744], ['set40_frame1', 1.759], ['set47_frame2', 1.77], ['set39_frame1', 1.805]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_nattereri/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_7/for_alignment/alignment_Exon_7_translated_genomic_sequence_35_frame2.fa.txt
+22 72
+Vanessa_tameamea_XM_026630430.1_Frame_0_rightoh_0_query_Exon_7
+SAEGAAHGKLYSHKRRRQAKPCAPPSTSASASASTSASASTEDAQDTSPQ
+22 72
+set35_frame2
+SRSNAVPHKAYSHKRRRAAKPAA---SATSASTSTSASGSTEDARDTSPQ
+Original query = SAEGAAHGKLYSHKRRRQAKPCAPPSTSASASASTSASASTEDAQDTSPQ
+New query = SRSNAVPHKAYSHKRRRAAKPAA---SATSASTSTSASGSTEDARDTSPQ
+Scaffold = JAAIXI010000226.1, start = 6701243, end = 6701295
+Heliconius_nattereri,JAAIXI010000226.1,6682355,6682445,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+6
+5
+4
+8
+Heliconius_nattereri,JAAIXI010000226.1,6684500,6684655,1,N,Danaus_plexippus_XM_032655043.2_Frame_2_rightoh_1_query_Exon_4,3,48,48
+
+Heliconius_nattereri,JAAIXI010000226.1,6682355,6682445,1,N,Danaus_plexippus_XM_032655043.2_Frame_0_rightoh_1_query_Exon_8,1,30,30
+
+Getting Gene
+min = set47_frame2, 0.133
+5 top scores:
+[['set47_frame2', 0.133], ['set56_frame1', 1.635], ['set23_frame2', 1.685], ['set23_frame0', 1.655], ['set35_frame2', 1.721]]
+/mnt/griffin/saubar/Working_folder_circadian_rhythm/11.CWO_Exon_Analysis/6.Heliconiinae_Danainae_Nymphalinae/1.Blast_result/Heliconius_nattereri/Period_gene_genomic_sequence_individual_exon_Vanessa_tameamea/Exon_8/for_alignment/alignment_Exon_8_translated_genomic_sequence_47_frame2.fa.txt
+23 52
+set47_frame2
+DTSSESPHHHQYDKPPPPAQYVPVFALNA
+Original query = DTSSDSPHHHQYDKPPPPTQYVPVFALNSL
+New query = DTSSESPHHHQYDKPPPPAQYVPVFALNA
